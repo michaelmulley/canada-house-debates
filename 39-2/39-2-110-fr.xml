@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="2527522">
+  <StartPageNumber>6849</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 142</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 110</ExtractedItem>
+    <ExtractedItem Name="Session">2<Sup>e</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">39<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le mercredi 11 juin 2008</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Peter Milliken</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">11 juin 2008</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 110 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 110 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 110 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">142</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">110</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">11</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2008</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2008/06/11 14:55:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">39</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">2</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="1153984">La séance est ouverte à 15 heures.</ParaText>
+      <Prayer>Prière</Prayer>
+      <SubjectOfBusiness id="2527941">
+        <Timestamp Hr="14" Mn="55">(1455)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle />
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2527532">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153985">J'invite les honorables députés à se lever pendant que nos distingués invités font leur entrée à la Chambre et prennent place.</ParaText>
+              <ParaText id="1153986">
+                <I>Applaudissements</I>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Loan" id="2527565">
+            <PersonSpeaking>
+              <Affiliation DbId="105838" Type="96">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes et ministre de la réforme démocratique, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153987">Monsieur le Président, après les déclarations de ministres, les chefs représentants pourront adresser une réponse. Pour que cela se fasse dans le respect des règles, des pratiques et des traditions de la Chambre, je sollicite le consentement unanime à l'égard de la motion suivante: </ParaText>
+              <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
+              <ParaText id="1153988">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant tout article du Règlement, ordre spécial ou usage habituel de la Chambre, la Chambre se forme en comité plénier dès la fin des Déclarations de ministres aujourd'hui afin de permettre à Phil Fontaine, chef national de l'Assemblée des Premières nations, Patrick Brazeau, chef national du Congrès des peuples autochtones, Mary Simon, présidente d’Inuit Tapiriit Kanatami, Clem Chartier, président du Ralliement national des Métis, et Beverly Jacobs, présidente de l’Association des femmes autochtones du Canada, de faire des déclarations en réponse à la déclaration ministérielle d’excuses aux anciens élèves des pensionnats indiens; que le Président soit autorisé à présider le comité plénier; qu’après ces déclarations, la séance du comité soit levée et que la Chambre ajourne ses travaux jusqu’au prochain jour de séance.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Goodale" id="2527571">
+            <PersonSpeaking>
+              <Affiliation DbId="78924" Type="2">L'hon. Ralph Goodale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153989">Monsieur le Président, au nom de l'opposition l'officielle, je déclare que nous sommes honorés de donner notre consentement.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Paquette" id="2527574">
+            <PersonSpeaking>
+              <Affiliation DbId="78635" Type="2">M. Pierre Paquette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153990">Monsieur le Président, évidemment, le Bloc québécois donne son consentement à cette motion.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Davies" id="2527576">
+            <PersonSpeaking>
+              <Affiliation DbId="78973" Type="2">Mme Libby Davies</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153991">Monsieur le Président, au nom du NPD, je déclare que nous donnons bien entendu notre consentement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527609">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153992"> Y a-t-il consentement unanime pour que nous procédions de cette façon? </ParaText>
+              <ParaText id="1153993">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="2">(La motion est adoptée.)</ProceduralText>
+              <ParaText id="1153994">
+                <B>Le Président:</B> Conformément à l'ordre adopté le mardi 10 juin 2008, la Chambre passe maintenant aux déclarations de ministres. </ParaText>
+              <ParaText id="1153995">Le très honorable premier ministre a la parole.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2527579">
+        <SubjectOfBusinessTitle>Déclarations de ministres</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Présentation d'excuses aux anciens élèves des pensionnats indiens</SubjectOfBusinessQualifier>
+        <CatchLine>Déclarations de ministres</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Statement" ToC="Yes" ToCText="M. Harper" id="2527580">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1153996">Monsieur le Président, avant de commencer mon discours officiel, je tiens à prendre un moment pour souligner le rôle joué par certains de nos collègues qui sont ici, à la Chambre des communes, dans les événements d'aujourd'hui. Quoique en dernier ressort, le responsable des excuses ce soit moi, plusieurs de mes collègues méritent un certain crédit.</ParaText>
+              <ParaText id="1153997">Tout d'abord, je tiens à remercier de leur dur labeur et de leur professionnalisme le <Affiliation DbId="111551" Type="4">ministre des Affaires indiennes et du Nord canadien</Affiliation> et son prédécesseur, maintenant <Affiliation DbId="111555" Type="4">ministre de l'Industrie</Affiliation>. Ces deux hommes ont été des partisans convaincus et passionnés, pas uniquement des excuses qui seront présentées aujourd'hui, mais également du règlement du dossier historique des pensionnats indiens que notre gouvernement a signé.</ParaText>
+              <ParaText id="1153998">En deuxième lieu, je m'en voudrais de ne pas féliciter mon ancien collègue de Cariboo—Chilcotin, Philip Mayfield, qui a été pendant très longtemps une voix forte au sein de notre caucus en faveur d'une action de grande portée au sujet de ce triste épisode de notre histoire.</ParaText>
+              <ParaText id="1153999">Enfin, le dernier, mais certainement pas le moindre, je tiens à remercier mon collègue, le chef du Nouveau Parti démocratique. Depuis un an et demi, il me parle régulièrement et avec beaucoup de conviction de la nécessité de présenter des excuses. Ses conseils, qui transcendent les partis politiques et qui sont dispensés avec confiance, ont été persuasifs et très appréciés.</ParaText>
+              <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154000">Je me lève aujourd'hui pour présenter nos excuses aux anciens élèves des pensionnats indiens. Le traitement des enfants dans ces pensionnats est un triste chapitre de notre histoire. </ParaText>
+              <ParaText id="1154001">Pendant plus d'un siècle, les pensionnats indiens ont séparé plus de 150 000 enfants autochtones de leurs familles et de leurs communautés.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154002">Dans les années 1870, en partie afin de remplir son obligation d’instruire les enfants autochtones, le gouvernement fédéral a commencé à jouer un rôle dans l’établissement et l’administration de ces écoles.</ParaText>
+              <ParaText id="1154003"> Le système des pensionnats indiens visait deux objectifs principaux: isoler les enfants et les soustraire à l’influence de leurs foyers, de leurs familles, de leurs traditions et de leur culture, et les intégrer par l’assimilation dans la culture dominante.</ParaText>
+              <ParaText id="1154004"> Ces objectifs reposaient sur l’hypothèse que les cultures et les croyances spirituelles des Autochtones étaient inférieures.</ParaText>
+              <ParaText id="1154005"> D’ailleurs, certains cherchaient, selon une expression devenue tristement célèbre, « à tuer l’Indien au sein de l’enfant ». </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154006">Aujourd'hui, nous reconnaissons que cette politique d'assimilation était erronée, qu'elle a fait beaucoup de mal et qu'elle n'a aucune place dans notre pays. Cent trente-deux écoles financées par le fédéral se trouvaient dans chaque province et territoire, à l'exception de Terre-Neuve, du Nouveau-Brunswick et de l'Île-du-Prince-Édouard. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154007"> La plupart des pensionnats étaient dirigés conjointement avec les Églises anglicane, catholique, presbytérienne ou unie.</ParaText>
+              <ParaText id="1154008">Le gouvernement du Canada a érigé un système d’éducation dans le cadre duquel de très jeunes enfants ont souvent été arrachés à leur foyer et, dans bien des cas, emmenés loin de leur communauté.</ParaText>
+              <ParaText id="1154009"> Bon nombre d’entre eux étaient mal nourris, mal vêtus et mal logés. Tous étaient privés des soins et du soutien de leurs parents, de leurs grands-parents et de leur communauté.</ParaText>
+              <ParaText id="1154010"> Les langues et les pratiques culturelles des Premières nations, des Inuits et des Métis étaient interdites dans ces écoles.</ParaText>
+              <ParaText id="1154011"> Malheureusement, certains de ces enfants sont morts en pension et d’autres ne sont jamais retournés chez eux.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154012">Le gouvernement reconnaît aujourd'hui que les conséquences de la politique sur les pensionnats indiens ont été très néfastes et que cette politique a causé des dommages durables à la culture, au patrimoine et à la langue autochtones.</ParaText>
+              <ParaText id="1154013">Bien que certains anciens élèves aient dit avoir vécu une expérience positive dans ces pensionnats, leur histoire est de loin assombrie par les témoignages tragiques sur la négligence et l'abus émotifs, physiques et sexuels d'enfants sans défense, et par leur séparation de familles et de communautés impuissantes à les aider.</ParaText>
+              <ParaText id="1154014">L'héritage laissé par les pensionnats indiens a contribué à des problèmes sociaux qui persistent dans de nombreuses communautés aujourd'hui.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154015">Il a fallu un courage extraordinaire aux milliers de survivants qui ont parlé publiquement des mauvais traitements qu’ils ont subis. Ce courage témoigne de leur résilience personnelle et de la force de leur culture.</ParaText>
+              <ParaText id="1154016"> Malheureusement, beaucoup des anciens élèves sont décédés avant d’avoir reçu les excuses du gouvernement du Canada. </ParaText>
+              <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154017">Le gouvernement reconnaît que l'absence d'excuses a nui à la guérison et à la réconciliation. Alors, au nom du gouvernement du Canada et de tous les Canadiens et Canadiennes, je me lève devant vous, dans cette Chambre si vitale à notre existence en tant que pays, pour présenter nos excuses aux peuples autochtones pour le rôle joué par le Canada dans les pensionnats pour Indiens.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154018">Devant les quelque 80 000 anciens élèves toujours en vie, devant les membres de leurs familles et de leurs communautés, le gouvernement du Canada admet aujourd’hui qu’il a eu tort d’arracher les enfants à leur foyer et s’excuse d’avoir agi ainsi.</ParaText>
+              <ParaText id="1154019"> Nous reconnaissons maintenant que nous avons eu tort de couper les enfants de leur culture et de leurs traditions riches et vivantes, créant ainsi un vide dans tant de vies et de communautés, et nous nous excusons d’avoir agi ainsi.</ParaText>
+              <ParaText id="1154020">Nous reconnaissons maintenant qu’en séparant les enfants de leurs familles, nous avons réduit la capacité de nombreux anciens élèves à élever adéquatement leurs propres enfants et avons scellé le sort des générations qui ont suivi, et nous nous excusons d’avoir agi ainsi.</ParaText>
+              <ParaText id="1154021"> Nous reconnaissons maintenant que, beaucoup trop souvent, ces institutions donnaient lieu à des cas de sévices ou de négligence et n’étaient pas contrôlées de manière adéquate, et nous nous excusons de ne pas avoir su vous protéger.</ParaText>
+              <ParaText id="1154022"> En plus d'avoir vous-mêmes subi ces mauvais traitements pendant votre enfance, une fois devenus parents à votre tour, vous avez été impuissants à éviter le même sort à vos enfants, et nous le regrettons. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154023">Le fardeau de cette expérience pèse sur vos épaules depuis beaucoup trop longtemps. Ce fardeau nous revient directement, en tant que gouvernement et en tant que pays. Il n'y a pas de place au Canada pour que les attitudes qui ont inspiré le système de pensionnats indiens puissent prévaloir à nouveau. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154024">Vous tentez de vous remettre de cette épreuve depuis longtemps, et d’une façon très concrète, nous vous rejoignons maintenant dans ce cheminement. Le gouvernement du Canada présente ses excuses les plus sincères aux peuples autochtones du Canada pour avoir si profondément manqué à son devoir envers eux, et leur demande pardon. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154025">Nous le regrettons.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154026">[<I>Nimitataynan. Niminchinowesamin. Mamiattugut.</I>]</ParaText>
+              <ParaText id="1154027">Entrée en vigueur le 19 septembre 2007, la Convention de règlement relative aux pensionnats indiens s’inscrit dans une démarche de guérison, de réconciliation et de règlement des tristes séquelles laissées par les pensionnats indiens. Des années d’efforts de la part des survivants, des communautés et des organisations autochtones ont abouti à une entente qui nous permet de prendre un nouveau départ et d’aller de l’avant en partenariat. </ParaText>
+              <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
+              <ParaText id="1154029">La Commission de divulgation des faits et de réconciliation est au cœur de la Convention de règlement. Cette commission constitue une occasion unique de sensibiliser tous les Canadiens à la question des pensionnats indiens. Il s’agira d’une étape positive dans l’établissement d’une nouvelle relation entre les peuples autochtones et les autres Canadiens, une relation basée sur la connaissance de notre histoire commune, sur un respect mutuel et sur le désir de progresser ensemble, avec la conviction renouvelée que des familles fortes, des communautés solides et des cultures et des traditions bien vivantes contribueront à bâtir un Canada fort pour chacun de nous. </ParaText>
+              <ParaText id="1154030">Que Dieu vous bénisse et bénisse notre pays.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Statement" ToC="Yes" ToCText="M. Dion" id="2527591">
+            <PersonSpeaking>
+              <Affiliation DbId="105459" Type="96">L'hon. Stéphane Dion (chef de l'opposition, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154031">Monsieur le Président, aujourd’hui, le Canada fait face à l’un des chapitres les plus sombres de son histoire.</ParaText>
+              <ParaText id="1154032">On a voulu forcer les Autochtones à s'assimiler par le biais du système de pensionnats indiens, un système qui est malheureusement plus vieux que la Confédération elle-même. Ce sont des écoles qui visaient à « sortir l’Indien de l’enfant » et à éradiquer son identité autochtone. Leur fonctionnement était axé sur la séparation de l’enfant de sa famille et de sa communauté. Elles étaient conçues pour arracher l’enfant à son identité, à sa culture, à ses croyances et à sa langue autochtones. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154033">C'est un système déshumanisant qui a mené aux pires abus.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154034">Cette politique gouvernementale a déchiré le tissu familial parmi les Premières nations, les Métis et les Inuits. Elle a tué l’estime de soi chez les parents comme chez les enfants. Les parents et les grands-parents n’ont pas eu le choix. Leurs enfants leur ont été volés.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154035">Et seulement aujourd'hui commençons-nous à mesurer le prix terrible de ces mauvaises politiques.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154036"> La réalité d’aujourd’hui est issue du système de pensionnats indiens. Le présent est hanté par le passé tragique et douloureux des enfants des Premières nations, des enfants métis et des enfants inuits, de leur famille et de leur communauté. C'est un triste et lourd passé que tous les Canadiens doivent accepter d’inclure dans leur histoire.</ParaText>
+              <ParaText id="1154037">Pendant trop longtemps, les gouvernements canadiens ont choisi de nier plutôt que d’admettre la vérité. Lorsqu’ils ont été confrontés au poids de la vérité, ils ont choisi le silence. Pendant trop longtemps, les gouvernements canadiens ont refusé de reconnaître leur rôle direct dans la création du système de pensionnats indiens et dans la poursuite de leur triste et insidieux objectif qu’était l’élimination de la culture et de l’identité autochtones. Pendant trop longtemps, les gouvernements canadiens ont choisi d’ignorer les conséquences de ce drame plutôt que de tenter de les comprendre, de sorte que la souffrance persiste encore aujourd’hui parmi les Premières nations, les Métis et les Inuits. </ParaText>
+              <ParaText id="1154038">Permettez-moi de citer un passage de la condamnation prononcée par la Commission royale sur les peuples autochtones en 1996:</ParaText>
+              <ParaText id="1154039">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Pourtant, sauf quelques rares exceptions, aucun haut fonctionnaire, aucun ecclésiastique et aucun député ne s'est insurgé contre le principe des pensionnats ou contre leur caractère abusif. Bien sûr, le souvenir ne s'est pas dissipé et n'a toujours pas disparu des mémoires. Il a persisté, s'est amplifié et a pris l'allure d'un spectre lugubre [...]</QuotePara>
+                </Quote>
+              </ParaText>
+              <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154040">C'est la première pierre que l'on doit poser pour ce monument pour la vérité, la réconciliation et un avenir meilleur. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154041">Aujourd’hui, en tant que représentants du peuple canadien, nous offrons nos excuses à ceux qui ont survécu aux pensionnats indiens et à ceux qui sont morts à cause des lois adoptées par les gouvernements et les législatures précédents. En parlant directement aux victimes et aux survivants dans l’enceinte de la Chambre des communes, nous offrons nos excuses à ceux qui sont morts sans avoir entendu ni ces paroles ni la reconnaissance de ces torts. </ParaText>
+              <ParaText id="1154042">Les gouvernements canadiens successifs et diverses Églises ont été complices des violences psychologiques, physiques et sexuelles commises contre des milliers d’enfants autochtones dans le système des pensionnats. À titre de chef du Parti libéral du Canada, qui a formé le gouvernement pendant plus de 70 ans au XX<Sup>e</Sup> siècle, je reconnais notre rôle et notre part de responsabilité dans ce drame. J’en suis profondément désolé et je présente nos excuses.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154043">Je suis désolé que le Canada ait essayé d'effacer votre identité et votre culture en vous arrachant à vos familles lorsque vous étiez enfants, et en créant un système pour vous punir d'être ce que vous étiez.</ParaText>
+              <ParaText id="1154044">À vous, mères et pères inuits, métis et des Premières nations, je dis que je suis désolé qu'on vous ait volé vos enfants; désolé qu'on n'ait pas reconnu votre valeur comme parents; désolé qu'on vous ait manqué de respect et de confiance.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154045">Les excuses que nous présentons aujourd'hui visent un passé qui aurait dû être entièrement différent. Mais elles doivent aussi nous permettre de nous tourner vers l'avenir, de procéder à une réconciliation collective et d'apporter des changements fondamentaux. </ParaText>
+              <ParaText id="1154046">Elles doivent nous permettre de progresser ensemble, Autochtones et non-Autochtones, vers un avenir fondé sur le respect. Elles doivent nous aider à trouver au fond de chacun de nous une partie de l'immense courage que nous voyons dans les yeux de ceux et celles qui ont survécu. </ParaText>
+              <ParaText id="1154047">Elles doivent nous permettre d'être inspirés par la détermination de survivants comme le chef national Phil Fontaine et Willie Blackwater, qui ont eu le courage de parler haut et fort et d’exiger que justice soit faite. Elles doivent nous inciter à poursuivre les efforts de l'ancien député Gary Merasty, membre des Premières nations, qui a présenté une motion demandant que le gouvernement présente des excuses officielles aux survivants des pensionnats indiens, motion adoptée à l’unanimité par la Chambre le 1<Sup>er</Sup> mai 2007.</ParaText>
+              <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154048">Pour réussir, nous devons nous engager à fond dans le travail de la Commission de la vérité et de la réconciliation, présidée par le juge Harry LaForme, et chargée d'enquêter sur tous les aspects du système des pensionnats indiens au Canada. </ParaText>
+              <ParaText id="1154049">Cela signifie qu'il nous faudra entendre les témoignages des victimes de violences physiques, mentales et sexuelles. Cela signifie qu'il nous faudra comprendre pourquoi et comment le Canada a laissé les pensionnats indiens propager la maladie, la mort, la tuberculose, la pneumonie. Cela signifie aussi qu'il nous faudra découvrir ce qui est réellement arrivé aux nombreux enfants qui ont disparu dans des tombes anonymes. </ParaText>
+              <ParaText id="1154050">Cela veut dire donner une voix à ceux que le Canada a fait taire. Cela veut dire donner un nom à ceux dont l'identité a été effacée. Cela veut dire montrer notre respect à ceux que nous avons humiliés. Cela veut dire comprendre la douleur des parents et des familles abandonnés et, à cause de nos actions, abîmés à tout jamais. </ParaText>
+              <ParaText id="1154051">Nous devons écouter attentivement les victimes qui vont porter témoignage à la Commission de la vérité et de la réconciliation et nous devons être prêts à entendre la commission rendre compte d'un passé collectif vraiment honteux. Ensemble et en tant que pays, nous devons faire face à la vérité pour que plus jamais nous n'ayons à présenter des excuses à une autre génération, pour que plus jamais ne se reproduise une telle tragédie. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154052">Je prononce ces mots en pensant aux survivants et aux survivantes que j’ai rencontrés hier soir. L’une d’elles se souvient encore de sa petite enfance, passée avec sa famille dans une communauté isolée. Elle avait sept ans quand son père l’a menée en canot au pensionnat indien. Ses jours passés avec ses parents et ses frères et soeurs, elle en a un souvenir merveilleux. Toutefois, elle ne se souvient pas  ses deux années passées au pensionnat. C’est ainsi qu’elle a réussi à survivre aux mauvais traitements qu’elle y a subis.</ParaText>
+              <ParaText id="1154053">Une autre survivante, Marion Ironquill-Meadmore, m’a parlé des dix ans qu’elle a passés dans une institution religieuse. La première leçon qu’on lui a apprise, c’est que ses parents ne valaient rien. Quand elle a quitté l’institution après dix ans, elle s’est trouvée perdue dans les deux mondes, celui des Autochtones et celui des non-Autochtones, incapable de retourner dans sa communauté d’origine et incapable de fonctionner ailleurs.</ParaText>
+              <ParaText id="1154054">Pour que la réconciliation se fasse, il va falloir que la société canadienne s’engage à agir. Cela signifie qu’il faut veiller à ce que tous les Canadiens autochtones — Premières nations, Métis et Inuits — puissent profiter, eux aussi, des richesses et des possibilités qu’offre le Canada. Cela signifie qu'il faut nous assurer d'entendre les voix des Premières nations, des Métis et des Inuits dans leurs propres langues et veiller à ce que ces voix et ces langues autochtones continuent d'enrichir le patrimoine culturel mondial.</ParaText>
+              <ParaText id="1154055">Il ne faut pas que nous nous laissions intimider par l’envergure de ce défi, ni décourager par les échecs du passé. Nous devons léguer à tous nos enfants un pays encore meilleur que celui que nos parents nous ont légué. Nous n’y arriverons pas tant que les Autochtones seront laissés pour compte.</ParaText>
+              <ParaText id="1154056">Quatre ans après la conclusion des travaux de la Commission de la vérité et de la réconciliation, le Canada va souligner le 150<Sup>e</Sup> anniversaire de la Confédération. Ce jour-là, j'espère sincèrement que sera exaucé l’espoir exprimé il y a 60 ans, dans cet édifice même, par l’ancien combattant autochtone décoré Thomas Prince, l’espoir d’une nouvelle relation entre les Premières nations, les Métis, les Inuits et les non-Autochtones de notre pays, « afin qu’il puissent se faire confiance et [...] marcher côte à côte sur cette Terre dans la foi et la confiance mutuelles. »</ParaText>
+              <ParaText id="1154057">En attendant, nous offrons humblement nos excuses, qui représentent un premier pas dans la voie de la guérison et de la réconciliation. </ParaText>
+              <ParaText id="1154058">Merci. Thank you. <I>Meegwetch. Ekosi. Nakurmiik.</I></ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Statement" ToC="Yes" ToCText="M. Duceppe" id="2527604">
+            <PersonSpeaking>
+              <Affiliation DbId="78493" Type="2">M. Gilles Duceppe (Laurier—Sainte-Marie, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154059">Monsieur le Président, je suis heureux de vivre ce moment où le gouvernement canadien offre enfin ses excuses aux membres des Premières nations, des Métis et des Inuits qui ont été victimes des pensionnats fédéraux.</ParaText>
+              <ParaText id="1154060">Près de 150 000 personnes ont attendu toute leur vie cette journée de vérité et de réconciliation; 90 000 sont toujours vivantes. En fait, ces 90 000 personnes sont des survivantes et des survivants. Il y a déjà plus de 100 ans, le rapport Bryce révélait un taux de mortalité de près de 25 p. 100 dans ces pensionnats. Ce taux atteignait même 47 p. 100 dans le pensionnat Old Sun's de l'Alberta. Voilà pourquoi je dis que les anciens élèves sont des survivants.</ParaText>
+              <ParaText id="1154061">Ces 150 000 personnes ont été enlevées des bras de leur mère et de leur père. Ils ont été séparés de leurs sœurs et frères. Ils ont été arrachés de force à leur communauté et à leur culture traditionnelle.</ParaText>
+              <ParaText id="1154062">Pour ceux et celles qui ne peuvent s'imaginer les impacts que les pensionnats ont eus sur les peuples autochtones, ayez une image en tête: pensez à un petit village, une petite communauté, duquel on retire les enfants, tous les enfants. Dès lors, il n'y a plus d'enfants de 7 à 16 ans qui jouent dans les rues ou dans les forêts, inondant de leurs rires et de leurs joies le cœur des plus vieux. De plus, il y a cette crainte toujours présente de voir les enfants disparaître dès qu'ils atteignent l'âge scolaire.</ParaText>
+              <ParaText id="1154063">Et puis, il y a ces rumeurs qui circulent quant au traitement que les enfants subissent. C'est terrible d'y penser encore aujourd'hui. Les enfants ont été tirés des bras de leur mère pour être assimilés. Ils ont été enlevés et élevés dans un seul but: tuer « l'Indien dans l'enfant ». Obligés de désapprendre leur langue, ces enfants ne pouvaient plus communiquer avec leurs propres parents. Tout cela est bien réel et fait partie de notre histoire à tous.</ParaText>
+              <ParaText id="1154064">Entre 1934 et 1962, six pensionnats ont vu le jour au Québec, deux en Terre crie, un en Terre algonquine, un chez les Attikameks et deux chez les Innus. Ces pensionnats ont laissé, comme partout ailleurs, des blessures causées par des abus, des sévices et des négligences.</ParaText>
+              <ParaText id="1154065">Roméo Saganash, qui a lui-même survécu aux pensionnats, m'a raconté l'histoire de son frère décédé au bout d'un an. Jamais sa famille n'a pu apprendre la raison de sa mort, et il a fallu 40 ans — 40 longues années — avant que sa mère ne retrouve l'endroit où il avait été enterré. Il est impossible d'effacer ces profondes cicatrices, de réparer les âmes cassées par la mémoire.</ParaText>
+              <ParaText id="1154066">Pourtant, ces excuses sont nécessaires. Elles sont nécessaires, mais non suffisantes. Comme le dit en effet Roméo Saganash: « Des excuses, une fois exprimées, ne valent que les gestes qui les suivent. » Pour ceux qui ont perdu leur enfance dans les pensionnats, les meilleures excuses sont faites de gestes concrets qui permettront à leurs enfants et à leurs petits-enfants de voir l'avenir avec espoir. Cela signifie que le gouvernement doit agir maintenant, de façon bien concrète.</ParaText>
+              <ParaText id="1154067">Par exemple, on constate que le gouvernement n'investit pas les sommes nécessaires pour permettre le plein épanouissement de la jeunesse autochtone. Par exemple, quand des problèmes qui touchent les enfants surviennent, le gouvernement préconise que ces enfants soient retirés de leur milieu afin de les protéger. On répète en quelque sorte les erreurs du passé.</ParaText>
+              <ParaText id="1154068">Avec les Premières nations du Québec, nous demandons depuis plus d'un an que des sommes supplémentaires leur soient confiées afin que les enfants puissent rester dans leur communauté. Ne croit-on pas qu'il y a déjà eu assez d'enfants autochtones enlevés à leur communauté dans le passé?</ParaText>
+              <ParaText id="1154069">Voici un autre exemple: l'Assemblée des Premières Nations du Québec et du Labrador attend depuis plus d'un an et demi une réponse du gouvernement pour mettre en place le projet « 10 000 possibilités ».</ParaText>
+              <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+              <ParaText id="1154070">Ce plan sur dix ans consiste à construire 10 000 logements, à faire en sorte que 10 000 jeunes de plus obtiennent leur diplôme d'études secondaires et à créer 10 000 nouveaux emplois. </ParaText>
+              <ParaText id="1154071">Si les excuses du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> sont sincères, qu'il en profite pour agir concrètement. Nous l'appuierons.</ParaText>
+              <ParaText id="1154072">Et finalement, il y a cette disgrâce: le refus du gouvernement d'endosser la Déclaration des Nations Unies sur les droits des peuples autochtones. Le Bloc québécois a donné un appui clair à ce projet de déclaration et j'en suis très fier. En acceptant d'endosser la déclaration, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a l'occasion de démontrer clairement aux peuples autochtones qu'il a appris des erreurs du passé et qu'il prend l'engagement solennel auprès des victimes que leurs enfants et leurs petits-enfants auront doit au respect et à la dignité. </ParaText>
+              <ParaText id="1154073">Je m'adresse à vous, représentants et représentantes autochtones présents sur le parquet de la Chambre, ou vous qui nous écoutez du haut de la tribune. Tous les députés du Bloc québécois se joignent à moi pour vous tendre la main afin que, tous ensemble, nous puissions construire un avenir meilleur pour nos enfants et nos petits-enfants.</ParaText>
+              <ParaText id="1154074">Cela passe par des relations de respect qui ne peuvent être que de nation à nation, et rien d'autre. </ParaText>
+              <ParaText id="1154075">Au nom du Bloc québécois, je vous offre des excuses sincères pour le passé et je nous invite à bâtir l'avenir entre nations.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Layton" id="2527611">
+            <PersonSpeaking>
+              <Affiliation DbId="78385" Type="2">L'hon. Jack Layton (Toronto—Danforth, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154076">Monsieur le Président, je prends la parole à la Chambre aujourd'hui pour ajouter la voix du Nouveau Parti démocratique à celles des autres partis qui présentent très humblement des excuses sincères aux Premières nations, aux Métis et aux Inuits au nom des Canadiens.</ParaText>
+              <ParaText id="1154077">J'aimerais rendre hommage aux aînés qui sont des nôtres aujourd'hui et à ceux qui prennent part à cette cérémonie d'un bout à l'autre du pays en ce moment. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154078">J'aimerais rendre hommage aux chefs des Premières nations, des Métis et des Inuits qui sont ici avec nous et à tous ceux qui guident leur communauté en cette journée difficile, émotive, importante et pleine d'espoir. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154079">Je rends hommage aux enfants, les enfants ici présents et ceux qui nous écoutent en groupes à la maison partout au pays, qui sont témoins des séquelles laissées par les pensionnats.</ParaText>
+              <ParaText id="1154080">Par-dessus tout, je veux que les survivants des pensionnats, dont quelques-uns se sont joints à nous aujourd'hui, sachent que nous déplorons ce qui est arrivé.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154081">Aujourd'hui, nous marquons un moment très important pour le Canada. C'est le moment où nous, en tant que Parlement, en tant que pays, assumons la responsabilité d'une des époques les plus honteuses de notre histoire. C'est le moment de dire, enfin, que nous nous excusons. C'est le moment où nous commençons à bâtir un avenir partagé, sur un pied d'égalité, en nous appuyant sur le respect mutuel et la vérité. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154082">C'est le Parlement du Canada qui a promulgué, il y a 151 ans, la loi raciste instituant les pensionnats. C'est lui qui a décidé de ne pas traiter les membres des Premières nations, les Métis et les Inuits comme des être humains égaux. Il s'était donné pour mission de tuer l'Indien dans l'enfant. Cette décision tout à fait répréhensible a causé des souffrances incroyables, privant les Premières nations, les Métis et les Inuits de la liberté fondamentale de choisir leur mode de vie. Nous sommes vraiment navrés de tous ces torts qui leur ont été causés. </ParaText>
+              <ParaText id="1154083">Leurs enfants ont été privés de l'amour et du soutien de leur famille et de leur collectivité à cause de la décision que nous avons prise.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154084">Cela a privé ces enfants de la fierté et de l'estime de soi qui découlent de l'apprentissage de son patrimoine, de sa langue, de sa culture et de ses traditions. En plus de ces blessures, il y a notre négligence, les soins de santé inadéquats, les mauvais traitements et les sévices sexuels qui ont porté atteinte à tant d'enfants et qui en ont tué. </ParaText>
+              <ParaText id="1154085">Ceux qui ont survécu ont appris, à cause des politiques du Canada, à avoir honte de qui ils sont. </ParaText>
+              <ParaText id="1154086">Pour ces actions néfastes, nous nous excusons. </ParaText>
+              <ParaText id="1154087">L'héritage des pensionnats jette une ombre sur notre pays. Cela a déchiré des familles et des communautés pendant des générations et cela se fait toujours sentir, très personnellement. </ParaText>
+              <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154088">Presque tous les membres des Premières nations de mon âge qu'il m'a été donné de rencontrer sont des survivants des pensionnats. Nombreux sont ceux aussi qui sont les enfants de survivants. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154089">Un de ces enfants m'a parlé de sa mère, une Crie du Nord du Québec, à qui on a enlevé 12 de ses 14 enfants. Son frère est mort dans un pensionnat, mais on n'a jamais expliqué pourquoi ni comment à sa mère. On ne lui a jamais dit où son fils était enterré. Elle n'a pas eu le droit de rendre hommage à sa vie ni à sa mort. Et elle n'a pas pu faire son deuil ni ses derniers adieux à son enfant, comme toute mère doit le faire.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154090">Des années plus tard, sa fille, qui travaillait dans le Nord de l'Ontario, a raconté en passant l'histoire de son frère à un homme de l'endroit qui lui a dit: « Je sais où ton frère est enterré. » Ils se sont rendus au cimetière, et il a indiqué du doigt le sol à côté d'une pierre tombale en disant: « Ton frère est enterré ici, dans l'anonymat. » </ParaText>
+              <ParaText id="1154091">Tant les enfants forcés à aller vivre dans les pensionnats autochtones que les parents à qui on a arraché les enfants ressentent profondément la souffrance infligée par ces pensionnats. Elle se ressent encore au sein des collectivités des Premières nations, des Métis et des Inuits partout au pays.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154092">Le déchirement des liens familiaux et communautaires, les blessures psychologiques, la perte de langue et de culture, et l'éducation inférieure ont tous mené à la pauvreté généralisée qui sévit dans les communautés des Premières nations, des Métis et des Inuits aujourd'hui. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154093">Les horreurs des pensionnats indiens hantent encore aujourd'hui des gens qui ne les ont pas vécues personnellement. </ParaText>
+              <ParaText id="1154094">Il ne peut y avoir d'équivoque. Ce sont des lois sciemment adoptées par cette Chambre qui ont permis la création des pensionnats indiens et le maintien pendant de nombreuses années de ce système. </ParaText>
+              <ParaText id="1154095">Le processus de réconciliation doit commencer ici, à la Chambre. Voilà pourquoi nous sommes réunis ici aujourd'hui pour exprimer nos regrets. Cette présentation d'excuses constitue une première étape cruciale. </ParaText>
+              <ParaText id="1154096">Toutefois, la réconciliation doit être axée sur des mesures positives qui expriment le respect et qui rétablissent la confiance. Ces excuses ne doivent pas marquer la fin du processus, mais bien le début de celui-ci. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154097">Il faut s'engager à ne jamais permettre qu'une telle parodie de justice et une telle transgression de l'égalité se reproduisent. </ParaText>
+              <ParaText id="1154098">Cela commence en reconnaissant officiellement les droits et les cultures des Premières nations, des Métis et des Inuits et en signant la Déclaration de l'ONU sur les droits des peuples autochtones. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1154099">La réconciliation signifie également que, en tant que Parlement et  pays, nous devons prendre des mesures pour remédier aux terribles inégalités auxquelles sont confrontés les Premières nations, les Métis et les Inuits. Nous pouvons commencer en rétablissant la relation de nation à nation entre le gouvernement du Canada et les Premières nations, les Métis et les Inuits.</ParaText>
+              <ParaText id="1154100">Au moment même où nous nous parlons aujourd'hui, des milliers d'enfants autochtones sont privés d'écoles appropriées, d'eau potable, de nourriture adéquate, d'un lit bien à eux, de soins de santé de qualité, de sécurité, de confort, d'une terre et de droits. </ParaText>
+              <ParaText id="1154101">Désormais, nous ne pouvons plus baisser les bras et prétendre qu'il n'y a rien à faire. Si nous voulons assumer notre responsabilité et travailler à la réconciliation, nous devons dire « Unissons nos efforts pour régler le problème ».</ParaText>
+              <ParaText id="1154102">Renversons la vapeur et faisons changer les statistiques horribles et honteuses liées à l'affligeante réalité des populations autochtones, notamment les taux élevés de pauvreté et de suicide, l'absence d'éducation ainsi que le surpeuplement et la détérioration des logements et l'insalubrité de l'eau potable. Assurons-nous que les survivants des pensionnats indiens reçoivent la reconnaissance et l'indemnisation qui leur sont dues. </ParaText>
+              <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154103">Il faut que ce soit notre engagement sérieux et collectif. Nous devons tous, les Premières nations, Métis et Inuits, les Canadiens qui sont ici depuis des générations et les néo-Canadiens, bâtir ensemble un avenir juste, équitable et respectueux. </ParaText>
+              <ParaText id="1154106">
+                <I>Meegwetch. Ekosi. Nakurmiik.</I>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527617">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154107">Conformément à l'ordre adopté plus tôt aujourd'hui, la Chambre se formera en comité plénier. Je quitte maintenant le fauteuil.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2527620">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <ProceduralText TocType="TCC" TocText="Formation de la Chambre en comité plénier, sous la présidence de M. Peter Milliken, pour donner la parole aux représentants de l'Assemblée des Premières Nations, du Congrès des Peuples Autochtones, de l'Inuit Tapiriit Kanatami, du Ralliement national des Métis et de l'Association des femmes autochtones du Canada" id="3">(La Chambre se constitue en comité plénier pour donner la parole aux représentants de l'Assemblée des Premières Nations, du Congrès des Peuples Autochtones, de l'Inuit Tapiriit Kanatami, du Ralliement national des Métis et de l'Association des femmes autochtones du Canada, sous la présidence de M. Peter Milliken.)</ProceduralText>
+          <ParaText id="1154108">
+            <I>[Et les représentants étant présents à la Chambre:]
+
+</I>
+          </ParaText>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527621">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154109">J'invite Phil Fontaine, le chef national de l'Assemblée des Premières Nations, à prendre la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Fontaine" id="2527623">
+            <PersonSpeaking>
+              <Affiliation DbId="124928" Type="96">Chef Phil Fontaine (Chef national de l’Assemblée des Premières Nations)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154110">Monsieur le premier ministre, madame la juge en chef, chers députés, chers aînés, chers survivants et chers Canadiens, pour nos parents, nos grands-parents, nos arrière-grands-parents et toutes les générations qui nous ont précédés, ce jour constitue aujourd'hui rien de moins que la réalisation de l'impossible. </ParaText>
+              <ParaText id="1154111">Ce matin, nos aînés ont participé à une cérémonie à la mémoire de ceux qui n'ont jamais reçu ni excuses ni indemnisation, mais qui ont lutté courageusement contre l'assimilation afin que nous puissions voir arriver ce jour.</ParaText>
+              <ParaText id="1154112">Ensemble, nous nous souvenons d'eux et nous les honorons parce que ce sont eux qui ont le plus souffert en voyant, génération après génération, les enfants arrachés à leur famille et privés de l'amour et de l'encadrement des leurs. Pour les prochaines générations, nous sommes aujourd'hui témoins à la Chambre de l'affirmation définitive de notre survie comme membres des Premières nations de ce pays.</ParaText>
+              <ParaText id="1154113">Ainsi, cette journée est importante en raison non seulement du passé, mais également de l'avenir. Plus jamais la Chambre ne verra un problème indien dans la simple affirmation de notre identité. </ParaText>
+              <ParaText id="1154114">Nous avons entendu le gouvernement du Canada assumer l'entière responsabilité de cet horrible chapitre de notre histoire commune. Nous avons entendu le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> déclarer que cela ne se reproduira plus jamais. Enfin, nous avons entendu le Canada dire qu'il était désolé.</ParaText>
+              <ParaText id="1154115">En racontant leurs histoires douloureuses, les courageux survivants ont dépouillé la suprématie de la race blanche de son autorité et de sa légitimité. Il faut tôt ou tard dire la vérité aux puissants.</ParaText>
+              <ParaText id="1154116">Les événements d'aujourd'hui ne sont pas le résultat de jeux politiques. C'est la preuve de la vertu et de l'importance de notre lutte. Nous savons que nous avons beaucoup de difficultés à surmonter. Il reste beaucoup de batailles à livrer.</ParaText>
+              <ParaText id="1154117">Les événements d'aujourd'hui marquent une nouvelle aube dans les relations entre nous et le reste du Canada. Nous sommes et nous avons toujours été un élément indispensable de l'identité canadienne.</ParaText>
+              <ParaText id="1154118">Nos peuples, notre passé et notre présent constituent l'essence du Canada. Les tentatives pour effacer notre identité nous ont grandement meurtris tout comme elles ont blessé tous les Canadiens et appauvri le caractère de notre pays.</ParaText>
+              <ParaText id="1154119">Il ne faut pas faillir à notre devoir. Enhardis par ce moment historique, nous pouvons, ensemble, mettre fin à notre cauchemar racial. Les souvenirs des pensionnats déchirent parfois impitoyablement notre âme, tels des couteaux. Cette journée nous aidera à mettre cette douleur derrière nous.</ParaText>
+              <ParaText id="1154120">Mais elle signifie encore plus: c'est la promesse d'une relation respectueuse et libératrice entre nous et le reste du Canada.</ParaText>
+              <ParaText id="1154121">Ensemble, nous pouvons accomplir les grandes choses que notre pays mérite. Les excuses d'aujourd'hui reposent, plus que toute autre chose, sur la reconnaissance du fait que chacun est maître de sa vie et de son destin. C'est le seul vrai fondement d'une société où les peuples peuvent prospérer. </ParaText>
+              <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+              <ParaText id="1154122">Nous devons maintenant aborder les défis de demain avec un nouvel esprit et une nouvelle vision.</ParaText>
+              <ParaText id="1154123">Un grand homme d'État a déjà dit que nous sommes tous liés par la même destinée. Ce qui nous distingue n'a rien à voir avec le sang ou la couleur de la peau. Les liens qui nous unissent sont plus forts que ceux qui pourraient nous séparer. Emprunter tous ensemble la voie de l'espoir va favoriser notre réconciliation bien plus que ne le pourraient les mots, les lois ou les revendications juridiques. </ParaText>
+              <ParaText id="1154124">Nous avons encore des luttes à mener, mais maintenant nous agissons ensemble.</ParaText>
+              <ParaText id="1154125">Aujourd'hui, je tends la main à tous les Canadiens dans un esprit de réconciliation.</ParaText>
+              <ParaText id="1154126">
+                <I>Meegwetch.</I>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Le Président" id="2527626">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154127">Je donne maintenant la parole à Patrick Brazeau, chef national du Congrès des Peuples autochtones.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Brazeau" id="2527627">
+            <PersonSpeaking>
+              <Affiliation DbId="124930" Type="96">Chef Patrick Brazeau (Chef national du Congrès des Peuples autochtones, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154128">Mesdames et messieurs les députés, c'est un honneur et un plaisir d'être ici pour prendre part à cet événement en cette journée unique dans notre histoire.</ParaText>
+              <ParaText id="1154129">Non seulement ce jour est unique dans notre histoire, mais il constitue un pas dans la bonne direction pour notre magnifique pays.</ParaText>
+              <ParaText id="1154130">J'aimerais remercier le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> d'avoir fait preuve de leadership en faisant ce qu'aucun de ses prédécesseurs n'avait fait, en prenant une mesure qui s'imposait tant sur le plan humain que moral.</ParaText>
+              <ParaText id="1154131">Merci.</ParaText>
+              <ParaText id="1154132">Plus important encore, ce jour honore les survivants, dont certains sont parmi nous à la tribune. Je suis fier d'être ici et de représenter certains d'entre vous.</ParaText>
+              <ParaText id="1154133">Je veux que vous sachiez que même si vous avez séjourné dans les pensionnats, au plus profond de moi, vous représentez de véritables modèles à suivre. Votre résilience, votre courage et votre force ont fait de moi le Canadien autochtone, l'Algonquin fort, que je suis aujourd'hui, comme il s'en trouve d'autres dans notre magnifique pays.</ParaText>
+              <ParaText id="1154134"> Ce pays reconnu dans le monde entier comme un pays débordant de possibilités et d'espoir appartient aussi à ceux qui en ont été privés il y a si longtemps. En ce qui me concerne, aujourd'hui, je suis non seulement fier d'être un Autochtone et un Algonquin, mais je suis aussi fier d'être un Canadien autochtone.</ParaText>
+              <ParaText id="1154135">
+                <I>Meegwetch</I>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527630">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154136">À l'ordre, je vous prie. Je donne maintenant la parole à Mary Simon, la présidente d'Inuit Tapiriit Kanatami.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" id="2527633" ToCText="Mme Simon">
+            <PersonSpeaking>
+              <Affiliation DbId="124931" Type="96">Mme Mary Simon (présidente d'Inuit Tapiriit Kanatami)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154137">Monsieur le premier ministre,</ParaText>
+              <ParaText id="1154138">[<I>Mme Simon s'exprime en inuktitut</I>]</ParaText>
+              <ParaText id="1154139">[<I>Français</I>]</ParaText>
+              <ParaText id="1154140">Monsieur le premier ministre, je vous ai parlé tout d'abord dans ma langue inuite pour vous montrer que notre langue et notre culture sont encore vigoureuses.</ParaText>
+              <ParaText id="1154141"> Ce que j'ai à vous dire, monsieur le premier ministre, je dois le dire en vous faisant face, parce que cela vient du fond de mon coeur. Il vous a fallu un grand courage pour exprimer votre peine et vos excuses à l'endroit de nos peuples, les Inuits, les Premières nations et les Métis, et nous vous en remercions grandement.</ParaText>
+              <ParaText id="1154142">[<I>Mme Simon s'exprime en inuktitut</I>]</ParaText>
+              <ParaText id="1154143">[<I>Français</I>]</ParaText>
+              <ParaText id="1154144">Je suis de ceux qui ont longtemps rêvé de ce jour. Le parcours a été long et, par moments, je désespérais de voir arriver cet aboutissement. </ParaText>
+              <ParaText id="1154145">Cependant, après avoir entendu le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> et les chefs des partis politiques, je suis remplie d'espoir et de compassion pour mes congénères autochtones du Canada parmi lesquels je me trouve ici aujourd'hui avec vous et vos ministres, monsieur le premier ministre.</ParaText>
+              <ParaText id="1154146">Je suis également remplie d'optimisme en me disant que cette initiative du gouvernement du Canada et la manière généreuse de formuler ces excuses nous aideront tous à mettre un terme à cette période sombre de notre histoire collective comme pays.</ParaText>
+              <ParaText id="1154147">Ne nous laissons pas bercer par l'illusion que demain, au lever du soleil, la douleur et les cicatrices se seront miraculeusement résorbées. Ce ne sera pas le cas.</ParaText>
+              <ParaText id="1154148">Un nouveau jour s'est levé pourtant, un jour nouveau marqué d'une volonté de réconciliation et d'édification d'un nouveau rapport avec les Inuits, les Métis et les Premières nations.</ParaText>
+              <ParaText id="1154149">Unissons maintenant nos forces autour d'un objectif commun, celui de collaborer pour faire en sorte que ces excuses soient l'occasion de tourner la page sur un nouveau chapitre de nos vies comme peuples autochtones et de notre appartenance au Canada.</ParaText>
+              <ParaText id="1154150">Beaucoup de travail ardu reste à faire. Nous aurons besoin de l'aide et du soutien de tous les Canadiens de bonne volonté et de nos gouvernements pour rebâtir des familles et des collectivités saines et vigoureuses.</ParaText>
+              <ParaText id="1154151">Il ne pourra en être ainsi que lorsque nous aurons à nouveau intégré à nos vies de tous les jours la dignité, la confiance ainsi que le respect des valeurs traditionnelles et des droits de la personne, et lorsque ces valeurs se refléteront dans nos rapports avec les gouvernements et les autres Canadiens.</ParaText>
+              <ParaText id="1154152">Je tiens à exprimer ici aujourd'hui ma volonté de collaborer avec vous, comme l'ont toujours fait les Inuits, pour élaborer de nouvelles solutions et de nouveaux arrangements fondés sur le respect et la responsabilité réciproques.</ParaText>
+              <ParaText id="1154153">Merci. Que sagesse et compassion guident nos efforts.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527635">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154154">À l'ordre, s'il vous plaît. Je donne maintenant la parole à M. Clem Chartier, président du Ralliement national des Métis.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" id="2527637">
+            <PersonSpeaking>
+              <Affiliation DbId="124932" Type="96">M. Clem Chartier (président du Ralliement national des Métis)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154155">Monsieur le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>, mesdames et messieurs les députés, amis et Canadiens, quel grand jour.</ParaText>
+              <ParaText id="1154156">Au nom de la nation métisse, je tiens à exprimer aujourd'hui mes sincères remerciements et ma profonde gratitude au <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> pour avoir offert ses excuses sincères à ceux qui ont fréquenté les pensionnats indiens.</ParaText>
+              <ParaText id="1154157">Nous avons attendu longtemps, mais nous acceptons ces excuses. J'espère qu'elles seront ressenties dans les collectivités des personnes touchées.</ParaText>
+              <ParaText id="1154158">Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> et le <Affiliation DbId="111551" Type="4">ministre des Affaires indiennes</Affiliation> savent que, même si je suis sincèrement heureux, je me sens aussi déchiré parce que la situation de la nation métisse, notre passé et notre présent sont encore bien mal compris.</ParaText>
+              <ParaText id="1154159">Nous avons eu de sérieuses discussions avec le <Affiliation DbId="111551" Type="4">ministre des Affaires indiennes</Affiliation>. Nous avons convenu, et je crois que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> est aussi de cet avis, de nous occuper, après les excuses d'aujourd'hui, des dossiers en souffrance qui concernent notre peuple, les Métis. Je crois que les déclarations d'aujourd'hui concernant la période sombre des politiques d'assimilation étaient bien senties et j'ai bon espoir que des mesures seront prises pour corriger les gestes posés ici même en cette Chambre.</ParaText>
+              <ParaText id="1154160">J'éprouve vraiment des sentiments partagés, car je suis un survivant d'un pensionnat métis, en tous points semblable aux pensionnats indiens, sauf en ce qui concerne ceux qui en ont fait les frais. Ceux qui en ont fait les frais, ce sont ces jeunes gens qui y ont été envoyés, des gens comme Don, des gens comme moi. Nous en avons fait les frais. </ParaText>
+              <ParaText id="1154161">Je crois sincèrement aux paroles du ministre et j'espère que nous allons régler cette question. J'avais dit que la nation métisse serait ici pour partager cette journée avec ces peuples qui ont attendu si longtemps. Nous voulons célébrer et nous célébrons avec eux, avec vous, avec tous les Canadiens, car ce jour est un jour pour tous les Canadiens. C'est un jour tourné vers l'avenir. </ParaText>
+              <ParaText id="1154162">Je sais au plus profond de mon coeur que les chefs des partis et le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> qui ont parlé aujourd'hui l'ont fait avec sincérité, en mettant de côté les envolées lyriques de la Chambre des communes. J'ai pu le constater. J'ai pu le sentir. Je sais que leurs paroles sont profondes et vraies. </ParaText>
+              <ParaText id="1154163">Enfin, monsieur le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>, la nation métisse de l'Ouest canadien, qui a été souvent exclue par les mesures et les politiques adoptées par cette Chambre, souhaite faire partie du processus. </ParaText>
+              <ParaText id="1154164">Merci. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527641">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154165">À l’ordre, s’il vous plaît. Je cède maintenant la parole à Beverley Jacobs, présidente de l'Association des femmes autochtones du Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" id="2527646" ToCText="Mme Jacobs">
+            <PersonSpeaking>
+              <Affiliation DbId="124933" Type="96">Mme Beverley Jacobs (présidente de l'Association des femmes autochtones du Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText />
+              <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+              <ParaText id="1154166">[<I>Mme Jacobs s'exprime en mohawk.</I>]</ParaText>
+              <ParaText id="1154167">Je viens de vous souhaiter la paix en mohawk. Je suis une Mohawk de la Confédération de Haudenosaunis, et je fais partie du Clan de l'ours. Mon nom véritable, Gowehgyuseh, signifie « elle est de passage ».</ParaText>
+              <ParaText id="1154168">Je suis ici pour représenter l'Association des femmes autochtones du Canada, et les femmes de cette association ont une déclaration à faire à propos du respect des femmes autochtones dans ce pays.</ParaText>
+              <ParaText id="1154169">Avant la mise en place du système de pensionnats indiens et la colonisation, les femmes de nos communautés étaient très respectées. On nous honorait parce que nous avions pour rôle de donner la vie et de prendre soin de l'esprit à qui nous permettions de s'incarner. Nous avions la responsabilité de veiller sur nos enfants et d'ainsi permettre à l'esprit de s'épanouir dans la vie matérielle.</ParaText>
+              <ParaText id="1154170">Les pensionnats indiens ont vraiment eu des répercussions négatives sur le respect des femmes. Il y avait des cérémonies pour les jeunes hommes et femmes. Les pensionnats indiens les ont fait disparaître pendant des générations. Nous avons encore notre langue, nos cérémonies et nos aînés. Nous devons revitaliser ces cérémonies et regagner le respect de la population canadienne, ainsi que celui de notre propre peuple.</ParaText>
+              <ParaText id="1154171">Je tiens à dire que je viens ici pour laisser parler mon coeur parce qu'il y a deux générations, ma grand-mère, qui était une Mohawk, a été battue et agressée sexuellement et physiquement parce qu'elle était Mohawk. Elle n'a pas passé les traditions à ma mère, ni à ses frères et soeurs, et notre système matriarcal en a été directement touché. Heureusement, j'ai été élevée dans une collectivité où toutes nos mères ont revitalisé ce système. </ParaText>
+              <ParaText id="1154172">Je tiens à dire qu'en tant que mères, nous offrons le même enseignement aux jeunes garçons et aux jeunes filles, aux hommes et aux femmes. C'est ce que je suis venue dire aujourd'hui. Bien que notre association soit connue sous le nom de l'Association des femmes autochtones, nous avons la responsabilité de représenter à la fois les hommes et les femmes. Nous ne nous penchons pas uniquement sur les problèmes des femmes. Nous voyons à assurer un avenir fort à nos nations. C'est ce que je suis venue dire aujourd'hui. </ParaText>
+              <ParaText id="1154173">Nous vous avons remercié de nous avoir présenté des excuses. Je dois aussi vous féliciter de vous être tenus debout. Je n'avais jamais vu un gouvernement présenter des excuses avant aujourd'hui et je vous en remercie. En retour, l'Association des femmes autochtones demande le respect. </ParaText>
+              <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+              <ParaText id="1154174">J'ai seulement un dernier mot à ajouter. Je remercie les chefs du Parti libéral, du Bloc québécois et du NPD également pour les paroles qu'ils ont prononcées parce qu'il faut aujourd'hui que nous prenions nos responsabilités et que nous prenions des décisions en pensant aux conséquences qu'elles auront dans sept générations d'ici.</ParaText>
+              <ParaText id="1154175">Mes ancêtres ont fait la même chose il y a sept générations. Ils vous ont beaucoup combattus parce qu'ils voyaient ce qui était en train de se dessiner. Ils savaient ce que l'avenir leur réservait, ce qui ne nous a pas empêchés de subir le poids énorme de la colonisation. Nous en subissons les séquelles aujourd'hui.</ParaText>
+              <ParaText id="1154176">Ce sont les femmes qui en ont le plus souffert.</ParaText>
+              <ParaText id="1154177">Je vous remercie de m'avoir donné l'occasion d'être ici présente pour parler de ces réalités et de ce que nous vivons aujourd'hui.</ParaText>
+              <ParaText id="1154178">Que fera le gouvernement actuel pour aider nos peuples? Des violations majeures des droits de la personne ont été commises pendant de nombreuses générations. Je veux pouvoir transmettre ma langue, ma culture et ma spiritualité à mes enfants et mes petits-enfants. Je veux que leurs enfants à eux aussi en héritent, et ainsi de suite.</ParaText>
+              <ParaText id="1154179">Quelles mesures concrètes vont être mises en oeuvre? Voilà ma question. Je sais que c'est une question que nous nous posons tous. Nous aimerions continuer d'oeuvrer en partenariat à y trouver une réponse.</ParaText>
+              <ParaText id="1154180">Nia:wen. Merci.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2527665">
+            <PersonSpeaking>
+              <Affiliation DbId="81017" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1154181">Conformément à l'ordre adopté aujourd'hui, la séance du comité est leveé, et je vais quitter le fauteuil.</ParaText>
+              <ParaText id="1154182">J'invite les députés à se lever pendant que nos distingués invités quittent la Chambre.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1154183">Comme il est 16 h 35, conformément à l'ordre adopté le mardi 10 juin 2008, la Chambre s'ajourne à demain, 10 heures, conformément au paragraphe 24(1) du Règlement.</ParaText>
+              <ParaText id="1154184">(La séance est levée à 16 h 35.)</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </Intro>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="7854226">
+  <StartPageNumber>13267</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 146</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 197-A</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">41<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le vendredi 14 décembre 2012</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Andrew Scheer</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">14 décembre 2012</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 197 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 197 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 197 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">146</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">197</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">14</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">12</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2012</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2012/12/14 11:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="Suffix">A</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="3154126">La séance est ouverte à 11 h 30.</ParaText>
+      <Prayer>Prière</Prayer>
+      <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+      <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+      <Intervention Type="Debate" ToC="Yes" ToCText="Le président suppléant (M. Barry Devolin)" id="7854230">
+        <PersonSpeaking>
+          <Affiliation DbId="171013" Type="92">Le président suppléant (M. Barry Devolin)</Affiliation>: </PersonSpeaking>
+        <Content>
+          <ParaText id="3154127">Je désire informer la Chambre que, conformément au paragraphe 28(4) du Règlement, j'ai convoqué la Chambre aujourd'hui uniquement en vue de la sanction royale qui sera octroyée à plusieurs projets de lois.</ParaText>
+        </Content>
+      </Intervention>
+    </Intro>
+    <OrderOfBusiness id="7854227" Rubric="RoyalAssent">
+      <OrderOfBusinessTitle>SANCTION ROYALE</OrderOfBusinessTitle>
+      <CatchLine>Sanction royale</CatchLine>
+      <SubjectOfBusiness>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le président suppléant (M. Barry Devolin)" id="7854238">
+            <PersonSpeaking>
+              <Affiliation DbId="171014" Type="96">Le président suppléant (M. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="3154128">J'ai l'honneur d'informer la Chambre que j'ai reçu la lettre suivante:</ParaText>
+              <ParaText id="3154129">
+                <Quote>
+                  <QuotePara Align="Centre">Résidence du gouverneur général</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154130">
+                <Quote>
+                  <QuotePara Align="Centre">Ottawa</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154131">
+                <Quote>
+                  <QuotePara Align="Right">Le 14 décembre 2012</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154132">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="1" IndentRest="1">Monsieur le Président, </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154133">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">J'ai l'honneur de vous aviser que le très honorable David Johnston, gouverneur général du Canada, se rendra à la salle du Sénat aujourd'hui, le 14 décembre 2012, à 11 h 30, afin d’octroyer la sanction royale à plusieurs projets de loi.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154134">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Veuillez agréer, monsieur le Président, l'assurance de ma haute considération.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154135">
+                <Quote>
+                  <QuotePara Align="Centre">Stephen Wallace</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="7854242">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Message du Sénat</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le président suppléant (M. Barry Devolin)" id="7854241">
+            <PersonSpeaking>
+              <Affiliation DbId="171014" Type="96">Le président suppléant (M. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="3154136"> J'ai l'honneur d'annoncer à la Chambre que le Sénat lui a adressé des messages pour l'informer qu'il a adopté les projets de loi suivants:</ParaText>
+              <ParaText id="3154137">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5907250" Type="3">C-50, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2013</Document>;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154138">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5452728" Type="3">C-36, Loi modifiant le Code criminel (maltraitance des aînés)</Document>;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154139">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5135265" Type="4">C-300, Loi concernant l’établissement d’un cadre fédéral de prévention du suicide</Document>;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154140">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5754371" Type="3">C-45, Loi n<Sup>o</Sup> 2 portant exécution de certaines dispositions du budget déposé au Parlement le 29 mars 2012 et mettant en oeuvre d'autres mesures</Document>.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="7854243">
+        <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <ParaText id="3154141">L'huissier du bâton noir apporte le message suivant: 
+</ParaText>
+          <ParaText id="3154142">
+            <Quote>
+              <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Monsieur le Président, c'est le désir de Son Excellence le Gouverneur général que cette honorable Chambre se rende immédiatement dans la salle de l'honorable Sénat.
+
+</QuotePara>
+            </Quote>
+          </ParaText>
+          <ParaText id="3154143">En conséquence, le Président et les députés des Communes se rendent au Sénat. 
+
+</ParaText>
+          <ParaText id="3154144">
+            <I>Et de retour</I>:
+
+</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le président suppléant (M. Barry Devolin)" id="7854239">
+            <PersonSpeaking>
+              <Affiliation DbId="171013" Type="92">Le président suppléant (M. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="3154145">J'ai l'honneur de faire savoir à la Chambre que, lorsqu'elle s'est rendue au Sénat, il a plu à Son Excellence le gouverneur général d’octroyer, au nom de Sa Majesté, la sanction royale aux projets de loi suivants:</ParaText>
+              <ParaText id="3154146">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-24, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama — chapitre 26, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154147">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-36, Loi modifiant le Code criminel (maltraitance des aînés) — chapitre 29, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154148">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-44, Loi modifiant le Code canadien du travail et la Loi sur l'assurance-emploi et modifiant la Loi de l'impôt sur le revenu et le Règlement de l'impôt sur le revenu en conséquence — chapitre 27, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154149">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-45, Loi n<Sup>o</Sup> 2 portant exécution de certaines dispositions du budget déposé au Parlement le 29 mars 2012 et mettant en oeuvre d'autres mesures — chapitre 31, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154150">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-50, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2013 — chapitre 28, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154151">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-300, Loi concernant l’établissement d’un cadre fédéral de prévention du suicide — chapitre 30, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3154152">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C-313, Loi modifiant la Loi sur les aliments et drogues (lentilles cornéennes qui ne corrigent pas la vue) — chapitre 25, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText ForeignLang="2" Continuation="1" id="3154153">Comme il est 11 h 55, la Chambre s'ajourne au lundi 28 janvier 2013, à 11 heures, conformément aux paragraphes 28(2) et 24(1).</ParaText>
+              <ParaText id="3154154">(La séance est levée à 11 h 55.)</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

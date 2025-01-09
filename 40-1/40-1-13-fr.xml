@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="2567183">
+  <StartPageNumber>605</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 143</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 013</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">40<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le jeudi 4 décembre 2008</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Peter Milliken</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">4 décembre 2008</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 013 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 013 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 013 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">143</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">013</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">12</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2008</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2008/12/04 10:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">40</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="1254041">La séance est ouverte à 10 heures.</ParaText>
+      <Prayer>Prière</Prayer>
+    </Intro>
+    <OrderOfBusiness id="2567189" Rubric="RoutineProceedings">
+      <OrderOfBusinessTitle>AFFAIRES COURANTES</OrderOfBusinessTitle>
+      <CatchLine>Affaires courantes</CatchLine>
+      <SubjectOfBusiness id="2567190">
+        <Timestamp Hr="10" Mn="00">(1000)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Le commissaire à la protection de la vie privée</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2567188">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254042">J'ai l'honneur de déposer le rapport du commissaire à la protection de la vie privée sur l'application de la Loi sur la protection des renseignements personnels pendant l'exercice financier qui s'est terminé le 31 mars 2008.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254043">Conformément à l'alinéa 108(3)<I>h</I>) du Règlement, ce document est réputé renvoyé en permanence au Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2567224">
+        <SubjectOfBusinessTitle>Pétitions</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Le pont interprovincial</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Bélanger" id="2567191">
+            <PersonSpeaking>
+              <Affiliation DbId="128288" Type="2">L'hon. Mauril Bélanger (Ottawa—Vanier, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254044">Monsieur le Président, j'ai l'honneur de déposer, encore une fois, une pétition signée par les citoyens de la circonscription d'<Affiliation DbId="128288" Type="2">Ottawa—Vanier</Affiliation>, mais aussi de toute la région de la capitale nationale.</ParaText>
+              <ParaText id="1254045">Cette pétition porte sur le même sujet que celui dont je parle depuis le début de la session parlementaire, c'est-à-dire la nécessité de sortir les camions, les poids lourds, du centre-ville de la capitale du pays.</ParaText>
+              <ParaText id="1254046">Ces concitoyens voudraient voir la construction d'un pont à l'Est, et éventuellement un autre à l'Ouest, afin d'avoir une route périphérique autour de la région de la capitale nationale. Ces pétitionnaires demandent au gouvernement du Canada de diriger la Commission de la capitale nationale pour faire en sorte qu'une étude détaillée soit entreprise sur un pont liant le parc industriel Canotek à l'aéroport de Gatineau, c'est-à-dire l'option 7 de la première phase de l'étude sur les ponts interprovinciaux entreprise il y a un certain temps et dont on aura le rapport final d'ici quelques semaines.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2567216">
+        <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Lukiwski" id="2567193">
+            <PersonSpeaking>
+              <Affiliation DbId="128856" Type="18">M. Tom Lukiwski (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254047">Monsieur le Président, je demande que toutes les questions soient reportées.</ParaText>
+              <ParaText id="1254048">
+                <B>Le Président:</B> Les questions sont-elles reportées?</ParaText>
+              <ParaText id="1254049">
+                <B>Des voix:</B> D'accord.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2567198">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Question de privilège</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>L'utilisation de papier à en-tête de député et des privilèges de franchise postale — Décision de la présidence</SubjectOfBusinessQualifier>
+        <CatchLine>Décision de la présidence</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2567194">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254050">Je suis maintenant prêt à rendre ma décision sur la question de privilège qu'a soulevée l'honorable député de <Affiliation DbId="128358" Type="2">Malpeque</Affiliation> le 27 novembre 2008 au sujet de la lettre que l'honorable <Affiliation DbId="128848" Type="18">secrétaire parlementaire de la ministre des Ressources naturelles et pour la Commission canadienne du blé</Affiliation> a adressée aux producteurs de grains afin de les inviter à appuyer certains candidats à la prochaine élection des administrateurs de la Commission canadienne du blé.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254051">Je remercie le député de <Affiliation DbId="128358" Type="2">Malpeque</Affiliation> d’avoir soulevé cette importante question et d'avoir aimablement communiqué à la présidence une copie de la lettre envoyée par le secrétaire parlementaire. Je remercie également le <Affiliation DbId="128856" Type="18">secrétaire parlementaire du leader du gouvernement à la Chambre des communes</Affiliation>, la députée de <Affiliation DbId="128416" Type="2">Winnipeg-Sud</Affiliation>, ainsi que le député de <Affiliation DbId="128784" Type="2">Yukon</Affiliation> pour leurs interventions.</ParaText>
+              <ParaText id="1254052">Lorsqu’il a soulevé cette question de privilège, le député de <Affiliation DbId="128358" Type="2">Malpeque</Affiliation> a allégué que le <Affiliation DbId="128848" Type="18">secrétaire parlementaire de la ministre des Ressources naturelles et pour la Commission canadienne du blé</Affiliation> avait utilisé à tort, à des fins politiques, des listes d’envoi confidentielles et le privilège de franchise postale de la Chambre. Il a fait valoir que l’utilisation de papier à en-tête du Parlement et du privilège de franchise postale d’un député dans le but d’influencer un processus démocratique constitue une violation des privilèges parlementaires.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254053">Dans sa réponse, le <Affiliation DbId="128856" Type="18">secrétaire parlementaire du leader du gouvernement à la Chambre des communes</Affiliation> a soutenu que les actes du <Affiliation DbId="128848" Type="18">secrétaire parlementaire de la ministre des Ressources naturelles et pour la Commission canadienne du blé</Affiliation> n'entravaient pas la capacité des députés d'exercer leurs fonctions parlementaires. Il a ajouté qu'il n'y avait aucune preuve que le secrétaire parlementaire avait utilisé une liste confidentielle.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254054">Les députés de <Affiliation DbId="128503" Type="2">Winnipeg-Centre-Sud</Affiliation> et de <Affiliation DbId="128784" Type="2">Yukon</Affiliation> ont réitéré les préoccupations exprimées par le député de <Affiliation DbId="128358" Type="2">Malpeque</Affiliation> au sujet de l'utilisation du privilège de franchise postale, du papier à en-tête du Parlement et de listes confidentielles, et ils ont remis en question le bien-fondé de l’utilisation de certaines ressources de la Chambre à cette fin par le secrétaire parlementaire.</ParaText>
+              <ParaText id="1254055">Il serait peut-être utile de rappeler aux députés certains des principes en cause. Le privilège de franchise postale dont bénéficient les députés est prévu dans la Loi sur la Société canadienne des postes.</ParaText>
+              <ParaText id="1254056">La question du privilège de franchise postale a été soulevée dans le passé et a fait l’objet de décisions. Dans l’un des cas, certains députés de la Chambre s’étaient prévalus de la franchise postale pour envoyer des messages en faveur d’un parti politique lors d’une élection provinciale. Dans sa décision, consignée aux pages 405 et 406 des <I /> du 16 octobre 1986, le Président Fraser déclarait:</ParaText>
+              <ParaText id="1254057">
+                <LegislationQuote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">« [...] je crois qu’il pourrait y avoir des cas où le recours à la franchise postale pourrait donner lieu à une question de privilège, notamment si la teneur de l’envoi portait atteinte aux droits des députés de s’exprimer librement et de s’acquitter de leurs obligations. » </QuotePara>
+                </LegislationQuote>
+              </ParaText>
+              <ParaText id="1254058">Dans ce cas, il avait estimé qu’il ne s’agissait pas d’une question de privilège.</ParaText>
+              <ParaText id="1254059">Un autre cas concernait l’envoi postal par un député de bulletins parlementaires de nature partisane lors d’une élection partielle. Tout comme les députés de <Affiliation DbId="128503" Type="2">Winnipeg-Centre-Sud</Affiliation> et de <Affiliation DbId="128784" Type="2">Yukon</Affiliation> l’ont fait, plusieurs députés avaient à l’époque remis en question l’interprétation des lignes directrices et l’utilisation des ressources de la Chambre à cet égard.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254060">Dans ce cas précis, le Président Fraser déclarait ce qui suit dans sa décision rendue le 18 mars 1987, comme l'indique la page 4301 des <I>Débats</I>: </ParaText>
+              <ParaText id="1254061">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">De toute façon, le fait de ne pas respecter les lignes directrices ne constitue pas nécessairement une atteinte aux privilèges. [...] Il semble à la présidence que les initiatives qui ont fait l'objet des plaintes n'ont nullement empêché la Chambre ni un député d'assumer les fonctions pour lesquelles ils ont été élus. </QuotePara>
+                </Quote> </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254062">Comme dans les cas cités, nous sommes devant un dilemme à deux volets. D’une part, il faut déterminer le bien-fondé de l’utilisation du privilège de franchise postale, que la loi accorde aux députés. De telles questions relèvent davantage d’avenues administratives plus appropriées.</ParaText>
+              <ParaText id="1254063">D’autre part, il faut démontrer que l’envoi postal a porté atteinte aux privilèges des députés. On pourrait arriver à une telle conclusion s’il avait été établi que la diffusion du document en question était diffamatoire ou nuisait d’une quelconque façon à la capacité d’un député d’exercer ses fonctions parlementaires. Or, aucun argument et aucune preuve en ce sens n’ont été présentés.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254064">À la lumière des précédents, du libellé des <I>Règlements administratifs</I> de la Chambre des communes et du contenu de la lettre envoyée par le secrétaire parlementaire de la <Affiliation DbId="128708" Type="4">ministre des Ressources naturelles</Affiliation> et pour la Commission canadienne du blé, la présidence ne croit pas qu'il y a de prime abord matière à question de privilège dans le cas qui nous préoccupe.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254065">La présidence ne croit pas qu’il y a de prime abord matière à question de privilège dans le cas qui a été soulevé.</ParaText>
+              <ParaText id="1254066">Le député de <Affiliation DbId="128358" Type="2">Malpeque</Affiliation> voudra peut-être explorer les avenues administratives pertinentes sur la question du privilège de franchise postale ou du contenu du courrier expédié en franchise.</ParaText>
+              <ParaText id="1254067">Je remercie les députés de leurs interventions.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="2567219" Rubric="Other">
+      <OrderOfBusinessTitle>Initiatives ministérielles</OrderOfBusinessTitle>
+      <CatchLine>Initiatives ministérielles</CatchLine>
+      <SubjectOfBusiness id="2567220">
+        <Timestamp Hr="10" Mn="10">(1010)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>L'énoncé économique et financier</SubjectOfBusinessTitle>
+        <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
+        <SubjectOfBusinessContent>
+          <ParaText id="1254068">La Chambre reprend l'étude, interrompue le 3 décembre, de la motion, et de la motion portant que la question soit maintenant mise aux voix.</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Lemieux" id="2567203">
+            <PersonSpeaking>
+              <Affiliation DbId="128868" Type="18">M. Pierre Lemieux (secrétaire parlementaire du ministre de l'Agriculture, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254069">Monsieur le Président, comme c'est la première fois que je prends la parole au cours de cette 40<Sup>e</Sup> législature, je voudrais tout d'abord remercier la population de <Affiliation DbId="128469" Type="2">Glengarry—Prescott—Russell</Affiliation> de m'avoir élu comme député pour une deuxième fois.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254070">En tant que député de Glengarry—Prescott—Russell, j'aimerais que mes électeurs sachent qu'au cours des trois dernières années, j'ai travaillé fort pour les représenter ici à la Chambre des communes et que je vais continuer à le faire.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254071">Je suis fier de prendre la parole aujourd'hui pour appuyer la mise à jour économique de notre gouvernement, l'une de ses nombreuses initiatives visant à protéger l'avenir du Canada. Dans notre mise à jour économique et financière, nous avons demandé aux politiques de placer les intérêts des Canadiens avant les leurs et de faire des sacrifices dans un esprit de solidarité avec les dizaines de millions de Canadiens de tout le pays qui font eux-mêmes des sacrifices face à cette période d'incertitude et de difficultés économiques.</ParaText>
+              <ParaText id="1254072">Nous avons aussi pris des mesures immédiates pour calmer les inquiétudes des Canadiens vulnérables, nos aînés notamment, compte tenu du contexte économique actuel. Parmi ces mesures, on compte la réduction de 25 p. 100 en 2008 du montant du retrait minimum requis de leurs fonds enregistrés de revenu de retraite.</ParaText>
+              <ParaText id="1254073">Je me permets de rappeler à tous que cette mise à jour financière a pour but de prendre certaines mesures spécifiques et d'apporter des mises à jour urgentes au régime fiscal pour cette année. La mise à jour économique et financière n'est pas un budget et il n'a jamais été question que ce soit un budget. Un budget est un budget et je félicite notre <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> d'avoir pris l'initiative d'avancer la présentation du budget à janvier 2009. Ce sera l'une des premières fois dans l'histoire du Canada que budget fédéral sera présenté aussi tôt. Nous agissons de la sorte en raison de la situation économique exceptionnelle dans laquelle nous nous trouvons.</ParaText>
+              <ParaText id="1254074">Depuis que nous avons formé le gouvernement, nous avons consulté des experts financiers et une vaste gamme d'intervenants concernant la meilleure façon de protéger les économies du Canada et d'assurer leur croissance. Nous poursuivons notre collaboration avec ces experts financiers et ces intervenants en préparant le budget fédéral de 2009, que nous allons élaborer en nous fondant sur nos antécédents, qui reflètent une volonté claire de prévoir des dépenses responsables et ciblées pour répondre aux besoins des Canadiens et stimuler notre économie.</ParaText>
+              <ParaText id="1254075">Il importe de garder à l'esprit que le gouvernement conservateur voyait venir la situation économique depuis longtemps et que nous avons agi de façon constante, mais plus particulièrement dès le début de l'an dernier lorsque nous avons déposé notre budget de 2008 intitulé  <I>Un leadership responsable dans un contexte économique incertain</I>. C'est dans ce budget que nous avons lancé notre plan historique de 33 milliards de dollars visant les infrastructures et que nous avons continué à réduire les impôts dans l'intérêt de toutes les familles et de toutes les entreprises du Canada.</ParaText>
+              <ParaText id="1254076">Les autres pays du monde font des pieds et des mains à l'heure actuelle pour trouver des façons de composer avec la situation économique, mais le Canada a vu venir les choses, et son plan ambitieux visant les infrastructures est déjà établi. Aussi, davantage d'argent circule dans l'économie grâce aux réductions d'impôt que nous avons consenties.</ParaText>
+              <ParaText id="1254077">En cette période d'incertitude économique, nous agissons mais, alors que nous mettons l'accent sur l'économie, l'opposition fait passer ses intérêts avant ceux des Canadiens. Le Parti libéral, le NPD et le Bloc refusent d'accepter les résultats des élections qui ont eu lieu il y a à peine six semaines. Ils conspirent maintenant en tenant des réunions secrètes et en concluant des ententes en catimini pour s'emparer du pouvoir et installer une coalition non élue dirigée par un chef que les Canadiens ont rejeté sans réserve le 14 octobre.</ParaText>
+              <ParaText id="1254078">Voilà une initiative désespérée de la part de l'opposition qui déboucherait sur un désastre pour le Canada et notre économie. Vous n'avez pas à me croire sur parole. Comme l'a rapporté le <I>Toronto Star</I> dans son édition du 23 septembre, il y a de cela 10 semaines seulement, le chef de l'opposition a lui-même déclaré ceci: « [Le chef du NPD] ne comprend pas l'économie. Je ne crois pas que les Canadiens accorderont leur confiance à un homme qui fera disparaître des emplois partout au Canada en faisant augmenter l'impôt des sociétés. »</ParaText>
+              <ParaText id="1254079">De plus,voici ce qu'il a déclaré le 10 octobre, il y a à peine sept semaines, dans le <I>Chronicle-Herald</I>: « Je suis incapable de gouverner avec quelqu'un qui souhaite faire augmenter les impôts de 50 milliards de dollars. » Le <Affiliation DbId="105458" Type="9">chef de l'opposition</Affiliation> s'est par la suite dissocié de ses propres commentaires et il est maintenant disposé à compromettre les intérêts de notre pays pour prendre le pouvoir d'une manière très égoïste et irresponsable.</ParaText>
+              <ParaText id="1254080">Non seulement les Canadiens seraient-ils contraints d'accepter une coalition dirigée par un parti qui a promis une taxe sur le carbone tueuse d'emplois, mais les libéraux travailleraient conjointement avec un parti socialiste qui a promis d'augmenter l'impôt des sociétés, et le pire, c'est que cette coalition serait appuyée par un parti séparatiste qui ne cherche qu'à faire éclater le pays. </ParaText>
+              <Timestamp Hr="10" Mn="15">(1015)</Timestamp>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254081">Il est important de comprendre que les partis de l'opposition ont le droit d'être en désaccord avec notre énoncé économique, et ils ont même le droit de voter contre. Si le gouvernement est défait lors d'un vote de confiance, le résultat est la tenue d'une nouvelle élection. Les Canadiens ont le droit de choisir leur gouvernement. C'est de cette façon que fonctionne la démocratie. Les Canadiens ne devraient pas être soudainement dirigés par une coalition uniquement parce que c'est l'avis de la coalition.</ParaText>
+              <ParaText id="1254082">Lors de la dernière élection, aucun Canadien n'a voté pour un gouvernement de coalition, aucun. </ParaText>
+              <ParaText id="1254083">L'opposition tente d'installer un gouvernement de coalition dirigé par le Parti libéral du Canada, un parti qui vient de recevoir sa plus faible part des suffrages exprimés depuis 1867. L'opposition parle d'installer le chef de l'opposition en tant que premier ministre, le même chef qui a été massivement rejeté par l'électorat canadien il y a six semaines à peine. Maintenant, les Canadiens apprennent qu'il y a eu des ententes entre le NPD et le Bloc, conclues en cachette bien avant l'énoncé économique. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254084">Les Canadiens savent que cette coalition séparatiste n'a pas été formée en réaction à la mise à jour économique et financière, mais bien pour prendre le pouvoir sans élections. Sa raison d'être n'est pas l'économie ou le budget, mais bien l'accession au pouvoir sans élections. Elle n'a pas été formée pour défendre la démocratie, mais bien pour prendre le pouvoir sans élections.</ParaText>
+              <ParaText id="1254085">Comme l'a dit le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> la semaine dernière, l'immense privilège de diriger le pays doit être accordé par l'électorat, et non pris de force. Le premier ministre reçoit son mandat de la population et il est inconcevable que le <Affiliation DbId="105458" Type="9">chef de l'opposition</Affiliation> veuille prendre le pouvoir sans l'accord de la population, mais grâce à un accord secret avec le NPD et les séparatistes. Le chef de l'opposition et sa coalition libérale ne veulent absolument pas se présenter devant les Canadiens. Ils veulent simplement prendre le pouvoir sans élections.</ParaText>
+              <ParaText id="1254086">Les résidants de ma circonscription ne veulent pas de cette coalition. Au cours de la semaine, j'ai parcouru ma circonscription d'un bout à l'autre et la grande majorité des gens que j'ai rencontrés m'ont fait part de leur insatisfaction face à l'idée d'une coalition, et ce, pour plusieurs raisons.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254087">La majorité des résidants de mon comté sont francophones et fiers de leur héritage. En tant que député franco-ontarien, je partage leur fierté. J'ai été honoré de servir les francophones du Canada en tant que secrétaire parlementaire pour les Langues officielles lors de la 39<Sup>e</Sup> législature. Les Franco-Ontariens sont farouchement opposés à la souveraineté du Québec. Non seulement sommes-nous fiers de notre langue, mais nous sommes également fiers d'être Canadiens. Nous voulons un Canada uni, non divisé. </ParaText>
+              <ParaText id="1254088">Les commentaires du chef du Bloc québécois et de M. Parizeau quant à leurs véritables intentions sont alarmants: </ParaText>
+              <ParaText id="1254089">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Un gouvernement plus faible à Ottawa fait éminemment mon affaire. Les souverainistes n'ont pas intérêt à ce qu'un grand nombre de gens regardent encore Ottawa comme un gouvernement stable, sérieux. Il faut que l'image projetée soit celle d'un gouvernement faible, désorienté, et qui va l'être plus encore à l'avenir. Ça c'est parfait. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254090">C'est M. Parizeau qui dit cela, le grand ami de M. Duceppe qui a une alliance avec...</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="M. Scheer" id="2567209">
+            <PersonSpeaking>
+              <Affiliation DbId="129033" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254091">À l'ordre, s'il vous plaît. Je rappelle au député de ne pas désigner les collègues par leur nom, mais par leur circonscription ou leur titre. Je pense avoir entendu le nom d'un député du Bloc québécois. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="20">(1020)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lemieux" id="2567210">
+            <PersonSpeaking>
+              <Affiliation DbId="128868" Type="18">M. Pierre Lemieux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254092">Monsieur le Président, je vous remercie. </ParaText>
+              <ParaText id="1254093">Rappelons-nous également que l'ancien premier ministre Jacques Parizeau a applaudi sans réserve la victoire impressionnante du chef du Bloc et du Bloc québécois lors des dernières élections, le Bloc qui fait partie intégrante du gouvernement de coalition proposé à Ottawa. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254094">Les Canadiens peuvent constater eux-mêmes que la coalition séparatiste menace l'unité nationale. L'autre sujet d'inquiétude, c'est de voir que le <Affiliation DbId="105459" Type="96">chef de l'opposition</Affiliation> présume qu'il sera le prochain premier ministre. Il fait preuve d'un orgueil qui offense les Canadiens. Ces derniers n'aiment pas avoir des politiciens arrogants et les Canadiens ont massivement rejeté le chef de l'opposition aux dernières élections. Les Canadiens, y compris des députés et partisans libéraux, sont convaincus qu'il ne devrait pas être le premier ministre seulement parce qu'il en décide ainsi.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254095">Malgré notre désir de mener par l'exemple en nous privant des subventions aux partis politiques, il est maintenant évident que les partis d'opposition ne sont pas prêts à mettre les intérêts des Canadiens devant les leurs. Nous avons retiré notre proposition d'éliminer la subvention accordée aux politiciens et aux partis politiques.</ParaText>
+              <ParaText id="1254096">Nous avons démontré notre désir de faire preuve de compromis avec les partis d'opposition afin de faire adopter notre énoncé économique, ce qui serait dans l'intérêt de tous les Canadiens. J'invite alors l'opposition à faire preuve de sagesse et de patience, et d'attendre le dépôt du budget 2009 dans les semaines à venir.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254097">Compte tenu des événements sans précédent auxquels nous assistons sur la Colline, je veux rassurer les gens de ma circonscription que je suis leur député. Ils m'ont élu et donné un mandat fort et cela ne changera pas en ces temps difficiles.</ParaText>
+              <ParaText id="1254098">Toutefois, le Parti libéral et le NPD ont élaboré une entente avec le Bloc, un parti séparatiste dont le principal objectif est de briser l'unité du Canada. Ils ont formé une coalition et tentent de s'emparer du pouvoir et de faire du <Affiliation DbId="105459" Type="96">chef de l'opposition</Affiliation> le premier ministre, ce même chef qui a été massivement rejeté par les Canadiens et les gens de ma circonscription il y a à peine sept semaines. Ils veulent faire tout cela sans tenir des élections.</ParaText>
+              <ParaText id="1254099">J'encourage tous les gens de ma circonscription et tous les Canadiens à faire connaître leurs points de vue sur cette question très importante. Il existe beaucoup de sites web, notamment le mien, qui leur permettront de se faire entendre. Le moment est venu d'agir. Le moment est venu de défendre le Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Murphy (Moncton—Riverview—Dieppe)" id="2567213">
+            <PersonSpeaking>
+              <Affiliation DbId="128381" Type="2">M. Brian Murphy (Moncton—Riverview—Dieppe, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254100">Monsieur le Président, j'ai beaucoup de respect pour le député, je sais qu'il était membre des Forces armées canadiennes, mais je dois lui poser deux questions simples.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254101">La première porte sur l'arrogance et sur l'honnêteté si importante, selon ses dires, chez un chef. Est-ce que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a dit la vérité lorsqu'il a dit qu'il n'y avait pas de drapeaux derrière la table à laquelle les trois signataires de l'entente de coalition se sont assis? A-t-il dit la vérité?</ParaText>
+              <ParaText id="1254102">J'ai une deuxième question. Si le soutien du Bloc québécois est si odieux et si terrible, pourquoi son gouvernement a-t-il compté sur ses voix 140 fois au cours de la dernière législature? Pourquoi les conservateurs ont-ils accepté son soutien 140 fois pour des projets de loi qu'ils estimaient importants pour faire avancer leur programme, s'il est si odieux d'accepter le soutien du Bloc québécois pour faire adopter des projets de loi?</ParaText>
+              <ParaText id="1254103">J'entends un député de l'Alberta soulever une question qui divise le pays. Nous, à la Chambre, voulons l'unité dans ce pays.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lemieux" id="2567215">
+            <PersonSpeaking>
+              <Affiliation DbId="128868" Type="18">M. Pierre Lemieux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254104">Monsieur le Président, je suis content que mon collègue ait soulevé la question des drapeaux. La réponse est catégorique: il n'y avait pas de drapeaux canadiens directement derrière les trois chefs au moment où ils ont signé l'entente. Les drapeaux canadiens ont été repoussés loin sur le côté et ils ne se trouvaient pas derrière les trois chefs au moment où ils ont signé cette entente conclue en catimini. Je remercie le député de me donner l'occasion de fournir des éclaircissements au sujet de l'absence de drapeaux canadiens derrière les trois chefs durant la signature de l'entente.</ParaText>
+              <ParaText id="1254105">Pour ce qui est du parti séparatiste qu'est le Bloc, que le Bloc choisisse de voter pour une mesure législative que le gouvernement propose, c'est une chose, mais nous n'avons pas et n'aurons jamais d'entente officielle de partage du pouvoir en vertu duquel le gouvernement dirigera le pays en collaboration avec le Bloc séparatiste. Il y a une différence entre les deux et elle est de taille. L'opposition a donné au Bloc séparatiste un pouvoir de veto sur des questions qui touchent le Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="25">(1025)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. St-Cyr" id="2567218">
+            <PersonSpeaking>
+              <Affiliation DbId="128459" Type="2">M. Thierry St-Cyr (Jeanne-Le Ber, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254106">Monsieur le Président, tout le monde veut intervenir ce matin. Si l'on en croit les conservateurs, il faudra refaire votre trône, votre siège, parce que le drapeau qui est à votre droite devra être placé derrière vous. En effet, selon les conservateurs, un drapeau sur les côtés, ce n'est pas bon, il doit être derrière les gens. C'est un argument complètement fallacieux.</ParaText>
+              <ParaText id="1254107">J'aurais une petite question un peu plus sérieuse sur le double langage des conservateurs selon qu'ils parlent en français ou en anglais. C'est drôle: lorsque j'écoute l'interprétation faite par les gens qui sont dans les cabines et qui font un travail formidable, je remarque que, lorsqu'on dit en anglais « <I>separatists</I> », on traduit en français par « séparatistes » et que, lorsqu'on dit en français « souverainistes », on traduit en anglais par « <I>sovereignists</I> ». Tout le monde comprend cela. Il n'y a que les conservateurs qui utilisent un double discours: en français, pour ne pas choquer les Québécois, ils utilisent le terme « souverainistes », et en anglais, pour faire un peu de <I>Quebec bashing</I>, pour faire montre de haine envers les Québécois, ils utilisent le terme « <I>separatistssssssss</I> ».</ParaText>
+              <ParaText id="1254108">Le député est-il conscient qu'il prend les citoyens pour des imbéciles en tenant ce double langage?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lemieux" id="2567222">
+            <PersonSpeaking>
+              <Affiliation DbId="128868" Type="18">M. Pierre Lemieux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254109">Monsieur le Président, j'estime juste de signaler, et le député d'en face devrait s'en rendre compte, qu'une même notion se rend par un terme propre à chaque langue et qu'un même terme peut avoir une signification différente d'une langue à l'autre. Ainsi, il n'y a pas de problème à utiliser le terme « separatists » en anglais et « souverainistes » en français.</ParaText>
+              <ParaText id="1254110">Cependant, je précise que nous véhiculons un seul et même message dans les deux langues, en l'occurrence que le Bloc québécois est un parti séparatiste. D'ailleurs, les bloquistes l'admettent. Le chef du Bloc québécois et M. Parizeau le reconnaissent également. Je tiens aussi à apporter des précisions concernant notre message. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1254111">On ne parle pas du Québec ni des Québécois, des Franco-Ontariens, des francophones du Québec ou des francophones du Canada. On ne parle pas des francophones. On parle plutôt des bloquistes et des députés du Bloc québécois qui sont séparatistes ou souverainistes. C'est le plus grand problème.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1254112">Je remercie les députés de me donner l'occasion d'apporter certains éclaircissements concernant notre message, d'une part, et de rappeler que ce sont les députés bloquistes qui sont séparatistes, d'autre part. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Godin" id="2567226">
+            <PersonSpeaking>
+              <Affiliation DbId="128673" Type="2">M. Yvon Godin (Acadie—Bathurst, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254113">Monsieur le Président, nous en sommes maintenant rendus au point où nous devons nous battre pour savoir de quel côté est le drapeau canadien. Hier soir, j'ai écouté le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> lorsqu'il s'est adressé à la nation. Or, le drapeau canadien n'était pas derrière lui, il était de chaque côté de lui.</ParaText>
+              <ParaText id="1254114">Bref, cela démontre comment on en est rendu bas dans cette Chambre des communes. On devrait plutôt s'occuper de l'économie et des gens qui ont perdu leur emploi. </ParaText>
+              <ParaText id="1254115">Je vais y aller plus rapidement. Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a dit durant l'élection que s'il obtenait un gouvernement minoritaire, il travaillerait avec l'opposition. Le lendemain de l'élection, il s'est encore adressé à la nation en lui disant que maintenant qu'elle a choisi un gouvernement minoritaire, il travaillerait avec l'opposition pour que le Parlement fonctionne.</ParaText>
+              <ParaText id="1254116">Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a-t-il téléphoné aux trois leaders de l'opposition pour ainsi être capable d'analyser le problème économique et d'élaborer un budget? Oui ou non?</ParaText>
+              <ParaText id="1254117">En même temps, si on laisse tout cela de côté, j'aimerais que le député réponde à cette question. Supposons qu'il y a un budget au mois de janvier et que les libéraux et les néo-démocrates votent contre, et que le Bloc québécois — supposément les séparatistes comme ils les appellent — votent avec les conservateurs, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> dira-t-il que le vote vient des séparatistes, qu'il ne peut l'accepter et qu'il doit déclencher une élection?</ParaText>
+              <ParaText id="1254118">J'aimerais que le député ne fasse pas le tour de l'arbre et nous raconte des histoires. J'aimerais qu'il réponde à ces deux questions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lemieux" id="2567228">
+            <PersonSpeaking>
+              <Affiliation DbId="128868" Type="18">M. Pierre Lemieux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254119">Monsieur le Président, je suis étonné du manque de profondeur des questions. Je crois que le député devrait prendre la situation un peu plus au sérieux.</ParaText>
+              <ParaText id="1254120">Comme je l'ai indiqué, le gouvernement ne s'opposera pas à ce qu'un parti se prononce en faveur d'une mesure législative que le gouvernement a présentée, mais il n'acceptera pas qu'on propose une entente officielle de partage du pouvoir pour gouverner le Canada.</ParaText>
+              <ParaText id="1254121">Puisqu'il est question de gouvernement minoritaire et de collaboration avec l'opposition, je rappelle que, hier soir, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a encore une fois, sur les ondes de la télévision nationale, demandé aux partis de l'opposition de présenter leurs idées au gouvernement et de collaborer avec lui. Les partis d'opposition ne veulent pas collaborer et le NPD a conclu depuis bien longtemps une entente secrète avec le Bloc québécois, un parti séparatiste; voilà le problème. C'est le chef néo-démocrate lui-même qui l'a affirmé. Peut-on croire que le NPD veut vraiment défendre les intérêts des Canadiens et collaborer avec le gouvernement alors qu'il conclut une entente secrète avec le Bloc québécois, dans le dos des Canadiens? Je pense que non. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="30">(1030)</Timestamp>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Hawn" id="2567230">
+            <PersonSpeaking>
+              <Affiliation DbId="128866" Type="18">M. Laurie Hawn (secrétaire parlementaire du ministre de la Défense nationale, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254122">Monsieur le Président, j'aimerais revenir à la question de la mise à jour économique et à certains faits. En pratique, le Canada compte pour environ 2 p. 100 de l'économie mondiale. Certaines personnes semblent penser que le Canada peut fonctionner indépendamment du reste du monde qui représente 98 p. 100 de l'économie mondiale. Il va sans dire que c'est ridicule. </ParaText>
+              <ParaText id="1254123">Mon collègue pourrait-il nous faire part de ses observations, d'une part, sur la sagesse ou plutôt la folie d'agir précipitamment, compte tenu de la crise aux États-Unis, particulièrement quand on sait que l'économie et les industries américaines sont étroitement liées aux nôtres, et, d'autre part, sur la sagesse d'attendre jusqu'au 27 janvier pour présenter un budget qui tiendrait compte des mesures prises par les Américains? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lemieux" id="2567232">
+            <PersonSpeaking>
+              <Affiliation DbId="128868" Type="18">M. Pierre Lemieux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254124">Monsieur le Président, le député a souligné un point clé. </ParaText>
+              <ParaText id="1254125">Dans notre mise à jour économique, nous avons précisé très clairement que stimuler l'économie était important et nécessaire. Toutefois, il est également nécessaire de collaborer avec notre plus important partenaire commercial, les États-Unis, qui est sur le point d'avoir un nouveau gouvernement.</ParaText>
+              <ParaText id="1254126">Les secteurs de l'automobile américain et canadien sont interreliés, et il serait imprudent de la part du Canada de mettre en place ses propres mesures de relance sans tenir compte des répercussions que les mesures américaines pourraient avoir sur notre pays. Comme je l'ai mentionné, il serait préférable que nous prenions le temps de consulter nos experts financiers, nos intervenants et les Canadiens, que nous surveillions ce que les Américains font et que nous travaillions tous ensemble. </ParaText>
+              <ParaText id="1254127">J'aimerais répéter ce que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a dit hier soir. Nous demandons à l'opposition de participer à ce processus. Le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> a affirmé que le budget serait déposé en janvier. L'opposition a le temps, entre maintenant et janvier, de participer à ce budget et à ce processus très important pour tous les Canadiens.</ParaText>
+              <ParaText id="1254128">Je demande à l'opposition de renoncer à son coup de force. Collaborons dans l'intérêt de l'économie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Szabo" id="2567234">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo (Mississauga-Sud, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254129">Monsieur le Président, je suis heureux de participer au débat sur l'énoncé économique présenté le 27 novembre par le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation>. Malheureusement, le débat a pris une tout autre tournure. Nous avons passé beaucoup trop de temps à discuter de politique et de stratégies.</ParaText>
+              <ParaText id="1254130">Nous sommes saisis d'une question importante qui touche la vie quotidienne de presque tous les Canadiens.</ParaText>
+              <ParaText id="1254131">Le Parlement fonctionne selon le principe de la confiance, ce qui signifie que le parti au pouvoir jouit de la confiance de la Chambre. Il ne faut pas l'oublier. Ce principe repose sur le fait que l'information fournie à l'extérieur de la Chambre est exacte. Il dépend donc de la présomption d'honnêteté. Malheureusement, nous avons trop souvent connu des situations où certaines personnes agissent de manière à n'avoir de comptes à rendre à personne.</ParaText>
+              <ParaText id="1254132">Selon moi, rendre des comptes signifie dévoiler complètement les raisons qui sous-tendent chaque décision afin que les gens puissent les comprendre. Se perdre dans les détails ou ne révéler qu'une partie des faits favorise la multiplicité des interprétations au détriment de la vérité, et je crois que c'est ce qui frustre les Canadiens.</ParaText>
+              <ParaText id="1254133">Après les élections de 2006, le premier point à l'ordre du jour du Parlement a été la reddition de comptes. Au titre de la Loi fédérale sur la responsabilité, nous avons créé le poste de directeur parlementaire du budget. Ce directeur, M. Page, a été nommé par le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> parce que des députés de certains partis s'étaient dits préoccupés par l'intégrité des renseignements fournis par le gouvernement.</ParaText>
+              <ParaText id="1254134">Le directeur parlementaire du budget, qui est indépendant et qui a accès aux mêmes ressources ministérielles que le ministre des Finances, peut fournir aux Canadiens des renseignements justes et fiables.</ParaText>
+              <ParaText id="1254135">Par conséquent, le point de départ du présent débat devrait être les propos tenus le 20 novembre par le directeur parlementaire du budget, qui est un mandataire du Parlement. Il a dit que les difficultés financières actuelles du gouvernement du Canada n'avaient rien à voir avec la crise financière ou le resserrement du crédit à l'échelle mondiale. En fait, il a même dit que les problèmes financiers découlaient totalement des décisions prises par le gouvernement conservateur actuel.</ParaText>
+              <ParaText id="1254136">Le directeur parlementaire du budget a été nommé par le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> et son rôle est de donner l'heure juste. Il a dit clairement que les problèmes découlaient de l'érosion de l'assiette fiscale et d'une augmentation des dépenses de plus de 40 milliards de dollars par année, ce qui nous a placés dans une situation déficitaire.</ParaText>
+              <ParaText id="1254137">M. Page a publié un rapport dans lequel il souligne que ce qui se passe en ce moment est largement attribuable aux décisions des conservateurs en matière de politiques fiscales. </ParaText>
+              <ParaText id="1254138">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Ce faible rendement financier n'est sans doute pas attribuable, cependant, aux piètres conditions économiques [...] [mais en grande partie [à des] décisions politiques antérieures] [...] puisque le PIB nominal est plus élevé qu'on ne l'avait prévu dans le Budget 2008. </QuotePara>
+                </Quote>
+              </ParaText>
+              <Timestamp Hr="10" Mn="35">(1035)</Timestamp>
+              <ParaText id="1254139">Il faut qu'il soit bien clair, peu importe de quel côté de la Chambre nous nous trouvons, que les chiffres avancés dans le scénario de déficit présenté par le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> à l'occasion de l'énoncé économique du 27 novembre sont le reflet des résultats que le gouvernement prévoit obtenir s'il ne fait absolument rien d'autre. Il n'a aucun budget ni stimulant économique. Il affirme qu'il suffit de continuer à ne rien faire. </ParaText>
+              <ParaText id="1254140">Si on regarde à la page 50, on voit que le gouvernement prévoit un déficit de 6 milliards de dollars au prochain exercice financier. Il a hérité d'un excédent annuel de 13 milliards de dollars, mais tout ça s'est envolé. Il n'y a plus d'excédent. Il a été réduit à néant par l'érosion de l'assiette fiscale et par des dépenses excessives à un moment où il aurait fallu faire preuve de prudence.</ParaText>
+              <ParaText id="1254141">Les mécanismes d'établissement de budget et de dépenses du gouvernement conservateur sont différents de ceux qui étaient utilisés auparavant. Par exemple, lorsque les libéraux ont pris le pouvoir en 1993 et qu'ils ont hérité d'un déficit annuel de 42 milliards de dollars, nous avons dû faire le ménage sur le plan financier. Il nous a fallu jusqu'en 1997 pour y parvenir, mais nous avons connu par la suite des budgets excédentaires. Nous avons toujours atteint, voire dépassé nos objectifs. Il ne faut jamais oublier que si nous ne pouvons pas rembourser une partie de la dette en période de vaches grasses, il nous sera impossible de le faire en période de vaches maigres. C'est important, et c'est pourquoi il n'est pas si mauvais de disposer d'un excédent. </ParaText>
+              <ParaText id="1254142">Les crises auxquelles nous avons été confrontés, notamment celles du SRAS, de l'ESB, du peso mexicain, ou encore celle du 11 septembre, ont eu des incidences majeures sur la situation financière de tous les gouvernements concernés. </ParaText>
+              <ParaText id="1254143">Les plans financiers et la stratégie du gouvernement prévoyaient une réserve pour éventualités. Il est surprenant de constater que même le <Affiliation DbId="128843" Type="18">secrétaire parlementaire du ministre des Finances</Affiliation> pensait qu'il s'agissait d'argent accumulé dans un fonds de réserve qui pouvait être utilisé en cas de besoin. La réserve pour éventualités n'est pas de l'argent mis de côté. C'est un principe. Selon le mécanisme de la réserve pour éventualités, lorsque l'excédent n'est plus que de 3 milliards de dollars, nous arrêtons de dépenser, à moins de circonstances non planifiées, imprévues, comme une crise du SRAS, une crise de l'ESB ou des événements comme ceux du 11 septembre. Voilà quand nous pouvons piger dans les derniers 3 milliards de dollars de l'excédent de l'exercice courant.</ParaText>
+              <ParaText id="1254144">Un autre principe s'applique, à savoir le principe de prudence, qui a été la source d'un certain malaise à la suite des prévisions du gouvernement relatives au taux de croissance et aux taux d'intérêt. Nous tenons compte des points de vue de diverses parties, mais nous tenons à intégrer le principe de prudence à notre budgétisation. En vertu du facteur de prudence, le taux de croissance moyen du PIB tel qu'anticipé par les tiers a été réduit d'un quart ou de moitié. En fait, cette estimation de la croissance était très conservatrice. Nous n'avons pas voulu l'exagérer. C'est pourquoi nous avons établi notre budget en fonction du pire scénario possible.</ParaText>
+              <ParaText id="1254145">Voilà les éléments des budgets que nous avons présentés au Parlement. Voilà les principes selon lesquels nos budgets ont été préparés et grâce auxquels nous avons remis de l'ordre dans la comptabilité du gouvernement et joui pendant dix ans d'excédents qui nous ont permis de rembourser la dette, de rétablir le financement de tous les programmes importants dont les Canadiens ont besoin et qu'ils méritent et de réduire les impôts, mais seulement quand nous en avons eu les moyens.</ParaText>
+              <ParaText id="1254146">Par exemple, nous pouvons vendre un actif, encaisser les profits de cette vente puis dépenser cet argent qui reste disponible pendant un an. Nous pouvons aussi conserver cet actif dont nous tirons des dividendes ou un certain rendement, notamment en le mettant en location. De cette façon, nous pouvons encaisser ces bénéfices générés par cet actif année après année, aussi longtemps que nous en sommes propriétaires.</ParaText>
+              <Timestamp Hr="10" Mn="40">(1040)</Timestamp>
+              <ParaText id="1254147">Il est important de comprendre que l'énoncé économique présenté le 27 novembre par le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> est sous-tendu par certains principes. L'énoncé prévoit notamment la vente de 10 milliards de dollars d'actifs. Lorsqu'on vend pour 10 milliards de dollars d'actifs, on dispose de cette somme à dépenser une seule fois. Avant qu'on les vende, ces actifs généraient des rentrées d'argent ou permettaient d'éviter des dépenses.</ParaText>
+              <ParaText id="1254148">Permettez-moi de vous donner un exemple. Si des employés de l'État travaillent dans un bâtiment et que l'on vend ce bâtiment, puis qu'on signe un bail avec le nouveau propriétaire, il faut lui payer un loyer. Lorsqu'on demeure propriétaire d'un bâtiment, on n'a pas de loyer à payer, mais on a d'autres dépenses, comme la maintenance, l'amortissement, et ainsi de suite. Il y a certaines implications financières. En général, être propriétaire d'un actif bien géré est une meilleure affaire qu'une location parce qu'il n'y a aucun rendement d'associé à la location.</ParaText>
+              <ParaText id="1254149">Je suis un comptable agréé et je ne voudrais pas commencer à donner une leçon de comptabilité aux députés. Cependant, je voudrais qu'ils comprennent qu'il y a des éléments fondamentaux que nous ne devrions pas balayer du revers de la main. On ne peut pas ignorer ces éléments parce que ce sont des faits indiscutables.</ParaText>
+              <ParaText id="1254150">Quelles que soient les protestations du gouvernement, le directeur parlementaire du budget a indiqué que le gouvernement était le seul responsable du gâchis économique dans lequel nous nous trouvons aujourd'hui et qui ne manquera pas d'empirer.</ParaText>
+              <ParaText id="1254151">Il y a un article intéressant dans le <I>Globe and Mail</I> sur lequel j'aimerais attirer l'attention de la Chambre et des Canadiens parce que je pense que c'est un texte utile. Le titre de l'article est « Le plan [du ministre des Finances] étire la douleur ». L'auteur qui donne ce point de vue est l'un des prévisionnistes auquel le gouvernement se fie dans ses travaux budgétaires, y compris la mise à jour du 27 novembre.</ParaText>
+              <ParaText id="1254152">Dans la mise à jour financière, le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> a prétendu que ses allègements fiscaux précédents avaient injecté environ 31 milliards de dollars dans l'économie canadienne. Permettez-moi de rappeler à la Chambre la présomption d'honnêteté, d'intégrité, de crédibilité et de responsabilité.</ParaText>
+              <ParaText id="1254153">Le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> dit que les mesures adoptées précédemment par le gouvernement continuent d'injecter chaque année 31 milliards de dollars dans l'économie. Selon lui, c'est la raison qui explique qu'il n'a pas pris tout de suite des mesures additionnelles pour stimuler l'économie. C'est un fait indéniable. Le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> répète sans cesse qu'il veut attendre pour voir si le pays a besoin de mesures additionnelles pour stimuler l'économie. Il attend de voir si des emplois seront perdus.</ParaText>
+              <ParaText id="1254154">Quiconque a suivi le cours d'économique 101 sait que les mesures n'agissent pas instantanément. Il peut s'écouler trois, six ou neuf mois avant qu'elles fassent effet, selon le type de mesures.</ParaText>
+              <ParaText id="1254155">Si l'on attend d'avoir toutes les données en main avant d'agir, il risque d'être trop tard, et l'argent dépensé pourrait bien l'être pour rien, car on se sera placés dans une situation inextricable. </ParaText>
+              <ParaText id="1254156">J'ai ici un article dans lequel un prévisionniste de confiance du <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> affirme que le ministre fait erreur. On ne peut pas présumer que les mesures prises au cours des quelques dernières années vont continuer de stimuler l'économie. Ce n'est pas le cas.</ParaText>
+              <ParaText id="1254157">Nous sommes entrés dans un cycle déflationniste. Le taux de croissance de 0,3  p. 100 annoncé dans l'énoncé économique pour le prochain exercice est le plus élevé de tous ceux avancés par les experts. En fait, la croissance de la plupart des pays se situe entre zéro et moins 0,2 %.</ParaText>
+              <ParaText id="1254158">Pourquoi le directeur parlementaire du budget n'est-il pas d'accord avec le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation>? Même les prévisionnistes auxquels le ministre se fie en matière budgétaire ne sont pas d'accord avec lui. L'OCDE n'est pas d'accord non plus. Personne au sein du G20 n'est d'accord avec notre ministre des Finances.</ParaText>
+              <ParaText Interjection="e1" id="1254159">
+                <Affiliation DbId="128743" Type="2">L'hon. Joseph Volpe:</Affiliation> Ils doivent tous avoir tort, et lui, raison. </ParaText>
+              <ParaText id="1254160">
+                <Affiliation DbId="128094">M. Paul Szabo:</Affiliation> Ils doivent tous avoir tort, et le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> doit être le seul à savoir ce qu'il en est.</ParaText>
+              <Timestamp Hr="10" Mn="45">(1045)</Timestamp>
+              <ParaText id="1254161">Si l'on examine très attentivement la situation — et il ne s'agit pas d'une question subjective —, on se rend compte que les chiffres sont éloquents et se passent de commentaires. Ils commencent d'ailleurs à affluer, révélant que nous sommes déjà en récession, que nous accusons déjà un déficit et que notre croissance est à la baisse, et non à la hausse. Pourtant, l'énoncé économique dit que nous connaîtrons encore une croissance de 0,3  p. 100.</ParaText>
+              <ParaText id="1254162">Cela n'est pas crédible, et c'est le propos de cet article. Le gouvernement a induit les Canadiens et les parlementaires en erreur. Par-dessus le marché, et je ne m'étendrai pas sur la question parce qu'on passerait un mauvais quart d'heure, il a inséré dans son énoncé quelques éléments qui soulèveraient les passions chez certaines personnes. Cet énoncé n'a rien à voir avec la protection des emplois, de l'épargne, des hypothèques et des pensions des Canadiens. C'est un exercice purement politique. Voilà pourquoi les Canadiens sont si fâchés.</ParaText>
+              <ParaText id="1254163">Le taux de participation aux dernières élections a été très bas. Je ne peux pas avancer de raisons précises pour l'expliquer; je ne peux que présumer que les mesquineries, les petits jeux et le manque de confiance ont fait que des bonnes gens ordinaires respectueuses de la loi ont posé un jugement sur le Parlement et sur le gouvernement et décidé qu'elles ne voulaient rien savoir de nous.</ParaText>
+              <ParaText id="1254164">Qu'attend-on pour changer, pour commencer à voir les choses en face et à intervenir énergiquement quand il le faut?</ParaText>
+              <ParaText id="1254165">Je me demande ce que diraient les Canadiens si le gouvernement annonçait que le Parlement reprendra ses travaux le 4 janvier, et non le 27, et que le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> présentera, à la Chambre, un mini-budget, pas un budget en tant que tel, ainsi que les principales stratégies et mesures que prendra le gouvernement pour répondre à la crise économique canadienne. Honnêtement, je pense que les Canadiens trouveraient que c'est un geste responsable. Les Canadiens pourraient ensuite se pencher sur ce programme et chercher l'avis d'experts pour déterminer si c'est la bonne marche à suivre.</ParaText>
+              <ParaText id="1254166">Nous connaissons l'opinion des provinces, des prévisionnistes, des Canadiens et de chacun des partis politiques. Ils veulent tous qu'on présente des mesures de stimulation. Les secteurs forestier, de l'automobile et de la fabrication ainsi que le secteur des soins de santé exigent tous de telles mesures. L'OCDE estime à 250 000 le nombre d'emplois que nous allons perdre dans un avenir proche. Ce sera très dur pour beaucoup de Canadiens.</ParaText>
+              <ParaText id="1254167">Comment pouvons-nous faire abstraction du fait que les Canadiens nous demanderont de faire quelque chose pour améliorer la situation?</ParaText>
+              <ParaText id="1254168">Nous pouvons faire quelque chose. Nous pouvons accélérer la mise en oeuvre des programmes d'infrastructure. Nous pouvons investir dans certains domaines où des pertes d'emploi sont prévues, ce qui stimulera l'économie. Nous pouvons atténuer les pertes d'emploi, ou nous pouvons investir dans les domaines où des emplois pourront être créés rapidement.</ParaText>
+              <ParaText id="1254169">L'heure est venue de ranger nos beaux discours sur la façon de s'y prendre et sur le parti qui gouvernera le pays. Il est question de la survie et du dynamisme économique du Canada. Nous demandons à tous les députés de cesser de s'adonner à des jeux politiques et de donner priorité aux intérêts du peuple plutôt qu'aux intérêts partisans.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="50">(1050)</Timestamp>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Chong" id="2567237">
+            <PersonSpeaking>
+              <Affiliation DbId="128250" Type="2">L'hon. Michael Chong (Wellington—Halton Hills, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254170">Monsieur le Président, en regardant ce qui est en train de se passer, je me pose une question. Qu'est-ce que Robert Baldwin et Louis-Hyppolyte La Fontaine, deux pères du gouvernement responsable au Canada, deux citoyens, l'un francophone et l'autre anglophone, qui ont collaboré pour en arriver à un consensus, deux personnes qui, parlant des rébellions dans le Haut et le Bas-Canada au XIX<Sup>e</Sup> siècle, ont déclaré que la violence n'était pas une solution et qu'il fallait plutôt redéfinir le rôle de l'organe législatif du gouvernement pour en faire le centre de la vie politique de la nation, diraient de tous ces événements qui se sont produits tant à l'intérieur qu'à l'extérieur de la Chambre au cours de la semaine? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Szabo" id="2567239">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254171">Monsieur le Président, ils nous diraient probablement de reprendre le collier. Ils nous diraient probablement de faire notre travail. Ils nous diraient probablement de faire passer les intérêts des Canadiens avant les nôtres. Ils nous diraient probablement de cesser de nous livrer à des jeux politiques au Parlement et de commencer à adopter des politiques solides qui permettraient de créer des emplois, de protéger les travailleurs âgés, de modifier le programme de l'assurance-emploi, de préparer une politique d'immigration juste et raisonnable et d'aider les jeunes à acquérir les compétences et l'aide transitoire dont ils ont besoin. </ParaText>
+              <ParaText id="1254172">C'étaient des hommes intelligents. Voilà ce qu'ils auraient fait et c'est exactement ce que le gouvernement devrait faire. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Question" ToC="Yes" ToCText="Mme Crombie" id="2567241">
+            <PersonSpeaking>
+              <Affiliation DbId="128102" Type="2">Mme Bonnie Crombie (Mississauga—Streetsville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254173">Monsieur le Président, le député de <Affiliation DbId="128094" Type="2">Mississauga-Sud</Affiliation> a parlé d'un article paru dans le <I>Globe and Mail</I> d'aujourd'hui dans lequel un important groupe de réflexion sur l'économie, sur lequel le ministère des Finances se base pour fournir ses prévisions économiques, a déclaré que la mise à jour déposée par le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> la semaine dernière prolongerait la récession et accroîtrait le danger de déflation. On y disait même que l'orientation prise dans l'énoncé économique pourrait nous lancer dans une dangereuse spirale déflationniste.</ParaText>
+              <ParaText id="1254174"> Compte tenu du mépris dont le gouvernement a fait preuve à l'égard du principe de la gestion financière prudente et de son refus de stimuler l'économie et de prévoir un plan, les trois partis de l'opposition avaient-ils d'autre choix que d'offrir au Canadiens une solution de rechange qui pourrait permettre de rétablir la confiance à la Chambre et d'assurer une saine gestion financière au pays? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="55">(1055)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Szabo" id="2567243">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254175">Monsieur le Président, la députée de <Affiliation DbId="128102" Type="2">Mississauga—Streetsville</Affiliation> a posé une question responsable. J'espère que les Canadiens verront que les tierces parties qui conseillent le gouvernement ont exprimé leur stupéfaction et leur consternation après avoir vu les informations trompeuses et carrément erronées présentées au Parlement et à l'ensemble des Canadiens dans la mise à jour financière. Les chiffres sont tout simplement inexacts. </ParaText>
+              <ParaText id="1254176">Un tel comportement de la part du gouvernement est dangereux parce que cela montre qu'il nie la menace que représente le tsunami financier qui ne s'est même pas encore abattu sur le Canada. Nous n'avons encore rien vu. Nous sommes déjà en déficit et le pire est encore à venir.</ParaText>
+              <ParaText id="1254177">Le gouvernement a perdu la confiance du Parlement parce qu'il ne mérite plus la confiance du Parlement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Question" ToC="Yes" ToCText="Mme Mathyssen" id="2567245">
+            <PersonSpeaking>
+              <Affiliation DbId="128127" Type="2">Mme Irene Mathyssen (London—Fanshawe, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254178">Monsieur le Président, au cours de la dernière semaine, ou peut-être même depuis plus longtemps, j'ai pensé souvent à une phrase de Dante, qui a dit que les endroits les plus chauds de l'enfer étaient réservés à ceux qui refusaient d'agir en temps de crise nationale. </ParaText>
+              <ParaText id="1254179">Cette phrase me revient à l'esprit constamment. Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a présenté un discours du Trône ainsi qu'une mise à jour économique. Hier soir, il a eu l'occasion de dire à la nation qu'il avait un plan économique qui contiendrait des mesures de relance qui nous permettraient d'améliorer notre infrastructure, de répondre aux besoins des secteurs automobile, manufacturier et forestier, de protéger les Canadiens, de veiller à ce que les travailleurs mis à pied aient accès aux prestations d'assurance-emploi et d'améliorer le sort des familles grâce à une hausse de la prestation fiscale pour enfants.</ParaText>
+              <ParaText id="1254180">Pourquoi le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> et son gouvernement refusent-ils d'agir?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Szabo" id="2567247">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254181">Monsieur le Président, la députée a raison.</ParaText>
+              <ParaText id="1254182">Permettez-moi de terminer mon survol de l'article du <I>Globe and Mail</I> d'aujourd'hui. Selon les experts, la seule façon de se sortir de l'impasse du crédit, c'est de mettre en oeuvre des mesures de politique budgétaire qui stimuleront l'économie. Le Fonds monétaire international partage cette opinion, et il en va de même des leaders des pays du G20, dont le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> du Canada, qui se sont mis d'accord sur une action concertée dans le cadre du sommet qui s'est tenu à Washington le mois dernier.</ParaText>
+              <ParaText id="1254183">Cet expert ajoute qu'il a évalué les retombées des mesures et du cadre stratégique que propose la coalition, en puissance, du NPD et du Parti libéral. Selon lui, la mise en vigueur des mesures de relance de 15 milliards de dollars en 2009 donnerait lieu à une augmentation de 1,4 point de pourcentage de la croissance l'an prochain, pour un total de 1,6 p. 100 sous réserve que les effets des mesures à long terme se fassent sentir rapidement sur l'économie.</ParaText>
+              <ParaText id="1254184">Il conclut que la coalition économique des néo-démocrates et des libéraux est responsable et qu'elle répondra aux besoins des Canadiens en protégeant leurs emplois, leurs hypothèques, leurs épargnes et leurs pensions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Question" ToC="Yes" ToCText="Mme McLeod" id="2567249">
+            <PersonSpeaking>
+              <Affiliation DbId="128737" Type="2">Mme Cathy McLeod (Kamloops—Thompson—Cariboo, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254185">Monsieur le Président, en tant que nouvelle députée j'ai été tout ouïe et tout oreilles. J'ai aussi observé la situation dans ma circonscription, notamment pour ce qui est de certaines initiatives lancées par Diversification de l'économie de l'Ouest. J'ai vu des équipes travailler à l'amélioration de notre aéroport dans le cadre d'un projet de Diversification de l'économie de l'Ouest.</ParaText>
+              <ParaText id="1254186">J'ai rencontré des travailleurs forestiers. Ils font face à des difficultés, mais il peuvent compter sur un programme de recyclage. Hier, j'ai rencontré une personne qui désire lancer un projet avec une collectivité des Premières nations dans le secteur des biocarburants de deuxième génération.</ParaText>
+              <ParaText id="1254187">Ces initiatives ont été rendues possibles en 2008. Elles ont des retombées économiques très positives dans nos collectivités.</ParaText>
+              <ParaText id="1254188">En tant qu'ancienne travailleuse de la santé, je vois les effets des transferts continus au chapitre de la santé. Ces transferts ne bénéficieront pas seulement au secteur de la santé; ils nous permettront aussi de stimuler l'économie.</ParaText>
+              <ParaText id="1254189">Cet énoncé économique fait état de bon nombre de dossiers qu'on a signalés ou dont on a discuté. Il semble que les libéraux s'inspirent de plusieurs mesures que nous envisageons d'annoncer en janvier.</ParaText>
+              <ParaText id="1254190">J'aimerais savoir ce qu'en pense le député.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Szabo" id="2567251">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254191">Monsieur le Président, le gouvernement a proposé de retirer les droits des travailleurs et des femmes, de mettre un terme aux rajustements pour l'équité salariale et de supprimer le financement démocratique. Il a proposé de supprimer des programmes d'alphabétisation, de supprimer des programmes pour les femmes et de supprimer le Programme de contestation judiciaire.</ParaText>
+              <ParaText id="1254192">Quant à ce que nous devrions faire, pourquoi ne pas accélérer le programme d'infrastructure? Pourquoi ne pas faciliter la construction de logements et la rénovation domiciliaire? Pourquoi ne pas aider les secteurs clés comme la fabrication, les forêts et l'automobile en présentant des plans de consolidation? Pourquoi ne pas favoriser le développement des compétences? Pourquoi ne pas se débarrasser de la société d'État que constitue le Compte d'assurance-emploi et éliminer la période de carence de deux semaines pour les prestataires? Pourquoi ne pas réduire le retrait minimum des FERR de 50 p. 100 au lieu de seulement 25 p. 100? On pourrait aussi traiter des régimes de pension aux prises avec une faillite imminente. Pourquoi ne pas traiter de la transition pour les travailleurs approchant de l'âge de la retraite? Pourquoi ne pas s'assurer que la réforme de l'immigration est juste et qu'elle répond aux besoins et aux désirs des Canadiens? Pourquoi ne pas s'occuper de développement régional, d'éducation et de développement préscolaire, de l'environnement?</ParaText>
+              <ParaText id="1254193">Le gouvernement n'a pas présenté de plan responsable et viable. Il a perdu la confiance du Parlement. On ne peut pas lui faire confiance. Il n'est pas intéressé à travailler en tant que gouvernement minoritaire ou à veiller à ce que le Parlement fonctionne dans ce contexte. Il faut remplacer le gouvernement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Question" ToC="Yes" ToCText="Mme Leslie" id="2567253">
+            <PersonSpeaking>
+              <Affiliation DbId="128555" Type="2">Mme Megan Leslie (Halifax, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254194">Monsieur le Président, je remercie le député de sa contribution au débat.</ParaText>
+              <ParaText id="1254195">J'ai aimé la comparaison qu'il a faite avec l'achat d'un immeuble, par rapport à sa location. Je suis de la Nouvelle-Écosse, où le taux de pauvreté est très élevé. Toutefois, le taux de Néo-Écossais qui sont propriétaires de leur maison est aussi très élevé, parce que les gens de chez nous se rendent compte qu'il est sage d'organiser son budget de manière à investir une partie de son revenu dans une maison, un placement qui assure un bon taux de rendement.</ParaText>
+              <ParaText id="1254196">En tant que comptable, le député pourrait-il nous en dire davantage? Croit-il que les investissements dans l'infrastructure, par exemple dans le logement et la création d'emplois, sont de bons investissements pour l'avenir?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Szabo" id="2567255">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254197">Monsieur le Président, évidemment que l'on peut parler d'investissements sages lorsqu'ils résultent en création d'emplois ou en réduction de pertes d'emplois. Ce sont d'excellents résultats, puisque nous devons tenir compte du coût de l'inaction. Lorsque les gens deviennent prestataires de l'assurance-emploi, cela s'ajoute au déficit de l'année.</ParaText>
+              <ParaText id="1254198">Il se peut que les sommes dépensées entraînent une augmentation du déficit, mais cela peut être nécessaire pour protéger les Canadiens.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Breitkreuz" id="2567257">
+            <PersonSpeaking>
+              <Affiliation DbId="128553" Type="2">M. Garry Breitkreuz (Yorkton—Melville, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254199">Monsieur le Président, c'est certainement un honneur pour moi que de participer au débat concernant la mise à jour économique du gouvernement. Ce débat est en train de devenir rapidement l'un des plus controversés de l'histoire du Canada. L'énoncé économique présenté par le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> le 27 novembre a bien des mérites, et notamment celui d'avoir exposé au grand jour le désir inavoué de l'opposition d'arracher le pouvoir au gouvernement.</ParaText>
+              <ParaText id="1254200">Mes électeurs ont été nombreux à me téléphoner. Ils sont perplexes, déçus et indignés devant la tentative sans précédent de l'opposition de former son propre gouvernement illégitime.</ParaText>
+              <ParaText id="1254201">Les trois partis de l'opposition sont suffisamment désespérés pour former une alliance contre nature qui va non seulement à l'encontre du gros bon sens mais, pis encore, à l'encontre de la volonté des électeurs telle qu'exprimée lors des élections fédérales récentes. Certains de mes électeurs croient que les chefs de ces partis devraient être non seulement frustrés dans leurs efforts de s'accaparer du pouvoir, mais carrément mis aux fers. Le Canada est rendu vulnérable par cette coalition et si le pouvoir change de mains dans ce contexte, notre pays risque de devenir un trou noir durant la crise économique actuelle.</ParaText>
+              <ParaText id="1254202">Voyons maintenant pourquoi la mise à jour économique constitue un document crédible, bien conçu pour définir la voie que doit suivre le Canada durant cette tempête économique. Les manigances de l'opposition ont malheureusement fait perdre de vue l'orientation véritable que propose ce document.</ParaText>
+              <ParaText id="1254203">Permettez-moi de préciser tout d'abord que l'opposition avait décidé de prendre le pouvoir par un coup sans effusion de sang avant même de connaître le contenu de notre mise à jour économique. Les partis de l'opposition l'ont d'ailleurs reconnu. Avant même le dépôt du budget, ils ont craint que les Canadiens puissent accueillir avec enthousiasme nos actions et nos propositions. L'entente entre le NPD et le Bloc séparatiste était déjà conclue depuis belle lurette lorsque le fiasco que nous connaissons s'est produit. Il suffisait d'à peu près n'importe quel stratagème ou n'importe quel plan pour précipiter les agissements dont nous sommes témoins aujourd'hui.</ParaText>
+              <ParaText id="1254204">Ceux pour qui l'opposition est un réflexe conditionné ont passé sous silence le fait que le gouvernement avait réduit la dette fédérale de 37 milliards de dollars. C'est sans précédent. Certains avaient prédit que la chose était impossible. Or, nous l'avons fait. Pour les années 2007-2008 et les cinq années suivantes, nous aurons réduit les impôts de pratiquement 200 milliards de dollars. Encore là, ce sera un véritable exploit. Nous aurons réduit le taux d'imposition des nouveaux investissements des entreprises au niveau le plus bas du G7 d'ici 2010.</ParaText>
+              <ParaText id="1254205">Les gens parlent de mesures pour stimuler l'économie, mais nous avons déjà mis en place de telles mesures. Nous avons fait des investissements sans précédent dans l'infrastructure créatrice d'emploi. Nous avons investi dans les sciences et la technologie. Nous investissons dans l'éducation et la formation. Nous savons tous que des investissements judicieux sont financièrement rentables pour les travailleurs, pour l'industrie et pour le gouvernement.</ParaText>
+              <ParaText id="1254206">L'opposition se rendrait compte que nous avons déjà tenu compte des choses dont elle se plaint, si elle se donnait la peine de consulter le document. L'opposition prétend que le gouvernement n'a pris aucune mesure pour stimuler l'économie. Peut-être devrait-elle prendre connaissance de ce que nous avons accompli et regarder où nous en sommes par rapport aux autres pays industrialisés. Rien n'est moins vrai que leurs accusations.</ParaText>
+              <ParaText id="1254207">Aucune économie industrielle avancée au monde n'a mis en place des mesures plus importantes que celles mises en place par le Canada. Nous avons fait plus que tout autre pays. Il est intéressant de constater que les mesures prises par la plupart des pays pour stimuler l'économie sont temporaires, alors que celles prises par le Canada sont permanentes et, si on les compare aux mesures permanentes choisies par certains autres pays, celles du Canada sont les plus importantes. Depuis 2006, le gouvernement a annoncé des mesures qui équivalent à 1,4 p. 100 du PIB. Elles augmentent en 2008-2009 et elles représenteront presque 2 p. 100 du PIB en 2009-2010. Dans la plupart des pays qui ont mis en place des mesures permanentes, ce pourcentage varie plutôt entre 0,1 p. 100 et 0,3 p. 100. Nos mesures sont de loin plus importantes.</ParaText>
+              <ParaText id="1254208">Je pense que l'opposition est frustrée que nous remportions un si grand succès. Le gouvernement comprend les tendances. En effet, lorsque les mesures mises en place sont temporaires, elles ont des répercussions négatives sur le PIB l'année suivante.</ParaText>
+              <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+              <ParaText id="1254209">Nous voyons ce qui se passe ailleurs. D'autres pays, dont les États-Unis, ont essayé les mesures de relance proposées par le NPD, le Parti libéral et le Bloc séparatiste, et elles se sont révélées inefficaces. Il serait irresponsable de notre part de mettre en oeuvre certaines des solutions envisagées par les députés d'en face. Ce serait mettre aveuglément de l'argent dans des programmes dont l'inefficacité a déjà été prouvée ailleurs.</ParaText>
+              <ParaText id="1254210">Au cours de l'année suivant l'expiration des mesures, la contribution du gouvernement au PIB est moindre que l'année précédente. Cela nuit donc à la croissance lorsqu'on met en place des mesures inefficaces pour stimuler l'économie. L'opposition souhaite-t-elle la croissance de notre pays ou non?</ParaText>
+              <ParaText id="1254211">Voyons un peu le véritable motif derrière un coup de force que des millions de gens trouvent dérangeant, antidémocratique et carrément contraire aux valeurs canadiennes. Il faut sérieusement se demander pourquoi l'opposition en voudrait tant à un gouvernement qui a changé pour le mieux la face du Canada sur le plan économique.</ParaText>
+              <ParaText id="1254212">Je serai heureux de dire à la Chambre ce qui déplaît dans ce document, du point de vue de l'opposition. </ParaText>
+              <ParaText id="1254213">Dans la première version du document, on prévoyait éliminer la subvention des contribuables versée aux partis politiques, une des trois subventions qu'ils reçoivent. Le but était de réduire les dépenses, ce qui aurait fait mal aux trois partis de l'opposition parce que leur financement est pour eux une question de droits, une question de cupidité abjecte. Je le répète, nous n'éliminions qu'en partie les subventions versées aux politiciens.</ParaText>
+              <ParaText id="1254214">Les machines de relations publiques et de relations avec les médias de l'opposition font de la propagande de premier ordre depuis le 27 novembre. Nous n'avions pas prévu que la cupidité abjecte de l'opposition était d'une telle ampleur. Nous avons manqué de jugement à cet égard. C'est là que nous avons fait erreur. </ParaText>
+              <ParaText id="1254215">Nous avons surestimé la sincérité de l'opposition en croyant qu'elle tenait vraiment à préserver le statut économique supérieur du Canada. Nous aurions dû savoir que les députés de l'opposition réagiraient de cette façon, mais nous avons osé espérer qu'ils verraient, comme nous, la nécessité de cesser de verser l'argent durement gagné des Canadiens aux partis qui, en réalité, ne faisaient rien pour le mériter. </ParaText>
+              <ParaText id="1254216">C'est mon propre parti qui aurait été le plus durement touché par cette mesure, mais nous étions convaincus que les bonnes vieilles méthodes de financement des partis politiques nous auraient permis de rester forts. Les autres partis ont pensé autrement. Tous les partis devraient être appuyés par les gens qui croient assez dans leurs politiques pour ouvrir leur porte-monnaie volontairement et investir dans notre avenir collectif. C'est ça, la démocratie. </ParaText>
+              <ParaText id="1254217">Les partis d'opposition ne voient pas les choses du même oeil. Voilà pourquoi ils affirment rejeter l'ensemble de la mise à jour économique. Les gens de ma circonscription ont vu clair dans leur jeu et j'imagine qu'il en est de même des Canadiens d'un océan à l'autre. Voilà pourquoi les partis d'opposition ont choisi de se cacher les uns derrière les autres plutôt que de soumettre la question à la population. Notre gouvernement préférerait de nouvelles élections. L'opposition fait preuve de lâcheté en menaçant avec suffisance de s'approprier le pouvoir sans élections. </ParaText>
+              <ParaText id="1254218">Les trois partis concernés ont besoin du financement des contribuables parce qu'ils n'ont pas de base d'appui pour soutenir la viabilité de leurs activités politiques. Leur manoeuvre est une manifestation de lâcheté et j'ose espérer que les Canadiens leur en tiendront rigueur. </ParaText>
+              <ParaText id="1254219"> Je suis inquiet pour le Canada. Si on permet à cette coalition de former un gouvernement, je crains que les Canadiens de l'Ouest tolèrent mal un gouvernement bidon qui fera certainement peu de cas de leurs besoins. La manoeuvre à laquelle se livre l'opposition créera une grave discorde. </ParaText>
+              <ParaText id="1254220">Le Bloc québécois, dont l'objectif premier est d'anéantir le Canada, fait pourtant bel et bien partie de cette coalition et pourra dicter au gouvernement quelles décisions politiques prendre. Comment en est-on arrivé au point où le Parti libéral et le NPD invitent le Bloc québécois à s'associer avec eux? Cette tentative de renverser le gouvernement est un véritable affront aux Canadiens et, surtout, aux habitants de ma province. </ParaText>
+              <ParaText id="1254221">La coalition ajoute l'insulte à l'injure dans le cas des producteurs agricoles canadiens. Les libéraux, les néo-démocrates et les bloquistes, en l'occurrence des séparatistes, font abstraction des Canadiens qui prennent de véritables risques, nos agriculteurs, dont le gagne-pain dépend entièrement de conditions météo favorables, de prix raisonnables et d'un dur labeur. Les partis de la coalition ne devraient pas s'étonner si les habitants des régions rurales de tout le Canada se révoltent carrément contre leur coup de force. Tout indique que les Canadiens des régions rurales sont très en colère contre le Parlement dans son ensemble, et nous tous dans cette enceinte en portons le blâme. </ParaText>
+              <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+              <ParaText id="1254222">Ce gouvernement tente de rétablir l'équilibre parlementaire. Nous avons fait des concessions en retirant de notre mise à jour économique d'origine certaines mesures controversées et ce, afin de rétablir le calme.</ParaText>
+              <ParaText id="1254223">Nous avons fait des concessions. Nous sommes prêts à collaborer avec les partis de l'opposition. Nous les avons invités à soumettre leurs propositions mais non, ce qu'ils veulent, c'est prendre le pouvoir. Ils ne tiennent pas à ce que le clame revienne. La nouvelle coalition ne veut rien savoir de notre offre de collaboration. Cela démontre clairement que la mise à jour financière n'était pas la source du problème. Elle n'a été qu'un prétexte à ce coup d'État digne d'une république de bananes. Le Parlement n'a probablement jamais été aussi mal en point dans l'histoire de ce pays et c'est à nous tous, à la Chambre, de remédier à cette situation. </ParaText>
+              <ParaText Interjection="e1" id="1254224">
+                <B>L'hon. Joseph Volpe:</B> Vous y croyez tellement que vous devez le lire encore et encore. </ParaText>
+              <ParaText id="1254225">
+                <B>M. Garry Breitkreuz:</B> Je crois avoir touché une corde sensible, monsieur le Président. Je crois que certains d'entre eux n'apprécient pas que nous ayons souligné que les libéraux s'étaient joints aux séparatistes du Bloc. Permettez-moi de poursuivre. </ParaText>
+              <ParaText id="1254226">Si nous ne réussissons pas à accorder la priorité au bien-être économique des Canadiens, nous mériterons sûrement toutes les remarques vitrioliques et méprisantes qui nous parviendront sans aucun doute de tous les coins du pays. Si nous ne fléchissons pas, si la coalition ne fait pas marche arrière, comment nous attendre à autre chose en retour que du cynisme et de l'indignation?</ParaText>
+              <ParaText id="1254227">Il est douloureusement évident que la coalition a été formée dans le but de mettre rapidement et facilement la main sur les deniers publics. Voilà le véritable objectif: avoir le contrôle du Trésor public. Il ne s'agit en fait que d'avoir à tout prix un pouvoir qu'on n'a pas mérité. </ParaText>
+              <ParaText id="1254228">Le 14 octobre dernier, les électeurs ont dit à chacun de ces partis qu'ils ne méritaient pas de former un gouvernement. C'était il y a seulement six semaines. Nous n'avons même pas eu le temps de présenter un budget, et ce sont généralement les budgets qui décident de la survie d'un gouvernement. C'est à ce moment qu'ont lieu les votes de confiance. L'opposition n'a même pas daigné attendre ce moment. </ParaText>
+              <ParaText id="1254229">Il revient à la Gouverneure générale de rappeler aux partis de la coalition que l'électorat leur a indiqué très clairement qu'ils n'étaient pas invités à gouverner ce pays.</ParaText>
+              <ParaText id="1254230">Si j'étais encore instituteur, je serais tenté d'envoyer les trois partis chacun dans leur coin pour qu'ils puissent réfléchir sérieusement à ce qu'ils menacent de faire ou, pour employer un terme plus approprié, à ce qu'ils sont sur le point de défaire. Ils risquent d'anéantir le pays pour servir leurs propres intérêts. Les punks et les gangs de rue savent que l'union fait la force, et ces partis utilisent leurs forces collectives pour contraindre les Canadiens à les laisser prendre le pouvoir.</ParaText>
+              <ParaText Interjection="e2" id="1254231">
+                <B>Mme Yasmin Ratansi:</B> Qui a créé ce terme?</ParaText>
+              <ParaText id="1254232">
+                <B>M. Garry Breitkreuz:</B> Les partis de l'opposition font référence aux résultats des dernières élections. Ils affirment que les conservateurs n'ont pas obtenu la moitié des voix, mais j'aimerais signaler à la personne en face qui me chahute que la coalition séparatiste a obtenu zéro pour cent des votes lors des dernières élections. Pourtant, ces partis veulent s'approprier le pouvoir.</ParaText>
+              <ParaText id="1254233">Les gangs peuvent devenir indisciplinés quand leur leadership est remis en question et que la hiérarchie est contestée. Si on laisse ce gang gouverner notre pays, je prévois que nous assisterons à une triste litanie de disputes internes, de méfiance et de mutinerie de la part des députés de ce côté de la Chambre.</ParaText>
+              <ParaText id="1254234">Les Canadiens méritent mieux. Ils méritent un avenir économique façonné par un parti qui sait fait preuve de compassion, à savoir le Parti conservateur. Nous ne devons pas nous laisser berner par une coalition démagogue qui se prétend la grande défenderesse des intérêts des gens. Dans le cas qui nous occupe, les personnes auxquelles les membres de la coalition font référence sont celles qui s'unissent dans une alliance qui va systématiquement détruire la politique économique canadienne. Cette alliance va défaire toute la planification soigneuse de notre parti.</ParaText>
+              <ParaText id="1254235">Nous avions prévu la crise, et nous étions prêts à l'affronter. Nous reléguer aux dernières banquettes mettra en péril tout ce que nous avons fait. Cela nous fera perdre l'admiration des pays du G7, et cela mettra fin à la politique financière stable qui, jusqu'à maintenant, nous a permis d'échapper à la catastrophe et nous a assuré une relative sécurité. </ParaText>
+              <ParaText id="1254236">Je suis inquiet de la direction dans laquelle les partis de l'opposition menacent de nous entraîner. Je m'inquiète pour l'avenir de notre pays si nous laissons une coalition formée de séparatistes et de personnes dépensières et opportunistes prendre le pouvoir. Rien de bon ne peut venir de cet horrible acte de désespoir.</ParaText>
+              <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+              <ParaText id="1254237">Le gouvernement a supprimé les sections de la mise à jour économique jugées les plus choquantes pour les partis de l'opposition; pourtant, l'odeur du sang persiste dans cette enceinte. La signature d'une alliance contre nature, le 1<Sup>er</Sup> décembre, signifie qu'ils ne se calmeront pas tant qu'ils n'auront pas goûté au sang. Il nous appartient à tous de les éloigner. Entretemps, j'exhorte les partis de l'opposition à lâcher prise, à réfléchir sérieusement et à se calmer.</ParaText>
+              <ParaText id="1254238">Le gouvernement a montré sa volonté de modifier la mise à jour économique pour mieux répondre aux besoins de l'opposition. Nous avons fait notre possible pour apaiser la colère exprimée parce que les enjeux sont trop importants, mais il y a une chose que j'estime que les trois chefs de cette coalition devraient nous dire: quel effet cette poignée de main leur a-t-elle vraiment fait? Pourquoi ne révèlent-ils pas la teneur de l'entente qu'ils ont conclue? Combien d'argent provenant du Trésor public a été promis pour apaiser certains éléments de cette coalition?</ParaText>
+              <ParaText id="1254239">J'aimerais répondre à certaines des questions soulevées maintenant que j'ai terminé mes principales observations. Nous avons entendu la coalition séparatiste dire que nous n'en faisons pas assez pour stimuler l'économie. Nous injectons de l'argent dans l'infrastructure. Nous avions déjà commencé, d'ailleurs. Nous continuerons. Elle se plaint que nous n'en avons rien fait. Nous faisons plus et nous avons un programme. Nous voulons poursuivre la mise en oeuvre de ce programme pour améliorer l'infrastructure au Canada. C'est plus que ce qui a été fait par n'importe quel gouvernement précédent et cela aidera le secteur des entreprises. Nous procédons d'une manière très responsable et bénéfique pour le pays.</ParaText>
+              <ParaText id="1254240">La coalition a aussi prétendu que nous ne stimulons pas l'économie. Pourtant, nous avons déjà accompli un travail phénoménal sur ce plan. Les mesures fiscales qui seront mises en application le 1<Sup>er</Sup> janvier 2009 risquent de ne pas voir le jour. Je parle des comptes d'épargne libres d'impôt. Les Canadiens pourront déposer annuellement 5 000 $ dans ces comptes et laisser l'argent s'accumuler. Cet argent sera à leur disposition quand ils en auront besoin et ils pourront le retirer sans avoir à payer d'impôt sur les intérêts ou sur l'augmentation de la valeur du fonds. Cela pourrait être phénoménal. Les jeunes qui déposeraient leurs économies dans un compte d'épargne libre d'impôt pourraient accumuler une somme extraordinaire qu'ils pourraient utiliser pour acheter une maison, pour réaliser un projet quelconque ou pour prendre leur retraite en sachant qu'ils ont une bonne pension sûre.</ParaText>
+              <ParaText id="1254241">Nous haussons le montant d'exemption personnelle de base à 10 100 $ cette année. Nous réduisons le taux général d'impôt des sociétés à 19 p. 100. Je sais que certains de mes collègues d'en face s'en plaindront, mais c'est une mesure très efficace de stimulation de l'économie, et c'est le gouvernement qui a fait cela.</ParaText>
+              <ParaText id="1254242">Parlons aussi de certaines choses que nous avons déjà faites. Avec des stimulants représentant 1,4 p. 100 du PIB en 2008-2009 et près de 2 p. 100 du PIB en 2009-1010 depuis 2006, nous sommes au premier rang parmi les pays du G7 concernant la stimulation de l'économie. Les partis de l'opposition disent que nous ne faisons rien. Tous ces autres pays nous envient. C'est honteux que les députés de l'opposition lancent une telle accusation alors que c'est totalement faux. Ils pensent qu'en répétant ce mensonge sans arrêt ils convaincront les Canadiens.</ParaText>
+              <ParaText id="1254243">Laissons les Canadiens examiner les faits. Nous sommes en meilleure posture que n'importe quel autre pays pour affronter la crise économique. Oui, nous commençons une période difficile. Nous ne le nions pas. Nous avons demandé à la Chambre d'attendre que nous présentions le budget, mais les députés craignent que les Canadiens, lorsqu'ils verront ce que nous faisons, nous appuient davantage. Cette coalition, cette alliance douteuse que l'opposition a formée, se retrouverait alors sur les banquettes arrières pour un bon bout de temps.</ParaText>
+              <ParaText id="1254244">Le maintien de cette coalition coûtera de l'argent. Qu'elle fonctionne ou non, des fonds du Trésor seront employés à ses fins. Je préviens les Canadiens. Je trouve cela troublant et nous devrions tous être très inquiets. Cette entente secrète, que le public ne peut pas consulter, donnera aux politiciens des avantages dont nous ne savons rien. Ces partis ont conclu des ententes qu'ils ne révèlent pas. Ce n'est ni sur leur site web ni nulle part ailleurs. Ce sont des ententes secrètes. C'est un moyen pris par les partis de l'opposition pour pouvoir puiser, de façon irresponsable, dans le Trésor du Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. McKay" id="2567284">
+            <PersonSpeaking>
+              <Affiliation DbId="128204" Type="2">L'hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254245">Monsieur le Président, cela fait des mois que le Parti libéral dit que les chiffres présentés par le gouvernement sont fantaisistes et nous n'avons récolté que des sarcasmes d'un bout à l'autre du pays.</ParaText>
+              <ParaText id="1254246">Cependant, la vérité commence à éclater au grand jour. J'aimerais citer le Centre for Spatial Economics, qui participe à l'élaboration de documents d'information. Cette organisation est la principale, parmi quatre du genre, à laquelle le ministère des Finances a recours pour établir des pronostics. Tout le monde s'inspire des prévisions du centre.</ParaText>
+              <ParaText id="1254247">Le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> a soutenu que les réductions d'impôt qu'il a apportées stimulent l'économie. Selon le centre, cette affirmation repose sur des calculs erronés. Voici ce qu'a dit Robert Fairholm:</ParaText>
+              <ParaText id="1254248">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C'est fantaisiste. Ces mesures ont déjà eu l'effet à court terme de stimuler l'activité économique. [...] Elles feront basculer l'économie dans le rouge. D'un point de vue économique, ces mesures sont des politiques financières insensées.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254249">La plupart des économistes ont dénoncé la mise à jour économique que le gouvernement a présentée l'année dernière, lui reprochant ses prévisions irréalistes de légers excédents. Le pays est en déficit, il cela depuis un bon bout de temps. Il était déjà en déficit pendant les élections. Je demande donc au député pourquoi le gouvernement, en la personne du <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation>, présente-t-il des chiffres erronés? Pourquoi manipule-t-il le ministère des Finances pour fabriquer des excédents?</ParaText>
+              <ParaText id="1254250">J'aimerais qu'il réponde à ma question et qu'il m'explique comment...</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="M. Scheer" id="2567295">
+            <PersonSpeaking>
+              <Affiliation DbId="129030" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254251">Le député de Yorkton—Melville a la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Breitkreuz" id="2567296">
+            <PersonSpeaking>
+              <Affiliation DbId="128553" Type="2">M. Garry Breitkreuz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254252">Monsieur le Président, mon collègue et moi siégeons ensemble au Parlement depuis longtemps et je respecte son opinion à de nombreux égards, mais dans ce cas-ci, il a tort et induit les Canadiens en erreur.</ParaText>
+              <ParaText id="1254253">Si les rôles étaient inversés, je lui poserais bien une question. J'aimerais savoir pourquoi les libéraux agissent comme ils le font. Cela n'a aucun sens. Le député devrait être plus avisé. Je sais qu'il a suffisamment de jugement pour constater que la plupart des mesures que nous avons prises se sont avérées très efficaces.</ParaText>
+              <ParaText id="1254254">Le député a lu quelques citations. Permettez-moi d'en lire quelques-unes moi aussi. Je vois que mon temps de parole est presque écoulé. Je dirai seulement qu'un de mes amis, avec qui j'ai grandi dans mon patelin et qui a été directeur des coopératives de crédit du Canada, nous a dit de ne ménager aucun effort pour conserver le pouvoir, car il a peur de la coalition et de ce qu'elle ferait à l'économie canadienne.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Pomerleau" id="2567300">
+            <PersonSpeaking>
+              <Affiliation DbId="128277" Type="2">M. Roger Pomerleau (Drummond, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254255">Monsieur le Président, je suis toujours un peu surpris, ébahi, ébaubi d'entendre les discours de ceux qui formeront l'opposition dans très peu de temps. Ils répètent jour après jour que la démocratie est en péril dans ce Parlement. J'aimerais rappeler à mon collègue, qui ne semble pas comprendre dans quel Parlement nous sommes, que nous ne vivons pas dans une démocratie parlementaire, nous vivons dans une monarchie parlementaire. Ce n'est pas du tout la même chose. Ce n'est pas le peuple canadien qui est roi et maître, c'est la reine du Canada qui est aussi la reine d'Angleterre. Au Bloc québécois, nous ne sommes pas d'accord avec cela, mais c'est cela la réalité des choses. </ParaText>
+              <ParaText id="1254256">Il faut que mon collègue comprenne bien ce que je veux dire. En tant que députés, avant de siéger ici, nous avons prêter serment non pas au peuple du Canada, nous avons prêté serment et juré allégeance à la reine du Canada. Le président Obama, lui, quand il prêtera serment en tant que président, il le fera devant le peuple américain et il sera responsable devant le peuple américain. Ce n'est pas le cas ici. </ParaText>
+              <ParaText id="1254257">Quand nous faisons des lois ici, elles ne sont pas valides, même si nous les avons adoptées, tant et aussi longtemps qu'elles ne sont pas signées par la reine de ce pays, ou son représentant ou sa représentante. Les lois que nous faisons peuvent être adoptées dans l'autre Chambre où des gens non élus, mais nommés en vertu des règles établies par la reine, peuvent mettre un veto sur ces lois ou les modifier selon leur bon vouloir. </ParaText>
+              <ParaText id="1254258">Nous ne sommes pas en démocratie parlementaire, nous sommes en monarchie parlementaire.</ParaText>
+              <ParaText id="1254259">Qu'est-ce que cela veut dire? Cela veut dire que les gens ici ont le droit — un seul droit — d'élire le Parlement du Canada et, à l'intérieur de ce Parlement, le parti qui obtient la confiance du Parlement peut siéger comme gouvernement. Or, ce gouvernement vient de perdre la confiance de ce Parlement, et c'est pour cela qu'il doit démissionner et céder sa place. Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a agi en complet amateur à cet égard et il a été assisté par une bande d'amateurs.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Breitkreuz" id="2567316">
+            <PersonSpeaking>
+              <Affiliation DbId="128553" Type="2">M. Garry Breitkreuz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254260">Monsieur le Président, je crois que le député qui vient de poser la question a fait la preuve qu'il est extrêmement dangereux, comme j'essaie sans cesse de le dire, de former une coalition avec les séparatistes du Bloc.</ParaText>
+              <ParaText id="1254261">
+                <B>Une voix:</B> Pourquoi?</ParaText>
+              <ParaText id="1254262">
+                <B>M. Garry Breitkreuz:</B> On me demande pourquoi. Je vais expliquer à la Chambre pourquoi il est si dangereux de former une coalition avec le Bloc. Les députés bloquistes n'appuient pas nécessairement les éléments budgétaires qui sont bénéfiques pour l'ensemble du Canada. Ils seraient heureux de voir le Canada dépérir afin qu'ils puissent demander qui pourrait bien vouloir vivre dans un tel pays.</ParaText>
+              <ParaText id="1254263">Notre économie pourrait être détruite. On voit bien comment les marchés boursiers réagissent à l'idée qu'un coup d'État survienne à la Chambre. Voilà pourquoi c'est dangereux.</ParaText>
+              <ParaText id="1254264">Les députés du Bloc n'ont pas prêté serment d'allégeance à la reine. Ils ne chantent pas <I>Ô Canada</I> à la Chambre. Ils ne veulent même pas qu'un drapeau canadien soit derrière eux lorsqu'ils prennent une photo.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Cannis" id="2567320">
+            <PersonSpeaking>
+              <Affiliation DbId="128501" Type="2">M. John Cannis (Scarborough-Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254265">Monsieur le Président, avant de poser ma question, je tiens à rappeler à tous les Canadiens ce qui est en train de se passer à la Chambre. En mentionnant le drapeau, encore une fois, le député induit les Canadiens en erreur.</ParaText>
+              <ParaText id="1254266">Si le député veut bien être honnête, s'il est un député honnête, ce que je crois qu'il est, il devrait se lever sur-le-champ et dire qu'il y avait effectivement des drapeaux derrière ces trois personnes. Aura-t-il l'honnêteté nécessaire pour le faire?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Breitkreuz" id="2567326">
+            <PersonSpeaking>
+              <Affiliation DbId="128553" Type="2">M. Garry Breitkreuz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254267">Monsieur le Président, dans les photos que j'ai vues, il n'y avait pas un seul drapeau canadien.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Question" ToC="Yes" ToCText="Mme Crowder" id="2567332">
+            <PersonSpeaking>
+              <Affiliation DbId="128650" Type="2">Mme Jean Crowder (Nanaimo—Cowichan, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254268">Monsieur le Président, les débats de la Chambre ont vraiment atteint le fond du baril.</ParaText>
+              <ParaText id="1254269">En ce moment, mes électeurs m'interpellent au sujet de l'urgence de régler la situation économique qui menace l'ensemble du pays.</ParaText>
+              <ParaText id="1254270">Divers experts ont exprimé l'opinion selon laquelle les conservateurs, dans leur énoncé économique, ont tout simplement emprunté la mauvaise voie.</ParaText>
+              <ParaText id="1254271">Un rapport récent du Caledon Institute of Social Policy dit que, faisant fi de la sagesse générale répandue dans le monde entier, à savoir que les gouvernements doivent, dans les circonstances, dépenser et non pas épargner, le ministre des Finances a annoncé son intention de réduire les dépenses et de vendre des actifs. Le rapport poursuit en disant que: « En ce moment, les programmes sociaux ont une importance encore plus critique, car ils sont en quelque sorte des amortisseurs pour les ménages et des mesures de stimulation financière quand les temps sont durs. »</ParaText>
+              <ParaText id="1254272">Ma circonscription dépend en grande partie de l'industrie forestière. Un travailleur forestier après l'autre est mis à pied. Une refonte du régime d'assurance-emploi, notamment, permettrait d'aider les travailleurs forestiers de nos collectivités.</ParaText>
+              <ParaText id="1254273">J'aimerais demander au député pourquoi l'énoncé économique ne parlait pas de l'importance d'adapter le régime d'assurance-emploi pour répondre aux besoins des travailleurs de l'ensemble du pays. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Breitkreuz" id="2567336">
+            <PersonSpeaking>
+              <Affiliation DbId="128553" Type="2">M. Garry Breitkreuz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254274">Monsieur le Président, j'apprécie la question, car il s'agit d'une question honnête. Elle élève le débat bien au-dessus de la discussion qui a lieu lorsqu'on se fait poser une question qui n'a aucun rapport avec le sujet et qui n'intéresse pas vraiment les Canadiens.</ParaText>
+              <ParaText id="1254275">J'accepterais avec joie de collaborer avec la députée d'en face pour renforcer le programme d'assurance-emploi. J'étais chargé de ce dossier à titre de porte-parole de mon parti lorsque j'ai commencé à siéger au Parlement en 1993. Avoir un solide régime d'assurance-emploi a une importance capitale. C'est une question qui doit être traitée dans le budget, alors je prie les députés de nous laisser présenter un budget et de faire leurs suggestions dans cette optique.</ParaText>
+              <ParaText id="1254276">Par ailleurs, je suis d'accord avec la députée pour dire qu'il faut de solides programmes sociaux, et nous avons beaucoup fait pour les renforcer. Se doter d'une économie solide est l'un des meilleurs moyens pour renforcer les programmes sociaux puisqu'on dispose ainsi de l'argent qu'il faut pour les financer. Si l'économie ne génère pas assez de richesse, on ne peut pas bien financer les programmes sociaux, et ils sont inefficaces. Lorsque l'économie va mal, la société souffre davantage de la pauvreté et d'autres problèmes. </ParaText>
+              <ParaText id="1254277">Le train de mesures destiné à stimuler l'économie qui est proposé par la coalition d'en face suscite des craintes parmi de nombreux économistes réputés du pays. Don Drummond, de la Banque Toronto Dominion, dit ceci: « Ce serait un désastre parce que les mesures entraîneraient un déficit structurel. L'économie canadienne est l'une des rares dans le monde qui est toujours en croissance à l'intérieur du pays. Personne ne peut pointer du doigt le Canada et lui dire qu'il est la cause du problème international. J'ai vu beaucoup plus souvent les mesures de stimulation à court terme se solder par un échec que par une réussite. Nombre de ces mesures ne fonctionnent tout simplement pas. »</ParaText>
+              <ParaText id="1254278">Warren Jestin, économiste en chef à la Banque Scotia, dit ceci:</ParaText>
+              <ParaText id="1254279">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">[...] l'économie canadienne a déjà été renforcée par des mesures de stimulation économique. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254280">Il admet que nous avons déjà mis en oeuvre des mesures budgétaires ayant pour effet de stimuler l'économie. Il poursuit en disant ceci: </ParaText>
+              <ParaText id="1254281">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Les réductions de la TPS et du taux d'imposition des entreprises qui sont entrées en vigueur l'automne dernier vont avoir un effet plus important sur l'économie que les mesures de stimulation à court terme. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254282">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Contrairement aux États-Unis, où l'on a essayé des mesures spéciales, notamment celle de donner un chèque à des gens [...] nous suivions un processus beaucoup plus rigoureux. </QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Martin (Winnipeg-Centre)" id="2567343">
+            <PersonSpeaking>
+              <Affiliation DbId="128421" Type="2">M. Pat Martin (Winnipeg-Centre, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254283">Monsieur le Président, je partagerai mon temps de parole avec le député de <Affiliation DbId="128291" Type="2">St. John's-Est</Affiliation>.</ParaText>
+              <ParaText id="1254284">Le député de <Affiliation DbId="128553" Type="2">Yorkton—Melville</Affiliation> est un bien trop bon député pour croire à une bonne partie du discours qu'il vient de prononcer à la Chambre.</ParaText>
+              <ParaText id="1254285">Un événement historique a lieu en ce moment même à Rideau Hall. Je crois savoir qu'on a déjà installé la tribune et les microphones en préparation de la déclaration du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>; il y a de bonnes chances qu'il annonce que la Gouverneure générale lui a donné la permission de proroger le Parlement.</ParaText>
+              <ParaText id="1254286">C'est honteux, et cela établira un dangereux précédent. Un des principes fondamentaux de notre démocratie parlementaire est que l'exécutif doit rendre des comptes au Parlement, le pouvoir législatif de notre démocratie. En l'occurrence, le pouvoir législatif, le Parlement, la Chambre des communes, a déclaré avoir perdu confiance dans le gouvernement et souhaite simplement avoir l'occasion d'exprimer cette absence de confiance dans le cadre du vote prévu lundi prochain. Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a couru se cacher derrière les jupons de la souveraine pour éviter de faire face à ce vote nécessaire qui devrait avoir lieu lundi.</ParaText>
+              <ParaText id="1254287">Nous aurons de quoi nous inquiéter si la souveraine décide de passer outre à la volonté du Parlement. Des rois ont été décapités pour avoir fait de telles choses. Si tout se déroule comme prévu, la crise sera bien pire que nous le pensions. Il ne s'agira plus simplement du dernier râle d'un gouvernement mourant. En effet, le gouvernement est mourant, parce que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a raté la cible.</ParaText>
+              <ParaText id="1254288">Après avoir obtenu un gouvernement minoritaire au cours des dernières élections fédérales, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a eu toutes les chances voulues de tendre la main à l'opposition en vue de collaborer et de forger une coalition de travail, pour ainsi dire, avec tous les parlementaires pour faire face à la crise économique actuelle. À preuve, constatons combien il a été simple pour les trois partis de l'opposition de s'entendre très rapidement sur le fait qu'il fallait travailler ensemble. Cela prouve que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> aurait pu faire la même chose s'il avait été prêt à travailler dans un esprit de collaboration et de coopération, comme on s'y attendrait en période de crise. Si nous menions tous notre barque dans la même direction, nous pourrions surmonter ces eaux tumultueuses sans toute l'agitation dont nous sommes témoins en ce moment.</ParaText>
+              <ParaText id="1254289">Non, au lieu de faire ce simple geste de bonne volonté, il a bel et bien tendu la main à l'opposition, mais cela a été pour trancher la gorge de ses ennemis dans un acte d'agression, un acte pompeux et un acte hostile gratuit. Au lieu de tendre la main en signe d'amitié, il l'a tendue pour gifler l'opposition. Il a tenté de faire adopter une liste de mesures que les néo-conservateurs voudraient vraiment mettre en oeuvre. Il a tenté d'irriter l'opposition par tous les moyens possibles.</ParaText>
+              <ParaText id="1254290">Les conservateurs ont décidé de profiter de l'urgence de la situation économique, la crise actuelle, pour éliminer le droit de grève des syndicats de la fonction publique. Comment est-ce que cela stimule l'économie? Ils ont aussi décidé d'éliminer toutes ces demandes d'équité salariale agaçantes. Comment est-ce que cela stimule l'économie? Ils ont décidé de couper l'herbe sous le pied des partis de l'opposition en portant atteinte à leur capacité de participer aux prochaines élections. Comment est-ce que cela stimule l'économie? </ParaText>
+              <ParaText id="1254291">C'est ce qui a piqué au vif les Canadiens et les trois partis de l'opposition aussi et qui leur a fait dire que trop, c'est trop, que l'intimidation ne serait plus tolérée. Nous voulions nous mettre sérieusement au travail.</ParaText>
+              <ParaText id="1254292">J'aimerais également parler d'un autre événement historique qui se déroule en ce moment-même d'un bout à l'autre du pays. En effet, des rassemblements ont été organisés dans dix villes canadiennes, dont un juste à nos portes. Un grand rassemblement en faveur de la coalition se déroulera sur la Colline ainsi qu'à Winnipeg, où l'on attend un millier de personnes. Un peu partout au pays, des Canadiens vont manifester leur appui au gouvernement de coalition que souhaitent former le NPD et le Parti libéral.</ParaText>
+              <ParaText id="1254293">Permettez-moi de prendre un instant pour dénoncer le comportement insouciant et irresponsable de nombreux députés conservateurs qui sont intervenus dans le cadre de ce débat, grinçant des dents, déchirant leur chemise, tenant des propos si alarmistes qu'ils ont fini par semer la haine envers les Québécois.</ParaText>
+              <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+              <ParaText id="1254294">J'ai entendu des gens vouer les Québécois aux gémonies avec tant d'emportement qu'ils en postillonnaient; je les ai entendus condamner énergiquement les bonnes gens du Québec. Ils brûlent les ponts. Ils pratiquent la politique de la terre brûlée et ils vont le regretter un jour. Comment, en effet, aller demander aux Québécois de leur accorder leur confiance à l'occasion d'élections fédérales après avoir tenu des propos comme ceux que l'on a entendus dans le cadre du présent débat? Ils font reculer la cause de l'unité nationale de plusieurs décennies avec leur débat irresponsable, insouciant et, je dirais même, haineux. C'est vraiment un spectacle déplorable.</ParaText>
+              <ParaText id="1254295">Ce que fait la coalition prometteuse qui est en train de se former, c'est donner suite à la volonté exprimée par la population lors des dernières élections fédérales. </ParaText>
+              <ParaText id="1254296">Un vrai démocrate accepterait que la majorité l'emporte. Or, la majorité des Canadiens représentés par leurs députés à la Chambre sont contre le gouvernement conservateur et contre la direction que ce gouvernement veut nous faire prendre. Nous sommes une démocratie multipartite. Le temps des gouvernements majoritaires au Canada est peut-être révolu. Le gouvernement devra peut-être mettre un peu d'eau dans son vin et collaborer avec les autres partis, s'il veut gouverner notre pays.</ParaText>
+              <ParaText id="1254297">C'est peut-être la nouvelle réalité politique que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a mis trop de temps à comprendre. Peut-être n'était-ce pas le premier ministre, mais plutôt Tom Flanagan qui a mis trop de temps à comprendre. À mon avis, toute cette stratégie porte la marque de Tom Flanagan. Il s'agit d'exploiter la crise économique pour écraser ses ennemis; il ne faut jamais laisser passer une crise économique sans en exploiter le potentiel. Les députés devraient lire <I> The Shock Doctrine</I> de Naomi Klein. Je crois que ce serait une révélation pour mes collègues d'en face. </ParaText>
+              <ParaText id="1254298">Sous plusieurs aspects, ce genre de collaboration sérieuse entre les partis est exactement ce que les Canadiens voudraient que leurs représentants fassent pendant une période de bouleversements économiques. Ils veulent que les représentants et les politiciens canadiens travaillent en collaboration à un programme commun.</ParaText>
+              <ParaText id="1254299">Permettez-moi de vous dire combien il aurait été facile pour le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> d'en faire autant. Il aurait pu agir en vrai chef d'État. Il aurait pu réunir les chefs de tous les partis d'opposition et dire quelque chose comme « Nous entrons dans une période très difficile et tout comme en temps de guerre, nous devrons travailler ensemble. Mettons nos divergences de côté et entendons-nous sur les choses qui nous unissent afin d'aller de l'avant ensemble en tant que nation, jusqu'à ce que nous ayons traversé cette crise. » Repoussons au moins nos divergences à plus tard. </ParaText>
+              <ParaText id="1254300">Mes collègues du Bloc québécois ont fait preuve de beaucoup de leadership. Ils admettent qu'ils sont toujours voués à la souveraineté du Québec. C'est ce qui les préoccupe. C'est leur droit. Ils ont été élus démocratiquement. Ils ont toutefois accepté de mettre leur option en veilleuse pendant dix-huit mois et peut-être même plus pour collaborer avec les autres partis et traverser la crise. C'est une grande preuve de leadership. Il faut le reconnaître. Je crois que les Canadiens s'en rendent compte. </ParaText>
+              <ParaText id="1254301">Les deux autres partis ont également laissé leur bagage politique à la porte. Les libéraux et les néo-démocrates argumentent bien sûr depuis la nuit des temps, mais nous avons accepté de mettre nos différends de côté pour travailler ensemble sur les points pour lesquels nous avons un intérêt commun. </ParaText>
+              <ParaText id="1254302">L'un des avantages au Canada, comme nous le savons tous, c'est que l'éventail politique n'est pas très large. Nous avons plus de choses en commun que de choses qui nous séparent. La liste des choses sur lesquelles nous nous entendons est plus longue que celle de nos divergences. </ParaText>
+              <ParaText id="1254303">Nous avons défini une demi-douzaine de points importants sur lesquels nous convenons tous qu'il faut agir et nous avons pris les mesures nécessaires pour former une coalition qui pourrait s'en occuper. </ParaText>
+              <ParaText id="1254304">Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> aurait pu faire ces mêmes choses s'il avait décidé de se comporter en homme d'État. J'estime qu'il a plutôt créé un problème qu'il ne parviendra pas à régler. Même si la Gouverneure générale accepte de proroger le Parlement, ce problème ne disparaîtra pas, car aucune somme, au cours des six prochaines semaines, ne permettra aux conservateurs de retrouver la crédibilité qu'ils ont perdue en choisissant de se montrer agressifs et pompeux au lieu de se comporter en hommes d'État.</ParaText>
+              <ParaText id="1254305">Chose utile, nous avons vu la vraie nature de ces types. Le verni est tombé. Nous avons pu voir leur vrai visage. Pendant quelques années, ils ont entretenu l'illusion qu'ils pouvaient mettre de côté leurs éléments radicaux, mais ces derniers se sont infiltrés à la première occasion et ont dominé. Je crois qu'ils ont faussé l'esprit d'un homme bien par ailleurs, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> du Canada. Je pense qu'il a été induit en erreur, qu'il a été mal conseillé et il a tout raté. Nous en voyons les conséquences aujourd'hui.</ParaText>
+              <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+              <ParaText id="1254306">Il a perdu la confiance du Parlement et un nouveau gouvernement représentant la majorité des Canadiens prendra le pouvoir. Il mènera un programme nécessaire et bien conçu et le mettra en oeuvre rapidement.</ParaText>
+              <ParaText id="1254307">Je suis certain que mon collègue de <Affiliation DbId="128291" Type="2">St. John's-Est</Affiliation> pourra en dire plus sur certains volets de ce programme.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Hill" id="2567373">
+            <PersonSpeaking>
+              <Affiliation DbId="128703" Type="6">L'hon. Jay Hill (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254308">Monsieur le Président, je trouve difficile de ne pas me mettre en colère lorsque j'entends les arguments fallacieux que présente le parti du député à la population canadienne pour la convaincre qu'il était prêt à faire sa part pour que le Parlement fonctionne, qu'il était prêt à travailler avec le gouvernement dans un esprit de coopération, d'ouverture et de consultation. Comme je l'ai dit hier, tous les partis ont tenu ce discours le jour de l'élection du Président, mais ils n'ont pas joint le geste à la parole, malheureusement.</ParaText>
+              <ParaText id="1254309">Or, nous savons maintenant que le parti du député menait déjà des consultations dès le lendemain des élections générales, non pas auprès du gouvernement, pour faire en sorte que le Parlement fonctionne comme le voudraient les Canadiens, mais auprès des séparatistes, dans le but de renverser les résultats des élections, qui ne le satisfaisaient pas.</ParaText>
+              <ParaText id="1254310">Le député va-t-il expliquer aux Canadiens qui écoutent les débats aujourd'hui pourquoi son parti et lui-même appuieraient une motion de défiance à l'égard du gouvernement et sur quelles bases l'opposition officielle, dans sa grande sagesse, au nom de la coalition séparatiste, peut décider, après six jours de débat, que le Parlement ne fonctionne pas et qu'elle n'a d'autre choix que de renverser les résultats des élections?</ParaText>
+              <ParaText id="1254311">Plutôt que de travailler de façon constructive avec le gouvernement et tous les partis, ils ont décidé de précipiter le pays dans la tourmente et de présenter une motion de défiance alors que le Canada est plongé dans ce qui est peut-être la plus grande crise économique depuis la Grande Dépression. La majorité des gens reconnaissent que la situation économique est des plus précaires.</ParaText>
+              <ParaText id="1254312">J'aimerais aussi que le député explique comment il se fait que les députés néo-démocrates parlent de l'urgence de la situation économique, alors qu'ils seraient prêts à renverser les résultats des élections et à mettre en place un gouvernement de coalition instable qui prendrait des mois à pouvoir bien fonctionner. Pourquoi refusent-ils d'attendre le budget que nous avons promis de présenter, après des consultations, le 27 janvier?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Martin (Winnipeg-Centre)" id="2567382">
+            <PersonSpeaking>
+              <Affiliation DbId="128421" Type="2">M. Pat Martin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254313">Monsieur le Président, un des principes fondamentaux de la démocratie parlementaire est que le pouvoir exécutif doit rendre des comptes au pouvoir législatif.</ParaText>
+              <ParaText id="1254314">Tout ce que nous voulons, c'est avoir l'occasion de voter sur la mise à jour économique ou, comme certains l'appellent, le bras d'honneur des conservateurs. Nous voulons voter dès lundi et je crois que les conservateurs vont perdre ce vote. Il s'agit d'un vote de confiance, et nous aurons l'occasion de dire que nous ne faisons plus confiance au gouvernement.</ParaText>
+              <ParaText id="1254315">Qu'y a-t-il de plus fondamental que l'obligation du pouvoir exécutif de rendre des comptes au pouvoir législatif? Cette question a déjà provoqué des révoltes.</ParaText>
+              <ParaText id="1254316">Aussi, je déplorerais la décision de la Gouverneure générale si elle acceptait de proroger le Parlement, à la demande du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>. Il serait très préoccupant de voir la représentante de la reine au Canada ne pas tenir compte de ce que veut l'organe législatif de notre démocratie. Des rois ont été décapités pour de telles choses, et c'est très inquiétant. </ParaText>
+              <ParaText id="1254317">Mon collègue, le leader du gouvernement à la Chambre, a trop d'expérience comme député pour ignorer ces principes fondamentaux de notre démocratie parlementaire, même s'ils entraînent des conséquences négatives pour le parti qu'il représente.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="Question" ToC="Yes" ToCText="Mme Ratansi" id="2567391">
+            <PersonSpeaking>
+              <Affiliation DbId="128259" Type="2">Mme Yasmin Ratansi (Don Valley-Est, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254318">Monsieur le Président, j'aimerais porter à l'attention du député la question de savoir comment nous en sommes arrivés là. Je crois que c'est parce que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a induit les Canadiens en erreur et a probablement été élu sur la base de fausses représentations, si je peux me permettre de m'exprimer ainsi, monsieur le Président.</ParaText>
+              <ParaText id="1254319">Il a nié que le pays était en récession. Il a dit que les bases de notre économie étaient solides et qu'il ne permettrait jamais un déficit. Maintenant, les conservateurs disent tous qu'ils savaient qu'un ralentissement économique pointait à l'horizon. Malgré tout, ils ont éliminé le fonds de prévoyance de 3 milliards de dollars. Si le pays se dirigeait vers un déficit, pourquoi le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a-t-il dit aux pays du G20 et de l'APEC qu'il allait prendre des mesures pour stimuler l'économie? Plutôt que d'annoncer de telles mesures dans son énoncé économique, il a annoncé des compressions de 6 milliards de dollars, visant notamment l'assurance-emploi.</ParaText>
+              <ParaText id="1254320">J'aimerais savoir ce que le député pense de cela.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Martin (Winnipeg-Centre)" id="2567397">
+            <PersonSpeaking>
+              <Affiliation DbId="128421" Type="2">M. Pat Martin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254321">Monsieur le Président, compte tenu de l'appui massif qui nous arrive de partout au Canada, il est clair que, en l'absence de leadership à l'égard des importantes questions soulevées par ma collègue, les Canadiens accueillent favorablement un plan d'action clair, concis et bien structuré, susceptible d'être mis en oeuvre à court terme par un nouveau gouvernement de coalition. </ParaText>
+              <ParaText id="1254322">En ce moment même, une vague d'optimiste déferle sur le pays. Encore une fois, il y a de l'espoir au Canada. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Harris (St. John's-Est)" id="2567403">
+            <PersonSpeaking>
+              <Affiliation DbId="128291" Type="2">M. Jack Harris (St. John's-Est, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254323">Monsieur le Président, cela fait environ 21 ans que je participe directement à la démocratie parlementaire, d'abord dans cette enceinte, puis pendant 16 ans à l'assemblée législative de Terre-Neuve-et-Labrador. Je suis heureux d'avoir été réélu à cette Chambre lors des élections du 14 octobre. Jamais je n'ai été aussi préoccupé par l'état de la démocratie parlementaire dans notre pays que je le suis depuis une semaine.</ParaText>
+              <ParaText id="1254324">J'ai vu les députés prendre la parole et remercier leurs électeurs de les avoir élus ou de les avoir portés de nouveau au pouvoir. Je les ai tous applaudis. Puis, du côté du gouvernement, certains se sont mis à parler du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> et du gouvernement, disant qu'ils avaient été élus. C'est là qu'ils se sont éloignés de la démocratie parlementaire. L'actuel premier ministre n'a pas été élu premier ministre. Ce n'est pas comme cela que le Parlement fonctionne. Chaque député de cette Chambre est membre du Parlement et a le droit et le devoir de représenter ses électeurs.</ParaText>
+              <ParaText id="1254325">Ce matin, j'ai entendu l'un des députés d'en face parler des occupants des dernières banquettes de la Chambre des communes. Je suppose qu'il parlait soit des députés d'arrière-ban de son parti, soit de ceux des partis de l'opposition, mais je ne suis pas certain. Je veux cependant dire ceci. Il n'y a pas de dernières banquettes à la Chambre des communes. Nous avons tous été élus pour représenter nos électeurs et nos intérêts.</ParaText>
+              <ParaText id="1254326">La démocratie parlementaire permet au chef du parti ayant le plus de sièges à la Chambre d'aller voir la Gouverneure générale et, dans le cas d'un gouvernement minoritaire, de démissionner ou d'informer la Gouverneure générale qu'il désire se soumettre à un vote de confiance de la Chambre. C'est ainsi que notre système fonctionne. Pour assumer les fonctions de premier ministre, une personne doit avoir la confiance de la Chambre. On présume que si le parti de la personne possède la majorité des sièges à la Chambre des communes, cette personne est le premier ministre et peut former un gouvernement.</ParaText>
+              <ParaText id="1254327">Toutefois, après les dernière élections, un nouveau gouvernement a été assermenté à la place de l'ancien. Ce nouveau gouvernement a été assermenté parce que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> en poste a été en mesure de dire à la Gouverneure générale qu'il se soumettrait à un vote de confiance de la Chambre. C'est ce que nous faisons maintenant. Nous sommes dans une situation où le premier ministre du Canada a perdu la confiance de la Chambre à cause des mesures qu'il a prises et de son manque de leadership.</ParaText>
+              <ParaText id="1254328">Quelle est sa réaction? Sa réaction, c'est de refuser de faire face à la Chambre, de refuser de gouverner avec l'appui et la confiance de la Chambre des communes et de tenter d'avoir recours à une prorogation. N'utilisons pas un terme élégant; il veut paralyser le Parlement parce qu'il ne peut braver la tempête. La réalité, c'est qu'il n'a pas l'appui de la Chambre. Le gouvernement n'a pas l'appui de la Chambre. Il n'a pas honoré son obligation de tenter de conserver l'appui de la Chambre.</ParaText>
+              <ParaText id="1254329">On a beaucoup parlé d'un gouvernement qui travaille dans l'intérêt du Canada et qui appuie l'idée de collaborer avec les autres partis au Parlement. Nous avons tous promis d'essayer d'agir ainsi. Toutefois, quelqu'un a rompu cette promesse jeudi dernier. La promesse a été rompue lorsque le gouvernement a refusé de tenir compte de tous les partis à la Chambre et d'élaborer un plan qui a l'appui d'au moins la majorité de la Chambre parce qu'il reconnaît que la récession actuelle commande une action immédiate. </ParaText>
+              <ParaText id="1254330">Dans ma province de Terre-Neuve-et-Labrador, AbitibiBowater a annoncé aujourd'hui la fermeture d'une usine de papier journal qui existait depuis plus de 100 ans. Huit cents personnes vont perdre leur emploi. Il y a deux semaines, j'ai demandé à la Chambre si le gouvernement prévoyait appuyer un programme pour les travailleurs âgés et le perfectionnement des travailleurs plus jeunes, ce qui permettrait de sauver cette usine. Rien n'a été fait, et l'usine sera fermée.</ParaText>
+              <ParaText id="1254331">Il n'y a ici qu'un seul parti qui nous empêche d'avoir un gouvernement qui obtient des résultats pour les Canadiens. Les partis de l'opposition ont collaboré à l'élaboration d'un plan qui nous permettrait d'obtenir un tel gouvernement. Il s'agit de la coalition des libéraux et des néo-démocrates. Cette coalition a un accord stratégique destiné à lutter contre la crise économique actuelle. Il y a eu beaucoup de désinformation à ce sujet. </ParaText>
+              <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+              <ParaText id="1254332">Il n'y a aucune entente secrète. L'entente est sur le site web. N'importe qui peut la consulter. En outre, les termes de l'accord sont clairs et nets: le Bloc québécois s'engage à ne pas renverser un gouvernement de coalition libéral-néo-démocrate pour une période de 18 mois.</ParaText>
+              <ParaText id="1254333">La stabilité serait donc assurée pendant 18 mois. Le gouvernement est loin de pouvoir donner la même assurance. En effet, les conservateurs n'arrivent pas à assurer la stabilité au Parlement pendant deux ou trois semaines. Comment pourront-ils y arriver pendant les 18 ou 28 prochains mois, ou même pendant les 3 prochains mois? Aucune chance. L'instabilité actuelle vient du gouvernement et du manque de leadership du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>.</ParaText>
+              <ParaText id="1254334">On parle souvent de collaborer avec les autres partis de la Chambre tout en diffamant le Bloc québécois. Voilà qui a pour effet de diviser le pays. Harold Wilson faisait remarquer que « le patriotisme est le dernier refuge d'une fripouille ». Je ne qualifie personne en particulier de fripouille, ce qui risquerait d'être non parlementaire, mais les tactiques utilisées par les ministériels et le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> pour sauver leur peau sont une source de discorde. J'espère... </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2567433">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254335">Le <Affiliation DbId="105824" Type="4">ministre de la Justice</Affiliation> invoque le Règlement.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2567436">
+        <SubjectOfBusinessTitle>La prorogation du Parlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Nicholson" id="2567434">
+            <PersonSpeaking>
+              <Affiliation DbId="105826" Type="96">L'hon. Rob Nicholson (ministre de la Justice et procureur général du Canada, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254336">Monsieur le Président, j'ai le devoir de faire savoir à la Chambre que Son Excellence, la Gouverneure générale du Canada, a émis les proclamations suivantes sous le grand sceau du Canada: </ParaText>
+              <ParaText id="1254337">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">ELIZABETH DEUX, par la Grâce de Dieu, REINE du Royaume-Uni, du Canada et de ses autres royaumes et territoires, Chef du Commonwealth, Défenseur de la Foi. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254338">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">À Nos bien-aimés et fidèles Sénateurs du Canada et aux membres élus pour servir à la Chambre des communes du Canada, et à tous ceux que les présentes peuvent de quelque manière concerner,</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254339">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">SALUT:</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">PROCLAMATION</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254341">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Attendu que, sur et avec l'avis de Notre premier ministre du Canada, Nous avons jugé à propos de proroger le présent Parlement du Canada;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254342">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Sachez que, à cette fin, Nous publions Notre présente proclamation royale et prorogeons par les présentes ladite législature du Canada à lundi le vingt-sixième jour de janvier 2009.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254343">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">EN FOI DE QUOI, Nous avons fait publier Notre présente Proclamation et y avons fait apposer le grand sceau du Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254344">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">TÉMOIN:</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254345">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre très fidèle et bien-aimée Michaëlle Jean, chancelière et compagnon principal de Notre Ordre du Canada, chancelière et commandeure de Notre Ordre du mérite militaire, chancelière et commandeure de Notre Ordre du mérite des corps policiers, gouverneure générale et commandante en chef du Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254346">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">À NOTRE HÔTEL DU GOUVERNEMENT, en Notre ville d'Ottawa, ce quatrième jour de décembre de l'an de grâce deux mille huit, cinquante-septième de Notre règne.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254347">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">SALUT:</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254348">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">PROCLAMATION</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254349">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Sachez que, désireuse et ayant résolu, aussitôt que faire se pourra, de Nous rencontrer avec Notre peuple du Canada, et d'obtenir son avis au Parlement, Nous, sur et avec l'avis de Notre premier ministre du Canada, par les présentes sommons la Chambre des communes du Canada de se réunir en Notre ville d'Ottawa, le lundi vingt-sixième jour de janvier 2009, pour y entrer en conférence et traiter avec le Sénat du Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254350">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">EN FOI DE QUOI, Nous avons fait publier Notre présente Proclamation et y avons fait apposer le grand sceau du Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254351">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">TÉMOIN:</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254352">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre très fidèle et bien-aimée Michaëlle Jean, chancelière et compagnon principal de Notre Ordre du Canada, chancelière et commandeure de Notre Ordre du mérite militaire, chancelière et commandeure de Notre Ordre du mérite des corps policiers, gouverneure générale et commandante en chef du Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1254353">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">À NOTRE HÔTEL DU GOUVERNEMENT, en Notre ville d'Ottawa, ce quatrième jour de décembre de l'an de grâce deux mille huit, cinquante-septième de Notre règne.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Le Président" id="2567437">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1254354">À l'ordre, s'il vous plaît.</ParaText>
+              <ParaText id="1254355"> Étant donné la déclaration faite par le <Affiliation DbId="105826" Type="96">ministre de la Justice et procureur général du Canada</Affiliation>, je quitte maintenant le fauteuil.</ParaText>
+              <ParaText id="1254356">(Ainsi se termine la 1<Sup>re</Sup> session de la 40<Sup>e</Sup> législature.) </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

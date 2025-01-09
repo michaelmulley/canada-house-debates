@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="7667766">
+  <StartPageNumber>9965</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 146</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 145-A</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">41<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le jeudi 28 juin 2012</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Andrew Scheer</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">28 juin 2012</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 145-A (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 145-A (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 145-A (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">146</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">145</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">28</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2012</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2012/06/28 14:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="Suffix">A</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="2962670">La séance est ouverte à 14 heures.</ParaText>
+      <Prayer>Prière</Prayer>
+      <Timestamp Hr="14" Mn="00">(1400)</Timestamp>
+      <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+      <Intervention Type="Interjection" ToC="No" ToCText="Le Président" id="7667773">
+        <PersonSpeaking>
+          <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+        <Content>
+          <ParaText id="2962671">Je désire informer la Chambre que, conformément au paragraphe 28(4) du Règlement, j'ai convoqué la Chambre aujourd'hui uniquement en vue de la sanction royale qui sera octroyée à plusieurs projets de loi.</ParaText>
+        </Content>
+      </Intervention>
+    </Intro>
+    <OrderOfBusiness id="7667767" Rubric="RoyalAssent">
+      <OrderOfBusinessTitle>LA SANCTION ROYALE</OrderOfBusinessTitle>
+      <CatchLine>La sanction royale</CatchLine>
+      <SubjectOfBusiness>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="7667769">
+            <PersonSpeaking>
+              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="2962672">J'ai l'honneur d'informer la Chambre que j'ai reçu la lettre suivante: </ParaText>
+              <ParaText id="2962673">
+                <Quote inline="block">
+                  <QuotePara Align="Centre">Résidence du gouverneur général </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962674">
+                <Quote inline="block">
+                  <QuotePara Align="Centre">Ottawa</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962675">
+                <Quote inline="block">
+                  <QuotePara Align="Right">Le 28 juin 2012</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962676">
+                <Quote inline="block">
+                  <QuotePara Align="Left" IndentFirst="1" IndentRest="1">Monsieur le Président,</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962677">
+                <Quote inline="block">
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> J'ai l'honneur de vous aviser que le très honorable David Johnston, gouverneur général du Canada, se rendra à la Chambre du Sénat, aujourd'hui, le 28 juin 2012, à 14 heures, afin d'octroyer la sanction royale à plusieurs projets de loi. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962678">
+                <Quote inline="block">
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Veuillez agréer, monsieur le Président, l'assurance de ma haute considération.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962679">
+                <Quote inline="block">
+                  <QuotePara Align="Centre">Stephen Wallace</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="7667775">
+        <SubjectOfBusinessTitle>Message du Sénat</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="7667770">
+            <PersonSpeaking>
+              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="2962680"> J'ai l'honneur d'annoncer à la Chambre que le Sénat lui a adressé des messages pour l'informer qu'il a adopté les projets de loi suivants:</ParaText>
+              <ParaText id="2962681">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5242186" Type="3">C-25, Loi concernant les régimes de pension agréés collectifs et apportant des modifications connexes à certaines lois</Document>;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962682">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5383493" Type="3">C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</Document>;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962683">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5137989" Type="4">C-310, Loi modifiant le Code criminel (traite des personnes)</Document>.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="7667779">
+        <SubjectOfBusinessContent>
+          <ParaText id="2962684"> L'huissier du bâton noir apporte le message suivant: 
+</ParaText>
+          <ParaText id="2962685">
+            <Quote>
+              <QuotePara Align="Left" IndentFirst="2" IndentRest="1">C'est le désir de son Excellence le  gouverneur général que cette honorable Chambre se rende immédiatement auprès de lui dans la salle du Sénat.</QuotePara>
+            </Quote>
+          </ParaText>
+          <ParaText id="2962686">En conséquence, le Président et les députés des Communes se rendent au Sénat.</ParaText>
+          <ParaText id="2962687">
+            <I>Et de retour</I>:
+</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="7667778">
+            <PersonSpeaking>
+              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="2962688">J'ai l'honneur d'informer la Chambre que, lorsque celle-ci s'est rendue auprès de Son Excellence le gouverneur général aujourd'hui, au Sénat, il a plu à Son Excellence d’octroyer, au nom de Sa Majesté, la sanction royale aux projets de loi suivants:</ParaText>
+              <ParaText id="2962689">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5254650" Type="3">C-26, Loi modifiant le Code criminel (arrestation par des citoyens et moyens de défense relativement aux biens et aux personnes)</Document> — Chapitre 9, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962690">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5634778" Type="3">C-40, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2013</Document> — Chapitre 10, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962691">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5634792" Type="3">C-41, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2013</Document> — Chapitre 11, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962692">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5130534" Type="4">C-288, Loi concernant le drapeau national du Canada</Document> — Chapitre 12, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962693">
+                <Quote>
+                  <QuotePara Align="Left" IndentRest="1" IndentFirst="2">Projet de loi <Document DbId="5120448" Type="4">C-278, Loi instituant une journée destinée à sensibiliser davantage le public à l'épilepsie</Document> — Chapitre 13, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962694">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5138597" Type="4">C-311, Loi modifiant la Loi sur l’importation des boissons enivrantes (importation interprovinciale de vin pour usage personnel)</Document> — Chapitre 14, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962695">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5137989" Type="4">C-310, Loi modifiant le Code criminel (traite des personnes)</Document> — Chapitre 15, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962696">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5242186" Type="3">C-25, Loi concernant les régimes de pension agréés collectifs et apportant des modifications connexes à certaines lois</Document> — Chapitre 16, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962697">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Projet de loi <Document DbId="5383493" Type="3">C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</Document> — Chapitre 17, 2012.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="2962698">Comme il est 14 h 15, la Chambre s'ajourne au lundi 17 septembre 2012, à 11 heures, conformément aux paragraphes 28(2) et 24(1) du Règlement.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

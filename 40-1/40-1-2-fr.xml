@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="2556325">
+  <StartPageNumber>13</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 143</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 002</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">40<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le mercredi 19 novembre 2008</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Peter Milliken</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">19 novembre 2008</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DÉBATS</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 002 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 002 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 002 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">143</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">002</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">19</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">11</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2008</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2008/11/19 13:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">40</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="1242581">La séance est ouverte à 13 h 30.</ParaText>
+      <Prayer>Prière</Prayer>
+    </Intro>
+    <OrderOfBusiness id="2556519" Rubric="Other">
+      <CatchLine />
+      <SubjectOfBusiness>
+        <Timestamp Hr="13" Mn="30">(1330)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556328">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242582">Comme c'est aujourd'hui mercredi, nous allons maintenant chanter l'hymne national, qui sera entonné par la députée de <Affiliation DbId="128209" Type="2">Newmarket—Aurora</Affiliation>.</ParaText>
+              <ParaText id="1242583">[<I>Les députés chantent l'hymne national.</I>] </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2556340">
+        <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
+        <SubjectOfBusinessTitle>Ouverture de la législature</SubjectOfBusinessTitle>
+        <CatchLine>Ouverture de la législature</CatchLine>
+        <SubjectOfBusinessContent>
+          <ParaText id="1242584">    L'huissier du bâton noir apporte le message suivant:
+	    </ParaText>
+          <ParaText id="1242585">
+            <Quote>
+              <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Monsieur le Président, c'est le désir de Son Excellence la Gouverneure générale que cette honorable Chambre se rende immédiatement auprès d'elle dans la chambre du Sénat.</QuotePara>
+            </Quote>
+          </ParaText>
+          <ParaText id="1242586">En conséquence, le Président et les députés des Communes se rendent au Sénat.</ParaText>
+          <ParaText id="1242587">
+            <I>Et de retour à la Chambre des communes:</I>
+          </ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2556388">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242588">À l'ordre, s'il vous plaît. J'ai l'honneur de vous informer que, les Communes s'étant rendues au Sénat sur l'invitation de Son Excellence la Gouverneure générale, j'ai annoncé à Son Excellence que j'avais été choisi Président. En votre nom, j'ai réclamé les privilèges qui vous sont accordés d'ordinaire et que Son Excellence a bien voulu confirmer.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2556437">
+        <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les serments d'office</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Harper" id="2556392">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC) </Affiliation>
+            </PersonSpeaking>
+            <Content>
+              <ProceduralText TocType="TPC" id="1">Projet de loi C-1. Présentation et première lecture</ProceduralText>
+              <ParaText id="1242589"> demande à présenter le projet de loi C-1, Loi concernant la prestation de serments d'office. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556503">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242590">Il est proposé que ce projet de loi soit maintenant lu une première fois et imprimé. Cette motion est réputée adoptée.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion; première lecture du projet de loi" id="2">(La motion est réputée adoptée, et le projet de loi est lu pour la première fois.)</ProceduralText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Harper" id="2556505">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242591">Monsieur le Président, une longue tradition parlementaire veut que le premier ministre présente un projet de loi fictif qui affirme le droit de la Chambre des communes à présenter des mesures législatives. Suivant la pratique adoptée par certaines assemblées législatives, notamment certaines de nos assemblées législatives provinciales, je propose aujourd'hui de déposer réellement un véritable document qui affirme ce droit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Goodale" id="2556395">
+            <PersonSpeaking>
+              <Affiliation DbId="78924" Type="2">L'hon. Ralph Goodale (Wascana, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242592">Monsieur le Président, le dépôt du projet de loi C-1 à l'ouverture d'une législature, comme le décrit le Marleau-Montpetit, est essentiellement un geste symbolique visant à affirmer le droit du Parlement d'agir comme bon lui semble, indépendamment de ce qui se trouve ou non dans le discours du Trône.</ParaText>
+              <ParaText id="1242593">Malheureusement, en ce qui concerne le geste que pose le premier ministre, les partis de l'opposition n'ont pas été consultés au préalable sur les intentions du gouvernement. Hier, nous avons passé une bonne partie de la journée à parler de l'importance de tenir des consultations, d'inclure et d'inviter tous les députés à participer aux procédures établies dans le but de créer à la Chambre une meilleure atmosphère et un climat plus propice à la collaboration sur les grands dossiers d'actualité.</ParaText>
+              <ParaText id="1242594">Le premier ministre ne changera peut-être rien d'important avec le processus qu'il propose maintenant, mais j'aimerais profiter de l'occasion pour lui demander deux choses. Premièrement, je demanderais au premier ministre, et également au Président, de nous donner l'assurance que ce geste ne change rien de fondamental puisque nous n'avons pas eu la chance d'être consultés à l'avance ni d'examiner les précédents qui pourraient exister dans les provinces. J'aimerais que nous recevions cette assurance.</ParaText>
+              <ParaText id="1242595">Deuxièmement, j'aimerais obtenir l'assurance de la Chambre, étant donné la bonne volonté exprimée pour améliorer le fonctionnement de cet endroit pour l'ensemble des députés, que des efforts concrets sont déployés pour donner des préavis et procéder à des consultations afin que nous n'ayons plus à soulever ce genre de point embarrassant.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Harper" id="2556401">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242596">Monsieur le Président, je peux certes assurer à la Chambre que cela ne va à l'encontre d'aucune de nos pratiques. En fait, cela ne sert qu'à fournir une copie papier de nos pratiques établies de longue date, comme cela se fait ailleurs.</ParaText>
+              <ParaText id="1242597">Je voudrais seulement souligner que la présentation et la première lecture des projets de loi à la Chambre des communes ne peuvent faire l'objet d'un débat.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Hill" id="2556405">
+            <PersonSpeaking>
+              <Affiliation DbId="128703" Type="6">L'hon. Jay Hill (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242598">Très rapidement, monsieur le Président, parce que je ne veux pas m'éterniser sur cette question, mais je suis certain que le leader de l'opposition officielle à la Chambre sait très bien que nous avons fait parvenir le libellé de cette motion à son bureau à 12 h 30, il y a de cela environ trois heures.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Goodale" id="2556407">
+            <PersonSpeaking>
+              <Affiliation DbId="78924" Type="2">L'hon. Ralph Goodale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242599">Monsieur le Président, si je comprends bien la motion que vous avez lue, cette démarche comporte un élément nouveau, à savoir que vous cherchez à obtenir l'approbation de la Chambre pour que le projet de loi soit imprimé. En fait, cela ne s'est jamais produit auparavant et je veux préciser que cette nouvelle procédure ne change rien d'important. Autrement, il aurait fallu qu'un préavis soit donné et que des consultations aient lieu.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556409">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242600">Le Président a fait une erreur. Quand j'ai lu la motion, j'ai ajouté les mots « et imprimé » car je le dis toujours de cette façon. Je n'ai pas lu le texte attentivement, j'ai dit n'importe quoi.</ParaText>
+              <ParaText id="1242601">Par conséquent, les mots « et imprimé » n'auraient pas dû être inclus dans la motion. L'ordre ne sera pas imprimé.</ParaText>
+              <ParaText id="1242602">Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a déposé un document après que la motion a été adoptée. À mon avis, la motion qui aurait dû être présentée à la Chambre est la suivante, et j'étais sur le point de prendre la parole pour rectifier la situation, mais j'attendais que ces recours au Règlement se règlent d'eux-mêmes. Je pense que je me suis exprimé en français, si je ne me trompe pas.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1242603">« Que le projet de loi soit maintenant lu une première fois. » Rien de plus. C'est normal que les autres mots soient là. J'ai simplement dit tout cela en même temps. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1242604">Je présente mes excuses à la Chambre pour cette bévue. Le projet de loi ne sera pas imprimé. Nous suivons les usages du passé sauf qu'un document a été déposé.</ParaText>
+              <ParaText id="1242605">Je suis certain que le commentaire du leader parlementaire de l'opposition officielle sera pris en considération si quelque chose d'irrégulier s'est produit lors du dépôt du document, mais le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> est libre de déposer ce qu'il veut. La présidence fera part à la Chambre de sa décision à ce sujet.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2556470">
+        <SubjectOfBusinessTitle>Le discours du Trône</SubjectOfBusinessTitle>
+        <CatchLine>L'Adresse</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2556490">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242606">J'ai l'honneur d'informer la Chambre que, lorsque celle-ci s'est rendue auprès de Son Excellence la Gouverneure générale aujourd'hui, au Sénat, il a plu à Son Excellence de prononcer un discours devant les deux Chambres du Parlement. Afin d'éviter les erreurs, j'en ai obtenu le texte, que voici:</ParaText>
+            </Content>
+          </Intervention>
+          <ThroneSpeech>
+            <ThroneSpeechPara IndentFirst="1" IndentRest="1" Align="Left">
+              <Line>
+                <I>Honorables Sénatrices et Sénateurs,</I>
+              </Line>
+              <Line>
+                <I>Mesdames et Messieurs les Députés,</I>
+              </Line>
+              <Line>
+                <I>
+Mesdames et Messieurs,
+
+</I>
+              </Line>
+            </ThroneSpeechPara>
+          </ThroneSpeech>
+          <ParaText id="1242607">Le 2 octobre 1758 se tenait la première assemblée parlementaire au Canada. C’était en Nouvelle-Écosse, il y a deux cent cinquante ans. Il est opportun de rappeler solennellement en cette enceinte la portée historique de cet événement.
+
+</ParaText>
+          <ParaText id="1242608">Car si nous pouvons aujourd’hui aspirer à réaliser librement notre plein potentiel, c’est grâce à des femmes et à des hommes, jeunes et moins jeunes, qui ont instauré la démocratie en ce pays où tout est possible.
+
+</ParaText>
+          <ParaText id="1242609">Notre pays est fait de tous les espoirs que nous portons, de tous les rêves que nous poursuivons, de tous les projets que nous mettons en œuvre.
+
+</ParaText>
+          <ParaText id="1242610">Maintenir cet idéal de démocratie que nous incarnons dans le monde est une responsabilité qui incombe à chacune et à chacun d’entre nous.
+
+</ParaText>
+          <ParaText id="1242611">Moi, arrière-arrière-petite-fille d’esclaves, je sais à quel point cet héritage est précieux pour les citoyens de ce pays qui n’ont de cesse de me l’affirmer avec fierté par leurs gestes et leurs paroles depuis plus de trois ans.
+
+</ParaText>
+          <ParaText id="1242612">Les temps d’incertitude économique que nous vivons actuellement exigent plus que jamais que notre esprit de solidarité l’emporte et se propage au-delà de nos frontières pour que le Canada représente non seulement un espoir de renouvellement, mais une promesse d’avenir.
+
+</ParaText>
+          <ParaText id="1242613">Dans le respect de notre tradition démocratique, les représentants élus de la population canadienne se réunissent aujourd’hui pour la 40<Sup>e</Sup> fois dans l’histoire de cette grande nation afin d’inaugurer une nouvelle législature fédérale.
+
+</ParaText>
+          <ParaText id="1242614">Pendant plus de 140 ans, depuis l’ère de la reine Victoria, de Sir John A. Macdonald, de Sir George-Étienne Cartier et des autres Pères de la Confédération, le Parlement du Canada s’est réuni pour débattre les grands enjeux de l’heure. 
+
+</ParaText>
+          <ParaText id="1242615">Cette institution représente donc l’une des démocraties pacifiques les plus anciennes et les plus exemplaires au monde. 
+
+</ParaText>
+          <ParaText id="1242616">La population s’est de nouveau exprimée à l’occasion d’une élection générale le 14 octobre, et a confié à ce gouvernement un mandat renouvelé et renforcé. 
+
+</ParaText>
+          <ParaText id="1242617">Par ailleurs, la population a aussi choisi d’élire un Parlement minoritaire. Dans une démocratie parlementaire comme la nôtre, le gouvernement doit toujours être responsable et imputable devant les représentants élus.
+
+</ParaText>
+          <ParaText id="1242618">Notre gouvernement est conscient à la fois du privilège et de la responsabilité qu’on lui a conférés.
+
+</ParaText>
+          <ParaText id="1242619">Le monde traverse actuellement une période de turbulence et d’incertitude économiques hors de l’ordinaire. Le système financier international n’a pas subi de telles pressions depuis des générations. Les gouvernements ont pris, à l’échelle de la planète, des mesures extraordinaires pour rétablir la confiance face au ralentissement économique mondial.
+
+</ParaText>
+          <ParaText id="1242620">Les Canadiens et les Canadiennes suivent eux aussi les rebondissements de la crise et s’interrogent à juste titre sur ses répercussions ici au Canada ainsi que sur leurs emplois, leurs économies et le bien-être de leur famille. Ils sont conscients que ces événements, même s’ils ont pris naissance à l’étranger, affecteront le Canada, en tant que nation commerçante dans l’économie mondiale. 
+
+</ParaText>
+          <ParaText id="1242621">Malgré l’incertitude qui règne, les Canadiennes et les Canadiens surmonteront l’épreuve comme ils l’ont déjà fait en d’autres temps difficiles.
+
+</ParaText>
+          <ParaText id="1242622">Le Canada a été fondé sur la conviction qu’en rassemblant nos forces au sein d’une confédération, notre pays uni saurait relever, voire transcender les défis.
+
+</ParaText>
+          <ParaText id="1242623">Des explorateurs et pionniers aux colonisateurs et bâtisseurs de chemins de fer, ce pays a d’abord été façonné par des gens qui ont pris de grands risques et ont bravé des éléments implacables afin de préparer un avenir meilleur.
+
+</ParaText>
+          <ParaText id="1242624">À l’aube d’un nouveau siècle, de nouveaux défis émergeaient. Dans une guerre qui prit fin il y a quatre-vingt-dix ans la semaine dernière, notre jeune pays parvenait à maturité sur des champs de bataille dont les noms — Ypres, Vimy et Passchendaele — résonnent encore dans notre mémoire. La génération suivante a connu la Grande Dépression puis de nouveau la dévastation de la guerre. C’est grâce aux réalisations de ces générations, soulignées par les monuments dédiés à leur bravoure et à leurs sacrifices, que le Canada est devenu l’une des nations les plus pacifiques et les plus prospères du monde. 
+
+</ParaText>
+          <ParaText id="1242625">Nous savons que les Canadiennes et les Canadiens affronteront les problèmes d’aujourd’hui avec la même détermination que leurs parents et grands-parents et, comme eux, ils en ressortiront plus forts que jamais.
+
+</ParaText>
+          <ParaText id="1242626">En ces temps d’instabilité économique mondiale, notre pays jouit d’assises solides grâce au dur labeur de millions de Canadiens. Nous avons appliqué des politiques différentes de celles de nombre de nos partenaires commerciaux. Nous avons remboursé la dette et avons limité les dépenses. Nous avons fondé nos régimes de pension sur des bases solides et avons réinvesti dans d’importants programmes, comme ceux des soins de santé et de l’enseignement postsecondaire. Nos banques comptent parmi les institutions financières les plus sûres et les mieux réglementées au monde. Les entreprises et les ménages canadiens ont fait preuve de prudence et évité le surendettement observé ailleurs.
+
+</ParaText>
+          <ParaText id="1242627">Fort d’un nouveau mandat, notre gouvernement est résolu à assumer le solide leadership que réclament les Canadiens. Il prendra des mesures pour protéger les citoyens en ces temps difficiles. Il œuvrera de concert avec eux pour préserver notre prospérité future. Il appuiera les entreprises et les travailleurs canadiens dans leur quête d’un avenir meilleur. De plus, notre gouvernement continuera d’appliquer des politiques canadiennes distinctes qui amélioreront notre économie. 
+
+</ParaText>
+          <ParaText id="1242628">Notre gouvernement prône une stratégie claire pour la sécurité économique du Canada. De concert avec ses partenaires, il s’emploiera à surmonter la crise internationale actuelle. Il continuera de gérer les finances publiques prudemment et prendra des mesures afin de soutenir l’économie d’aujourd’hui et bâtir celle de demain.
+
+</ParaText>
+          <ParaText id="1242629">Au cours des prochains mois, notre gouvernement s’appliquera non seulement à étayer l’économie canadienne, mais démontrera aussi sa volonté de travailler à cette fin en partenariat avec d’autres. Les Canadiens s’attendent à ce que les gouvernements fédéral et provinciaux ensemble nous aident à traverser la crise économique actuelle et, au bout du compte, à bâtir un Canada plus fort. Les premiers ministres se sont réunis dans ce but le 10 novembre dernier et se rencontreront de nouveau au début de l’année 2009.
+
+ 
+</ParaText>
+          <ParaText id="1242630">
+            <B>La réforme du secteur financier mondial
+
+</B>
+          </ParaText>
+          <ParaText id="1242631">Le premier point à l’ordre du jour doit être de repositionner le système financier international sur des bases plus solides.  Parce que les problèmes ont commencé à se manifester à l’étranger, leur solution exige que le Canada mobilise ses partenaires et alliés à travers le monde.
+
+</ParaText>
+          <ParaText id="1242632">Le Canada mettra à profit son expérience pour élaborer un solide modèle de réglementation financière qui aidera le monde à réparer et à renforcer le système financier international. Le Premier ministre et le ministre des Finances ont amorcé cette importante réflexion à la rencontre du G20 le 15 novembre dernier, à Washington, pour revoir et réformer les règles et les institutions à la base du système financier mondial.
+
+</ParaText>
+          <ParaText id="1242633">Le secteur financier existe pour servir l’économie. Sans de solides institutions financières, les familles ne peuvent emprunter pour accéder à la propriété, et les entreprises ne peuvent obtenir le crédit nécessaire pour s’épanouir et créer de l’emploi. La crise du crédit dans l’économie mondiale a beaucoup réduit les perspectives de croissance. Le Canada jouera un rôle de premier plan afin d’aider à dénouer la crise, à favoriser le bon fonctionnement des marchés et à promouvoir ses intérêts.
+
+</ParaText>
+          <ParaText id="1242634">La crise du crédit a aussi fait ressortir les dangers d’un système de réglementation financière fragmenté. Pour resserrer davantage la surveillance des marchés financiers au Canada, notre gouvernement travaillera avec les provinces à la création d’une commission des valeurs mobilières commune. 
+
+</ParaText>
+          <ParaText id="1242635">
+            <B>La saine gestion des finances publiques 
+
+</B>
+          </ParaText>
+          <ParaText id="1242636">Jusqu’à maintenant, si le Canada se tire relativement bien d’affaire dans cette crise financière mondiale, c’est grâce assurément à l’assise solide sur laquelle repose son économie, la meilleure parmi les grands pays industrialisés.
+</ParaText>
+          <ParaText id="1242637">Une solide assise budgétaire n’est pas une fin en soi, mais c’est le fondement sur lequel repose une économie résiliente. L’établissement de budgets responsables, le remboursement accéléré de la dette et la diminution du fardeau fiscal des particuliers et des entreprises ont conféré à notre pays un avantage concurrentiel certain. Au moment où le Canada traverse une période d’incertitude économique, il devient encore plus important de favoriser la saine gestion des finances publiques.
+
+</ParaText>
+          <ParaText id="1242638">Le ministre des Finances fournira les détails de la stratégie de gestion économique et budgétaire de notre gouvernement dans l’Énoncé économique et financier qu’il rendra public la semaine prochaine.
+
+</ParaText>
+          <ParaText id="1242639">Les Canadiennes et les Canadiens trouvent à juste titre inacceptable l’idée de renouer avec des déficits permanents et insoutenables. Il faut absolument éviter de retomber dans ces déficits structurels. Par ailleurs, en ces temps extraordinaires de ralentissement mondial, il serait malavisé de s’engager à déposer à tout prix un budget équilibré à court terme car, au bout du compte, ce sont les familles canadiennes qui pourraient en faire les frais.
+
+</ParaText>
+          <ParaText id="1242640">Des décisions difficiles devront être prises afin de contenir les dépenses fédérales qui doivent être axées sur les résultats. Les subventions, les contributions et les dépenses en capital seront examinées à la loupe. Les ministères disposeront des sommes nécessaires, sans plus, pour assurer la prestation des programmes et des services essentiels. Notre gouvernement mobilisera le Parlement et encouragera ses membres à participer plus activement à l’examen des dépenses et à suggérer des restrictions possibles.
+
+</ParaText>
+          <ParaText id="1242641">Notre gouvernement est en outre déterminé à gérer de façon responsable la rémunération dans la fonction publique fédérale et déposera un projet de loi pour en assurer une croissance durable.
+</ParaText>
+          <ParaText id="1242642">Notre gouvernement veillera à ce que les provinces continuent à recevoir les généreux paiements de transfert pour les soins de santé et les programmes sociaux. Nous ferons aussi en sorte que les paiements de péréquation augmentent, mais qu’ils n’excèdent pas le rythme de croissance de notre économie.
+
+</ParaText>
+          <ParaText id="1242643">Toute nouvelle mesure destinée à soutenir l’économie sera également choisie avec soin et ciblée de manière à favoriser le maximum de retombées.
+
+<ForceColumnBreak /></ParaText>
+          <ParaText id="1242644">
+            <B>L’importance de la sécurité d’emploi pour les familles et les collectivités 
+
+</B>
+          </ParaText>
+          <ParaText id="1242645">La période de turbulence mondiale soulève des défis réels pour le Canada. Notre gouvernement est conscient des pressions qui s’exercent sur les simples travailleurs et travailleuses canadiens et les entreprises qui leur procurent un emploi.
+
+</ParaText>
+          <ParaText id="1242646">La santé de notre économie repose sur la force des travailleurs et des ménages canadiens. Notre gouvernement investira dans la main-d’œuvre canadienne en continuant d’offrir une aide financière aux étudiants et en prenant des mesures pour encourager l’apprentissage de métiers spécialisés et la formation en entreprise. Notre gouvernement travaillera aussi de concert avec les provinces afin de faire de la reconnaissance des titres de compétence étrangers une priorité, d’attirer au Canada des étudiants internationaux prometteurs et d’accroître la participation aux programmes d’établissement des immigrants.
+
+</ParaText>
+          <ParaText id="1242647">Notre gouvernement prendra aussi des mesures pour faire en sorte que les Autochtones du Canada puissent pleinement bénéficier des possibilités économiques. Il mettra plus particulièrement l’accent sur l’amélioration des services d’éducation à l’intention des Premières nations, en partenariat avec les provinces et les communautés des Premières nations. 
+
+</ParaText>
+          <ParaText id="1242648">Notre gouvernement soutiendra les travailleurs en transition. Il veillera à maximiser l’efficacité des programmes et des services offerts aux Canadiennes et aux Canadiens. Une aide ciblée permettra de répondre aux plus grands besoins.
+
+</ParaText>
+          <ParaText id="1242649">Avec ses baisses d’impôt, notre gouvernement a déjà réduit les coûts des entreprises, ce qui les aide à soutenir la concurrence et à créer des emplois. Afin de réduire davantage les pressions sur les coûts d’exploitation des entreprises canadiennes, notre gouvernement prendra des mesures pour encourager les sociétés à investir dans le renouvellement du matériel et de l’outillage.
+
+</ParaText>
+          <ParaText id="1242650">Le secteur manufacturier au Canada, et en particulier la construction automobile et l’aérospatiale, se fragilise de plus en plus. Notre gouvernement apportera de nouveaux soutiens à ces industries.
+
+</ParaText>
+          <ParaText id="1242651">Les industries traditionnelles au Canada — comme la pêche, les mines et la foresterie — sont essentielles à la vitalité économique de nombreuses régions et collectivités. Notre gouvernement continuera d’aider ces industries en appuyant la commercialisation des produits canadiens à l’étranger et l’innovation. 
+
+</ParaText>
+          <ParaText id="1242652">Il continuera de soutenir les agriculteurs du Canada en garantissant le choix des modes de commercialisation dans l’Ouest et en défendant énergiquement nos secteurs à offre réglementée, tant au pays que lors de négociations internationales.</ParaText>
+          <ParaText id="1242653">
+
+Les infrastructures publiques sont non seulement une source vitale d’emplois pour aujourd’hui, mais aussi un moyen de relier les collectivités et les régions, et de stimuler ainsi la croissance et l’emploi à long terme. Notre gouvernement s’engage à accélérer l’exécution de son plan Chantiers Canada afin que les projets se concrétisent le plus rapidement possible.
+
+</ParaText>
+          <ParaText id="1242654">
+            <B>Promouvoir l’investissement et le commerce 
+
+</B>
+          </ParaText>
+          <ParaText id="1242655">Pour assurer la prospérité du Canada, il ne suffit pas de relever les défis actuels. Il faut bâtir pour demain une économie dynamique, génératrice de croissance et de bons emplois. Nous devons suivre le célèbre conseil d’une de nos légendes du hockey et toujours devancer la rondelle.
+
+</ParaText>
+          <ParaText id="1242656">Pour bâtir une économie dynamique, il faut de nouvelles idées et de nouveaux investissements. Notre gouvernement est conscient que les progrès scientifiques et technologiques sont essentiels pour accroître la capacité concurrentielle de l’économie canadienne. Notre gouvernement commencera d’abord chez nous. Il travaillera avec l’industrie à appliquer le savoir-faire scientifique et technologique canadien de pointe à la création de nouvelles solutions d’affaires. Il investira dans de nouvelles installations de recherche de niveau mondial.  
+
+</ParaText>
+          <ParaText id="1242657">Notre gouvernement offrira aux sociétés canadiennes des possibilités accrues de bénéficier des investissements et du savoir-faire étrangers, tout en prenant les mesures nécessaires pour protéger les consommateurs et la sécurité nationale. Pour actualiser les lois sur la concurrence et l’investissement, notre gouvernement présentera des mesures législatives qui répondront à bon nombre des recommandations du Groupe d’étude sur les politiques en matière de concurrence.
+
+</ParaText>
+          <ParaText id="1242658">La créativité et l’innovation dans le secteur des arts contribuent à la fois à la vitalité culturelle du Canada et à son avenir économique. Notre gouvernement présentera des mesures législatives en vue d’actualiser la législation sur le droit d’auteur et la protection de la propriété intellectuelle.
+
+</ParaText>
+          <ParaText id="1242659">L’investissement et le commerce sont fondamentaux pour la prospérité du Canada. Notre gouvernement s’engage à chercher de nouveaux débouchés pour les Canadiens et à promouvoir la prospérité dans le monde grâce à la libéralisation des échanges. Il collaborera avec la nouvelle administration des États-Unis pour relever les défis que nous partageons, surtout en cette période de ralentissement, et chercher à accroître la compétitivité de l’Amérique du Nord. Il cherchera à conclure de nouveaux accords commerciaux en Asie et dans les Amériques, ainsi qu’avec l’Union européenne, afin d’ouvrir des marchés aux entreprises canadiennes. Notre gouvernement présentera des mesures législatives pour ratifier les résultats des négociations commerciales conclues avec l’Association européenne de libre-échange, le Pérou, la Colombie et la Jordanie.
+
+</ParaText>
+          <ParaText id="1242660">Notre gouvernement poursuivra ses investissements dans les portes d’entrée de l’Atlantique et du Pacifique, et dans d’importants passages frontaliers comme celui de la rivière Detroit, de sorte que les marchandises et les services canadiens puissent atteindre les marchés de l’Europe, de l’Asie et des États-Unis.
+
+</ParaText>
+          <ParaText id="1242661">Afin de mieux positionner le Canada pour attirer les investissements et pour conquérir de nouveaux marchés, nous devrons passer à l’action au pays. Le cadre de réglementation du commerce intérieur est fragmenté et entrave depuis trop longtemps la circulation de la main-d’œuvre et des investissements à l’échelle nationale. Notre gouvernement travaillera avec les provinces à éliminer d’ici 2010 les obstacles au commerce intérieur, aux investissements et à la mobilité de la main-d’œuvre. 
+
+</ParaText>
+          <ParaText id="1242662">
+            <B>Augmenter l’efficacité de l’action gouvernementale
+
+</B>
+          </ParaText>
+          <ParaText id="1242663">La solidité de l’assise économique et financière tient en bonne partie à la qualité de la gestion gouvernementale. Afin d’augmenter l’efficacité de l’administration fédérale, notre gouvernement s’engage à transformer et à rationaliser la conduite de nos affaires.
+
+</ParaText>
+          <ParaText id="1242664">Notre gouvernement engagera des réformes innovatrices de l’administration des programmes et des services, en s’inspirant des réussites de gouvernements ailleurs dans le monde. Il établira des partenariats avec des tierces parties et le secteur privé afin de pouvoir offrir des services améliorés à moindre coût.
+
+</ParaText>
+          <ParaText id="1242665">Notre gouvernement scrutera l’ensemble des dépenses de programme pour s’assurer qu’elles sont aussi efficaces que possible et qu’elles correspondent aux priorités des Canadiens et des Canadiennes.
+
+</ParaText>
+          <ParaText id="1242666">Notre gouvernement réduira les tracasseries administratives qui nuisent à ses relations d’affaire avec les secteurs privé et sans but lucratif.
+
+</ParaText>
+          <ParaText id="1242667">Corriger les procédures d’approvisionnement figure au sommet des priorités. Une fois les procédures simplifiées et rationalisées, les entreprises pourront plus facilement fournir des produits et des services au gouvernement, et les Canadiens et les Canadiennes obtiendront de meilleurs résultats. Les achats militaires en particulier sont d’une importance critique: le Canada ne peut permettre que de lourdes procédures retardent l’achat et la livraison du matériel dont nos militaires ont besoin.
+
+</ParaText>
+          <ParaText id="1242668">Notre gouvernement compte également renforcer et améliorer la gestion des organismes, conseils, commissions et sociétés d’État du Canada dans le sens de la rentabilité et de la responsabilisation.
+
+</ParaText>
+          <ParaText id="1242669">
+            <B>Assurer notre avenir énergétique
+
+</B>
+          </ParaText>
+          <ParaText id="1242670">L’énergie est une ressource vitale dans ce pays. Pour des raisons de géographie et de climat, les Canadiens doivent avoir accès à des sources d’énergie abordables et fiables. La mise en valeur de nos richesses énergétiques contribue grandement à la prospérité et à la création d’emplois pour les Canadiennes et les Canadiens.
+
+</ParaText>
+          <ParaText id="1242671">Notre gouvernement encouragera le développement d’énergies propres. Les nappes de gaz naturel dans le Nord du Canada représentent à la fois une source inexploitée de combustible propre et une voie incomparable vers de nouvelles perspectives économiques pour la population du Nord. Notre gouvernement réduira les obstacles en matière de réglementation et autres afin d’étendre le réseau de gazoducs dans le Nord.
+
+</ParaText>
+          <ParaText id="1242672">Ces mesures seront porteuses d’emplois autant dans le Nord que dans le reste du pays. Elles procureront en même temps de nouvelles sources d’approvisionnement en énergie aux marchés du Sud du Canada et du monde entier. Le développement économique dans le Nord canadien sera confié à un nouvel organisme distinct dans le cadre de notre Stratégie pour le Nord.
+
+</ParaText>
+          <ParaText id="1242673">Le nucléaire constitue une technologie éprouvée et fiable pour produire une énergie abondante. Au Canada et ailleurs dans le monde, les autorités énergétiques investissent dans le nucléaire pour atteindre leurs objectifs en matière de sécurité énergétique et de lutte contre les changements climatiques. Notre gouvernement veillera à ce que le Canada ait une réglementation efficace afin d’encadrer d’éventuels projets nucléaires provinciaux.
+
+</ParaText>
+          <ParaText id="1242674">
+            <B>Lutter contre les changements climatiques et préserver notre environnement
+
+</B>
+          </ParaText>
+          <ParaText id="1242675">Notre gouvernement est conscient qu’aucune prospérité économique durable n’est possible au Canada sans un environnement sain. De même, aucun progrès ne saurait être possible sur le plan environnemental sans une économie en santé. Notre gouvernement poursuivra son approche réaliste et responsable face au défi que posent les changements climatiques.
+
+</ParaText>
+          <ParaText id="1242676">Notre gouvernement s’est engagé à réduire les émissions totales de gaz à effet de serre du Canada de 20 p. 100 d’ici 2020. Nous y parviendrons tout en nous assurant que notre action demeure comparable à celle de nos partenaires aux États-Unis, en Europe et dans d’autres pays industrialisés. Nous allons nous concerter avec les gouvernements des provinces et nos partenaires pour élaborer et mettre en place un système nord-américain de plafonnement et d’échange de droits d’émission de gaz à effet de serre, ainsi qu’un protocole international efficace pour l’après-2012.
+
+</ParaText>
+          <ParaText id="1242677">Afin de relever le défi des changements climatiques, nous devrons également recourir davantage aux technologies qui n’émettent pas de gaz à effet de serre. Notre gouvernement fixera comme objectif le recours à des sources non émettrices, telles que l’hydroélectricité, le nucléaire, le charbon propre ou l’éolien, pour satisfaire 90 p. cent des besoins en électricité au Canada d’ici l’an 2020. Dans la poursuite de cet objectif national ambitieux, notre gouvernement maintiendra son appui en faveur des biocarburants, de l’énergie éolienne et d’autres énergies de remplacement.
+
+</ParaText>
+          <ParaText id="1242678">Afin de protéger nos précieuses ressources, notre gouvernement présentera des mesures législatives visant à interdire les transferts massifs d’eau ou les exportations à partir de nos bassins hydrographiques.
+
+</ParaText>
+          <ParaText id="1242679">Notre gouvernement travaillera de concert avec tous les partis au Parlement à l’adoption de mesures judicieuses qui puissent aider les consommateurs et améliorer l’état de l’environnement, tels des incitatifs accrus pour apporter des améliorations éconergétiques aux maisons.
+
+</ParaText>
+          <ParaText id="1242680">
+            <B>Aider tous les Canadiens et les Canadiennes à participer
+
+</B>
+          </ParaText>
+          <ParaText id="1242681">Le Canada est fondé sur la promesse de pouvoir s’accomplir: travailler fort, élever une famille et avoir une vie meilleure. Aujourd’hui, il est plus important que jamais de concrétiser cette promesse et de garantir à tous les Canadiens et Canadiennes la chance de bénéficier de ce que notre pays peut offrir, sans égard à l’origine culturelle, au sexe, à l’âge, aux handicaps ou à la langue officielle. Notre gouvernement éliminera les obstacles qui empêchent les Canadiens d’atteindre leur plein potentiel.
+
+</ParaText>
+          <ParaText id="1242682">Beaucoup de Canadiens doivent concilier une vie professionnelle et familiale exigeante. Un nombre grandissant de nos concitoyens doivent aussi prendre soin de leurs parents âgés, en plus de leurs jeunes enfants. Notre gouvernement s’engage donc à aider les familles à joindre les deux bouts. 
+
+</ParaText>
+          <ParaText id="1242683">Nous bonifierons la Prestation universelle pour la garde d’enfants et améliorerons l’accès aux prestations de maternité et aux prestations parentales aux termes de l’assurance-emploi.
+
+</ParaText>
+          <ParaText id="1242684">Nous prendrons aussi des mesures pour soutenir les familles s’occupant de proches handicapés, et aiderons les Canadiennes et les Canadiens à acquérir une première propriété.
+
+</ParaText>
+          <ParaText id="1242685">La participation de certains Canadiens à l’économie et à la société est entravée par d’autres obstacles, comme l’itinérance ou une maladie débilitante. Notre gouvernement prolongera donc la Stratégie des partenariats de lutte contre l’itinérance et aidera plus de Canadiens à trouver un logement abordable. Nous prendrons des mesures innovatrices pour lutter contre les maladies cardiaques, pulmonaires et neurologiques et poursuivre le travail entrepris par la Commission de la santé mentale.</ParaText>
+          <ParaText id="1242686">
+            <B>
+
+Assurer la sécurité des Canadiennes et des Canadiens
+
+</B>
+          </ParaText>
+          <ParaText id="1242687">En période d’incertitude comme de prospérité, les Canadiens et les Canadiennes doivent savoir qu’ils sont en sécurité dans leur demeure et leur collectivité.
+
+</ParaText>
+          <ParaText id="1242688">La population compte sur les gouvernements pour veiller à ce que le système juridique fonctionne efficacement et qu’il assure la sécurité de tous. Notre gouvernement prendra donc des mesures concrètes contre le crime et travaillera avec ses partenaires à l’amélioration de l’administration de la justice. Les infractions graves seront sévèrement punies, et les dispositions législatives seront renforcées dans des domaines clés comme la criminalité chez les jeunes, le crime organisé et la violence commise par les gangs. Les lois sur les armes à feu, au lieu de criminaliser les propriétaires d’armes à feu qui respectent la loi, viseront plutôt à empêcher la contrebande et à appliquer des sanctions plus lourdes en cas de crimes commis avec une arme à feu. Nous améliorerons l’efficacité du système de justice pénale du Canada, car nos citoyens veulent que justice soit rendue, et ce, promptement.
+
+</ParaText>
+          <ParaText id="1242689">Par ailleurs, les Canadiens tiennent à ce que les aliments qu’ils servent à table, les jouets qu’ils offrent à leurs enfants et les médicaments qu’ils prennent soient sans danger. Notre gouvernement améliorera par la voie législative le contrôle des aliments, des médicaments et des produits de consommation. Il renforcera le pouvoir de rappel des produits et augmentera les pénalités encourues. Il lancera également dans les plus brefs délais une enquête indépendante sur l’éclosion de listériose de l’été dernier et donnera suite sans tarder à ses conclusions.
+
+</ParaText>
+          <ParaText id="1242690">Le devoir le plus fondamental de tout État consiste à assurer la sécurité nationale. Notre gouvernement fera une déclaration sur la sécurité nationale qui expliquera comment nous entendons répondre à la fois aux défis que posent les nouvelles menaces à la sécurité nationale et aux exigences de contrôle, de responsabilité et de protection des libertés.
+
+</ParaText>
+          <ParaText id="1242691">
+            <B>Contribuer à la sécurité mondiale
+
+</B>
+          </ParaText>
+          <ParaText id="1242692">Notre sécurité nationale dépend de la sécurité mondiale. Notre gouvernement estime que les aspirations du Canada à un monde meilleur et plus sûr doivent être soutenues par des actions vigoureuses et concrètes sur la scène internationale.
+
+</ParaText>
+          <ParaText id="1242693">La sécurité trouve sa source dans le respect de la liberté, de la démocratie, des droits de la personne et de la primauté du droit. Quand ces valeurs sont en péril, la sécurité et la prospérité du monde entier sont menacées. Le Canada doit avoir la capacité et la volonté de se battre pour ses convictions et de faire sa part pour rendre notre monde meilleur et plus sûr.
+
+</ParaText>
+          <ParaText id="1242694">Notre gouvernement transforme la mission du Canada en Afghanistan afin de l’axer sur la reconstruction et le développement, et de préparer la fin de notre présence militaire dans ce pays en 2011. Le dur labeur et les sacrifices héroïques de nos concitoyens et concitoyennes dans ce pays — qu’ils soient militaires, diplomates ou travailleurs du développement — laisseront au peuple afghan l’héritage durable d’un pays plus sécuritaire, plus pacifique et mieux gouverné.
+
+</ParaText>
+          <ParaText id="1242695">Notre gouvernement poursuivra la modernisation des Forces canadiennes et continuera de leur procurer le meilleur équipement possible. Nous renouvellerons nos flottes aérienne, navale et terrestre d’ici les deux prochaines décennies, et créerons ainsi des emplois en technologie de pointe au Canada. 
+
+</ParaText>
+          <ParaText id="1242696">Nous continuerons d’accroître l’aide internationale du Canada et les sommes consenties seront dépensées plus efficacement à l’appui d’objectifs de développement. Un nouvel organisme non partisan de promotion de la démocratie sera également mis sur pied pour soutenir le passage pacifique à la démocratie dans les pays répressifs et aider les démocraties émergentes à se doter d’institutions solides.
+
+<ForceColumnBreak /></ParaText>
+          <ParaText id="1242697">
+            <B>Renforcer nos institutions
+
+</B>
+          </ParaText>
+          <ParaText id="1242698">Les institutions du Canada sont les piliers de notre démocratie, de notre liberté et de notre prospérité.
+</ParaText>
+          <ParaText id="1242699">Le Parlement est la plus importante institution nationale du Canada. Il est le seul forum où tous les Canadiens et Canadiennes, par l’intermédiaire de leurs élus, peuvent s’exprimer sur leur gouvernement. Le Parlement doit donc exprimer nos idéaux les plus élevés, nos valeurs les plus profondes, nos plus beaux espoirs et nos plus grands rêves pour nos enfants. Notre gouvernement croit que tous ces idéaux ne peuvent être réalisés que si le Parlement reflète réellement le caractère et les aspirations de la population canadienne.
+
+</ParaText>
+          <ParaText id="1242700">Nous déposerons à la Chambre des communes un projet de loi qui rapprochera l’Ontario, la Colombie-Britannique et l’Alberta du principe de la représentation selon la population. Nous déposerons également un projet de loi proposant que les personnes nommées au Sénat soient choisies par les électeurs, que les sénateurs soient nommés pour un mandat maximal de huit ans, et que le Sénat soit assujetti aux mêmes règles d’éthique que la Chambre des communes.
+
+</ParaText>
+          <ParaText id="1242701">La fonction publique du Canada est une autre institution nationale cruciale. Ce sont les fonctionnaires qui inspectent nos aliments et surveillent nos frontières. Ils assurent la prestation de programmes et de services à des millions de Canadiens partout au pays, depuis nos métropoles jusqu’aux localités les plus éloignées de l’Arctique. S’inspirant des recommandations du Comité consultatif sur la fonction publique nommé par le Premier ministre, notre gouvernement s’engage à travailler au renouvellement continu de la fonction publique.
+
+</ParaText>
+          <ParaText id="1242702">Notre gouvernement prendra également des mesures pour renforcer la fédération canadienne. Nous respecterons les compétences des provinces et des territoires et enchâsserons les principes de notre vision du fédéralisme dans une Charte du fédéralisme d’ouverture. Le pouvoir fédéral de dépenser pour de nouveaux programmes à frais partagés dans les compétences exclusives des provinces sera limité: le consentement de la majorité des provinces sera requis pour l’exécution de tout nouveau programme du genre et les provinces seront autorisées à se retirer de ces nouveaux programmes avec compensation, si elles en offrent qui sont compatibles. 
+
+</ParaText>
+          <ParaText id="1242703">
+            <B>Conclusion</B>
+          </ParaText>
+          <ParaText id="1242704">
+
+Les Canadiens et les Canadiennes ont renouvelé leur confiance dans notre gouvernement et dans leurs représentants élus. Ils nous demandent de travailler ensemble à relever les défis qui se présentent.
+
+</ParaText>
+          <ParaText id="1242705">Notre gouvernement s’engage à œuvrer au succès continu du Canada en cette période d’instabilité économique mondiale. Toute notre énergie sera consacrée aux défis qui sollicitent les familles, les entreprises et les travailleurs du Canada, dès maintenant et à l’avenir. Nous continuerons de mettre en œuvre des politiques efficaces qui confèrent au Canada un avantage concurrentiel. Nous renforcerons les institutions qui garantissent la sécurité et la prospérité des Canadiens. En outre, nous travaillerons en partenariat — avec nos alliés, les provinces, les territoires, le secteur privé et les millions de familles canadiennes — à garder notre Canada fort et libre.
+
+</ParaText>
+          <ParaText id="1242706">Par le passé, les hommes et les femmes de notre pays ont traversé des périodes d’incertitude et de renouveau, et ils en sont toujours sortis plus forts et plus unis. Rassemblés dans cette Chambre, nous n’oublions pas ceux et celles qui nous ont précédés et qui nous ont légué un héritage de liberté et de prospérité. Il nous incombe maintenant de protéger cet héritage et de le faire fructifier pour les générations à venir.
+
+</ParaText>
+          <ParaText id="1242707">
+            <I>Honorables Sénateurs et Députés</I>, votre tâche est des plus importantes. Puisse la Divine Providence vous guider dans vos délibérations.
+
+</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Harper" id="2556415">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
+              <ParaText id="1242708">Monsieur le Président, je propose:</ParaText>
+              <ParaText id="1242709">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que le discours du Trône que Son Excellence la Gouverneure générale a prononcé aujourd'hui devant les deux Chambres du Parlement soit pris en considération plus tard aujourd'hui.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556498">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242710">D'accord?</ParaText>
+              <ParaText id="1242711">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="4">(La motion est adoptée.) </ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2556500">
+        <SubjectOfBusinessTitle>Le Bureau de régie interne </SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2556497">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242712">J'ai l'honneur d'informer la Chambre que les députés suivants ont été nommés membres du Bureau de régie interne, aux fins et en vertu des dispositions du paragraphe 50(2) de la Loi sur le Parlement du Canada. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1242713">Il s'agit de l'hon. Jay Hill et de l'hon. Gordon O'Connor, membres du Conseil privé de la Reine, de M. Jacques Gourde et de M. Joe Preston, représentants du caucus du parti gouvernemental, de l'hon. Mauril Bélanger et de M. Marcel Proulx, représentants du caucus libéral, de M. Michel Guimond, représentant du caucus du Bloc québécois, et de Mme Libby Davies, représentante du caucus du Nouveau Parti démocratique.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2556502">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Travaux des subsides</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Toews" id="2556420">
+            <PersonSpeaking>
+              <Affiliation DbId="105829" Type="4">L'hon. Vic Toews (président du Conseil du Trésor, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242714">Monsieur le Président, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
+              <ParaText id="1242715">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que la Chambre étudie les travaux des subsides à sa prochaine séance.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556509">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242716">D'accord?</ParaText>
+              <ParaText id="1242717">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="6">(La motion est adoptée.) </ProceduralText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556510">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242718">J'ai le devoir d'informer la Chambre qu'il y aura au total deux jours désignés au cours de la période des crédits se terminant le 10 décembre 2008.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2556514">
+        <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Procédure et affaires de la Chambre</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Hill" id="2556422">
+            <PersonSpeaking>
+              <Affiliation DbId="128703" Type="6">L'hon. Jay Hill (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242719">Monsieur le Président, je propose:</ParaText>
+              <ParaText id="1242720">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que le Comité permanent de la procédure et des affaires de la Chambre soit constitué, afin de dresser et présenter une liste des députés qui doivent faire partie des comités permanents et mixtes permanents de la Chambre et que ce comité se compose de Harold Albrecht, Barry Devolin, Guy Lauzon, Joe Preston, Tom Lukiwski, Scott Reid, Marlene Jennings, Roger Cuzner, Marcel Proulx, Michel Guimond, Claude DeBellefeuille et Yvon Godin.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556424">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242721">D'accord?</ParaText>
+              <ParaText id="1242722">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="7">(La motion est adoptée.)</ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="2556512" Rubric="Address">
+      <OrderOfBusinessTitle>Le discours du Trône</OrderOfBusinessTitle>
+      <CatchLine>L'Adresse</CatchLine>
+      <SubjectOfBusiness id="2556446">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Adresse en réponse</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <ParaText id="1242723">La Chambre passe à l'étude du discours prononcé par Son Excellence la Gouverneure générale à l'ouverture de la session.</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Hoeppner" id="2556430">
+            <PersonSpeaking>
+              <Affiliation DbId="128510" Type="2">Mme Candice Hoeppner (Portage—Lisgar, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242724">Monsieur le Président, je vous félicite d'avoir été élu Président de la Chambre des communes en cette 40<Sup>e</Sup> législature du Canada.</ParaText>
+              <ParaText id="1242725">Je suis honorée d'ouvrir le débat sur le discours du Trône. J'aimerais tout d'abord remercier la Gouverneure générale pour son discours éloquent. Son Excellence a expliqué très clairement les défis auxquels les familles et les entreprises canadiennes doivent actuellement faire face en cette période d'instabilité économique.</ParaText>
+              <ParaText id="1242726">Les Canadiens peuvent avoir l'assurance que nous consacrerons toute notre énergie à les aider à régler leurs problèmes actuels et futurs.</ParaText>
+              <ParaText id="1242727">Je tiens aussi à exprimer toute ma gratitude au <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>, qui m'a demandé de présenter cette motion en réponse au discours du Trône. C'est un grand honneur.</ParaText>
+              <ParaText id="1242728">Je profite aussi de l'occasion pour remercier les électeurs de <Affiliation DbId="128510" Type="2">Portage—Lisgar</Affiliation>, qui m'ont accordé leur confiance pour les représenter à la Chambre des communes.</ParaText>
+              <ParaText id="1242729">Je remercie mon mari, David, et nos enfants, Lukas, Delaney et Parker, pour leur appui et leurs encouragements.</ParaText>
+              <ParaText id="1242730">Chacun des 308 députés élus à la Chambre des communes a reçu un honneur insigne de la part de ses électeurs. Je félicite tous les députés d'avoir mérité cet honneur.</ParaText>
+              <ParaText id="1242731">À une époque où bon nombre de personnes ailleurs dans le monde ne peuvent s'appuyer sur ces libertés démocratiques, notre capacité de régler nos différends de façon pacifique et ouverte est le reflet d'un pays sain et d'une démocratie qui fonctionne. Le Canada est comblé.</ParaText>
+              <ParaText id="1242732">Cependant, nous comptons tous des électeurs qui sont touchés par l'instabilité actuelle de l'économie mondiale. Ce sont de vraies personnes qui ont de vrais soucis. Ces gens s'inquiéteraient, tout comme chacun d'entre nous si, devant une telle situation, Ottawa devenait un lieux distant et isolé, sans emprise sur la réalité.</ParaText>
+              <ParaText id="1242733">Nous, ministériels, reconnaissons que le gouvernement reste minoritaire, même si les Canadiens nous ont confié à l'issue des dernières élections un mandat renouvelé et renforcé. Tout gouvernement minoritaire est censé consulter et collaborer avec les autres partis dans la mesure du possible. D'ailleurs, dans la période d'instabilité économique que nous traversons, une telle collaboration est dans l'intérêt de tous les partis, quelle que soit leur importance relative au Parlement.</ParaText>
+              <ParaText id="1242734">Je suis heureuse de constater que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a déjà consulté personnellement les chefs de tous les partis de l'opposition pour chercher des terrains d'entente et je suis également satisfaite de constater que notre gouvernement est disposé à s'inspirer de bons conseils et de bonnes idées, quelle que soit leur source, dans la mesure où ces conseils et ces idées sont proposés de bonne foi.</ParaText>
+              <ParaText id="1242735">Cela dit, nous nous attendons à ce que les partis de l'opposition acceptent eux aussi les résultats des élections, respectent sans réticence la volonté clairement exprimée de l'ensemble des Canadiens puisque, même si le gouvernement est minoritaire, il a manifestement reçu des Canadiens un mandat beaucoup plus fort. Les Canadiens ont choisi notre programme comme feuille de route et ils ont choisi comme <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> la personne la plus apte selon eux à diriger le Canada en période d'incertitude.</ParaText>
+              <ParaText id="1242736">Par conséquent, les Canadiens méritent que l'on accorde à leur gouvernement une marge de manoeuvre raisonnable pour qu'il mette en oeuvre son programme sans être entravé par les jeux politiques de bas étage et la partisanerie qui ont souvent paralysé la Chambre par le passé. On doit permettre au Parlement de fonctionner.</ParaText>
+              <ParaText id="1242737">La Gouverneure générale a déjà énoncé les grands objectifs prioritaires de notre gouvernement. Permettez-moi d'en étoffer certains aspects.</ParaText>
+              <ParaText id="1242738">Je parlerai tout d'abord de l'engagement clé de notre gouvernement concernant la réforme et le renforcement du système financier mondial. Voilà un concept qui pourra sembler fort abstrait à certains. Pourtant, c'est tout le contraire.</ParaText>
+              <ParaText id="1242739">Avant d'entrer dans la vie publique, j'ai fait carrière dans le secteur de la planification financière, où j'ai été directement témoin des décisions difficiles qu'un grand nombre de particuliers, de petites entreprises et de familles ont à prendre tous les jours. En fait, à l'heure actuelle, nous sommes tous interdépendants. Les particuliers et les entreprises du monde entier comptent sur un système financier international assez solide pour protéger la valeur de leurs investissements, de leurs épargnes et de leurs fonds de retraite.</ParaText>
+              <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+              <ParaText id="1242740">À presque tous les égards, la politique monétaire, les règlements financiers et le secteur immobilier du Canada comptent parmi les plus solides au monde. Nous avons de toute évidence évité les excès et les écueils qui accablent actuellement nos voisins américains. Cependant, être sans reproche n'est pas nécessairement un gage de sécurité. Nous ne sommes pas la cause du problème actuel, mais nous devons tout de même nous attacher à le régler. </ParaText>
+              <ParaText id="1242741">En raison de la crise internationale du crédit, il est actuellement plus difficile pour les Canadiens de contracter un emprunt hypothécaire et de réaliser le rêve d'accéder à la propriété, tout comme il est maintenant plus ardu pour les entreprises d'obtenir le crédit additionnel nécessaire pour financer leur expansion et créer des emplois. Par conséquent, précipité par la crise actuelle, le ralentissement de la croissance à l'échelle mondiale engendrera des risques importants pour notre économie axée sur les exportations.</ParaText>
+              <ParaText id="1242742">C'est pourquoi nous estimons qu'il est absolument prioritaire de relever ce défi. Le premier ministre et le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> ont déjà participé à une série de rencontres avec nos homologues internationaux dans le but de raffermir les bases du secteur financier mondial grâce à une réglementation nationale avisée et à un examen responsable par les pairs. Même si les Canadiens peuvent compter sur des assises économiques plus sûres que bien d'autres, cela ne veut pas dire que nous ne devons pas resserrer encore nos méthodes. Ce n'est vraiment pas le temps de nous montrer complaisants.</ParaText>
+              <ParaText id="1242743">Notre gouvernement croit que, tant que la réglementation des valeurs mobilières sera morcelée au Canada, les familles et les entreprises seront exposées à un risque inutile. C'est pourquoi notre gouvernement demeure un ardent partisan d'un organisme unique de réglementation des valeurs mobilières pour le Canada et il continuera de défendre cette position devant les provinces.</ParaText>
+              <ParaText id="1242744">C'est pourquoi nous garderons nos affaires en ordre et moderniserons les lois et règlements concernant les placements et la concurrence au Canada. Nous adopterons la même approche pragmatique à l'égard d'une budgétisation solide pour le Canada. Cela inclut une ferme opposition à des déficits structurels prolongés, un examen serré de toutes les dépenses gouvernementales, la limitation de l'augmentation de ces dépenses, l'élimination du gaspillage et la rationalisation de la façon de fonctionner du gouvernement. Pour cela, il faudra prendre des décisions difficiles, mais nous ne perdrons jamais de vue qu'il faut obtenir des résultats tangibles.</ParaText>
+              <ParaText id="1242745">À cet égard, nous sommes prêts à aider à assurer des emplois aux familles et dans les collectivités et à stimuler les investissements et le commerce. Dans l'économie mondiale moderne où tout est interrelié, ce sont deux objectifs indissociables. Nous devons faire davantage pour apporter une aide aux entreprises qui doivent relever les défis de la nouvelle économie lorsqu'une telle aide est pragmatique, sensée et, à long terme, dans l'intérêt de l'ensemble des Canadiens.</ParaText>
+              <ParaText id="1242746">Notre gouvernement a déjà réduit le fardeau fiscal des familles et des entreprises. La prochaine étape consiste à éliminer d'autres obstacles gouvernementaux à la réussite, que ces obstacles soient d'ordre administratif ou qu'il s'agisse d'un monopole dépassé qui nuit à nos céréaliculteurs.</ParaText>
+              <ParaText id="1242747">Nous ferons tout cela en restant déterminés à atteindre notre objectif ultime, qui est d'assurer une meilleure qualité de vie aux Canadiens de longue comme de fraîche date afin qu'ils puissent travailler, étudier, construire une maison et élever une famille. Nous devons aider tous les Canadiens à participer à la société.</ParaText>
+              <ParaText id="1242748">Les programmes gouvernementaux doivent aider tous ces gens et ne jamais constituer une entrave. C'est pourquoi nous ferons en sorte que les lois, règlements et systèmes de soutien canadiens suivent le modèle de notre Prestation universelle pour la garde d'enfants et apportent de vrais avantages au vrai monde. Cela veut dire que l'on fait en sorte que davantage de Canadiens ont accès aux prestations de maternité et aux prestations parentales et que ceux et celles qui s'occupent d'êtres chers handicapés ont les moyens financiers de le faire.</ParaText>
+              <ParaText id="1242749">Il y aurait encore beaucoup à dire au sujet de notre programme et mon collègue de <Affiliation DbId="128429" Type="2">Mississauga—Erindale</Affiliation>  ajoutera à ce que j'ai dit, mais avant de céder la parole, je voudrais dire une dernière chose.</ParaText>
+              <ParaText id="1242750">En tant que nouvelle députée, je ne suis pas gênée de dire quel respect mêlé de crainte j'ai éprouvé au moment de me rendre pour la première fois sur la Colline du Parlement pour y occuper mon siège dans cette enceinte. Je sais que nombre de députés y sont depuis longtemps et j'imagine qu'on peut facilement y perdre son idéalisme au fil des joutes oratoires et des compromis marquant chaque jour les travaux.</ParaText>
+              <ParaText id="1242751">Cependant, que l'on soit député depuis deux semaines ou depuis deux décennies, il ne faut jamais oublier quel privilège unique nous avons, avant toute chose, d'occuper nos fonctions. La responsabilité qui nous est confiée aujourd'hui fait de nous de simples gardiens d'une histoire nationale dépassant largement notre existence. Le prochain chapitre de cette histoire nous obligera à prendre des décisions difficiles en pleine période d'incertitude. Évidemment, c'est un chapitre qui n'est pas encore écrit. Nous devons nous montrer à la hauteur des idéaux de l'institution dont nous faisons partie en faisant le nécessaire pour assurer l'avenir du Canada.</ParaText>
+              <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+              <ParaText id="1242752">Dans cette optique, j'ai l'honneur de présenter la motion suivante:</ParaText>
+              <ParaText id="1242753">Je propose, avec l'appui du député de <Affiliation DbId="128429" Type="2">Mississauga—Erindale</Affiliation>, que l'Adresse, dont le texte suit, soit présentée à Son Excellence la Gouverneure générale du Canada:</ParaText>
+              <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
+              <Motion>
+                <MotionBody>
+                  <ParaText id="1242754">
+                    <Quote>
+                      <QuotePara Align="Left" IndentFirst="2" IndentRest="1">À Son Excellence la très honorable Michaëlle Jean, Chancelière et Compagnon principal de l'Ordre du Canada, Chancelière et Commandeure de l'Ordre du mérite militaire, Chancelière et Commandeure de l'Ordre du mérite des corps policiers, Gouverneure générale et Commandante en chef du Canada.</QuotePara>
+                    </Quote>
+                  </ParaText>
+                  <ParaText id="1242755">QU'IL PLAISE À VOTRE EXCELLENCE:</ParaText>
+                  <ParaText id="1242756">
+                    <Quote>
+                      <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Nous, sujets très dévoués et fidèles de Sa Majesté, la Chambre des communes du Canada, assemblée en Parlement, prions respectueusement Votre Excellence d'agréer nos humbles remerciements pour le gracieux discours qu'elle a adressé aux deux Chambres du Parlement.</QuotePara>
+                    </Quote>
+                  </ParaText>
+                </MotionBody>
+              </Motion>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Crombie" id="2556441">
+            <PersonSpeaking>
+              <Affiliation DbId="128102" Type="2">Mme Bonnie Crombie (Mississauga—Streetsville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242757">Monsieur le Président, permettez-moi tout d'abord de féliciter la députée de <Affiliation DbId="128510" Type="2">Portage—Lisgar</Affiliation> qui vient de prononcer son premier discours à la Chambre.</ParaText>
+              <ParaText id="1242758">Le gouvernement admet maintenant que, malgré les beaux discours que les conservateurs ont faits pendant la campagne électorale, le Canada est de nouveau en situation déficitaire. Cela aurait pu être évité. Et l'on ne peut pas en imputer la responsabilité à George W. Bush et à ses politiques inefficaces. Voilà trois ans à peine qu'ils sont au pouvoir et les conservateurs ont déjà dirigé le gouvernement le plus dépensier de notre histoire. Ils ont gaspillé un excédent accumulé de 12 milliards de dollars et épuisé un fonds de prévoyance de 3 milliards de dollars. Le gouvernement avait été prévenu de l'imminence d'un ralentissement économique...</ParaText>
+              <ParaText id="1242759">
+                <B>Des voix:</B> Oh, oh!</ParaText>
+              <ParaText id="1242760">
+                <B>Mme Bonnie Crombie:</B> Un peu de décorum, je vous prie.</ParaText>
+              <ParaText id="1242761">Le gouvernement a fait la sourde oreille lorsque les experts se sont prononcés contre ses politiques. Les conservateurs n'ont pas tenu compte des signes avant-coureurs: plus faible taux de croissance du G8; perte de 200 000 emplois dans le secteur manufacturier, productivité la plus faible des 18 dernières années, perte de confiance des entreprises et des consommateurs. Malgré tout, le gouvernement n'a pas fait le moindre effort pour mettre de l'argent de côté en prévision de temps difficiles.</ParaText>
+              <ParaText id="1242762">On lit ceci dans le <I>Globe and Mail</I> d'aujourd'hui:</ParaText>
+              <ParaText id="1242763">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Selon le directeur général d'IHS Global Insight Canada, Dale Orr, M. Flaherty et le gouvernement conservateur auraient dû mieux se prémunir en cas de déficit... </QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556442">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242764">À l'ordre. La députée sait qu'il n'est pas permis de mentionner le nom d'autres députés à la Chambre, même quand on lit des citations. Je l'invite à poser sa question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Crombie" id="2556443">
+            <PersonSpeaking>
+              <Affiliation DbId="128102" Type="2">Mme Bonnie Crombie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242765">Pardon, monsieur le Président. </ParaText>
+              <ParaText id="1242766">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Il fait remarquer qu'ils ont fait disparaître certains des coussins qui existaient et fait augmenter de 13,8  p. 100 les dépenses de programmes pendant leurs deux premières années au pouvoir. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1242767">Le gouvernement n'a pas su prévoir les répercussions que cela aurait sur les familles de travailleurs, sur les aînés à revenu fixe et sur les néo-Canadiens. Il a présenté un discours du Trône plein de belles paroles, mais plutôt vague.</ParaText>
+              <ParaText id="1242768">Le gouvernement admettra-t-il enfin qu'il n'était pas bien préparé à faire face à la situation et que sa mauvaise gestion a créé un déficit purement canadien et distinctement conservateur? S'engagera-t-il à revenir aux pratiques de prudence financière et de responsabilité sociale qui ont si bien servi le Canada dans le passé? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Hoeppner" id="2556450">
+            <PersonSpeaking>
+              <Affiliation DbId="128510" Type="2">Mme Candice Hoeppner</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242769">Monsieur le Président, pour répondre à cette question, j'aimerais d'abord dire que les Canadiens ont envoyé un message sans équivoque et ont donné un mandat clair au Parlement. Ce mandat comporte deux volets.</ParaText>
+              <ParaText id="1242770">Le présent gouvernement affiche un excellent bilan en matière de responsabilité et de gestion budgétaire. Les Canadiens ont manifesté leur désir que le gouvernement prolonge ce bilan et réussisse aussi bien dans l'avenir.</ParaText>
+              <ParaText id="1242771">Le second volet du mandat qui nous a été confié est de collaborer. Le discours du Trône donne les grandes lignes de ce que le gouvernement entend faire. Nous continuerons d'assurer aux Canadiens une bonne gestion budgétaire. Nous avons un programme. Nous voulons soutenir les Canadiens d'un océan à l'autre. Nous voulons que l'économie prenne de la vigueur.</ParaText>
+              <ParaText id="1242772">La situation exige que nous collaborions. Je compte bien collaborer avec tous les députés, sans disputes ni querelles, pour le bien de tous les Canadiens.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Plamondon" id="2556452">
+            <PersonSpeaking>
+              <Affiliation DbId="128149" Type="2">M. Louis Plamondon (Bas-Richelieu—Nicolet—Bécancour, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242773">Monsieur le Président, permettez-moi d'abord de vous offrir encore aujourd'hui mes félicitations pour votre élection à la présidence de la Chambre. Je tiens également à féliciter tous les députés de la Chambre qui ont été élus et, bien sûr, je souhaite la bienvenue aux nouveaux députés.</ParaText>
+              <ParaText id="1242774">Maintenant, pour ce qui est du discours que je viens d'entendre, on me permettra d'être surpris. La députée se réjouit d'un tel discours alors qu'il y a une absence totale d'intentions afin de bonifier l'assurance-emploi et de créer un programme de soutien aux travailleurs âgés. À mon avis, cela devrait être une priorité lorsque survient une crise économique comme celle que nous rencontrons.</ParaText>
+              <ParaText id="1242775">De plus, il n'y a aucune garantie de remboursement total pour les personnes du troisième âge qui ont été flouées pour ce qui est du Supplément de revenu garanti. De même, on devrait reporter de 71 ans à 73 ans l'âge obligatoire pour retirer des fonds des régimes de retraite, alors qu'à l'heure actuelle, on sait que ces régimes sont complètement à terre et que des gens perdent le tiers de leurs investissements. On pourrait donc reporter cela de deux ans. Aucune attention n'est donc portée à ces personnes âgées.</ParaText>
+              <ParaText id="1242776">Je suis extrêmement surpris que la députée se réjouisse d'un tel discours. Également, sur plan culturel, il y a vraiment une absence totale de sensibilité envers le monde culturel.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Hoeppner" id="2556456">
+            <PersonSpeaking>
+              <Affiliation DbId="128510" Type="2">Mme Candice Hoeppner</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242777">Monsieur le Président, encore une fois, le présent gouvernement entend servir tous les Canadiens, les familles et les personnes âgées. Nous travaillerons pour les entreprises. Nous travaillerons pour les agriculteurs. Nous travaillerons pour les secteurs canadiens qui créent de l'emploi dans notre pays. Nous nous engageons à continuer de travailler pour eux.</ParaText>
+              <ParaText id="1242778">Entre autres choses, nous voulons garantir des emplois aux familles et aux collectivités. Nous croyons que nous pouvons y parvenir de deux façons. L'une d'elles consiste à garder nos propres affaires en ordre. Nous devons veiller à ce que le gouvernement restreigne les dépenses. Nous devons nous assurer d'avoir un bon budget et de présenter et de mettre en oeuvre une saine politique budgétaire.</ParaText>
+              <ParaText id="1242779">Nous voulons également investir dans l'infrastructure. Nous voulons investir dans les collectivités et nous assurer qu'il y a une continuité entre ce qui se fait dans les provinces et dans les collectivités et, en qualité de gouvernement fédéral, nous voulons faciliter cette continuité. Nous voulons que les prestations parentales soient aussi offertes aux travailleurs autonomes. Cela montre bien l'importance que nous accordons aux familles, aux personnes âgées, à tous les Canadiens.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Martin (Sault Ste. Marie)" id="2556458">
+            <PersonSpeaking>
+              <Affiliation DbId="128382" Type="2">M. Tony Martin (Sault Ste. Marie, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242780">Monsieur le Président, je veux féliciter la députée de <Affiliation DbId="128510" Type="2">Portage—Lisgar</Affiliation> de son élection à la Chambre et de sa première intervention dans cette enceinte.</ParaText>
+              <ParaText id="1242781">Je veux aborder la question de coopération qui a été présentée dans le discours du Trône cet après-midi. Je désire dire au gouvernement que toutes les personnes qui comprennent les répercussions d'un ralentissement économique ainsi que la gravité de la crise que nous vivons maintenant et des événements à venir se demanderont pourquoi le gouvernement ne se rend pas compte que les personnes les plus à risque et les plus marginalisées, à savoir les pauvres du pays, seront les plus touchées.</ParaText>
+              <ParaText id="1242782">J'aimerais demander à la députée, après tous les commentaires que le gouvernement a reçus, plus particulièrement des députés de ce côté de la Chambre ainsi que d'autres députés, pourquoi son parti n'a pas profité de l'occasion pour réformer le système d'assurance-emploi. Ce système a désespérément besoin de réformes afin qu'un plus grand nombre de personnes qui y sont admissibles puissent compter sur cette aide, par exemple les centaines de milliers de gens qui ont perdu leur emploi dans les secteurs manufacturier et forestier ainsi que d'autres secteurs dans l'ensemble du pays. Pourquoi le gouvernement n'a-t-il pas saisi l'occasion de réformer ce système très important qui a été créé pour protéger les gens pendant les périodes difficiles, surtout en ce moment où nous sommes au bord d'une très grave crise économique?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Hoeppner" id="2556460">
+            <PersonSpeaking>
+              <Affiliation DbId="128510" Type="2">Mme Candice Hoeppner</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242783">Monsieur le Président, nous traversons effectivement une période d'incertitude économique, période où il incombe au gouvernement de jeter des bases solides pour l'avenir des Canadiens. </ParaText>
+              <ParaText id="1242784">Nous voulons aider et nous nous efforcerons d'aider l'ensemble des Canadiens. C'est pourquoi nous concentrons nos efforts sur la saine gestion des finances publiques et la sécurité d'emploi pour les familles et les collectivités. Nous promouvons également l'investissement et le commerce.</ParaText>
+              <ParaText id="1242785">Nous devons nous assurer que nos industries, nos petites entreprises et notre secteur agricole demeurent solides. C'est ainsi que les familles et les collectivités prospéreront. C'est à cela que nous nous sommes engagés. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Dechert" id="2556463">
+            <PersonSpeaking>
+              <Affiliation DbId="128429" Type="2">M. Bob Dechert (Mississauga—Erindale, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242786">Monsieur le Président, je suis très heureux de prendre la parole aujourd'hui pour appuyer la motion portant sur l'Adresse en réponse au discours du Trône.</ParaText>
+              <ParaText id="1242787">J'aimerais remercier Son Excellence la Gouverneure générale pour ses remarques bienveillantes. J'aimerais également remercier le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> de m'accorder ce grand honneur, et j'aimerais particulièrement remercier les électeurs de la circonscription de Mississauga--Erindale de m'avoir accordé l'honneur et le privilège de les représenter au Parlement. </ParaText>
+              <ParaText id="1242788">J'aimerais aussi remercier ma femme, Ruth, pour ses soins et son soutien, et mes parents pour m'avoir appris dès mon plus jeune âge à respecter cette grande institution. </ParaText>
+              <ParaText id="1242789">Ma collègue de <Affiliation DbId="128510" Type="2">Portage—Lisgar</Affiliation> a déjà décrit une bonne partie de notre programme. J'aimerais ajouter ces quelques pensées. </ParaText>
+              <ParaText id="1242790">Dans les termes les plus larges possibles, le discours de Son Excellence s'est concentré sur un thème unique : protéger l'avenir du Canada. </ParaText>
+              <ParaText id="1242791">Nous traversons une période de défis et de changements. C'est le cas ailleurs dans le monde et c'est certainement le cas ici, au Canada. </ParaText>
+              <ParaText id="1242792">Notre gouvernement est conscient de la responsabilité qui lui a été confiée. Nous protégerons l'avenir du Canada. Nous tiendrons promesse.</ParaText>
+              <ParaText id="1242793">Cela nous amène évidemment à nous demander ce qu'on entend par « protéger l'avenir du Canada ». Cela veut dire, d'abord et avant tout, qu'il faut protéger la sécurité financière personnelle des Canadiens. À cette fin, nous devons prendre des mesures, de concert avec nos alliés et nos partenaires commerciaux internationaux, pour nous attaquer à la crise du crédit qui sévit à l'échelle mondiale. Cette crise cause encore des difficultés à un trop grand nombre de propriétaires actuels et potentiels et d'entreprises qui cherchent à prendre de l'expansion. Le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> a déjà annoncé plusieurs mesures visant à protéger la situation financière des Canadiens durant cette période d'incertitude que nous traversons, et je suis certain que mes collègues députés sont aussi impatients que moi de voir la mise à jour économique qu'il présentera sous peu.</ParaText>
+              <ParaText id="1242794">La protection de la sécurité financière personnelle des Canadiens signifie aussi qu'il faut comprendre la détresse causée par l'instabilité qui règne actuellement sur les marchés mondiaux des valeurs mobilières, y compris le nôtre. C'est certes une situation frustrante. Les marchés libres, de par leur nature même, ne peuvent être contrôlés par la politique gouvernementale. Ils sont influencés par des facteurs psychologiques autant qu'économiques, mais l'incidence de cette instabilité sur les marchés est très réelle. Cette situation touche les pensions des gens, leurs économies et leurs régimes enregistrés d'épargne-retraite. </ParaText>
+              <ParaText id="1242795">L'instabilité sur les marchés n'inquiète donc pas seulement les gens de Bay Street; elle inquiète aussi les gens ordinaires, d'où la nécessité de rassurer les investisseurs canadiens et étrangers en leur montrant que notre système réglementaire, notre politique monétaire et notre situation financière globale demeurent solides. </ParaText>
+              <ParaText id="1242796">Ce qu'il ne faut surtout pas faire, c'est donner quelque signe de panique que ce soit aux investisseurs canadiens et étrangers. C'est pourquoi nous savons que réagir de façon impulsive aux récentes nouvelles économiques n'est pas la bonne façon de faire. C'est aussi pourquoi nous maintenons que le secteur financier canadien est solide et bien géré et qu'il est en bien meilleure position que ceux de la plupart des autres pays, opinion partagée à l'échelle internationale par des groupes allant du Forum économique mondial au FMI. Nous continuerons donc de travailler avec nos alliés et nos partenaires commerciaux à l'élaboration d'une stratégie à long terme qui soit intelligente, coordonnée et mondiale pour répondre à la crise, car il est impossible pour un pays de stabiliser ses propres marchés quand l'instabilité règne partout ailleurs. </ParaText>
+              <ParaText id="1242797">Protéger l'avenir du Canada veut également dire protéger l'économie canadienne, et cela comprend nos emplois, nos investissements et nos échanges commerciaux.</ParaText>
+              <ParaText id="1242798">Il se trouve que je connais bien le droit commercial international de par mes antécédents professionnels. J'ai pu observer de nombreux cycles économiques au fil des années et il est vrai que la situation actuelle ne ressemble en rien à ce que nous avons déjà vu. Certaines des réactions sont cependant prévisibles. En période d'instabilité économique, certains ont toujours tendance à réagir en proposant de fermer les frontières et de restreindre le commerce et en préconisant des mesures protectionnistes.</ParaText>
+              <ParaText id="1242799">La réaction protectionniste est une réaction regrettable, et naturelle, à l'angoisse économique. C'est une réaction regrettable, parce que le protectionnisme finit par détruire les emplois et réduire le niveau de vie de ceux-là mêmes qu'il est censé aider.</ParaText>
+              <ParaText id="1242800">Le gouvernement continuera d'appuyer le libre-échange. Nous continuerons de rechercher de nouveaux marchés, tant des débouchés commerciaux de l'autre côté de la frontière, aux États-Unis, avec le gouvernement Obama qui sera bientôt en place, que de nouvelles ententes commerciales avec des pays d'Europe, d'Asie, des Amériques et d'ailleurs.</ParaText>
+              <ParaText id="1242801">Nous continuerons aussi d'investir dans les portes d'entrée de l'Atlantique et du Pacifique et dans des corridors frontaliers essentiels tels que le passage international de la rivière Detroit. En plus d'accroître l'activité commerciale et de stimuler l'investissement et l'emploi sur les deux côtes et dans les municipalités frontalières, cela permettra aux produits et services canadiens d'atteindre les marchés de nos partenaires commerciaux. Nous stimulerons le développement économique dans le Nord en réduisant les obstacles réglementaires qui freinent la construction de pipelines, de manière à ce que les résidants du Nord bénéficient davantage des retombées que génèrent leurs richesses naturelles.</ParaText>
+              <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+              <ParaText id="1242802">Les travailleurs canadiens en transition peuvent continuer de compter sur notre appui. Nous continuerons de chercher de nouvelles façons d'appuyer les secteurs vitaux de notre économie, tant le secteur manufacturier que le secteur forestier, celui de l'agriculture, celui des pêches ou encore le secteur minier, de manière à ce que les Canadiens demeurent concurrentiels et réussissent sur la scène mondiale.</ParaText>
+              <ParaText id="1242803">Protéger l'avenir du Canada signifie aussi protéger l'environnement.</ParaText>
+              <ParaText id="1242804">Soyons clairs: l'environnement est devenu un enjeu économique. L'engagement à l'égard du développement durable à long terme et l'engagement à l'égard de la croissance économique à long terme sont inséparables.</ParaText>
+              <ParaText id="1242805">Le gouvernement confirme sa détermination à réduire de 20 p.100 les émissions de gaz à effet de serre d'ici 2020 et, comme l'a indiqué la Gouverneure générale, nous nous fixerons comme objectif le recours à des sources non émettrices pour satisfaire 90 p. 100 de nos besoins en électricité au Canada d’ici 2020 aussi.</ParaText>
+              <ParaText id="1242806">Alors que les Canadiens ont dû s'adapter à des prix du pétrole sans précédent, ils s'adaptent maintenant à la nouvelle normalité, celle d'un prix international du pétrole plus bas. À certains égards, c'est une bonne chose. Les Canadiens, qui ont été stupéfaits des prix élevés de l'essence ces derniers mois, épargnent maintenant chaque fois qu'ils font le plein.</ParaText>
+              <ParaText id="1242807">En même temps, toutefois, puisque notre économie dépend en bonne partie du secteur énergétique, ce fléchissement des prix cause également certaines incertitudes au plan économique. Notre gouvernement y voit une occasion de diversifier le secteur canadien de l'énergie et plus particulièrement de continuer à mettre au point de nouvelles sources d'énergie plus propres. </ParaText>
+              <ParaText id="1242808">Protéger l'avenir du Canada, c'est également protéger la santé et la sécurité des Canadiens. Notre gouvernement continuera de tabler sur les réussites de la dernière législature afin d'assurer que nos lois respectent les victimes, protègent les innocents et obligent les criminels à répondre de leurs actes. </ParaText>
+              <ParaText id="1242809">Puisque le terrorisme mondial représente toujours une menace bien réelle, nous présenterons une nouvelle déclaration sur la sécurité nationale qui précisera les étapes qui permettront d'assurer que les Canadiens seront à l'abri du terrorisme et des autres menaces sérieuses à l'échelle mondiale. </ParaText>
+              <ParaText id="1242810">Nous poursuivrons également la modernisation de nos lois sur la salubrité alimentaire afin que les Canadiens puissent consommer en toute confiance les produits qui leur sont offerts dans les magasins. Il y aura une plus grande obligation de rendre compte, une surveillance accrue, davantage de pouvoirs de rappel et des pénalités plus sévères pour ceux qui mettent la santé et la sécurité des Canadiens en péril. </ParaText>
+              <ParaText id="1242811">Protéger l'avenir du Canada, c'est également contribuer à la sécurité à l'échelle mondiale. Tout comme notre sécurité financière est liée à l'économie mondiale, la sécurité physique du Canada est liée à la stabilité et à la sécurité des autres pays. </ParaText>
+              <ParaText id="1242812">Nous continuerons de protéger les frontières canadiennes, y compris celle de l'Arctique. Nous continuerons à promouvoir les valeurs canadiennes portant sur la liberté, la démocratie, les droits de la personne et la primauté du droit au niveau international. Le Canada ne se soustraira pas à ses obligations à l'égard de la défense des valeurs humaines et des droits de la personne parce que la liberté, la démocratie et la primauté du droit sont la voie vers un monde meilleur et plus sûr. </ParaText>
+              <ParaText id="1242813">Nous poursuivrons nos travaux de reconstruction des Forces canadiennes et fournirons à nos troupes le meilleur équipement possible afin de pouvoir mieux protéger nos soldats en zones périlleuses. Bien que nous poursuivions notre travail dans le cadre de la mission internationale en Afghanistan, nous nous concentrerons davantage sur la reconstruction et le développement, tout en nous préparant à mettre fin à la partie militaire de la mission en 2011. </ParaText>
+              <ParaText id="1242814">Protéger l'avenir du Canada, c'est également construire des institutions plus fortes et renforcer notre démocratie représentative. </ParaText>
+              <ParaText id="1242815">La politique est une affaire de compétition. Nous le savons tous. Toutefois, pour ce qui est des gros projets nationaux, ces projets qui par nature et par nécessité doivent transcender les divisions traditionnelles, régionales ou partisanes, nous nous devons à nous-mêmes, comme nous le devons à nos électeurs et aux générations futures, de voir à ce que le gouvernement agisse de façon responsable et efficace. </ParaText>
+              <ParaText id="1242816">Notre gouvernement a présenté certaines réformes positives à l'égard de nos institutions démocratiques qui devraient, à notre avis, servir d'exemples de réformes positives et non partisanes. </ParaText>
+              <ParaText id="1242817">L'ensemble des Canadiens devraient s'entendre sur le bien-fondé d'une Chambre reflétant mieux leurs souhaits et d'un Sénat plus démocratique. Nous poursuivrons nos efforts pour faire en sorte que ces institutions soient plus fortes et plus démocratiques et nous nous réjouirons de l'appui des autres partis à cet égard. </ParaText>
+              <ParaText id="1242818">Nous continuerons également de renforcer la fédération elle-même. Comme les députés le savent certainement, pas plus tard que la semaine dernière, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> a rencontré ses homologues provinciaux et territoriaux pour discuter de l'instabilité économique mondiale. Le Canada fonctionne d'une façon optimale quand tous les intervenants travaillent de concert. Nous continuerons à respecter les compétences des provinces tout en veillant à ce que les transferts fédéraux suffisent pour que les Canadiens bénéficient, près de chez eux, d'un régime de soins de santé, d'un système d'éducation et d'autres services reconnus mondialement.</ParaText>
+              <ParaText id="1242819">La Chambre des communes est peut-être la plus importante institution de toutes. Dans cette enceinte, tous les Canadiens sont censés avoir une voix par l'entremise de leurs représentants élus. Les Canadiens ne s'attendent pas à ce que nous nous entendions sur tout, mais ils souhaitent que nos voix, en l'occurrence la voix de leurs élus, s'emploient à chercher des solutions au lieu d'être divisées par la rancoeur. </ParaText>
+              <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+              <ParaText id="1242820">Je suis fier d'appuyer cette motion et je souscris entièrement aux observations de la Gouverneure générale. J'ose espérer que nous mènerons le présent débat, à l'instar de l'ensemble de nos débats, avec toute la passion et la vigueur de nos convictions, tout en respectant la Chambre, nos collègues et nos obligations communes à l'égard des Canadiens.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="2556466">
+            <PersonSpeaking>
+              <Affiliation DbId="128110" Type="2">M. Justin Trudeau (Papineau, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242821">Monsieur le Président, tout d'abord, j'aimerais prendre un instant pour remercier les gens de Papineau qui m'ont fait l'honneur d'avoir fait de moi leur voix dans cette Chambre, responsabilité que je compte accomplir avec grâce et humilité. </ParaText>
+              <ParaText id="1242822">Le gouvernement admet finalement que, comme sous les gouvernements conservateurs précédents, le Canada retomberait dans un déficit budgétaire financier. </ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1242823">Au cours des dix dernières années, le Canada a fait face à bien d'autres crises, qu'on pense à celles qui ont été engendrées par le SRAS ou l'ESB, ou encore par la chute des devises au Mexique et en Asie, et par les événements du 11 septembre. Nous sommes toujours parvenus à préserver notre excédent en investissant dans l'innovation, dans la famille et dans de multiples possibilités pour tous les Canadiens.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1242824">Si ce gouvernement avait suivi les principes de base d'administration fiscale qui étaient en place lorsqu'il a pris le pouvoir, il aurait pu défendre les intérêts des Canadiens tout en étant en position de générer des surplus budgétaires.</ParaText>
+              <ParaText id="1242825">Ce gouvernement s'engagera-t-il à ramener le Canada vers une économie saine et socialement responsable, avec des pratiques et principes qui ressemblent à ceux qu'ils ont hérités il y a deux ans et demi?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Dechert" id="2556468">
+            <PersonSpeaking>
+              <Affiliation DbId="128429" Type="2">M. Bob Dechert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242826">Monsieur le Président, je suis sûr que tous les députés de notre auguste assemblée s'entendent pour dire que le Canada a besoin d'un leadership fort et d'une gestion budgétaire responsable en cette période marquée par l'incertitude sur le plan économique. Les emplois des gens et la stabilité de leurs épargnes, de leurs pensions et de leurs revenus de retraite revêtent une importance primordiale. Les initiatives présentées aujourd'hui par la Gouverneure générale nous assureront une économie solide et stable et une population canadienne en santé.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Lavallée" id="2556471">
+            <PersonSpeaking>
+              <Affiliation DbId="128139" Type="2">Mme Carole Lavallée (Saint-Bruno—Saint-Hubert, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242827">Monsieur le Président, vous allez certainement comprendre que mes premières paroles, en cette Chambre, seront pour remercier mes électeurs et électrices de Saint-Bruno—Saint-Hubert. </ParaText>
+              <ParaText id="1242828">À la lecture du discours du Trône, il faut constater que ce gouvernement conservateur n'a pas compris le message du Québec. Soixante-dix-huit pour cent des Québécois et des Québécoises n'ont pas voté pour le Parti conservateur, et ce n'est pas pour rien. L'offre et les positions de ce gouvernement ne leur plaisaient pas. Ce qu'il proposait pour les jeunes contrevenants ne leur plaisait pas, tout comme les coupes en culture, particulièrement. On a assisté à une levée de boucliers au Québec contre ces coupes. Visiblement, ce gouvernement n'a absolument rien compris parce qu'on ne retrouve rien dans le discours du Trône pour rétablir ce financement. Pourtant, la culture est immensément importante au Québec. Non seulement nous aimons nos artistes, mais nous les respectons et nous consommons beaucoup de leurs produits. Pourquoi? Parce que nous sommes une nation et que ces artistes représentent la culture québécoise. Nous en sommes extrêmement fiers. Il n'y a donc rien, absolument rien, dans ce discours du Trône pour les artistes et pour les arts. </ParaText>
+              <ParaText id="1242829">Je ne peux pas dire que ça a été un plaisir, mais j'ai eu l'occasion d'assister au congrès du Parti conservateur jeudi dernier. J'y ai entendu le discours du premier ministre qui faisait le bilan de sa campagne électorale auprès de ses militants. Il ne disait pas qu'il avait compris le message du Québec ni que l'offre qu'il avait faite aux Québécois ne leur avait pas plu et qu'il faudrait donc être peut-être plus conciliant, offrir autre chose aux Québécois, changer, leur tendre la main et les écouter davantage. Pas du tout. Il a dit qu'essentiellement, les Québécois n'avaient pas compris le Parti conservateur, et que celui-ci allait présenter le message d'une autre façon et le réitérer jusqu'à les convaincre.</ParaText>
+              <ParaText id="1242830">Dans le contexte économique actuel, il est compréhensible que ce gouvernement présente un discours du Trône essentiellement économique. Cela se comprend, et le Bloc québécois aussi ressent cette urgence. Cependant, une question se pose, et j'y arrive. Comment se fait-il que, dans ce discours du Trône, on veuille nuire à un secteur économique qui fonctionne très bien — l'industrie culturelle —, alors qu'on veut créer des programmes pour aider l'industrie de façon générale? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Dechert" id="2556473">
+            <PersonSpeaking>
+              <Affiliation DbId="128429" Type="2">M. Bob Dechert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242831">Monsieur le Président, je crois que tous les députés à la Chambre s'entendent pour dire que les Canadiens veulent que nous veillions ensemble à faire en sorte que l'économie canadienne demeure forte et que leurs emplois et la santé de leurs familles ne soient pas menacés.</ParaText>
+              <ParaText id="1242832">La Gouverneure générale a souligné aujourd'hui que le gouvernement accorderait la priorité à la sécurité d'emploi pour les familles et les collectivités dans l'ensemble du Canada en encourageant l’apprentissage de métiers spécialisés et la formation en entreprise, en soutenant les travailleurs en transition et en apportant un soutien nouveau à l'industrie de la construction automobile et de l’aérospatiale.</ParaText>
+              <ParaText id="1242833">Le gouvernement favorisera l'investissement et le commerce en actualisant les lois sur l'investissement, la concurrence et les droits d'auteur, tout en collaborant avec les États-Unis pour relever les défis que nous partageons. Il cherchera aussi à conclure des accords commerciaux en Europe, en Asie et dans les Amériques.</ParaText>
+              <ParaText id="1242834">En gardant une économie forte et en protégeant les emplois de nos concitoyens, en conjuguant nos efforts en ce sens, je crois que nous réussirons à répondre à toutes les préoccupations des Canadiens dans les mois et les années à venir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Marston" id="2556475">
+            <PersonSpeaking>
+              <Affiliation DbId="128487" Type="2">M. Wayne Marston (Hamilton-Est—Stoney Creek, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242835">Monsieur le Président, je remercie les électeurs de <Affiliation DbId="128487" Type="2">Hamilton-Est—Stoney Creek</Affiliation> de m'avoir réélu. Ils s'attendent maintenant à ce que nous fassions un meilleur travail.</ParaText>
+              <ParaText id="1242836">En écoutant le discours du Trône aujourd'hui, j'ai compris que les Canadiens auraient espéré davantage; les néo-démocrates s'attendaient certainement à plus. J'attendais qu'on parle de logement abordable, de garderies ou d'augmenter les pensions des Canadiens.</ParaText>
+              <ParaText id="1242837">Quelques jours avant les élections, un citoyen est venu à mon bureau et m'a dit que le gouvernement avait annoncé que sa pension allait augmenter de 42 ¢ par mois. Dans des moments comme ceux-ci, je repense aux derniers jours du gouvernement Harris, en Ontario, dont un des ministres avait dit que les pauvres pouvaient toujours manger du thon. Revenons-nous à cette époque?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Dechert" id="2556477">
+            <PersonSpeaking>
+              <Affiliation DbId="128429" Type="2">M. Bob Dechert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242838">Monsieur le Président, les Canadiens comprennent que, en période de difficulté économique, leurs emplois contribuent à toutes nos institutions gouvernementales. Afin de pouvoir financer les systèmes de soins de santé et d'éducation, il faut protéger les emplois et préserver le dynamisme de l'économie.</ParaText>
+              <ParaText id="1242839">Aujourd'hui, la Gouverneure générale a proposé un plan très clair indiquant aux Canadiens la façon dont nous continuerons de préserver le dynamisme de notre économie et de protéger leurs revenus et leurs pensions afin que nous puissions tous profiter des bonnes choses que le gouvernement met à notre disposition.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Brown (Newmarket—Aurora)" id="2556479">
+            <PersonSpeaking>
+              <Affiliation DbId="128209" Type="2">Mme Lois Brown (Newmarket—Aurora, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242840">Monsieur le Président, avant tout, je tiens à remercier les gens de <Affiliation DbId="128209" Type="2">Newmarket—Aurora</Affiliation> qui m'ont élue pour les représenter ici à la Chambre.</ParaText>
+              <ParaText id="1242841">Le député de <Affiliation DbId="128429" Type="2">Mississauga—Erindale</Affiliation> a fait un excellent discours aujourd'hui. J'aimerais le remercier de son importante contribution au débat d'aujourd'hui en réponse au discours du Trône.</ParaText>
+              <ParaText id="1242842">Je sais que, en raison de sa carrière dans le secteur privé, le député possède de solides connaissances en matière de commerce et d'investissement. Je suis certaine que la Chambre et les comités tireront profit de son expertise et de son expérience. </ParaText>
+              <ParaText id="1242843">Le député de <Affiliation DbId="128429" Type="2">Mississauga—Erindale</Affiliation> pourrait-il rappeler à la Chambre pourquoi il est si important de protéger l'avenir du Canada en cette période d'incertitude économique?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Dechert" id="2556481">
+            <PersonSpeaking>
+              <Affiliation DbId="128429" Type="2">M. Bob Dechert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242844">Monsieur le Président, tous les députés conviendront que le Canada a besoin d'un leadership fort et d'une gestion budgétaire responsable pour traverser la période économique incertaine qu'il connaît. </ParaText>
+              <ParaText id="1242845">Les emplois et la stabilité économique des citoyens, leurs épargnes, pensions et revenus de retraite sont d'une importance capitale. Les initiatives présentées aujourd'hui par la Gouverneure générale feront en sorte que la santé et l'économie de nos citoyens et de notre pays demeurent fortes et prospèrent en toute liberté.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Dion" id="2556484">
+            <PersonSpeaking>
+              <Affiliation DbId="105459" Type="96">L'hon. Stéphane Dion (chef de l'opposition, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242846">Monsieur le Président, tout en prenant l'occasion de féliciter tous les collègues qui ont été réélus et ceux qui sont en cette Chambre pour la première fois, je voudrais souligner que le gouvernement présente aujourd'hui un discours du Trône extrêmement vague et mince en ces temps économiques difficiles. Il nous faudra donc débattre pour obtenir plus de précisions du gouvernement. Ce débat commencera dès demain.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1242847">Monsieur le Président, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
+              <ParaText id="1242848">
+                <Quote>
+                  <QuotePara Align="Left">Que le débat soit maintenant ajourné.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ProceduralText TocType="TCC" TocText="Sur la motion de M. Stéphane Dion ajournement du débat" id="10">(Conformément à  la motion de M. Stéphane Dion, le débat est ajourné.)</ProceduralText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Hill" id="2556487">
+            <PersonSpeaking>
+              <Affiliation DbId="128703" Type="6">L'hon. Jay Hill (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242849">Monsieur le Président, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="11">Motion</ProceduralText>
+              <ParaText id="1242850">
+                <Quote>
+                  <QuotePara Align="Left">Que la Chambre s'ajourne maintenant.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="12">(La motion est adoptée.)</ProceduralText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2556488">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1242851">La Chambre s'ajourne à demain, à 10 heures.</ParaText>
+              <ParaText id="1242852">(La séance est levée à 16 h 19.)</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

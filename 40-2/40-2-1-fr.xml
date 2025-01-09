@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="2568461">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 144</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 001</ExtractedItem>
+    <ExtractedItem Name="Session">2<Sup>e</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">40<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le lundi 26 janvier 2009</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Peter Milliken</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">26 janvier 2009</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DÉBATS</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 001 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 001 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 001 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">144</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">001</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">26</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">01</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2009</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2009/01/26 13:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">40</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">2</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="1258208">La séance est ouverte à 13 h 30.</ParaText>
+      <Prayer>Prière</Prayer>
+    </Intro>
+    <OrderOfBusiness id="2569833" Rubric="Other">
+      <OrderOfBusinessTitle>Ouverture de la deuxième session de la quarantième législature</OrderOfBusinessTitle>
+      <CatchLine>Ouverture de la session</CatchLine>
+      <SubjectOfBusiness id="2569623">
+        <SubjectOfBusinessContent>
+          <ParaText id="1258756">Le Parlement, qui a été prorogé le quatrième jour de décembre 2008, se réunit aujourd'hui à Ottawa pour l'expédition des affaires.</ParaText>
+          <ParaText id="1258757">La séance est ouverte à 13 h 30, le Président étant au fauteuil.
+
+</ParaText>
+          <ParaText id="1258758">Le Président donne lecture d'une lettre de la secrétaire de la Gouverneure générale annonçant que Son Excellence et Jean-Daniel Lafond arriveront à la tour de la Paix à 13 h 30, le lundi 26 janvier 2009 et, lorsqu'on aura avisé Leurs Excellences que tout est en place, elles se rendront à la salle du Sénat pour ouvrir officiellement la deuxième session de la quarantième législature du Canada.
+</ParaText>
+          <ParaText id="1258759">L'huissier du bâton noir apporte le message suivant:</ParaText>
+          <ParaText id="1258760">
+            <Quote>
+              <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Monsieur le Président, c'est le désir de Son Excellence la Gouverneure générale que cette honorable Chambre se rende immédiatement auprès d'elle dans la salle de l'honorable Sénat.</QuotePara>
+            </Quote>
+          </ParaText>
+          <ParaText id="1258761">En conséquence, le Président, accompagné des députés de la Chambre, se rend à la salle du Sénat.</ParaText>
+          <ParaText id="1258762">
+            <I>Et de retour à la Chambre des communes:</I>
+          </ParaText>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568670">
+        <Timestamp Hr="13" Mn="30">(1330)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>
+          <I>Feuilleton</I>
+        </SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2568499">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258446">Je désire informer la Chambre qu'en vertu d'une demande faite par le gouvernement conformément au paragraphe 55(1) du Règlement, la présidence a fait publier un <I>Feuilleton</I> spécial donnant avis d'une motion émanant du gouvernement.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1258447">Je dépose maintenant le document en question.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568583">
+        <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les serments d'office</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Harper" id="2568501">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC) </Affiliation>
+            </PersonSpeaking>
+            <Content>
+              <ProceduralText TocType="TPC" id="1">Projet de loi C-1. Présentation et première lecture</ProceduralText>
+              <ParaText id="1258412"> demande à présenter le projet de loi <Document DbId="3628604" Type="3">C-1, Loi concernant la prestation de serments d'office</Document> et demande le consentement unanime de la Chambre pour que le projet de loi soit imprimé.</ParaText>
+              <ParaText id="1258413">
+                <B>Le Président:</B> La Chambre a entendu l'énoncé de la motion. Lui plaît-il de l'adopter?</ParaText>
+              <ParaText id="1258414">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="2"> (Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.) </ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568666">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Discours du Trône</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2568504">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258415">J'ai l'honneur d'informer la Chambre que, lorsque celle-ci s'est rendue auprès de Son Excellence la Gouverneure générale aujourd'hui, au Sénat, il a plu à Son Excellence de prononcer un discours devant les deux Chambres du Parlement. Afin d'éviter les erreurs, j'en ai obtenu le texte, que voici: </ParaText>
+            </Content>
+          </Intervention>
+          <ThroneSpeech>
+            <ThroneSpeechPara Align="Left" IndentFirst="1" IndentRest="1">
+              <Line>
+                <I>Honorables Sénatrices et Sénateurs,
+</I>
+              </Line>
+              <Line>
+                <I>Mesdames et Messieurs les Députés,
+</I>
+              </Line>
+              <Line>
+                <I>Mesdames et Messieurs,
+</I>
+              </Line>
+            </ThroneSpeechPara>
+          </ThroneSpeech>
+          <ParaText id="1258416">En ces temps incertains où le monde entier est menacé par une économie qui vacille, il devient urgent de travailler ensemble, d’unir nos efforts et d’en appeler à une plus grande solidarité.</ParaText>
+          <ParaText id="1258417">Dans le respect de notre tradition démocratique, les Canadiennes et les Canadiens s’attendent à ce que leurs représentants élus se concertent pour que le Canada sorte plus fort de cette grave crise économique.</ParaText>
+          <ParaText id="1258418">Une fois de plus, les représentants de la population se rassemblent pour examiner les priorités de la prochaine session parlementaire.</ParaText>
+          <ParaText id="1258419">Chaque discours du Trône marque un jalon important du remarquable parcours qu’effectue le Canada depuis 142 ans. Vos prédécesseurs ont, eux aussi, été convoqués dans cette Chambre en temps de crise: lorsque le Canada luttait pour affirmer son indépendance, sous la menace de la guerre, au cœur de la Grande Dépression et dans les moments où de profondes divergences de vues menaçaient les liens mêmes de la Confédération. </ParaText>
+          <ParaText id="1258420">Nous nous réunissons aujourd’hui à un moment d’incertitude économique sans précédent. Le resserrement général du crédit a entraîné l’économie mondiale dans une crise  incontournable. Les nations du monde se débattent contre des difficultés auxquelles le Canada peut s’attaquer, mais qu’il ne peut éviter.</ParaText>
+          <ParaText id="1258421">Le programme du gouvernement et les priorités du Parlement doivent être adaptés à une crise qui empire. Les vieilles hypothèses doivent être éprouvées et les décisions d’autrefois, repensées. L’économie mondiale s’est affaiblie depuis la dernière élection générale fédérale. En fait, elle s’est affaiblie davantage depuis la dernière session du Parlement, le mois dernier. </ParaText>
+          <ParaText id="1258422">Notre gouvernement a écouté les Canadiennes et les Canadiens qui s’inquiètent des répercussions de la récession mondiale sur leur emploi, leurs économies et leurs collectivités. Notre gouvernement s’est adressé aux Canadiennes et aux Canadiens de toutes les régions, collectivités et conditions sociales.  </ParaText>
+          <ParaText id="1258423">Notre gouvernement a largement consulté:</ParaText>
+          <ParaText id="1258424">•	ceux et celles qui travaillent, investissent, créent des emplois, bâtissent des infrastructures et offrent des services à but non lucratif;</ParaText>
+          <ParaText id="1258425">•	les gouvernements provinciaux et territoriaux et les administrations municipales, les leaders autochtones et les représentants des collectivités;</ParaText>
+          <ParaText id="1258426">•	il a en fait consulté tous ceux et celles dont l’apport pourrait nous permettre de résister à la tempête.</ParaText>
+          <ParaText id="1258427">Notre gouvernement a cherché à dialoguer dans un esprit d’ouverture et de collaboration non partisane. En temps de crise collective, personne n’a le monopole des bonnes idées. Si bonnes idées il y a, il ne convient pas de s’en attribuer le mérite, mais seulement d’être satisfait de trouver des solutions profitables à l’ensemble des Canadiennes et des Canadiens.  </ParaText>
+          <ParaText id="1258428">Donnant suite aux idées et suggestions constructives qu’il a reçues, notre gouvernement présentera demain un plan de relance économique qui nous protégera des menaces immédiates, tout en prévoyant des investissements propices à la croissance à long terme.</ParaText>
+          <ParaText id="1258429">Il s’agit d’un plan d’action.</ParaText>
+          <ParaText id="1258430">•	Notre gouvernement stimule l’économie en prenant des mesures directes et en favorisant les dépenses privées.</ParaText>
+          <ParaText id="1258431">•	Notre gouvernement prend des mesures immédiates pour bâtir le Canada par de nouveaux investissements dans les infrastructures.</ParaText>
+          <ParaText id="1258432">•	Notre gouvernement agit pour préserver la stabilité du système financier.</ParaText>
+          <ParaText id="1258433">•	Notre gouvernement agit pour assurer aux entreprises et aux consommateurs l’accès au crédit.</ParaText>
+          <ParaText id="1258434">•	Notre gouvernement agit pour appuyer les industries canadiennes en difficulté -- notamment dans les secteurs forestiers et manufacturiers, de l'automobile, du tourisme et de l'agriculture -- et pour protéger les familles et les collectivités qui en dépendent.</ParaText>
+          <ParaText id="1258435">•	Notre gouvernement agit pour protéger les citoyens vulnérables: les chômeurs et les travailleurs à faible revenu, les aînés, les Autochtones et tous ceux qui sont le plus touchés par la récession économique mondiale.</ParaText>
+          <ParaText id="1258436">Ces mesures seront ciblées et prendront la forme de stimulants immédiats tout en favorisant la croissance à long terme et en évitant le retour aux déficits permanents.</ParaText>
+          <ParaText id="1258437">Ces mesures protégeront les emplois d’aujourd’hui tout en préparant l’économie à créer ceux de demain.</ParaText>
+          <ParaText id="1258438">Les Canadiennes et les Canadiens ont devant eux une année difficile -- voire peut-être plusieurs années difficiles. Face à cette incertitude, notre gouvernement a élaboré un plan clair et ciblé. Notre gouvernement dépensera ce qu'il faut pour relancer l'économie et fera les investissements nécessaires pour préserver notre prospérité.</ParaText>
+          <ParaText id="1258439">Comme les Canadiennes et les Canadiens s’y attendent, l’économie sera, au cours de la prochaine année, le point central de l’action gouvernementale et des mesures proposées au Parlement. Parallèlement au soutien à l’économie, notre gouvernement s’occupera des autres priorités qu’il a énoncées dans le discours du Trône marquant l’ouverture de la 40<Sup>e</Sup> législature.</ParaText>
+          <ParaText id="1258440">La crise actuelle est nouvelle, mais l’impératif d’une action concertée est un défi que le Parlement a relevé à maintes reprises au cours de notre histoire. Nous serons aujourd’hui soutenus par les mêmes traits de caractère qui ont déjà permis au Canada de traverser des temps difficiles: unité, détermination et constance.</ParaText>
+          <ParaText id="1258441">
+            <I>Honorables Sénatrices et Sénateurs,
+
+</I>
+          </ParaText>
+          <ParaText id="1258442">
+            <I>Mesdames et Messieurs les Députés,
+
+</I>
+          </ParaText>
+          <ParaText id="1258443">Alors que vous unissez vos efforts dans une cause commune, puisse la Divine Providence vous servir de guide et d’inspiration.
+</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Harper" id="2568505">
+            <PersonSpeaking>
+              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC) </Affiliation>
+            </PersonSpeaking>
+            <Content>
+              <ParaText id="1258444"> propose:</ParaText>
+              <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
+              <ParaText id="1258445">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que le discours du Trône prononcé aujourd'hui par Son Excellence la Gouverneure générale devant les deux Chambres du Parlement soit pris en considération plus tard aujourd'hui.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="4">(La motion est adoptée.)</ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568604">
+        <Timestamp Hr="14" Mn="35">(1435)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Le budget</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Inscription à l'ordre du jour</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Flaherty" id="2568509">
+            <PersonSpeaking>
+              <Affiliation DbId="78777" Type="4">L'hon. Jim Flaherty (ministre des Finances, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258455">Monsieur le Président, je demande qu'un ordre du jour soit établi pour la présentation du budget qui sera présenté à la Chambre le mardi 27 janvier 2009 à 16 heures.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568625">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Travaux des subsides</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Toews" id="2568512">
+            <PersonSpeaking>
+              <Affiliation DbId="105829" Type="4">L'hon. Vic Toews (président du Conseil du Trésor, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258456">Monsieur le Président, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
+              <ParaText id="1258457">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que la Chambre étudie les travaux des subsides à la prochaine séance.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="6">(La motion est adoptée.)</ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568633">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les travaux de la Chambre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2568513">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258458">Je souhaite faire une déclaration au sujet des affaires émanant des députés. L'article 86.1 du Règlement prévoit que les affaires émanant des députés soient maintenues d'une session à une autre.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1258459">Concrètement, cela signifie que la liste portant examen des initiatives parlementaires, qui a été établie grâce à un tirage au sort au début de la 40<Sup>e</Sup> législature, en vertu de l'article 87 du Règlement, sera utilisée tout au long de cette législature.</ParaText>
+              <ParaText id="1258460">Il y avait 267 motions inscrites au <I>Feuilleton</I> au moment de la prorogation, et elles seront inscrites sur la liste des affaires qui ne font pas partie de l'ordre de priorité. Les projets de loi ayant franchi l'étape de la première lecture figureront également sur cette liste. Les projets de loi qui avaient répondu à l'exigence de préavis et qui avaient été inscrits au <I>Feuilleton</I>, mais qui n'avaient pas encore été présentés, seront publiés à nouveau dans le <I>Feuilleton</I> sous la rubrique « Dépôt de projets de loi émanant des députés ». Toutefois, les projets de loi qui n'avaient pas encore été publiés dans le <I>Feuilleton</I> doivent être recertifiés par le conseil législatif et soumis de nouveau à des fins de publication dans le <I>Feuilleton</I>.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1258461">Les affaires émanant des députés conservent le numéro qu'elles portaient à la première session de la 40<Sup>e</Sup> législature.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1258462">En terminant, conformément à l'article 87 du Règlement, l'ordre de priorité est établi le 20<Sup>e</Sup> jour de séance suivant la date du tirage. Huit jours de séance se sont écoulés pendant la session précédente, ce qui signifie que l'ordre de priorité sera établi le 12<Sup>e</Sup> jour de séance de la présente session. Les députés dont le nom se trouve au haut de la liste ont jusqu'à 18 heures ce jour-là pour donner avis d'un projet de loi ou d'une motion et disposent de deux jours de séance supplémentaires pour choisir l'affaire qu'ils souhaitent inscrire à l'ordre de priorité. La période réservée aux initiatives parlementaires débutera peu de temps après que le Sous-comité des affaires émanant des députés aura déposé son rapport sur les affaires votables. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1258463">J'ose croire que cela les aidera à comprendre le déroulement des affaires émanant des députés pendant la deuxième session. Les greffiers au Bureau se feront un plaisir de répondre aux questions des députés sur ce sujet mais aussi sur d'autres sujets. </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568535">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Comités pléniers</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Nomination de la vice-présidente</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2568518">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258464">Je suis maintenant prêt à soumettre à l'approbation de la Chambre une candidate au poste de vice-présidente des comités pléniers. </ParaText>
+              <ParaText id="1258465">Conformément à l'article 8 du Règlement, je propose que Mme Denise Savoie soit nommée vice-présidente des comités pléniers de la Chambre.</ParaText>
+              <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
+              <ParaText id="1258466">La motion est proposée et appuyée d'office. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1258467">Plaît-il à la Chambre d'adopter cette motion?</ParaText>
+              <ParaText id="1258468">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="8">(La motion est adoptée.)</ProceduralText>
+              <ParaText id="1258469">
+                <B>Le Président:</B> Je félicite la députée. </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568544">
+        <Timestamp Hr="14" Mn="40">(1440)</Timestamp>
+        <SubjectOfBusinessQualifier>Nomination du vice-président adjoint</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="2568546">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258470">Conformément à l'article 8 du Règlement, je propose M. Barry Devolin au poste de vice-président adjoint des comités pléniers. </ParaText>
+              <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
+              <ParaText id="1258471">Cette motion est réputée adoptée et appuyée. Plaît-il à la Chambre de l'adopter?</ParaText>
+              <ParaText id="1258472">
+                <B>Des voix:</B> D'accord</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="10">(La motion est adoptée.)</ProceduralText>
+              <ParaText id="1258473">
+                <B>Le Président:</B> Merci beaucoup, et félicitations à tous les deux. </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568542">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les travaux de la Chambre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Hill" id="2568519">
+            <PersonSpeaking>
+              <Affiliation DbId="129425" Type="4">L'hon. Jay Hill (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258474">Monsieur le Président, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="11">Motion</ProceduralText>
+              <ParaText id="1258475">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant tout article du Règlement ou usage habituel de la Chambre, après consultation avec les whips de chaque parti, la Greffière de la Chambre convoque une réunion du Comité permanent de la procédure et des affaires de la Chambre pour le mardi 27 janvier 2009; que le mardi 27 janvier 2009, la Chambre se réunisse à 14 heures et que les députés puissent alors faire des déclarations conformément à l'article 31 du Règlement; au plus tard à 14 h 15, la Chambre aborde les questions orales; à 15 heures, la Chambre aborde l'étude des affaires courantes ordinaires; qu'après la conclusion des affaires courantes la Chambre, si nécessaire, suspend ses travaux jusqu'à 16 heures pour la présentation du budget.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2568520">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258476">Le <Affiliation DbId="129425" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> a-t-il le consentement unanime de la Chambre pour présenter cette motion?</ParaText>
+              <ParaText id="1258477">
+                <B>Des voix: </B>D'accord.</ParaText>
+              <ParaText id="1258478">
+                <B>Le Président: </B>La Chambre a entendu la motion. Plaît-il à la Chambre de l'adopter?</ParaText>
+              <ParaText id="1258479">
+                <B>Des voix: </B>D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="12">(La motion est adoptée.)</ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="2568578">
+        <SubjectOfBusinessTitle>Le calendrier de la Chambre des  communes</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. O'Connor" id="2568521">
+            <PersonSpeaking>
+              <Affiliation DbId="128713" Type="96">L'hon. Gordon O'Connor (ministre d’État et whip en chef du gouvernement, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258480">Monsieur le Président, il y a eu des consultations entre les partis et vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante. Je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="13">Motion</ProceduralText>
+              <ParaText id="1258481">Que, nonobstant le calendrier déposé par le Président conformément à l'article 28(2)<I>b</I>) du Règlement, la Chambre ne siège pas le vendredi 1<Sup>er</Sup> mai 2009; que, nonobstant tout article du Règlement ou usage habituel de la Chambre, le jeudi 30 avril 2009, après la période des questions, le Président ne reçoive ni motion dilatoire, ni demande de consentement unanime et que tout vote par appel nominal différé au jeudi 30 avril 2009, ou demandé à cette date, soit différé, ou différé à nouveau, selon le cas, à la fin de la période prévue pour les Ordres émanant du gouvernement le lundi 4 mai 2009.</ParaText>
+              <ParaText id="1258482">Je rappelle aux députés que cela signifie que la Chambre siégera ce vendredi, le 30 janvier.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2568522">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258483">Le whip en chef du gouvernement a-t-il le consentement unanime de la Chambre pour présenter la motion?</ParaText>
+              <ParaText id="1258484">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ParaText id="1258485">
+                <B>Le Président: </B>La Chambre a entendu la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
+              <ParaText id="1258486">
+                <B>Des voix:</B> D'accord.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="14">(La motion est adoptée.)</ProceduralText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="2568524" Rubric="Address">
+      <OrderOfBusinessTitle>Le discours du Trône</OrderOfBusinessTitle>
+      <CatchLine>L'Adresse</CatchLine>
+      <SubjectOfBusiness id="2568623">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Adresse en réponse</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <ParaText id="1258487">La Chambre passe à l'étude du discours prononcé par Son Excellence la Gouverneure générale à l'ouverture de la session.</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme O'Neill-Gordon" id="2568528">
+            <PersonSpeaking>
+              <Affiliation DbId="128471" Type="2">Mme Tilly O'Neill-Gordon (Miramichi, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258488">Monsieur le Président, je transmets à la Chambre les voeux des électeurs de Miramichi, des gens merveilleux qui composent une collectivité aussi belle et énergique que la magnifique rivière qui traverse notre circonscription.</ParaText>
+              <ParaText id="1258489">Ce fut merveilleux de passer du temps chez nous et de pouvoir constater de moi-même l'état de la situation dans tous les domaines qui intéressent notre remarquable circonscription. Je suis heureuse d'être de retour à la Chambre. Ainsi nous pourrons tous nous mettre à l'ouvrage et accomplir ce que les électeurs attendent de nous.</ParaText>
+              <ParaText id="1258490">Je souhaite sincèrement un bon retour à tous les députés. J'imagine que tous partagent mes sentiments. Je veux remercier particulièrement Son Excellence pour son discours éloquent. Je remercie le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> de m'avoir demandé de proposer la motion portant sur l'Adresse en réponse au discours du Trône.</ParaText>
+              <ParaText id="1258491">En tant qu'enseignante, j'ai l'habitude de porter attention tout autant au texte écrit qu'au texte prononcé. Je suis sûre que je ne suis pas la seule à avoir remarqué que le discours du Trône était plus succinct que les précédents. Il faut dire que nous vivons une situation sans précédent. On sait aussi que l'économie mondiale et, par conséquent, l'économie du Canada traversent une époque particulièrement difficile. Tout comme les gouvernements et les assemblées législatives des quatre coins du monde, nous devons nous demander ce que nous allons faire à cet égard. Comment allons-nous réagir à ces difficultés?</ParaText>
+              <ParaText id="1258492">Je sais ce que nous ne devons pas faire à cet égard. Ce n'est pas le moment de formuler des discours creux, de faire des promesses sans fondement ou de nous en tenir aux formules classiques. Ce n'est pas non plus le moment des querelles sectaires, surtout qu'il y a à peine trois mois que les Canadiens se sont prononcés très clairement quant au gouvernement qu'ils souhaitaient avoir.</ParaText>
+              <ParaText id="1258493">Il est temps pour nous d'agir, d'accorder la priorité aux citoyens. Les commentaires de la Gouverneure générale visent directement les sérieuses difficultés que les Canadiens doivent surmonter. Nous sommes aux prises avec une récession mondiale. Les marchés sont dans la tourmente. Il y a des pertes d'emplois. Les pensions sont menacées. Il est de plus en plus difficile pour les gens et les entreprises d'avoir du crédit.</ParaText>
+              <ParaText id="1258494">Il est vrai que le Canada dispose d'une base plus solide que presque n'importe quel autre pays et que nous sommes mieux préparés pour faire face à cette tourmente mondiale, mais nous ne sommes pas entièrement à l'abri. Il s'agit d'une période difficile pour tous les Canadiens.</ParaText>
+              <ParaText id="1258495">Les nouvelles brèves ou les faits et chiffres abstraits remaniés en clips sonores de dix secondes ne disent pas toute la vérité. Pour ma part, je reviens tout juste de ma circonscription de Miramichi et je peux vous dire, monsieur le Président, que les inquiétudes de mes électeurs à propos de leurs emplois ou des emplois qu'ils cherchent sont bien réelles. Ma circonscription vit du tourisme et est riche en ressources. L'exploitation minière, la foresterie et la pêche sont des modes de vie pour bon nombre de mes électeurs. Les industries primaires vivent des moments difficiles. </ParaText>
+              <ParaText id="1258496">Les pertes d'emplois ne se résument pas à des statistiques. Elles visent de vraies personnes qui s'inquiètent pour leurs pensions, leurs factures, leur avenir. Il n'y a pas que les gens riches et très à l'aise qui souffrent de l'incertitude et des remous du marché. Les personnes âgées canadiennes, celles qui ont travaillé fort et économisé pour avoir l'esprit tranquille à la retraite, voient leurs économies et leurs pensions touchées par cette crise.</ParaText>
+              <ParaText id="1258497">Je sais que les personnes âgées de ma circonscription, dont bon nombre sont déjà aux prises avec certaines difficultés, comme le logement abordable, s'inquiètent beaucoup de ce qu'il adviendra de leur qualité de vie dans cette période sans précédent. L'accès au crédit n'est pas un concept abstrait. Il touche bien concrètement les jeunes familles qui tentent d'obtenir un prêt hypothécaire ou un prêt auto, ainsi que les entreprises qui tentent d'obtenir les capitaux dont elles ont besoin pour se développer, pour survivre et pour créer et protéger des emplois. Ceux qui souffrent de cette crise sont les familles de travailleurs canadiens, les personnes âgées et les propriétaires d'entreprises. Ce sont eux qui s'inquiètent. Ce sont à eux que nous devons rendre des comptes. </ParaText>
+              <Timestamp Hr="14" Mn="45">(1445)</Timestamp>
+              <ParaText id="1258498">En plus des difficultés et des inquiétudes, ces Canadiens ont un autre point en commun: ils n'ont que faire de la politique partisane. Ils se fichent éperdument que de savants universitaires ou des groupes d'intérêts aient accordé leur bénédiction à ceux qui jouent des petits jeux politiques dans les coulisses. Tout ce qu'ils veulent, c'est que la personne qu'ils ont élue travaillent pour représenter leurs intérêts et régler des problèmes comme ceux liés à l'économie. </ParaText>
+              <ParaText id="1258499">Ce n'est pas exagéré que de demander aux politiciens de faire leur travail et de chercher un terrain d'entente pour relever le défi de taille auquel notre pays est confronté. Nous avons l'occasion de faire exactement cela, et notre gouvernement tend la main de bonne foi aux autres partis. Demain, le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> présentera un budget, un plan d'action pour l'année qui vient et les années subséquentes. C'est là qu'on pourra voir clairement, parmi tous les députés et tous les partis, qui est prêt à faire passer les intérêts nationaux avant les intérêts partisans et qui ne l'est pas.</ParaText>
+              <ParaText id="1258500">Comme d'autres Canadiens d'un bout à l'autre du pays, j'ai hâte d'entendre le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> expliquer de façon détaillée notre plan d'action, mais nous savons déjà à quoi nous attendre, ou du moins nous en connaissons les grandes lignes. Notre plan d'action comprendra de nouveaux investissements considérables pour stimuler l'économie et créer des emplois, pour entreprendre sans tarder la construction de routes, de ponts et d'autres infrastructures stratégiques dont les Canadiens se servent tous les jours et pour aider à protéger ceux qui sont le plus durement touchés par la récession. Bref, il s'agira d'un plan d'action sans précédent pour répondre à une situation sans précédent. </ParaText>
+              <ParaText id="1258501">Les Canadiens surveilleront attentivement la réaction des parlementaires. Les politiciens chercheront-ils encore une fois à faire passer les intérêts partisans loin devant l'intérêt public? Ou bien les députés veilleront-ils à ce que le plan d'action soit adopté rapidement afin que l'aide aille à ceux qui en ont le plus besoin?</ParaText>
+              <ParaText id="1258502">Le gouvernement a montré clairement ses intentions par ses paroles et par ses gestes. Nous faisons passer le Canada en premier. Nous invitons tous les députés et tous les autres partis à faire de même. Au cours des quelques derniers mois, nous avons mené des consultations sans précédent avec les Canadiens d'un bout à l'autre du pays, des consultations dont ma collègue de <Affiliation DbId="128336" Type="2">Saskatoon—Rosetown—Biggar</Affiliation> parlera plus longuement dans un moment. </ParaText>
+              <ParaText id="1258503">Nous avons sollicité aussi les idées des autres partis. Nous avons proposé, et nous continuons de proposer, la voie du consensus. Différents partis ne peuvent peut-être pas s'entendre sur tout, soit, mais en particulier dans une période comme celle que nous traversons, les Canadiens méritent de voir leurs représentants faire front commun au nom de l'intérêt du Canada.</ParaText>
+              <ParaText id="1258504">Je saisis l'occasion qui m'est offerte pour remercier les députés de l'opposition qui ont tendu la main et ont formulé des propositions et des idées qu'ils jugeaient utiles. Je remercie ces députés qui ont fait un effort sincère afin de montrer publiquement, même s'ils n'aiment pas particulièrement notre gouvernement, qu'ils aiment suffisamment le Canada pour mettre de côté la partisanerie mesquine et faire tout en leur pouvoir pour que les familles canadiennes ordinaires aient la paix d'esprit qu'elles méritent.</ParaText>
+              <ParaText id="1258505">À ceux qui n'ont pas montré publiquement que cet esprit national les animait, je dirai qu'il est encore temps de le faire. Certes, le budget est imprimé, mais l'action dont notre économie a besoin dépasse le cadre d'un budget ou d'un projet de loi. Les défis auxquels nous sommes confrontés sont nombreux et ils ne disparaîtront pas du jour au lendemain.</ParaText>
+              <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
+              <ParaText id="1258506">Lors des dernières élections, les Canadiens ont confié à notre gouvernement un mandat beaucoup plus fort, mais il demeure qu'ils ont élu un gouvernement minoritaire. Ils ont demandé à tous les députés d'unir leurs efforts. Ils nous ont demandé d'obtenir des résultats.</ParaText>
+              <ParaText id="1258507">Il est encore temps de lancer de grandes idées qui transcendent les idéologies politiques et émanent de régions différentes. Il est encore temps de proposer des solutions constructives pour l'avenir. Il est encore temps de formuler des solutions concrètes visant à assurer que les particuliers et les entreprises ont accès au crédit dont ils ont besoin, il est encore temps de proposer des projets de construction et de se mettre à la tâche et il est encore temps de contribuer à protéger les emplois d'aujourd'hui et à créer les emplois de demain.</ParaText>
+              <ParaText id="1258508">Il est encore temps de prouver que le système fonctionne, non seulement pour les politiciens et les groupes d'intérêts, mais pour les travailleurs ordinaires, les familles et les entreprises au Canada. J'invite tous les députés à réfléchir à tout cela et à tendre la main pour que nous réussissions ensemble.</ParaText>
+              <ParaText id="1258509">Le Canada a de solides assises financières. Le Canada est prêt à affronter une récession mondiale parce que les grands partis nationaux, les partis qui ont formé des gouvernements crédibles, tant le Parti conservateur que le Parti libéral, ont été capables de prendre de grandes décisions nationales. Cela est particulièrement vrai sur le front économique.</ParaText>
+              <ParaText id="1258510">Notre gouvernement conservateur a diminué l'impôt des sociétés, l'impôt des particuliers et les taxes de vente, y compris la TPS. Ces mesures, prises très tôt, ont stimulé et continuent à stimuler l'économie. Nous sommes intervenus pour que les hypothèques et le marché de l'immobilier demeurent stables et pour que les familles et les entreprises aient accès au crédit qui leur est essentiel. En partenariat avec les provinces, nous avons apporté une aide ciblée aux industries et aux collectivités dans le besoin et nous avons remboursé des milliards de la dette fédérale. C'est précisément pourquoi nous pouvons envisager un déficit à court terme sans mettre en danger notre sécurité économique pour le long terme. </ParaText>
+              <ParaText id="1258511">Par ailleurs, dans cet esprit de collégialité dont notre pays a besoin, je voudrais aussi reconnaître le rôle que les gouvernements libéraux des années 1990 ont joué pour jeter ces fondations. Peu de ces libéraux sont encore à la Chambre aujourd'hui et je ne prétends pas parler au nom de ceux qui sont encore parmi nous. Néanmoins, je ne pense pas que ce soit avec plaisir ou fierté qu'ils ont réduit les fonds destinés à la santé, à l'éducation et autres programmes sociaux. Ils ont fait les choix, aussi difficiles soient-ils, qu'ils pensaient nécessaires. </ParaText>
+              <ParaText id="1258512">Ce gouvernement qui, lui aussi, agit dans l'intérêt de la nation, fait également ce qu'il juge nécessaire. Notre gouvernement ne prend aucun plaisir à envisager un déficit. Pour les conservateurs que nous sommes, c'est contre nature, mais nous sommes prêts à faire tout ce qui est nécessaire pour faciliter l'accès au crédit, pour stabiliser notre économie, protéger les emplois et continuer à en créer. </ParaText>
+              <ParaText id="1258513">Demain, mon collègue, le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation>, expliquera les prochaines étapes et les mesures supplémentaires que nous croyons nécessaires. Nos interventions seront ciblées. Elles stimuleront l'économie. Elles favoriseront la croissance à long terme et permettront d'éviter les déficits à long terme ou permanents. Voilà le genre de plan auquel les Canadiens s'attendent. C'est aussi le genre de mesures que les Canadiens méritent.</ParaText>
+              <ParaText id="1258514">Nous sommes prêts à mettre en oeuvre le plan et les mesures dont les Canadiens ont besoin, et à faire preuve du leadership nécessaire. Aucun plan d'action ne peut plaire à tout le monde, mais j'espère que tous les Canadiens examineront notre plan et y trouveront des éléments qu'ils pourront appuyer.</ParaText>
+              <Timestamp Hr="14" Mn="55">(1455)</Timestamp>
+              <ParaText id="1258515">Dans cette optique, j'ai l'honneur de présenter la motion suivante, appuyée par de la députée de Saskatoon—Rosetown—Biggar. Je propose donc:</ParaText>
+              <ProceduralText TocType="TPC" id="15">Motion</ProceduralText>
+              <ParaText id="1258516">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que l'Adresse, dont le texte suit, soit présentée à Son Excellence la Gouverneure générale du Canada: </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258517">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">À Son Excellence la très honorable Michaëlle Jean, Chancelière et Compagnon principal de l'Ordre du Canada, Chancelière et Commandeure de l'Ordre du mérite militaire, Chancelière et Commandeure de l'Ordre du mérite des corps policiers, Gouverneure générale et Commandante en chef du Canada. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258518">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">QU'IL PLAISE À VOTRE EXCELLENCE: </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258519">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Nous, sujets très dévoués et fidèles de Sa Majesté, la Chambre des communes du Canada, assemblée en Parlement, prions respectueusement Votre Excellence d'agréer nos humbles remerciements pour le gracieux discours qu'elle a adressé aux deux Chambres du Parlement. </QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="00">(1500)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Zarac" id="2568543">
+            <PersonSpeaking>
+              <Affiliation DbId="128100" Type="2">Mme Lise Zarac (LaSalle—Émard, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258448">Monsieur le Président, en pleine crise économique, le gouvernement a présenté aux Canadiens deux discours du Trône, mais aucun plan. </ParaText>
+              <ParaText id="1258449">Les travaux du Parlement ont été suspendus alors que les Canadiens avaient besoin qu'il se mette au travail pour protéger leurs emplois, leurs épargnes et leurs retraites. </ParaText>
+              <ParaText id="1258450">Maintenant, le gouvernement a envoyé ses ministres annoncer certaines parties du budget avant même de le présenter à la Chambre des communes demain. Nous sommes déçus de voir que le gouvernement n'est toujours pas prêt à agir de manière professionnelle et responsable, comme s'y attendent les Canadiens.</ParaText>
+              <ParaText id="1258451">Le budget doit répondre à trois critères importants. Il doit protéger les plus vulnérables, en ces temps difficiles. Il doit protéger les emplois des Canadiens dans toutes les régions du pays. Et, le plus important, il doit créer les emplois de demain, sans imposer à nos enfants le fardeau d'un déficit et d'une lourde dette.</ParaText>
+              <ParaText id="1258452">Pourquoi le gouvernement était-il si loin de la vérité lorsqu'il a annoncé un excédent budgétaire aux Canadiens dans sa mise à jour économique et financière, cet automne? </ParaText>
+              <ParaText id="1258453">Pourquoi a-t-il dépensé si imprudemment quand la situation était meilleure, et nous a-t-il ainsi privé des moyens dont nous avons besoin en période de crise? Pourquoi impose-t-il aux Canadiens leur premier déficit en plus de dix ans, sans même tenir compte des mesures de relance économique nécessaires?</ParaText>
+              <ParaText id="1258454">Sept mois se sont écoulés depuis l'ajournement des travaux de la Chambre en juin. À cause des décisions prises par le gouvernement, le Parlement n'a pas pu prendre les mesures concrètes pour gérer la crise financière...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2568547">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258520">À l'ordre, s'il vous plaît. Il y a une limite pour les questions et commentaires et beaucoup de personnes voudraient participer au débat. J'encourage donc les honorables députés à limiter leur temps pour leurs remarques pendant cette brève période de 10 minutes.</ParaText>
+              <ParaText id="1258521">L'honorable députée de <Affiliation DbId="128471" Type="2">Miramichi</Affiliation> a la parole. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme O'Neill-Gordon" id="2568549">
+            <PersonSpeaking>
+              <Affiliation DbId="128471" Type="2">Mme Tilly O'Neill-Gordon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258522">Monsieur le Président, je remercie ma collègue de sa question. Je tiens à assurer à l'opposition que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>, les ministres et les députés ont participé à des consultations prébudgétaires d'un bout à l'autre du pays au cours des six dernières semaines. Je suis heureuse de vous dire que nous avons tenu de telles consultations dans la région de Miramichi. Nous avons écouté les gens nous parler de leurs besoins et nous avons entendu leurs appels à l'aide. Notre plan économique nous permettra d'agir en leur nom et de mettre au point des mesures de relance qui créeront des emplois dans notre région. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Plamondon" id="2568558">
+            <PersonSpeaking>
+              <Affiliation DbId="128149" Type="2">M. Louis Plamondon (Bas-Richelieu—Nicolet—Bécancour, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258523">Monsieur le Président, en ce début d'année, je voudrais d'abord offrir mes meilleurs voeux à la population de mon comté, de même qu'à tous les parlementaires présents ici, en particulier à mes collègues du Bloc québécois. Il m'est arrivé également de souhaiter une bonne année au <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>, mais il m'a répondu que j'étais bien généreux et que la plupart des gens lui souhaitaient seulement un mois. </ParaText>
+              <ParaText id="1258524">Je suis surpris du discours de la députée qui vient de s'exprimer. En effet, elle dit qu'elle a fait le tour de son comté et constaté que ce sont les problèmes d'ordre économique qui préoccupaient le plus ses concitoyens et concitoyennes. Je me demande où elle était pendant la campagne électorale alors qu'elle-même et son parti prétendaient qu'il n'y avait pas de problèmes économiques. Je me demande également où elle était lorsqu'il y a eu consultation pour le premier énoncé économique du Parti conservateur. Là encore, on disait qu'il n'y avait pas de problèmes économiques. Or, tout à coup, on découvre qu'il y en a énormément.</ParaText>
+              <ParaText id="1258525">Donc, comment peut-elle expliquer ce discours contradictoire, pendant l'élection et aujourd'hui? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme O'Neill-Gordon" id="2568560">
+            <PersonSpeaking>
+              <Affiliation DbId="128471" Type="2">Mme Tilly O'Neill-Gordon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258526">Monsieur le Président, le discours du Trône amorce la prochaine étape du plan d'action du Canada en matière d'économie. C'est un discours sans précédent pour une période sans précédent. Je sais que, comme notre <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>, mes électeurs espèrent que les députés nous accorderont au moins un mois pour que nous puissions mettre la machine en marche et faire avancer un peu les choses.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Mulcair" id="2568562">
+            <PersonSpeaking>
+              <Affiliation DbId="128308" Type="2">M. Thomas Mulcair (Outremont, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258527">Monsieur le Président, la collègue de <Affiliation DbId="128471" Type="2">Miramichi</Affiliation> nous a expliqué qu'elle était enseignante et qu'elle avait pris l'habitude d'écouter ce qui était dit et de bien regarder ce qui était écrit. </ParaText>
+              <ParaText id="1258528">Je lui demanderais d'écouter la déclaration suivante, faite par l'ancien chef de l'opposition, en 2005, lorsqu'on croyait qu'il y avait eu une fuite intentionnelle du gouvernement au sujet d'informations budgétaires. Il a dit:</ParaText>
+              <ParaText id="1258529">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Cette information a été circulée avant d'être rendue publique. C'est complètement inacceptable.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258530">C'est son actuel chef qui a dit cela en 2005. C'est le même qui a dit et écrit qu'ils n'allaient pas remplir le Sénat parce que c'était inapproprié. Aujourd'hui, ils viennent d'assermenter 18 sénateurs.</ParaText>
+              <ParaText id="1258531">Je veux savoir ce que la députée de Miramichi dirait à ses étudiants. Est-ce qu'ils peuvent faire confiance à une personne qui dit une chose et qui fait le contraire?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme O'Neill-Gordon" id="2568564">
+            <PersonSpeaking>
+              <Affiliation DbId="128471" Type="2">Mme Tilly O'Neill-Gordon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258532">Monsieur le Président, je dirais qu'il ne s'agit pas là de fuites, mais bien d'annonces que les Canadiens espéraient. Ils voulaient des réponses à leurs questions. Nos ministres se sont penchés sur ces questions et ils y ont répondu au moment où les Canadiens étaient très inquiets de la situation. Je suis très heureuse de faire partie d'un gouvernement qui écoute ce que les Canadiens ont à dire et qui répond à leurs questions. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Rathgeber" id="2568566">
+            <PersonSpeaking>
+              <Affiliation DbId="128244" Type="2">M. Brent Rathgeber (Edmonton—St. Albert, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258533">Monsieur le Président, j'aimerais tout d'abord féliciter la députée de <Affiliation DbId="128471" Type="2">Miramichi</Affiliation> de son excellente adresse en réponse au discours du Trône.</ParaText>
+              <ParaText id="1258534">L'incertitude économique à l'échelle mondiale a certes fait connaître au Canada son lot de difficultés. Je suis cependant convaincu que, tous ensemble, nous saurons nous attaquer de front à ces difficultés. Je me demandais si la députée ne pourrait pas nous donner des précisions quant aux enjeux que ses électeurs jugent importants afin de renforcer l'économie locale en ce moment dans sa circonscription.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme O'Neill-Gordon" id="2568568">
+            <PersonSpeaking>
+              <Affiliation DbId="128471" Type="2">Mme Tilly O'Neill-Gordon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258535">Monsieur le Président, comme je l'ai dit tout à l'heure, j'ai rencontré de nombreux électeurs de ma circonscription lors des tables rondes que nous avons organisées. Je signale avec plaisir que notre gouvernement est prêt à intervenir immédiatement pour permettre la construction de routes, de ponts et d'autres infrastructures stratégiques, pour offrir des allègements fiscaux et pour protéger ceux qui sont le plus durement touchés par la récession actuelle. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Szabo" id="2568570">
+            <PersonSpeaking>
+              <Affiliation DbId="128094" Type="2">M. Paul Szabo (Mississauga-Sud, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258536">Monsieur le Président, le discours du Trône fait état d'un plan d'action prévoyant des dépenses favorisant la relance qui seront annoncées dans le budget. Or, l'exercice en cours ne prendra fin que dans deux mois. La députée pourrait-elle nous dire si le gouvernement est prêt à effectuer des dépenses dès maintenant, plutôt que d'attendre le début du prochain exercice pour le faire? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme O'Neill-Gordon" id="2568573">
+            <PersonSpeaking>
+              <Affiliation DbId="128471" Type="2">Mme Tilly O'Neill-Gordon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258537">Monsieur le Président, je ne saurais conjecturer sur la teneur du budget de demain. J'invite le député à patienter, comme nous tous, jusqu'à demain pour savoir quelles mesures y sont prévues. Comme on le dit aux enfants d'école, il faudra attendre encore un dodo.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Block" id="2568576">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block (Saskatoon—Rosetown—Biggar, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258538">Monsieur le Président, j'aimerais remercier la Gouverneure générale pour ses remarques bienveillantes. J'aimerais aussi remercier le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> de me permettre d'appuyer la motion en réponse au discours du Trône.</ParaText>
+              <ParaText id="1258539">Je tiens à remercier ma collègue de <Affiliation DbId="128471" Type="2">Miramichi</Affiliation> pour son éloquente allocution d'ouverture. Je suis ravie et honorée d'appuyer sa motion. Nous représentons toutes deux des régions très différentes du pays. La Saskatchewan et le Nouveau-Brunswick sont à des milliers de kilomètres de distance sur le plan géographique : les paysages, les traditions et les modes de vie y sont différents. Pourtant, je suis persuadée que si nous comparions les électeurs de <Affiliation DbId="128471" Type="2">Miramichi</Affiliation> aux bonnes gens de la circonscription de <Affiliation DbId="128336" Type="2">Saskatoon—Rosetown—Biggar</Affiliation> que j'ai le privilège de représenter, nous constaterions de nombreuses similitudes. Nous verrions que dans les deux circonscriptions se trouvent des gens qui travaillent fort, des gens qui croient qu'il faut faire preuve de responsabilité, mais qui sont aussi bons et généreux. Nous y verrions des gens qui souhaitent élever leur famille dans des collectivités sûres, à l'abri de la criminalité et de l'intimidation. Nous y trouverions des gens qui sont fiers du Canada et qui croient dans les innombrables possibilités que notre pays a à offrir. Nous y trouverions des gens qui ne s'entendent pas sur divers sujets, mais qui partagent malgré tout certaines valeurs, comme c'est le cas dans une collectivité, une province ou un parti donné. Ces gens s'entendraient sur les sujets qui comptent: la santé, le bonheur, la sécurité, la paix de l'esprit, un emploi stable, un avenir prometteur. Je crois que peu importe la province ou la région où ils vivent au Canada, les Canadiens partagent ces valeurs. </ParaText>
+              <ParaText id="1258540">Que nous vivions en Colombie-Britannique, à Terre-Neuve, dans les régions vinicoles du Sud de l'Ontario ou dans les grands espaces du Nord Canadien, ou que ce soit sur une ferme ou dans un centre urbain, nous souhaitons tous la sérénité par rapport à notre emploi, à notre revenu et notre moyen de subsistance. Peu importe de quel côté de la barrière linguistique nous sommes. La famille agricole du Québec et la famille agricole de la Saskatchewan ne parlent peut-être pas la même langue, mais elles partagent bon nombre de valeurs, d'espoirs et de rêve communs. Dans un cas comme dans l'autre, ces gens souhaitent gagner honnêtement leur vie en faisant ce qu'ils aiment le plus.</ParaText>
+              <ParaText id="1258541">Ce qui nous unit dépasse également les différences culturelles. Notre pays est vaste et divers. Les Canadiens qui y habitent représentent à peu près toutes les origines que l'on puisse imaginer, mais les différences culturelles et régionales ne les empêchent pas de vouloir donner à leurs enfants un avenir meilleur et d'être aussi de fiers Canadiens.</ParaText>
+              <ParaText id="1258542">Dans ma circonscription, mes électeurs forment deux groupes: ceux du milieu urbain de Saskatoon ouest et ceux des collectivités rurales éparpillées sur la prairie de notre belle province. Cependant, qu'ils soient urbains ou ruraux, je sais que mes électeurs souhaitent que leurs enfants grandissent et élèvent leurs familles dans le milieu qui est le leur. Ainsi sont les gens, ici comme ailleurs, partout dans notre grand pays.</ParaText>
+              <ParaText id="1258543">Je crois que les éléments qui nous unissent transcendent les lignes de partis. Les bonnes gens qui voient la vie du bon côté votent tout autant pour les conservateurs que pour les libéraux, le Bloc et le NPD. Même s'ils ne s'accordent pas sur certaines questions, les Canadiens sont davantage unis que divisés.</ParaText>
+              <ParaText id="1258544">Ce soir, quelque part dans notre grand pays, un libéral s'attablera avec un conservateur qu'il aura invité à souper. Ailleurs, un conservateur est en train d'aider son voisin néo-démocrate et un partisan du Bloc est en grand débat avec un néo-démocrate.</ParaText>
+              <ParaText id="1258545">Ce que j'essaie de dire, c'est que, partout au Canada, il se peut que de bonnes personnes ne s'accordent pas sur le plan politique, mais réussissent à vivre, à travailler et à partager de bons moments ensemble et aussi à faire cause commune dans les moments critiques. Alors, si les Canadiens de diverses allégeances politiques peuvent avoir des avis partagés sur la politique tout en collaborant ensemble dans les moments critiques, pourquoi leurs représentants ne pourraient-ils pas en faire autant? Pourquoi ne pourrions-nous pas le faire nous aussi?</ParaText>
+              <ParaText id="1258546">L'aspect le plus désolant de cette réflexion n'a pas trait au fait que les députés d'allégeances diverses sont plus loin les uns des autres que les Canadiens en général, mais plutôt au fait que, si nous ne veillons pas au grain, nous risquons de nous distancer de plus en plus des Canadiens. Et c'est un risque qui ne touche pas seulement les députés. Il touche également les membres de leur personnel, les lobbyistes, les journalistes, les universitaires, les groupes d'intérêts et même les fonctionnaires. Les députés travaillent diligemment pour accorder la priorité aux intérêts de leurs électeurs.</ParaText>
+              <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
+              <ParaText id="1258547">La Gouverneure générale fait preuve d'une éloquence indubitable, mais elle a surtout aidé le Parlement en nous permettant de retourner dans nos circonscriptions pour entendre les Canadiens nous rappeler ce qui compte vraiment pour eux.</ParaText>
+              <ParaText id="1258548">J'ai profité de la pause qui a commencé en décembre pour consulter les gens de ma circonscription, Saskatoon--Rosetown--Biggar. J'ai pu ainsi en apprendre davantage sur la population de chaque endroit. J'ai écouté les gens me parler de leurs préoccupations. Un certain nombre de particuliers ainsi que des représentants de divers organismes ont téléphoné à mon bureau pour me rencontrer. Au total, j'ai tenu des réunions ou je me suis rendue à plus de quinze endroits, dans ma circonscription.</ParaText>
+              <ParaText id="1258549">Les députés qui ont fait comme moi savent ce qui occupe l'esprit des gens. La population s'inquiète de l'économie à juste titre. Comme les autres pays, le Canada est secoué par la récession mondiale. Mais, contrairement aux autres pays, il est bien préparé pour tenir le coup. Le marché immobilier du Canada est bien encadré. Son système bancaire est solide. Sa dette est peu élevée par rapport à son PIB. La récession a mis du temps à frapper le Canada et elle n'y est pas aussi sévère que dans d'autres pays. La reprise économique devrait s'y manifester rapidement.</ParaText>
+              <ParaText id="1258550">Ce sont des nouvelles relativement bonnes, mais pour de nombreux Canadiens, il reste beaucoup de raisons de s'inquiéter. Il ne faut pas oublier les travailleurs qui ont perdu leur emploi ou qui risquent de le perdre; les Canadiens qui habitent une ville monoindustrielle et qui se demandent ce que leur réserve l'avenir; les retraités qui se font du souci à propos de leur revenu et de leurs économies; les propriétaires de petites entreprises qui subissent le resserrement du crédit et qui se demandent s'ils vont pouvoir éviter la faillite.</ParaText>
+              <ParaText id="1258551">Les inquiétudes des Canadiens ne peuvent pas pénétrer dans la bulle d'Ottawa si leurs représentants ne leur prêtent pas une oreille attentive. Les politiques et les interventions de l'État ne peuvent pas correspondre aux priorités des Canadiens à moins que nous soyons prêts à écouter ce qu'ils ont à dire. Nous devons tendre la main aux gens qui ont de bonnes idées et qui veulent en faire profiter les autres. Nous devons étendre les consultations au-delà des divisions entre les régions et entre les partis.</ParaText>
+              <ParaText id="1258552">Demain, le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> va présenter un plan d'action qui répond aux priorités des Canadiens. Nous le savons parce que notre gouvernement a fait un effort sans précédent pour élargir les consultations et donner voix au chapitre à tous les Canadiens.</ParaText>
+              <ParaText id="1258553">Voici ce que nous avons fait. Le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> et les ministres ont fait personnellement 88 visites distinctes dans les villes, grandes et petites, de Toronto à Kenora, en passant par Montréal, Halifax, Fort McMurray et Saskatoon, afin d'écouter les Canadiens. Les ministres ont tenu pas moins de 74 tables rondes pour entendre les points de vue des dirigeants d'entreprise et des dirigeants locaux.</ParaText>
+              <ParaText id="1258554">Notre gouvernement a rencontré 836 organismes, petits et grands. Notre gouvernement a sollicité des mémoires en ligne auprès du public et a reçu plus de 7 400 réponses de citoyens intéressés et préoccupés et d'organismes qui estimaient avoir leur mot à dire. De plus, 5 400 autres citoyens et organismes ont écrit directement au gouvernement pour lui faire part de leurs idées et du fruit de leurs réflexions.</ParaText>
+              <ParaText id="1258555">Notre gouvernement a tenu 102 débats et réunions avec des représentants de provinces et de territoires et a rencontré des représentants de 76 villes, petites localités et comtés du Canada, et ces chiffres ne tiennent même pas compte du nombre de Canadiens, d'organismes et d'entreprises qui se sont donné la peine de communiquer avec leur député fédéral.</ParaText>
+              <ParaText id="1258556">Qui plus est, nous n'avons cessé de tendre la main aux partis de l'opposition. Ceux qui ont accepté notre offre de bonne foi et qui ont fait des suggestions, même de portée générale, verront, je l'espère, que ce plan d'action tient compte, ne serait-ce qu'en partie, de leurs idées et de leurs priorités.</ParaText>
+              <ParaText id="1258557">Demain, les députés et tous les Canadiens prendront connaissance du plan d'action du gouvernement conservateur, qui a justement été élu par les Canadiens pour présenter ce plan, mais ce ne sera pas un plan exclusivement conservateur. Il reflétera les idées que nous avons reçues de Canadiens de toutes les allégeances politiques et il tiendra compte des circonstances exceptionnelles qui prévalent actuellement. Plutôt qu'un plan conservateur ou un plan libéral, ce sera d'abord et avant tout un plan canadien.</ParaText>
+              <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
+              <ParaText id="1258558">Ce plan visera à protéger et à créer des emplois dès aujourd'hui et à aider le Canada à créer des emplois pour l'avenir; il s'appuiera sur un solide leadership budgétaire ainsi que sur des mesures efficaces en ces temps bien incertains; il contribuera à maintenir la qualité de vie dont jouissent tant les collectivités urbaines et que les collectivités rurales de ce pays, une qualité de vie qui vaut la peine d'être préservée.</ParaText>
+              <ParaText id="1258559">Aucun plan ne peut répondre à toutes les exigences de tout le monde, mais ce plan d'action comporte des mesures judicieuses dans des domaines importants. Ce sera le plan d'action du Canada pour traverser la présente période d'incertitude. Je fais appel au jugement de tous mes collègues lorsqu'ils l'évalueront.</ParaText>
+              <ParaText id="1258560">Monsieur le Président, c'est pour moi un honneur d'appuyer cette motion et c'est avec plaisir que je le fais. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Andrews" id="2568586">
+            <PersonSpeaking>
+              <Affiliation DbId="128537" Type="2">M. Scott Andrews (Avalon, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258561">Monsieur le Président, demain, le budget devra respecter les critères suivants: il devra protéger les plus vulnérables; il devra fournir des emplois dès maintenant dans toutes les régions du pays; il devra créer les emplois de demain, le tout sans léguer à nos enfants des dettes et un déficit permanent.</ParaText>
+              <ParaText id="1258562">En septembre, le gouvernement disait aux Canadiens qu'il n'y aurait pas de récession. En novembre, il prévoyait même un excédent. Aujourd'hui, il nous annonce un premier déficit en dix ans.</ParaText>
+              <ParaText id="1258563">Comment le gouvernement a-t-il pu se tromper ainsi sur l'état de notre économie pendant que tous les autres pays du G8 étaient déjà à prendre des mesures? Pourquoi a-t-il vidé les coffres pendant que les choses allaient bien? Ce faisant, il a compromis notre capacité à protéger notre pays pendant cette période difficile. Pourquoi le gouvernement a-t-il refusé d'agir depuis la prorogation du Parlement il y a un mois? Pendant ce temps, plus de 100 000 emplois se volatilisaient au Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568589">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258564">Monsieur le Président, les circonstances actuelles sont sans précédent. Le gouvernement est à l'écoute des Canadiens. Les Canadiens étaient inquiets. Ils avaient besoin d'être rassurés au sujet de notre économie. Je suis persuadée que le député est conscient qu'il serait inopportun pour moi de spéculer sur des éléments précis du budget qui doit être présenté demain par le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> ou de revenir sur le passé. Nous voulons regarder en avant.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme DeBellefeuille" id="2568591">
+            <PersonSpeaking>
+              <Affiliation DbId="128419" Type="2">Mme Claude DeBellefeuille (Beauharnois—Salaberry, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258565">Monsieur le Président, depuis deux ans, ma circonscription a connu un grand nombre de fermetures d'usines: d'abord les fermetures d'usines du textile à Huntingdon, puis celles de Gildan et de Goodyear à Valleyfield où plus de 1 000 emplois ont été perdus.</ParaText>
+              <ParaText id="1258566">De plus, la semaine dernière, on annonçait la fermeture de Rio Tinto Alcan à Beauharnois où 250 travailleurs se retrouvent sans emploi.</ParaText>
+              <ParaText id="1258567">Depuis deux ans, le secteur manufacturier au Québec est en crise, et ce gouvernement nie carrément ce problème en n'intervenant pas, en laissant l'économie faire ces dégâts — c'est une idéologie de droite de non-intervention.</ParaText>
+              <ParaText id="1258568">Comment la députée peut-elle expliquer le fait que, depuis l'arrivée au pouvoir des conservateurs, le secteur manufacturier au Québec a été abandonné? Les travailleurs et les travailleuses d'usines des secteurs manufacturier et forestier ont été abandonnés. Comment peut-elle expliquer cela aujourd'hui?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568593">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258569">Monsieur le Président, le gouvernement a écouté les Canadiens. Ils sont préoccupés par la récession mondiale et son impact sur leurs emplois, leur épargne et leurs collectivités. Le gouvernement a écouté les Canadiens de toutes les régions.</ParaText>
+              <ParaText id="1258570">Le gouvernement propose un train de mesures de stimulation qui sera son plan d'action. Il va stimuler l'économie par des mesures gouvernementales directes, mais il encouragera en même temps les investissements privés.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Charlton" id="2568595">
+            <PersonSpeaking>
+              <Affiliation DbId="128220" Type="2">Mme Chris Charlton (Hamilton Mountain, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258571">Monsieur le Président, le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> demande aux Canadiens de lui faire confiance pour qu'il puisse mettre en oeuvre des mesures économiques contre lesquelles il s'est opposé tout au long de sa carrière politique, des mesures contre lesquelles il s'est opposé à la Chambre... </ParaText>
+              <ParaText id="1258572">
+                <B>Des voix:</B> Oh, oh!</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2568596">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258573">À l'ordre, s'il vous plaît. La députée de Hamilton Mountain a la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Charlton" id="2568597">
+            <PersonSpeaking>
+              <Affiliation DbId="128220" Type="2">Mme Chris Charlton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258574">Monsieur le Président, il était contre ces mesures à la Chambre. Il était contre durant la dernière campagne électorale et même dans l'énoncé économique qu'il a présenté il y a tout juste sept semaines. Peux-t-on vraiment compter sur le gouvernement pour faire ce qu'il affirme maintenant soutenir? </ParaText>
+              <ParaText id="1258575">Permettez-moi de donner l'exemple de l'infrastructure. Dans le budget de 2008, le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> a annoncé, comme il l'a dit, « l’investissement fédéral le plus important dans l’infrastructure publique depuis la Seconde Guerre mondiale ». Le problème, c'est que les fonds n'ont tout simplement pas été versés. Les provinces et les municipalités qui ont grand besoin de cet argent attendent encore aujourd'hui. Pourquoi devrions-nous faire confiance au gouvernement alors qu'il refait les mêmes promesses qu'il n'a aucunement l'intention de tenir?</ParaText>
+              <ParaText id="1258576">Je demande à la députée de <Affiliation DbId="128336" Type="2">Saskatoon—Rosetown—Biggar</Affiliation> pourquoi les électeurs devraient la croire maintenant, pourquoi ils devraient lui faire confiance et pourquoi les députés devraient avoir confiance en son gouvernement?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568599">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258577">Monsieur le Président, nous traversons une période sans précédent qui exige des mesures sans précédent. Je peux garantir à la députée que le Canada prendra d'importantes mesures sur plusieurs années pour protéger les travailleurs, les entreprises et les familles durant l'actuelle récession mondiale. Le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> donnera plus de détails sur notre plan d'action quand il présentera le nouveau budget fédéral à la Chambre demain.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Lobb" id="2568601">
+            <PersonSpeaking>
+              <Affiliation DbId="128328" Type="2">M. Ben Lobb (Huron—Bruce, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258578">Monsieur le Président, je remercie la députée de <Affiliation DbId="128336" Type="2">Saskatoon—Rosetown—Biggar</Affiliation> pour son discours dans lequel elle a si éloquemment expliqué les défis que le Canada devra surmonter en cette période d'incertitude économique.</ParaText>
+              <ParaText id="1258579">La députée pourrait-elle souligner certaines des mesures qui, selon elle, aideront l'économie canadienne en ces temps difficiles?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568603">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258580">Monsieur le Président, voici un extrait du discours du Trône:</ParaText>
+              <ParaText id="1258581">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Donnant suite aux idées et suggestions constructives qu’il a reçues, notre gouvernement présentera demain un plan de relance économique [...]</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258582">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Il s’agit d’un plan d’action.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258583">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre gouvernement prend des mesures immédiates pour bâtir le Canada par de nouveaux investissements dans les infrastructures.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258584">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre gouvernement agit pour préserver la stabilité du système financier.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258585">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre gouvernement agit pour assurer aux entreprises et aux consommateurs l’accès au crédit.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258586">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre gouvernement agit pour appuyer les industries canadiennes en difficulté — notamment dans les secteurs forestiers et manufacturiers, de l’automobile, du tourisme et de l’agriculture — et pour protéger les familles et les collectivités qui en dépendent.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="1258587">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Notre gouvernement agit pour protéger les citoyens vulnérables: les chômeurs et les travailleurs à faible revenu, les aînés, les Autochtones et tous ceux qui sont le plus touchés par la récession économique mondiale.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Bagnell" id="2568607">
+            <PersonSpeaking>
+              <Affiliation DbId="128784" Type="2">L'hon. Larry Bagnell (Yukon, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258588">Monsieur le Président, comme le discours du Trône, la réponse que la députée vient de donner fait mention de certains secteurs, mais pas un mot sur le Nord, l'Arctique et un de ses secteurs les plus importants, les mines. Pourquoi?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568609">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258589">Monsieur le Président, je suis convaincue que le député sait qu'il serait inapproprié que je présume du contenu du budget que le <Affiliation DbId="78777" Type="4">ministre des Finances</Affiliation> présentera demain. Je puis cependant assurer au député que le gouvernement prendra des mesures sérieuses, solides et à long terme pour protéger les travailleurs, les entreprises et les familles canadiennes pendant la période de récession mondiale.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Lemay" id="2568611">
+            <PersonSpeaking>
+              <Affiliation DbId="128557" Type="2">M. Marc Lemay (Abitibi—Témiscamingue, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258590">Monsieur le Président, je suis un peu estomaqué d'entendre ma collègue d'en face mentionner qu'elle ne peut pas parler du prochain budget, qui sera déposé demain, j'en conviens.</ParaText>
+              <ParaText id="1258591">Mais il y a exactement huit mois que les communautés autochtones attendent plus de 300 millions de dollars. Ma collègue d'en face peut-elle répondre à cette question: où est l'argent? Où sont les 300 millions de dollars que les communautés autochtones attendent depuis huit mois?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568614">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258592">Monsieur le Président, je souligne que notre gouvernement conservateur a fait plus pour les Premières nations et les Autochtones du Canada que tout autre gouvernement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Davies (Vancouver-Est)" id="2568616">
+            <PersonSpeaking>
+              <Affiliation DbId="128493" Type="2">Mme Libby Davies (Vancouver-Est, NPD)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258593">Monsieur le Président, il est renversant d'entendre la députée dire qu'elle a entendu les demandes des Canadiens et que le gouvernement y donnera suite. Il suffit de regarder ce qui se passe dans nos grandes villes, entre autres le déficit en matière d'infrastructure et la pénurie de logement. Qu'est-il arrivé à la promesse concernant les garderies? C'est incroyable. Depuis qu'il est au pouvoir, le gouvernement n'a pas tenu parole à l'égard de ces questions, pourquoi devrions-nous croire qu'il le fera cette fois-ci? Il laissera tomber les Canadiens encore une fois. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Block" id="2568618">
+            <PersonSpeaking>
+              <Affiliation DbId="128336" Type="2">Mme Kelly Block</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258594">Monsieur le Président, au cours des six dernières semaines, le <Affiliation DbId="128634" Type="2">premier ministre</Affiliation>, nos ministres et les députés ont participé aux consultations prébudgétaires qui ont eu lieu dans l'ensemble du Canada. Ces consultations ont été les plus complètes et les plus vastes de l'histoire canadienne. Le <Affiliation DbId="128634" Type="2">premier ministre</Affiliation> lui-même a tenu des tables rondes d'un bout à l'autre du pays. Ce processus a amené le premier ministre et les ministres à se rendre à plus de 84 occasions dans diverses localités. Nous avons prêté l'oreille aux préoccupations des Canadiens, notamment celles des collectivités et de leurs dirigeants en ce qui concerne l'infrastructure. Les députés doivent attendre à demain pour connaître la suite du budget.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Ignatieff" id="2568620">
+            <PersonSpeaking>
+              <Affiliation DbId="129314" Type="96">M. Michael Ignatieff (chef de l'opposition, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258595">Monsieur le Président, je profite de l'occasion pour féliciter les députées de <Affiliation DbId="128336" Type="2">Saskatoon—Rosetown—Biggar</Affiliation> et de <Affiliation DbId="128471" Type="2">Miramichi</Affiliation>de leur contribution très animée au débat. </ParaText>
+              <ParaText id="1258596">Avant de demander l'ajournement, j'aimerais simplement faire une observation. Dans le discours du Trône, il est question de coopération ouverte et non partisane; c'est là un souhait touchant.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1258597">Toutefois, je ne peux oublier que le gouvernement a tenu un autre langage il y a à peine six semaines, lorsqu'il a présenté sa mise à jour économique l'automne dernier. Son langage, cette fois-là, était provocateur et partisan, et rien n'était prévu, rien, pour protéger les plus faibles, ni pour préserver les emplois ni pour créer les emplois de demain.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="1258598">Voilà pourquoi, il est difficile de faire confiance au gouvernement. On ne sait pas quel discours, quels propos croire. Le gouvernement a une double personnalité, si je peux m'exprimer ainsi. Il faut attendre à demain pour voir s'il a réglé ce conflit de personnalité et s'il présentera un budget à l'égard duquel nous, de ce côté-ci de la Chambre, pourront lui accorder notre confiance.</ParaText>
+              <ParaText id="1258599">Entre-temps, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="16">Motion</ProceduralText>
+              <ParaText id="1258600">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que le débat soit maintenant ajourné.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ProceduralText TocType="TCC" TocText="Sur la motion de M. Michael Ignatieff ajournement du débat" id="17">(Sur la motion de M. Michael Ignatieff, le débat est ajourné.)</ProceduralText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2568626">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258601">Juste avant de donner la parole au leader du gouvernement à la Chambre, je voudrais inviter tous les députés à une rencontre amicale qui se tiendra à la pièce 216, immédiatement après l'ajournement de la séance, qui ne devrait pas tarder. J'invite tous les députés à y participer. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="1258602">C'est un plaisir de vous accueillir encore une fois à cette deuxième session de notre 40<Sup>e</Sup> législature.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Hill" id="2568627">
+            <PersonSpeaking>
+              <Affiliation DbId="129425" Type="4">L'hon. Jay Hill (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258603">En effet, monsieur le Président, elle ne devrait pas tarder et je propose donc: </ParaText>
+              <ProceduralText TocType="TPC" id="18">Motion</ProceduralText>
+              <ParaText id="1258604">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Que la Chambre s'ajourne maintenant. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="19"> (La motion est adoptée.) </ProceduralText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="2568628">
+            <PersonSpeaking>
+              <Affiliation DbId="128909" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="1258605">La Chambre s'ajourne à demain, à 14 heures, conformément à l'ordre adopté plus tôt aujourd'hui. </ParaText>
+              <ParaText id="1258606"> (La séance est levée à 15 h 37.) </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

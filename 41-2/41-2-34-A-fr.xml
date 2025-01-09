@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+============================================================================================
+
+Chambre des communes - Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
+importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
+peuvent être filtrées et triées pour créer des rapports personnalisés.
+Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
+façon d’importer des données externes.
+
+Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
+http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
+
+============================================================================================
+        -->
+<Hansard xml:lang="FR" id="8195398">
+  <StartPageNumber>2079</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 147</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 034-A</ExtractedItem>
+    <ExtractedItem Name="Session">2<Sup>e</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">41<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le jeudi 12 décembre 2013</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Présidence de l'honorable Andrew Scheer</ExtractedItem>
+    <ExtractedItem Name="Institution">CHAMBRE DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(La table des matières quotidienne des délibérations se trouve à la fin du présent numéro.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">DÉBATS DES COMMUNES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">12 décembre 2013</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 034 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 034 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 034 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">147</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">034</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">12</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">12</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2013</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2013/12/12 17:40:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">2</ExtractedItem>
+    <ExtractedItem Name="Suffix">A</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="3536924">La séance est ouverte à 17:40 heures.</ParaText>
+      <Prayer>Prière</Prayer>
+      <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+      <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+      <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="8195401">
+        <PersonSpeaking>
+          <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+        <Content>
+          <ParaText id="3536925"> Je désire informer la Chambre que, conformément au paragraphe 28(4) du Règlement, j'ai convoqué la Chambre aujourd'hui uniquement en vue de la sanction royale qui sera octroyée à certains projets de loi.</ParaText>
+        </Content>
+      </Intervention>
+      <SubjectOfBusiness id="8195404">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Message du Sénat</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="8195412">
+            <PersonSpeaking>
+              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="3536926">J'ai l'honneur de faire savoir à la Chambre que le Sénat a transmis un message pour l'informer qu'il a adopté les projets de loi suivants: le projet de loi <Document DbId="6263562" Type="3">C-7, Loi modifiant la Loi sur les musées afin de constituer le Musée canadien de l'histoire et apportant des modifications corrélatives à d'autres lois</Document>; le projet de loi <Document DbId="6314588" Type="3">C-19, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2014</Document>; et le projet de loi <Document DbId="6258538" Type="3">C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</Document>.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </Intro>
+    <OrderOfBusiness id="8195403" Rubric="RoyalAssent">
+      <OrderOfBusinessTitle>Sanction royale</OrderOfBusinessTitle>
+      <CatchLine>Sanction royale</CatchLine>
+      <SubjectOfBusiness>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="8195420">
+            <PersonSpeaking>
+              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="3536927">J'ai l'honneur d'informer la Chambre que j'ai reçu la lettre suivante:</ParaText>
+              <ParaText id="3536928">
+                <Quote inline="block">
+                  <QuotePara Align="Centre">Le secrétaire du gouverneur général et chancelier d'armes</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3536929">
+                <Quote inline="block">
+                  <QuotePara Align="Right">Le 12 décembre 2013</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3536930">
+                <Quote inline="block">
+                  <QuotePara Align="Left" IndentFirst="1" IndentRest="1">Monsieur le Président, </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3536931">
+                <Quote inline="block">
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">J'ai l'honneur de vous aviser que le très honorable David Johnston, gouverneur général du Canada, se rendra à la salle du Sénat aujourd'hui, le 12 décembre 2013, à 17 h 30, afin d’octroyer la sanction royale à certains projets de loi. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3536932">
+                <Quote inline="block">
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Veuillez agréer, Monsieur le Président, l'assurance de ma haute considération.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="3536933">
+                <Quote inline="block">
+                  <QuotePara Align="Centre">Stephen Wallace</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="8195416">
+        <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+        <SubjectOfBusinessContent>
+          <ParaText id="3536934">L'huissier du bâton noir apporte le message suivant:</ParaText>
+          <ParaText id="3536935">
+            <Quote>
+              <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Monsieur le Président, c'est le désir de Son Excellence le gouverneur général du Canada que cette honorable Chambre se rende immédiatement auprès de lui dans la salle du Sénat.
+
+</QuotePara>
+            </Quote>
+          </ParaText>
+          <ParaText id="3536936">En conséquence, le Président et la Chambre se rendent au Sénat.</ParaText>
+          <ParaText id="3536937">
+            <I>Et les députés étant revenus à la Chambre des communes:</I>
+          </ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="8195413">
+            <PersonSpeaking>
+              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="3536938">J'ai l'honneur de faire savoir à la Chambre que, lorsqu'elle s'est rendue auprès de Son Excellence le gouverneur général au Sénat, il a plu à Son Excellence d’octroyer, au nom de Sa Majesté, la sanction royale aux projets de loi suivants:</ParaText>
+              <ParaText id="3536939">
+                <Document DbId="6263562" Type="3">C-7, Loi modifiant la Loi sur les musées afin de constituer le Musée canadien de l'histoire et apportant des modifications corrélatives à d'autres lois</Document>—Chapitre 38, 2013.</ParaText>
+              <ParaText id="3536940">
+                <Document DbId="6314588" Type="3">C-19, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2014</Document>—Chapitre 39, 2013.</ParaText>
+              <ParaText id="3536941">
+                <Document DbId="6258538" Type="3">C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</Document>—Chapitre 40, 2013.</ParaText>
+              <ParaText id="3536942">Comme il est 17 h 55, la Chambre s'ajourne au lundi 27 janvier 2014, à 11 heures, conformément aux paragraphes <?bk?>28(2)<?ek?> et 24(1) du Règlement.</ParaText>
+              <ParaText id="3536943">(La séance est levée à 17 h 55.)</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>
