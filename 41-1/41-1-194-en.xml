@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+<?xml version='1.0' encoding='utf8'?>
 <Hansard xml:lang="EN" id="7843810">
   <StartPageNumber>13007</StartPageNumber>
   <DocumentTitle>
@@ -51,7 +32,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
     <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
     <ExtractedItem Name="SessionNumber">1</ExtractedItem>
-    <ExtractedItem Name="InCameraNote" />
+    <ExtractedItem Name="InCameraNote"/>
   </ExtractedInformation>
   <HansardBody>
     <Intro>
@@ -69,8 +50,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <ParaText id="3137962">The House resumed from December 6 consideration of the motion that Bill  <Document DbId="5156729" Type="3">C-15, An Act to amend the National Defence Act and to make consequential amendments to other Acts</Document>, be read the second time and referred to a committee, and of the motion that this question be now put.</ParaText>
           <ProceduralText TocType="TPC" id="1">Bill C-15. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Nunez-Melo" id="7843820">
-            <PersonSpeaking>
-              <Affiliation DbId="170249" Type="2">Mr. José Nunez-Melo (Laval, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170249" Type="2">Mr. José Nunez-Melo (Laval, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3137963">Mr. Speaker, first, we oppose passing this bill at second reading.</ParaText>
               <ParaText id="3137964">On October 7, 2011, the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> introduced Bill <Document DbId="5156729" Type="3">C-15, An Act to amend the National Defence Act and to make consequential amendments to other Acts</Document>.</ParaText>
@@ -100,8 +80,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="10" Mn="15">(1015)</Timestamp>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Larose" id="7843888">
-            <PersonSpeaking>
-              <Affiliation DbId="170425" Type="2">Mr. Jean-François Larose (Repentigny, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170425" Type="2">Mr. Jean-François Larose (Repentigny, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3137982">Mr. Speaker, I thank the hon. member for his speech. I was a member of the Canadian Forces and I went through some very challenging training. My experience has shown me that soldiers are subjected to conditions that are extremely different from what is experienced in the civilian world.</ParaText>
               <ParaText id="3137983">People are encouraged to join the Canadian Forces in order to gain experience and come out with some incredible tools. I made mistakes, minor ones. It happens to everyone. For example, you go before a superior officer and get charged, fined, patted on the back and told not to do it again. That is part of life's lessons. We are talking about young people who enlist at the age of 18, 19 or 20 and who need guidance. I do not think that providing guidance for minor offences involves encouraging young people to join the Canadian Forces, exposing them to extreme conditions and handing them a criminal record on their way out. That does not work.</ParaText>
@@ -109,8 +88,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Nunez-Melo" id="7843890">
-            <PersonSpeaking>
-              <Affiliation DbId="170249" Type="2">Mr. José Nunez-Melo</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170249" Type="2">Mr. José Nunez-Melo</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3137985">Mr. Speaker, I thank my distinguished colleague from <Affiliation DbId="170425" Type="2">Repentigny</Affiliation> for his question.</ParaText>
               <ParaText id="3137986">As I explained, there is a glaring flaw in the current bill regarding the two systems: civilian and military. The military side is too demanding, perhaps excessively so, when minor offences are handled a certain way. It is excessive for members of the Canadian Forces to get a criminal record when they are found guilty of having committed these offences.</ParaText>
@@ -118,8 +96,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Ashton" id="7843893">
-            <PersonSpeaking>
-              <Affiliation DbId="170756" Type="2">Ms. Niki Ashton (Churchill, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170756" Type="2">Ms. Niki Ashton (Churchill, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3137988">Mr. Speaker, I would like to thank my colleague for his excellent speech on a very important issue. It does not receive much attention, because we are discussing the military system, to which average Canadians do not have access, and about which they know very little. </ParaText>
               <ParaText id="3137989">This bill concerns the concept of justice. In the NDP we often talk about this government's lack of justice. We see it in this bill, and in general in the Conservative government's platform. It appears to give priority to punishment and to victims, for example, but in fact, it makes things worse and does not help in achieving this idea of justice.</ParaText>
@@ -128,8 +105,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="10" Mn="20">(1020)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Nunez-Melo" id="7843895">
-            <PersonSpeaking>
-              <Affiliation DbId="170249" Type="2">Mr. José Nunez-Melo</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170249" Type="2">Mr. José Nunez-Melo</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3137991">Mr. Speaker, once again I thank my distinguished colleague for her precise comments and her question about the word “justice”. It is true that the term “justice” is subject to adulteration, confusion and misinterpretation. In fact, the end goal of justice is to render a fair decision in every sense of that word, the whole nine yards.</ParaText>
               <ParaText id="3137992"> When there are flaws, for instance, when the judge is the accused person's commanding officer, there is a serious problem. In my opinion, that should be corrected at second reading, using the amendments proposed by the NDP.</ParaText>
@@ -137,8 +113,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Marston" id="7843899">
-            <PersonSpeaking>
-              <Affiliation DbId="170345" Type="2">Mr. Wayne Marston (Hamilton East—Stoney Creek, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170345" Type="2">Mr. Wayne Marston (Hamilton East—Stoney Creek, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3137993">Mr. Speaker, as I start this speech, I am reminded of several historical situations where military commissions failed a society. I go back to the assassination of Abraham Lincoln in the United States and the Mary Surratt case. She had run a boarding house where the conspirators had met but had nothing to do with the conspiracy. She was put before a military commission and she was not allowed to speak, and neither were her lawyers, and ultimately she and some others were hanged. That led to a change in the U.S. at that time, which gave every citizen habeas corpus rights, the right to face an accuser to get the evidence against them.</ParaText>
               <ParaText id="3137994"> Those who have been here for a couple of terms will know that I spoke out on behalf of Omar Khadr many times in this place, the reason being that the military commission in Guantanamo had been moved off-site to avoid the changes that had been brought in by the Mary Surratt case. From our perspective in Canada, that was seen as an abuse by some, and not so much by others. </ParaText>
@@ -158,8 +133,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="10" Mn="30">(1030)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Ravignat" id="7843905">
-            <PersonSpeaking>
-              <Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138005">Mr. Speaker, I listened closely to my colleague's speech.</ParaText>
               <ParaText id="3138006">Here is the distinction: a person is either a soldier or a civilian. As he understands the principle, why should a soldier really be treated differently from any other citizen?</ParaText>
@@ -167,8 +141,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Marston" id="7843907">
-            <PersonSpeaking>
-              <Affiliation DbId="170345" Type="2">Mr. Wayne Marston</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170345" Type="2">Mr. Wayne Marston</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138007">Mr. Speaker, historically in Roman and Greek times the Spartans had terrible disciplinary measures, which I will not go into, but they were pretty grotesque. There has always been severity in the kinds of punishment meted out in our military. In many cases that was used to drive people forward in battle, to ensure that they did their duty as seen fit. However, the reality is that we are not talking about people in battle. We are talking about people who, in their everyday duties as military personnel, come into conflict with the military's rules and regulations and find themselves before a tribunal without rights that are really essential to ensuring a balance.</ParaText>
               <ParaText id="3138008">Later today I will be making another speech on Bill <Document DbId="5295287" Type="4">C-377</Document> and will talk about questioning authority. That is the one thing that the military does not wish a service member to do; the military sees that as almost an offence in itself. </ParaText>
@@ -176,8 +149,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Opitz" id="7843910">
-            <PersonSpeaking>
-              <Affiliation DbId="170886" Type="2">Mr. Ted Opitz (Etobicoke Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170886" Type="2">Mr. Ted Opitz (Etobicoke Centre, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138010">Mr. Speaker, I thank the hon. member for his service in the 1960s. I too served in the military, but regarding the comments made by the member from Laval, I was also a commanding officer. I served for over 33 years and I understand the military justice system. I understand that soldiers can occasionally get into trouble and have to deal with that.</ParaText>
               <ParaText id="3138011">Nonetheless, the summary trial system does give the service member the opportunity to choose court martial or summary trial, and that person does have recourse to assisting officers and other elements that are put in place for them. Having been part of this for well over three decades, I saw this unfold. Here I would point out that Justice Lamer in fact made his recommendations with the military and military justice in mind, because soldiers do deserve a transparent system under the charter. On this I think we all agree.</ParaText>
@@ -186,8 +158,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="10" Mn="35">(1035)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Marston" id="7843913">
-            <PersonSpeaking>
-              <Affiliation DbId="170345" Type="2">Mr. Wayne Marston</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170345" Type="2">Mr. Wayne Marston</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138013">Mr. Speaker, I also want to thank the member for the service he has given. I was unaware of it. We should occasionally pause and give credit to where it is due. I do not speak much about my personal service because I was only in the service in 1963-64 in a sapper apprentice program. I applied for release and went back to high school. I have never felt ingrained in it in the same fashion as someone who made a career in it.</ParaText>
               <ParaText id="3138014">When we discussed the matter with our critic, he recommended that we not support this legislation. However, the reality in this place is that the government has a majority and the chances are that the bill will go to committee. </ParaText>
@@ -196,8 +167,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Genest-Jourdain" id="7843915">
-            <PersonSpeaking>
-              <Affiliation DbId="170604" Type="2">Mr. Jonathan Genest-Jourdain (Manicouagan, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170604" Type="2">Mr. Jonathan Genest-Jourdain (Manicouagan, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138016">Mr. Speaker, it was after listening to my colleagues' speeches on the bill to amend the National Defence Act that I thought it would be appropriate to speak as well to ensure that we explore the legal concepts associated with the matter before us.</ParaText>
               <ParaText id="3138017">I would invite my colleagues to go beyond the briefing notes from the House, to distance themselves from the talking points, but not from the party's position. I therefore invite them to conduct their own research and engage in an intellectual and mental exercise. I think our audience, those who watch us regularly, would like that. Sometimes the speeches we hear in this House can be redundant because people simply repeat the information they have been given, it is a rehash.</ParaText>
@@ -228,8 +198,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="10" Mn="45">(1045)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Opitz" id="7843921">
-            <PersonSpeaking>
-              <Affiliation DbId="170886" Type="2">Mr. Ted Opitz (Etobicoke Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170886" Type="2">Mr. Ted Opitz (Etobicoke Centre, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138035">Mr. Speaker, I applaud the member for doing his homework. I know he is a lawyer and clearly an intelligent young fellow who has done the comparison and looked at the Queen's Regulations and Orders, which is quite a large document.</ParaText>
               <ParaText id="3138036">We have had three chief justices, Justices Dickson, Lamer and LeSage, all doing this work and concluding very similar things, which is the military justice system needs something transparent on which soldiers can rely. The independent reports of former chief justices Dickson in 1997, Lamer in 2003 and LeSage in 2012 said that the summary trial system was fair.</ParaText>
@@ -237,8 +206,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7843922">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138038">Before I go to the hon. member, I would remind all hon. members to address their remarks and questions directly to the Chair and not to their colleagues.</ParaText>
               <ParaText id="3138039">The hon. member for Manicouagan.</ParaText>
@@ -246,8 +214,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Genest-Jourdain" id="7843923">
-            <PersonSpeaking>
-              <Affiliation DbId="170604" Type="2">Mr. Jonathan Genest-Jourdain</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170604" Type="2">Mr. Jonathan Genest-Jourdain</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138040">Mr. Speaker, I thank my hon. colleague for the question.</ParaText>
               <ParaText id="3138041">I would simply remind him of my final point regarding the right to legal counsel and the tremendous amount of flexibility that is granted to the decision maker, the arbitrator in summary trials. I have my doubts about this; some unanswered questions remain.</ParaText>
@@ -255,16 +222,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Larose" id="7843925">
-            <PersonSpeaking>
-              <Affiliation DbId="170425" Type="2">Mr. Jean-François Larose (Repentigny, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170425" Type="2">Mr. Jean-François Larose (Repentigny, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138043">Mr. Speaker, I thank my hon. colleague for his speech. He is himself a lawyer, and we are very impressed by the depth of his knowledge.</ParaText>
               <ParaText id="3138044">I wonder if he has any comments to make about the amendments proposed in March 2011 in the context of Bill <Document DbId="4620437" Type="3">C-41</Document>, which was similar to this one. We want to increase the number of minor offences from five to 27. As a former member of the military myself, I am curious to know why it was decided that only five minor offences are important, and not 27, considering the impact the army can have on us.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Genest-Jourdain" id="7843927">
-            <PersonSpeaking>
-              <Affiliation DbId="170604" Type="2">Mr. Jonathan Genest-Jourdain</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170604" Type="2">Mr. Jonathan Genest-Jourdain</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138045">Mr. Speaker, I thank my hon. colleague for the question.</ParaText>
               <ParaText id="3138046">I did not go over every offence that was suggested. At the time, I simply looked at the general documents. However, there are things like drunkenness that could lead to charges and a summary trial in the military justice system.</ParaText>
@@ -276,8 +241,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="10" Mn="50">(1050)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Giguère" id="7843929">
-            <PersonSpeaking>
-              <Affiliation DbId="170545" Type="2">Mr. Alain Giguère (Marc-Aurèle-Fortin, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170545" Type="2">Mr. Alain Giguère (Marc-Aurèle-Fortin, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138051">Mr. Speaker, we are going to talk about military justice, which is a very special area within the justice system. </ParaText>
               <ParaText id="3138052">Military justice differs from traditional justice in that the goal of the former is to ensure respect for the military hierarchy, while the principle underlying the latter is to ensure harmonious relationships between equals.</ParaText>
@@ -315,8 +279,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Kenora Swim Team</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rickford" id="7843940">
-            <PersonSpeaking>
-              <Affiliation DbId="170762" Type="2">Mr. Greg Rickford (Kenora, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170762" Type="2">Mr. Greg Rickford (Kenora, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138068">Mr. Speaker, I would like to take this opportunity to congratulate the Kenora Swimming Sharks on their fantastic showing at the Prairie Winter International Swim Meet in Winnipeg this past weekend.</ParaText>
               <ParaText id="3138069">Kayla Martin not only shattered her personal best time, knocking 2.6 seconds off of her 1,500-metre freestyle and more than a second off of her 200-metre freestyle, she also reached two national times in both events and took home gold and silver medals. Bryce Jones earned six medals of his own, taking home gold in the 100-metre backstroke and collecting five silver medals in other heats. Gabe Mastromateo, just 10 years old, took home two gold medals in the 100-metre and 200-metre breaststroke. Kira Kuzemchuk, Hanna Stoliker, Winnie Boucha and Olivia Kroeker, all took home gold, silver and bronze medals. </ParaText>
@@ -331,8 +294,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>International Volunteer Day</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Laverdière" id="7843943">
-            <PersonSpeaking>
-              <Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138072">Mr. Speaker, Wednesday was International Volunteer Day.</ParaText>
               <ParaText id="3138073">In my riding, as in ridings across the country, many people give their time and expertise to support various causes in their communities. Thousands of people also volunteer in developing countries to help eradicate poverty, provide health care and education, and support democratic development.</ParaText>
@@ -347,8 +309,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Christmas Season</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boughen" id="7843946">
-            <PersonSpeaking>
-              <Affiliation DbId="170484" Type="2">Mr. Ray Boughen (Palliser, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170484" Type="2">Mr. Ray Boughen (Palliser, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138076">Mr. Speaker, the Christmas season is a wonderful time of the year, a season of good cheer and good will. </ParaText>
               <ParaText id="3138077">With this wonderful spirit of Christmas upon us, I encourage all Canadians to take time out of their busy schedules to bless someone in need. Through donating an unwrapped toy to a toy drive, one can brighten a child's face all year. Through giving a food basket to a needy family, one could lift the weight off the shoulders of parents during this joyous season. Through rolling up one's sleeves to lend a pint of blood, one could positively impact the health of three people.</ParaText>
@@ -364,10 +325,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Sainte-Angèle Parish in Saint-Léonard</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Pacetti" id="7843949">
-            <PersonSpeaking>
-              <Affiliation DbId="170377" Type="2">Mr. Massimo Pacetti (Saint-Léonard—Saint-Michel, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170377" Type="2">Mr. Massimo Pacetti (Saint-Léonard—Saint-Michel, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="3138081">Mr. Speaker, on October 28, 2012, I had the pleasure of attending the closing mass for the 50th anniversary celebrations of Sainte-Angèle Parish in Saint-Léonard. <Sup /></ParaText>
+              <ParaText id="3138081">Mr. Speaker, on October 28, 2012, I had the pleasure of attending the closing mass for the 50th anniversary celebrations of Sainte-Angèle Parish in Saint-Léonard. <Sup/></ParaText>
               <ParaText id="3138082">What a way to celebrate an anniversary: with a ceremony in different languages presided by His Excellency Msgr. Christian Lépine, Archbishop of Montreal, who blessed 25 stained-glass windows, 22 of them illustrating the Apostles' Creed. The windows were designed by Léo Schryburt, who spent many hours creating them with the assistance of craftsman Gino Saracino. These exceptional works of art were made possible with the financial support of many parishioners who were proud to contribute to the beauty of their church. </ParaText>
               <ParaText id="3138083">I would like to recognize the exceptional work of Reverend Jean-Pierre Couturier, who has a talent for bringing people together. He managed to gather people of different generations and ethnicities to create a cultural community that reflects our country.</ParaText>
               <ParaText id="3138084">Congratulations to the members of this beautiful community and long life to Sainte-Angèle parish.</ParaText>
@@ -381,8 +341,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Town of Melita</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Tweed" id="7843953">
-            <PersonSpeaking>
-              <Affiliation DbId="170617" Type="2">Mr. Merv Tweed (Brandon—Souris, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170617" Type="2">Mr. Merv Tweed (Brandon—Souris, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138085">Mr. Speaker, it was my pleasure to be in Melita on Saturday, November 24, to celebrate upgrades to its arena with help from our government's community infrastructure improvement fund. </ParaText>
               <ParaText id="3138086">While in Melita, the sense of pride for community was evident and something to be admired. The town was busy with events, including the Santa Claus parade and a homemade dinner as a fundraiser for the rink, which was capped off with an exciting high school hockey game. </ParaText>
@@ -398,8 +357,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Montreal's West Island Community</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Blanchette-Lamothe" id="7843956">
-            <PersonSpeaking>
-              <Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138090">Mr. Speaker, it is already December. I would therefore like to take this opportunity to recognize those who work hard to make the West Island such a lively and colourful community as the holidays approach.</ParaText>
               <ParaText id="3138091">First, I would like to thank community organizations such as WIAIH, which provides services to families of people with intellectual disabilities and which organized an evening of celebration for its members involving a dinner, gifts, a dance and even a visit from Santa Claus.</ParaText>
@@ -416,8 +374,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Human Rights</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Grewal" id="7843960">
-            <PersonSpeaking>
-              <Affiliation DbId="170620" Type="2">Mrs. Nina Grewal (Fleetwood—Port Kells, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170620" Type="2">Mrs. Nina Grewal (Fleetwood—Port Kells, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138096">Mr. Speaker, the protection and promotion of human rights is a hallmark of Canada's foreign policy. As a free nation, Canada is proud to promote and protect the fundamental liberties of people around the world. That is why our government is pursuing a principled, values-based foreign policy in working toward furthering human dignity, respect and tolerance.</ParaText>
               <ParaText id="3138097">We are speaking out on the issues that matter to Canadians, whether it is the role and treatment of women around the world, or the persecution of gays, or the cowardly and targeted attacks on those who pray in the sanctity of churches, temples, mosques and synagogues.</ParaText>
@@ -431,8 +388,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Holiday Season</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Glover" id="7843963">
-            <PersonSpeaking>
-              <Affiliation DbId="170166" Type="2">Mrs. Shelly Glover (Saint Boniface, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170166" Type="2">Mrs. Shelly Glover (Saint Boniface, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138099">Mr. Speaker, I would like to pay tribute to some extraordinary people and organizations from Saint Boniface who are bringing joy to the hearts of the less fortunate during this holiday season.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -453,8 +409,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Kempt Road Interpretation Center</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Toone" id="7843967">
-            <PersonSpeaking>
-              <Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138105">Mr. Speaker, the Kempt Road Interpretation Center exhibit, the result of the hard work of Héritage Chemin Kempt, enables visitors to learn about this little-known aspect of Gaspé history.</ParaText>
               <ParaText id="3138106">Kempt Road, which was completed in 1833 and connects Grand-Métis, on the banks of the St. Lawrence, and Pointe-à-la-Croix, in Chaleur Bay, was built as an alternative to the Chemin du Portage, which passed too close to the United States. It was after the War of 1812 that it became necessary to move the road connecting Quebec and St. John, New Brunswick.</ParaText>
@@ -469,8 +424,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Mathematics of Planet Earth 2013</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Truppe" id="7843970">
-            <PersonSpeaking>
-              <Affiliation DbId="170223" Type="2">Mrs. Susan Truppe (London North Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170223" Type="2">Mrs. Susan Truppe (London North Centre, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138109">Mr. Speaker, I rise today to bring attention to an exciting Canadian initiative, Mathematics of Planet Earth 2013, which is being launched today with the Canadian Mathematical Society. This initiative will bring together over a hundred groups of mathematicians from around the world to help address and solve the diverse real-life global issues we all face, ranging from the algebra of epidemics to the calculus of forest fires.</ParaText>
               <ParaText id="3138110">Mathematics is often referred to as the queen of science and as such is a critical and essential element for understanding and finding solutions to our many challenges. Mathematics touches every aspect of our lives every single day.</ParaText>
@@ -483,8 +437,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Violence Against Women</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Crowder" id="7843983">
-            <PersonSpeaking>
-              <Affiliation DbId="170315" Type="2">Ms. Jean Crowder (Nanaimo—Cowichan, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170315" Type="2">Ms. Jean Crowder (Nanaimo—Cowichan, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138112">Mr. Speaker, on December 6, Canadians paused to remember the 14 women from Montreal's École Polytechnique. Every day, women endure countless acts of violence, just because they are women. December 6 is a day of mourning and a reminder that we must take action.</ParaText>
               <ParaText id="3138113">In Nanaimo—Cowichan, the Cowichan Women Against Violence Society is taking action. During its 16 days of activism against gender violence, its members are speaking out against violence and are speaking up for women. Organizations such as CWAV and the Haven Society are raising awareness and are providing support for women who have experienced violence. </ParaText>
@@ -498,8 +451,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>International Trade</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Daniel" id="7843987">
-            <PersonSpeaking>
-              <Affiliation DbId="170565" Type="2">Mr. Joe Daniel (Don Valley East, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170565" Type="2">Mr. Joe Daniel (Don Valley East, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138116">Mr. Speaker, one in five Canadian jobs is generated through exports. That is why our government is committed to an ambitious trade agreement with the European Union. Such an agreement would benefit workers and their families throughout my home province of Ontario in a wide range of sectors.</ParaText>
               <ParaText id="3138117">Here are a few examples. Farmers exporting top-quality crops, like pulses and oil seeds, would see permanent, duty-free access to the 500 million consumers of the E.U. Skilled workers in engineering, architecture and technology would see great access to the E.U. procurement market, which is worth an astounding $2.4 trillion. A Canada–E.U. agreement would be expected to boost our bilateral trade by 20%. That is equivalent to a $1,000 increase in the average Canadian family's annual income, or 80,000 new jobs for Canadian workers.</ParaText>
@@ -510,11 +462,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="7843989">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Riding of Mount Royal</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Mount Royal</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Cotler" id="7843990">
-            <PersonSpeaking>
-              <Affiliation DbId="170211" Type="2">Hon. Irwin Cotler (Mount Royal, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170211" Type="2">Hon. Irwin Cotler (Mount Royal, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138119">Mr. Speaker, I recently participated in a series of important events in my multicultural riding, Mount Royal, including the 32nd anniversary of the Federation of Filipino Canadian Associations of Quebec, the 50th anniversary of FAMAS, the 50th anniversary of the Jamaica Association of Montreal, the 40th anniversary of the Côte-des-Neiges Black Community Association, and the 20th anniversary of the Mountain Sights Community Centre.</ParaText>
               <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
@@ -532,8 +483,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>New Democratic Party of Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Zimmer" id="7844027">
-            <PersonSpeaking>
-              <Affiliation DbId="170730" Type="2">Mr. Bob Zimmer (Prince George—Peace River, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170730" Type="2">Mr. Bob Zimmer (Prince George—Peace River, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138123">Mr. Speaker, Canadians from my riding of Prince George—Peace River and all other ridings across this country work hard for their money. The last thing they need is to spend more of their money on things such as gasoline. Sadly, this is exactly what the New Democrats intend to do. Thanks to their leader, the New Democrats want to impose a job-killing carbon tax on Canadians, which would increase the price of food, gas, electricity and everything else, including Christmas presents. Such a tax would be a financial burden on Canadian families.</ParaText>
               <ParaText id="3138124">Thankfully, Canadians elected our Conservative government, which will always fight such a tax. Our government will remain focused on jobs and economic growth, which is what matters to Canadians. Thanks to our Conservative government, since July 2009 we have created over 820,000 net new jobs. Thanks to our government, Canadians are getting back to work. Thankfully, once again, our Conservative Party will keep fighting the NDP's risky economic policies.</ParaText>
@@ -546,8 +496,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Nicholls" id="7844032">
-            <PersonSpeaking>
-              <Affiliation DbId="170174" Type="2">Mr. Jamie Nicholls (Vaudreuil—Soulanges, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170174" Type="2">Mr. Jamie Nicholls (Vaudreuil—Soulanges, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138126">Mr. Speaker, the F-35 fiasco may finally be coming to an end. The program that started with poor decisions, made behind closed doors, with phony numbers, is dying, through leaks and cabinet ministers settling scores.</ParaText>
               <ParaText id="3138127">The New Democrats first brought up questions about the F-35. More than two and a half years ago, the member for <Affiliation DbId="170508" Type="2">St. John's East</Affiliation> asked the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> about the replacement of the CF-18. The minister had settled on the F-35, only to reverse himself minutes later, saying that there would be an open competition. This was the start of a never-ending series of debacles.</ParaText>
@@ -563,8 +512,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>New Democratic Party of Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Leef" id="7844057">
-            <PersonSpeaking>
-              <Affiliation DbId="170598" Type="2">Mr. Ryan Leef (Yukon, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170598" Type="2">Mr. Ryan Leef (Yukon, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138130">Mr. Speaker, my constituents feel the effects of any increase in the price of goods. From gas and groceries to electricity, any change has a profound impact. </ParaText>
               <ParaText id="3138131">That is why my constituents and our Conservative government vehemently opposed the NDP leader's $21 billion carbon tax in the NDP's 2011 election plan. This job-killing carbon tax would literally raise the price on everything. This tax would do nothing more than raise money to be spent on the NDP leader's pet projects.</ParaText>
@@ -582,24 +530,21 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Firearms Registry</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Toone" id="7844061">
-            <PersonSpeaking>
-              <Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138133">Mr. Speaker, Canadians were dismayed yesterday to hear proposals from the minister's advisory committee on guns that would dismantle gun control in the country. Yesterday the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> said that he would reject one of those recommendations, but was silent on the rest. He had no comment on reckless ideas, like doubling the length of licences or reducing the frequency of mental health checks.</ParaText>
               <ParaText id="3138134">Will the minister explain why his so-called expert committee is recommending measures that dismantle gun control?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Van Loan" id="7844063">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138135">Mr. Speaker, the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> spoke very clearly on this in the House. This is a committee that does not reflect government policy. What is being reported is not government policy. We have made clear our direction, and that is to reduce gun crimes and to tackle serious gun crimes. We would appreciate some support from Her Majesty's loyal opposition in making that happen with some of our legislative initiatives.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Toone" id="7844065">
-            <PersonSpeaking>
-              <Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138136">Mr. Speaker, the committee that advises the minister is unbalanced and full of extremists.</ParaText>
               <ParaText id="3138137">Yesterday evening, a committee member was asked about the possibility of including the voices of police officers and victims of gun crimes. He replied that being shot at does not make one an expert on gun control. For the Conservatives, victims are only useful for photo ops. </ParaText>
@@ -608,8 +553,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="7844067">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138139">Mr. Speaker, the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> made a very clear statement on this to Parliament earlier this week.</ParaText>
               <ParaText id="3138140">We have taken measures to protect public safety and specifically to fight gun crime. We hope that one day the opposition will support us on this important measure. We have introduced many initiatives and have seen some real progress when it comes to public safety.</ParaText>
@@ -618,8 +562,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Devolin" id="7844068">
-            <PersonSpeaking>
-              <Affiliation DbId="171015" Type="96">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171015" Type="96">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138142">The hon. member for Gaspésie—Îles-de-la-Madeleine.</ParaText>
             </Content>
@@ -631,8 +574,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Toone" id="7844069">
-            <PersonSpeaking>
-              <Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170311" Type="2">Mr. Philip Toone (Gaspésie—Îles-de-la-Madeleine, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138143">Mr. Speaker, yesterday evening, we learned that, supposedly, the Conservatives have finally abandoned Lockheed Martin and the <?bk?>F-35.<?ek?></ParaText>
               <ParaText id="3138144">As the NDP has said many times from the beginning, it was a mistake not to hold a competitive bidding process. It was a mistake to hide the costs of the program.</ParaText>
@@ -640,8 +582,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="7844072">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138146">Mr. Speaker, we have a seven-point plan. We are following our seven-point plan.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -649,8 +590,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Harris (St. John's East)" id="7844074">
-            <PersonSpeaking>
-              <Affiliation DbId="170508" Type="2">Mr. Jack Harris (St. John's East, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170508" Type="2">Mr. Jack Harris (St. John's East, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138148">Mr. Speaker, the Conservatives do not even know how to cancel a project properly. The deliberations of the cabinet committee on operations has been leaked and after years of defending the F-35 in the most insulting way to anybody who commented, the government will now, reportedly, restart the whole process, as the NDP has demanded for years. This issue has shown the worst of Conservative mismanagement.</ParaText>
               <ParaText id="3138149">Will the Conservatives stop these backroom leaks, share the truth with Canadians and release and table the KPMG report today?</ParaText>
@@ -658,8 +598,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844076">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138150">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet.</ParaText>
               <ParaText id="3138151">The government received the KPMG report and is in the process of examining it. The government will update the public before the House recesses. </ParaText>
@@ -667,8 +606,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Harris (St. John's East)" id="7844078">
-            <PersonSpeaking>
-              <Affiliation DbId="170508" Type="2">Mr. Jack Harris (St. John's East, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170508" Type="2">Mr. Jack Harris (St. John's East, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138152">Mr. Speaker, Canadians deserve to know the truth and yet the Conservatives have been hiding the truth from Canadians for years. The cabinet leaks are everywhere, the KPMG report is supposedly out, there is a program that no one will defend and now costs are estimated to be north of $40 billion, a litany of Conservative failure and mismanagement.</ParaText>
               <ParaText id="3138153">When will Conservatives come clean, admit their misguided plan has failed and finally agree to have an open and transparent competition?</ParaText>
@@ -676,16 +614,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7844081">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138154">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet. Our seven-point plan involves exploring options without the limitations imposed by the statement of requirements.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. McKay" id="7844083">
-            <PersonSpeaking>
-              <Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138155">Mr. Speaker, the <Affiliation DbId="111558" Type="4">Minister of Defence</Affiliation> stated:</ParaText>
               <ParaText id="3138156">
@@ -697,16 +633,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Van Loan" id="7844085">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138158">Mr. Speaker, as I said, our government has a seven-point plan for the replacement of the CF-18 aircraft. We are continuing with that plan. As part of that plan, the government will be providing a comprehensive public update before the House retires for Christmas. </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McKay" id="7844088">
-            <PersonSpeaking>
-              <Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138159">Mr. Speaker, we appear to have a <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> who cannot defend himself. He further stated:</ParaText>
               <ParaText id="3138160">Let me repeat it. $9 billion. I have no idea where these other figures are coming from. They’re simply made up — or they’re guessing. If this procurement is cancelled … so another competition can be held, it will cost taxpayers $1 billion and will create an operational gap for the air force in the future.</ParaText>
@@ -714,8 +648,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="7844092">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138162">Mr. Speaker, we have set out and are following a clear seven-point plan for the replacement of the aircraft. One element of that plan is to ensure job creation and growth in the aviation sector. </ParaText>
               <ParaText id="3138163">Job creation is the number one priority of our government. The proof of that is seen in this month's job creation numbers, with over 59,000 net new jobs, over 880,000 jobs now since the economic downturn. We now have the lowest unemployment since the economic downturn. That is leadership. That is a focus on job creation. We will continue that focus. </ParaText>
@@ -723,39 +656,34 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Coderre" id="7844094">
-            <PersonSpeaking>
-              <Affiliation DbId="170231" Type="2">Hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170231" Type="2">Hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138164">Mr. Speaker, it is sad that we no longer have a defence minister. We have only Lockheed Martin's salesperson of the month. If he has nothing to say, then this must be true.</ParaText>
               <ParaText id="3138165">It is appalling because this government has not only acted in a shameful manner but has also proven its incompetence. What is more, the government has shown its lack of integrity with regard to the management of public finances. There is only one thing left to do: if the minister has any honour left, he must stand up, apologize and resign as defence minister.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7844096">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138166">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Blanchette-Lamothe" id="7844098">
-            <PersonSpeaking>
-              <Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138167">Mr. Speaker, in 2011, the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> said that he found it disappointing and sad that some in Parliament were backtracking on the F-35s and that some were talking openly about cancelling the contract should they get the chance.</ParaText>
               <ParaText id="3138168">My question is simple: do the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> and his cabinet still feel the same way?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844100">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138169">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet.</ParaText>
               <ParaText id="3138170">The government will update the public before the House recesses.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Blanchette-Lamothe" id="7844102">
-            <PersonSpeaking>
-              <Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138171">Mr. Speaker, I could have predicted that response. Here is another chance. </ParaText>
               <ParaText id="3138172">In 2010, the Minister of National Defence said that if we did not make this purchase there was a real danger that we would be unable to defend our airspace, unable to ensure our sovereignty and unable to honour our commitments to both NORAD and NATO.</ParaText>
@@ -763,15 +691,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7844104">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138174">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet. Our seven-point plan allows for an options analysis, which is not limited by the statement of requirements.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Ravignat" id="7844105">
-            <PersonSpeaking>
-              <Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138175">Mr. Speaker, what a surprising answer.</ParaText>
               <ParaText id="3138176">In 2010, the Prime Minister’s spokesperson said it was the best plane the government could buy for the armed forces. When a fighter pilot has a long-range Russian bomber in its sights, that is an important point.</ParaText>
@@ -779,15 +705,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844107">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138178">Mr. Speaker, we are determined to follow through with out our seven-point plan and with our thorough and transparent process for replacing Canada’s aging CF-18 fleet. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ravignat" id="7844109">
-            <PersonSpeaking>
-              <Affiliation DbId="170290" Type="2">M. Mathieu Ravignat (Pontiac, NPD)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170290" Type="2">M. Mathieu Ravignat (Pontiac, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138179">Mr. Speaker, I will try in the other official language.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -798,8 +722,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7844111">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138182">Mr. Speaker, we are determined to follow through with out our seven-point plan and with our thorough and transparent process for replacing Canada’s aging CF-18 fleet.</ParaText>
               <ParaText id="3138183">The government will update the public before the House recesses.</ParaText>
@@ -812,24 +735,21 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Foreign Investment</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Harris (Scarborough Southwest)" id="7844113">
-            <PersonSpeaking>
-              <Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138184">Mr. Speaker, the Conservatives are up against the deadline on Nexen. Canadians are worried about this deal. Approving the Nexen buyout would give a Chinese state-owned company ownership over a huge slice of Canada's natural resources, yet this massive decision is being made behind closed doors. There are no clear rules and no consultation with Canadians. That is unacceptable.</ParaText>
               <ParaText id="3138185">Will the Conservatives announce their verdict on this Nexen takeover in the full light of day, or should Canadians expect another last minute decision taken at midnight?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Lake" id="7844119">
-            <PersonSpeaking>
-              <Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138186">Mr. Speaker, what we see day after day in this place is the two opposition parties taking very extreme positions on investment in Canada. The Liberal Party day after day would just rubber-stamp every transaction as it did when it was government. The NDP opposes every transaction. </ParaText>
               <ParaText id="3138187">This government will responsibly look at the Investment Canada Act and evaluate proposed transactions to the net benefit of Canadians.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Harris (Scarborough Southwest)" id="7844122">
-            <PersonSpeaking>
-              <Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138188">Mr. Speaker, made up Conservative attacks cannot make up for the government's incompetence. </ParaText>
               <ParaText id="3138189">The Conservatives delayed decisions on Nexen and Petronas. Now they are delaying a decision on their own new investment agreement with China. It is clear Conservatives did not understand this agreement when they signed it, details like opening the door to unlimited foreign ownership of Canadian natural resources. </ParaText>
@@ -837,8 +757,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Keddy" id="7844124">
-            <PersonSpeaking>
-              <Affiliation DbId="170844" Type="18">Mr. Gerald Keddy (Parliamentary Secretary to the Minister of International Trade, for the Atlantic Canada Opportunities Agency and for the Atlantic Gateway, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170844" Type="18">Mr. Gerald Keddy (Parliamentary Secretary to the Minister of International Trade, for the Atlantic Canada Opportunities Agency and for the Atlantic Gateway, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138191">Mr. Speaker, the NDP members just continue to make it up as they go along. </ParaText>
               <ParaText id="3138192">This foreign investment and promotion protection agreement with China will simply add reciprocity to investment in China. This will protect the interests of Canadian investors in China. Foreign investors have long had those same legal protections in Canada. This agreement will give Canadians equal protections when investing abroad.</ParaText>
@@ -847,8 +766,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Liu" id="7844126">
-            <PersonSpeaking>
-              <Affiliation DbId="170149" Type="2">Ms. Laurin Liu (Rivière-des-Mille-Îles, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170149" Type="2">Ms. Laurin Liu (Rivière-des-Mille-Îles, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138194">Mr. Speaker, they are the ones making it up as they go along.</ParaText>
               <ParaText id="3138195">Approving the Nexen purchase would have major consequences for this country, particularly after the signing of the trade agreement with China. That agreement will give a foreign government corporation ownership of part of Canada’s natural resources. The consequences are too important not to be honest with Canadians.</ParaText>
@@ -857,8 +775,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Lake" id="7844128">
-            <PersonSpeaking>
-              <Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138197">Mr. Speaker, again, what this government will promise is that we will evaluate proposed transactions according to the provisions of the Investment Canada Act. Section 20 of the Investment Canada Act clearly lays out the criteria for net benefit. When the government makes the decision, it will be made in the net interest of Canadians.</ParaText>
             </Content>
@@ -870,8 +787,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Democratic Reform</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Boulerice" id="7844130">
-            <PersonSpeaking>
-              <Affiliation DbId="170207" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170207" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138198">Obviously, Mr. Speaker, senators, those residents of the lucrative retirement home for Liberals and Conservatives, think they can do whatever they like.</ParaText>
               <ParaText id="3138199">In between naps, these government cronies, from the height of their unelected office, have decided to fill their pockets with public funds. In the meantime, Canadians’ household debt has reached record levels. Not satisfied with pocketing $132,000 a year, three senators have been caught with their hands in the till, collecting money for their supposed “second residence” in Ottawa, even though they have lived in the capital for decades.</ParaText>
@@ -880,8 +796,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Van Loan" id="7844132">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138201">Mr. Speaker, all parliamentarians here are familiar with the concept, which also applies in the Senate, that parliamentarians normally provide for a residence in their area that they represent as well as a residence here in Ottawa. Parliament assists the House of Commons, in our case, with the costs of one of those residences. </ParaText>
               <ParaText id="3138202">The Senate Standing Committee on Internal Economy, Budgets and Administration is reviewing the matter as we have seen in the news to ensure that those rules are properly respected and indeed applied to all members. We want to see it also applied, of course, in this House.</ParaText>
@@ -890,8 +805,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boulerice" id="7844135">
-            <PersonSpeaking>
-              <Affiliation DbId="170207" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170207" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138203">Mr. Speaker, the Conservatives can say what they like, but when they look in the mirror, they see that they have abandoned all their former democratic principles.</ParaText>
               <ParaText id="3138204">Opposition to this archaic and outdated Senate was one of the rare positive points in the defunct Reform Party’s platform. You know things are bad when we are longing for the Reform Party.</ParaText>
@@ -900,8 +814,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Poilievre" id="7844137">
-            <PersonSpeaking>
-              <Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre (Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities and for the Federal Economic Development Agency for Southern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre (Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities and for the Federal Economic Development Agency for Southern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138207">Mr. Speaker, let us talk about abuses. The party opposite is blocking a bill that would require financial transparency on the part of unions. We are talking about money that the unions are taking out of the pockets of workers by force.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -914,8 +827,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. McKay" id="7844139">
-            <PersonSpeaking>
-              <Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138209">Mr. Speaker, the Conservative propaganda machine has been in hyperdrive for five years on the F-35. Deny, spin and move on through contempt motions, an election and hundreds of hours in this chamber. Ridicule the opposition, ridicule officers of Parliament and spin Canadians.</ParaText>
               <ParaText id="3138210">In March 2011, the Liberals told Canadians the real costs of the <?bk?>F-35s.<?ek?> The Conservatives blatantly misled Canadians during the election rather than admit the truth. Will the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> resign now?</ParaText>
@@ -923,8 +835,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844141">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138211">Mr. Speaker, we are determined to follow through with our seven-point plan and our thorough and transparent process to replace Canada's aging fleet of CF-18s.</ParaText>
               <ParaText id="3138212">The government will provide a public update before the end of the parliamentary session.</ParaText>
@@ -932,8 +843,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McKay" id="7844143">
-            <PersonSpeaking>
-              <Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138213">Mr. Speaker, it has come to this, that the parliamentary secretary of robo-answers will defend the minister when the minister will not defend himself.</ParaText>
               <ParaText id="3138214">The Conservative spin machine nearly achieved Mach speeds with the fake F-35 photo op. Ministers were photographed climbing in and out of a plane that will never achieve liftoff. Standing beside the fake plane, the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> proudly proclaimed in July 2010 that the F-35 was the only plane for Canada.</ParaText>
@@ -941,23 +851,20 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Devolin" id="7844146">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138216">Order, please. The hon. parliamentary secretary.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7844147">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138217">Mr. Speaker, we are determined to follow through with our seven-point plan and our thorough and transparent process to replace Canada's aging fleet of CF-18s. Our seven-point plan includes examining the options and is not limited by the statement of requirements. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Coderre" id="7844150">
-            <PersonSpeaking>
-              <Affiliation DbId="170231" Type="2">Hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170231" Type="2">Hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138218">Mr. Speaker, I never thought that the <Affiliation DbId="170854" Type="18">Parliamentary Secretary to the Minister of Public Works </Affiliation> would be overexposed here in the House.</ParaText>
               <ParaText id="3138219">The cynics would say that both sides of this record sound the same. I hardly know what he will do.</ParaText>
@@ -966,8 +873,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844160">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138222">Mr. Speaker, we are determined to follow through with our seven-point plan and our thorough and transparent process to replace Canada's aging fleet of CF-18s. Our seven-point plan includes examining the options and is not limited by the statement of requirements.</ParaText>
             </Content>
@@ -979,8 +885,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Employment Insurance</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Charlton" id="7844162">
-            <PersonSpeaking>
-              <Affiliation DbId="170199" Type="2">Ms. Chris Charlton (Hamilton Mountain, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170199" Type="2">Ms. Chris Charlton (Hamilton Mountain, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138223">Mr. Speaker, this week we learned that only one in three people who appeal EI decisions get a hearing within 30 days. Currently, the board of referees collectively spends almost 20,000 days a year hearing appeals. The Conservatives' new tribunal will spend less than half that time. The <Affiliation DbId="128694" Type="4">minister</Affiliation> wants us to believe that this will speed up the process. Their actions defy common sense.</ParaText>
               <ParaText id="3138224">Why is the <Affiliation DbId="128694" Type="4">minister</Affiliation> refusing to give unemployed Canadians the benefits that they have paid for?</ParaText>
@@ -988,16 +893,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Finley" id="7844165">
-            <PersonSpeaking>
-              <Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138225">Mr. Speaker, we are trying to make sure that Canadians do get their appeals in a timely manner. That is why we are changing from having several people working part time to full-time dedicated specialists who will conduct one-member appeals instead of doing them in triplicate, which is the usual government way.</ParaText>
               <ParaText id="3138226">Is the member honestly suggesting that we should not try to improve it and leave it in the failed state it is now?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Charlton" id="7844167">
-            <PersonSpeaking>
-              <Affiliation DbId="170199" Type="2">Ms. Chris Charlton (Hamilton Mountain, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170199" Type="2">Ms. Chris Charlton (Hamilton Mountain, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138227">Mr. Speaker, one of the reasons we never vote for the Conservatives' budgets is that they cut staff to Service Canada and their budgets increase wait times for EI. We will always oppose Conservative budgets that attack EI benefits.</ParaText>
               <ParaText id="3138228">The <Affiliation DbId="128694" Type="4">minister</Affiliation> is cutting the number of people hearing EI appeals from 700 to just 39. Under the <Affiliation DbId="128694" Type="4">minister</Affiliation>'s watch, people are being denied timely access to their EI benefits.</ParaText>
@@ -1005,8 +908,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Finley" id="7844169">
-            <PersonSpeaking>
-              <Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138230">Mr. Speaker, the fact is that the NDP members vote against the good benefits under EI, those which help Canadians. They voted against bringing in special benefits for the self-employed so that they could have access to the maternity, parental, compassionate and sickness benefits that other Canadians have. They also voted against an extra five weeks during the recession when people needed longer to find a job.</ParaText>
               <ParaText id="3138231">The NDP members are not voting for Canadians; they are voting against them.</ParaText>
@@ -1014,8 +916,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Raynault" id="7844171">
-            <PersonSpeaking>
-              <Affiliation DbId="170145" Type="2">Ms. Francine Raynault (Joliette, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170145" Type="2">Ms. Francine Raynault (Joliette, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138232">Mr. Speaker, the minister keeps telling us that her botched employment insurance reform will help unemployed workers, but that is false.</ParaText>
               <ParaText id="3138233">There are cuts at Service Canada, endless delays for claimants and fewer respondents at the Social Security Tribunal, and her department no longer even meets its own performance criteria. The minister is directly attacking those who need help most.</ParaText>
@@ -1023,16 +924,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Finley" id="7844173">
-            <PersonSpeaking>
-              <Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138235">Mr. Speaker, we are improving the system precisely because we want to help and serve Canadians.</ParaText>
               <ParaText id="3138236">We are making changes to the employment insurance system to help unemployed workers find other jobs. We have also improved the job alert system to inform them of positions available in their field, in their region, but the NDP is opposed to that.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Perreault" id="7844175">
-            <PersonSpeaking>
-              <Affiliation DbId="170313" Type="2">Ms. Manon Perreault (Montcalm, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170313" Type="2">Ms. Manon Perreault (Montcalm, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138237">Mr. Speaker, the minister can try to make us believe that her reform is working, but her words are not fooling Canadians.</ParaText>
               <ParaText id="3138238">People living with disabilities already find it hard enough to enter the job market; they do not need to be penalized further by the fiasco caused by the minister. And yet she refuses to assist those who have contributed to the employment insurance fund.</ParaText>
@@ -1040,8 +939,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Finley" id="7844177">
-            <PersonSpeaking>
-              <Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138240">Mr. Speaker, that is precisely what we want to do. That is why we have proposed a number of programs to assist persons with disabilities. For example, the Enabling Accessibility Fund has made it possible to finance renovations in more than 800 buildings in Canada to make those buildings accessible for persons with disabilities.</ParaText>
               <ParaText id="3138241">We also have programs to help them find jobs. Unfortunately, as expected, the NDP voted against all those initiatives.</ParaText>
@@ -1054,8 +952,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Economy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Sopuck" id="7844179">
-            <PersonSpeaking>
-              <Affiliation DbId="170623" Type="2">Mr. Robert Sopuck (Dauphin—Swan River—Marquette, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170623" Type="2">Mr. Robert Sopuck (Dauphin—Swan River—Marquette, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138242">Mr. Speaker, our Conservative government is focused on what matters to our citizens, helping to create jobs, growth and long-term prosperity. While we are pushing a low-tax plan that will help create jobs, as always the NDP is pushing high-tax schemes to kill jobs.</ParaText>
               <ParaText id="3138243">The NDP's massive carbon tax would take $21 billion out of the pockets of Canadians and would also cripple Canadian businesses, kill Canadian jobs and raise the price of just about everything.</ParaText>
@@ -1063,8 +960,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Flaherty" id="7844182">
-            <PersonSpeaking>
-              <Affiliation DbId="78777" Type="4">Hon. Jim Flaherty (Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="78777" Type="4">Hon. Jim Flaherty (Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138245">Mr. Speaker, I thank the member for <Affiliation DbId="170623" Type="2">Dauphin—Swan River—Marquette</Affiliation> for the first relevant question of this question period. </ParaText>
               <ParaText id="3138246">What is actually important to Canadians are jobs, growth and long-term prosperity. The news this morning from Statistics Canada is terrific in that regard. More than 59,000 net new jobs were created in the month of November. The unemployment rate is down by two-tenths of a per cent to the lowest level it has been since the great recession of 2008-09.</ParaText>
@@ -1079,8 +975,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>International Cooperation</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Laverdière" id="7844185">
-            <PersonSpeaking>
-              <Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138248">Mr. Speaker, while CIDA is working on projects that are supposed to improve the social responsibility of mining corporations abroad, here at home the government is cutting funding for the Centre for Excellence in Corporate Social Responsibility. Once again the left hand does not know what the right hand is doing. </ParaText>
               <ParaText id="3138249">How can CIDA be a world leader when, at home, the Conservatives are making a mockery of our corporate social responsibility strategy?</ParaText>
@@ -1088,8 +983,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Fantino" id="7844187">
-            <PersonSpeaking>
-              <Affiliation DbId="184400" Type="4">Hon. Julian Fantino (Minister of International Cooperation, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="184400" Type="4">Hon. Julian Fantino (Minister of International Cooperation, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138250">Mr. Speaker, Canadians can be very proud of the results that their hard-earned tax dollars are actually achieving abroad. Canada's investments are providing food, education, health care and emergency humanitarian assistance to those who need it most.</ParaText>
               <ParaText id="3138251">We will continue to assure Canadians' hard-earned tax dollars are spent in ways that achieve the best possible results. Canadians expect no less.</ParaText>
@@ -1097,8 +991,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Laverdière" id="7844189">
-            <PersonSpeaking>
-              <Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138252">Mr. Speaker, my Bill <Document DbId="5349039" Type="4">C-398</Document> would have been a simple way to reform Canada's access to medicines regime and, yes, it could have saved lives. </ParaText>
               <ParaText id="3138253">Many experts and high-profile organizations, such as Doctors Without Borders and UNICEF, among others, are saying so. </ParaText>
@@ -1109,8 +1002,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lake" id="7844192">
-            <PersonSpeaking>
-              <Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138257">Mr. Speaker, our government is addressing the real public health challenges in the developing world. </ParaText>
               <ParaText id="3138258">That is why we have invested $2.85 billion toward maternal, newborn and child health, including the $1.1 billion Muskoka initiative led by our <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation>, which secured the participation of the G8 countries toward a $10 billion fund. We are achieving concrete results. Nearly 25 times more people are receiving HIV-AIDS treatment than were receiving it 10 years ago.</ParaText>
@@ -1118,8 +1010,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Dewar" id="7844194">
-            <PersonSpeaking>
-              <Affiliation DbId="170296" Type="2">Mr. Paul Dewar (Ottawa Centre, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170296" Type="2">Mr. Paul Dewar (Ottawa Centre, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138260">Mr. Speaker, the point is that this measure would have worked. The Conservatives had an opportunity to help some of the most vulnerable people in the world, and they chose not to do so.</ParaText>
               <ParaText id="3138261">International experts say this kind of life-saving legislation would have saved more lives. We have some Conservatives just spreading misleading information, all to justify their decision to vote the bill down for partisan reasons.</ParaText>
@@ -1127,8 +1018,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Lake" id="7844196">
-            <PersonSpeaking>
-              <Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170855" Type="18">Hon. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138263">Mr. Speaker, let me be clear. The misleading information that the hon. member is referring to was information provided at a previous committee hearing by independent expert public servants, the very people this member purports to represent in his riding.</ParaText>
               <ParaText id="3138264">We paid attention to those experts, and we also heard testimony that talked about the real measures the government is taking that are having an impact on people in the developing world.</ParaText>
@@ -1141,8 +1031,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Syria</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dewar" id="7844198">
-            <PersonSpeaking>
-              <Affiliation DbId="170296" Type="2">Mr. Paul Dewar (Ottawa Centre, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170296" Type="2">Mr. Paul Dewar (Ottawa Centre, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138266">Mr. Speaker, the conflict in Syria is escalating. Members of the House, like the international community, are increasingly concerned about the potential use of chemical weapons. </ParaText>
               <ParaText id="3138267">We strongly support the diplomatic efforts to prevent such atrocities. At the same time, thousands and thousands of refugees from Syria are facing deteriorating conditions.</ParaText>
@@ -1151,8 +1040,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kenney" id="7844200">
-            <PersonSpeaking>
-              <Affiliation DbId="128705" Type="4">Hon. Jason Kenney (Minister of Citizenship, Immigration and Multiculturalism, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="128705" Type="4">Hon. Jason Kenney (Minister of Citizenship, Immigration and Multiculturalism, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138269">Mr. Speaker, Canada is the seventh largest donor to the work of the United Nations High Commissioner for Refugees. In particular, through the <Affiliation DbId="170677" Type="4">Minister of Foreign Affairs</Affiliation>, we have made substantial commitments to the refugee crisis emerging from Syria, supporting those who have relocated to Lebanon, Jordan and Turkey. We will continue to punch above our weight in that respect. </ParaText>
               <ParaText id="3138270">Finally, we have accelerated some 200 applications that were outstanding for family reunification by Canadians who have made applications for reunification of Syrian nationals.</ParaText>
@@ -1164,8 +1052,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Hsu" id="7844202">
-            <PersonSpeaking>
-              <Affiliation DbId="170105" Type="2">Mr. Ted Hsu (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170105" Type="2">Mr. Ted Hsu (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138271">Mr. Speaker, once again on the F-35, 14 months ago in the House, the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> said:</ParaText>
               <ParaText id="3138272">
@@ -1178,15 +1065,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844204">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138274">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet. The government will update the public before the House recesses.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dion" id="7844206">
-            <PersonSpeaking>
-              <Affiliation DbId="170086" Type="2">Hon. Stéphane Dion (Saint-Laurent—Cartierville, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170086" Type="2">Hon. Stéphane Dion (Saint-Laurent—Cartierville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138275">Mr. Speaker, a Conservative did tell the truth about the F-35s, but it just so happens that he is no longer in the House.</ParaText>
               <ParaText id="3138276">On September 3, 2008, the Minister of Industry, Jim Prentice, admitted that there had never been a tendering process and that Canada was not committed to purchasing the F-35s.</ParaText>
@@ -1194,8 +1079,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7844208">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138278">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet. The government has received KPMG's report and is in the process of examining it. The government will update the public before the House recesses.</ParaText>
             </Content>
@@ -1206,16 +1090,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Aboriginal Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Crowder" id="7844210">
-            <PersonSpeaking>
-              <Affiliation DbId="170315" Type="2">Ms. Jean Crowder (Nanaimo—Cowichan, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170315" Type="2">Ms. Jean Crowder (Nanaimo—Cowichan, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138279">Mr. Speaker, yesterday, the <Affiliation DbId="170680" Type="4">Minister of Aboriginal Affairs and Northern Development</Affiliation> met with the chief of the Assembly of First Nations, Shawn Atleo, and three other chiefs to discuss the lack of funding for first nations education. Despite his lovely promises, the minister has been slow to act in this regard.</ParaText>
               <ParaText id="3138280">What commitments has the minister made to address the shortage of funding for first nations education?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Rickford" id="7844213">
-            <PersonSpeaking>
-              <Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138281">Mr. Speaker, we provide first nations students with the tools they need to finish high school. Since 2006, we have built over 30 new schools and renovated over 200 others. We have equipped communities with better computers and school supplies, and we have introduced new programs to improve reading, writing and math skills.</ParaText>
               <ParaText id="3138282">The government clearly understands the importance of education. We are proud of working with first nations students to help them finish grade 12.</ParaText>
@@ -1223,8 +1105,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Crowder" id="7844215">
-            <PersonSpeaking>
-              <Affiliation DbId="170315" Type="2">Ms. Jean Crowder (Nanaimo—Cowichan, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170315" Type="2">Ms. Jean Crowder (Nanaimo—Cowichan, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138283">Mr. Speaker, in January the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> promised to work with first nations and to consult with them before introducing any policy changes. He broke that promise with unilateral changes to the Indian Act in Bill <Document DbId="5754371" Type="3">C-45</Document>. </ParaText>
               <ParaText id="3138284">On December 10, grassroots organizers of Idle No More will be gathering outside the constituency office of the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation>, demanding more accountability from the government.</ParaText>
@@ -1232,8 +1113,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rickford" id="7844217">
-            <PersonSpeaking>
-              <Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138286">Mr. Speaker, since 2010, the minister has visited more than 50 first nation communities and has had hundreds of productive meetings with chiefs, councils and aboriginal community members across Canada. In fact, we conduct over 5,000 consultations with first nations every year. Our government respects its duty to consult and, where appropriate, to accommodate first nations.</ParaText>
               <ParaText id="3138287">We will continue to work with first nations to create the conditions for stronger first nation communities.</ParaText>
@@ -1245,8 +1125,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Opitz" id="7844219">
-            <PersonSpeaking>
-              <Affiliation DbId="170886" Type="2">Mr. Ted Opitz (Etobicoke Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170886" Type="2">Mr. Ted Opitz (Etobicoke Centre, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138288">Mr. Speaker, our reserve members play an integral part in the missions that Canada asks the Canadian armed forces to take part in. As a former reserve commanding officer, I can tell the House that reservists must be treated fairly and equitably, and be provided the best care and support when they are injured serving Canada.</ParaText>
               <ParaText id="3138289">The ombudsman had recommended that the accidental dismemberment insurance plan be amended to ensure equity between regular and reserve force members. The minister committed to moving quickly on this issue.</ParaText>
@@ -1255,8 +1134,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. MacKay" id="7844224">
-            <PersonSpeaking>
-              <Affiliation DbId="111558" Type="4">Hon. Peter MacKay (Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="111558" Type="4">Hon. Peter MacKay (Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138291">Mr. Speaker, I thank the member for <Affiliation DbId="170886" Type="2">Etobicoke Centre</Affiliation> for his service both as a soldier and parliamentarian. </ParaText>
               <ParaText id="3138292">Our government continues to improve programs designed to support our ill and injured military personnel and their families. As I indicated to the House, our government committed to ending the inequities between regular and reserve force members in cases of accidental dismemberment. This has now been done. We will be improving the accidental dismemberment program so that reservists who accidentally lose a limb will receive the same compensation as a regular force member.</ParaText>
@@ -1264,8 +1142,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. McKay" id="7844228">
-            <PersonSpeaking>
-              <Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170172" Type="2">Hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138294">Mr. Speaker, it is amazing that the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> can actually get out of his seat. </ParaText>
               <ParaText id="3138295">The KPMG report will say that the costs of the F-35 are far closer to $40 billion than $15 billion, which is what the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> and the <Affiliation DbId="111558" Type="4">Minister of National Defence</Affiliation> spun during the election. The Conservative government staunchly maintained that the F-35 was the only fifth generation plane available. For five years, the Liberal Party has been asking for an open, fair and transparent competition.</ParaText>
@@ -1275,8 +1152,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7844231">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138298">Mr. Speaker, we are determined to follow through with our seven-point plan and with our thorough and transparent process to replace Canada's aging CF-18 fleet. The government will update the public before the House recesses.</ParaText>
             </Content>
@@ -1288,8 +1164,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Employment</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Sims" id="7844233">
-            <PersonSpeaking>
-              <Affiliation DbId="170673" Type="2">Ms. Jinny Jogindera Sims (Newton—North Delta, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170673" Type="2">Ms. Jinny Jogindera Sims (Newton—North Delta, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138299">Mr. Speaker, this month, another 60 temporary foreign workers will arrive in Northern B.C. despite an ongoing court challenge to the visas.</ParaText>
               <ParaText id="3138300">It has been three years since the Auditor General identified serious problems with the temporary foreign worker program. Yet, the Conservatives are still mismanaging this file and Canadian jobs are still being given away.</ParaText>
@@ -1297,8 +1172,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Finley" id="7844236">
-            <PersonSpeaking>
-              <Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="128694" Type="4">Hon. Diane Finley (Minister of Human Resources and Skills Development, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138302">Mr. Speaker, quite frankly, issuing visas is not within the purview of the Human Resources and Skills Development Department. That happens over at Citizenship and Immigration Canada. That is just for clarity for the hon. member.</ParaText>
               <ParaText id="3138303">We are concerned that the system is not doing what we want it to do, namely to make sure that Canadians get first crack at every job in Canada. That is our goal and that is why we are working with the EI system and the TFW system to make sure that Canadians are aware of jobs that are available in their skill area within their geography. We want to help Canadians.</ParaText>
@@ -1310,16 +1184,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Aboriginal Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Leef" id="7844238">
-            <PersonSpeaking>
-              <Affiliation DbId="170598" Type="2">Mr. Ryan Leef (Yukon, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170598" Type="2">Mr. Ryan Leef (Yukon, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138304">Mr. Speaker, everyone agrees that a sound education leads to a good job, but first nation students are not graduating at the same rate as other Canadian students. Clearly, the current approach to first nation education is not working. </ParaText>
               <ParaText id="3138305">Can the hard-working <Affiliation DbId="170863" Type="18">Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development</Affiliation> please update the House on what the government is doing and how it is working with first nations to ensure that students on reserve have access to quality education?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Rickford" id="7844240">
-            <PersonSpeaking>
-              <Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138306">Mr. Speaker, that is a tough but fair question. </ParaText>
               <ParaText id="3138307">We are equipping first nation students with the tools they need to graduate from high school. Since 2006, we have built over 30 new schools, renovated over 200 more, provided communities with better computers and school supplies, and introduced new education programs to improve students' reading, writing and math skills.</ParaText>
@@ -1333,8 +1205,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Science and Technology</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Turmel" id="7844242">
-            <PersonSpeaking>
-              <Affiliation DbId="170293" Type="2">Ms. Nycole Turmel (Hull—Aylmer, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170293" Type="2">Ms. Nycole Turmel (Hull—Aylmer, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138309">Mr. Speaker, with the transfer of research jobs from the Language Technologies Research Centre at the Université du Québec en Outaouais to Ottawa, the Outaouais region is losing vital scientific expertise. The region's business community is condemning the departure of these researchers. Taking this unique francophone expertise away from a region that really needs it could lead to lost investment opportunities.</ParaText>
               <ParaText id="3138310">Why are the Conservatives getting rid of scientific expertise that is so vital for the Outaouais?</ParaText>
@@ -1343,15 +1214,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Goodyear" id="7844244">
-            <PersonSpeaking>
-              <Affiliation DbId="139897" Type="4">Hon. Gary Goodyear (Minister of State (Science and Technology) (Federal Economic Development Agency for Southern Ontario), CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="139897" Type="4">Hon. Gary Goodyear (Minister of State (Science and Technology) (Federal Economic Development Agency for Southern Ontario), CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138311">Finally, Mr. Speaker, I have to tell the member opposite that there are still over 500 opportunities in Quebec for science to take place. However, I want to make a statement to our scientists, students and universities. On Wednesday of this week, the NDP voted against half a billion dollars for laboratory equipment, microscopes and so on. It voted against more money for our granting councils, some $37 million in ongoing funding every single year. The NDP voted against that. It also voted against $100 million for business research. On this side of the House, we stand up—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844245">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138312">The hon. member for Haute-Gaspésie—La Mitis—Matane—Matapédia.</ParaText>
             </Content>
@@ -1363,8 +1232,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Firearms Registry</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Fortin" id="7844246">
-            <PersonSpeaking>
-              <Affiliation DbId="170403" Type="2">Mr. Jean-François Fortin (Haute-Gaspésie—La Mitis—Matane—Matapédia, BQ)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170403" Type="2">Mr. Jean-François Fortin (Haute-Gaspésie—La Mitis—Matane—Matapédia, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138313">Mr. Speaker, Quebeckers know that the gun registry saves lives. Community organizations and police forces want to keep it.</ParaText>
               <ParaText id="3138314">Yesterday, the Quebec government formally reiterated its commitment to introducing a bill to create a Quebec registry. All it needs is the data that the federal government is obstinately refusing to hand over.</ParaText>
@@ -1373,8 +1241,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Bernier" id="7844248">
-            <PersonSpeaking>
-              <Affiliation DbId="170704" Type="4">Hon. Maxime Bernier (Minister of State (Small Business and Tourism), CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170704" Type="4">Hon. Maxime Bernier (Minister of State (Small Business and Tourism), CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138317">Mr. Speaker, when evaluating public policy, we must evaluate the outcomes, not the intentions.</ParaText>
               <ParaText id="3138318">On this side of the House, we know that the gun registry did not save lives in Canada. That is why we want to keep one of our election promises and abolish it. That is what we are going to do. </ParaText>
@@ -1385,19 +1252,17 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="7844366">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Regional Development</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Regional Economic Development</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Hyer" id="7844251">
-            <PersonSpeaking>
-              <Affiliation DbId="170584" Type="2">Mr. Bruce Hyer (Thunder Bay—Superior North, Ind.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170584" Type="2">Mr. Bruce Hyer (Thunder Bay—Superior North, Ind.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138320">Mr. Speaker, the budget slashes critical services in northwestern Ontario and throughout rural Canada. Service Canada's Thunder Bay EI staff were laid off, the citizenship and immigration office closed, the local Canada Revenue Agency service closed, Veterans Affairs is closing, the Coast Guard communication station is closing and grain inspections have been slashed.</ParaText>
               <ParaText id="3138321">When will Conservatives start helping northern Ontarians instead of making them fly to Toronto for services?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Rickford" id="7844253">
-            <PersonSpeaking>
-              <Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170863" Type="18">Mr. Greg Rickford (Parliamentary Secretary to the Minister of Aboriginal Affairs and Northern Development, for the Canadian Northern Economic Development Agency and for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138322">Mr. Speaker, let us talk about who is helping whom in northern Ontario. The member has voted against restoring access for U.S. market softwood, and investments in forest product information—our great pulp—and the forestry long-term competitive initiative for workers, and against the green pulp and paper transformation program for workers in the environment. </ParaText>
               <ParaText id="3138323">One would think that before the member branched off into this line of questioning he would have understood the roots of his and his former party's position, the NDP. It appears that the only thing they know about northern Ontario and its great forest sector is that money grows on trees. Thank goodness that northern Ontarians leave northern Ontario issues with this government.</ParaText>
@@ -1411,15 +1276,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Easter" id="7844257">
-            <PersonSpeaking>
-              <Affiliation DbId="170158" Type="2">Hon. Wayne Easter (Malpeque, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170158" Type="2">Hon. Wayne Easter (Malpeque, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138324">Mr. Speaker, the member for <Affiliation DbId="170565" Type="2">Don Valley East</Affiliation>, in a Standing Order 31, talked in glowing terms about CETA. However, Conservative members on the international trade committee have denied our request—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844258">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138325">Order, please. This is not a point of order. </ParaText>
             </Content>
@@ -1435,8 +1298,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Foreign Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Obhrai" id="7844263">
-            <PersonSpeaking>
-              <Affiliation DbId="170845" Type="18">Mr. Deepak Obhrai (Parliamentary Secretary to the Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170845" Type="18">Mr. Deepak Obhrai (Parliamentary Secretary to the Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138326">Mr. Speaker, pursuant to Standing Order 32(2) I have the honour to table, in both official languages, treaties entitled: “Specific Annexes of the Protocol of Amendment to the International Convention on the Simplification and Harmonization of Customs Procedures, done at Brussels on 26 June 1999”; “Agreement on Social Security between Canada and the Republic of Bulgaria, done at Ottawa on 5 October 2012”; and “Administrative Agreement between the Government of Canada and the Government of the Republic of Bulgaria for the Implementation of the Agreement on Social Security between Canada and the Republic of Bulgaria, done at Ottawa on 5 October 2012”. </ParaText>
               <ParaText id="3138327">An explanatory memorandum is included with the treaties. </ParaText>
@@ -1449,8 +1311,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Government Response to Petitions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lukiwski" id="7844267">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138328">Mr. Speaker, pursuant to Standing Order 36(8) I have the honour to table, in both official languages, the government's response to 27 petitions. </ParaText>
             </Content>
@@ -1462,8 +1323,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Foreign Affairs and International Development</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Brown (Newmarket—Aurora)" id="7844269">
-            <PersonSpeaking>
-              <Affiliation DbId="170857" Type="18">Ms. Lois Brown (Parliamentary Secretary to the Minister of International Cooperation, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170857" Type="18">Ms. Lois Brown (Parliamentary Secretary to the Minister of International Cooperation, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138329">Mr. Speaker, I have the honour to present, in both official languages, the eighth report of the Standing Committee on Foreign Affairs and International Development concerning the supplementary estimates (B), 2012-2013. </ParaText>
             </Content>
@@ -1475,8 +1335,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Human Resources, Skills and Social Development and the Status of Persons with Disabilities</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Komarnicki" id="7844271">
-            <PersonSpeaking>
-              <Affiliation DbId="170201" Type="2">Mr. Ed Komarnicki (Souris—Moose Mountain, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170201" Type="2">Mr. Ed Komarnicki (Souris—Moose Mountain, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138330">Mr. Speaker, I have the honour to present, in both official languages, the eighth report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities concerning the supplementary estimates (B), 2012-13.</ParaText>
             </Content>
@@ -1487,8 +1346,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Agriculture and Agri-Food</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Tweed" id="7844276">
-            <PersonSpeaking>
-              <Affiliation DbId="170617" Type="2">Mr. Merv Tweed (Brandon—Souris, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170617" Type="2">Mr. Merv Tweed (Brandon—Souris, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138331">Mr. Speaker, I have the honour to present, in both official languages, the fifth report of the Standing Committee on Agriculture and Agri-Food concerning the supplementary estimates (B), 2012-13.</ParaText>
             </Content>
@@ -1545,16 +1403,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Alexander" id="7844291">
-            <PersonSpeaking>
-              <Affiliation DbId="170866" Type="18">Mr. Chris Alexander (Parliamentary Secretary to the Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170866" Type="18">Mr. Chris Alexander (Parliamentary Secretary to the Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138355">Mr. Speaker, all of us on this side thank the hon. member for <Affiliation DbId="170296" Type="2">Ottawa Centre</Affiliation> for his speech. He has raised some moving and very tragic cases of individual suffering. We have seen it on our television screens. We find it reprehensible that air power is being used indiscriminately against Syrian civilians and that a government is literally butchering its own people.</ParaText>
               <ParaText id="3138356">Would the hon. member not agree that beyond the horrors we have seen recently and for too long, the use of chemical weapons by the Syrian government would be intolerable, not just for us in this House and in this country, which has always stood for decency and against the use of weapons of mass destruction, but for the whole world and the international community? It is in light of that terrifying prospect that we all pin very urgent hopes on the work of Special Representative Brahimi to bring the members of the Security Council together to take the actions necessary to prevent this new and dangerous phase from being entered.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Dewar" id="7844293">
-            <PersonSpeaking>
-              <Affiliation DbId="170296" Type="2">Mr. Paul Dewar</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170296" Type="2">Mr. Paul Dewar</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138357">Mr. Speaker, I thank the parliamentary secretary for his point and agree with him. We are hearing reports today that Secretary of State Clinton has been engaged with the Russians and the Chinese to do just that. We in the House are supportive of that. That is important for all Canadians to know.</ParaText>
               <ParaText id="3138358">I also want to underline that we have seen the use of torture. We talked about chemical weapons. We have already documented torture being reported in every single city and town throughout Syria. Government forces are using it in a diabolical way. We are talking not just about people implicated on the rebel side, which is horrific; we are also talking about the torture of children who are younger than my kids.</ParaText>
@@ -1563,8 +1419,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ashton" id="7844296">
-            <PersonSpeaking>
-              <Affiliation DbId="170756" Type="2">Ms. Niki Ashton (Churchill, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170756" Type="2">Ms. Niki Ashton (Churchill, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138360">Mr. Speaker, I thank my colleague for speaking so passionately about the current situation in Syria. I have had a chance to hear from Syrian Canadians as well about the tremendous concern and worry that only they and family members who have gone through similar circumstances with family overseas could have.</ParaText>
               <ParaText id="3138361">I wonder if my colleague can speak a bit about the conditions and challenges in the refugee camps in the various countries that are accepting refugees. Why is it so important for Canada to support the needs in these refugee camps?</ParaText>
@@ -1572,8 +1427,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Dewar" id="7844299">
-            <PersonSpeaking>
-              <Affiliation DbId="170296" Type="2">Mr. Paul Dewar</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170296" Type="2">Mr. Paul Dewar</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138363">Mr. Speaker, I thank the member for <Affiliation DbId="170756" Type="2">Churchill</Affiliation> for that question. She is asking what is happening to the civilians and about the conditions they are living in. She has a background in international affairs and knows that it is important that we supply all the necessary tools they need in the border regions if we can. </ParaText>
               <ParaText id="3138364">There is some aid getting into Syria, although it is very difficult to get it there. It is important, because we are talking about malnourished children. In some of these refugee camps in Jordan, Turkey and so on, they just cannot meet the demand. They do not have adequate sanitation. They cannot get food to people who need it. That means that there are more people being left inside Syria who cannot get out of Syria to the camps.</ParaText>
@@ -1581,8 +1435,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calandra" id="7844301">
-            <PersonSpeaking>
-              <Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138366">Mr. Speaker, I rise on a point of order. I move:</ParaText>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
@@ -1595,30 +1448,21 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844308">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138368">The hon. parliamentary secretary has moved a motion that is non-debatable and as such, other members cannot rise on the point of order until it has been dispensed with.</ParaText>
               <ParaText id="3138369"> The question is on the motion. Is it the pleasure of the House to adopt the motion? </ParaText>
-              <ParaText id="3138370">
-                <B>Some hon. members:</B> Agreed. </ParaText>
-              <ParaText id="3138371">
-                <B>Some hon. members:</B> No. </ParaText>
-              <ParaText id="3138372">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> All those in favour of the motion will please say yea. </ParaText>
-              <ParaText id="3138373">
-                <B>Some hon. members:</B> Yea. </ParaText>
-              <ParaText id="3138374">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> All those opposed will please say nay. </ParaText>
-              <ParaText id="3138375">
-                <B>Some hon. members:</B> Nay. </ParaText>
-              <ParaText id="3138376">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> In my opinion the yeas have it. </ParaText>
+              <ParaText id="3138370"><B>Some hon. members:</B> Agreed. </ParaText>
+              <ParaText id="3138371"><B>Some hon. members:</B> No. </ParaText>
+              <ParaText id="3138372"><B>The Acting Speaker (Mr. Barry Devolin):</B> All those in favour of the motion will please say yea. </ParaText>
+              <ParaText id="3138373"><B>Some hon. members:</B> Yea. </ParaText>
+              <ParaText id="3138374"><B>The Acting Speaker (Mr. Barry Devolin):</B> All those opposed will please say nay. </ParaText>
+              <ParaText id="3138375"><B>Some hon. members:</B> Nay. </ParaText>
+              <ParaText id="3138376"><B>The Acting Speaker (Mr. Barry Devolin):</B> In my opinion the yeas have it. </ParaText>
               <ParaText id="3138377">
                 <I>And five or more members having risen:</I>
               </ParaText>
-              <ParaText id="3138378">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> Call in the members. </ParaText>
+              <ParaText id="3138378"><B>The Acting Speaker (Mr. Barry Devolin):</B> Call in the members. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1629,7 +1473,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessContent>
           <ParaText id="3138379">(The House divided on the motion, which was agreed to on the following division:)</ParaText>
           <Division id="7844315" DivisionNumber="578">
-            <DivisionNumber>(Division No. 578)<Sup /></DivisionNumber>
+            <DivisionNumber>(Division No. 578)<Sup/></DivisionNumber>
             <DivisionType vote-type="Yeas">
               <Type>YEAS</Type>
               <Title>Members</Title>
@@ -1748,8 +1592,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844362">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="4">Motion agreed to</ProceduralText>
               <ParaText id="3138380">I declare the motion carried.</ParaText>
@@ -1758,8 +1601,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Alexander" id="7844365">
-            <PersonSpeaking>
-              <Affiliation DbId="170866" Type="18">Mr. Chris Alexander (Parliamentary Secretary to the Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170866" Type="18">Mr. Chris Alexander (Parliamentary Secretary to the Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138382">Mr. Speaker, I want to thank the whole House for the support it has shown for this concurrence motion and for the support that members are showing by being here today for the people of Syria, and to the members opposite for having brought this most important issue before the House on a Friday at a time when there are other issues on the front pages on newspapers.</ParaText>
               <ParaText id="3138383">We need, as Canadians, to be active. We need to be building on the proud legacy of engagement that we have had with the Syrian people, above all on the humanitarian front, but also to be speaking out for the larger issues of international peace and security that are at stake, because 40,000 civilian deaths is beyond comprehension for most of us. They have come quickly. They have come in horrific ways. It has been a civilian toll for the most part. The threat to Syrians has come from the air. It has come from snipers. It has come from bombs. It has come from a government using heavy weapons against its own population. From what we heard in this debate and in committee, the House is of one voice and of one mind in thinking that the despicable strategy of the Syrian government is absolutely reprehensible.</ParaText>
@@ -1784,29 +1626,20 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844372">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138396"> The question is on the motion. Is it the pleasure of the House to adopt the motion? </ParaText>
-              <ParaText id="3138397">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-              <ParaText id="3138398">
-                <B>Some hon. members:</B> No.</ParaText>
-              <ParaText id="3138399">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> All those in favour of the motion will please say yea. </ParaText>
-              <ParaText id="3138400">
-                <B>Some hon. members:</B> Yea. </ParaText>
-              <ParaText id="3138401">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> All those opposed will please say nay. </ParaText>
-              <ParaText id="3138402">
-                <B>Some hon. members:</B> Nay. </ParaText>
-              <ParaText id="3138403">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> In my opinion the yeas have it. </ParaText>
+              <ParaText id="3138397"><B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="3138398"><B>Some hon. members:</B> No.</ParaText>
+              <ParaText id="3138399"><B>The Acting Speaker (Mr. Barry Devolin):</B> All those in favour of the motion will please say yea. </ParaText>
+              <ParaText id="3138400"><B>Some hon. members:</B> Yea. </ParaText>
+              <ParaText id="3138401"><B>The Acting Speaker (Mr. Barry Devolin):</B> All those opposed will please say nay. </ParaText>
+              <ParaText id="3138402"><B>Some hon. members:</B> Nay. </ParaText>
+              <ParaText id="3138403"><B>The Acting Speaker (Mr. Barry Devolin):</B> In my opinion the yeas have it. </ParaText>
               <ParaText id="3138404">
                 <I>And five or more members having risen:</I>
               </ParaText>
-              <ParaText id="3138405">
-                <B>The Acting Speaker (Mr. Barry Devolin):</B> Call in the members. </ParaText>
+              <ParaText id="3138405"><B>The Acting Speaker (Mr. Barry Devolin):</B> Call in the members. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1819,8 +1652,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <I>And the bells having rung: </I>
           </ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844442">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138407">At this time and in accordance with past precedence, as stated on page 571 of <I>House of Commons Procedure and Practice</I>, I have no choice but to interrupt the bells as the motion that the debate be now adjourned has lapsed. Accordingly, the debate on the motion will be rescheduled for another sitting. </ParaText>
               <ParaText id="3138408">It being 1:30 p.m., the House will now proceed to the consideration of private members' business as listed on today's order paper.</ParaText>
@@ -1844,8 +1676,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Speaker's Ruling</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Acting Speaker (Mr. Barry Devolin)" id="7844450">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138410">There are five motions standing on the notice paper for the report stage of the member for <Affiliation DbId="170506" Type="2">South Surrey—White Rock—Cloverdale</Affiliation>'s Bill <Document DbId="5295287" Type="4">C-377, An Act to amend the Income Tax Act (requirements for labour organizations)</Document>.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2189,55 +2020,46 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Cotler" id="7844473">
-            <PersonSpeaking>
-              <Affiliation DbId="170211" Type="2">Hon. Irwin Cotler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170211" Type="2">Hon. Irwin Cotler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138481">Mr. Speaker, I rise on a point of order. I seek the consent of the House for the following motion, which is particularly timely: That, in the opinion of the House, the government should designate the December 10 each year as national speak no evil day, where parliamentarians and citizens are called upon to partake in a day for the promotion of mutual respect and public civility, deploring (a) the increasing incidents and intensity of assault of an abusive speech in parliamentary discourse and debate and (b) the decline in civility and the corruption of public discourse.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844475">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138482">Does the hon. member for Mount Royal have the unanimous consent of the House to move the motion?</ParaText>
-              <ParaText id="3138483">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-              <ParaText id="3138484">
-                <B>Some hon. members:</B> No.</ParaText>
+              <ParaText id="3138483"><B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="3138484"><B>Some hon. members:</B> No.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="13" Mn="45">(1345)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Calandra" id="7844480">
-            <PersonSpeaking>
-              <Affiliation DbId="170858" Type="18">Mr. Paul Calandra</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170858" Type="18">Mr. Paul Calandra</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138485">Mr. Speaker, I rise on a point of order. I understand the bells had started ringing earlier and we did not actually proceed to a vote. Could you explain why we did not proceed to a vote after the bells?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844481">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138486">The hon. parliamentary secretary asked why the vote was suspended at 1:30 p.m. It was because the time for government orders had expired and moving to adjourn the debate had become redundant at that point.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Poilievre" id="7844483">
-            <PersonSpeaking>
-              <Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138487">Mr. Speaker, I am not sure I heard you clearly. Did government orders terminate at the regular time?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844484">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138488">Government orders expired at 1:30 p.m., which is the regular time on a Friday.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Hiebert" id="7844485">
-            <PersonSpeaking>
-              <Affiliation DbId="170506" Type="2">Mr. Russ Hiebert</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170506" Type="2">Mr. Russ Hiebert</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138489">Mr. Speaker, it is a pleasure to rise today to address report stage of my private member's Bill <Document DbId="5295287" Type="4">C-377</Document> and the amendments I tabled to improve the bill.</ParaText>
               <ParaText id="3138490">I want to thank you for allowing my amendments to stand. It was disappointing to see the shameful tactics of the NDP members at the finance committee attempting to shut down debate and prevent these amendments from coming forward. This bill reflects the transparency that 83% of Canadians say they want to see from labour organizations. Nevertheless, the parliamentary process is robust and despite the NDP's efforts to prevent improvements to Bill <Document DbId="5295287" Type="4">C-377</Document> for the benefit of labour organizations and all Canadians, the amendments I proposed are moving forward again.</ParaText>
@@ -2264,8 +2086,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="13" Mn="55">(1355)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844496">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138509">Resuming debate.</ParaText>
               <ParaText id="3138510">In order to participate, members must be sitting in their own seats. Is the hon. member for York Centre rising on debate?</ParaText>
@@ -2273,30 +2094,26 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Adler" id="7844497">
-            <PersonSpeaking>
-              <Affiliation DbId="170479" Type="2">Mr. Mark Adler (York Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170479" Type="2">Mr. Mark Adler (York Centre, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138512">Mr. Speaker, I appreciate the opportunity to speak in favour of today's important pro-worker legislation.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844499">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138513">There is a point of order. </ParaText>
               <ParaText id="3138514">The hon. member for Ottawa Centre.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Dewar" id="7844500">
-            <PersonSpeaking>
-              <Affiliation DbId="170296" Type="2">Mr. Paul Dewar</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170296" Type="2">Mr. Paul Dewar</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138515">Mr. Speaker, you have heard numerous times from us that we actually call the question. You looked and asked three or four times. The member was not in his place and was not ready. You heard us. I am wondering why you did not call the question.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844501">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138516">The hon. member for Ottawa Centre has asked why the Chair went back two or three times. As this hon. member and other members know, it is the practice in this place that speaking order sequences are provided to the Chair. In this case, all caucuses provided the Chair with speakers. There appears to be some disagreement between the lists provided to the Chair and those who wish to participate in the debate.</ParaText>
               <ParaText id="3138517">In the first case, a member who was on the list chose not to participate. In another case, a member who was next on the list was not sitting in his own seat. It is prudent that the Chair ensure that members in this place who would like to take part in a debate have an opportunity to do so. There appeared to be confusion in this place. The hon. member for York Centre was next on the list and was sitting in his place. He did rise from his place and on that basis is recognized.</ParaText>
@@ -2304,8 +2121,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Adler" id="7844504">
-            <PersonSpeaking>
-              <Affiliation DbId="170479" Type="2">Mr. Mark Adler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170479" Type="2">Mr. Mark Adler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138519">As I was saying, Mr. Speaker, I am in favour of today's important pro-worker legislation from the member for <Affiliation DbId="170506" Type="2">South Surrey—White Rock—Cloverdale</Affiliation>. I also want to thank all my colleagues on the finance committee and the many witnesses who appeared before it who shared their thoughts and concerns during our study of today's bill.</ParaText>
               <ParaText id="3138520">I certainly applaud the member for <Affiliation DbId="170506" Type="2">South Surrey—White Rock—Cloverdale</Affiliation> for listening to the feedback we heard and for making some important amendments to this landmark legislation to address some legitimate concerns and to make a good bill even better.</ParaText>
@@ -2339,25 +2155,21 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="14" Mn="05">(1405)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Poilievre" id="7844524">
-            <PersonSpeaking>
-              <Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138538">Mr. Speaker, on a point of order, the member suggested that it was a communist gathering.</ParaText>
-              <ParaText id="3138539">
-                <B>An hon. member:</B> This is not a point of order.</ParaText>
+              <ParaText id="3138539"><B>An hon. member:</B> This is not a point of order.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844525">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138540">Resuming debate, the hon. member for Rosemont—La Petite-Patrie.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boulerice" id="7844526">
-            <PersonSpeaking>
-              <Affiliation DbId="170207" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170207" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138541">Mr. Speaker, I would have liked to say how happy I am to rise in the House to speak to private member's Bill <Document DbId="5295287" Type="4">C-377</Document>. That is not entirely true, however. I will spend a few minutes talking about it today. Everyone knows I have much to say on the subject. It is worrisome to me, as it is to the NDP, the labour movement as a whole, labour organizations and other associated organizations.</ParaText>
               <ParaText id="3138542">I would remind all members that the labour movement is the greatest democratic movement in our country's civil society. More than four million workers strong, it ensures that Canada and Quebec are, generally speaking, great places to live. Our working conditions, wages and occupational health and safety standards are what keep this country's economy running. Whether in the city or in the country, people can patronize businesses. They can go to restaurants and purchase goods. This historic legacy of the labour movement deserves to be recognized in the House. The very existence of the middle class is due in no small part to the battles that unions have been fighting for decades now.</ParaText>
@@ -2393,16 +2205,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Anderson" id="7844579">
-            <PersonSpeaking>
-              <Affiliation DbId="170846" Type="18">Mr. David Anderson (Parliamentary Secretary to the Minister of Natural Resources and for the Canadian Wheat Board, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170846" Type="18">Mr. David Anderson (Parliamentary Secretary to the Minister of Natural Resources and for the Canadian Wheat Board, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138567">Mr. Speaker, I hope to put a little light on the subject. The member opposite seems to have been more interested in fear-mongering than in actually dealing with the content of the legislative proposal.</ParaText>
               <ParaText id="3138568"> I want to thank you, Mr. Speaker, for the opportunity to speak about Bill <Document DbId="5295287" Type="4">C-377</Document>, which is sponsored by the MP for <Affiliation DbId="170506" Type="2">South Surrey—White Rock—Cloverdale</Affiliation>. </ParaText>
               <ParaText id="3138569">Before I get into the details of the bill, I would like to begin today by taking a few moments to speak about the importance of labour organizations. All of us know that they play a crucial, multi-faceted role in our society. </ParaText>
-              <ParaText id="3138570">
-                <B>Some hon. members:</B> Oh, oh!</ParaText>
-              <ParaText id="3138571">
-                <B>Mr. David Anderson:</B> I do not understand why the opposition would be opposed to labour organizations. It seems that we are getting some heckling from members on the other side who do not agree with us when we say that they play a crucial, multi-faceted role in our society. They contribute to the Canadian workplace in many ways. Currently there are over four and a half million workers who are union members, representing over 25% of Canada's civilian labour force. </ParaText>
+              <ParaText id="3138570"><B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="3138571"><B>Mr. David Anderson:</B> I do not understand why the opposition would be opposed to labour organizations. It seems that we are getting some heckling from members on the other side who do not agree with us when we say that they play a crucial, multi-faceted role in our society. They contribute to the Canadian workplace in many ways. Currently there are over four and a half million workers who are union members, representing over 25% of Canada's civilian labour force. </ParaText>
               <ParaText id="3138572">Strong labour management relations contribute to our country's economic prosperity and the economic security of all Canadians. Labour organizations play a direct role as advocates for organized labour. They are also important in the negotiation and enforcement of collective agreements and labour standards. Further, these organizations have played a pivotal role in the past in advancing some of the most fundamental improvements in the workplace. Issues they have contributed to include advocating for fair wages, reasonable working times, providing training and learning for employees, protecting vulnerable workers, improving working environments for women and promoting compliance with and enforcement of labour laws across Canada.</ParaText>
               <ParaText id="3138573">As a part of that, these organizations are given generous benefits through the tax system. Labour organizations are exempted from tax on their income, and members are entitled to deduct any dues paid to such organizations. Notwithstanding these generous tax benefits, labour organizations are not required to disclose their financial activities in any significant detail. This is despite the fact that they are democratic organizations supported by dues-paying members and are subsidized by the Canadian tax system. </ParaText>
               <ParaText id="3138574">We believe that democratic values go hand in hand with openness and transparency. Today's bill proposes to amend the Income Tax Act by requiring labour organizations to file a standardized public information return with the Canada Revenue Agency each year. Currently, there is no separate information return for labour organizations. By requiring such a return, the bill promotes better accountability to Canadians. </ParaText>
@@ -2422,8 +2231,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Allen (Welland)" id="7844589">
-            <PersonSpeaking>
-              <Affiliation DbId="170456" Type="2">Mr. Malcolm Allen (Welland, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170456" Type="2">Mr. Malcolm Allen (Welland, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138586">Mr. Speaker, first of all, let me help my friends learn a little about how this actually works, as I am probably the only member of the House who was the financial officer for a large union. I spent eight years of my life doing that. </ParaText>
               <ParaText id="3138587">This whole idea that the government is suggesting, that there is this lack of transparency and that unions do not tell anyone anything and all of this information is hidden away from the membership somewhere in a secret vault, is absolute hokum. I will explain how this works, especially to my friend who lives nearby.</ParaText>
@@ -2438,8 +2246,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="7844592">
-            <PersonSpeaking>
-              <Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3138595">Order, please. The time provided for the consideration of private members' business has now expired and the matter is dropped to the bottom of the order of precedence on the order paper. The hon. member for Welland will have seven minutes remaining when this matter returns before the House.</ParaText>
               <ParaText id="3138596">It being 2:30 p.m., the House stands adjourned until next Monday at <?bk?>11 a.m.<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
@@ -2482,31 +2289,31 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <title>Board Of Internal Economy</title>
       <Affiliation>
         <Name>Hon. Andrew Scheer</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Mr. Nathan Cullen</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Ms. Judy Foote</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Hon. Rob Merrifield</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Hon. Gordon O'Connor</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Ms. Nycole Turmel</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Hon. Peter Van Loan</Name>
-        <Role />
+        <Role/>
       </Affiliation>
     </MemberList>
     <MemberList MemberListType="MembersAlpha">
@@ -14521,7 +14328,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
           <Affiliation>
             <Role>Vice-Chair:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="Members">
