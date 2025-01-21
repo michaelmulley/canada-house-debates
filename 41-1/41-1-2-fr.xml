@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+<?xml version='1.0' encoding='utf8'?>
 <Hansard xml:lang="FR" id="3861006">
   <StartPageNumber>15</StartPageNumber>
   <DocumentTitle>
@@ -50,7 +32,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
     <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
     <ExtractedItem Name="SessionNumber">1</ExtractedItem>
-    <ExtractedItem Name="InCameraNote" />
+    <ExtractedItem Name="InCameraNote"/>
   </ExtractedInformation>
   <HansardBody>
     <Intro>
@@ -83,8 +65,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
 </I>
           </ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="3861069">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431091">À l'ordre, s'il vous plaît. J'ai l'honneur de vous informer que, les Communes s'étant rendues au Sénat sur l'invitation de Son Excellence le Gouverneur général, j'ai annoncé à Son Excellence que j'avais été choisi Président. En votre nom, j'ai réclamé les privilèges qui vous sont accordés d'ordinaire et que Son Excellence a bien voulu confirmer.</ParaText>
             </Content>
@@ -107,12 +88,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861076">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431094"> Le très honorable premier ministre a-t-il le consentement de la Chambre pour faire imprimer le projet de loi?</ParaText>
-              <ParaText id="2431095">
-                <B>Des voix:</B> D'accord.</ParaText>
+              <ParaText id="2431095"><B>Des voix:</B> D'accord.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -123,8 +102,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <CatchLine>L'Adresse</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="3861078">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431096">J'ai l'honneur d'informer la Chambre que, lorsque celle-ci s'est rendue aujourd'hui auprès de Son Excellence le Gouverneur général, aujourd'hui, dans la Chambre du Sénat, il a plu à Son Excellence de prononcer un discours devant les deux Chambres du Parlement. Afin d'éviter les erreurs, j'en ai obtenu le texte, qui se lit ainsi: </ParaText>
             </Content>
@@ -255,14 +233,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <ParaText id="2431166">En tant que Canadiens et Canadiennes, nous sommes fiers de notre histoire et envisageons l’avenir comme une épopée des plus brillants exploits. Depuis le début de notre existence en tant que pays, nous nous sommes toujours unis pour atteindre notre but commun, chacun étant prêt à contribuer à faire avancer le Canada.</ParaText>
           <ParaText id="2431167">En prenant appui sur les investissements prudents et les mesures déterminantes prises au cours des cinq dernières années, notre gouvernement s’empressera de mettre en œuvre la prochaine phase importante du Plan d’action économique. Nous nous inspirerons du courage dont font preuve les Canadiens et Canadiennes pour relever les défis actuels, et de leur détermination à surmonter ceux qui se dessinent à l’horizon.</ParaText>
           <ParaText id="2431168">Mesdames et messieurs les députés, vous serez appelés à voter les crédits nécessaires pour financer les services et les dépenses approuvés par le Parlement.</ParaText>
-          <ParaText id="2431169">
-            <I>Honorables sénateurs et députés</I>, laissons notre grande démocratie appuyer les Canadiens et Canadiennes au moment où ils entreprennent de façonner l’avenir d’un vingt-et-unième siècle limité seulement par leur ambition et leur imagination</ParaText>
+          <ParaText id="2431169"><I>Honorables sénateurs et députés</I>, laissons notre grande démocratie appuyer les Canadiens et Canadiennes au moment où ils entreprennent de façonner l’avenir d’un vingt-et-unième siècle limité seulement par leur ambition et leur imagination</ParaText>
           <ParaText id="2431170">Puisse la Divine Providence vous guider dans vos délibérations et vous rendre dignes de la confiance placée en vous.
 
 </ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Harper" id="3861081">
-            <PersonSpeaking>
-              <Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="78738" Type="1">Le très hon. Stephen Harper (premier ministre, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431171"> Monsieur le Président, je propose:</ParaText>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
@@ -274,12 +250,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861205">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431173">D'accord?</ParaText>
-              <ParaText id="2431174">
-                <B>Des voix:</B> D'accord. </ParaText>
+              <ParaText id="2431174"><B>Des voix:</B> D'accord. </ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="4">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
@@ -291,8 +265,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessQualifier>Inscription à l'ordre du jour</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Flaherty" id="3861083">
-            <PersonSpeaking>
-              <Affiliation DbId="78777" Type="4">L'hon. Jim Flaherty (ministre des Finances, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="78777" Type="4">L'hon. Jim Flaherty (ministre des Finances, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431175">Monsieur le Président, je demande qu'une motion soit inscrite à l'ordre du jour du 6 juin 2011 pour la présentation du budget à 16 heures.</ParaText>
             </Content>
@@ -304,8 +277,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Travaux des subsides</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Clement" id="3861086">
-            <PersonSpeaking>
-              <Affiliation DbId="170688" Type="96">L'hon. Tony Clement (président du Conseil du Trésor et ministre de l'Initiative fédérale du développement économique dans le Nord de l'Ontario, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170688" Type="96">L'hon. Tony Clement (président du Conseil du Trésor et ministre de l'Initiative fédérale du développement économique dans le Nord de l'Ontario, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431176">Monsieur le Président, je propose: </ParaText>
               <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
@@ -317,18 +289,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Le Président" id="3861087">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431178">D'accord?</ParaText>
-              <ParaText id="2431179">
-                <B>Des voix:</B> D'accord.</ParaText>
+              <ParaText id="2431179"><B>Des voix:</B> D'accord.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="6">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861178">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431180">Je dois informer la Chambre qu’il y aura trois jours désignés au cours de la période des crédits se terminant le 23 juin 2011. </ParaText>
             </Content>
@@ -339,8 +308,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Les travaux de la Chambre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Loan" id="3861088">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431181">Monsieur le Président, la motion que je m'apprête à présenter est plutôt longue, mais j'espère qu'elle obtiendra tout de même le consentement unanime de la Chambre. Je propose: </ParaText>
               <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
@@ -402,12 +370,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861092">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431192"> La Chambre a entendu la motion. Plaît-il à la Chambre de l'adopter?</ParaText>
-              <ParaText id="2431193">
-                <B>Des voix:</B> D'accord.</ParaText>
+              <ParaText id="2431193"><B>Des voix:</B> D'accord.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="8">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
@@ -417,8 +383,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle> Budget principal des dépenses de 2011-2012</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Clement" id="3861093">
-            <PersonSpeaking>
-              <Affiliation DbId="170688" Type="96">L'hon. Tony Clement (président du Conseil du Trésor et ministre de l'Initiative fédérale du développement économique dans le Nord de l'Ontario, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170688" Type="96">L'hon. Tony Clement (président du Conseil du Trésor et ministre de l'Initiative fédérale du développement économique dans le Nord de l'Ontario, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431194"> Monsieur le Président, j'ai le plaisir de présenter à la Chambre un message de Son Excellence le Gouverneur général, signé de sa main, par lequel il transmet les crédits pour l'exercice se terminant le 31 mars 2012.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -427,8 +392,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="3861094">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431196">En voici le texte:</ParaText>
               <ParaText id="2431197">
@@ -446,8 +410,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessQualifier>Procédure et affaires de la Chambre</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Loan" id="3861095">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431198">Monsieur le Président, j'ai une autre motion pour laquelle je désire obtenir le consentement unanime. Elle se lit comme suit:</ParaText>
               <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
@@ -461,12 +424,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861100">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431200">Plaît-il à la Chambre d'adopter la motion?</ParaText>
-              <ParaText id="2431201">
-                <B>Des voix:</B> D'accord.</ParaText>
+              <ParaText id="2431201"><B>Des voix:</B> D'accord.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="10">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
@@ -480,8 +441,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <ParaText id="2431202">La Chambre passe à l'étude du discours prononcé par Son Excellence le Gouverneur général à l'ouverture de la session.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ambler" id="3861106">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mme Stella Ambler (Mississauga-Sud, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mme Stella Ambler (Mississauga-Sud, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431203">Monsieur le Président, c'est pour moi un grand honneur de présenter, à l'occasion de ma première intervention à la Chambre des communes, la motion en réponse au discours du Trône et je suis reconnaissante au <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> de m'avoir donné cette chance.</ParaText>
               <ParaText id="2431204">Je remercie avant tout les électeurs de <Affiliation DbId="170092" Type="2">Mississauga-Sud</Affiliation>; je m'engage à leur exprimer ma gratitude en les servant de mon mieux, avec intégrité et humilité, et en travaillant fort. Je suis fière de représenter la population de <Affiliation DbId="170092" Type="2">Mississauga-Sud</Affiliation>, des gens aimables et formidables. J'habite cette magnifique communauté riveraine et je serai éternellement reconnaissante de cette occasion qui m'est donnée de représenter et de servir la population.</ParaText>
@@ -532,8 +492,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Nash" id="3861122">
-            <PersonSpeaking>
-              <Affiliation DbId="170382" Type="2">Mme Peggy Nash (Parkdale—High Park, NPD)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170382" Type="2">Mme Peggy Nash (Parkdale—High Park, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431233">Monsieur le Président, je remercie la députée d'en face de ses commentaires. J'aimerais plus particulièrement remercier les électeurs de la circonscription de Parkdale—High Park de m'avoir fait confiance et de m'avoir élue.</ParaText>
               <ParaText id="2431234">J'ai parlé avec des gens de ma collectivité, et j'ai constaté que beaucoup ont de la difficulté à joindre les deux bouts. Les ménages sont lourdement endettés et bien des gens sont chômeurs. Il est évident que le Canada est actuellement aux prises avec une crise de l'emploi. Ce n'est pas seulement la quantité d'emplois qui est en cause, mais aussi la qualité de ceux-ci. Beaucoup trop de Canadiens ont de la difficulté à joindre les deux bouts.</ParaText>
@@ -542,35 +501,29 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Ambler" id="3861128">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431237">Monsieur le Président, le discours du Trône annonce des mesures visant à lutter contre la crise qui touche le marché du travail canadien, comme le plan d'action économique que nous avons mis en oeuvre.</ParaText>
               <ParaText id="2431238">Je tiens à rappeler aux députés que le Canada a mieux surmonté la récession mondiale que tous les autres pays industrialisés. Le taux de chômage est le même qu'il était au début de la récession. Le gouvernement a créé près de 500 000 nouveaux emplois, dont 91 000 emplois à plein temps au cours du mois de mars. Il s'agit là de l'une des priorités du gouvernement, et elle a été mise à l'avant-plan aujourd'hui dans le discours du Trône.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Rae" id="3861133">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">L'hon. Bob Rae (Toronto-Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">L'hon. Bob Rae (Toronto-Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431239">Monsieur le Président, j'aimerais souhaiter la bienvenue à la Chambre à la députée de <Affiliation DbId="170092" Type="2">Mississauga-Sud</Affiliation>. Je veux aussi la féliciter d'avoir exposé si passionnément et si fidèlement Ies politiques du gouvernement. Je dois dire que j'ai trouvé particulièrement encourageant de l'entendre parler de l'aide destinée aux travailleurs âgés qui souhaitent poursuivre leur carrière.</ParaText>
               <ParaText id="2431240">Cela dit, je désire lui poser une question. Le message des conservateurs fait sourciller bon nombre d'entre nous: à les entendre, ils disposent des sommes nécessaires pour bâtir des prisons, chose que la plupart des gens jugent inutile, ils ont assez d'argent pour...</ParaText>
-              <ParaText id="2431241">
-                <B>Une voix:</B> Ce n'est pas vrai.</ParaText>
-              <ParaText id="2431242">
-                <B>L'hon. Bob Rae:</B> Monsieur le Président, vous voyez la tendance qui se dessine. J'en vois et j'en entends déjà les signes.</ParaText>
+              <ParaText id="2431241"><B>Une voix:</B> Ce n'est pas vrai.</ParaText>
+              <ParaText id="2431242"><B>L'hon. Bob Rae:</B> Monsieur le Président, vous voyez la tendance qui se dessine. J'en vois et j'en entends déjà les signes.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861134">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431243">À l'ordre. Heureusement que le député de Toronto-Centre a l'ouïe fine, car pour ma part j'ai de la difficulté à entendre la question. Un peu d'ordre, s'il vous plaît. Le député de Toronto-Centre a quelques secondes pour terminer sa question.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Rae" id="3861135">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">L'hon. Bob Rae</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">L'hon. Bob Rae</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431244">Monsieur le Président, les députés d'en face me font penser à la prière de Saint Augustin: « Seigneur, rends-moi chaste, mais pas tout de suite. » Voilà comment j'interprète les propos des députés d'en face.</ParaText>
               <ParaText id="2431245">Or, si le budget prévoit des fonds pour tout cela et pour les réductions d'impôt qu'a mentionnées notre collègue de <Affiliation DbId="170382" Type="2">Parkdale—High Park</Affiliation>, pourquoi n'en prévoirait-il pas davantage pour les aînés qui vivent dans la pauvreté? Au lieu de l'augmentation dérisoire du SRG, qui leur permettra à peine de se payer une tasse de café par jour, pourquoi ne pas augmenter considérablement les prestations versées aux aînés, comme l'ont proposé les partis de l'opposition? </ParaText>
@@ -578,8 +531,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Ambler" id="3861140">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431246">Monsieur le Président, comme le savent tous les députés, nous avons tous fait campagne pendant 37 jours et nous avons entendu — tous les jours, au téléphone et surtout de vive voix, en faisant du porte à porte —, nos électeurs et les Canadiens partout au Canada parler de leurs priorités.</ParaText>
               <ParaText id="2431247">Nous n'avons jamais caché nos priorités, nous les avons clairement énoncées dans notre plateforme électorale. Aucun gouvernement n'a fait davantage pour les aînés que le présent gouvernement. L'une des mesures que nous proposons est d'augmenter le montant de Supplément de revenu garanti versé à nos aînés les plus vulnérables et nous en sommes très fiers. Nous sommes également fiers de nos mesures incitatives, comme le compte d'épargne libre d'impôt qui profite aux aînés et au reste de la population. </ParaText>
@@ -587,8 +539,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Lukiwski" id="3861143">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">M. Tom Lukiwski (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">M. Tom Lukiwski (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431249">Monsieur le Président, j'aimerais d'abord féliciter ma nouvelle collègue de <Affiliation DbId="170092" Type="2">Mississauga-Sud</Affiliation> de son premier discours à la Chambre.</ParaText>
               <ParaText id="2431250">Beaucoup d'entre nous sont des nouveaux venus à la Chambre qui, dans les jours et les semaines qui viennent, auront l'occasion de prononcer leur premier discours et d'exposer aux Canadiens d'un océan à l'autre ce qu'ils souhaitent voir intégrer dans la configuration de ce grand pays qu'est le Canada.</ParaText>
@@ -596,16 +547,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Ambler" id="3861146">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431252">Monsieur le Président, j'aimerais signaler à mon collègue que le gouvernement favorise toujours l'équité et la responsabilité dans le processus électoral. C'est pourquoi une de nos priorités consiste à éliminer les subventions versées aux partis politiques. Nous croyons qu'en agissant ainsi, nous pourrons assurer l'équité du système. Et c'est aussi pourquoi nous allons réaliser cette promesse importante qui figurait dans notre plateforme électorale.</ParaText>
               <ParaText id="2431253">En toute franchise, cet élément faisait partie d'un plan qui respectait la population canadienne. Il y était question avant tout d'équité fiscale, de création d'emplois et de faibles taux d'imposition. Tout cela contribue au respect des contribuables et traduit notre volonté de passer de la parole aux actes et d'obtenir des résultats pour les Canadiens grâce à notre travail acharné.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Boivin" id="3861153">
-            <PersonSpeaking>
-              <Affiliation DbId="170299" Type="2">Mme Françoise Boivin (Gatineau, NPD)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170299" Type="2">Mme Françoise Boivin (Gatineau, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431254">Je suis contente d'être de retour et je tiens à vous féliciter, monsieur le Président.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -617,8 +566,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Ambler" id="3861156">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mme Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431258">Monsieur le Président, si l'on jette un coup d'oeil sur cette assemblée, la réponse saute aux yeux. Quelque 75 femmes ont été élues en tant que députées. C'est formidable.</ParaText>
               <ParaText id="2431259">Le gouvernement est résolu à servir tous les Canadiens et continue d'accorder la priorité aux faibles taux d'imposition et à la création d'emplois.</ParaText>
@@ -626,8 +574,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Gourde" id="3861159">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">M. Jacques Gourde (secrétaire parlementaire de la ministre des Travaux publics et des Services gouvernementaux, pour les Langues officielles et pour l'Agence de développement économique pour les régions du Québec, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">M. Jacques Gourde (secrétaire parlementaire de la ministre des Travaux publics et des Services gouvernementaux, pour les Langues officielles et pour l'Agence de développement économique pour les régions du Québec, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431260">Monsieur le Président, je remercie Son Excellence le Gouverneur général pour ses remarques bienveillantes. Je suis heureux et honoré d'appuyer la motion de ma collègue, l'honorable députée de <Affiliation DbId="170092" Type="2">Mississauga-Sud</Affiliation>, concernant l'Adresse en réponse au discours du Trône. Je remercie également le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> qui m'a offert la possibilité de faire cela.</ParaText>
               <ParaText id="2431261">C'est un honneur de continuer à servir mes électeurs ici, dans la 41<Sup>e</Sup> législature du Parlement. Je suis fier de faire partie d'un gouvernement qui s'est toujours donné les priorités qui conviennent, un gouvernement qui s'est toujours consacré aux priorités des Canadiens.</ParaText>
@@ -664,8 +611,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Chisholm" id="3861181">
-            <PersonSpeaking>
-              <Affiliation DbId="170644" Type="2">M. Robert Chisholm (Dartmouth—Cole Harbour, NPD)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170644" Type="2">M. Robert Chisholm (Dartmouth—Cole Harbour, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431289">Monsieur le Président, j'aimerais tout d'abord dire combien je suis ravi de siéger à la Chambre et de faire partie de la loyale opposition de Sa Majesté. Je tiens également à remercier de tout coeur les habitants de Dartmouth—Cole Harbour de m'avoir témoigné leur confiance lors des dernières élections et envoyé à Ottawa pour les représenter et travailler à l'amélioration de leur vie et au renforcement de leurs collectivités.</ParaText>
               <ParaText id="2431290">J'ai cependant une question à poser. Je suis frappé par le programme commercial ambitieux mis de l'avant par le gouvernement. En ma qualité de membre de l'opposition, j'ai hâte de travailler avec lui — et je suis entièrement disposé à le faire — en vue d'assurer la qualité des accords commerciaux. Cependant, le bilan du gouvernement sur le plan de la négociation d'accords de qualité est loin d'être reluisant.</ParaText>
@@ -673,24 +619,21 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Le Président" id="3861182">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431292">À l'ordre, s'il vous plaît. Le secrétaire parlementaire de la ministre des Travaux publics et des Services gouvernementaux a la parole.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Gourde" id="3861183">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431293">Monsieur le Président, j'aimerais remercier mon collègue de sa question et également le féliciter pour son élection. </ParaText>
               <ParaText id="2431294">Oui, nous allons travailler en collaboration avec tous les députés de cette Chambre pour le bien-être des Canadiens dans un avenir rapproché. J'invite l'opposition à voter en faveur de notre budget la semaine prochaine.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Coderre" id="3861185">
-            <PersonSpeaking>
-              <Affiliation DbId="170231" Type="2">L'hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170231" Type="2">L'hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431295">Monsieur le Président, je veux féliciter mon collègue de sa réélection. Je profite aussi de l'occasion pour remercier les électeurs de Bourassa qui m'ont donné un sixième mandat au sein de cette Chambre. C'est vraiment un privilège d'être ici comme parlementaire. </ParaText>
               <ParaText id="2431296">Maintenant, le problème est le suivant et on a déjà vu cela. Il y a beaucoup de beaux concepts. C'est du copier-coller de ce qu'on a entendu pendant de nombreux mois auparavant, mais j'aimerais parler de façon plus concrète. Si le gouvernement est le gouvernement de tous les citoyens, il y a des gens de la Montérégie qui aimeraient revoir leur voiture stationnée, mais avec l'inondation, il n'y a plus de voitures. Ils ont le pressentiment que le gouvernement les a laissés tomber.</ParaText>
@@ -699,16 +642,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Gourde" id="3861190">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431298">Monsieur le Président, je tiens à remercier mon collègue de sa question et également à le féliciter pour son élection. </ParaText>
               <ParaText id="2431299">Nous compatissons énormément avec les gens de la Montérégie et les autres personnes au Canada qui ont subi des sinistres d'ordre naturel qui sont très très graves. Comme on le sait, nous appuyons également nos forces armées qui ont fait un excellent travail partout au pays pour venir en aide à tous ces gens. Il n'y a pas eu de blessés graves ou de morts. Je tiens à les féliciter. Nos forces armées travaillent fort pour la sécurité des Canadiens.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Bellavance" id="3861192">
-            <PersonSpeaking>
-              <Affiliation DbId="170182" Type="2">M. André Bellavance (Richmond—Arthabaska, BQ)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170182" Type="2">M. André Bellavance (Richmond—Arthabaska, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431300">Monsieur le Président, tout comme le député de <Affiliation DbId="170231" Type="2">Bourassa</Affiliation>, je veux débuter en remerciant chaleureusement les électeurs et électrices de ma circonscription, <Affiliation DbId="170182" Type="2">Richmond—Arthabaska</Affiliation>, qui m'ont donné ce quatrième mandat. Il est certain que j'aurais préféré être un peu moins loin, ici. Néanmoins, la démocratie étant ce qu'elle est, je vais évidemment retrousser mes manches et faire en sorte, avec mes collègues, que nous puissions nous faire entendre et que les besoins de nos concitoyens soient également entendus.</ParaText>
               <ParaText id="2431301">Tout comme celle du député de <Affiliation DbId="170231" Type="2">Bourassa</Affiliation>, ma question porte sur ce qui se passe dans l'actualité. Le député qui vient de prendre la parole peut-il me dire pourquoi, exactement, le gouvernement n'a-t-il toujours pas annoncé, à ce jour, de compensations pour les gens qui sont actuellement affectés par les inondations en Montérégie?</ParaText>
@@ -717,8 +658,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Gourde" id="3861194">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431304">Monsieur le Président, je remercie mon collègue de sa question. Je tiens également à féliciter mon voisin de circonscription de son élection.</ParaText>
               <ParaText id="2431305"> Lors de sinistres, des ententes existent entre les gouvernements du Québec et du Canada, et nous allons travailler en vertu des ententes en vigueur.</ParaText>
@@ -726,8 +666,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="M. Garrison" id="3861196">
-            <PersonSpeaking>
-              <Affiliation DbId="170462" Type="2">M. Randall Garrison (Esquimalt—Juan de Fuca, NPD)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170462" Type="2">M. Randall Garrison (Esquimalt—Juan de Fuca, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431306">Monsieur le Président, je veux d’abord vous féliciter pour votre élection à la présidence. Je vous souhaite beaucoup de succès dans vos nouvelles fonctions.</ParaText>
               <ParaText id="2431307">Je remercie aussi les électeurs d’<Affiliation DbId="170462" Type="2">Esquimalt—Juan de Fuca</Affiliation> de m’avoir accordé l’honneur de les représenter à la Chambre. Je ferai tout mon possible pour que leurs préoccupations demeurent toujours au premier plan dans le cadre de mon travail à Ottawa.</ParaText>
@@ -738,8 +677,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Gourde" id="3861202">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431311">Monsieur le Président, je tiens à remercier mon collègue de sa question et à le féliciter de son élection.</ParaText>
               <ParaText id="2431312"> La sécurité financière de tous les Canadiens nous tient à coeur, et je tiens à lui répéter que le prochain budget soutiendra les aînés les plus vulnérables avec des mesures qui aideront plus de 680 000 aînés. J'espère que mon collègue appuiera ce budget.</ParaText>
@@ -747,8 +685,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mme Glover" id="3861204">
-            <PersonSpeaking>
-              <Affiliation DbId="170860" Type="18">Mme Shelly Glover (secrétaire parlementaire du ministre des Finances, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170860" Type="18">Mme Shelly Glover (secrétaire parlementaire du ministre des Finances, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431313">Monsieur le Président, j'aimerais profiter de cette occasion pour souhaiter à nouveau aux députés la bienvenue à la Chambre.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -761,8 +698,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Gourde" id="3861207">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">M. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431319">Monsieur le Président, je remercie ma collègue de sa question et je la félicite pour sa réélection. </ParaText>
               <ParaText id="2431320">Les partis politiques peuvent être subventionnés de trois façons: l'allocation par électeur, le crédit d'impôt pour dons et le remboursement des dépenses électorales. Nous croyons que les deux dernières façons sont amplement suffisantes, et on va y aller de façon progressive pour permettre aux partis politiques de s'adapter à la nouvelle réalité. Nous allons pouvoir faire économiser près de 30 millions de dollars aux contribuables canadiens en abolissant la subvention aux partis politiques de 2 $ par électeur.</ParaText>
@@ -770,8 +706,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Layton" id="3861209">
-            <PersonSpeaking>
-              <Affiliation DbId="170882" Type="9">L'hon. Jack Layton (chef de l'Opposition, NPD)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170882" Type="9">L'hon. Jack Layton (chef de l'Opposition, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431321">Monsieur le Président, c’est un honneur pour moi, en tant que chef de la loyale opposition de Sa Majesté, de proposer la motion suivante avec l’appui du député de <Affiliation DbId="170324" Type="2">Sherbrooke</Affiliation>:</ParaText>
               <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
@@ -785,8 +720,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Loan" id="3861211">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">L'hon. Peter Van Loan (leader du gouvernement à la Chambre des communes, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431323">Monsieur le Président, je propose: </ParaText>
               <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
@@ -800,8 +734,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="3861233">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431325">Maintenant que les travaux de la Chambre sont ajournés, j’invite tous les députés à une réception dans le Hall d’honneur pour souligner l’ouverture de la 41<Sup>e</Sup> législature.</ParaText>
               <ParaText id="2431326">La Chambre s'ajourne à lundi prochain, à 14 heures, conformément à un ordre adopté plus tôt aujourd'hui.</ParaText>
@@ -2689,7 +2622,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Province>Colombie-Britannique</Province>
         <Party>PCC</Party>
       </Affiliation>
-      <Note>N.B.: Sous le titre Affiliation politique: Lib. - Libéral; PCC - Conservateur; BQ - Bloc Québécois; NPD - nouveau parti démocratique; Ind. - indépendant</Note>
+      <Note>N.B.: Sous le titre Affiliation politique: Lib. - Libéral; PCC - Conservateur; BQ - Bloc Québécois; NPD - nouveau parti démocratique; PV - parti vert; Ind. - indépendant</Note>
     </MemberList>
     <MemberList MemberListType="MembersProvince">
       <title>Liste alphabétique des députés de la chambre des communes par province</title>
@@ -4300,13 +4233,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <CommitteeMemberGroup CommitteeMemberGroupType="Chair">
           <Affiliation>
             <Role>Président:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
           <Affiliation>
             <Role>Vice-président:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="Members">
@@ -4354,13 +4287,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <CommitteeMemberGroup CommitteeMemberGroupType="Chair">
           <Affiliation>
             <Role>Président:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
           <Affiliation>
             <Role>Vice-président:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="Members">

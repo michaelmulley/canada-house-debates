@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+<?xml version='1.0' encoding='utf8'?>
 <Hansard xml:lang="EN" id="3861006">
   <StartPageNumber>15</StartPageNumber>
   <DocumentTitle>
@@ -51,7 +32,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
     <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
     <ExtractedItem Name="SessionNumber">1</ExtractedItem>
-    <ExtractedItem Name="InCameraNote" />
+    <ExtractedItem Name="InCameraNote"/>
   </ExtractedInformation>
   <HansardBody>
     <Intro>
@@ -84,8 +65,7 @@ Accordingly, the Speaker with the House went up to the Senate chamber:
             <I>And being returned to the Commons chamber: </I>
           </ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="3861069">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431091">Order, please. I have the honour to report that, the House having attended on His Excellency the Governor General in the Senate chamber, I informed His Excellency that the choice of Speaker has fallen upon me, and in your names and on your behalf, I made the usual claim for your privileges which His Excellency was pleased to confirm to you.</ParaText>
             </Content>
@@ -108,12 +88,10 @@ Accordingly, the Speaker with the House went up to the Senate chamber:
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="The Speaker" id="3861076">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431094">Does the right hon. Prime Minister have the consent of the House to have the bill printed?</ParaText>
-              <ParaText id="2431095">
-                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2431095"><B>Some hon. members:</B> Agreed.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -124,8 +102,7 @@ Accordingly, the Speaker with the House went up to the Senate chamber:
         <CatchLine>The Address</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="3861078">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431096"> I have the honour to inform the House that when this House did attend His Excellency the Governor General in the Senate chamber, His Excellency was pleased to make a speech to both Houses of Parliament. To prevent mistakes, I have obtained a copy, which is as follows: </ParaText>
             </Content>
@@ -246,14 +223,12 @@ Ladies and gentlemen,</I>
           <ParaText id="2431166">As Canadians, we take pride in our history and look forward to our future as the true North, strong and free. From our earliest days, we have always come together to advance our common purpose, each of us ready to do our part to move Canada forward.</ParaText>
           <ParaText id="2431167">Building on the careful investments and decisive actions of the past five years, our Government will move swiftly to deliver the next important phase of the Economic Action Plan. Our Government will reflect the courage Canadians show in meeting the challenges of today and their determination to rise to those they see on the horizon.</ParaText>
           <ParaText id="2431168">Members of the House of Commons, you will be asked to appropriate the funds required to carry out the services and expenditures authorized by Parliament.</ParaText>
-          <ParaText id="2431169">
-            <I>Honourable Senators and Members of the House of Commons</I>, let the work of our great democracy support Canadians as they go about fashioning a twenty-first century destiny limited only by their ambition and imagination.
+          <ParaText id="2431169"><I>Honourable Senators and Members of the House of Commons</I>, let the work of our great democracy support Canadians as they go about fashioning a twenty-first century destiny limited only by their ambition and imagination.
 
 </ParaText>
           <ParaText id="2431170">May Divine Providence guide you in your deliberations and make you equal to the trust bestowed upon you.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Harper" id="3861081">
-            <PersonSpeaking>
-              <Affiliation DbId="78738" Type="1">Right Hon. Stephen Harper (Prime Minister, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="78738" Type="1">Right Hon. Stephen Harper (Prime Minister, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431171">Mr. Speaker, I move:</ParaText>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
@@ -265,12 +240,10 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="3861205">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431173">Is that agreed?</ParaText>
-              <ParaText id="2431174">
-                <B>Some hon. members: </B> Agreed.</ParaText>
+              <ParaText id="2431174"><B>Some hon. members: </B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="4">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
@@ -282,8 +255,7 @@ Ladies and gentlemen,</I>
         <SubjectOfBusinessQualifier>Designation of Order of the Day</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Flaherty" id="3861083">
-            <PersonSpeaking>
-              <Affiliation DbId="78777" Type="4">Hon. Jim Flaherty (Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="78777" Type="4">Hon. Jim Flaherty (Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431175">Mr. Speaker, I request an order of the day be designated for the presentation of the budget to be delivered in this House on June 6, 2011 at 4 p.m.</ParaText>
             </Content>
@@ -295,8 +267,7 @@ Ladies and gentlemen,</I>
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Clement" id="3861086">
-            <PersonSpeaking>
-              <Affiliation DbId="170688" Type="96">Hon. Tony Clement (President of the Treasury Board and Minister for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170688" Type="96">Hon. Tony Clement (President of the Treasury Board and Minister for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431176"> Mr. Speaker, I move:</ParaText>
               <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
@@ -308,18 +279,15 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="The Speaker" id="3861087">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431178">Is it agreed?</ParaText>
-              <ParaText id="2431179">
-                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2431179"><B>Some hon. members:</B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="6">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="3861178">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431180">It is my duty to inform the House that three days will be allotted for the supply period ending June 23, 2011.</ParaText>
             </Content>
@@ -330,8 +298,7 @@ Ladies and gentlemen,</I>
         <SubjectOfBusinessTitle>Business of the House</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="3861088">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431181">Mr. Speaker, I have a rather lengthy motion, but I anticipate there will be unanimous consent for the motion. I move:</ParaText>
               <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
@@ -393,12 +360,10 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="3861092">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431192">The House has heard the terms of the motion. Is it the pleasure of the House to adopt the motion?</ParaText>
-              <ParaText id="2431193">
-                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2431193"><B>Some hon. members:</B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="8">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
@@ -408,8 +373,7 @@ Ladies and gentlemen,</I>
         <SubjectOfBusinessTitle>Main Estimates, 2011-12</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Clement" id="3861093">
-            <PersonSpeaking>
-              <Affiliation DbId="170688" Type="96">Hon. Tony Clement (President of the Treasury Board and Minister for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170688" Type="96">Hon. Tony Clement (President of the Treasury Board and Minister for the Federal Economic Development Initiative for Northern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431194">Mr. Speaker, it gives me great pleasure to present to the House a message from His Excellency the Governor General, signed by his own hand, transmitting the estimates for the fiscal year ending March 31, 2012.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -418,8 +382,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="3861094">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431196">The letter reads as follows:</ParaText>
               <ParaText id="2431197">
@@ -437,8 +400,7 @@ Ladies and gentlemen,</I>
         <SubjectOfBusinessQualifier>Procedure and House Affairs</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="3861095">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431198">Mr. Speaker, I have another motion for which I am requesting unanimous consent. It states:</ParaText>
               <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
@@ -452,12 +414,10 @@ Ladies and gentlemen,</I>
           <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="3861100">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431200">Is it the pleasure of the House to adopt the motion?</ParaText>
-              <ParaText id="2431201">
-                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2431201"><B>Some hon. members:</B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="10">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
@@ -472,8 +432,7 @@ Ladies and gentlemen,</I>
 
 </ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Ambler" id="3861106">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mrs. Stella Ambler (Mississauga South, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mrs. Stella Ambler (Mississauga South, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431203">Mr. Speaker, I am profoundly honoured and grateful to the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> for this opportunity, in my maiden speech to the House of Commons, to move the motion in reply to the Speech from the Throne.</ParaText>
               <ParaText id="2431204">For this opportunity of a lifetime, my greatest thanks go to the voters of <Affiliation DbId="170092" Type="2">Mississauga South</Affiliation> who I hereby commit to repay by serving them to the best of my ability with integrity, humility and hard work. I am proud to represent the kind and wonderful people of <Affiliation DbId="170092" Type="2">Mississauga South</Affiliation>. This beautiful waterfront community is my home, and I will always be grateful for this opportunity to represent and to serve them.</ParaText>
@@ -524,8 +483,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Ms. Nash" id="3861122">
-            <PersonSpeaking>
-              <Affiliation DbId="170382" Type="2">Ms. Peggy Nash (Parkdale—High Park, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170382" Type="2">Ms. Peggy Nash (Parkdale—High Park, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431233">Mr. Speaker, I thank the member opposite for her remarks. I would especially like to thank the constituents in my riding of Parkdale--High Park for placing their trust in me and voting me into the House.</ParaText>
               <ParaText id="2431234">I have spoken to far too many members of my community who are really struggling. They are facing high household debt and many are facing unemployment. It is clear that there is an ongoing jobs crisis in Canada today. It is not only a crisis in the quantity of jobs but also in the quality of jobs. Far too many Canadians cannot make ends meet and are really struggling.</ParaText>
@@ -534,35 +492,29 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mrs. Ambler" id="3861128">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431237">Mr. Speaker, the throne speech addresses the job crisis in Canada, as did our economic action plan that was put in place.</ParaText>
               <ParaText id="2431238">Members will note that Canada has emerged from the global economic recession better than any other industrialized nation. Unemployment levels are at the same place that they were at the beginning of the recession, with this government having created almost 500,000 new jobs, including 91,000 full time jobs in the month of March. This is a priority for our government and it was absolutely outlined in the throne speech today.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mr. Rae" id="3861133">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431239">Mr. Speaker, I want to welcome the member for <Affiliation DbId="170092" Type="2">Mississauga South</Affiliation> to the House. I want to congratulate her for her very effective and faithful rendition of the government's policies. I was particularly encouraged, I must say, by the reference to assistance for older workers in mid-career.</ParaText>
               <ParaText id="2431240">However, I do have a question for the hon. member. The trouble that a lot of us have with the government's basic message is this: The Conservatives are saying that they do have money to build prisons, which most people feel are unnecessary; that they do have money to set aside for--</ParaText>
-              <ParaText id="2431241">
-                <B>An hon. member:</B> It is not true. </ParaText>
-              <ParaText id="2431242">
-                <B>Hon. Bob Rae:</B> Already, Mr. Speaker, you see the pattern is here. I see signs. I am hearing things. </ParaText>
+              <ParaText id="2431241"><B>An hon. member:</B> It is not true. </ParaText>
+              <ParaText id="2431242"><B>Hon. Bob Rae:</B> Already, Mr. Speaker, you see the pattern is here. I see signs. I am hearing things. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="3861134">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431243">Order, please. It is a good thing the hon. member for Toronto Centre can hear things because I am having trouble hearing the question. If we could have a little bit of order, please, he has a few seconds left to finish his question.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Rae" id="3861135">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">Hon. Bob Rae</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">Hon. Bob Rae</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431244">Mr. Speaker, the members opposite remind me very much of a prayer of St. Augustine: Make me pure, but not quite yet. That is what I hear from the members opposite.</ParaText>
               <ParaText id="2431245">However, if there is money for this and if there is money for the tax cuts that have been mentioned by our friend from <Affiliation DbId="170382" Type="2">Parkdale—High Park</Affiliation>, why would there not be additional money for the senior citizens who are living in such poverty? Rather than a cup of coffee a day, which is what is being provided by the GIS, why would there not be more, as has been proposed by the opposition parties? </ParaText>
@@ -570,8 +522,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mrs. Ambler" id="3861140">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431246">Mr. Speaker, as all of us here in the House know, we all campaigned for 37 days and we heard every day, on the phones, mostly at the doors, from our constituents and from Canadians all over Canada about their priorities.</ParaText>
               <ParaText id="2431247"> Our priorities were never secret; they were laid out clearly and concisely in the platform. This government has done more for seniors than any other. Increasing the guaranteed income supplement for our most vulnerable seniors is one of the measures that we are putting forward, and we are very proud of that. We are also proud of incentives such as the tax free savings account for seniors and others. </ParaText>
@@ -579,8 +530,7 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mr. Lukiwski" id="3861143">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431249">Mr. Speaker, first I want to congratulate my new colleague from <Affiliation DbId="170092" Type="2">Mississauga South</Affiliation> for her maiden speech. </ParaText>
               <ParaText id="2431250">Many of us in this place today are new, and many will have opportunities in the upcoming days and weeks to give their maiden speeches and present their views to Canadians from coast to coast to coast on what they want to see in the configuration of this great country of Canada.</ParaText>
@@ -588,16 +538,14 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mrs. Ambler" id="3861146">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431252">Mr. Speaker, I would point out to my colleague that our government always stands for fairness and accountability in the electoral process. That is why it is a priority for us to end subsidies to political parties. We believe that will ensure the fairness of the system. That is why we are going forward with this very important platform issue. </ParaText>
               <ParaText id="2431253">Frankly, that was part of a plan that respected Canadians. That was all about tax fairness. That was about jobs and low taxes. That all fits in with respect for the taxpayer and making sure that we do what we say we will do and get things done for Canadians, working hard for Canadians.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Boivin" id="3861153">
-            <PersonSpeaking>
-              <Affiliation DbId="170299" Type="2">Ms. Françoise Boivin (Gatineau, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170299" Type="2">Ms. Françoise Boivin (Gatineau, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431254">It is good to be back, and congratulations, Mr. Speaker.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -609,8 +557,7 @@ Ladies and gentlemen,</I>
           <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mrs. Ambler" id="3861156">
-            <PersonSpeaking>
-              <Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170092" Type="2">Mrs. Stella Ambler</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431258">Mr. Speaker, looking at this House, it speaks for itself. Some 75 female members of Parliament have been elected. That is fantastic.</ParaText>
               <ParaText id="2431259">This government is committed to serving all Canadians and making sure that its priorities remain low taxes and job creation.</ParaText>
@@ -618,8 +565,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="3861159">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431260">Mr. Speaker, I want to thank the Governor General for his gracious remarks. I am happy and honoured to second the motion of my colleague, the hon. member for <Affiliation DbId="170092" Type="2">Mississauga South</Affiliation>, regarding the address in reply to the Speech from the Throne. I also want to thank the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> for giving me the opportunity to do so.</ParaText>
               <ParaText id="2431261">It is an honour to continue to serve my constituents here in the 41st Parliament. I am proud to be part of a government that has always focused on priorities, a government that has always been dedicated to the priorities of Canadians.</ParaText>
@@ -656,8 +602,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mr. Chisholm" id="3861181">
-            <PersonSpeaking>
-              <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm (Dartmouth—Cole Harbour, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm (Dartmouth—Cole Harbour, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431289">Mr. Speaker, first, I am thrilled to be in this place and to be a member of Her Majesty's loyal opposition. Also, I very much thank the people of Dartmouth—Cole Harbour who have shown confidence in me in the last election, sending me here to speak on their behalf and to work on making their lives and communities stronger.</ParaText>
               <ParaText id="2431290">I do have a question. I am struck by the ambitious program that the government has talked about with respect to trade. I, as a member of the opposition, am quite prepared and anxious to work with it to ensure that any agreements are strong. However, the government's history is not a good one in terms of negotiating strong agreements.</ParaText>
@@ -665,24 +610,21 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="The Speaker" id="3861182">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431292">Order, please. The hon. Parliamentary Secretary to the Minister of Public Works and Government Services.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Gourde" id="3861183">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431293">Mr. Speaker, I would like to thank the hon. member for his question and congratulate him on having been elected.</ParaText>
               <ParaText id="2431294">Yes, we will be working together with all members in the House for the good of Canadians in the very near future. I invite the opposition to vote in favour of our budget next week.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mr. Coderre" id="3861185">
-            <PersonSpeaking>
-              <Affiliation DbId="170231" Type="2">Hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170231" Type="2">Hon. Denis Coderre (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431295">Mr. Speaker, I would like to congratulate my colleague on having been re-elected. I would also like to take this opportunity to thank the constituents of Bourassa who have given me a sixth mandate here in the House. It is truly a privilege to be here as a parliamentarian.</ParaText>
               <ParaText id="2431296">Now, here is the problem, and we have seen it before. There are plenty of fine ideas. This is a cut and paste version of what we were hearing for months before, but I would like to speak in more concrete terms. If the government is here for the people, there are people from the Montérégie area who would like to see their parked cars again, but with the flooding, their cars are gone. They have the feeling that the government has deserted them.</ParaText>
@@ -691,16 +633,14 @@ Ladies and gentlemen,</I>
           </Intervention>
           <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Gourde" id="3861190">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431298">Mr. Speaker, I would like to thank the hon. member for his question and congratulate him on his election.</ParaText>
               <ParaText id="2431299">We have a great deal of sympathy for the people of Montérégie and other Canadians who have been affected by extremely serious natural disasters. Of course, we also support the members of our armed forces who are doing excellent work throughout the country to help all these people. There have been no serious injuries or deaths. I would like to commend our armed forces who are working hard to ensure the safety of Canadians.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mr. Bellavance" id="3861192">
-            <PersonSpeaking>
-              <Affiliation DbId="170182" Type="2">Mr. André Bellavance (Richmond—Arthabaska, BQ)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170182" Type="2">Mr. André Bellavance (Richmond—Arthabaska, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431300">Mr. Speaker, like the hon. member for <Affiliation DbId="170231" Type="2">Bourassa</Affiliation>, I would like to begin by warmly thanking the constituents in my riding of <Affiliation DbId="170182" Type="2">Richmond—Arthabaska</Affiliation> for giving me a fourth mandate. Clearly, I would have preferred a different seat here, one that was closer. However, democracy being what it is, I will obviously roll up my sleeves and make sure that my colleagues and I will be heard and that the needs of our constituents will also be heard.</ParaText>
               <ParaText id="2431301">Like the hon. member for <Affiliation DbId="170231" Type="2">Bourassa</Affiliation>, my question is about current events. Can the member who just spoke tell me why, exactly, the government still, to this day, has not announced compensation for those currently affected by the flooding in the Montérégie area?</ParaText>
@@ -709,8 +649,7 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Gourde" id="3861194">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431304">Mr. Speaker, I thank my colleague for his question. I also congratulate my riding neighbour on his election.</ParaText>
               <ParaText id="2431305">Quebec and Canada have agreements for dealing with disasters, and we will work in accordance with the existing agreements.</ParaText>
@@ -718,8 +657,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mr. Garrison" id="3861196">
-            <PersonSpeaking>
-              <Affiliation DbId="170462" Type="2">Mr. Randall Garrison (Esquimalt—Juan de Fuca, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170462" Type="2">Mr. Randall Garrison (Esquimalt—Juan de Fuca, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431306">Mr. Speaker, first, I congratulate you on your election as Speaker and wish you well in the chair.</ParaText>
               <ParaText id="2431307">I also thank the voters of <Affiliation DbId="170462" Type="2">Esquimalt—Juan de Fuca</Affiliation> for giving me the great honour of representing them in this chamber. I will work hard to ensure their concerns are always front and centre in my work here.</ParaText>
@@ -730,8 +668,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Gourde" id="3861202">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431311">Mr. Speaker, I thank my colleague for his question and congratulate him on his election.</ParaText>
               <ParaText id="2431312">The financial security of all Canadians is important to us, and I will repeat that the upcoming budget will support our most vulnerable seniors, with help for over 680,000 of them. I hope that my colleague will support this budget.</ParaText>
@@ -739,8 +676,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
           <Intervention Type="QuestionComment" ToC="Yes" ToCText="Mrs. Glover" id="3861204">
-            <PersonSpeaking>
-              <Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431313">Mr. Speaker, I would like to take this opportunity to once again welcome all members to the House. </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -753,8 +689,7 @@ Ladies and gentlemen,</I>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Gourde" id="3861207">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431319">Mr. Speaker, I would like to thank the hon. member for her question and congratulate her on her re-election.</ParaText>
               <ParaText id="2431320">Political parties can be subsidized in three ways: the per-vote allocation, tax credits for donations and reimbursements for electoral expenses. We believe that these last two ways should be more than sufficient, and we will phase out the per-vote allocation to give political parties time to adapt to the new reality. Abolishing the $2 per vote allocation to political parties will allow us to save Canadian taxpayers close to $30 million. </ParaText>
@@ -762,8 +697,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Layton" id="3861209">
-            <PersonSpeaking>
-              <Affiliation DbId="170882" Type="9">Hon. Jack Layton (Leader of the Opposition, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170882" Type="9">Hon. Jack Layton (Leader of the Opposition, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431321">Mr. Speaker, it is my honour as leader of Her Majesty's loyal opposition, and seconded by the member for <Affiliation DbId="170324" Type="2">Sherbrooke</Affiliation>, I move:</ParaText>
               <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
@@ -777,8 +711,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="3861211">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431323">Mr. Speaker, I move:</ParaText>
               <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
@@ -792,8 +725,7 @@ Ladies and gentlemen,</I>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="3861233">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2431325">Following the adjournment of the House, I invite all hon. members to a reception being held in the Hall of Honour to mark the opening of the 41st Parliament.</ParaText>
               <ParaText id="2431326">This House stands adjourned until next Monday at 2 p.m., pursuant to an order made earlier today.</ParaText>
@@ -2680,7 +2612,7 @@ Ladies and gentlemen,</I>
         <Province>British Columbia</Province>
         <Party>CPC</Party>
       </Affiliation>
-      <Note>N.B.: Under Political Affiliation: Lib. - Liberal; CPC - Conservative; BQ - Bloc Quebecois; NDP - New Democratic Party; Ind. - Independent</Note>
+      <Note>N.B.: Under Political Affiliation: Lib. - Liberal; CPC - Conservative; BQ - Bloc Quebecois; NDP - New Democratic Party; GP- Green Party; Ind. - Independent</Note>
     </MemberList>
     <MemberList MemberListType="MembersProvince">
       <title>Alphabetical list of Members of the House of Commons by Province</title>
@@ -4291,13 +4223,13 @@ Ladies and gentlemen,</I>
         <CommitteeMemberGroup CommitteeMemberGroupType="Chair">
           <Affiliation>
             <Role>Chair:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
           <Affiliation>
             <Role>Vice-Chair:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="Members">
@@ -4345,13 +4277,13 @@ Ladies and gentlemen,</I>
         <CommitteeMemberGroup CommitteeMemberGroupType="Chair">
           <Affiliation>
             <Role>Chair:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
           <Affiliation>
             <Role>Vice-Chair:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="Members">

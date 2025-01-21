@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+<?xml version='1.0' encoding='utf8'?>
 <Hansard xml:lang="FR" id="8091650">
   <StartPageNumber>18583</StartPageNumber>
   <DocumentTitle>
@@ -51,7 +33,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
     <ExtractedItem Name="SessionNumber">1</ExtractedItem>
     <ExtractedItem Name="Suffix">A</ExtractedItem>
-    <ExtractedItem Name="InCameraNote" />
+    <ExtractedItem Name="InCameraNote"/>
   </ExtractedInformation>
   <HansardBody>
     <Intro>
@@ -60,8 +42,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
       <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
       <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="8091657">
-        <PersonSpeaking>
-          <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+        <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
         <Content>
           <ParaText id="3422978"> Je désire informer la Chambre que, conformément au paragraphe 28(4) du Règlement, j'ai convoqué la Chambre aujourd'hui uniquement en vue de la sanction royale qui sera octroyée à plusieurs projets de loi.</ParaText>
         </Content>
@@ -74,8 +55,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="8091659">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3422979">J'ai l'honneur d'informer la Chambre qu'une communication, dont voici le texte, a été reçue:</ParaText>
               <ParaText id="3422980">
@@ -132,53 +112,32 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <I>Et de retour:</I>
           </ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="8091673">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="3422991">J'ai l'honneur de faire savoir à la Chambre que, lorsqu'elle s'est rendue au Sénat, il a plu à Son Excellence le gouverneur général d'octroyer, au nom de Sa Majesté, la sanction royale aux projets de loi suivants: </ParaText>
-              <ParaText id="3422992">
-                <Document DbId="5122651" Type="4">C-321, Loi modifiant la Loi sur la Société canadienne des postes (documents de bibliothèque)</Document>—Chapitre 10, 2013.</ParaText>
-              <ParaText id="3422993">
-                <Document DbId="5507161" Type="3">C-37, Loi modifiant le Code criminel</Document>—Chapitre 11, 2013.</ParaText>
-              <ParaText id="3422994">
-                <Document DbId="5321564" Type="4">C-383, Loi modifiant la Loi du traité des eaux limitrophes internationales et la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux</Document>—Chapitre 12, 2013.</ParaText>
-              <ParaText id="3422995">
-                <Document DbId="5477296" Type="3">S-9, Loi modifiant le Code criminel</Document>—Chapitre 13, 2013.</ParaText>
-              <ParaText id="3422996">
-                <Document DbId="5812016" Type="3">C-47, Loi édictant la Loi sur l'aménagement du territoire et l'évaluation des projets au Nunavut et la Loi sur l'Office des droits de surface des Territoires du Nord-Ouest et apportant des modifications connexes et corrélatives à certaines lois</Document>—Chapitre 14, 2013.</ParaText>
-              <ParaText id="3422997">
-                <Document DbId="5136691" Type="4">C-309, Loi modifiant le Code criminel (dissimulation d’identité)</Document>
-                <?bk?>—Chapitre<?ek?> 15, 2013.</ParaText>
-              <ParaText id="3422998">
-                <Document DbId="5683267" Type="3">C-43, Loi modifiant la Loi sur l'immigration et la protection des réfugiés</Document>—Chapitre 16, 2013.</ParaText>
-              <ParaText id="3422999">
-                <Document DbId="5823390" Type="4">S-213, Loi instituant une journée nationale de commémoration pour honorer les anciens combattants de la guerre de Corée</Document>—Chapitre 17, 2013.</ParaText>
-              <ParaText id="3423000">
-                <Document DbId="5683261" Type="3">C-42, Loi modifiant la Loi sur la Gendarmerie royale du Canada et apportant des modifications connexes et corrélatives à d'autres lois</Document>—Chapitre 18, 2013.</ParaText>
-              <ParaText id="3423001">
-                <Document DbId="5462885" Type="4">S-209, Loi modifiant le Code criminel (combats concertés)</Document>—Chapitre 19, 2013.</ParaText>
-              <ParaText id="3423002">
-                <Document DbId="5138145" Type="3">S-2, Loi concernant les foyers familiaux situés dans les réserves des premières nations et les droits ou intérêts matrimoniaux sur les constructions et terres situées dans ces réserves</Document>—Chapitre 20, 2013.</ParaText>
-              <ParaText id="3423003">
-                <Document DbId="5409479" Type="3">S-8, Loi concernant la salubrité de l'eau potable sur les terres des Premières Nations</Document>—Chapitre 21, 2013.</ParaText>
-              <ParaText id="3423004">
-                <Document DbId="6201114" Type="3">C-63, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2014</Document>—Chapitre 22, 2013.</ParaText>
-              <ParaText id="3423005">
-                <Document DbId="6201128" Type="3">C-64, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2014</Document>—Chapitre 23, 2013.</ParaText>
-              <ParaText id="3423006">
-                <Document DbId="5156729" Type="3">C-15, Loi modifiant la Loi sur la défense nationale et d'autres lois en conséquence</Document>—Chapitre 24, 2013.</ParaText>
-              <ParaText id="3423007">
-                <Document DbId="6186099" Type="3">C-62, Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Yale et modifiant certaines lois en conséquence</Document>—Chapitre 25, 2013.</ParaText>
-              <ParaText id="3423008">
-                <Document DbId="5960855" Type="3">S-14, Loi modifiant la Loi sur la corruption d’agents publics étrangers</Document>—Chapitre 26, 2013.</ParaText>
-              <ParaText id="3423009">
-                <Document DbId="6025582" Type="3">S-17, Loi mettant en oeuvre des conventions, des protocoles, des accords, un avenant et une convention complémentaire conclus entre le Canada et la Namibie, la Serbie, la Pologne, Hong Kong, le Luxembourg et la Suisse en vue d’éviter les doubles impositions et de prévenir l’évasion fiscale en matière d’impôts</Document>—Chapitre 27, 2013.</ParaText>
-              <ParaText id="3423010">
-                <Document DbId="5979323" Type="3">S-15, Loi modifiant la Loi sur les parcs nationaux du Canada et la Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à la Loi de 2001 sur la marine marchande du Canada</Document>
-                <?bk?>—Chapitre 28,<?ek?> 2013.</ParaText>
+              <ParaText id="3422992"><Document DbId="5122651" Type="4">C-321, Loi modifiant la Loi sur la Société canadienne des postes (documents de bibliothèque)</Document>—Chapitre 10, 2013.</ParaText>
+              <ParaText id="3422993"><Document DbId="5507161" Type="3">C-37, Loi modifiant le Code criminel</Document>—Chapitre 11, 2013.</ParaText>
+              <ParaText id="3422994"><Document DbId="5321564" Type="4">C-383, Loi modifiant la Loi du traité des eaux limitrophes internationales et la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux</Document>—Chapitre 12, 2013.</ParaText>
+              <ParaText id="3422995"><Document DbId="5477296" Type="3">S-9, Loi modifiant le Code criminel</Document>—Chapitre 13, 2013.</ParaText>
+              <ParaText id="3422996"><Document DbId="5812016" Type="3">C-47, Loi édictant la Loi sur l'aménagement du territoire et l'évaluation des projets au Nunavut et la Loi sur l'Office des droits de surface des Territoires du Nord-Ouest et apportant des modifications connexes et corrélatives à certaines lois</Document>—Chapitre 14, 2013.</ParaText>
+              <ParaText id="3422997"><Document DbId="5136691" Type="4">C-309, Loi modifiant le Code criminel (dissimulation d’identité)</Document><?bk?>—Chapitre<?ek?> 15, 2013.</ParaText>
+              <ParaText id="3422998"><Document DbId="5683267" Type="3">C-43, Loi modifiant la Loi sur l'immigration et la protection des réfugiés</Document>—Chapitre 16, 2013.</ParaText>
+              <ParaText id="3422999"><Document DbId="5823390" Type="4">S-213, Loi instituant une journée nationale de commémoration pour honorer les anciens combattants de la guerre de Corée</Document>—Chapitre 17, 2013.</ParaText>
+              <ParaText id="3423000"><Document DbId="5683261" Type="3">C-42, Loi modifiant la Loi sur la Gendarmerie royale du Canada et apportant des modifications connexes et corrélatives à d'autres lois</Document>—Chapitre 18, 2013.</ParaText>
+              <ParaText id="3423001"><Document DbId="5462885" Type="4">S-209, Loi modifiant le Code criminel (combats concertés)</Document>—Chapitre 19, 2013.</ParaText>
+              <ParaText id="3423002"><Document DbId="5138145" Type="3">S-2, Loi concernant les foyers familiaux situés dans les réserves des premières nations et les droits ou intérêts matrimoniaux sur les constructions et terres situées dans ces réserves</Document>—Chapitre 20, 2013.</ParaText>
+              <ParaText id="3423003"><Document DbId="5409479" Type="3">S-8, Loi concernant la salubrité de l'eau potable sur les terres des Premières Nations</Document>—Chapitre 21, 2013.</ParaText>
+              <ParaText id="3423004"><Document DbId="6201114" Type="3">C-63, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2014</Document>—Chapitre 22, 2013.</ParaText>
+              <ParaText id="3423005"><Document DbId="6201128" Type="3">C-64, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2014</Document>—Chapitre 23, 2013.</ParaText>
+              <ParaText id="3423006"><Document DbId="5156729" Type="3">C-15, Loi modifiant la Loi sur la défense nationale et d'autres lois en conséquence</Document>—Chapitre 24, 2013.</ParaText>
+              <ParaText id="3423007"><Document DbId="6186099" Type="3">C-62, Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Yale et modifiant certaines lois en conséquence</Document>—Chapitre 25, 2013.</ParaText>
+              <ParaText id="3423008"><Document DbId="5960855" Type="3">S-14, Loi modifiant la Loi sur la corruption d’agents publics étrangers</Document>—Chapitre 26, 2013.</ParaText>
+              <ParaText id="3423009"><Document DbId="6025582" Type="3">S-17, Loi mettant en oeuvre des conventions, des protocoles, des accords, un avenant et une convention complémentaire conclus entre le Canada et la Namibie, la Serbie, la Pologne, Hong Kong, le Luxembourg et la Suisse en vue d’éviter les doubles impositions et de prévenir l’évasion fiscale en matière d’impôts</Document>—Chapitre 27, 2013.</ParaText>
+              <ParaText id="3423010"><Document DbId="5979323" Type="3">S-15, Loi modifiant la Loi sur les parcs nationaux du Canada et la Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à la Loi de 2001 sur la marine marchande du Canada</Document><?bk?>—Chapitre 28,<?ek?> 2013.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="3423011">Comme il est 16 h 24, la Chambre s'ajourne jusqu'au lundi 16 septembre 2013, à 11 heures, conformément aux paragraphes <?bk?>28(2)<?ek?> et 24(1) du Règlement.</ParaText>
               <ParaText id="3423012">(La séance est levée à 16 h 24.) </ParaText>
+              <ParaText id="3435999">La première session de la 41<Sup>e</Sup> législature a été prorogée par proclamation royale le 13 septembre 2013.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

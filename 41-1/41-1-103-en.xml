@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+<?xml version='1.0' encoding='utf8'?>
 <Hansard xml:lang="EN" id="7225234">
-  <StartPageNumber>6719</StartPageNumber>
+  <StartPageNumber>1</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -51,7 +32,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
     <ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
     <ExtractedItem Name="SessionNumber">1</ExtractedItem>
-    <ExtractedItem Name="InCameraNote" />
+    <ExtractedItem Name="InCameraNote"/>
   </ExtractedInformation>
   <HansardBody>
     <Intro>
@@ -70,8 +51,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
           <ParaText id="2779988">The House resumed from March 29 consideration of the motion that this House approve in general the budgetary policy of the government. </ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Julian" id="7225247">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2779989">Mr. Speaker, I should warn my colleagues that I will go on at length about yesterday's budget. To begin, I will discuss some of the reactions from across the country to the budget that was tabled in the House yesterday.</ParaText>
               <ParaText id="2779990">I will read some of the emails that we have received. I will also share some other emails, tweets and reactions from the public. </ParaText>
@@ -149,16 +129,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="2780045">Then yesterday we saw the other two promises. It is not as if the Conservatives made a lot of promises, but we do expect them to keep the ones they made. He had promised not to gut retirement security, and we will be going into that a little while later on. He has done exactly the contrary; he has gutted retirement security. He had promised not to cut services to Canadian families. We have seen that broken promise as well.</ParaText>
               <Timestamp Hr="10" Mn="40">(1040)</Timestamp>
               <ParaText id="2780046"> The reality is this, and I want to make this clear. If the government had campaigned on what it really intended to do, it would have said that it would be cutting health care transfers; that it was going to force people to work two more years, regardless of people's ability to do that at that late age; that it was going to cut services, food and transportation safety and environmental assessments; that it was going to cut Canadian institutions like the CBC; and that it was going to cut the Auditor General so that the auditor could not check up on the government to see if it were using its money effectively, because it does not like the Auditor General because he or she questions its questionable purchases like the F-35s that go from $9 billion to $40 billion. If the government had actually said all of those things, members are as aware as I am that since Canadian families deserve much better, it would be the NDP on that side of the House.</ParaText>
-              <ParaText id="2780047">
-                <B>Some hon. members:</B> Hear, hear!</ParaText>
-              <ParaText id="2780048">
-                <B>Mr. Peter Julian:</B> I thank my colleagues for their enthusiastic reception. One would not think that all of them had just gone through a very busy and intense leadership convention over the course of the last weekend, when we elected the member for <Affiliation DbId="170208" Type="2">Outremont</Affiliation> as our new leader and the leader of the official opposition.</ParaText>
-              <ParaText id="2780049">
-                <B>Some hon. members:</B> Hear, hear!</ParaText>
-              <ParaText id="2780050">
-                <B>Mr. Robert Chisholm:</B> We are not tired, we are invigorated. We are ready to rock their world, as Charlie would say.</ParaText>
-              <ParaText id="2780051">
-                <B>Mr. Peter Julian:</B> I thank my colleagues for that, particularly my friend from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation>. That was very kind of him.</ParaText>
+              <ParaText id="2780047"><B>Some hon. members:</B> Hear, hear!</ParaText>
+              <ParaText id="2780048"><B>Mr. Peter Julian:</B> I thank my colleagues for their enthusiastic reception. One would not think that all of them had just gone through a very busy and intense leadership convention over the course of the last weekend, when we elected the member for <Affiliation DbId="170208" Type="2">Outremont</Affiliation> as our new leader and the leader of the official opposition.</ParaText>
+              <ParaText id="2780049"><B>Some hon. members:</B> Hear, hear!</ParaText>
+              <ParaText id="2780050"><B>Mr. Robert Chisholm:</B> We are not tired, we are invigorated. We are ready to rock their world, as Charlie would say.</ParaText>
+              <ParaText id="2780051"><B>Mr. Peter Julian:</B> I thank my colleagues for that, particularly my friend from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation>. That was very kind of him.</ParaText>
               <ParaText id="2780052">The government did not say it was going to break all those commitments and did not make it clear what its real agenda was. For that reason then, yes, the government is on trial and that is what we are going to be using this budget debate for, to put the government on trial for broken promises. When we look at the F-35s and the prison agenda in terms of fiscal mismanagement and when we look at the facts as I am rolling them out now, we have only come to the first three key economic indicators but the government is also on trial for economic mismanagement. We are going to hold it to that.</ParaText>
               <ParaText id="2780053">Let us look at the job situation over the last few months, since the government has gutted the manufacturing sector. Look at the last quarter of 2011 and look at the first couple of months in 2012. That time frame is prior to the budget, which kills 40,000 jobs, roughly, if we believe the government's figures. I am a bit skeptical because austerity budgets or draconian budget cuts tend to have a multiplier effect, but let us give the government the benefit of the doubt and say it is killing 40,000 jobs with this budget. Prior to its killing 40,000 jobs, both in the public sector and from the multiplier effect in the private sector, 50,000 full-time jobs were lost in the last quarter of 2011. We saw that in October, November and December. We saw that in January and February as well.</ParaText>
               <ParaText id="2780054">All of us on the NDP side of the House are acutely aware of what that means. That means fathers or mothers are going to work and getting a pink slip, feeling a deep and sickening feeling in their stomachs that their jobs are no more, that the jobs they worked on for years or decades have disappeared, that the jobs they got so good at doing and the companies they devoted their lives to, by coming in on weekends and evenings and juggling family responsibilities, as we all do, and gave their heart and soul and sinew to, are no more. They get the sickening feeling that all of those years of dedication are no more.</ParaText>
@@ -193,8 +168,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7225863">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780080">It is 11 o'clock, so it is a good time to go to statements by members. The member for <Affiliation DbId="170651" Type="2">Burnaby—New Westminster</Affiliation> can conclude his remarks immediately following routine proceedings.</ParaText>
             </Content>
@@ -211,8 +185,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Weston (West Vancouver—Sunshine Coast—Sea to Sky Country)" id="7225866">
-            <PersonSpeaking>
-              <Affiliation DbId="170578" Type="2">Mr. John Weston (West Vancouver—Sunshine Coast—Sea to Sky Country, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170578" Type="2">Mr. John Weston (West Vancouver—Sunshine Coast—Sea to Sky Country, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780081">Mr. Speaker, doctors have identified rising obesity rates among our children as a national epidemic. This is a problem which leads to diabetes, cardiovascular and other problems. On the economic side, one consequence is unsustainable health care costs.</ParaText>
               <ParaText id="2780082"> Three years ago, with the support of members of all parties, I started the parliamentary fitness initiative to encourage MPs and senators to live healthier lives through walking, running and swimming together. When we do this, we are role models for increasing the health and fitness of all Canadians.</ParaText>
@@ -227,8 +200,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Persons with Disabilities </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Brahmi" id="7225903">
-            <PersonSpeaking>
-              <Affiliation DbId="170307" Type="2">Mr. Tarik Brahmi (Saint-Jean, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170307" Type="2">Mr. Tarik Brahmi (Saint-Jean, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780085">Mr. Speaker, on February 9, we learned that, since 2007, 85% of the money available for persons with disabilities through the enabling accessibility fund has gone to Conservative ridings. In my riding, the town of Saint-Valentin tried desperately to obtain funding to make its municipal building accessible. However, on March 20, the town learned that its application for funding had been denied because of a small technicality: a date was missing on a letter of support. </ParaText>
               <ParaText id="2780086">Rather than pointing this out and allowing the town to submit its application on time, the department waited until the deadline had passed and then denied the town funding on that pretext. This shameful tactic clearly shows this government's appalling bad faith. Even people with disabilities are not immune to its infamous partisanship.</ParaText>
@@ -241,8 +213,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Parks</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Chong" id="7225928">
-            <PersonSpeaking>
-              <Affiliation DbId="170497" Type="2">Hon. Michael Chong (Wellington—Halton Hills, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170497" Type="2">Hon. Michael Chong (Wellington—Halton Hills, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780087">Mr. Speaker, budget 2012 contains excellent news for all of us who are working toward Canada's newest national park in the greater Toronto area.</ParaText>
               <ParaText id="2780088">As promised by the Conservatives in last May's election and reconfirmed in the Speech from the Throne last June, yesterday's budget reaffirmed the Government of Canada's commitment to establish this new national park in the Rouge Valley.</ParaText>
@@ -256,8 +227,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Brain Awareness Month</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Duncan (Etobicoke North)" id="7225931">
-            <PersonSpeaking>
-              <Affiliation DbId="170334" Type="2">Ms. Kirsty Duncan (Etobicoke North, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170334" Type="2">Ms. Kirsty Duncan (Etobicoke North, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780091">Mr. Speaker, March was national Brain Awareness Month. The brain is the body's most critical organ and if it does not work properly, every aspect of life is compromised.</ParaText>
               <ParaText id="2780092">In Canada 5.5 million people live with a chronic neurological condition. Most of these conditions are progressive and degenerative, with no known cause or cure. While therapies exist for some conditions, in most cases there is no way to stop or even slow progression.</ParaText>
@@ -271,8 +241,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Warkentin" id="7225934">
-            <PersonSpeaking>
-              <Affiliation DbId="170770" Type="2">Mr. Chris Warkentin (Peace River, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170770" Type="2">Mr. Chris Warkentin (Peace River, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780095">Mr. Speaker, yesterday afternoon the <Affiliation DbId="78777" Type="4">Minister of Finance</Affiliation> stood in the House to deliver his seventh consecutive Conservative budget. This balanced pragmatic and visionary plan is the right plan for Canadians and the plan that was asked for by Peace Country residents.</ParaText>
               <ParaText id="2780096"> Peace Country residents asked for a plan that cuts government waste and leads to balanced budgets and prosperity, and the minister delivered. Peace Country employers asked for measures to make it easier to find qualified employees to fill labour shortages, and the minister again delivered. Peace Country residents asked for a long-term plan that would drive innovation and reduce red tape for entrepreneurs, and again the minister delivered.</ParaText>
@@ -287,8 +256,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Telecommunications</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Brosseau" id="7225937">
-            <PersonSpeaking>
-              <Affiliation DbId="170121" Type="2">Ms. Ruth Ellen Brosseau (Berthier—Maskinongé, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170121" Type="2">Ms. Ruth Ellen Brosseau (Berthier—Maskinongé, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780098">Mr. Speaker, the residents of the Maskinongé RCM want the CRTC to change its decision to allow telephone competition in rural areas.</ParaText>
               <ParaText id="2780099">At least 150 residents shared their concerns at a recent meeting in Saint-Paulin. The Association des compagnies de téléphone du Québec is worried that service will not be maintained in remote rural areas because it will not be profitable. Customers in remote areas would then find themselves with no telephone, cable or Internet services. The association is circulating a petition.</ParaText>
@@ -303,8 +271,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albas" id="7225974">
-            <PersonSpeaking>
-              <Affiliation DbId="170448" Type="2">Mr. Dan Albas (Okanagan—Coquihalla, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170448" Type="2">Mr. Dan Albas (Okanagan—Coquihalla, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780102">Mr. Speaker, there is much to be excited about in yesterday's budget for my riding of Okanagan—Coquihalla. In particular, budget 2012 invests heavily in innovation and research.</ParaText>
               <ParaText id="2780103">In my riding a partnership with industry and the Pacific Agri-Food research centre has resulted in a new shipping technology that can greatly extend the shipping life of fresh produce. This technology means that more economical shipping options can be accessed. With our new free trade deals, this opens up a world of new markets to Okanagan farmers.</ParaText>
@@ -320,13 +287,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albrecht" id="7225995">
-            <PersonSpeaking>
-              <Affiliation DbId="170525" Type="2">Mr. Harold Albrecht (Kitchener—Conestoga, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170525" Type="2">Mr. Harold Albrecht (Kitchener—Conestoga, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780108">Mr. Speaker, Canada's economic action plan 2012 was tabled yesterday. In that context, a number of things are worth noting.</ParaText>
               <ParaText id="2780109">Canadians will pay less in taxes to the federal government than they have in decades and our fiscal position remains the envy of the world.</ParaText>
               <ParaText id="2780110">The Waterloo region benefited greatly from previous budgets. A new Quantum Nano-Centre, the Institute of Food Processing Technology and the high-tech business incubator are some of the strategic investments that will pay dividends for decades. </ParaText>
-              <ParaText id="2780111">I consulted my constituents in the lead up to yesterday's budget. Municipal leaders sought a long-term plan for infrastructure renewal. Employers hoped that we could reduce their red tape burden. Emerging entrepreneurs asked us to preserve and improve the focus of vital programs, like SR&amp;ED and IRAP. I asked the <Affiliation DbId="78777" Type="4">Minister of Finance</Affiliation> to invest in suicide prevention.</ParaText>
+              <ParaText id="2780111">I consulted my constituents in the lead up to yesterday's budget. Municipal leaders sought a long-term plan for infrastructure renewal. Employers hoped that we could reduce their red tape burden. Emerging entrepreneurs asked us to preserve and improve the focus of vital programs, like SR and ED and IRAP. I asked the <Affiliation DbId="78777" Type="4">Minister of Finance</Affiliation> to invest in suicide prevention.</ParaText>
               <ParaText id="2780112"> On all of these items, the budget delivered.</ParaText>
               <ParaText id="2780113">On behalf of my constituents, I must offer thanks. Under this government, Canada and the of Waterloo region have the fundamentals in place for long-term prosperity.</ParaText>
             </Content>
@@ -338,8 +304,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Old Age Security</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Giguère" id="7226001">
-            <PersonSpeaking>
-              <Affiliation DbId="170545" Type="2">Mr. Alain Giguère (Marc-Aurèle-Fortin, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170545" Type="2">Mr. Alain Giguère (Marc-Aurèle-Fortin, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780114">Mr. Speaker, yesterday the Conservatives delivered a devastating blow to the 16,200 people in my riding of Marc-Aurèle-Fortin who rely on old age security and the guaranteed income supplement in order to have a decent standard of living. Currently, those two programs combined do not always keep the people in my riding above the poverty line.</ParaText>
               <ParaText id="2780115">This was a low blow by the Conservatives, who simply changed the eligibility rules for these pension plans. It was especially cruel to people who have spent their entire lives serving Canada and who are responsible for our country's current prosperity.</ParaText>
@@ -348,8 +313,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="The Speaker" id="7226003">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780118">The hon. member for <Affiliation DbId="170654" Type="2">Pitt Meadows—Maple Ridge—Mission</Affiliation>.</ParaText>
             </Content>
@@ -358,15 +322,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="7226038">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Organ Donations</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Organ Donation</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kamp" id="7226004">
-            <PersonSpeaking>
-              <Affiliation DbId="170848" Type="18">Mr. Randy Kamp (Parliamentary Secretary to the Minister of Fisheries and Oceans and for the Asia-Pacific Gateway, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170848" Type="18">Mr. Randy Kamp (Parliamentary Secretary to the Minister of Fisheries and Oceans and for the Asia-Pacific Gateway, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780119">Mr. Speaker, over 4,000 Canadians endure a reduced quality of life and the possibility of premature death, while waiting for an organ transplant.</ParaText>
               <ParaText id="2780120">In 2008, for example, 486 donors were able to provide organs for more than 1,500 transplants, but despite that success, another 300 Canadians died on the waiting list. We know we can and must do better.</ParaText>
-              <ParaText id="2780121">Today, Step By Step's Torch of LIfe Relay is coming through Ottawa. This campaign allows youth to participate in this public conversation and encourages Canadians to sign their organ donor cards.</ParaText>
+              <ParaText id="2780121">Today, Step By Step's Torch of Life Relay is coming through Ottawa. This campaign allows youth to participate in this public conversation and encourages Canadians to sign their organ donor cards.</ParaText>
               <ParaText id="2780122">Following question period today, many hon. members will be in front of the Peace Tower to welcome Ottawa relay participants, including George Marcello, who has walked the length of Canada to promote this issue.</ParaText>
               <ParaText id="2780123">This year, the Ontario portion of the relay is dedicated to Betty Albrecht, whose final gift saved five lives. I thank the member for <Affiliation DbId="170525" Type="2">Kitchener—Conestoga</Affiliation> for his work on this issue. From many of his friends in Parliament, we miss Betty too.</ParaText>
             </Content>
@@ -379,8 +342,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>AIDS Community Action Program </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Laverdière" id="7226041">
-            <PersonSpeaking>
-              <Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780124">Mr. Speaker, last December we asked the federal government about the unreasonable delays in tendering projects for the AIDS community action program. Now there are further delays, but this time the problem lies with funding approvals.</ParaText>
               <ParaText id="2780125">It is March 30. If these organizations, which do extraordinary work, are denied funding, they will be forced to close their doors on Monday. They have not yet heard anything.</ParaText>
@@ -391,11 +353,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="7226068">
-        <SubjectOfBusinessTitle>Economic Action Plan 2012</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="7226067">
-            <PersonSpeaking>
-              <Affiliation DbId="170238" Type="2">Mr. Jacques Gourde (Lotbinière—Chutes-de-la-Chaudière, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170238" Type="2">Mr. Jacques Gourde (Lotbinière—Chutes-de-la-Chaudière, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780128">Mr. Speaker, our government is focusing on jobs, growth and long-term prosperity. Economic action plan 2012 contains measures that will create jobs now and will provide more opportunities for Canadians.</ParaText>
               <ParaText id="2780129"> To create jobs now, we will extend by one year the hiring credit for small business—a practical, proven measure that encourages businesses to hire more workers. We will provide new funding to improve border infrastructure, make new investments in local infrastructure through the community infrastructure improvement fund, and renew the fleet of the Canadian Coast Guard, which is celebrating its 50th anniversary.</ParaText>
@@ -409,8 +370,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Roy Nelson</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Goodale" id="7226070">
-            <PersonSpeaking>
-              <Affiliation DbId="170466" Type="2">Hon. Ralph Goodale (Wascana, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170466" Type="2">Hon. Ralph Goodale (Wascana, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780131">Mr. Speaker, loyalty and service are two good words describing the late Roy Nelson of Glentworth, Saskatchewan. Maybe it was the gutsy generation to which he belonged. Maybe it was his experience in the Royal Navy and then a veteran. Maybe it was his deep Prairie roots as a farmer and rancher. Whatever influences shaped his character, they produced in Roy an extraordinary individual, dedicated to his family and all those around him.</ParaText>
               <ParaText id="2780132">Roy's passion for agriculture was evident in his support for the Wheat Board. He fought for fairness for those affected by the Poplar River Power Station and the Grasslands National Park. He was national president of the Canadian Piedmontese Cattle Association. He was an authentic rural voice. </ParaText>
@@ -424,8 +384,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Hoback" id="7226073">
-            <PersonSpeaking>
-              <Affiliation DbId="170601" Type="2">Mr. Randy Hoback (Prince Albert, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170601" Type="2">Mr. Randy Hoback (Prince Albert, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780135">Mr. Speaker, yesterday's budget, “Economic Action Plan 2012: Jobs, Growth and Long-Term Prosperity”, was great news for Saskatchewan. Our provincial finance minister welcomed the budget. He said that the changes to the employment insurance system would benefit our province and help deal with the skilled labour shortage. Additionally, the best 14 weeks pilot project will continue to apply in the EI region of northern Saskatchewan.</ParaText>
               <ParaText id="2780136">The future is bright for Saskatchewan and Canada. Our efforts to improve responsible resource development and our investments in training and infrastructure are reducing the barriers to entering the workforce.</ParaText>
@@ -439,8 +398,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Conservative Party of Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Garrison" id="7226076">
-            <PersonSpeaking>
-              <Affiliation DbId="170462" Type="2">Mr. Randall Garrison (Esquimalt—Juan de Fuca, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170462" Type="2">Mr. Randall Garrison (Esquimalt—Juan de Fuca, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780139">Mr. Speaker, the Conservatives came here promising to clean up Ottawa, but we can see now that unethical behaviour has become too tempting for them to avoid.</ParaText>
               <ParaText id="2780140">We have seen the <Affiliation DbId="170695" Type="4">industry minister</Affiliation> violate the conflict of interest law by going on hunting trips with his lobbyist friends with no consequences. Apparently he thinks this is okay as long as he brings his own food and sleeping bag. </ParaText>
@@ -456,10 +414,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>New Democratic Party of Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Menegakis" id="7226112">
-            <PersonSpeaking>
-              <Affiliation DbId="170529" Type="2">Mr. Costas Menegakis (Richmond Hill, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170529" Type="2">Mr. Costas Menegakis (Richmond Hill, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="2780144">Mr. Speaker, the new NDP leader has committed to fight against our government's low-tax, low-debt plan for jobs, growth and long-term prosperity. He has decided to oppose a plan that has already helped Canada come out of the recession sooner and stronger than other developed nations, putting over 610,000 Canadians back to work in the process.</ParaText>
+              <ParaText id="2780144">Mr. Speaker, the new NDP leader has committed to fight against our government's low tax, low debt plan for jobs, growth and long-term prosperity. He has decided to oppose a plan that has already helped Canada come out of the recession sooner and stronger than other developed nations, putting over 610,000 Canadians back to work in the process.</ParaText>
               <ParaText id="2780145">The NDP has already opposed our government's record investments in health transfers and seniors and every tax cut and credit introduced for hard-working Canadian families. Its proposal is higher taxes and job-killing regulations. Our government has a proven track record of job creation, economic growth and long-term prosperity. Canadians simply cannot afford the NDP and its dangerous economic experiments that will kill jobs and hurt hard-working Canadian families.</ParaText>
             </Content>
           </Intervention>
@@ -474,54 +431,47 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Julian" id="7226137">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780146">Mr. Speaker, Conservatives promised to create jobs. Instead, they slashed the vital services that Canadian families rely on, such as old age security and health care. They promised jobs and growth. Instead, they delivered reckless cuts. In the Conservative budget there is nothing on jobs, aside from the title, and nothing on growing inequality. </ParaText>
               <ParaText id="2780147">Why did the Conservatives table a budget so out of touch with the priorities of Canadian families?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Baird" id="7226142">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780148">Mr. Speaker, we tabled a fair and balanced budget yesterday, focused on jobs, economic growth and the long-term prosperity of Canada. We are excited about this initiative. It is all about how we can build up the private sector and create more jobs so there is more hope and more opportunity. We need the NDP to finally agree to support plans and proposals that will actually create jobs in this country. Let us challenge the NDP to join us in building a better Canada.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Julian" id="7226144">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780149">Mr. Speaker, if they had any credibility on jobs, they would ask the 2,600 workers at Aveos who are out of theirs.</ParaText>
               <ParaText id="2780150">The reality is that in this budget the Conservatives are actually forecasting that unemployment will go up. Everybody can see this budget for what it is. It is penny-wise and pound foolish. Conservatives are cutting jobs and services to Canadians and ignoring growing inequality. How can they fail so badly to create jobs for Canadians when even their own numbers project that unemployment will grow in Canada this year?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Baird" id="7226147">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780151">Mr. Speaker, let us look at the facts. Since the bottom of the recession, we have seen the Canadian economy create 610,000 net new jobs. Since this <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> came to office in 2006, we have seen more than 1.1 million net new jobs created in this country. This economic action plan is working. It is creating more hope and opportunity. Just this week we got more good news: 400 well-paying manufacturing jobs at Toyota. Will the member opposite stand up and join those of us on the government side and congratulate those 400 people who are getting jobs in the manufacturing sector at Toyota?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Julian" id="7226150">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780152">Mr. Speaker, will the Conservative members demonstrate solidarity with the 2,600 Aveos workers and the hundreds of workers in New Brunswick who have lost their jobs? Thanks to this government, Canadians will have an even harder time making ends meet than they already do. Instead of helping families by protecting public services and pensions, it has bestowed an austerity budget upon them. It is cutting public services, breaking its promise about old age security and eliminating 19,000 jobs, which will actually result in the loss of 40,000 jobs. Why is this government forcing its ideology on Canadians instead of—</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7226151">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780153">The hon. Minister of Foreign Affairs.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Baird" id="7226152">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780154">Mr. Speaker, economic growth and job creation in all regions of Canada are key priorities for this government and this <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation>. That is why we have done our utmost to support job creation. Over the past two years, over 600,000 new jobs have been created in Canada. This week, we learned that Toyota will be creating 400 new jobs here in Ontario.</ParaText>
               <ParaText id="2780155">Canada is making great progress, and that is why we will continue working very hard to promote economic growth and create even more new jobs in Canada. </ParaText>
@@ -529,54 +479,46 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Chisholm" id="7226184">
-            <PersonSpeaking>
-              <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm (Dartmouth—Cole Harbour, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm (Dartmouth—Cole Harbour, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780156">Mr. Speaker, the reviews are coming in and Canadians are not happy with this budget. The Federation of Canadian Municipalities—</ParaText>
-              <ParaText id="2780157">
-                <B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="2780157"><B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7226189">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780158">The hon. member for Dartmouth—Cole Harbour has the floor.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Chisholm" id="7226190">
-            <PersonSpeaking>
-              <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780159">Mr. Speaker, the Federation of Canadian Municipalities says the budget failed on housing. The United Food and Commercial Workers union called it a blow to Canadians. The Canadian Association of Retired Persons said that it will hurt the next generation. Conservatives ran an entire election campaign less than a year ago and never said a word about this plan. </ParaText>
               <ParaText id="2780160">In response to our former leader, Jack Layton, the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> pledged not to cut pensions or health transfers. Why does the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> not keep his word?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mrs. Glover" id="7226206">
-            <PersonSpeaking>
-              <Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780161">Mr. Speaker, let us listen to what the Canadian Federation of Municipalities really had to say about this budget. It stated, “Canada's municipal leaders welcome today's commitment by the federal government to continue working with cities and communities to rebuild the local roads, water systems, community centres and public transit that our families, businesses, and economy depend on.”</ParaText>
               <ParaText id="2780162">A number of stakeholders have said this is the right budget at the right time for all Canadians across this country. We need the NDP to stick with us on this and create more jobs, more prosperity and growth here in our country.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Chisholm" id="7226217">
-            <PersonSpeaking>
-              <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm (Dartmouth—Cole Harbour, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm (Dartmouth—Cole Harbour, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780163">Mr. Speaker, it is becoming clear to Canadians that this <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> will not stand up and keep his word. If he had come clean with Canadians about his plan to cut pensions and health care, even more people would have rejected the Conservative plan in the last election and we would have an NDP government creating good jobs in this country. It is not too late. Conservatives can still listen to Canadians because New Democrats are willing to work and fix this budget. Will they work with us and—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7226218">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780164">Order, please. The hon. Parliamentary Secretary to the Minister of Finance.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Glover" id="7226219">
-            <PersonSpeaking>
-              <Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780165">Mr. Speaker, I am sorry but I heard him say the NDP had a plan. Well here is its plan. The NDP wanted to double CPP. The NDP wanted to raise taxes on corporate businesses. The NDP wanted to raise taxes on the average Canadian family by increasing the GST. This is not a plan that would create jobs. However, the budget that we just released yesterday is a budget concentrated on jobs, economic growth and prosperity for this country. I am pleading with the NDP to please do the right thing and vote for this budget.</ParaText>
             </Content>
@@ -587,40 +529,35 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Pensions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Rae" id="7226221">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780166">Mr. Speaker, on the question of the change in the old age security, the government never told the Canadian people that this was in its plans a year ago. If there was a demographic crisis, which the Conservatives are now pointing to, they would have known about it six months or a year ago. Why would the government introduce this change which is going to cost those who are eligible to receive OAS and GIS $30,000 for each person who qualifies? Why would the government do that, flying in the face of every major study which says Canada has—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7226223">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780167">Order, please. The hon. Minister of Foreign Affairs.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Baird" id="7226224">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="2780168">Let me explain this to my friend from <Affiliation DbId="170592" Type="2">Toronto Centre</Affiliation>. In the 1970s there were seven workers supporting every retiree. By 2030, there will only be two workers to support every OAS recipient. This is a fair, balanced and reasonable position. We are giving plenty of notice so it would not affect any retirees or people who are going to retire soon.</ParaText>
+              <ParaText id="2780168">Mr. Speaker, let me explain this to my friend from <Affiliation DbId="170592" Type="2">Toronto Centre</Affiliation>. In the 1970s there were seven workers supporting every retiree. By 2030, there will only be two workers to support every OAS recipient. This is a fair, balanced and reasonable position. We are giving plenty of notice so it would not affect any retirees or people who are going to retire soon.</ParaText>
               <ParaText id="2780169">If it is so unreasonable, then why are Australia, Germany, Hungary, Ireland, Israel, Italy, Japan, Korea, the Netherlands, Turkey, the United States and the United Kingdom all doing much the same thing?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rae" id="7226226">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780170">Mr. Speaker, the minister is giving examples of countries that have done the same thing. The problem with the minister's argument is that he is the one who is most likely to tell Canadians bluntly that there is no crisis in Canada, that the deficit has been taken care of, that we have no deficit problem, that there is no budget crisis, that we are different than other countries and that we lead the G7.</ParaText>
               <ParaText id="2780171">If that is all true, why punish the poorest Canadians? Why punish those who are most vulnerable?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Baird" id="7226256">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780172">Mr. Speaker, these changes are part of a plan to balance the budget. These proposals will not come into effect until over 10 years from now, in 2023. We can make these decisions and give taxpayers plenty of notice. That is what all the other OECD countries—including Australia, France, Germany, Ireland, Israel, Japan, the United States and the U.K.—have done. All of those countries have done the same thing, because the program needs to be protected for future taxpayers.</ParaText>
             </Content>
@@ -632,16 +569,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>41st General Election</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rae" id="7226272">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780173">Mr. Speaker, one small item that struck me in the budget was that of all the cuts that were put forward, most were what we would call back-end loaded. That is to say, their full impact would take place in the next two or three years. The one exception to this was the cuts to Elections Canada which are up front in the first year, $7.5 million.</ParaText>
               <ParaText id="2780174">At a time when the Chief Electoral Officer has told us he has to deal with 800 complaints in 200 ridings, an unprecedented investigation is under way and never before in the history of the country have we had such an investigation, why would the government be cutting that budget?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Van Loan" id="7226288">
-            <PersonSpeaking>
-              <Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170693" Type="4">Hon. Peter Van Loan (Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780175">Mr. Speaker, the Chief Electoral Officer said he has all the resources he needs to do his job. We commend the Commissioner of Elections Canada because he has actually come forward with his suggestions on how he can do his part, as part of a government-wide effort to save taxpayer dollars and do things more efficiently. These are the numbers that he has provided to us as part of his plan for reducing expenditures. We commend him for contributing to a government-wide effort. </ParaText>
             </Content>
@@ -653,8 +588,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Pensions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Blanchette-Lamothe" id="7226290">
-            <PersonSpeaking>
-              <Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780176">Mr. Speaker, the Conservatives promised not to touch old age security.</ParaText>
               <ParaText id="2780177">For months they refused to tell Canadians anything, but yesterday, they finally told the truth: they are going to push the age of retirement from 65 to 67. That is bad news for a lot of people. It is an unfair decision that is going to jeopardize the future of today's young people and seriously harm the most financially vulnerable people in our society.</ParaText>
@@ -663,8 +597,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Leitch" id="7226293">
-            <PersonSpeaking>
-              <Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780179">Mr. Speaker, current seniors will not be affected by this. Yes, starting in 2023, this will be phased in. We are doing that so young people in this country will actually have access to OAS in the future.</ParaText>
               <ParaText id="2780180">Seniors in my riding have told me that they want to ensure their grandchildren have opportunities to receive these benefits. They will not if we have nothing.</ParaText>
@@ -673,8 +606,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Blanchette-Lamothe" id="7226295">
-            <PersonSpeaking>
-              <Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170188" Type="2">Ms. Lysane Blanchette-Lamothe (Pierrefonds—Dollard, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780182">Mr. Speaker, those arguments are misleading, and the <Affiliation DbId="170869" Type="18">parliamentary secretary</Affiliation> knows it.</ParaText>
               <ParaText id="2780183">Experts agree that our old age security system is sustainable. The truth is that the Conservatives are trying to balance their budget on the backs of the most vulnerable seniors and on the backs of the provinces.</ParaText>
@@ -684,8 +616,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Leitch" id="7226297">
-            <PersonSpeaking>
-              <Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780186">Mr. Speaker, as I have said several times in the House this week, today there are four individuals for every one senior and in 2030 there will be two to one. That is an increase from $32 billion to over $108 billion as an expenditure. That is pretty simple math.</ParaText>
               <ParaText id="2780187">We want to ensure we have a sustainable OAS system so that Canadians have access to it in the future. I encourage the NDP to support our initiative.</ParaText>
@@ -693,8 +624,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Harris (Scarborough Southwest)" id="7226299">
-            <PersonSpeaking>
-              <Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780188">Mr. Speaker, this is what the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> told this House on January 30, 2012:</ParaText>
               <ParaText id="2780189">
@@ -707,8 +637,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mrs. Glover" id="7226330">
-            <PersonSpeaking>
-              <Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170860" Type="18">Mrs. Shelly Glover (Parliamentary Secretary to the Minister of Finance, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780192">Mr. Speaker, it is shocking to hear the misleading statements being made by the NDP. </ParaText>
               <ParaText id="2780193">When we look at federal support that has gone to our provinces and territories, we have increased federal support nearly 43% since we formed government. We are talking about historic levels, $60.9 billion. </ParaText>
@@ -716,8 +645,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Harris (Scarborough Southwest)" id="7226341">
-            <PersonSpeaking>
-              <Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170336" Type="2">Mr. Dan Harris (Scarborough Southwest, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780195">Mr. Speaker, the one thing that is clear is that the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation>'s word is worthless on this issue, and it is seniors who will suffer. We are talking about taking $12,000 out of the pockets of seniors, mostly low income and mostly female. </ParaText>
               <ParaText id="2780196">Younger Canadians are now left wondering if they will be able to afford to retire or whether they will be left out in the cold when they turn 65.</ParaText>
@@ -725,8 +653,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Leitch" id="7226356">
-            <PersonSpeaking>
-              <Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780198">Mr. Speaker, this government has done more for seniors because we appreciate what they did to build this country. </ParaText>
               <ParaText id="2780199">I find it rather amusing to hear from the opposition on this issue with regard to seniors. We put forward GIS increases in 2006, 2007, 2008 and in 2011 to ensure seniors were supported. </ParaText>
@@ -739,24 +666,21 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mrs. Hughes" id="7226365">
-            <PersonSpeaking>
-              <Affiliation DbId="170613" Type="2">Mrs. Carol Hughes (Algoma—Manitoulin—Kapuskasing, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170613" Type="2">Mrs. Carol Hughes (Algoma—Manitoulin—Kapuskasing, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780201">Mr. Speaker, when it comes to health care, the provinces have given the government a failing grade. Instead of strengthening health care, this week's budget downloads even more costs to the provinces, costs they will need to shoulder alongside a multi-billion dollar Conservative prisons agenda.</ParaText>
               <ParaText id="2780202">When will the government stop being the problem and start working on solutions? When will it finally start listening to the provinces and come up with a health care funding formula that actually works for Canadians?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mrs. Aglukkaq" id="7226368">
-            <PersonSpeaking>
-              <Affiliation DbId="170705" Type="96">Hon. Leona Aglukkaq (Minister of Health and Minister of the Canadian Northern Economic Development Agency, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170705" Type="96">Hon. Leona Aglukkaq (Minister of Health and Minister of the Canadian Northern Economic Development Agency, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780203">Mr. Speaker, only the NDP could do the math that would say that increasing funding by $40 billion is a cut. The opposition's claim that the health transfers are being cut is absolutely false. It clearly is unable to do the math. </ParaText>
               <ParaText id="2780204">In fact, the federal transfers for health care will increase faster than provincial spending. Yesterday's budget confirmed that our government will transfer record amounts of health transfers to the provinces and territories, climbing to approximately $40 billion per year by the end of the decade.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Hughes" id="7226370">
-            <PersonSpeaking>
-              <Affiliation DbId="170613" Type="2">Mrs. Carol Hughes (Algoma—Manitoulin—Kapuskasing, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170613" Type="2">Mrs. Carol Hughes (Algoma—Manitoulin—Kapuskasing, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780205">Mr. Speaker, the Conservatives can twist their language, they can stick to their talking points but even the Parliamentary Budget Officer confirms $30 billion will be cut.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -767,8 +691,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Aglukkaq" id="7226372">
-            <PersonSpeaking>
-              <Affiliation DbId="170705" Type="96">Hon. Leona Aglukkaq (Minister of Health and Minister of the Canadian Northern Economic Development Agency, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170705" Type="96">Hon. Leona Aglukkaq (Minister of Health and Minister of the Canadian Northern Economic Development Agency, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780209">Mr. Speaker, yesterday's budget confirmed our government's commitment and confirmed that transfers will reach a record level of $40 billion by the end of the decade. Again, only the NDP could do math that would say that increasing funding to the provinces and territories in health care to $40 billion is a cut.</ParaText>
             </Content>
@@ -780,8 +703,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Environment</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Doré Lefebvre" id="7226374">
-            <PersonSpeaking>
-              <Affiliation DbId="170401" Type="2">Ms. Rosane Doré Lefebvre (Alfred-Pellan, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170401" Type="2">Ms. Rosane Doré Lefebvre (Alfred-Pellan, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780210">Mr. Speaker, it is unacceptable to force seniors to choose between paying for their medication and paying for their groceries.</ParaText>
               <ParaText id="2780211">The government is going to cut back on environmental protection legislation in order to be able to more quickly implement megaprojects such as the Enbridge pipeline.</ParaText>
@@ -792,16 +714,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Kent" id="7226406">
-            <PersonSpeaking>
-              <Affiliation DbId="165138" Type="4">Hon. Peter Kent (Minister of the Environment, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="165138" Type="4">Hon. Peter Kent (Minister of the Environment, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780214">Mr. Speaker, if the NDP members would stop lobbying against new jobs in the resource sector and stop their campaign against responsibly regulated resource development, they would have a great deal more credibility in their professed concern for the environment.</ParaText>
               <ParaText id="2780215">Yesterday's budget contained a clear commitment by our government to continue a very active and fully forced environmental agenda, while, at the same time, help to protect jobs and our economy.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Bevington" id="7226424">
-            <PersonSpeaking>
-              <Affiliation DbId="170821" Type="2">Mr. Dennis Bevington (Western Arctic, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170821" Type="2">Mr. Dennis Bevington (Western Arctic, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780216">Mr. Speaker, the budget pulls the plug on the National Round Table on the Environment and the Economy. That is a body set up to provide crucial advice to government about addressing climate change while growing our economy.</ParaText>
               <ParaText id="2780217">However, there is no room for science or a balanced approach with the government. It has muzzled scientists, stifled civil society and has now killed its climate change advisory body.</ParaText>
@@ -809,8 +729,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kent" id="7226437">
-            <PersonSpeaking>
-              <Affiliation DbId="165138" Type="4">Hon. Peter Kent (Minister of the Environment, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="165138" Type="4">Hon. Peter Kent (Minister of the Environment, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780219">Mr. Speaker, our government appreciates and has thanked the round table for its service over the years for any number of reports addressing environmental issues.</ParaText>
               <ParaText id="2780220">However, the reality is that the round table was created a quarter of a century ago. It was created before the Internet, when there were few such sources of domestic, independent research and analysis on sustainable development. That is simply no longer the case. There are now any number of organizations and university based services that provide those services.</ParaText>
@@ -820,11 +739,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="7226440">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Charities</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canada Revenue Agency</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Mai" id="7226439">
-            <PersonSpeaking>
-              <Affiliation DbId="170410" Type="2">Mr. Hoang Mai (Brossard—La Prairie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170410" Type="2">Mr. Hoang Mai (Brossard—La Prairie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780221">Mr. Speaker, the minister's response clearly demonstrates that he does not care about the environment.</ParaText>
               <ParaText id="2780222">Apparently, it is not enough for the Conservatives to call environmental groups radicals. They went even further in the budget. They are now going to monitor these groups' political activities. The Conservatives are cutting $225 million from Revenue Canada, but they have enough money to create an $8 million fund to play the enforcer. They are doing everything in their power to protect their pipelines from the evil organizations that oppose them.</ParaText>
@@ -833,8 +751,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mrs. McLeod" id="7226442">
-            <PersonSpeaking>
-              <Affiliation DbId="170862" Type="18">Mrs. Cathy McLeod (Parliamentary Secretary to the Minister of National Revenue, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170862" Type="18">Mrs. Cathy McLeod (Parliamentary Secretary to the Minister of National Revenue, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780224">Mr. Speaker, the changes announced in the budget will provide education to charities to ensure they are operating within the laws and with more transparency to Canadians who donate so generously. We have not changed the laws. </ParaText>
               <ParaText id="2780225">Our government understands that registered charities are an important part of our society and encourages Canadians to donate generously. In order to protect Canadian interests, we have a duty to ensure that these organizations are operating in compliance with federal laws. We taking action so that Canadians can be sure that charities are using their resources appropriately.</ParaText>
@@ -846,8 +763,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Environment</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Duncan (Etobicoke North)" id="7226444">
-            <PersonSpeaking>
-              <Affiliation DbId="170334" Type="2">Ms. Kirsty Duncan (Etobicoke North, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170334" Type="2">Ms. Kirsty Duncan (Etobicoke North, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780226">Mr. Speaker, yesterday was a sad day for Canada. The government delivered the inaction plan for the environment. </ParaText>
               <ParaText id="2780227">The government severely cut the budget to Environment Canada, cancelled the national round table, took aim at its critics, gutted environmental legislation which protects the health and safety of Canadians and has continually muzzled government scientists. </ParaText>
@@ -855,8 +771,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Kent" id="7226447">
-            <PersonSpeaking>
-              <Affiliation DbId="165138" Type="4">Hon. Peter Kent (Minister of the Environment, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="165138" Type="4">Hon. Peter Kent (Minister of the Environment, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780229">Mr. Speaker, I know my hon. colleague is doing her best to find something to complain about with regard to the environmental chapters in the budget but the fact is that we renewed full funding to protect species at risk. We renewed full funding for the Canadian Environmental Assessment Act. We are moving forward, for example, on a new national park in the Rouge Valley in Toronto. We also are ensuring new and continuing funding for Lake Simcoe and Lake Winnipeg. We are getting the job done. </ParaText>
             </Content>
@@ -869,8 +784,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Pensions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McCallum" id="7226450">
-            <PersonSpeaking>
-              <Affiliation DbId="170090" Type="2">Hon. John McCallum (Markham—Unionville, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170090" Type="2">Hon. John McCallum (Markham—Unionville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780230">Mr. Speaker, by changing the terms of old age security, the <Affiliation DbId="78777" Type="4">Minister of Finance</Affiliation> is asking the most vulnerable seniors to give up $30,000 over two years. And yet no cuts were made to the Prime Minister's Office, ministers' offices or vanity ads.</ParaText>
               <ParaText id="2780231">Is the Conservative machine more important than low-income Canadians?</ParaText>
@@ -878,8 +792,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Leitch" id="7226480">
-            <PersonSpeaking>
-              <Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780232">Mr. Speaker, old age security, as I have mentioned, will not be changed for seniors, for individuals who are a little older than me but maybe not as old as the member opposite. We are moving forward with our initiative. It is extremely important that future Canadians have access to old age security. We are moving forward with a sustainable plan so that younger Canadians will have access to this benefit.</ParaText>
             </Content>
@@ -890,15 +803,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Persons with Disabilities</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Goodale" id="7226491">
-            <PersonSpeaking>
-              <Affiliation DbId="170466" Type="2">Hon. Ralph Goodale (Wascana, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170466" Type="2">Hon. Ralph Goodale (Wascana, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780233">Mr. Speaker, to qualify for a registered disability savings plan, one must first qualify for the disability tax credit. What about those people with a debilitating disease like MS, for example, that takes a long time to develop? That person may not be severely disabled today so they would not qualify for the DTC and, therefore, cannot have a savings plan. However, they know for sure that their disability is coming. They want to save for that sad reality but the government will not help them. This is short-sighted. Will the government fix this unfairness?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Leitch" id="7226503">
-            <PersonSpeaking>
-              <Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780234">Mr. Speaker, this government took unprecedented action by putting in place the registered disability savings plan. I think it is incumbent upon all of us as members to ensure that as many Canadians who have young children with disabilities or older individuals with disabilities know that it is available.</ParaText>
               <ParaText id="2780235"> I encourage the member opposite and all other members to encourage those families that have children with disabilities or those older people with disabilities to register so that they have access to this great plan.</ParaText>
@@ -911,8 +822,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Canadian Food Inspection Agency </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Rousseau" id="7226513">
-            <PersonSpeaking>
-              <Affiliation DbId="170180" Type="2">Mr. Jean Rousseau (Compton—Stanstead, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170180" Type="2">Mr. Jean Rousseau (Compton—Stanstead, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780236">Mr. Speaker, making cuts to food safety is not a good idea, even in times of fiscal restraint. This could give Canadians indigestion.</ParaText>
               <ParaText id="2780237">Instead of strengthening the safety of the Canadian food system, the Conservatives are telling consumers to take up their problems directly with the businesses concerned. That makes no sense.</ParaText>
@@ -922,8 +832,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Lemieux" id="7226517">
-            <PersonSpeaking>
-              <Affiliation DbId="170856" Type="18">Mr. Pierre Lemieux (Parliamentary Secretary to the Minister of Agriculture, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170856" Type="18">Mr. Pierre Lemieux (Parliamentary Secretary to the Minister of Agriculture, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780240">Mr. Speaker, we take food safety very seriously. I would like to point out that in this particular budget, over $50 million will be committed to continuing the enhanced surveillance, early detection and response capabilities for food-borne illness emergencies.</ParaText>
               <ParaText id="2780241">I would like to know if this member, after that lengthy question, will actually stand in his place and support this positive measure for improving food safety here in Canada?</ParaText>
@@ -931,8 +840,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rousseau" id="7226519">
-            <PersonSpeaking>
-              <Affiliation DbId="170180" Type="2">Mr. Jean Rousseau (Compton—Stanstead, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170180" Type="2">Mr. Jean Rousseau (Compton—Stanstead, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780242">Mr. Speaker, I will certainly not support this budget when in another section it says that the budget of the Canadian Food Inspection Agency will be reduced by $56 million over the next three years.</ParaText>
               <ParaText id="2780243">It is already deplorable that we inspect less than 2% of all imported food. Now, the situation will worsen. The Conservatives had already started lowering standards for monitoring, labelling and regulatory compliance. Yesterday's budget is one more step in that direction.</ParaText>
@@ -941,8 +849,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lemieux" id="7226521">
-            <PersonSpeaking>
-              <Affiliation DbId="170856" Type="18">Mr. Pierre Lemieux (Parliamentary Secretary to the Minister of Agriculture, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170856" Type="18">Mr. Pierre Lemieux (Parliamentary Secretary to the Minister of Agriculture, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780245">Mr. Speaker, I really do not understand my colleague's question at all.</ParaText>
               <ParaText id="2780246">I just mentioned that in this particular budget there is an additional $50 million for food safety. I am wondering how this member is going to vote after that lengthy question. I would also point out that in our last budget we included $100 million in additional funding for food safety, which that member voted against. </ParaText>
@@ -953,11 +860,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="7226553">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Air Transportation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Aviation Safety</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Ravignat" id="7226523">
-            <PersonSpeaking>
-              <Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780248">Mr. Speaker, not only will the Conservatives' budget affect the well-being of all Canadians, but it will also make air travel less safe.</ParaText>
               <ParaText id="2780249">The government introduced a safety management system that limited inspectors' access to planes, then it refused to protect the jobs of qualified mechanics working for Aveos. Now it is cutting the air transportation safety budget by 7%. </ParaText>
@@ -966,8 +872,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Poilievre" id="7226557">
-            <PersonSpeaking>
-              <Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre (Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities and for the Federal Economic Development Agency for Southern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre (Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities and for the Federal Economic Development Agency for Southern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780251">Mr. Speaker, the truth is that our government will ensure the safety of Canadians. We will not measure our success in this area or in any other by how much it costs.</ParaText>
               <ParaText id="2780252">We will deliver the goods efficiently without spending more. Yesterday, the NDP announced that it wants a bailout plan for Aveos, which has wasted $1 billion, has declared bankruptcy, and is refusing to appear before a parliamentary committee to tell its side of the story. We will never agree to that.</ParaText>
@@ -975,8 +880,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Ravignat" id="7226572">
-            <PersonSpeaking>
-              <Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170290" Type="2">Mr. Mathieu Ravignat (Pontiac, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780253">Mr. Speaker, while the Conservatives figure out who is going to answer the question, what I will say is that I just do not get it why the government will interfere to prevent a strike but not interfere to save thousands of jobs for Canadians.</ParaText>
               <ParaText id="2780254">The combination of all of these cuts could create a perfect storm. After moving our inspectors out of airplanes and into offices, and cutting 7% of the aviation safety budget, the Conservatives are rolling the dice with the safety of Canadians. They will not even apply the law to make sure that Air Canada keeps its skilled maintenance workers at Aveos.</ParaText>
@@ -984,8 +888,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fletcher" id="7226584">
-            <PersonSpeaking>
-              <Affiliation DbId="170706" Type="4">Hon. Steven Fletcher (Minister of State (Transport), CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170706" Type="4">Hon. Steven Fletcher (Minister of State (Transport), CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780256">Mr. Speaker, this member's rhetoric is really alarming and disappointing. It is beneath members of Parliament to suggest that any of us do not take the safety of Canadians as our first priority.</ParaText>
               <ParaText id="2780257">The savings will be of a nature that will not affect the safety of the airlines, and will respect taxpayers' money. The situation at Aveos is unfortunate. I feel for the families. However, we have a legal opinion that Air Canada is within its legal rights. Moreover, Air Canada said yesterday at committee that it wants to be able to hire many of those Aveos employees to continue to do the maintenance.</ParaText>
@@ -997,16 +900,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Science and Technology</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Braid" id="7226589">
-            <PersonSpeaking>
-              <Affiliation DbId="170367" Type="2">Mr. Peter Braid (Kitchener—Waterloo, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170367" Type="2">Mr. Peter Braid (Kitchener—Waterloo, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780258">Mr. Speaker, our government is focused on jobs, economic growth and long-term prosperity. That is why our economic action plan 2012 will make significant investments in science and technology to encourage businesses to invest more in research and development and to continue to create world-leading talent across this country.</ParaText>
               <ParaText id="2780259">Would the <Affiliation DbId="170855" Type="18">Parliamentary Secretary to the Minister of Industry</Affiliation> please update the House on our government's continued commitment to science and technology?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Lake" id="7226592">
-            <PersonSpeaking>
-              <Affiliation DbId="170855" Type="18">Mr. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170855" Type="18">Mr. Mike Lake (Parliamentary Secretary to the Minister of Industry, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780260">Mr. Speaker, yesterday, our government committed to strongly supporting university and college researchers, the National Research Council, Genome Canada, the Canada Foundation for Innovation, the industrial research assistance program, and the list goes on.</ParaText>
               <ParaText id="2780261">These investments will ensure Canada's long-term competitiveness, creating jobs, growing our economy and improving the quality of life of Canadians.</ParaText>
@@ -1019,8 +920,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Latendresse" id="7226594">
-            <PersonSpeaking>
-              <Affiliation DbId="170255" Type="2">Ms. Alexandrine Latendresse (Louis-Saint-Laurent, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170255" Type="2">Ms. Alexandrine Latendresse (Louis-Saint-Laurent, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780262">Mr. Speaker, yesterday's budget punishes all Canadians. Not only does it contain zero measures for job creation, but there is nothing to improve our municipal infrastructure.</ParaText>
               <ParaText id="2780263">We are not the only ones criticizing it. The Union des municipalities du Québec is also calling on the Conservatives to move on to serious concerns. There is nothing in this budget for public transit, affordable housing or infrastructure.</ParaText>
@@ -1028,8 +928,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Poilievre" id="7226605">
-            <PersonSpeaking>
-              <Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre (Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities and for the Federal Economic Development Agency for Southern Ontario, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170851" Type="18">Mr. Pierre Poilievre (Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities and for the Federal Economic Development Agency for Southern Ontario, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780265">Mr. Speaker, the best way to judge the state of Canada's infrastructure is to look at the average age of each piece of infrastructure. When we came to power, that age was 17 years. It is now 14 years. Our infrastructure is younger and more up to date than it has been in the past 30 years. We will continue to proceed with a program that is producing results, rather than spending just for the sake of spending.</ParaText>
             </Content>
@@ -1037,8 +936,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Sitsabaiesan" id="7226635">
-            <PersonSpeaking>
-              <Affiliation DbId="170390" Type="2">Ms. Rathika Sitsabaiesan (Scarborough—Rouge River, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170390" Type="2">Ms. Rathika Sitsabaiesan (Scarborough—Rouge River, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780266">Mr. Speaker, are the Conservatives trying to punish areas that did not vote for them by underfunding them? It really seems so. Cities are facing major funding gaps and the budget does nothing to address any of them. </ParaText>
               <ParaText id="2780267">Affordable housing? Not there. Public transit? Not there. Immigrant settlement services? Not there. </ParaText>
@@ -1047,8 +945,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fletcher" id="7226646">
-            <PersonSpeaking>
-              <Affiliation DbId="170706" Type="4">Hon. Steven Fletcher (Minister of State (Transport), CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170706" Type="4">Hon. Steven Fletcher (Minister of State (Transport), CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780270">Mr. Speaker, in fact, that member is wrong. Many MPs from the cities are Conservatives, but many are not. </ParaText>
               <ParaText id="2780271">What we are undertaking is a review of the building Canada fund to see what went well, what needs to be improved and what needs to be done. That will occur over the next two years. </ParaText>
@@ -1057,8 +954,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Boivin" id="7226664">
-            <PersonSpeaking>
-              <Affiliation DbId="170299" Type="2">Ms. Françoise Boivin (Gatineau, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170299" Type="2">Ms. Françoise Boivin (Gatineau, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780273">Mr. Speaker, over 1.3 million Canadians are currently unemployed. Yesterday's budget will add another 20,000 people to that number, most of them in our national capital region.</ParaText>
               <ParaText id="2780274">Is that what the Conservative government means by job creation? Cutting public services and reducing the number of people providing those services? When will the minister responsible for the national capital region stand up and defend the local economy?</ParaText>
@@ -1066,8 +962,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Baird" id="7226671">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780275">Mr. Speaker, this government has brought forward some fair and balanced measures. Public servants are taxpayers too. The biggest threat to public services in Canada is skyrocketing deficits and out-of-control spending. That is why we have taken some fair and balanced measures.</ParaText>
               <ParaText id="2780276">There were some who were predicting, literally, 60,000 job losses in the capital. In fact, it is only going to be a small fraction of that.</ParaText>
@@ -1075,16 +970,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dewar" id="7226673">
-            <PersonSpeaking>
-              <Affiliation DbId="170296" Type="2">Mr. Paul Dewar (Ottawa Centre, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170296" Type="2">Mr. Paul Dewar (Ottawa Centre, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780278">Mr. Speaker, I do not think the Conservatives understand the magnitude of the job losses. I am not sure if you received this tweet, Mr. Speaker, but this morning at 8 a.m. I received a tweet from the Government of Canada saying, “Start a career in the public service”. What career? They are killing 20,000 jobs. </ParaText>
               <ParaText id="2780279">The budget really is a cruel joke on Canadians, particularly Canadians who work for the public service. All we have here are job losses and service cuts. Where is the hope for good public services? Where is the opportunity for jobs?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Saxton" id="7226676">
-            <PersonSpeaking>
-              <Affiliation DbId="170864" Type="18">Mr. Andrew Saxton (Parliamentary Secretary to the President of the Treasury Board and for Western Economic Diversification, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170864" Type="18">Mr. Andrew Saxton (Parliamentary Secretary to the President of the Treasury Board and for Western Economic Diversification, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780280">Mr. Speaker, our 2012 budget is a low tax, low debt plan focused on jobs, growth and long-term prosperity. </ParaText>
               <ParaText id="2780281">Our government's modest and measured action is subdued compared to the measures implemented in the mid-1990s. Public servants who lose their jobs will be treated fairly.</ParaText>
@@ -1096,8 +989,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Rae" id="7226678">
-            <PersonSpeaking>
-              <Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170592" Type="2">Hon. Bob Rae (Toronto Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780282">Mr. Speaker, the <Affiliation DbId="147112" Type="4">Minister of Public Safety</Affiliation> received a letter from the mother of student who goes to Canterbury High School in Ottawa. She says the member for <Affiliation DbId="170247" Type="2">Yorkton—Melville</Affiliation> said some extraordinary things about giving people the right to carry arms and bear firearms and how that was good for public safety. He denied the statement, but now the woman in question has insisted that that is exactly what he said. </ParaText>
               <ParaText id="2780283">We also have the member for <Affiliation DbId="170305" Type="2">Calgary West </Affiliation>who just put out an article saying “Where do we aim our guns now”, calling for even further weakening of our gun control legislation. </ParaText>
@@ -1105,8 +997,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Hoeppner" id="7226681">
-            <PersonSpeaking>
-              <Affiliation DbId="170861" Type="18">Ms. Candice Hoeppner (Parliamentary Secretary to the Minister of Public Safety, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170861" Type="18">Ms. Candice Hoeppner (Parliamentary Secretary to the Minister of Public Safety, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780285">Mr. Speaker, these baseless smears against the hon. member for <Affiliation DbId="170247" Type="2">Yorkton—Melville</Affiliation> are terrible. They are beneath the leader of the third party.</ParaText>
               <ParaText id="2780286">This member has worked very hard for his constituents and has worked hard for law-abiding Canadians. I am proud of our caucus. I am proud of our government. We are finally ending the wasteful, ineffective long gun registry, and the member from Saskatchewan has done a great job in support of that. </ParaText>
@@ -1117,11 +1008,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <SubjectOfBusiness id="7227140">
         <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Young People</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Youth</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="7226686">
-            <PersonSpeaking>
-              <Affiliation DbId="170093" Type="2">Mr. Justin Trudeau (Papineau, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170093" Type="2">Mr. Justin Trudeau (Papineau, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780287">Mr. Speaker, the Conservatives are doing away with Katimavik.</ParaText>
               <ParaText id="2780288">They claim it costs too much, but their own recent assessment found that this youth program is relevant, important and valuable. This program also benefits thousands of Canadians through more than 80,000 days of work a year at more than 500 community agencies across the country. </ParaText>
@@ -1131,8 +1021,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calandra" id="7226715">
-            <PersonSpeaking>
-              <Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780291">Mr. Speaker, at the outset let me say how excited I am about Saturday's fundraising initiative. My mother and my father died of cancer, so anything that brings some attention to that cause, I am in favour of.</ParaText>
               <ParaText id="2780292">Specifically, since 1977, Katimavik has received roughly 99% of its funding from the Government of Canada. That is almost $400 million since it was created. It costs $28,000 for every young person it supports. </ParaText>
@@ -1145,8 +1034,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Canadian Broadcasting Corporation</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Scott" id="7226729">
-            <PersonSpeaking>
-              <Affiliation DbId="181257" Type="2">Mr. Craig Scott (Toronto—Danforth, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="181257" Type="2">Mr. Craig Scott (Toronto—Danforth, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780294">Mr. Speaker, yesterday's budget showed once again that the Conservatives just do not seem to care when it comes to Canadian culture. </ParaText>
               <ParaText id="2780295">At least $115 million was cut from the CBC's budget. That means less unique Canadian programming and it means less local content. Canadians do count on the CBC to be informed, entertained and inspired.</ParaText>
@@ -1154,8 +1042,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Calandra" id="7226744">
-            <PersonSpeaking>
-              <Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780297">Mr. Speaker, at the outset let me say that this government has invested more in arts and culture than any government in the history of this country. We are the only country in the G7 that has not only maintained but actually also increased funding for arts and culture. </ParaText>
               <ParaText id="2780298">The Canada Council is receiving the largest amount of funding it ever has, and through the economic action plan that is going to continue. Our museums are receiving the largest amount of funding, and that will be protected in the economic action plan going forward </ParaText>
@@ -1165,16 +1052,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Laverdière" id="7226747">
-            <PersonSpeaking>
-              <Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière (Laurier-Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780301">Mr. Speaker, yesterday, the Conservatives showed once again that culture and information matter little to them: $115 million in cuts to the CBC amounts to a direct attack on our public broadcaster.</ParaText>
               <ParaText id="2780302">When will this government realize that when it attacks the CBC it is attacking our culture, our heritage and an important vehicle for presenting the issues facing our society?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calandra" id="7226749">
-            <PersonSpeaking>
-              <Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170858" Type="18">Mr. Paul Calandra (Parliamentary Secretary to the Minister of Canadian Heritage, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780303">Mr. Speaker, we are very proud of the investments we have already made in Canada's cultural sector. We on this side of the House know that these investments are very important for Canada's economy.</ParaText>
               <ParaText id="2780304">Unfortunately, the NDP and the Liberals voted against all those investments. I hope that they will vote in favour of our artists and Canadian culture the next time they have the chance.</ParaText>
@@ -1187,16 +1072,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Natural Resources</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Boughen" id="7226753">
-            <PersonSpeaking>
-              <Affiliation DbId="170484" Type="2">Mr. Ray Boughen (Palliser, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170484" Type="2">Mr. Ray Boughen (Palliser, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780305">Mr. Speaker, there are over $500 billion in potential investment in our resource sectors. This investment will create hundreds of thousands of jobs and billions in economic growth. However, we are competing with countries around the world for this investment. It is not guaranteed. We cannot sit back and just wait for it to happen.</ParaText>
               <ParaText id="2780306">Could the parliamentary secretary tell the House how our government will unleash Canada's full resource potential?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Anderson" id="7226756">
-            <PersonSpeaking>
-              <Affiliation DbId="170846" Type="18">Mr. David Anderson (Parliamentary Secretary to the Minister of Natural Resources and for the Canadian Wheat Board, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170846" Type="18">Mr. David Anderson (Parliamentary Secretary to the Minister of Natural Resources and for the Canadian Wheat Board, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780307">Mr. Speaker, while the no development party is opposing all investment in the Canadian economy, our government is creating hundreds of thousands of new jobs.</ParaText>
               <ParaText id="2780308">We need to modernize a one project, one review regulatory system with clear timelines from beginning to end. That will help move Canada's economy forward. It will benefit Plan Nord in Quebec, the Ring of Fire in Ontario, mining in British Columbia and all of Canada.</ParaText>
@@ -1211,8 +1094,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Employment Insurance</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Andrews" id="7226787">
-            <PersonSpeaking>
-              <Affiliation DbId="170649" Type="2">Mr. Scott Andrews (Avalon, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170649" Type="2">Mr. Scott Andrews (Avalon, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780311">Mr. Speaker, yesterday's budget draws attention to “an individual’s past history with the EI program”. The minister needs to explain this reference.</ParaText>
               <ParaText id="2780312">What comfort does the government have for fish plant workers from my riding who depend solely on seasonal work? They work in a struggling industry, do not have access to other part-time employment and depend on their employment insurance benefits to make ends meet.</ParaText>
@@ -1220,8 +1102,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Leitch" id="7226803">
-            <PersonSpeaking>
-              <Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170869" Type="18">Ms. Kellie Leitch (Parliamentary Secretary to the Minister of Human Resources and Skills Development and to the Minister of Labour, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780314">Mr. Speaker, our government's top priority is job creation, economic growth and long-term prosperity. The government is making improvements to the EI program to ensure that it is fair, continues to meet the needs of Canadians and is responsive to local labour market demands. As we face unprecedented skill shortages, it will be critical that we work to help Canadians find available jobs as quickly as possible.</ParaText>
               <ParaText id="2780315"> We will work to better the Canadian EI system and give Canadians the tools they need to obtain gainful employment.</ParaText>
@@ -1234,8 +1115,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>International Cooperation </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mrs. Hassainia" id="7226815">
-            <PersonSpeaking>
-              <Affiliation DbId="170636" Type="2">Mrs. Sana Hassainia (Verchères—Les Patriotes, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170636" Type="2">Mrs. Sana Hassainia (Verchères—Les Patriotes, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780316">Mr. Speaker, it is not just the environment that was put on the back burner in this budget. The Conservatives confirmed that they will once again slash spending related to foreign aid and diplomacy. </ParaText>
               <ParaText id="2780317">By 2014, Canada's foreign aid to GDP ratio will be the lowest it has ever been.</ParaText>
@@ -1244,8 +1124,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Ms. Oda" id="7226822">
-            <PersonSpeaking>
-              <Affiliation DbId="111559" Type="4">Hon. Bev Oda (Minister of International Cooperation, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="111559" Type="4">Hon. Bev Oda (Minister of International Cooperation, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780319">Mr. Speaker, this government is committed to aid that is focused, effective and delivers results for people on the ground. However, first and foremost, we are accountable to hard-working Canadians whose tax dollars we are spending.</ParaText>
               <ParaText id="2780320">We are building on our successes and lessons learned to provide the best aid for our aid dollars. It is about making a difference. It is about results, and we are delivering those results.</ParaText>
@@ -1257,8 +1136,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Foreign Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Weston (West Vancouver—Sunshine Coast—Sea to Sky Country)" id="7226824">
-            <PersonSpeaking>
-              <Affiliation DbId="170578" Type="2">Mr. John Weston (West Vancouver—Sunshine Coast—Sea to Sky Country, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170578" Type="2">Mr. John Weston (West Vancouver—Sunshine Coast—Sea to Sky Country, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780321">Mr. Speaker, earlier this month the world was shocked to read about the excesses of the Assad family shopping for crystal shoes and golden candlesticks, literally while Syria was burning.</ParaText>
               <ParaText id="2780322"> Despite months of empty promises, Assad and his regime have failed to deliver on promises of peace and restraint.</ParaText>
@@ -1266,8 +1144,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Baird" id="7226827">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird (Minister of Foreign Affairs, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780324">Mr. Speaker, Canada is standing with the Syrian people in their hour of need. Canada is, today, imposing our seventh round of sanctions against the brutal and increasingly out-of-touch regime in Damascus.</ParaText>
               <ParaText id="2780325"> These latest sanctions target those who profit from their association with the regime, those closest to Assad, including his wife Asma and his mother. We are joining the European Union in putting sanctions against those two individuals and others.</ParaText>
@@ -1281,8 +1158,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Morin (Chicoutimi—Le Fjord)" id="7226829">
-            <PersonSpeaking>
-              <Affiliation DbId="170347" Type="2">Mr. Dany Morin (Chicoutimi—Le Fjord, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170347" Type="2">Mr. Dany Morin (Chicoutimi—Le Fjord, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780327">Mr. Speaker, almost a quarter of the cuts in yesterday's budget affect defence and the Canadian Forces. Our armed forces and their families are wondering how they will be affected by these cuts. There is a cloud of doubt hanging over many military bases across the country, including the base in Bagotville, in my riding. There is nothing in yesterday's budget to reassure the families who depend on military bases to earn their living.</ParaText>
               <ParaText id="2780328">Can the government finally be transparent and tell us the extent of the cuts that will be made to our military bases? It is the least it can do. </ParaText>
@@ -1290,8 +1166,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Fantino" id="7226833">
-            <PersonSpeaking>
-              <Affiliation DbId="170694" Type="4">Hon. Julian Fantino (Associate Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170694" Type="4">Hon. Julian Fantino (Associate Minister of National Defence, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780329">Mr. Speaker, this government has made unprecedented investments in the Canadian Forces in recent years. In fact, since 2006, the defence budget has grown by an average of over $1 billion annually. Over the past two years, we have examined ways to implement cost-saving measures to ensure efficiency and effectiveness combined with the end of the combat missions. National defence will now return to a more normal pace of operation.</ParaText>
               <ParaText id="2780330"> Departments will be informed, unions and employees, about the specific changes and we will communicate those accordingly.</ParaText>
@@ -1305,8 +1180,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Fortin" id="7226839">
-            <PersonSpeaking>
-              <Affiliation DbId="170403" Type="2">Mr. Jean-François Fortin (Haute-Gaspésie—La Mitis—Matane—Matapédia, BQ)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170403" Type="2">Mr. Jean-François Fortin (Haute-Gaspésie—La Mitis—Matane—Matapédia, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780331">Mr. Speaker, yesterday the <Affiliation DbId="78777" Type="4">Minister of Finance</Affiliation> tabled a shameful budget that will hurt Quebec and the regions, as well as all seasonal workers in the tourism, forest and fishing industries, who are losing five weeks of unemployment.</ParaText>
               <ParaText id="2780332">The government is punishing seniors by increasing the retirement age to 67. Quebec is being saddled with the cost of justice, public services are being reduced, the CBC's budget is being cut, funding for Canada Economic Development for Quebec Regions is being cut by $62 million. There is nothing for agriculture or housing. What is more, the government is making drastic cuts to forestry programs.</ParaText>
@@ -1314,8 +1188,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Gourde" id="7226872">
-            <PersonSpeaking>
-              <Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170854" Type="18">Mr. Jacques Gourde (Parliamentary Secretary to the Minister of Public Works and Government Services, for Official Languages and for the Economic Development Agency for the Regions of Quebec, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780334">Mr. Speaker, our budget focuses on Quebeckers' real priorities: jobs, economic growth and long-term prosperity. This budget maintains transfers to Quebec. Health transfers will continue to increase steadily and more quickly than provincial expenditures. We will create long-term jobs through research, innovation and responsible investments, which will benefit all Quebeckers.</ParaText>
             </Content>
@@ -1329,8 +1202,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Simms" id="7226893">
-            <PersonSpeaking>
-              <Affiliation DbId="170738" Type="2">Mr. Scott Simms (Bonavista—Gander—Grand Falls—Windsor, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170738" Type="2">Mr. Scott Simms (Bonavista—Gander—Grand Falls—Windsor, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780335">Mr. Speaker, my point of order is with regard to the members' statements that began this session.</ParaText>
               <ParaText id="2780336">I have been here for eight years. I take quite a bit of delight in bringing attention to events and people in my riding who do wonderful things. I am sure every member in the House does much the same for all the right reasons.</ParaText>
@@ -1339,8 +1211,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7226885">
-            <PersonSpeaking>
-              <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780339">As the member knows, members are given a great deal of latitude during statements to discuss issues that they feel are important to them or things in their constituencies. I did not hear anything today that would cause the Chair concern, but I am happy to get back to the member after reviewing the blues.</ParaText>
             </Content>
@@ -1356,8 +1227,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Government Response to Petitions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lukiwski" id="7226904">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780340">Mr. Speaker, pursuant to Standing Order 36(8) I have the honour to table, in both official languages, the government's response to five petitions.</ParaText>
             </Content>
@@ -1369,8 +1239,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>International Trade</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Keddy" id="7226906">
-            <PersonSpeaking>
-              <Affiliation DbId="170844" Type="18">Mr. Gerald Keddy (Parliamentary Secretary to the Minister of International Trade, for the Atlantic Canada Opportunities Agency and for the Atlantic Gateway, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170844" Type="18">Mr. Gerald Keddy (Parliamentary Secretary to the Minister of International Trade, for the Atlantic Canada Opportunities Agency and for the Atlantic Gateway, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780341">Mr. Speaker, I have the honour to present, in both official languages, the third report of the Standing Committee on International Trade in relation to a study of the Trade Commissioner Service.</ParaText>
               <ParaText id="2780342"> Pursuant to Standing Order 109 of the House of Commons the committee requests that the government table a comprehensive response to this report.</ParaText>
@@ -1383,8 +1252,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Criminal Code</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Smith" id="7226909">
-            <PersonSpeaking>
-              <Affiliation DbId="170217" Type="2">Mrs. Joy Smith (Kildonan—St. Paul, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170217" Type="2">Mrs. Joy Smith (Kildonan—St. Paul, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780343">Mr. Speaker, today I have the honour of presenting several hundred petitions in support of my Bill <Document DbId="5137989" Type="4">C-310</Document>, which will go to third reading today. These petitions were totally unsolicited by me.</ParaText>
               <ParaText id="2780344"> I am pleased to see that these people are supporting the bill, as are all members on all sides of the House.</ParaText>
@@ -1396,8 +1264,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Asbestos</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Martin" id="7226911">
-            <PersonSpeaking>
-              <Affiliation DbId="170429" Type="2">Mr. Pat Martin (Winnipeg Centre, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170429" Type="2">Mr. Pat Martin (Winnipeg Centre, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780345">Mr. Speaker, I am proud to rise today to present a petition signed by literally tens of thousands of Canadians who call upon the House of Commons to take note that asbestos is the greatest industrial killer that the world has ever known.</ParaText>
               <ParaText id="2780346"> The petitioners point out that more Canadians now die from asbestos than all other industrial and occupational causes combined and yet this country remains one of the largest producers and exporters of asbestos in the world. They also point out that Canada spends millions of dollars subsidizing the asbestos industry and blocking international efforts to curb its use.</ParaText>
@@ -1411,8 +1278,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Air Canada</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="7226916">
-            <PersonSpeaking>
-              <Affiliation DbId="170750" Type="2">Mr. Kevin Lamoureux (Winnipeg North, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170750" Type="2">Mr. Kevin Lamoureux (Winnipeg North, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780348">Mr. Speaker, I have the pleasure to present two petitions today.</ParaText>
               <ParaText id="2780349"> The first petition deals with the Air Canada and Aveos concern. Across Canada, literally thousands of individuals are now unemployed because of the government's refusal to take legal action against Air Canada.</ParaText>
@@ -1425,8 +1291,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Old Age Security</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="7227344">
-            <PersonSpeaking>
-              <Affiliation DbId="170750" Type="2">Mr. Kevin Lamoureux (Winnipeg North, Lib.)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170750" Type="2">Mr. Kevin Lamoureux (Winnipeg North, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780351">Mr. Speaker, my second petition deals with the OAS.</ParaText>
               <ParaText id="2780352"> The petitioners call upon the government to revisit the issue of increasing the qualification age from 65 to 67, recognizing that individuals should be able to retire at the age of 65. They believe very firmly in that.</ParaText>
@@ -1438,8 +1303,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Abortion</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Schellenberger" id="7226960">
-            <PersonSpeaking>
-              <Affiliation DbId="170465" Type="2">Mr. Gary Schellenberger (Perth—Wellington, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170465" Type="2">Mr. Gary Schellenberger (Perth—Wellington, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780353">Madam Speaker, I have a petition from 27 members of my community.</ParaText>
               <ParaText id="2780354">The petitioners state that Canada is the only nation in the western world, in the company of China and North Korea, without any laws restricting abortion and that Canada's Supreme Court has said that it is Parliament's responsibility to enact abortion legislation.</ParaText>
@@ -1452,8 +1316,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>Housing</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. May" id="7226972">
-            <PersonSpeaking>
-              <Affiliation DbId="170542" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170542" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780356">Madam Speaker, it seems a little ironic to stand today to present petitions on issues that are so pressing and which were so completely ignored in yesterday's budget.</ParaText>
               <ParaText id="2780357">The first petition deals with the need for affordable housing. The petitioners had hoped to see something in the budget that would allow for the tax benefits that once existed for purpose-built, affordable rental housing.</ParaText>
@@ -1466,8 +1329,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessQualifier>The Environment</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. May" id="7227143">
-            <PersonSpeaking>
-              <Affiliation DbId="170542" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170542" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780359">Madam Speaker, the second petition deals with the issue of allowing full, fair, appropriate environmental reviews to take place, specifically with respect to the Enbridge project, the great pipeline of China, to deliver bitumen crude to tankers which will take it to foreign refineries where foreign workers will benefit from the jobs. </ParaText>
               <ParaText id="2780360">Of course, this is an area specifically targeted in yesterday's budget, not to ensure full, fair, transparent and unbiased review, but to call for fast-tracking and railroading toward a government objective that flies in the face of the best interests of this country economically and environmentally.</ParaText>
@@ -1479,8 +1341,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Questions on the Order Paper</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Lukiwski" id="7226979">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780361">Madam Speaker, the following questions will be answered today: Nos. 459 and 462.</ParaText>
             </Content>
@@ -1488,13 +1349,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
           <WrittenQuestionResponse>
             <QuestionID>Question No. 459--</QuestionID>
-            <Questioner>
-              <Affiliation DbId="170211" Type="2">Hon. Irwin Cotler</Affiliation>:</Questioner>
+            <Questioner><Affiliation DbId="170211" Type="2">Hon. Irwin Cotler</Affiliation>:</Questioner>
             <QuestionContent>
               <ParaText id="2780362">  With respect to Bill C-10, An Act to enact the Justice for Victims of Terrorism Act and to amend the State Immunity Act, the Criminal Code, the Controlled Drugs and Substances Act, the Corrections and Conditional Release Act, the Youth Criminal Justice Act, the Immigration and Refugee Protection Act and other Acts: (<I>a</I>) what steps did the Minister of Justice undertake to conduct a review pursuant to sbs. 4.1(1) of the Department of Justice Act to ensure Bill C-10’s constitutionality and compliance with the Charter of Rights and Freedoms; (<I>b</I>) will the Minister table the review mentioned in subquestion (a) before the House; (<I>c</I>) did the Minister review Bill C-10 in light of section 7 of the Charter regarding cruel and unusual punishments; (<I>d</I>) did the Minister conclude that Bill C-10 respects section 7 of the Charter; (<I>e</I>) has the government undertaken cost projections with respect to litigating challenges to C-10’s constitutionality and, if so, how much has been allocated; and (<I>f</I>) does the government plan to amend Bill C-10 in light of the R. v. Smickle decision?</ParaText>
             </QuestionContent>
-            <Responder>
-              <Affiliation DbId="105826" Type="96">Hon. Rob Nicholson (Minister of Justice and Attorney General of Canada, CPC)</Affiliation>: </Responder>
+            <Responder><Affiliation DbId="105826" Type="96">Hon. Rob Nicholson (Minister of Justice and Attorney General of Canada, CPC)</Affiliation>: </Responder>
             <ResponseContent>
               <ParaText id="2780363">Mr. Speaker, in response to (a), (b), (c), and (d), Bill C-10 is a comprehensive bill that includes reforms that were previously proposed in nine bills introduced in the last session of Parliament.  
 
@@ -1529,13 +1388,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </WrittenQuestionResponse>
           <WrittenQuestionResponse>
             <QuestionID>Question No. 462--</QuestionID>
-            <Questioner>
-              <Affiliation DbId="170211" Type="2">Hon. Irwin Cotler</Affiliation>:</Questioner>
+            <Questioner><Affiliation DbId="170211" Type="2">Hon. Irwin Cotler</Affiliation>:</Questioner>
             <QuestionContent>
               <ParaText id="2780379">  With respect to the government’s filing in L. and M. v. Attorney General (Canada) and Attorney General (Quebec) regarding same-sex couples married in Canada but comprised of one or more non-residence spouses: (<I>a</I>) by what process was the filing reviewed, by which government employees, and on what dates; (<I>b</I>) did the Minister of Justice or his office, or any other agent or officer of the government, issue any directive with specific regard to this case, and, if so, what were the contents of the directives or memo; (<I>c</I>) has the government amended its filing; (<I>d</I>) if the government has amended its filing, in what way has it done so, and, if not, why not; (<I>e</I>) will the government withdraw its filing; (<I>f</I>) who was the highest-ranking official to have approved the filing and when did this occur; and (<I>g</I>) is it the government’s policy to make similar filings in cases of this nature?</ParaText>
             </QuestionContent>
-            <Responder>
-              <Affiliation DbId="105826" Type="96">Hon. Rob Nicholson (Minister of Justice and Attorney General of Canada, CPC)</Affiliation>: </Responder>
+            <Responder><Affiliation DbId="105826" Type="96">Hon. Rob Nicholson (Minister of Justice and Attorney General of Canada, CPC)</Affiliation>: </Responder>
             <ResponseContent>
               <ParaText id="2780380">Mr. Speaker, the Attorney General of Canada’s answer to the application in L and M v. Attorney General of Canada and Attorney General of Ontario was filed on June 29, 2011. The answers to the six specific questions posed are as follows. 
 
@@ -1545,13 +1402,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
 </ParaText>
               <ParaText id="2780382">In response to (b), no directive was issued with regard to this case by the Minister of Justice, his office or any other agent or officer of the Government of Canada.
 
-In response to (c), (d), and (e), the filing has not been amended. A preliminary motion challenging the applicants’ standing to challenge the constitutionality of the Divorce Act on the basis that their marriage was not legally valid in Canada was discontinued on January 17, 2012. On February 17, 2012, the Government of Canada tabled Bill C-32, an Act to amend the Civil Marriage Act, which would change the law in Canada to allow non-residents who were married in Canada to access divorce where they are unable to do so in their country of residence because their Canadian marriage is not recognized.
+</ParaText>
+              <ParaText id="2780382">In response to (c), (d), and (e), the filing has not been amended. A preliminary motion challenging the applicants’ standing to challenge the constitutionality of the Divorce Act on the basis that their marriage was not legally valid in Canada was discontinued on January 17, 2012. On February 17, 2012, the Government of Canada tabled Bill C-32, an Act to amend the Civil Marriage Act, which would change the law in Canada to allow non-residents who were married in Canada to access divorce where they are unable to do so in their country of residence because their Canadian marriage is not recognized.
 
 </ParaText>
               <ParaText id="2780383">In response to (f), the answer was reviewed and approved by the litigation committee of the Ontario regional office of Justice Canada. That committee comprises the senior litigators in the regional office and the regional director general. That approval was given on June 15, 2011.
 
 </ParaText>
-              <ParaText id="2780384">In response to (g), on February 17, 2012, the government introduced Bill C-32, <I>An Act to amend the Civil Marriage Act</I>. This bill would fill the legislative gap left in the <I>Civil Marriage Act </I>by the previous government.
+              <ParaText id="2780384">In response to (g), on February 17, 2012, the government introduced Bill C-32, An Act to amend the Civil Marriage Act. This bill would fill the legislative gap left in the Civil Marriage Act by the previous government.
 </ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
@@ -1562,26 +1420,22 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
         <SubjectOfBusinessTitle>Questions Passed as Orders for Returns</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Lukiwski" id="7226981">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski (Parliamentary Secretary to the Leader of the Government in the House of Commons, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780385">Madam Speaker, if Question No. 464 could be made an order for return, this return would be tabled immediately.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7226982">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780386">Is that agreed?</ParaText>
-              <ParaText id="2780387">
-                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2780387"><B>Some hon. members:</B> Agreed.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
           <WrittenQuestionResponse>
             <QuestionID>Question No. 464--</QuestionID>
-            <Questioner>
-              <Affiliation DbId="170309" Type="2">Ms. Mylène Freeman</Affiliation>:</Questioner>
+            <Questioner><Affiliation DbId="170309" Type="2">Ms. Mylène Freeman</Affiliation>:</Questioner>
             <QuestionContent>
               <ParaText id="2780388">  With regard to Confidential Services for Victims of Abuse (CSVA) program: (<I>a</I>) what steps are being taken to ensure stronger federal-provincial coordination in the delivery of CSVA; (<I>b</I>) once a victim enters the CSVA, what steps are being taken to make sure that access to a secure identity is provided as quickly as possible; (<I>c</I>) how does the CSVA ensure that victims receive adequate support and services during the period in which their new identities are being processed; (<I>d</I>) how does the CSVA adequately provide access to secure housing and financial support for victims entering the program; (<I>e</I>) how does the government intend to redress the fact that victims in the CSVA program in the past were not provided with adequate housing and financial security; (<I>f</I>) what steps are being taken to ensure that the victims entering into the CSVA program now will not face similar difficulties with accessing housing and financial security; (<I>g</I>) what services are provided to victims in the CSVA program after the secure identity is obtained; (<I>h</I>) how are these services coordinated among the provinces and between each province and the federal government; (<I>i</I>) in the event that the secure identity is compromised or revealed, what recourse within the program is available to victims; (<I>j</I>) how can victims whose secure identity is compromised access further services and support; (<I>k</I>) if a victim has complaints about CSVA services received, what recourse is available to them; (<I>l</I>) if a victim has complaints about the timeliness of services provided, what recourse is available to them; (<I>m</I>) what is the timeline for distribution of services in the CSVA program; (<I>n</I>) how is the timeline for distribution of services from the CVSA coordinated with the provinces; and (<I>o</I>) what is the government’s policy concerning the relationship between the CSVA and its international obligation to protect women and girls from violence?</ParaText>
             </QuestionContent>
@@ -1591,19 +1445,16 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           </WrittenQuestionResponse>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Lukiwski" id="7227311">
-            <PersonSpeaking>
-              <Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170850" Type="18">Mr. Tom Lukiwski</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780390">Madam Speaker, I ask that the remaining questions be allowed to stand.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227314">
-            <PersonSpeaking>
-              <Affiliation DbId="171017" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171017" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780391">Is that agreed?</ParaText>
-              <ParaText id="2780392">
-                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2780392"><B>Some hon. members:</B> Agreed.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1624,8 +1475,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           <ProceduralText TocType="TPC" id="2">Motion</ProceduralText>
           <ParaText id="2780393">The House resumed consideration of the motion that this House approves in general the budgetary policy of the government.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Julian" id="7226988">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian (Burnaby—New Westminster, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780394">Madam Speaker, I am pleased to continue this discussion. I have already flagged it will take some time to go over the Conservatives' economic record and what they have done with the budget to provoke a worsening of the Canadian economy.</ParaText>
               <ParaText id="2780395">Madam Speaker, to start off with, I would like to say through you to Canadians who have been sending in all sorts of commentary by emails, faxes, tweets, and messages on Facebook that I will read some, but by no means will I be able to read all of them today. There has been such a huge amount of information coming in. </ParaText>
@@ -1657,7 +1507,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="2780413">I have another message from a young woman from Saint Hubert who said, “I am writing to you about something that is very important to me and that is Katimavik. I just learned that this program will not be receiving any more funding from this government. That really saddens me because I am currently in the program. I just finished my first three months of the program and I have been living in Lethbridge, Alberta. Now, for the past two days, I have been in Sainte-Foy, Quebec. The fact that this program will be cut makes me really sad because before this program I had no idea what I wanted to do in life. Now, after going through these first three months I know exactly what I want to do”.</ParaText>
               <ParaText id="2780414">That is another young Canadian writing to us to denounce yet another program elimination by this government for purely ideological reasons.</ParaText>
-              <ParaText id="2780415">Here is another message, from Sherbrooke this time, “I have not had time to read the Conservatives' entire budget yet, but I see that they have cut the Katimavik social program. I believe it is a very worthwhile program for youth development in our Canadian communities”.<Query /></ParaText>
+              <ParaText id="2780415">Here is another message, from Sherbrooke this time, “I have not had time to read the Conservatives' entire budget yet, but I see that they have cut the Katimavik social program. I believe it is a very worthwhile program for youth development in our Canadian communities”.<Query/></ParaText>
               <ParaText id="2780416">I have received a message from a woman in the Eastern Townships. She just wrote to me on Facebook about the elimination of the Katimavik program and she thanks me for my prompt reply.</ParaText>
               <ParaText id="2780417">I will read one last comment. I have received so many that I could go on reading them, but I get the impression that this afternoon's session cannot be extended, unless the <Affiliation DbId="170677" Type="4">Minister of Foreign Affairs</Affiliation> wants me to keep reading these emails.</ParaText>
               <ParaText id="2780418">I will read one last one about Katimavik, from Vancouver.</ParaText>
@@ -1669,10 +1519,8 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
               <ParaText id="2780421">The NDP caucus will continue to fight for these people on the floor of the House of Commons because Canadian families deserve better than they got in this budget.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="2780422">I also received a couple other emails that are not directly related to the budget, but I thought I would answer them just the same. One of them was not a very kind email. It basically said, “Where does your suit come from?”, I think implying that, given the collapse of the manufacturing sector, I must buy my suits offshore. Madam Speaker, through you, I want to assure that Canadian that this suit is made by unionized workers in Hamilton, Ontario. I believe in supporting Canadian manufacturers. I am very proud of the suit.</ParaText>
-              <ParaText id="2780423">
-                <B>Mr. Robert Chisholm:</B> Me too.</ParaText>
-              <ParaText id="2780424">
-                <B>Mr. Peter Julian:</B> And the member for <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation>, as well.</ParaText>
+              <ParaText id="2780423"><B>Mr. Robert Chisholm:</B> Me too.</ParaText>
+              <ParaText id="2780424"><B>Mr. Peter Julian:</B> And the member for <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation>, as well.</ParaText>
               <ParaText id="2780425">The second less kind comment I received was, “Who are you to comment on the Conservative economic record?”, implying that we should not question what the Prime Minister's Office puts out as a spin to cover up Conservative failures. That person implied that somehow I had not worked in a real job.</ParaText>
               <ParaText id="2780426"> I just want to say through you, Madam Speaker, to this Canadian, I started working at the age of 12. I worked as a manual labourer for many years, saved up my money to go back to university as an adult learner and became a financial administrator. I worked for a number of organizations, both nationally and in the province of British Columbia, as a financial administrator. I always balanced my budgets, paid down debt and maintained services. That is a particular talent of New Democrats.</ParaText>
               <ParaText id="2780427">As financial administrator and executive director for WIDHH, a social enterprise, I was fortunate, on behalf of that organization, to be a recipient of the Consumer Choice Award for Excellence in Business in 2003 and 2004. My longest affiliation, of course, has been with the New Westminster Chamber of Commerce. I am also a proud member of the Burnaby Board of Trade.</ParaText>
@@ -1686,44 +1534,38 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Simms" id="7227235">
-            <PersonSpeaking>
-              <Affiliation DbId="170738" Type="2">Mr. Scott Simms</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170738" Type="2">Mr. Scott Simms</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780434">Madam Speaker, on a point of order, there does not appear to be a quorum in the House, requiring 20 members.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227237">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780435">I now see quorum.</ParaText>
               <ParaText id="2780436">On a point of order, the hon. Minister of Foreign Affairs.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Baird" id="7227238">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780437">Madam Speaker, I wonder if I might ask for a ruling. For 20 minutes, there were no members of the Liberal Party present. Is the House allowed to sit when there are no members of the Liberal caucus in the House?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227241">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780438">On the hon. minister's question, the rules forbid members from mentioning the absence or presence of members in the House.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Baird" id="7227242">
-            <PersonSpeaking>
-              <Affiliation DbId="170677" Type="4">Hon. John Baird</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170677" Type="4">Hon. John Baird</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780439">I respect your ruling, Madam Speaker. I want to categorically withdraw that I mentioned there were no Liberal members in the House.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Julian" id="7227245">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780440">Madam Speaker, the final point is in regard to the feedback I received during question period. </ParaText>
               <ParaText id="2780441">A number of individuals wanted me to do a quick recap of the information I gave out in the first hour of debate. They said that they wanted to take some notes because they had not received this information from Statistics Canada, and understandably so. We are bringing forward this economic information so that Canadians can compare the difference between the rhetoric we get from the Conservative government and the reality. I will quickly recap the concerns I mentioned in the first hour of debate. </ParaText>
@@ -1754,78 +1596,58 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
               <ParaText id="2780464">In terms of the projected economic growth for 2012 in industrialized countries, the OECD countries, Canada ranks in 14th place. When we think of the economy six or seven years ago when we were doing better, although with the Liberal government it was hard to tell as it did not manage the economy generally very well at all, we have now been dragged down to cellar dwellers within the OECD numbers.</ParaText>
               <ParaText id="2780465">Now we need to look at how Canada did in 2011 in projected economic growth worldwide. The Conservatives will say that, yes, we are at the bottom in the OECD but that we did better worldwide. Unfortunately, I have bad news for them. This is not something they will find in the Prime Minister's Office speaking points but it is important to have the facts on the table.</ParaText>
               <ParaText id="2780466">I will ask my colleagues if they think Canada ranked in the top 20 worldwide? No. Anybody for top 30? Anyone for top 40?</ParaText>
-              <ParaText Interjection="e1" id="2780467">
-                <Affiliation DbId="170738" Type="2">Mr. Scott Simms: </Affiliation> Forty-six.</ParaText>
-              <ParaText id="2780468">
-                <Affiliation DbId="170651">Mr. Peter Julian: </Affiliation> We have 46 over there. I thank my colleague from Newfoundland and Labrador.</ParaText>
+              <ParaText Interjection="e1" id="2780467"><Affiliation DbId="170738" Type="2">Mr. Scott Simms: </Affiliation> Forty-six.</ParaText>
+              <ParaText id="2780468"><Affiliation DbId="170651">Mr. Peter Julian: </Affiliation> We have 46 over there. I thank my colleague from Newfoundland and Labrador.</ParaText>
               <ParaText id="2780469">Anyone for top 60? Anyone for top 80? Anyone for he top 100? Anyone for top 110? Anyone for top 120? </ParaText>
               <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
               <ParaText id="2780470">No, in economic growth under the Conservative government in 2011, Canada ranked 130th worldwide. Incredible.</ParaText>
               <ParaText id="2780471">Let us look at the projections for 2012. We would expect, after their deplorable record in 2011, that the Conservatives would then say that 130th was pretty bad, that it was embarrassing and they could not go back to their ridings and say that Canada was 130th. They would be embarrassed.</ParaText>
               <ParaText id="2780472">In 2012, with this budget, where does the IMF put Canada? Do members think it is in the top 50? How about the top 80? Top 100? Is there anyone for the top 100? Okay, I understand, members are skeptical about Conservative economic performance.</ParaText>
-              <ParaText Interjection="e1" id="2780473">
-                <Affiliation DbId="170738" Type="2">Mr. Scott Simms:</Affiliation> It is 136.</ParaText>
-              <ParaText id="2780474">
-                <Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> My colleague from Newfoundland and Labrador is saying 136.</ParaText>
+              <ParaText Interjection="e1" id="2780473"><Affiliation DbId="170738" Type="2">Mr. Scott Simms:</Affiliation> It is 136.</ParaText>
+              <ParaText id="2780474"><Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> My colleague from Newfoundland and Labrador is saying 136.</ParaText>
               <ParaText id="2780475">Actually it is not even in the top 150 in 2012. In 2012, according to the IMF, with this budget, the Conservatives will succeed in dragging us down to 152nd. We will be 152nd worldwide in economic growth under the Conservative government.</ParaText>
               <ParaText id="2780476">I do not understand how Conservatives can come to work having dragged Canada down to 152nd and be proud of that. Do they have signs up in their constituencies saying “We are 152nd”. It boggles my mind—</ParaText>
-              <ParaText Interjection="e2" id="2780477">
-                <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm:</Affiliation> I just want to thank the member for bringing that information forward. It is really important for us to know, especially for the members across.</ParaText>
-              <ParaText id="2780478">
-                <Affiliation DbId="170651" Type="2">Mr. Peter Julian:</Affiliation> I thank my colleague from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation>.</ParaText>
+              <ParaText Interjection="e2" id="2780477"><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm:</Affiliation> I just want to thank the member for bringing that information forward. It is really important for us to know, especially for the members across.</ParaText>
+              <ParaText id="2780478"><Affiliation DbId="170651" Type="2">Mr. Peter Julian:</Affiliation> I thank my colleague from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation>.</ParaText>
               <ParaText id="2780479">We are 152nd. Who is ahead of us? Who is doing a better job with economic management and economic growth? Pretty well everyone is, I think it is safe to say. When one is 152nd, one has to try to a little bit harder. This budget obviously dragged us even further down. </ParaText>
               <ParaText id="2780480">Ahead of us are Slovenia; Saint Vincent and the Grenadines; Malta, which is five places up on the list, Finland; and Japan, which is no surprise; and then Turkey, El Salvador, the Bahamas, Iceland; and there is Norway, another industrialized economy that is way ahead of us; and Trinidad and Tobago, St. Lucia, Luxembourg, Iceland, all of whom are better than us—</ParaText>
-              <ParaText Interjection="e3" id="2780481">
-                <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm:</Affiliation> Did their banks not default?</ParaText>
-              <ParaText id="2780482">
-                <Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> They have had a lot of economic problems, but I guess its government is a little bit more competent in office.</ParaText>
-              <ParaText id="2780483">
-                <B>Some hon. members:</B> Oh, oh!</ParaText>
-              <ParaText id="2780484">
-                <B>Mr. Peter Julian</B>: I will come back to that later.</ParaText>
+              <ParaText Interjection="e3" id="2780481"><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm:</Affiliation> Did their banks not default?</ParaText>
+              <ParaText id="2780482"><Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> They have had a lot of economic problems, but I guess its government is a little bit more competent in office.</ParaText>
+              <ParaText id="2780483"><B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="2780484"><B>Mr. Peter Julian</B>: I will come back to that later.</ParaText>
               <ParaText id="2780485">There are also Jordan, Poland, Latvia, Guatemala, Bulgaria, Bosnia, Serbia, and Zimbabwe is even doing better than Canada in the IMF growth projections—</ParaText>
-              <ParaText id="2780486">
-                <B>Some hon. members:</B> Oh, oh!</ParaText>
-              <ParaText id="2780487">
-                <B>Mr. Peter Julian</B>: There are also the Slovak Republic; Algeria; Nicaragua; and Australia, of course, which has a strong Labour government and is doing much better.</ParaText>
+              <ParaText id="2780486"><B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="2780487"><B>Mr. Peter Julian</B>: There are also the Slovak Republic; Algeria; Nicaragua; and Australia, of course, which has a strong Labour government and is doing much better.</ParaText>
               <ParaText id="2780488"> Australia has a government that decided to put in place the kind of progressive fair trade agreements that the NDP on this side of the House has been championing in the House of Commons. They took out the investor-state provisions that a former right wing government had put in. Australia is an example of a progressive, social democratic country with a progressive fair trade agenda. It is dozens and dozens of places ahead of us, so I think we can congratulate Australia for being so much better.</ParaText>
               <ParaText id="2780489">Then there are Romania, Lebanon, Kiribati and Honduras. I am not going to read the whole list for obvious reasons, but there are also South Africa; Mexico; Brazil; and New Zealand, of course, which has another government that in the past has been social democratic; Sweden; Tunisia; Estonia; Costa Rica; Namibia; Guinea; and Benin. I am not even up to the front pages, but I think the point is pretty clear.</ParaText>
               <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
               <ParaText id="2780490"> I could spend a lot of time reading out the list of the countries that will manage to achieve a higher economic growth rate in 2012 than the Conservatives will with this budget.</ParaText>
               <ParaText id="2780491">As was mentioned during question period, the fact that the government puts in the budget the clear and undeniable fact that the budget will push unemployment up strikes me as just a tad strange.</ParaText>
-              <ParaText Interjection="e1" id="2780492">
-                <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm:</Affiliation> Didn't they call it a jobs budget?</ParaText>
-              <ParaText id="2780493">
-                <Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> Yes, the Conservatives called it a jobs budget and when we look at the job numbers in it, there is more unemployment. My colleague from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation> is absolutely right: it should say it is a less jobs, less growth, less prosperity budget. I think we have a new title for the budget.</ParaText>
+              <ParaText Interjection="e1" id="2780492"><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm:</Affiliation> Didn't they call it a jobs budget?</ParaText>
+              <ParaText id="2780493"><Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> Yes, the Conservatives called it a jobs budget and when we look at the job numbers in it, there is more unemployment. My colleague from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation> is absolutely right: it should say it is a less jobs, less growth, less prosperity budget. I think we have a new title for the budget.</ParaText>
               <ParaText id="2780494">Let us look at some of the other indications, since they are not doing very well on growth at all. We need to look at what the Conservative government has done in terms of the change in real per capita GDP. This is just among OECD countries. We are 14th among OECD countries in growth. I certainly would not want to raise how we are doing worldwide, because it makes the government look so appallingly bad, at 130th in 2011 and 152nd in 2012. </ParaText>
               <ParaText id="2780495">Let us just take the OECD countries and look at the change in real per capita GDP. The Conservatives, as you recall, Madam Speaker, because I know you were first elected in that year, came to power in 2006. I congratulate the Speaker on being re-elected a couple of times. Since that time, up until 2011, how has Canada done in terms of the change in real per capita GDP, because that is the key consideration here? </ParaText>
               <ParaText id="2780496">We have had growth in population. However, as we have seen, the jobs have not kept pace with the growth in population. In fact, we have quarter of a million more Canadians now out on the streets after the recession, looking for work, knocking on doors in that endless, hopeless quest for jobs that simply are not there because the government has not invested to create them.</ParaText>
               <ParaText id="2780497">We also have a number of discouraged workers. In February, we had nearly 40,000 Canadians just give up. They have left the labour market. The Conservatives were happy about that because it resulted in a lower unemployment rate and does not make them look as bad, but the reality is that there are 38,000 Canadian families where the breadwinner simply gave up looking for work. Those jobs are not available because the Conservatives have been cutting them steadily, instead of putting in place the kind of real economic action that we actually need.</ParaText>
               <ParaText id="2780498">How has Canada done when we look at the change in real per capital GDP during the Conservative mandate compared to other countries? I will just test my colleagues. Do they think we were in the top three? No one thinks we were in the top three. The top five? </ParaText>
-              <ParaText id="2780499">
-                <B>An hon. member:</B> We must be in the top five.</ParaText>
-              <ParaText id="2780500">
-                <B>Mr. Peter Julian:</B> No, not in the top five and not in the top 10 either and not in the top 12. In fact, all of the top 12 among the OECD, and remember that we were 14th in terms of growth, had a positive change in real per capita GDP from 2007, just after the Conservatives were elected, to 2011, but Canada was 17th, believe it or not. Nonetheless, here is the real kicker for all Canadians struggling to make ends meet, those families across the country, the families who are sending in emails and texts, who are concerned about the impact of the Conservative budget. Under the Conservative watch and mandate, the change in real per capita GDP in Canada, in other words GDP divided by the number of citizens, has actually gone down. It is minus 1.4%.</ParaText>
+              <ParaText id="2780499"><B>An hon. member:</B> We must be in the top five.</ParaText>
+              <ParaText id="2780500"><B>Mr. Peter Julian:</B> No, not in the top five and not in the top 10 either and not in the top 12. In fact, all of the top 12 among the OECD, and remember that we were 14th in terms of growth, had a positive change in real per capita GDP from 2007, just after the Conservatives were elected, to 2011, but Canada was 17th, believe it or not. Nonetheless, here is the real kicker for all Canadians struggling to make ends meet, those families across the country, the families who are sending in emails and texts, who are concerned about the impact of the Conservative budget. Under the Conservative watch and mandate, the change in real per capita GDP in Canada, in other words GDP divided by the number of citizens, has actually gone down. It is minus 1.4%.</ParaText>
               <ParaText id="2780501">The Conservatives are not taking us forward, they are not taking us upward, they are not taking us to the next level: They are taking us downward. What we say on this side of the House is that Canadian families deserve better than that.</ParaText>
               <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
-              <ParaText Interjection="e1" id="2780502">
-                <Affiliation DbId="170846" Type="18">Mr. David Anderson:</Affiliation> It's the first time I have seen anyone run on water.</ParaText>
-              <ParaText id="2780503">
-                <Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> I apologize, as I did not hear the comment from my friend opposite, but I know it was meant in the spirit of the debate on the budget.</ParaText>
+              <ParaText Interjection="e1" id="2780502"><Affiliation DbId="170846" Type="18">Mr. David Anderson:</Affiliation> It's the first time I have seen anyone run on water.</ParaText>
+              <ParaText id="2780503"><Affiliation DbId="170651">Mr. Peter Julian:</Affiliation> I apologize, as I did not hear the comment from my friend opposite, but I know it was meant in the spirit of the debate on the budget.</ParaText>
               <ParaText id="2780504">Let us talk a bit—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227547">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780505">Order, please. On a point of order, the hon. member for Laurier—Sainte-Marie.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Ms. Laverdière" id="7227548">
-            <PersonSpeaking>
-              <Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170187" Type="2">Ms. Hélène Laverdière</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780506">Madam Speaker, my hon. colleague began his speech, which was very interesting and greatly appreciated by everyone I am sure, by saying that throughout his speech he would do something that is fundamental to the NDP, namely to share in this House the points of view and opinions of the Canadian public, the people who are going to have to pay for this ill-advised budget.</ParaText>
               <ParaText id="2780507">I have received some comments from one of my constituents and I would like to share them—</ParaText>
@@ -1833,8 +1655,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           </Intervention>
           <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227549">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780508">Order, please. I am sorry to interrupt the hon. member for <Affiliation DbId="170187" Type="2">Laurier—Sainte-Marie</Affiliation>. She may be raising an interesting point, but it is not a point of order.</ParaText>
               <ParaText id="2780509">The hon. member for <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation> on a point of order.</ParaText>
@@ -1842,23 +1663,20 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Chisholm" id="7227578">
-            <PersonSpeaking>
-              <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780510">Madam Speaker, on the same point of order, I want to say that I think it is a point that should be considered by the Speaker because there are a lot of Canadians who are paying attention to what the member for <Affiliation DbId="170651" Type="2">Burnaby—New Westminster</Affiliation> is saying. They want to be represented in the chamber, they want to—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227584">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780511">I thank the hon. members for their comments. I considered them very respectfully, but in my opinion this is a point of debate and these issues can be raised during debate. </ParaText>
               <ParaText id="2780512">I will return to the hon. member for Burnaby—New Westminster.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Julian" id="7227594">
-            <PersonSpeaking>
-              <Affiliation DbId="170651" Type="2">Mr. Peter Julian</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="170651" Type="2">Mr. Peter Julian</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780513">Madam Speaker, I thank my colleagues from <Affiliation DbId="170187" Type="2">Laurier—Sainte-Marie</Affiliation> and from <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation> for raising those points and I thank you, Madam Speaker, for your eminently wise counsel in that regard. I also thank Canadians.</ParaText>
               <ParaText id="2780514">Let us move on to another economic index. I know it is a bit depressing for us to go over the Conservative economic record. It is even more depressing for the families that are experiencing the economic lack of action and the incompetence of the government. It is important to get all the facts on the table.</ParaText>
@@ -1908,16 +1726,12 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
                 </Quote>
               </ParaText>
               <ParaText id="2780538">The purchase of the F-35s is obviously a fiasco. That is the only way to put it. </ParaText>
-              <ParaText Interjection="e2" id="2780539">
-                <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm: </Affiliation> We need to find a replacement for the CF-18s.</ParaText>
-              <ParaText id="2780540">
-                <Affiliation DbId="170651">Mr. Peter Julian: </Affiliation> Exactly.</ParaText>
+              <ParaText Interjection="e2" id="2780539"><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm: </Affiliation> We need to find a replacement for the CF-18s.</ParaText>
+              <ParaText id="2780540"><Affiliation DbId="170651">Mr. Peter Julian: </Affiliation> Exactly.</ParaText>
               <ParaText id="2780541">We are saying one has to keep careful cost accounting on the initial cost of $9 billion. That is what we are suggesting here.</ParaText>
               <ParaText id="2780542">Seniors in Canada and future seniors have to give up their OAS and their benefits. Canadian families have to give up on their services.</ParaText>
-              <ParaText Interjection="e1" id="2780543">
-                <Affiliation DbId="170644" Type="2">Mr. Robert Chisholm: </Affiliation> CARP has said the next generation will be punished.</ParaText>
-              <ParaText id="2780544">
-                <Affiliation DbId="170651">Mr. Peter Julian: </Affiliation> As the Canadian Association of Retired Persons has said, and the hon. member for <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation> has repeated very eloquently: we are punishing future generations in an effort to spend tens of billions of dollars on an over cost fiasco. We are saying Canadian families deserve better than that.</ParaText>
+              <ParaText Interjection="e1" id="2780543"><Affiliation DbId="170644" Type="2">Mr. Robert Chisholm: </Affiliation> CARP has said the next generation will be punished.</ParaText>
+              <ParaText id="2780544"><Affiliation DbId="170651">Mr. Peter Julian: </Affiliation> As the Canadian Association of Retired Persons has said, and the hon. member for <Affiliation DbId="170644" Type="2">Dartmouth—Cole Harbour</Affiliation> has repeated very eloquently: we are punishing future generations in an effort to spend tens of billions of dollars on an over cost fiasco. We are saying Canadian families deserve better than that.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="2780545">That was the F-35s. I am now going to address the issue of prisons, which are the second part of what we are discussing today, because these are the government's two priorities.</ParaText>
               <ParaText id="2780546">We already know that there are going to be budget cuts, cuts to old age security. We have already seen how this government is attacking ordinary families across the country. Middle-class families and the poorest Canadians are being affected by cuts to services. In this budget, the government claims that the bills it is proposing, for example, the crime bill, will not cost any money.</ParaText>
@@ -1975,8 +1789,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           </Intervention>
           <Timestamp Hr="13" Mn="30">(1330)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227907">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780573">I must interrupt the hon. member.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -1996,8 +1809,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           <ProceduralText TocType="TPC" id="3">Bill C-310. Report stage</ProceduralText>
           <ParaText id="2780575">The House proceeded to the consideration of Bill <Document DbId="5137989" Type="4">C-310, An Act to amend the Criminal Code (trafficking in persons)</Document>, as reported (with amendments) from the committee.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7227941">
-            <PersonSpeaking>
-              <Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171016" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780576">There being no motions at report stage, the House will now proceed without debate to the putting of the question on the motion to concur in the bill at report stage.</ParaText>
             </Content>
@@ -2014,29 +1826,20 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="Ms. Savoie" id="7228088">
-            <PersonSpeaking>
-              <Affiliation DbId="171017" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+            <PersonSpeaking><Affiliation DbId="171017" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="2780578">The question is on the motion. Is it the pleasure of the House to adopt the motion? </ParaText>
-              <ParaText id="2780579">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-              <ParaText id="2780580">
-                <B>Some hon. members:</B> No.</ParaText>
-              <ParaText id="2780581">
-                <B>The Deputy Speaker:</B> All those in favour of the motion will please say yea. </ParaText>
-              <ParaText id="2780582">
-                <B>Some hon. members:</B> Yea.</ParaText>
-              <ParaText id="2780583">
-                <B>The Deputy Speaker:</B> All those opposed will please say nay.</ParaText>
-              <ParaText id="2780584">
-                <B>Some hon. members:</B> Nay.</ParaText>
-              <ParaText id="2780585">
-                <B>The Deputy Speaker:</B> In my opinion the yeas have it.</ParaText>
+              <ParaText id="2780579"><B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="2780580"><B>Some hon. members:</B> No.</ParaText>
+              <ParaText id="2780581"><B>The Deputy Speaker:</B> All those in favour of the motion will please say yea. </ParaText>
+              <ParaText id="2780582"><B>Some hon. members:</B> Yea.</ParaText>
+              <ParaText id="2780583"><B>The Deputy Speaker:</B> All those opposed will please say nay.</ParaText>
+              <ParaText id="2780584"><B>Some hon. members:</B> Nay.</ParaText>
+              <ParaText id="2780585"><B>The Deputy Speaker:</B> In my opinion the yeas have it.</ParaText>
               <ParaText id="2780586">
                 <I>And five or more members having risen:</I>
               </ParaText>
-              <ParaText id="2780587">
-                <B>The Deputy Speaker:</B> Pursuant to Standing Order 98, the recorded division stands deferred until Wednesday, April 4, 2012, immediately before the time provided for private members' business. </ParaText>
+              <ParaText id="2780587"><B>The Deputy Speaker:</B> Pursuant to Standing Order 98, the recorded division stands deferred until Wednesday, April 4, 2012, immediately before the time provided for private members' business. </ParaText>
               <ProceduralText TocType="TPC" id="5">Division on motion deferred</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="2780588">It being 1:30 p.m., the House stands adjourned until Monday, April 2, at 11 a.m. pursuant to Standing Order 24(1).</ParaText>
@@ -2079,31 +1882,31 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
       <title>Board Of Internal Economy</title>
       <Affiliation>
         <Name>Hon. Andrew Scheer</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Ms. Chris Charlton</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Mr. Joe Comartin</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Ms. Judy Foote</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Hon. Rob Merrifield</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Hon. Gordon O'Connor</Name>
-        <Role />
+        <Role/>
       </Affiliation>
       <Affiliation>
         <Name>Hon. Peter Van Loan</Name>
-        <Role />
+        <Role/>
       </Affiliation>
     </MemberList>
     <MemberList MemberListType="MembersAlpha">
@@ -14019,7 +13822,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
         <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
           <Affiliation>
             <Role>Vice-Chair:</Role>
-            <Name />
+            <Name/>
           </Affiliation>
         </CommitteeMemberGroup>
         <CommitteeMemberGroup CommitteeMemberGroupType="Members">
@@ -17051,7 +16854,7 @@ In response to (c), (d), and (e), the filing has not been amended. A preliminary
           <CommitteeMemberGroup CommitteeMemberGroupType="ViceChairs">
             <Affiliation>
               <Role>Vice-Chair:</Role>
-              <Name />
+              <Name/>
             </Affiliation>
           </CommitteeMemberGroup>
           <CommitteeMemberGroup CommitteeMemberGroupType="Members">
