@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="8721240">
   <StartPageNumber>14367</StartPageNumber>
   <DocumentTitle>
@@ -152,13 +134,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Devolin" id="8721258">
-            <PersonSpeaking>
-              <Affiliation DbId="194999" Type="92">Le président suppléant (M. Barry Devolin)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4129025">À l'ordre, s'il vous plaît. Le député d'Ottawa-Sud a la parole.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. McGuinty" id="8721259">
             <PersonSpeaking>
               <Affiliation DbId="170511" Type="2">M. David McGuinty</Affiliation>: </PersonSpeaking>
@@ -428,7 +403,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170457" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129160">Monsieur le Président, je remercie mon collègue pour son intervention d'aujourd'hui et pour son travail dans ce dossier.</ParaText>
+              <ParaText id="4129160">Monsieur le Président, je remercie mon collègue de son intervention d'aujourd'hui et pour son travail dans ce dossier.</ParaText>
               <ParaText id="4129161">La question que je voudrais lui poser est assez simple. J'aimerais qu'il nous en dise davantage sur l'aide que cette motion apporterait aux petites entreprises de nos circonscriptions. Je sais que nombre d'entre elles ont passablement de difficulté à négocier les frais et les autres coûts relatifs aux paiements faits par l'intermédiaire de MasterCard, de Visa et de toute une série d'autres fournisseurs. Je voudrais qu'il nous explique plus en détail les avantages qui découleraient de cette motion pour les petites entreprises.</ParaText>
             </Content>
           </Intervention>
@@ -652,9 +627,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4129257">Comme les députés peuvent le constater, la liste des mesures que nous avons prises pour aider les consommateurs est longue et ne se limite pas au secteur des services financiers. Nous aimerions simplement que l'opposition se rallie à nous et qu'elle commence à appuyer certaines de ces importantes mesures. En effet, nous aimerions qu'elle cesse de voter contre chacune d'entre elles.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Question" ToC="Yes" ToCText="M. Cash" id="8721353">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Cash" id="8721353">
             <PersonSpeaking>
-              <Affiliation DbId="170493" Type="2">M. Andrew Cash (Davenport, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="170493" Type="2">M. Andrew Cash</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129258">Monsieur le Président, c'est curieux d'entendre le député d'en face soutenir que le gouvernement et lui se préoccupent de protéger le consommateur. Après tout, si cela leur tient vraiment à coeur, pourquoi le gouvernement n'a-t-il pas interdit aux banques de facturer des frais payer-pour-payer, dans le budget de 2014, alors que, en réaction aux pressions du NPD, il a interdit exactement la même chose aux sociétés de téléphonie et de télécommunication?</ParaText>
               <ParaText id="4129259">Aussi, je tiens à préciser que l'expression « payer pour payer » a été inventée par un jeune bénévole de mon bureau de Toronto. Nous préparions la campagne et nous cherchions à nommer cette pratique. Cet adolescent, encore à l'école secondaire, a dit qu'il s'agit de frais permettant de payer une facture et qu'on nous fait payer pour payer nos factures. Et la lumière fut.</ParaText>
@@ -952,7 +927,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="170730" Type="2">M. Bob Zimmer (Prince George—Peace River, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129397">Monsieur le Président, je rends aujourd'hui hommage aux bénévoles dévoués de la société d'histoire de South Peace et de la société du parc Mile Zero, à Dawson Creek.</ParaText>
-              <ParaText id="4129398">Par leur excellent travail et leur dévouement, Stewart et Margaret Flynn, Anne Haycock, Day Roberts, Dale Campbell, Walter Schoen, Paul Gevatkoff, Charlie Parslow, pour ne nommer qu'eux, sont autant d'exemples de résidants exceptionnels qui ne ménagent aucun effort pour préserver l'histoire de notre région. Ils consacrent en grande partie leurs efforts au village d'antan Walter-Wright, un site historique qui perpétue, qui protège et qui présente le patrimoine de la région située au sud de la rivière de la Paix.</ParaText>
+              <ParaText id="4129398">Par leur excellent travail et leur dévouement, Stewart et Margaret Flynn, Anne Haycock, Day Roberts, Dale Campbell, Walter Schoen, Paul Gevatkoff et Charlie Parslow, pour ne nommer qu'eux, sont autant d'exemples de résidants exceptionnels qui ne ménagent aucun effort pour préserver l'histoire de notre région. Ils consacrent en grande partie leurs efforts au village d'antan Walter-Wright, un site historique qui perpétue, qui protège et qui présente le patrimoine de la région située au sud de la rivière de la Paix.</ParaText>
               <ParaText id="4129399">De plus, la société d'histoire de South Peace et la société du parc Mile Zero collaborent actuellement à la construction d'immeubles et au déplacement de bâtiments patrimoniaux afin d'agrandir le village d'antan.</ParaText>
               <ParaText id="4129400">C'est un honneur pour moi que de souligner le travail de ces deux organismes voués à la préservation du patrimoine culturel de la région de la rivière de la Paix, en Colombie-Britannique.</ParaText>
             </Content>
@@ -981,7 +956,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8721428">
-        <SubjectOfBusinessTitle>Le Mois de sensibilisation à la SLA</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Mois de sensibilisation à la sclérose latérale amyotrophique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Tilson" id="8721429">
             <PersonSpeaking>
@@ -996,7 +971,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8721431">
-        <SubjectOfBusinessTitle>Le Mois de sensibilisation à la SLA</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Mois de sensibilisation à la sclérose latérale amyotrophique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cuzner" id="8721432">
             <PersonSpeaking>
@@ -1006,7 +981,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4129411">La SLA est une maladie qui se caractérise par une dégénérescence des nerfs qui relient le cerveau aux muscles, entraînant, chez les Canadiens atteints, une paralysie progressive, qui finit par nuire à leur capacité de respirer. L'issue de cette maladie est, bien entendu, la mort. Il n'y a actuellement pas de traitement pour cette maladie.</ParaText>
               <ParaText id="4129412">Tous les députés ont un membre de la famille, un ami ou une connaissance qui est touché par cette maladie. En septembre 2009, mon ancien chef de cabinet au bureau du whip libéral, Richard Wackid, a perdu son combat contre cette maladie. Ce jeune homme extrêmement talentueux et respecté a été terrassé dans la fleur de l'âge.</ParaText>
               <ParaText id="4129413">Nous sommes nombreux à avoir rencontré Brian Parsons, ancien attaché politique, qui, aujourd'hui, non seulement livre son propre combat contre la SLA, mais continue aussi à militer pour cette cause.</ParaText>
-              <ParaText id="4129414">L'année dernière, 260 000 Canadiens ont participé au défi du seau d'eau glacée et ont fait don de 17 millions de dollars pour la SLA. Cet argent est consacré à la recherche et à de l'équipement servant à maintenir la qualité de vie des patients.</ParaText>
+              <ParaText id="4129414">L'année dernière, 260 000 Canadiens ont participé au défi du seau d'eau glacée et ont fait don de 17 millions de dollars pour lutter contre la SLA. Cet argent est consacré à la recherche et à de l'équipement servant à maintenir la qualité de vie des patients.</ParaText>
               <ParaText id="4129415">Nous devons maintenir cet élan dans la lutte pour trouver un traitement. Je demande à tous les députés de se joindre à moi pour soutenir la cause en portant une centaurée bleuet aujourd'hui et en versant un don pour cette importante cause.</ParaText>
             </Content>
           </Intervention>
@@ -1052,7 +1027,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="170404" Type="2">M. Colin Carrie (Oshawa, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129423">Monsieur le Président, je suis fier de prendre la parole dans cette enceinte aujourd'hui revêtu du chandail de l'équipe de hockey junior de ma ville, les Generals d'Oshawa. C'est une équipe à la fière tradition qui a vu défiler dans ses rangs le légendaire Bobby Orr et le grand Eric Lindros.</ParaText>
-              <ParaText id="4129424">Hier soir, dans une finale enlevante qui s'est terminée par une victoire de deux à un en prolongation contre les Rockets de Kelowna, les Generals ont remporté la Coupe Memorial, le trophée le plus convoité du hockey junior canadien. Un joueur de 17 ans, Anthony Cirelli, a marqué le but égalisateur et le but victorieux pour Oshawa. De toutes les équipes juniors actives aujourd'hui au Canada, Oshawa est devenue hier celle qui a remporté la Coupe Memorial le plus grand nombre de fois. Ce match demeurera mémorable.</ParaText>
+              <ParaText id="4129424">Hier soir, dans une finale enlevante qui s'est terminée par une victoire de 2 à 1 en prolongation contre les Rockets de Kelowna, les Generals ont remporté la Coupe Memorial, le trophée le plus convoité du hockey junior canadien. Un joueur de 17 ans, Anthony Cirelli, a marqué le but égalisateur et le but victorieux pour Oshawa. De toutes les équipes juniors actives aujourd'hui au Canada, Oshawa est devenue hier celle qui a remporté la Coupe Memorial le plus grand nombre de fois. Ce match demeurera mémorable.</ParaText>
               <ParaText id="4129425">J'aimerais féliciter les Rockets de Kelowna pour leur performance formidable au cours du tournoi. Quant aux Generals, c'est leur première Coupe Memorial depuis 1990. Je sais que toute la ville d'Oshawa était unie derrière son équipe. Je tiens à remercier les familles d'Oshawa qui ont hébergé des joueurs durant la saison ainsi que les joueurs eux-mêmes, leur famille et les entraîneurs pour leur travail acharné et leur dévouement, grâce auxquels l'équipe a pu rapporter la Coupe Memorial à Oshawa. Ils font la fierté de toute la ville d'Oshawa.</ParaText>
             </Content>
           </Intervention>
@@ -1065,7 +1040,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170369" Type="2">Mme Tilly O'Neill Gordon (Miramichi, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129426">Monsieur le Président, le monstre de Miramichi est un affreux criminel. Condamné pour meurtre, il s'est ensuite évadé de prison et a commis quatre autres meurtres. Nous sommes déterminés à faire tout en notre pouvoir pour veiller à ce qu'il demeure là où il doit être, c'est-à-dire derrière les barreaux. Grâce au leadership du gouvernement conservateur, nous avons pris des mesures énergiques pour que les victimes occupent de nouveau la place qui leur revient au sein du système de justice pénale et pour que les pires malfaiteurs restent en prison toute leur vie. Nous allons toujours placer les droits des victimes avant ceux des criminels.</ParaText>
+              <ParaText id="4129426">Monsieur le Président, le monstre de Miramichi est un affreux criminel. Condamné pour meurtre, il s'est ensuite évadé de prison et a commis quatre autres meurtres. Nous sommes déterminés à faire tout en notre pouvoir pour veiller à ce qu'il demeure là où il doit être, c'est-à-dire derrière les barreaux. Grâce au leadership du gouvernement conservateur, nous avons pris des mesures énergiques pour que les victimes occupent de nouveau la place qui leur revient au sein du système de justice pénale et pour que les pires malfaiteurs restent en prison toute leur vie. Nous placerons toujours les droits des victimes avant ceux des criminels.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1149,7 +1124,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170565" Type="2">M. Joe Daniel (Don Valley-Est, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129441">Monsieur le Président, les électeurs de Don Valley-Est sont étonnés que le chef du Parti libéral veuille imposer, à tous les travailleurs canadiens, une hausse des charges sociales qui entraînera des pertes d'emploi. À une personne qui gagne 60 000 $ par an, le plan du chef libéral coûterait 1 000 $. Il veut instaurer « [...] comme Kathleen Wynne en Ontario [...] une augmentation obligatoire des cotisations au Régime de pension du Canada ».</ParaText>
+              <ParaText id="4129441">Monsieur le Président, les électeurs de Don Valley-Est sont étonnés que le chef du Parti libéral veuille imposer, à tous les travailleurs canadiens, une hausse des charges sociales qui entraînera des pertes d'emploi. À une personne qui gagne 60 000 $ par an, le plan du chef libéral coûterait 1 000 $. Il veut instaurer « comme Kathleen Wynne en Ontario [...] une augmentation obligatoire des cotisations au Régime de pension du Canada ».</ParaText>
               <ParaText id="4129442">Nous rejetons ce plan. Nous favorisons une approche fondée sur un plan de réduction des impôts pour assurer la retraite. Nous voulons laisser plus d'argent dans les poches des travailleurs canadiens.</ParaText>
             </Content>
           </Intervention>
@@ -1164,7 +1139,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4129443">Monsieur le Président, les semaines se suivent et se ressemblent. Un autre ministre conservateur abandonne le navire, toutefois, le <Affiliation DbId="194629" Type="4">ministre de la Justice</Affiliation> n'a pas pu s'empêcher de faire une autre nomination partisane avant de quitter ses fonctions. En effet, l'ancien président des progressistes-conservateurs de Terre-Neuve-et-Labrador vient d'être nommé juge à la Cour suprême.</ParaText>
               <ParaText id="4129444">Les conservateurs ont été élus après avoir promis de mettre fin à la partisanerie, mais il semble qu'ils veulent terminer leur mandat en imitant John Turner. Ils n'en ont que pour leurs amis: tous les conservateurs doivent être récompensés.</ParaText>
-              <ParaText id="4129445">L'annonce du départ du ministre de la Justice porte à plus de 30 le nombre de députés conservateurs qui en ont assez de servir ce gouvernement. Cela n'a rien d'étonnant: chaque semaine on nous annonce que la GRC a lancé une nouvelle enquête sur la corruption, qu'un conservateur fait l'objet d'accusations ou que le Cabinet du premier ministre est mêlé à un autre scandale.</ParaText>
+              <ParaText id="4129445">L'annonce du départ du ministre de la Justice porte à plus de 30 le nombre de députés conservateurs qui en ont assez de servir ce gouvernement. Cela n'a rien d'étonnant: chaque semaine on nous annonce que la GRC a lancé une nouvelle enquête sur la corruption, qu'un conservateur fait l'objet d'accusations ou que le cabinet du premier ministre est mêlé à un autre scandale.</ParaText>
               <ParaText id="4129446">Les Canadiens en ont assez. Heureusement, le 19 octobre, ils pourront enfin élire un gouvernement néo-démocrate. Nous sommes prêts à réparer les torts causés par les conservateurs.</ParaText>
               <ParaText id="4129447">Les Canadiens pourront voter pour le changement qu'ils souhaitent et l'obtenir. </ParaText>
             </Content>
@@ -1281,7 +1256,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4129475">Monsieur le Président, je crois que le compte rendu va démontrer qu'on a fait des efforts significatifs pour améliorer la situation des membres des Premières Nations et des Autochtones, où qu'ils soient au Canada.</ParaText>
               <ParaText id="4129476">De fait, il n'y a pas plus longtemps que dans l'avant-dernier budget, nous avions proposé un investissement majeur afin que les enfants des Premières Nations aient le même degré d'éducation et les mêmes services que les autres Canadiens.</ParaText>
-              <ParaText id="4129477"> Malheureusement, pour des raisons hors de notre contrôle, nous n'avons pas pu y procéder, mais nous continuons à travailler avec les Premières Nations pour améliorer la situation.</ParaText>
+              <ParaText id="4129477"> Malheureusement, pour des raisons indépendantes de notre volonté, nous n'avons pas pu y procéder, mais nous continuons à travailler avec les Premières Nations pour améliorer la situation.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1331,7 +1306,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170090" Type="2">L'hon. John McCallum (Markham—Unionville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129488">C'est n'importe quoi, monsieur le Président. En 2010, le prédécesseur du ministre, Jim Flaherty, a dit ce qui suit: « [...] nous devrions envisager une amélioration modeste, progressive et entièrement financée des prestations déterminées au titre du RPC [...] ».</ParaText>
+              <ParaText id="4129488">C'est n'importe quoi, monsieur le Président. En 2010, le prédécesseur du ministre, Jim Flaherty, a dit ce qui suit: « nous devrions envisager une amélioration modeste, progressive et entièrement financée des prestations déterminées au titre du RPC ».</ParaText>
               <ParaText id="4129489">Ça, c'est une bonne idée.</ParaText>
               <ParaText id="4129490">Pourquoi l'actuel ministre des Finances fait-il fi des conseils de son prédécesseur et, pour reprendre les mots de l'<I>Ottawa Citizen</I>, n'offre-t-il « rien d'autre qu'une tentative cousue de fil blanc pour voler des votes aux partis qui proposent une solution mûrement réfléchie »? Est-ce le mieux dont le gouvernement est capable?</ParaText>
             </Content>
@@ -1341,9 +1316,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="194599" Type="4">L’hon. Kevin Sorenson (ministre d’État (Finances), PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129491">Monsieur le Président, on voit tout de suite que les libéraux cherchent maintenant à se distancier des propos de leur chef. Ce dernier a été sans équivoque la semaine dernière: il a dit envisager de faire comme Kathleen Wynne en Ontario et instaurer une augmentation obligatoire des cotisations au Régime de pensions du Canada.</ParaText>
-              <ParaText id="4129492">Tout le monde sait que le Parti libéral estime que l'on devrait supprimer la prestation universelle pour la garde d'enfants, annuler le fractionnement du revenu, même celui pour les aînés, et faire disparaître le compte d'épargne libre d'impôt.</ParaText>
+              <ParaText id="4129492">Tout le monde sait que le Parti libéral estime que l'on devrait supprimer la Prestation universelle pour la garde d'enfants, annuler le fractionnement du revenu, même celui pour les aînés, et faire disparaître le compte d'épargne libre d'impôt.</ParaText>
               <ParaText id="4129493">Le Parti libéral ferait augmenter les impôts de ceux qui gagnent 60 000 $ par année de 1 000 $.</ParaText>
               <ParaText id="4129494">À notre avis, les Canadiens doivent avoir le choix. Les Canadiens savent qu'ils sont mieux...</ParaText>
+              <ParaText id="4170350">
+                <B>Le Président:</B> À l'ordre. L'honorable députée de Algoma—Manitoulin—Kapuskasing a la parole.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1399,7 +1376,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4129506">Monsieur le Président, le gouvernement a vraiment du mal à faire ce qu'il faut pour les collectivités. Malheureusement, cela s'applique également aux agents de première ligne de la GRC.</ParaText>
               <ParaText id="4129507">L'incident tragique qui est survenu l'année dernière au Nouveau-Brunswick et qui a coûté la vie à trois agents a montré à quel point de nombreux agents étaient terriblement mal préparés par la GRC, puisqu'elle ne leur a pas fourni les armes à feu et la formation appropriées. </ParaText>
-              <ParaText id="4129508">La situation est si mauvaise que la GRC a été accusée d'avoir enfreint le Code canadien du travail. Or, les agents sur le terrain disent que les changements nécessaires n'ont pas encore été apportés.</ParaText>
+              <ParaText id="4129508">La situation est si mauvaise que la GRC a été accusée d'avoir enfreint le Code canadien du travail. Or les agents sur le terrain disent que les changements nécessaires n'ont pas encore été apportés.</ParaText>
               <ParaText id="4129509">Qu'attend le ministre pour agir?</ParaText>
             </Content>
           </Intervention>
@@ -1417,7 +1394,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170462" Type="2">M. Randall Garrison (Esquimalt—Juan de Fuca, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129513">Monsieur le Président, les recommandations relatives aux mesures qu'il convient de prendre existent depuis la tragédie de Mayerthorpe, qui est survenue il y a plus de dix ans.</ParaText>
+              <ParaText id="4129513">Monsieur le Président, les recommandations relatives aux mesures qu'il convient de prendre existent depuis la tragédie de Mayerthorpe, qui est survenue il y a plus de 10 ans.</ParaText>
               <ParaText id="4129514"> Rien ne peut justifier l'inaction, surtout en ce qui concerne le problème posé par le harcèlement sexuel au sein de la GRC. La situation est si grave que près de 400 agentes et employées civiles de la GRC intentent un recours collectif contre la GRC. Elles allèguent avoir été victimes de menaces, d'intimidation et d'agressions sexuelles, des comportements qu'on ne saurait tolérer au sein d'un organisme public.</ParaText>
               <ParaText id="4129515">Que fera le gouvernement pour appuyer ces victimes et veiller à ce que le plan d'action de la GRC soit entièrement mis en oeuvre?</ParaText>
             </Content>
@@ -1427,7 +1404,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="194614" Type="4">L'hon. Steven Blaney (ministre de la Sécurité publique et de la Protection civile, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129516">Monsieur le Président, en matière de harcèlement sexuel, notre gouvernement a une approche de tolérance zéro. C'est la raison pour laquelle tous les membres de la Gendarmerie royale du Canada devraient pouvoir se sentir en sécurité et se sentir respectés par leurs collègues et par leurs supérieurs. Les Canadiens s'attendent à une conduite professionnelle et exemplaire. Le leadership de la GRC continue de travailler afin de soutenir la culture du respect que les hommes et les femmes qui protègent notre pays méritent. Je lui fais confiance pour faire en sorte que le respect s'applique à tous les membres de la GRC.</ParaText>
+              <ParaText id="4129516">Monsieur le Président, en matière de harcèlement sexuel, notre gouvernement a une approche de tolérance zéro. C'est la raison pour laquelle tous les membres de la Gendarmerie royale du Canada devraient pouvoir se sentir en sécurité et se sentir respectés par leurs collègues et par leurs supérieurs. Les Canadiens s'attendent à une conduite professionnelle  exemplaire. Le leadership de la GRC continue de travailler afin de soutenir la culture du respect que les hommes et les femmes qui protègent notre pays méritent. Je lui fais confiance pour faire en sorte que le respect s'applique à tous les membres de la GRC.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Doré Lefebvre" id="8721541">
@@ -1459,8 +1436,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="194614" Type="4">L'hon. Steven Blaney (ministre de la Sécurité publique et de la Protection civile, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129524">Monsieur le Président, si ma collègue veut aider la Gendarmerie royale du Canada a avoir les ressources et les outils législatifs nécessaires pour protéger la population canadienne, je l'invite à appuyer le budget de 2015 dans lequel il y a des ressources additionnelles. </ParaText>
-              <ParaText id="4129525">Pour ce qui est du déploiement de l'équipement, la formation et l'acquisition de matériel relèvent de la Gendarmerie royale du Canada. Nous pouvons faire en sorte qu'elle ait les ressources et les outils nécessaires. C'est ce que nous avons fait avec nos mesures antiterroristes et avec le budget de 2015 qui contient des ressources additionnelles. La Gendarmerie royale du Canada a pris en considération les recommandations faites à la suite de la tragédie de Moncton, et je m'attends à ce qu'elle leur donne suite. </ParaText>
+              <ParaText id="4129524">Monsieur le Président, si ma collègue veut aider la Gendarmerie royale du Canada à avoir les ressources et les outils législatifs nécessaires pour protéger la population canadienne, je l'invite à appuyer le budget de 2015 dans lequel il y a des ressources additionnelles. </ParaText>
+              <ParaText id="4129525">Pour ce qui est du déploiement de l'équipement, la formation et l'acquisition de matériel relèvent de la Gendarmerie royale du Canada. Nous pouvons faire en sorte qu'elle ait les ressources et les outils nécessaires. C'est ce que nous avons fait avec nos mesures antiterroristes et avec le budget de 2015, qui contient des ressources additionnelles. La Gendarmerie royale du Canada a pris en considération les recommandations faites à la suite de la tragédie de Moncton, et je m'attends à ce qu'elle leur donne suite. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1508,7 +1485,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4129534">Monsieur le Président, quand on voit que le redoutable <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> choisit de se cacher derrière cet homme, on comprend pourquoi les députés des premières banquettes se dépêchent de quitter Ottawa.</ParaText>
               <ParaText id="4129535">Le premier ministre est pris dans ce scandale jusqu'au cou. La GRC a indiqué que son personnel avait joué un rôle clé dans les tentatives visant à cacher les fraudes et les abus de confiance. Les sénateurs conservateurs ont même tenté d'expurger la vérification.</ParaText>
-              <ParaText id="4129536">Nous sommes sur le point de recevoir un nouveau rapport du vérificateur général qui pourrait envoyer 14 sénateurs en prison. Pourquoi le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> ne se décide-t-il pas à dire la vérité aux Canadiens au lieu de se cacher? Combien de conservateurs devront encore être accusés avant qu'il dise la vérité au sujet des opérations de camouflage menées dans son Cabinet?</ParaText>
+              <ParaText id="4129536">Nous sommes sur le point de recevoir un nouveau rapport du vérificateur général qui pourrait envoyer 14 sénateurs en prison. Pourquoi le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> ne se décide-t-il pas à dire la vérité aux Canadiens au lieu de se cacher? Combien de conservateurs devront encore être accusés avant qu'il dise la vérité au sujet des opérations de camouflage menées dans son cabinet?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="M. Calandra" id="8721563">
@@ -1562,7 +1539,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170626" Type="2">L'hon. Scott Brison (Kings—Hants, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129548">Monsieur le Président, l'économie ne fait pas que stagner, elle régresse. En fait, nous sommes à mi-chemin vers la récession. </ParaText>
+              <ParaText id="4129548">Monsieur le Président, l'économie ne fait pas que stagner, elle régresse. En fait, nous sommes à mi-chemin de la récession. </ParaText>
               <ParaText id="4129549">Devant les piètres statistiques du Canada au chapitre de l'emploi, la Banque TD a déclaré: « L'indice global est décevant, mais les détails sous-jacents sont encore pires. » Elle souligne la baisse marquée sur le plan des investissements, ce qui n'augure rien de bon pour la croissance. Entretemps, le ministre des Finances soutient que pour stimuler la croissance, il faut faciliter la mise à pied des travailleurs.</ParaText>
               <ParaText id="4129550">Selon le ministre, combien d'emplois devront être perdus pour que l'économie canadienne s'accroisse? Comment le ministre et les conservateurs peuvent-ils être aussi déphasés par rapport à la faible croissance économique et aux difficultés qu'elle suscite?</ParaText>
             </Content>
@@ -1586,7 +1563,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170511" Type="2">M. David McGuinty (Ottawa-Sud, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129554">Monsieur le Président, le gouvernement n'a aucun plan pour la création d'emplois et la croissance, sauf dans le secteur de la publicité. Il n'est pas surprenant que l'ensemble du Cabinet se penche sur la création de slogans pour les publicités gouvernementales partisanes. Maintenant, tenez-vous bien, les ministères et agences du gouvernement doivent défendre le site de vidéos d'autopromotion 24 SEPT du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>. Mon projet de loi d'initiative parlementaire, la <Document DbId="6251952" Type="4">Loi visant à éliminer la publicité gouvernementale partisane</Document>, débattu ce matin, pourrait mettre un terme à cela sur-le-champ.</ParaText>
+              <ParaText id="4129554">Monsieur le Président, le gouvernement n'a aucun plan pour la création d'emplois et la croissance, sauf dans le secteur de la publicité. Il n'est pas surprenant que l'ensemble du Cabinet se penche sur la création de slogans pour les publicités gouvernementales partisanes. Maintenant, c'est incroyable, les ministères et agences du gouvernement doivent défendre le site de vidéos d'autopromotion 24 SEPT du <Affiliation DbId="78738" Type="1">premier ministre</Affiliation>. Mon projet de loi d'initiative parlementaire, la <Document DbId="6251952" Type="4">Loi visant à éliminer la publicité gouvernementale partisane</Document>, débattu ce matin, pourrait mettre un terme à cela sur-le-champ.</ParaText>
               <ParaText id="4129555"> L'argent des contribuables se fait rare et les besoins dans la société canadienne sont bien réels. Quand le gouvernement fera-t-il ce qui s'impose, adoptera-t-il le projet de loi et arrêtera-t-il de gaspiller des millions de dollars pour faire de la propagande aux frais des contribuables?</ParaText>
             </Content>
           </Intervention>
@@ -1627,7 +1604,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="170493" Type="2">M. Andrew Cash (Davenport, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129563">Monsieur le Président, je remercie le gouvernement d'appuyer cette motion, mais soyons clairs. Lorsque le NPD a forcé le gouvernement à interdire les frais de facturation, les conservateurs ont fait une exception pour les banques. En conséquence, les Canadiens paieront jusqu'à 180 millions de dollars en frais cette année seulement. Nous pouvons remédier à ce pillage dès maintenant. </ParaText>
-              <ParaText id="4129564">J'ai une question simple pour le ministre. Acceptera-t-il d'adopter une mesure législative avant l'été afin que les Canadiens soient exemptés à jamais de payer des frais de facturation?</ParaText>
+              <ParaText id="4129564">J'ai une question simple à poser au ministre. Acceptera-t-il d'adopter une mesure législative avant l'été afin que les Canadiens soient exemptés à jamais de payer des frais de facturation?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Oliver" id="8721588">
@@ -1689,7 +1666,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170418" Type="2">M. John Carmichael (Don Valley-Ouest, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129577">Monsieur le Président, le gouvernement a offert aux Canadiens de nombreuses options leur permettant d'épargner davantage en prévision de leur retraite. Le <Affiliation DbId="194599" Type="4">ministre d’État (Finances)</Affiliation> peut-il informer la Chambre de l'idée que nous avons proposée pour le Régime de pensions du Canada?</ParaText>
+              <ParaText id="4129577">Monsieur le Président, le gouvernement a offert aux Canadiens de nombreuses options leur permettant d'épargner davantage en prévision de leur retraite. Le <Affiliation DbId="194599" Type="4">ministre d’État aux Finances</Affiliation> peut-il informer la Chambre de l'idée que nous avons proposée pour le Régime de pensions du Canada?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="M. Sorenson" id="8721603">
@@ -1973,7 +1950,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="170256" Type="2">M. Louis Plamondon (Bas-Richelieu—Nicolet—Bécancour, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129644">Monsieur le Président, plus de 300 travailleurs ont participé, ce matin, à une manifestation dénonçant embauche de travailleurs étrangers au nouveau centre de distribution du Groupe Jean Coutu, à Varennes. Le problème est simple: ces ouvriers autrichiens étrangers effectuent un travail que font habituellement les mécaniciens industriels du Québec sur le chantier. L'étude d'impact sur le marché du travail est ici problématique ou inexistante, à moins que ces travailleurs étrangers n'aient obtenu des visas d'entrepreneurs pour contourner la loi. </ParaText>
+              <ParaText id="4129644">Monsieur le Président, plus de 300 travailleurs ont participé, ce matin, à une manifestation dénonçant l'embauche de travailleurs étrangers au nouveau centre de distribution du Groupe Jean Coutu, à Varennes. Le problème est simple: ces ouvriers autrichiens étrangers effectuent un travail que font habituellement les mécaniciens industriels du Québec sur le chantier. L'étude d'impact sur le marché du travail est ici problématique ou inexistante, à moins que ces travailleurs étrangers n'aient obtenu des visas d'entrepreneurs pour contourner la loi. </ParaText>
               <ParaText id="4129645">Le <Affiliation DbId="209149" Type="4">ministre de l’Emploi et du Développement social</Affiliation> peut-il nous indiquer si ces ouvriers travaillent dans le cadre du Programme des travailleurs étrangers temporaires ou du programme des visas d'entrepreneurs, et s'il entend agir rapidement dans ce dossier?</ParaText>
             </Content>
           </Intervention>
@@ -1996,7 +1973,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="170636" Type="2">Mme Sana Hassainia (Verchères—Les Patriotes, Ind.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129648">Monsieur le Président, sur le site de Citoyenneté et Immigration Canada, on annonce un traitement moyen de 65 jours pour obtenir un renouvellement de la carte de résident permanent. Comment se fait-il que 100 jours ouvrables après en avoir fait la demande, le traitement ne soit toujours pas finalisé?</ParaText>
-              <ParaText id="4129649">Le travail d'un résident permanent de ma circonscription nécessite des déplacements à l'extérieur du Canada, et cette personne se voit menacé de perdre son emploi à cause des délais trop longs et des procédures interminables de Citoyenneté et Immigration Canada. </ParaText>
+              <ParaText id="4129649">Le travail d'un résident permanent de ma circonscription nécessite des déplacements à l'extérieur du Canada, et cette personne se voit menacée de perdre son emploi à cause des délais trop longs et des procédures interminables de Citoyenneté et Immigration Canada. </ParaText>
               <ParaText id="4129650">N'ayant toujours pas obtenu sa carte après cinq mois, il s'est retrouvé dans l'obligation de faire une demande urgente, mais il est resté sans réponse après plus de huit jours. C'est inacceptable! Ce gouvernement peut-il m'expliquer à quoi sert ce service d'urgence?</ParaText>
             </Content>
           </Intervention>
@@ -2005,7 +1982,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="194611" Type="4">L’hon. Chris Alexander (ministre de la Citoyenneté et de l’Immigration, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129651">Monsieur le Président, je dois souligner qu'il est quasiment irresponsable de soulever une telle question à la Chambre sans l'avoir soulevée en privé. On ne peut pas commenter des cas individuels. La députée d'en face devrait s'adresser au ministre responsable si elle veut un traitement équitable pour tout le monde. </ParaText>
-              <ParaText id="4129652">Nous avons réussi à réduire les arrérages partout, mais il y a des cas plus compliqués, et il faut en parler en personne et non pas en public à la Chambre. </ParaText>
+              <ParaText id="4129652">Nous avons réussi à réduire les arriérés partout, mais il y a des cas plus compliqués, et il faut en parler en personne et non pas en public à la Chambre. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Hassainia" id="8721676">
@@ -2316,7 +2293,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <Questioner>
               <Affiliation DbId="170282" Type="2">L'hon. Dominic LeBlanc</Affiliation>:</Questioner>
             <QuestionContent>
-              <ParaText id="4129726">  En ce qui concerne le sous-alinéa 718.2a)(ii) du Code criminel: depuis le <?bk?>1<Sup>er</Sup> janvier 2015,<?ek?><I>a</I>) dans combien de cas a-t-on eu recours à ce sous-alinéa; <I>b</I>) dans combien de cas les accusés ont-ils été libérés en attendant leur procès; <I>c</I>) dans les cas ayant abouti à une déclaration de culpabilité, combien de personnes ont été accusées d’avoir commis une autre infraction criminelle à la suite de leur libération; <I>d</I>) dans les cas ayant abouti à une déclaration de culpabilité, combien de personnes ont été accusées, à la suite de leur libération, d’avoir commis une autre infraction à laquelle s’appliquait le sous-alinéa 718.2a)(ii) du Code criminel; <I>e</I>) dans les cas où les accusés ont été libérés en attendant leur procès, combien ont été accusés d’avoir commis une autre infraction criminelle pendant leur libération;<I> f</I>) dans les cas où les accusés ont été libérés en attendant leur procès, combien ont été accusés d’avoir violé les conditions rattachées à leur libération; <I>g</I>) dans les cas où les accusés ont été libérés en attendant leur procès, combien ont été accusés d’avoir commis une autre infraction à laquelle s’appliquait le sous-alinéa 718.2a)(ii) du Code criminel pendant leur libération? </ParaText>
+              <ParaText id="4129726">  En ce qui concerne le sous-alinéa 718.2a)(ii) du Code criminel: depuis le <?bk ?>1<Sup>er</Sup> janvier 2015,<?ek ?><I>a</I>) dans combien de cas a-t-on eu recours à ce sous-alinéa; <I>b</I>) dans combien de cas les accusés ont-ils été libérés en attendant leur procès; <I>c</I>) dans les cas ayant abouti à une déclaration de culpabilité, combien de personnes ont été accusées d’avoir commis une autre infraction criminelle à la suite de leur libération; <I>d</I>) dans les cas ayant abouti à une déclaration de culpabilité, combien de personnes ont été accusées, à la suite de leur libération, d’avoir commis une autre infraction à laquelle s’appliquait le sous-alinéa 718.2a)(ii) du Code criminel; <I>e</I>) dans les cas où les accusés ont été libérés en attendant leur procès, combien ont été accusés d’avoir commis une autre infraction criminelle pendant leur libération;<I> f</I>) dans les cas où les accusés ont été libérés en attendant leur procès, combien ont été accusés d’avoir violé les conditions rattachées à leur libération; <I>g</I>) dans les cas où les accusés ont été libérés en attendant leur procès, combien ont été accusés d’avoir commis une autre infraction à laquelle s’appliquait le sous-alinéa 718.2a)(ii) du Code criminel pendant leur libération? </ParaText>
             </QuestionContent>
             <Responder>
               <Affiliation DbId="194622" Type="4">L'hon. James Moore (ministre de l’Industrie, PCC)</Affiliation>: </Responder>
@@ -2907,7 +2884,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4129949">Monsieur le Président, je veux poser une question à mon collègue qui est intervenu plus tôt ce matin au sujet de mon projet de loi d'initiative parlementaire visant à exercer un contrôle sur la publicité gouvernementale.</ParaText>
               <ParaText id="4129950">Il y a un instant, le député a fait allusion au renforcement de la littératie financière, ce qui est une initiative très importante pour le Canada ainsi que pour les Canadiens ayant de la difficulté à gérer leur crédit dans le pays le plus endetté au monde, par habitant. J'aimerais savoir combien d'argent le gouvernement a consacré à cette initiative.</ParaText>
-              <ParaText id="4129951">Nous savons que les conservateurs ont dépensé 12 000 $ pour faire appliquer une pellicule de plastique bleue portant le slogan <?bk?>« Plan <?ek?>d'action économique » sur un train de banlieue du réseau GO Transit. Nous savons qu'ils ont dépensé 30 millions de dollars pour faire installer partout au pays 9 850 panneaux publicitaires portant ce même slogan, mais aucun autre message. Nous avons également appris aujourd'hui, il y a à peine quelques heures, que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> avait ordonné à tous les ministères et organismes du Canada d'ajouter sur leur page d'accueil un lien vers son site de vidéos d'autopromotion 24 SEPT qui, à ma connaissance, ne contient aucun message sur la littératie financière. </ParaText>
+              <ParaText id="4129951">Nous savons que les conservateurs ont dépensé 12 000 $ pour faire appliquer une pellicule de plastique bleue portant le slogan <?bk ?>« Plan <?ek ?>d'action économique » sur un train de banlieue du réseau GO Transit. Nous savons qu'ils ont dépensé 30 millions de dollars pour faire installer partout au pays 9 850 panneaux publicitaires portant ce même slogan, mais aucun autre message. Nous avons également appris aujourd'hui, il y a à peine quelques heures, que le <Affiliation DbId="78738" Type="1">premier ministre</Affiliation> avait ordonné à tous les ministères et organismes du Canada d'ajouter sur leur page d'accueil un lien vers son site de vidéos d'autopromotion 24 SEPT qui, à ma connaissance, ne contient aucun message sur la littératie financière. </ParaText>
               <ParaText id="4129952">Le secrétaire parlementaire pourrait-il expliquer combien d'argent est vraiment destiné à aider les Canadiens à comprendre les questions concernant les finances?</ParaText>
             </Content>
           </Intervention>
@@ -2978,7 +2955,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
               <Affiliation DbId="170382" Type="2">Mme Peggy Nash</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129974">Monsieur le Président, il y a beaucoup de choses que les banques pourraient faire pour plaire aux consommateurs. Nous préconisons depuis longtemps de plafonner les taux d'intérêt des cartes de crédit. Nous réclamons aussi depuis un certain temps que soient réduits les frais imposés aux petites entreprises. Ce serait un progrès important.</ParaText>
-              <ParaText id="4129975"> Selon nous, pour contrebalancer l'essor des prêteurs sur <?bk?>salaire —<?ek?> qui peuvent imposer des taux d'intérêt exorbitants et dont la clientèle est surtout composée de personnes à faible revenu —, il serait très utile que les gens aient accès à une carte de crédit de base dont le taux d'intérêt ne dépasserait pas 5 %. </ParaText>
+              <ParaText id="4129975"> Selon nous, pour contrebalancer l'essor des prêteurs sur <?bk ?>salaire —<?ek ?> qui peuvent imposer des taux d'intérêt exorbitants et dont la clientèle est surtout composée de personnes à faible revenu —, il serait très utile que les gens aient accès à une carte de crédit de base dont le taux d'intérêt ne dépasserait pas 5 %. </ParaText>
               <ParaText id="4129976">Il n'en a jamais été question du côté du gouvernement, mais ce serait vraiment utile. Les gens ont parfois besoin d'un peu d'argent supplémentaire pour pouvoir joindre les deux bouts. Une telle carte leur donnerait une autre possibilité que les prêteurs sur salaire, qui leur imposent parfois des taux d'intérêt absolument exorbitants. En ne leur donnant pas d'autre choix, nous les pénalisons encore plus. C'est comme imposer une supertaxe aux gens les plus démunis. </ParaText>
               <ParaText id="4129977">Le gouvernement pourrait faire beaucoup de choses pour diminuer le coût de la vie des Canadiens. En collaboration avec les banques, il pourrait permettre aux gens d'avoir plus facilement accès aux produits bancaires.</ParaText>
             </Content>
@@ -3379,28 +3356,28 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170347" Type="2">M. Dany Morin (Chicoutimi—Le Fjord, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130155">Monsieur le Président, je trouve aberrant que, de l'autre côté de l'allée, le gouvernement et les députés conservateurs disent qu'ils appuient la classe moyenne, la baisse des taxes et la suppression des frais. À la suite de l'excellent discours de mon collègue de <Affiliation DbId="170328" Type="2">Surrey-Nord</Affiliation>, ils n'ont pas posé une seule question. C'est à se demander s'ils l'ont écouté. Moi, j'ai écouté avec attention le discours de mon collègue, et je tiens d'abord à l'en remercier.</ParaText>
-              <ParaText id="4130156">J'ai une question à lui poser sur la relation un peu malsaine entre ces grandes banques et leurs clients. Les cinq plus grandes banques ont gagné, dans la première moitié de l'année, 16 milliards de dollars. Quel genre de pouvoir ont ces banques sur les petits acteurs, sur les familles, sur les jeunes, sur les gens en situation de pauvreté ou sur les aînés?</ParaText>
+              <ParaText id="4170079">Monsieur le Président, je trouve aberrant que, de l'autre côté de l'allée, le gouvernement et les députés conservateurs disent qu'ils appuient la classe moyenne, la baisse des taxes et la suppression des frais. À la suite de l'excellent discours de mon collègue de <Affiliation DbId="170328" Type="2">Surrey-Nord</Affiliation>, ils n'ont pas posé une seule question. C'est à se demander s'ils l'ont écouté. Moi, j'ai écouté avec attention le discours de mon collègue, et je tiens d'abord à l'en remercier.</ParaText>
+              <ParaText id="4170080">J'ai une question à lui poser sur la relation un peu malsaine entre ces grandes banques et leurs clients. Les cinq plus grandes banques ont gagné, dans la première moitié de l'année, 16 milliards de dollars. Quel genre de pouvoir ont ces banques sur les petits acteurs, sur les familles, sur les jeunes, sur les gens en situation de pauvreté ou sur les aînés?</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4130157">Que peuvent les gens ordinaires contre ces grosses institutions?</ParaText>
+              <ParaText id="4170081">Que peuvent les gens ordinaires contre ces grosses institutions?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Sandhu" id="8724385">
             <PersonSpeaking>
               <Affiliation DbId="170328" Type="2">M. Jasbir Sandhu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130158">Monsieur le Président, de quel pouvoir disposent les gens ordinaires? Ils peuvent compter sur le pouvoir du NPD, qui défend leurs intérêts à la Chambre. L'exploitation des consommateurs dure déjà depuis trop longtemps. Les consommateurs l'ont subie sous le règne du troisième parti, qui est maintenant dans le coin là-bas, et sous le règne des conservateurs. Il est temps d'en finir. Il est temps d'éliminer la pratique consistant à facturer la facturation. Il est temps d'éliminer les frais élevés que les banques imposent aux consommateurs qui souhaitent simplement retirer leur argent.</ParaText>
-              <ParaText id="4130159">Je peux affirmer aux députés qu'à compter d'octobre 2015, nous prendrons la défense des familles canadiennes, comme le savent les Canadiens. Les conservateurs et les libéraux devront faire leurs adieux à la Chambre.</ParaText>
+              <ParaText id="4170082">Monsieur le Président, de quel pouvoir disposent les gens ordinaires? Ils peuvent compter sur le pouvoir du NPD, qui défend leurs intérêts à la Chambre. L'exploitation des consommateurs dure déjà depuis trop longtemps. Les consommateurs l'ont subie sous le règne du troisième parti, qui est maintenant dans le coin là-bas, et sous le règne des conservateurs. Il est temps d'en finir. Il est temps d'éliminer la pratique consistant à facturer la facturation. Il est temps d'éliminer les frais élevés que les banques imposent aux consommateurs qui souhaitent simplement retirer leur argent.</ParaText>
+              <ParaText id="4170083">Je peux affirmer aux députés qu'à compter d'octobre 2015, nous prendrons la défense des familles canadiennes, comme le savent les Canadiens. Les conservateurs et les libéraux devront faire leurs adieux à la Chambre.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Lamoureux" id="8724396">
             <PersonSpeaking>
               <Affiliation DbId="170750" Type="2">M. Kevin Lamoureux (Winnipeg-Nord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130160">Monsieur le Président, il est bon d'entendre le député prédire le résultat des élections sans le moindre parti pris. Je dois dire que mes conclusions diffèrent des siennes.</ParaText>
-              <ParaText id="4130161">Il faut noter que les grandes banques ont notamment pour concurrentes les caisses populaires et les coopératives de crédit, des institutions financières relevant de la compétence provinciale.</ParaText>
-              <ParaText id="4130162">La province du Manitoba vient d'élire un gouvernement néo-démocrate. Peut-être le député pourrait-il inviter les gouvernements provinciaux de toutes les couleurs politiques, y compris les néo-démocrates, à examiner des façons de régler le problème des frais de paiement. Au Manitoba, par exemple, si on a par malheur une contravention, il faut payer des frais pour pouvoir la payer. Nous espérons que les néo-démocrates du Manitoba chercheront eux aussi une solution à ce problème.</ParaText>
-              <ParaText id="4130163">Le député pourrait-il parler brièvement des coopératives de crédit, qui contribuent de belle façon à créer de la concurrence dans le secteur financier canadien?</ParaText>
+              <ParaText id="4170084">Monsieur le Président, il est bon d'entendre le député prédire le résultat des élections sans le moindre parti pris. Je dois dire que mes conclusions diffèrent des siennes.</ParaText>
+              <ParaText id="4170085">Il faut noter que les grandes banques ont notamment pour concurrentes les caisses populaires et les coopératives de crédit, des institutions financières relevant de la compétence provinciale.</ParaText>
+              <ParaText id="4170086">La province du Manitoba vient d'élire un gouvernement néo-démocrate. Peut-être le député pourrait-il inviter les gouvernements provinciaux de toutes les couleurs politiques, y compris les néo-démocrates, à examiner des façons de régler le problème des frais de paiement. Au Manitoba, par exemple, si on a par malheur une contravention, il faut payer des frais pour pouvoir la payer. Nous espérons que les néo-démocrates du Manitoba chercheront eux aussi une solution à ce problème.</ParaText>
+              <ParaText id="4170087">Le député pourrait-il parler brièvement des coopératives de crédit, qui contribuent de belle façon à créer de la concurrence dans le secteur financier canadien?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
@@ -3408,8 +3385,8 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170328" Type="2">M. Jasbir Sandhu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130164">Monsieur le Président, je vais m'en tenir aux questions relevant du fédéral. Personnellement, je fais affaire avec Vancity, une coopérative de crédit qui donne un excellent service.</ParaText>
-              <ParaText id="4130165">Je tiens à dire devant la Chambre que les libéraux et les conservateurs ont été complices des grandes banques tout au long des 148 ans de leur existence. C'est le NPD, le Nouveau Parti démocratique, qui défend les intérêts des consommateurs canadiens et veille à ce que l'actuel gouvernement ne puise pas dans leurs poches, comme ce fut le cas avec le gouvernement libéral précédent.</ParaText>
+              <ParaText id="4170088">Monsieur le Président, je vais m'en tenir aux questions relevant du fédéral. Personnellement, je fais affaire avec Vancity, une coopérative de crédit qui donne un excellent service.</ParaText>
+              <ParaText id="4170089">Je tiens à dire devant la Chambre que les libéraux et les conservateurs ont été complices des grandes banques tout au long des 148 ans de leur existence. C'est le NPD, le Nouveau Parti démocratique, qui défend les intérêts des consommateurs canadiens et veille à ce que l'actuel gouvernement ne puise pas dans leurs poches, comme ce fut le cas avec le gouvernement libéral précédent.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -3417,7 +3394,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170347" Type="2">M. Dany Morin</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130166">Monsieur le Président, que pense mon collègue du fait que 74 % de la population sont du côté du NPD? Soixante-quatorze pour cent de la population désapprouvent les frais « payer pour payer », selon le Centre pour la défense de l'intérêt public. Lorsque les conservateurs vont se rendre compte qu'ils sont du mauvais côté de l'opinion publique, il va être trop tard. Ils démontreront que c'est le NPD qui défend la mieux les contribuables et la classe moyenne. Que pense-t-il de cela?</ParaText>
+              <ParaText id="4170090">Monsieur le Président, que pense mon collègue du fait que 74 % de la population sont du côté du NPD? Soixante-quatorze pour cent de la population désapprouvent les frais « payer pour payer », selon le Centre pour la défense de l'intérêt public. Lorsque les conservateurs vont se rendre compte qu'ils sont du mauvais côté de l'opinion publique, il va être trop tard. Ils démontreront que c'est le NPD qui défend la mieux les contribuables et la classe moyenne. Que pense-t-il de cela?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3425,7 +3402,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170328" Type="2">M. Jasbir Sandhu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130167">Monsieur le Président, je vais répondre au député dans une perspective encore plus large. Je sais que 70 % de la population canadienne désapprouve l'actuel gouvernement. J'affirme aux Canadiens qu'en octobre, ils pourraient avoir un gouvernement qui veillera aux intérêts des consommateurs canadiens et qui se portera à la défense des familles canadiennes plutôt qu' à celle des grandes banques, ce que font les conservateurs depuis sept ans. Si les conservateurs souhaitaient sincèrement aider les familles canadiennes, nous passerions à l'action avant que nous n'ajournions pour l'été.</ParaText>
+              <ParaText id="4170091">Monsieur le Président, je vais répondre au député dans une perspective encore plus large. Je sais que 70 % de la population canadienne désapprouve l'actuel gouvernement. J'affirme aux Canadiens qu'en octobre, ils pourraient avoir un gouvernement qui veillera aux intérêts des consommateurs canadiens et qui se portera à la défense des familles canadiennes plutôt qu' à celle des grandes banques, ce que font les conservateurs depuis sept ans. Si les conservateurs souhaitaient sincèrement aider les familles canadiennes, nous passerions à l'action avant que nous n'ajournions pour l'été.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="8724427">
@@ -3931,7 +3908,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170542" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130239">Monsieur le Président, je doute que vous ayez déjà entendu des délibérations sur une motion d'ajournement où il y a un décalage aussi grand que le décalage entre la question que j'ai posée et la réponse de la <Affiliation DbId="194844" Type="18">secrétaire parlementaire du ministre de la Sécurité publique et de la Protection civile.</Affiliation></ParaText>
+              <ParaText id="4130239">Monsieur le Président, je doute que vous ayez déjà entendu des délibérations sur une motion d'ajournement où il y a un décalage aussi grand que celui entre la question que j'ai posée et la réponse de la <Affiliation DbId="194844" Type="18">secrétaire parlementaire du ministre de la Sécurité publique et de la Protection civile.</Affiliation></ParaText>
               <ParaText id="4130240">Je vous signale que c'est le présent gouvernement qui a sabré dans le budget pour la préparation aux situations d'urgence environnementales sur toutes les côtes et pour la préparation en cas de séisme. Il ne se prépare pas en vue d'une crise climatique et il a réduit le budget pour la préparation en cas de catastrophe naturelle. Je ne pense pas que le gouvernement peut prétendre assurer notre sécurité.</ParaText>
               <ParaText id="4130241">Je suis surprise d'entendre la <Affiliation DbId="194844" Type="18">secrétaire parlementaire du ministre de la Sécurité publique et de la Protection civile</Affiliation> s'en prendre à moi, disant que je ne suis pas au courant du problème que constitue le terrorisme djihadiste. Dans le contexte du débat sur le projet de loi <Document DbId="6842344" Type="3">C-51</Document>, j'ai dit clairement que cette question préoccupait le Parti vert. C'est la raison pour laquelle nous nous opposons et continuerons de nous opposer à ce projet de loi. Les spécialistes de la sécurité ont dit clairement qu'avec le projet de loi C-51 nous serons moins bien protégés, parce qu'il créera un SCRS dépourvu de surveillance et lui donnera des pouvoirs pour perturber des activités, et il est fort probable, comme l'ont dit nombre de spécialistes de la sécurité, qu'il nous rendra plus vulnérables à un attentat terroriste.</ParaText>
               <ParaText id="4130242">Je répète que les conservateurs ferment les yeux sur la crise climatique.</ParaText>
@@ -3989,7 +3966,7 @@ Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
               <Affiliation DbId="195000" Type="93">Le président suppléant (M. Bruce Stanton)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4130254">À l'ordre, s'il vous plaît. La minute permise a été largement dépassée.</ParaText>
-              <ParaText id="4130255">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à 10 heures, conformément au paragraphe <?bk?>24(1)<?ek?> du Règlement.</ParaText>
+              <ParaText id="4130255">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à 10 heures, conformément au paragraphe <?bk ?>24(1)<?ek ?> du Règlement.</ParaText>
               <ParaText id="4130256">(La séance est levée à 19 h 24.)</ParaText>
             </Content>
           </Intervention>

@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8721240">
   <StartPageNumber>14367</StartPageNumber>
   <DocumentTitle>
@@ -155,13 +136,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Devolin" id="8721258">
-            <PersonSpeaking>
-              <Affiliation DbId="194999" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4129025">Order, please. The hon. member for Ottawa South.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. McGuinty" id="8721259">
             <PersonSpeaking>
               <Affiliation DbId="170511" Type="2">Mr. David McGuinty</Affiliation>: </PersonSpeaking>
@@ -364,7 +338,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     </OrderOfBusiness>
     <OrderOfBusiness id="8721304" Rubric="Other">
       <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
-      <CatchLine>Government Orders</CatchLine>
+      <CatchLine>Business of Supply</CatchLine>
       <SubjectOfBusiness id="8721305">
         <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -656,9 +630,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4129257">Members can see that the list of measures we have taken to help consumers goes on and on, well beyond the financial services industry. We just wish that the opposition would get on board and start supporting some of these important measures and stop voting against every single one of them.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Question" ToC="Yes" ToCText="Mr. Cash" id="8721353">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Cash" id="8721353">
             <PersonSpeaking>
-              <Affiliation DbId="170493" Type="2">Mr. Andrew Cash (Davenport, NDP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="170493" Type="2">Mr. Andrew Cash</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129258">Mr. Speaker, it is interesting, listening to my colleague opposite talk about the concern he and his government have for consumer protection. If there was that concern, why did the government not ban pay-to-pay fees for banks in the budget of 2014, when it did that very thing, under pressure from the NDP, and banned them for telecommunications and phone companies?</ParaText>
               <ParaText id="4129259">Additionally, I would just like to clarify that the term “pay-to-pay” was coined by a young volunteer in my office in Toronto when we were building this campaign and working to come up with a name. This young man, who was just in high school, said that it is a fee to pay a bill and that we are paying to pay our bills. That is how this whole issue got rolling.</ParaText>
@@ -1033,7 +1007,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <SubjectOfBusiness id="8721437">
         <Timestamp Hr="14" Mn="05">(1405)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Amyotrophic Lateral Sclerosis Awareness Month</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>ALS Awareness Month</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Morin (Chicoutimi—Le Fjord)" id="8721438">
             <PersonSpeaking>
@@ -1041,7 +1015,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4129419">Mr. Speaker, June is Amyotrophic Lateral Sclerosis Month. Sadly, this disease, known as ALS, kills two to three Canadians every day.</ParaText>
               <ParaText id="4129420">It is therefore very important for Canadian society to do everything it can to raise funds and find a cure for this disease that takes the lives of too many mothers and fathers. Currently, over 3,000 Canadians are living with ALS, a disease that remains incurable.</ParaText>
-              <ParaText id="4129421">I was proud to see many Canadians, including the NDP leader, participate in the Ice Bucket Challenge, which aimed to raise Canadians' awareness and raise money for a cure. It was a huge success, and ALS Canada announced that the challenge had helped raise $26 million. </ParaText>
+              <ParaText id="4129421">I was proud to see many Canadians, including the NDP leader, participate in the ice bucket challenge, which aimed to raise Canadians' awareness and raise money for a cure. It was a huge success, and ALS Canada announced that the challenge had helped raise $26 million. </ParaText>
               <ParaText id="4129422">I hope that this year's campaign will be just as successful with the Walk for ALS. On behalf of all of my NDP colleagues, I would like to thank those who signed up for the Walk for ALS, and I sincerely hope that a cure will be found soon.</ParaText>
             </Content>
           </Intervention>
@@ -1335,7 +1309,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="170090" Type="2">Hon. John McCallum (Markham—Unionville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129488">Mr. Speaker, that is nonsense. In 2010, the minister's predecessor, Jim Flaherty, said the following: “...we should consider a modest, phased-in and fully funded enhancement to defined benefits under the CPP..”.</ParaText>
+              <ParaText id="4129488">Mr. Speaker, that is nonsense. In 2010, the minister's predecessor, Jim Flaherty, said the following: “...we should consider a modest, phased-in and fully funded enhancement to defined benefits under the CPP...”</ParaText>
               <ParaText id="4129489">Now, there is a good idea. </ParaText>
               <ParaText id="4129490">Why is the current finance minister ignoring the advice of his predecessor, and, in the words of the <I>Ottawa Citizen</I>, offering “nothing more than a naked attempt to siphon votes from parties that are offering a thought-through alternative”? Can the government not do any better than that?</ParaText>
             </Content>
@@ -1348,6 +1322,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4129492">We know that the Liberal Party believes it should get rid of the universal child care benefit, cancel income splitting, and certainly income splitting for seniors, and claw back the tax-free savings account.</ParaText>
               <ParaText id="4129493">For someone earning $60,000 a year, a $1,000 tax hike is the response and the answer that the Liberal Party has. </ParaText>
               <ParaText id="4129494">We believe in choice for Canadians. Canadians know they are better off—</ParaText>
+              <ParaText id="4170350">
+                <B>The Speaker:</B> Order. The hon. member for Algoma—Manitoulin—Kapuskasing.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1446,7 +1422,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="194614" Type="4">Hon. Steven Blaney (Minister of Public Safety and Emergency Preparedness, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129519">Mr. Speaker, I can give my colleague a clear answer: our government has a zero-tolerance approach to sexual harassment. That is why we expect those in charge at the Royal Canadian Mounted Police to demonstrate professionalism and ensure that all of the men and women who protect our country can thrive within a culture of respect where they are at no risk of sexual harassment.</ParaText>
+              <ParaText id="4129519">Mr. Speaker, I can give my colleague a clear answer: our government has a zero tolerance approach to sexual harassment. That is why we expect those in charge at the Royal Canadian Mounted Police to demonstrate professionalism and ensure that all of the men and women who protect our country can thrive within a culture of respect where they are at no risk of sexual harassment.</ParaText>
               <ParaText id="4129520">Members of the RCMP need to feel safe, and I am sure that those in charge will face these challenges with the appropriate tools that we have given them and the structures we have created.</ParaText>
             </Content>
           </Intervention>
@@ -1512,7 +1488,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4129534">Mr. Speaker, when we see the mighty <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> hiding behind that man, we know why so much of the front bench are getting out of town as fast as they can.</ParaText>
               <ParaText id="4129535"> The Prime Minister is neck deep in this scandal. The RCMP named his staffers as being key in the coverup of issues of fraud and breach of trust. His senators tried to whitewash the audit. </ParaText>
-              <ParaText id="4129536">We are on the eve of a new Auditor General report that could put 14 senators in jail. Why will the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> not stop hiding and come clean with Canadians. How many Conservatives need to be indicted before he will tell the truth about what happened with the coverup in his office?</ParaText>
+              <ParaText id="4129536">We are on the eve of a new Auditor General report that could put 14 senators in jail. Why will the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation> not stop hiding and come clean with Canadians? How many Conservatives need to be indicted before he will tell the truth about what happened with the coverup in his office?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Calandra" id="8721563">
@@ -1550,7 +1526,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129544">Order, please. Someone's phone is ringing. I do no know where it is coming from, but perhaps a smart young person in the lobby can help so we do not have to listen to it in here.</ParaText>
+              <ParaText id="4129544">Order, please. Someone's phone is ringing. I do not know where it is coming from, but perhaps a smart young person in the lobby can help so we do not have to listen to it in here.</ParaText>
               <ParaText id="4129545">The hon. Minister of Finance is going to answer the question.</ParaText>
             </Content>
           </Intervention>
@@ -1590,7 +1566,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="170511" Type="2">Mr. David McGuinty (Ottawa South, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4129554">Mr. Speaker, the government has no plan for jobs and growth, except in the advertising sector. It is not surprising that the entire cabinet is seized with developing slogans for partisan government advertising. Now, get this, every department and agency is forces to shill for the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation>'s 24 Seven vanity video site. My private member's bill, the <Document DbId="6251952" Type="4">elimination of partisan government advertising act</Document>, debated this morning, could put a stop to all of this right now.</ParaText>
+              <ParaText id="4129554">Mr. Speaker, the government has no plan for jobs and growth, except in the advertising sector. It is not surprising that the entire cabinet is seized with developing slogans for partisan government advertising. Now, get this, every department and agency is forced to shill for the <Affiliation DbId="78738" Type="1">Prime Minister</Affiliation>'s 24 Seven vanity video site. My private member's bill, the <Document DbId="6251952" Type="4">elimination of partisan government advertising act</Document>, debated this morning, could put a stop to all of this right now.</ParaText>
               <ParaText id="4129555"> With scarce taxpayer dollars and so many real needs in Canadian society, when will the government do the right thing, pass the bill and stop wasting millions and millions of dollars on taxpayer funded propaganda?</ParaText>
             </Content>
           </Intervention>
@@ -2984,7 +2960,7 @@ Housing</SubjectOfBusinessTitle>
               <Affiliation DbId="170382" Type="2">Ms. Peggy Nash</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4129974">Mr. Speaker, there is a great deal the banks could do to appeal to consumers. We have long advocated for a capping of credit card rates. We have pressured for some time to reduce the fees charged to small businesses. That is an important step forward. </ParaText>
-              <ParaText id="4129975">However, we really think the counterbalance, the growth of payday lenders across the country that can charge exorbitant interest rates and disproportionately have as customers people who are of low income, is a kind of no-frills credit card capped at a 5% interest rate. That would really be helpful for Canadians.</ParaText>
+              <ParaText id="4129975">However, we really think to counterbalance the growth of payday lenders across the country, that can charge exorbitant interest rates and disproportionately have as customers people who are of low income, a kind of no-frills credit card capped at a 5% interest rate would really be helpful for Canadians.</ParaText>
               <ParaText id="4129976"> We have not had any take-up on that from the government, but it really would make a difference. There are times when people just need a little extra money to make ends meet and we allow them no other option than to go to payday lenders where they can be charged absolutely exorbitant rates. We are penalizing them even further. It is like a super tax on the people who can least afford it.</ParaText>
               <ParaText id="4129977">There is a great deal the government could do to make life more affordable for Canadians by working with the banking sector to make their consumer products much more accessible. </ParaText>
             </Content>
@@ -3385,28 +3361,28 @@ Housing</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170347" Type="2">Mr. Dany Morin (Chicoutimi—Le Fjord, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130155">Mr. Speaker, I think it is ludicrous that the government and the Conservative members across the aisle say that they support the middle class, cutting taxes and eliminating fees. They did not ask a single question after my colleague from <Affiliation DbId="170328" Type="2">Surrey North</Affiliation> finished his excellent speech. I wonder if they were listening. I listened carefully to my colleague's speech, and I would like to thank him for it.</ParaText>
-              <ParaText id="4130156">I would like to ask him a question about the rather unhealthy relationship between these big banks and their customers. In the first half of the year, the five major banks earned $16 billion. What kind of power do these banks have over the little guy, families, youth, the poor and seniors?</ParaText>
+              <ParaText id="4170079">Mr. Speaker, I think it is ludicrous that the government and the Conservative members across the aisle say that they support the middle class, cutting taxes and eliminating fees. They did not ask a single question after my colleague from <Affiliation DbId="170328" Type="2">Surrey North</Affiliation> finished his excellent speech. I wonder if they were listening. I listened carefully to my colleague's speech, and I would like to thank him for it.</ParaText>
+              <ParaText id="4170080">I would like to ask him a question about the rather unhealthy relationship between these big banks and their customers. In the first half of the year, the five major banks earned $16 billion. What kind of power do these banks have over the little guy, families, youth, the poor and seniors?</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4130157">How can the little guy fight against those big institutions?</ParaText>
+              <ParaText id="4170081">How can the little guy fight against those big institutions?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Sandhu" id="8724385">
             <PersonSpeaking>
               <Affiliation DbId="170328" Type="2">Mr. Jasbir Sandhu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130158"> Mr. Speaker, what power does the little guy have? The power rests within this group here, the NDP, because we will fight on their behalf in this House. The gouging that is taking place has gone on for long enough. We have had that third party in the corner there, and we have had the Conservatives ganging up on Canadian consumers for far too long. It is time to stop. It is time to stop this pay-to-pay that has been going on. It is time to stop paying the big fees that they charge consumers to even take out their own money. </ParaText>
-              <ParaText id="4130159">Come October 2015, I can assure members that we will be standing up for Canadian families, and Canadians will recognize that. The Conservatives and the Liberals will be sent packing outside of this House.</ParaText>
+              <ParaText id="4170082"> Mr. Speaker, what power does the little guy have? The power rests within this group here, the NDP, because we will fight on their behalf in this House. The gouging that is taking place has gone on for long enough. We have had that third party in the corner there and the Conservatives ganging up on Canadian consumers for far too long. It is time to stop. It is time to stop these pay-to-pay fees that have been going on. It is time to stop paying the big fees they charge consumers to even take out their own money. </ParaText>
+              <ParaText id="4170083">Come October 2015, I can assure members that we will be standing up for Canadian families, and Canadians will recognize that. The Conservatives and the Liberals will be sent packing.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Lamoureux" id="8724396">
             <PersonSpeaking>
               <Affiliation DbId="170750" Type="2">Mr. Kevin Lamoureux (Winnipeg North, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130160">Mr. Speaker, it is good to see that the member is not biased in terms of what he anticipates will be taking place at the end of the year. I would challenge him on his conclusions, I must say.</ParaText>
-              <ParaText id="4130161">One of the things that provides competition for big banks is our credit unions, other financial institutions, which are under provincial jurisdiction. </ParaText>
-              <ParaText id="4130162">We have a New Democratic government in the province of Manitoba. I wonder if the member might provide some advice to provincial governments of all political stripes, even the NDP, that they should also be looking at ways to deal with the idea of paying to pay. In Manitoba, for example, on the other side, if we get a fine and want to pay the fine, we end up paying to pay the fine. We hope to see that the NDP in Manitoba will try to get that one right also.</ParaText>
-              <ParaText id="4130163">Could the member perhaps provide some comments on credit unions, which have done well in terms of providing competition in Canada?</ParaText>
+              <ParaText id="4170084">Mr. Speaker, it is good to see that the member is not biased in terms of what he anticipates will be taking place at the end of the year. I would challenge him on his conclusions, I must say.</ParaText>
+              <ParaText id="4170085">One of the things that provides competition for big banks is our credit unions and other financial institutions, which are under provincial jurisdiction. </ParaText>
+              <ParaText id="4170086">We have a New Democratic government in the province of Manitoba. I wonder if the member might provide some advice to provincial governments, of all political stripes, even the NDP, on ways to deal with paying to pay. In Manitoba, for example, if one gets a fine and wants to pay the fine, one ends up paying to pay the fine. We hope to see the NDP in Manitoba try to get that one right also.</ParaText>
+              <ParaText id="4170087">Perhaps the member could provide some comment on credit unions, which have done well in terms of providing competition in Canada.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
@@ -3414,8 +3390,8 @@ Housing</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170328" Type="2">Mr. Jasbir Sandhu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130164">Mr. Speaker, I will stick to the federal issues. I deal with a credit union, Vancity, and it provides wonderful service.</ParaText>
-              <ParaText id="4130165">One thing I will let this House know is that the Liberals and the Conservatives have been hand in glove with the big banks over the last 148 years that we have existed. I can assure members that it is the NDP, the New Democratic Party, that stands with Canadians, that will stand with consumers, to ensure that their pockets are not being picked by the current government, or as it was previously, by the Liberal government.</ParaText>
+              <ParaText id="4170088">Mr. Speaker, I will stick to the federal issues. I deal with a credit union, Vancity, and it provides wonderful service.</ParaText>
+              <ParaText id="4170089">One thing I will let this House know is that the Liberals and the Conservatives have been hand in glove with the big banks over the last 148 years we have existed. I can assure members that it is the New Democratic Party that stands with Canadians and stands with consumers to ensure that their pockets are not being picked by the current government, or as it was previously, by the Liberal government.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3423,7 +3399,7 @@ Housing</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170347" Type="2">Mr. Dany Morin</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130166">Mr. Speaker, what does my colleague think of the fact that 74% of Canadians agree with the NDP? According to the Public Interest Advocacy Centre, 74% of Canadians are opposed to pay-to-pay fees. When the Conservatives realize that they are on the wrong side of public opinion, it will be too late. They will have proven that the NDP is the best champion for taxpayers and the middle class. What does he have to say about that?</ParaText>
+              <ParaText id="4170090">Mr. Speaker, what does my colleague think of the fact that 74% of Canadians agree with the NDP? According to the Public Interest Advocacy Centre, 74% of Canadians are opposed to pay-to-pay fees. When the Conservatives realize that they are on the wrong side of public opinion, it will be too late. They will have proven that the NDP is the best champion for taxpayers and the middle class. What does he have to say about that?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3431,7 +3407,7 @@ Housing</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="170328" Type="2">Mr. Jasbir Sandhu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4130167">Mr. Speaker, I will give the member an even bigger picture. I know that 70% of the Canadian population disapproves of the current government. I can assure Canadians that come October they are going to have a government that is for Canadians, for consumers. It will work in the interest of Canadian families, not in the interest of the big banks, which the Conservatives have been doing over the last seven years. If they are sincere about helping Canadian families, let us get this done before we rise for the summer.</ParaText>
+              <ParaText id="4170091">Mr. Speaker, I will give the member an even bigger picture. I know that 70% of the Canadian population disapproves of the current government. I can assure Canadians that come October, they are going to have a government that is for Canadians and for consumers. It will work in the interest of Canadian families, not in the interest of the big banks, which the Conservatives have been doing over the last seven years. If they are sincere about helping Canadian families, let us get this done before we rise for the summer.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="8724427">
@@ -3992,7 +3968,7 @@ Housing</SubjectOfBusinessTitle>
               <Affiliation DbId="195000" Type="93">The Acting Speaker (Mr. Bruce Stanton)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4130254">Order, please. We are well over the one minute permitted.</ParaText>
-              <ParaText id="4130255">The motion to adjourn the House is now deemed to have been adopted. Accordingly the House stands adjourned until tomorrow at <?bk?>10 a.m.<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4130255">The motion to adjourn the House is now deemed to have been adopted. Accordingly the House stands adjourned until tomorrow at <?bk ?>10 a.m.<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4130256"> (The House adjourned at 7:24 p.m.) </ParaText>
             </Content>
           </Intervention>
