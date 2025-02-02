@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9312256">
-  <StartPageNumber>7921</StartPageNumber>
+  <StartPageNumber>7919</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -79,7 +60,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4705667">Much more needs to be done to help our seniors live with the dignity they deserve. The high cost of housing and drugs, the clawback of the GIS, and the indexing of pensions are just a few immediate issues. The government also needs to keep its promise to introduce a new seniors price index to make sure that old age security and the guaranteed income supplement keep up with rising costs.</ParaText>
               <ParaText id="4705668">Of more immediate concern is that the government must immediately fix the flaw in its new plan for enhanced CPP benefits. I am sure that members have heard the discussion about the mistake that the government made in Bill <Document DbId="8471390" Type="3">C-26</Document> and how the exclusion of dropout provisions in the bill would have a negative impact on those who take time to raise children, especially women, and on those living with a disability. The government will have its chance next week at the finance ministers meeting to fix its mistake. We will all be watching.</ParaText>
               <ParaText id="4705669">This private member's bill will remove the mandatory minimum withdrawal requirements from registered retirement income funds and will change the retirement income fund definition. Registered retirement income funds, known as RRIFs, can be thought of as an extension of a person's registered retirements savings plan, or RRSP. An RRSP is used to help people save for retirement, while a RRIF is used to withdraw income during retirement. RRIFs are similar to RRSPs in several respects. Each allows for tax-deferred growth, offers several investment options, and is government regulated.</ParaText>
-              <ParaText id="4705670">A major difference between an RRSP and a RRIF is that with an RRSP, a person can make annual contributions as long as they have earned income and have contribution room available. Withdrawals are optional and will be taxed. With a RRIF, contributions are not allowed, and a person must make minimum minimum mandatory withdrawals each year. RRIF rules and withdrawal rates were introduced in 1978, and then increased in 1992.</ParaText>
+              <ParaText id="4705670">A major difference between an RRSP and a RRIF is that with an RRSP, a person can make annual contributions as long as they have earned income and have contribution room available. Withdrawals are optional and will be taxed. With a RRIF, contributions are not allowed, and a person must make minimum mandatory withdrawals each year. RRIF rules and withdrawal rates were introduced in 1978, and then increased in 1992.</ParaText>
               <ParaText id="4705671">In 2015, the Conservative finance minister lowered the mandatory registered retirement income fund withdrawal amount to 5.27% from the previous 7.38%. Also, previous to 2007, the age limit for converting an RRSP was 69. The 2007 budget changed the age to 71, in order to strengthen incentives for older Canadians to work and save. When RRIF rules came into effect, lifespans and time spent in retirement were much shorter than they are today. RRIF holders now face the considerable likelihood of running out of money in late stages of retirement.</ParaText>
               <ParaText id="4705672">The NDP has long been in support of lowering these rates. In 2015, the NDP pension critic John Rafferty introduced Motion No. 595. It read:</ParaText>
               <ParaText id="4705673">
@@ -216,7 +197,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4705763">Resuming debate. Seeing none, we will allow the member for Edmonton West five minutes for his right to reply.</ParaText>
+              <ParaText id="4705763">Resuming debate. </ParaText>
+              <ParaText id="4705763">Seeing none, we will allow the member for Edmonton West five minutes for his right to reply.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McCauley" id="9312372">
@@ -282,11 +264,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9312412">
-        <SubjectOfBusinessQualifier>Sitting Resumed</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TCC" id="4">(The House resumed at 12 p.m.)</ProceduralText>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="9312415" Rubric="Other">
       <OrderOfBusinessTitle>GOVERNMENT ORDERS</OrderOfBusinessTitle>
@@ -296,7 +273,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Comprehensive Economic and Trade Agreement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="5">Bill C-30. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="4">Bill C-30. Second reading</ProceduralText>
           <ParaText id="4705788">The House resumed from December 9 consideration of the motion that Bill <Document DbId="8549249" Type="3">C-30, An Act to implement the Comprehensive Economic and Trade Agreement between Canada and the European Union and its Member States and to provide for certain other measures</Document>, be read the second time and referred to a committee, and of the motion that this question be now put.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Rota" id="9312417">
             <PersonSpeaking>
@@ -468,9 +445,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4705870">I do not think that we can compare that to the investor-state system in this case.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Trudel" id="9312468">
+          <Intervention Type="Interjection" ToC="No" ToCText="Ms. Trudel" id="9312468">
             <PersonSpeaking>
-              <Affiliation DbId="214168" Type="2">Ms. Karine Trudel (Jonquière, NDP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214168" Type="2">Ms. Karine Trudel</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4705871">Mr. Speaker, I thank my colleague from <Affiliation DbId="214428" Type="2">Sherbrooke</Affiliation> for his speech. It is always a pleasure and so interesting to hear him speak here in the House. I know that he does a very good job representing his constituents. Many members of my family live in his riding and they are very well served. I want to take this opportunity to thank him for that.</ParaText>
               <ParaText id="4705872">I would also like my colleague's take on an issue that he touched on in his speech, namely government contracts. We know what an important economic lever infrastructure investment can be for stimulating our economy.</ParaText>
@@ -1220,32 +1197,46 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4706138">Mr. Speaker, </ParaText>
               <ParaText id="4706139">
-                <CommitteeQuote>
-                  <QuotePara Align="Left">'Twas the weeks before Christmas, and the Liberals were spinning the max, </QuotePara>
-                  <QuotePara Align="Left">Trekking across Canada promoting their carbon tax; </QuotePara>
-                  <QuotePara Align="Left">Families and industries cried out in fear, </QuotePara>
-                  <QuotePara Align="Left">Knowing the carbon tax was looming so near; </QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara Align="Left">With job losses growing, and unemployment rates high, </QuotePara>
-                  <QuotePara Align="Left">The Liberals seem oblivious with their heads in the sky; </QuotePara>
-                  <QuotePara Align="Left">Now Harper has retired they have no one to blame, </QuotePara>
-                  <QuotePara Align="Left">As their tax and spend scheme goes up in flame; </QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara Align="Left">UN seats and selfies are the Prime Minister's goal,</QuotePara>
-                  <QuotePara Align="Left">While neglecting good-paying jobs like mining of coal; </QuotePara>
-                  <QuotePara Align="Left">The surplus we left them was gone in a flash, </QuotePara>
-                  <QuotePara Align="Left">The trees in Liberal ridings must be growing them cash; </QuotePara>
-                  <QuotePara />
-                  <QuotePara Align="Left">Paying off their deficit will be no easy job, </QuotePara>
-                  <QuotePara Align="Left">Hardworking Canadians are the ones they will rob; </QuotePara>
-                  <QuotePara Align="Left">Deficits and tax hikes are the Liberal way,</QuotePara>
-                  <QuotePara Align="Left"> But fear not—soon Canadians will have their say, </QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara Align="Left">Election 19 will be one for the books, </QuotePara>
-                  <QuotePara Align="Left">The Liberals won't win on their leader's good looks; </QuotePara>
-                  <QuotePara Align="Left">Conservative voices will ring out with cheer, </QuotePara>
-                  <QuotePara Align="Left">As we celebrate with family over a sweet victory beer.</QuotePara>
-                </CommitteeQuote>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>'Twas the weeks before Christmas, and the Liberals were spinning the max, </Line>
+                    <Line>Trekking across Canada promoting their carbon tax; </Line>
+                    <Line>Families and industries cried out in fear, </Line>
+                    <Line>Knowing the carbon tax was looming so near; </Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>With job losses growing, and unemployment rates high,</Line>
+                    <Line>The Liberals seem oblivious with their heads in the sky; </Line>
+                    <Line>Now Harper has retired they have no one to blame, </Line>
+                    <Line>As their tax and spend scheme goes up in flame; </Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>UN seats and selfies are the Prime Minister's goal,</Line>
+                    <Line>While neglecting good-paying jobs like mining of coal;</Line>
+                    <Line>The surplus we left them was gone in a flash, </Line>
+                    <Line>The trees in Liberal ridings must be growing them cash; </Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>Paying off their deficit will be no easy job, </Line>
+                    <Line>Hardworking Canadians are the ones they will rob; </Line>
+                    <Line>Deficits and tax hikes are the Liberal way,</Line>
+                    <Line> But fear not—soon Canadians will have their say, </Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>Election 19 will be one for the books,</Line>
+                    <Line>The Liberals won't win on their leader's good looks; </Line>
+                    <Line>Conservative voices will ring out with cheer,</Line>
+                    <Line>As we celebrate with family over a sweet victory beer.</Line>
+                  </Verse>
+                </Poetry>
               </ParaText>
             </Content>
           </Intervention>
@@ -1438,7 +1429,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214102" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706183">Mr. Speaker, the Liberal government's online survey might as well say the following: Eeny, meeny, miny, moe, catch a tiger by the toe. If he hollers, let him go, eeny, meeny, miny, moe.</ParaText>
-              <ParaText id="4706184">It will not change anything. How boring. it is ridiculous.</ParaText>
+              <ParaText id="4706184">It will not change anything. How boring. It is ridiculous.</ParaText>
               <ParaText id="4706185">Why did they not include the questions suggested by the experts from the Library of Parliament? They would get real answers. Perhaps the Liberals want to gamble with our democracy at the roulette table; cynics might say they want to play Russian roulette.</ParaText>
             </Content>
           </Intervention>
@@ -1462,7 +1453,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706189">Mr. Speaker, if a member of the Quebec National Assembly were present in the House today, he would agree with us on <Document DbId="8519336" Type="3">C-29 </Document>, because it encroaches on provincial jurisdictions.</ParaText>
+              <ParaText id="4706189">Mr. Speaker, if a member of the Quebec National Assembly were present in the House today, he would agree with us on <Document DbId="8519336" Type="3">C-29</Document>, because it encroaches on provincial jurisdictions.</ParaText>
               <ParaText id="4706190">The government is meddling again in areas of provincial jurisdiction. The bill will change consumers' rights and protections.</ParaText>
               <ParaText id="4706191">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> stop interfering in areas of provincial jurisdiction, withdraw the contentious elements of Bill <Document DbId="8519336" Type="3">C-29</Document>, and respect consumers?</ParaText>
             </Content>
@@ -1600,7 +1591,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <SubjectOfBusiness id="9312911">
         <Timestamp Hr="14" Mn="35">(1435)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Consumer Protection</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Caron" id="9312775">
             <PersonSpeaking>
@@ -2044,7 +2035,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9312890">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Intergovernmental Relations</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Quebec's Interests</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Thériault" id="9312889">
             <PersonSpeaking>
@@ -2107,22 +2098,17 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <SubjectOfBusiness id="9312966">
         <SubjectOfBusinessTitle>Presence in Gallery</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="9312904">
+          <Intervention Type="Interjection" ToC="No" id="9312904">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706330">I would like to draw to the attention of hon. members the presence in the gallery of Jacques Chagnon, the Speaker of the Quebec National Assembly.</ParaText>
               <ParaText id="4706331">
                 <B>Some hon. members:</B> Hear, hear! </ParaText>
-              <ParaText id="4706332">
-                <B>The Speaker:</B> That concludes question period for today.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="9312908" Rubric="PointofOrder">
-      <CatchLine />
       <SubjectOfBusiness id="9312909">
         <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2190,9 +2176,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214328" Type="4">Hon. Jane Philpott (Minister of Health, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="6">Bill C-37. Introduction and first reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Bill C-37. Introduction and first reading</ProceduralText>
               <ParaText id="4706349"> moved for leave to introduce Bill <Document DbId="8689350" Type="3">C-37, An Act to amend the Controlled Drugs and Substances Act and to make related amendments to other Acts</Document>.</ParaText>
-              <ProceduralText TocType="TCC" id="7"> (Motions deemed adopted, bill read the first time and printed) </ProceduralText>
+              <ProceduralText TocType="TCC" id="6"> (Motions deemed adopted, bill read the first time and printed) </ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2349,7 +2335,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="213926" Type="2">Mr. Mark Warawa (Langley—Aldergrove, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706368">Mr. Speaker, the second petition is with regard to impaired driving. Families for Justice is a group of Canadians who have lost a loved one killed by an impaired driver. They believe that impaired driving laws in Canada are much too lenient and they want the crime called what it is, vehicular homicide. The petitioners are calling for mandatory sentencing for vehicular homicide.</ParaText>
-              <ParaText id="4706369">The petitioners are also calling on this Parliament to support Bill <Document DbId="8102913" Type="4">C-226</Document> and Bill <Document DbId="8118649" Type="4">C-247</Document>, Cassandra's law.</ParaText>
+              <ParaText id="4706369">The petitioners are also calling on this Parliament to support Bill <Document DbId="8102913" Type="4">C-226</Document> and Bill <Document DbId="8118649" Type="4">C-247</Document>, Kassandra's law.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2591,17 +2577,13 @@ The government will introduce a backstop pricing system that will apply in juris
     <OrderOfBusiness id="9312961" Rubric="Other">
       <OrderOfBusinessTitle>GOVERNMENT ORDERS</OrderOfBusinessTitle>
       <CatchLine>Government Orders</CatchLine>
-      <SubjectOfBusiness id="9312962">
-        <SubjectOfBusinessTitle>Comprehensive Economic and Trade Agreement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
       <SubjectOfBusiness id="9313144">
         <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="8">Bill C-30. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="7">Bill C-30. Second reading</ProceduralText>
           <ParaText id="4706409">The House resumed consideration of the motion that Bill <Document DbId="8549249" Type="3">C-30, An Act to implement the Comprehensive Economic and Trade Agreement between Canada and the European Union and its Member States and to provide for certain other measures</Document>, be read the second time and referred to a committee.</ParaText>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="9312963">
+          <Intervention Type="Interjection" ToC="No" id="9312963">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2894,16 +2876,16 @@ The government will introduce a backstop pricing system that will apply in juris
               <ParaText id="4706544">Mr. Speaker, it is a pleasure to rise again to speak to CETA in the House, because there is a lot to talk about and I do not think we have done a good enough job yet of discussing what is in this deal. We have heard a lot of platitudes by those who support the deal and, I would say, not a lot of information. The government has certainly not provided any detailed study of the anticipated economic impact of this deal. Canadians are supposed to just take it on faith that somehow it is going to be good for them, their jobs, and their communities. </ParaText>
               <ParaText id="4706545">It is reasonable for Canadians to expect at any time, and particularly from a government that has promised to bring back evidence-based decision-making and a scientific approach to government, to be provided with information and analysis on the particular ways that the government thinks this deal would be beneficial. However, we have not received that at all. Instead, we get an ideological repetition of the idea that these deals must obviously be good. </ParaText>
               <ParaText id="4706546">The NDP, instead, has been trying to offer an example of how to look at an agreement's details, to evaluate the various clauses, and to come to a conclusion about whether, overall, it is a good agreement for the country. I do not think it is any secret that the conclusion New Democrats have come to on this particular deal is that it is not, on balance, good for Canada. I will get to why.</ParaText>
-              <ParaText id="4706547">There is one thing we need to recognize, first and foremost, which may sound silly. When considering the positions and arguments advanced by other parties, it bears repeating that trade deals are an important part of public policy. It is not as if trade, on the one hand, is separate and divorced from all the other public policies of government, on the other hand. Trade deals have important implications for governments, particularly these kinds of comprehensive trade agreements. They set the economic framework and a number of other important rules under which government can or cannot apply other levers of public policy.</ParaText>
+              <ParaText id="4706547">There is one thing we need to recognize, first and foremost, which may sound silly to say. When considering the positions and arguments advanced by other parties, it bears repeating that trade deals are an important part of public policy. It is not as if trade, on the one hand, is separate and divorced from all the other public policies of government, on the other hand. Trade deals have important implications for governments, particularly these kinds of comprehensive trade agreements. They set the economic framework and a number of other important rules under which government can or cannot apply other levers of public policy.</ParaText>
               <ParaText id="4706548">Consider, for instance, a previous trade agreement that Canada once had with the United States called the Auto Pact. It was an agreement on the trade of a particular good, in this case automobiles, across the border. The people who negotiated and concluded that agreement recognized that trade deals were public policy. Therefore, the public policy goals of that agreement were not just to create more wealth for transnational corporations. They said that if they were going to sign a trade deal, they needed to enunciate what their public policy goals were. An important public policy goal was to ensure that jobs were created within Canada and that the goods being sold in Canada actually meant that Canadians got a slice of the production of that good and received wages for the goods sold in Canada.</ParaText>
-              <ParaText id="4706549">When we talk about trade deals of different kinds and the values that can be represented in them, here is an example of a trade deal that we should not need to approve just because it concerns trade. Let us face it, multinational corporations have negotiated with themselves, because they are advising all of the various governments involved in these negotiations. These are not negotiations in which union leaders and people represent the interests of the environment and ordinary Canadians. They are largely negotiations with government representatives and representatives of multinational corporations meeting behind closed doors and coming up with rules. Then, when they come out of that negotiating room, we are told that either we agree with trade or we do not, and that this particular set of rules that has been negotiated behind closed doors represents the best possible scenario for ordinary Canadians. That is a laughable claim. They never provide any evidence to back up that claim and we are supposed to just take it on faith. When we look at agreements like this, it is not clear what the public policy goal is. </ParaText>
+              <ParaText id="4706549">When we talk about trade deals of different kinds and the values that can be represented in them, here is an example of a trade deal that we should not need to approve just because it concerns trade. Let us face it, multinational corporations have negotiated with themselves, because they are advising all of the various governments involved in these negotiations. These are not negotiations including union leaders and people representing the interests of the environment and ordinary Canadians. They are largely negotiations with government representatives and representatives of multinational corporations meeting behind closed doors and coming up with rules. Then, when they come out of that negotiating room, we are told that either we agree with trade or we do not, and that this particular set of rules that has been negotiated behind closed doors represents the best possible scenario for ordinary Canadians. That is a laughable claim. They never provide any evidence to back up that claim and we are supposed to just take it on faith. When we look at agreements like this, it is not clear what the public policy goal is. </ParaText>
               <ParaText id="4706550">Consider CETA, for instance. This agreement, we know, because it has been confirmed by a number of independent studies, will raise the cost of pharmaceutical drugs in a country that already has among the highest such costs. We need to go from where we are right now with respect to the costs of drugs and to find ways to bring those down, and we know that CETA would move us in the wrong direction. What gain would we be making that would offset that loss, unless the public policy goal, perversely, of the government is to fatten the wallets of international pharma?</ParaText>
               <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
               <ParaText id="4706551">I do not think that is a defensible public policy goal. However, if that is the goal of the government, let it say so; and if it is not, let it tell us what we are getting out of this deal that counteracts that effect on Canadians. If everyday Canadians are made to pay more for their pharmaceutical drugs, that is a tangible cost, and what tangible benefit can they expect to see in return?</ParaText>
               <ParaText id="4706552">There are lots of other ways we could pursue other public policy goals within the context of these kinds of trade agreements. For instance, we could say that because we want green public transportation in Canada and with our trading partners, whether they be in Europe, the United States of America, or wherever else, we want a firm commitment, with timelines and penalties if these goals are not met, to work toward a common charger for electric vehicles. That would be a legitimate thing to do. Certainly, if a trade deal like CETA can pronounce on the minuscule details of municipal procurement, we could certainly reach a deal that would bring its member parties together to pursue a common charging standard that would allow that industry to reach economies of scale, increase production, whether in Canada or the other member countries, and begin greening public transportation in those various areas. </ParaText>
               <ParaText id="4706553">However, we never hear about that because we do not actually get into a debate about what the public policy goals of a trade deal are. Rather, we are just told that this will create massive wealth, that it will be great for everyone, and that everyone is going to get a job after we pass this. </ParaText>
               <ParaText id="4706554">The evidence does not support that at all if we look at the historical record of what has happened in the Canadian manufacturing sector since the late 1980s and early 1990s when we began signing these kinds of agreements. No further evidence has been provided. When we look at the historical track record, I would argue it is not particularly good, and we are not given any contrary evidence.</ParaText>
-              <ParaText id="4706555">We might also say that when it comes to labour mobility, for instance, these agreements tend to have lots of provisions on how companies can bring in their own workers from wherever to perform work here in Canada that ought to be performed first and foremost by Canadians who are looking for this kind of work. That is not the right way to go about this in these provisions, but we do know that there are labour mobility challenges. For instance, trade unions who have hiring halls have people here who are out of work and there are places with labour demand in the United States, and those people cannot get that work because in order to be authorized to do the work, they first need an employer and a visa. However, because there is an agreement in which the employers go to the hiring hall to fill their labour demands, the workers needs to be cleared to work at the hall first, but until they are cleared at the hall they do not have an employer so they cannot apply for the visa and cannot be cleared at the hall until they have a visa. That is a legitimate labour mobility issue. </ParaText>
+              <ParaText id="4706555">We might also say that when it comes to labour mobility, for instance, these agreements tend to have lots of provisions on how companies can bring in their own workers from wherever to perform work here in Canada that ought to be performed first and foremost by Canadians who are looking for this kind of work. That is not the right way to go about this in these provisions, but we do know that there are labour mobility challenges. For instance, trade unions who have hiring halls have people here who are out of work and there are places with labour demand in the United States, and those people cannot get that work because in order to be authorized to do the work, they first need an employer and a visa. However, because there is an agreement in which the employers go to the hiring hall to fill their labour demands, the workers need to be cleared to work at the hall first, but until they are cleared at the hall they do not have an employer so they cannot apply for the visa and cannot be cleared at the hall until they have a visa. That is a legitimate labour mobility issue. </ParaText>
               <ParaText id="4706556">We could be working to address labour mobility issues in that way rather than encouraging the import of temporary foreign workers who then work only for that company and who are thus, frankly, under the dictatorship of that company, because if the company decides for whatever reason that those workers are complaining too much about their working conditions or if the company does not pay them what they were promised when they came over, the workers can be sent back by the company. That is not a fair arrangement for those workers. It is not a fair arrangement for Canadians who are expected to then compete against them. There are other ways to do that, but these do not come up when we are talking about these deals. </ParaText>
               <ParaText id="4706557">What the NDP is trying to do in this debate is to say that there are other ways of doing this and there are other important public policy goals that ought to be taken into consideration when we pursue trade agreements. However, successive Liberal and Conservative governments have failed to do this. That is the problem. That is what we are trying to zero in on. We are trying to show that, yes, trade deals and trade is important, but there is more than one way to do it. There are an infinite number of ways. This particular way, in which we take away the ability of democratically elected governments in Canada and elsewhere to make decisions about health, the environment, and working conditions within their own jurisdiction and to put them at the mercy of trade tribunals that are more concerned about whether transnational corporations are losing money than about the substance of those issues, is the wrong way to do it. That is not to say there is not a way to do it, but it means that we have to ask more of our governments here in Canada when it comes to negotiating a trade deal.</ParaText>
               <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
@@ -2950,7 +2932,6 @@ The government will introduce a backstop pricing system that will apply in juris
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706569"> It is my duty pursuant to Standing Order 38 to inform the House that the questions to be raised tonight at the time of adjournment are as follows: the hon. member for Carlton Trail—Eagle Creek, Agriculture and Agri-Food; the hon. member for Essex, International Trade; and the hon. member for Peace River—Westlock, Justice.</ParaText>
-              <ParaText id="4706570">Resuming debate, the hon. member for Beloeil—Chambly.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3057,7 +3038,7 @@ The government will introduce a backstop pricing system that will apply in juris
             <Content>
               <ParaText id="4706624">Mr. Speaker, I was carefully listening to the hon. member for North Island—Powell River, and she was mentioning that the NDP is not against trade. As far as I can recall, and I am certain you can recall as well, Mr. Speaker, I have not seen a single trade agreement that the NDP has ever supported.</ParaText>
               <ParaText id="4706625">I also come from British Columbia, and when I am out on the ground, I can tell you that B.C. is a very diverse province. People from all over the world have settled in British Columbia. People of the European region are very excited about CETA. </ParaText>
-              <ParaText id="4706626">The member talked about the negative, and there must be something positive about the agreement. I would ask the hon. member if she could point out the positives of signing CETA. </ParaText>
+              <ParaText id="4706626">The member talked about the negatives of CETA. However, there are definitely positives about the agreement as well. I would ask the hon. member if she could point out the positives of signing CETA. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Ms. Blaney (North Island—Powell River)" id="9314758">
@@ -3392,7 +3373,7 @@ The government will introduce a backstop pricing system that will apply in juris
       <SubjectOfBusiness>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" id="9315128" ToCText="The Speaker">
+          <Intervention Type="Interjection" ToC="No" id="9315128">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3450,8 +3431,8 @@ The government will introduce a backstop pricing system that will apply in juris
         <SubjectOfBusinessTitle>Comprehensive Economic and Trade Agreement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4706792">The House resumed consideration of the motion that Bill <Document DbId="8549249" Type="3">C-30, An Act to implement the Comprehensive Economic and Trade Agreement between Canada and the European Union and its Member States and to provide for certain other measures</Document>, be read the second time and referred to a committee, and of the motion that this question be now put. </ParaText>
-          <ProceduralText TocType="TPC" id="9">Bill C-30. Second reading</ProceduralText>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9315130">
+          <ProceduralText TocType="TPC" id="8">Bill C-30. Second reading</ProceduralText>
+          <Intervention Type="Interjection" ToC="No" id="9315130">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3535,7 +3516,7 @@ The government will introduce a backstop pricing system that will apply in juris
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="10">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="9">Division on motion deferred</ProceduralText>
               <ParaText id="4706814">Mr. Speaker, I would ask that the division on the motion be deferred until tomorrow after the time provided for government orders.</ParaText>
             </Content>
           </Intervention>
@@ -3758,7 +3739,7 @@ The government will introduce a backstop pricing system that will apply in juris
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706894">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk?>10 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4706894">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk ?>10 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4706895">(The House adjourned at 6:51 p.m.)</ParaText>
             </Content>
           </Intervention>

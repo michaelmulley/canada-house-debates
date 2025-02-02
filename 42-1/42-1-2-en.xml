@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8759785">
   <StartPageNumber>9</StartPageNumber>
   <DocumentTitle>
@@ -325,11 +306,11 @@ It will prove that better is not only possible—it is the inevitable result whe
               <ParaText id="4170661">Mr. Speaker, there have been discussions among the parties and I think, if you seek it, you will find unanimous consent for the following motion:</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
-              <Motion>
-                <MotionBody>
-                  <ParaText id="4170662"> That the House, desiring to record its deep appreciation of the distinguished and faithful service of Audrey Elizabeth O'Brien as Clerk of the House of Commons, designate her as Clerk Emeritus and an Honourary Officer of the House of Commons with an entrée to the Chamber and a seat at the Table.</ParaText>
-                </MotionBody>
-              </Motion>
+              <ParaText id="4177555">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> That the House, desiring to record its deep appreciation of the distinguished and faithful service of Audrey Elizabeth O'Brien as Clerk of the House of Commons, designate her as Clerk Emerita and an Honorary Officer of the House of Commons with an entrée to the Chamber and a seat at the Table.</QuotePara>
+                </Quote>
+              </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -357,15 +338,7 @@ It will prove that better is not only possible—it is the inevitable result whe
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170667"> I have the honour to inform the House that the following members have been appointed as members of the Board of Internal Economy for the purposes and under the provisions of the Parliament of Canada Act, subsection 50(2):</ParaText>
-              <ParaText id="4170668">
-                <Affiliation DbId="170282" Type="2">Hon. Dominic LeBlanc</Affiliation> and <Affiliation DbId="214500" Type="2">Hon. Judy Foote</Affiliation>, members of the Queen's Privy Council;</ParaText>
-              <ParaText id="4170669">
-                <Affiliation DbId="214167" Type="2">Mr. Andrew Leslie</Affiliation>, representative of the government caucus;</ParaText>
-              <ParaText id="4170670">
-                <Affiliation DbId="170616" Type="2">Mr. Andrew Scheer</Affiliation> and <Affiliation DbId="214426" Type="2">Mr. Gordon Brown</Affiliation>, representatives of the Conservative Party caucus;</ParaText>
-              <ParaText id="4170671">
-                <Affiliation DbId="170651" Type="2">Mr. Peter Julian</Affiliation>, representative of the New Democratic Party caucus. </ParaText>
+              <ParaText id="4170667"> I have the honour to inform the House that the following members have been appointed as members of the Board of Internal Economy for the purposes and under the provisions of the Parliament of Canada Act, subsection 50(2): <Affiliation DbId="170282" Type="2">Hon. Dominic LeBlanc</Affiliation> and <Affiliation DbId="214500" Type="2">Hon. Judy Foote</Affiliation>, members of the Queen's Privy Council; <Affiliation DbId="214167" Type="2">Mr. Andrew Leslie</Affiliation>, representative of the government caucus; <Affiliation DbId="170616" Type="2">Mr. Andrew Scheer</Affiliation> and <Affiliation DbId="214426" Type="2">Mr. Gordon Brown</Affiliation>, representatives of the Conservative Party caucus; <Affiliation DbId="170651" Type="2">Mr. Peter Julian</Affiliation>, representative of the New Democratic Party caucus. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -411,8 +384,7 @@ It will prove that better is not only possible—it is the inevitable result whe
               <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
               <ParaText id="4170675">Following my election as Speaker, I have consulted with the leaders of the recognized parties regarding the nomination of the other chair occupants. I am now prepared to propose, for the ratification of the House, a candidate for the position of Deputy Speaker and Chair of Committees of the Whole.</ParaText>
               <ParaText id="4170676">Pursuant to Standing Order 7, I propose Mr. Stanton for the position of Deputy Speaker and Chair of Committees of the Whole.</ParaText>
-              <ParaText id="4170677">The motion is deemed moved and seconded.</ParaText>
-              <ParaText id="4170678">Is it the pleasure of the House to adopt the motion?</ParaText>
+              <ParaText id="4170677">The motion is deemed moved and seconded. Is it the pleasure of the House to adopt the motion?</ParaText>
               <ParaText id="4170679">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="10">(Motion agreed to)</ProceduralText>
@@ -557,7 +529,7 @@ It will prove that better is not only possible—it is the inevitable result whe
             <Content>
               <ParaText id="4170733">Mr. Speaker, I would like to thank my colleague from <Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation> on his excellent first speech in the House.</ParaText>
               <ParaText id="4170734">Since this is the first time that I have risen in the House, I would like to take this opportunity to thank the people of Jonquière for putting their trust in me. I will work hard and do the best that I can to represent them during this session. </ParaText>
-              <ParaText id="4170735">I would also like to congratulate you, Mr. Speaker, on your re-election as an MP and your election as Speaker. Thank you.</ParaText>
+              <ParaText id="4170735">I would also like to congratulate you, Mr. Speaker, on your re-election as an MP and your election as Speaker. </ParaText>
               <ParaText id="4170736">With regard to my colleague's comments, the minister responsible for Canada Post said today that his government would not completely restore home mail delivery. However, the Liberals promised that they would do so. Home mail delivery is an important issue for the people of Jonquière and all Canadians.</ParaText>
               <ParaText id="4170737">Would my colleague opposite not agree that door-to-door mail delivery is essential to the vitality of our communities and that it must be restored?</ParaText>
             </Content>
@@ -578,7 +550,7 @@ It will prove that better is not only possible—it is the inevitable result whe
               <ParaText id="4170741">I would also like to congratulate my friend and dear colleague on his excellent speech. He spoke very eloquently about how we are going to bring about real change for Canadians and about the hard work we have ahead of us in this Parliament.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4170742">I must also thank the good people of Fredericton as well as my family for their dear support and the confidence they have placed in me to stand in this place today. People in Fredericton are hopeful once again that the government will look to our region, and in fact to all regions, to invest in people and in communities.</ParaText>
-              <ParaText id="4170743">Constituents have told me that they are keen to see the federal government move forward with an ambitious and innovative agenda that in my riding will help spur entrepreneurism and scientific pursuits at our world-class universities and our smart high-tech business hub.</ParaText>
+              <ParaText id="4170743">Constituents have told me that they are keen to see the federal government move forward with an ambitious and innovative agenda that in my riding will help spur entrepreneurism and scientific pursuits at our world-class universities and within our smart high-tech business hub.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4170744">They are ready to prove that, with leadership at the federal level, New Brunswick can be a pioneer with an innovative approach to delivering health care services. </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -639,7 +611,7 @@ It will prove that better is not only possible—it is the inevitable result whe
               <ParaText id="4170760">Mr. Speaker, in addition, I would like to thank the right hon. <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> for giving me the opportunity to do so. </ParaText>
               <ParaText id="4170761">I want to also take this chance to congratulate each elected member of the House and recognize that we could not be here without the support of some very important people in our lives. I would like to thank my parents; my husband, Tejinder Sahota; and our son, Nihal, for their encouragement and support. </ParaText>
               <ParaText id="4170762">It is a great honour and a privilege to serve my constituents of Brampton North here in the 42nd Parliament. I want to thank them for putting their trust in me. In return, I am committed to serving them with the utmost integrity, humility, and hard work. </ParaText>
-              <ParaText id="4170763">I was raised in the city of Brampton. I attended its schools, played in its parks, and made my closest friends there. It is where my family has chosen to make our home. I know first-hand how vibrant and full of promise the city is. I believe it reflects the true potential of Canada from coast to coast to coast. Brampton embodies the diversity of Canada with its growing population of 600,000, making it Canada's ninth largest city. It is home to Canadians from various backgrounds, with 50% of its population having been born outside of Canada. More than 65% of Brampton's population are from visible minorities, speaking upwards of 80 different languages, including Punjabi, Portuguese, Urdu, Spanish, Gujarati, Hindi, and so on. Over the last 30 years, I have seen this community time and time again come together and strengthen its diversity in unity. </ParaText>
+              <ParaText id="4170763">I was raised in the city of Brampton. I attended its schools, played in its parks, and made my closest friends there. It is where my family has chosen to make our home. I know first-hand how vibrant and full of promise the city is. I believe it reflects the true potential of Canada from coast to coast to coast. Brampton embodies the diversity of Canada with its growing population of 600,000, making it Canada's ninth-largest city. It is home to Canadians from various backgrounds, with 50% of its population having been born outside of Canada. More than 65% of Brampton's population are from visible minorities, speaking upwards of 80 different languages, including Punjabi, Portuguese, Urdu, Spanish, Gujarati, Hindi, and so on. Over the last 30 years, I have seen this community time and time again come together and strengthen its diversity in unity. </ParaText>
               <ParaText id="4170764">His Excellency spoke about how the Canada we know and hold dear today is an accumulation of the diversity and experiences of its people and the way they treat each other. That is why our government is steadfast in its commitment to welcoming and integrating 25,000 new Canadians from Syria. These refugees have faced extreme hardship and tragedy. We will ensure that, like all Canadians, they have a fair and real chance to succeed. It is the Canadian thing to do. </ParaText>
               <ParaText id="4170765">Similarly, our first nations and indigenous people right here at home have also faced extreme hardship and injustice. The disappearance and death of nearly 1,200 indigenous women and girls is an ongoing national tragedy and must come to an end. Therefore, we will immediately launch a national public inquiry into the missing and murdered indigenous women and girls in Canada. </ParaText>
               <ParaText id="4170766">During this last election, Canadians resoundingly refused to play into the politics of fear. I have received numerous emails and phone calls from my constituents expressing their support for our government's international actions. We will continue to reinforce and strengthen our relations with our allies and work with them to fight against terrorism.</ParaText>
@@ -658,7 +630,7 @@ It will prove that better is not only possible—it is the inevitable result whe
               <ParaText id="4170777">In Ontario, our mayors, our city and regional councillors, and our MPPs have welcomed me and my colleagues with open arms. I look forward to co-operating on numerous matters, including enhancing the Canadian pension plan, to provide more income security for Canadians when they retire, so they can do so with dignity as they are the ones who have worked so hard to build this nation.</ParaText>
               <ParaText id="4170778">We will also work with the provinces and territories to make post-secondary education more affordable, so that it is still possible in a country like ours for people of all socio-economic backgrounds to achieve the Canadian dream to send their sons and daughters to world-renowned schools without taking out a second mortgage, and so that our youth are not discouraged from pursuing higher education and attaining the skills they need to compete in this global economy.</ParaText>
               <ParaText id="4170779">His Excellency raised the importance of restoring trust in our political institutions and ensuring that Canadians are given a stronger voice in Parliament. This government is determined to do just that. The year 2015 marks not only the year we have brought in a gender-balanced cabinet, but it will also be the last federal election under the first past the post voting system.</ParaText>
-              <ParaText id="4170780">In addition to reforming how members are elected, we will reform the Senate to ensure its appointments are merit based and non-partisan, strengthening its independent role as a chamber.</ParaText>
+              <ParaText id="4170780">In addition to reforming how members are elected, we will reform the Senate to ensure its appointments are merit-based and non-partisan, strengthening its independent role as a chamber.</ParaText>
               <ParaText id="4170781">Canadians are already beginning to see a more open and transparent government, and we will continue this new tone by promoting more open debate and free votes in the House, strengthening our communities and welcoming the opinions of everyday Canadians.</ParaText>
               <ParaText id="4170782">Canada is geographically large but united in its common goal of peace, order and good governance.</ParaText>
               <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
@@ -776,7 +748,7 @@ It will prove that better is not only possible—it is the inevitable result whe
             <Content>
               <ParaText id="4170817">Mr. Speaker, I would like to thank the members who moved and seconded the motion for their speeches. When the debate on the address in reply to the Speech from the Throne resumes, I will continue my speech and give the other version of the story.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4170818">I now have a spoiler alert. When we return next week, I will be give my response to the Speech from the Throne. It may not be quite as sunny as what we have heard on the other side. However, I look forward to that. </ParaText>
+              <ParaText id="4170818">I now have a spoiler alert. When we return next week, I will be giving my response to the Speech from the Throne. It may not be quite as sunny as what we have heard on the other side. However, I look forward to that. </ParaText>
               <ParaText id="4170819">To that end, and to what everyone has been waiting for, I move:</ParaText>
               <ProceduralText TocType="TPC" id="13">Motion</ProceduralText>
               <ParaText id="4170820">
@@ -784,16 +756,7 @@ It will prove that better is not only possible—it is the inevitable result whe
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the debate be now adjourned.</QuotePara>
                 </Quote>
               </ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8759892">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4170821">Is it the pleasure of the House to adopt the motion?</ParaText>
-              <ParaText id="4170822">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-              <ProceduralText TocType="TCC" id="14">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="14">(On the motion of Ms. Ambrose the debate was adjourned)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -878,7 +841,7 @@ It will prove that better is not only possible—it is the inevitable result whe
             <Content>
               <ParaText id="4170836">Mr. Speaker, I rise on a point of order just to make a very brief statement. I apologize for the rather lengthy one previously on the House business for the coming week. We did not have the usual Thursday question, so I wanted colleagues to have a very quick overview of our plans for next week. </ParaText>
               <ParaText id="4170837">Monday, the House will have the first day of debate on the address in reply to the Speech from the Throne.</ParaText>
-              <ParaText id="4170838"> Tuesday, will be the second day of debate on the address in reply. </ParaText>
+              <ParaText id="4170838"> Tuesday will be the second day of debate on the address in reply. </ParaText>
               <ParaText id="4170839">Wednesday, pursuant to the motion that was just graciously adopted by the House, following the consideration of a ways and means motion, the House will resolve into committee of the whole for the purposes of considering supplementary estimates. </ParaText>
               <ParaText id="4170840"> Thursday will be the first and last allotted day for the Conservative Party in the fall supply period. </ParaText>
               <ParaText id="4170841">On Friday, the House will complete the third of six days of debate on the address in reply. The House would then stand adjourned until January 25, 2016.</ParaText>
@@ -907,7 +870,7 @@ It will prove that better is not only possible—it is the inevitable result whe
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4170846">I want to inform hon. members that we are all invited to a reception in the Hall of Honour on the occasion of the Speech from the Throne.</ParaText>
-              <ParaText id="4170847">The House stands adjourned until next Monday at <?bk?>11 a.m.<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4170847">The House stands adjourned until next Monday at <?bk ?>11 a.m.<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4170848">(The House adjourned at 5:05 p.m.)</ParaText>
             </Content>
           </Intervention>

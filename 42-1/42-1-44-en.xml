@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8876291">
   <StartPageNumber>2503</StartPageNumber>
   <DocumentTitle>
@@ -98,7 +79,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214372" Type="2">Mr. Bryan May (Cambridge, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4285185">Mr. Speaker, I have the honour to present, in both official languages, the first report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities in relation to the motion adopted on Wednesday, April 13, regarding the main estimates 2016-2107.</ParaText>
+              <ParaText id="4285185">Mr. Speaker, I have the honour to present, in both official languages, the first report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities in relation to the motion adopted on Wednesday, April 13, regarding the main estimates 2016-2017.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -216,7 +197,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4285207">Mr. Speaker, if Question No. 70 could be made an order for return, this return would be tabled immediately.</ParaText>
+              <ParaText id="4285207">Mr. Speaker, if Starred Question No. 70 could be made an order for return, this return would be tabled immediately.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8876439">
@@ -230,7 +211,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
           <WrittenQuestionResponse>
-            <QuestionID>Question No. 70--</QuestionID>
+            <QuestionID>*Question No. 70--</QuestionID>
             <Questioner>
               <Affiliation DbId="214215" Type="2">Mr. Kennedy Stewart</Affiliation>:</Questioner>
             <QuestionContent>
@@ -371,7 +352,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285265"> I want to be able to buy Canadian cheese, made in Canada from Canadian milk, not cheese made from dairy proteins that come from the United States. This issue is having real consequences for producers, for our workers, and for the diet of Canadians. The minister has to understand the magnitude of this problem and consider the consequences of his inaction. This is urgent.</ParaText>
               <ParaText id="4285266">The dairy industry accounts for nearly 5,000 direct, indirect or related jobs in Montérégie alone. If the federal government does nothing, it is going to have job losses on its conscience.</ParaText>
               <ParaText id="4285267"> There is talk of the decline of the regions, where the land is. The agri-food sector contributes to one job in eight in Canada. This is one of the most important sectors in the Canadian economy. The Liberal government does not seem to understand this.</ParaText>
-              <ParaText id="4285268">However, the <Affiliation DbId="214302" Type="4">Minister of Agriculture</Affiliation> ackonwledges the problem. I quote: “...diafiltered milk was never meant to be allowed to be used as milk.”</ParaText>
+              <ParaText id="4285268">However, the <Affiliation DbId="214302" Type="4">Minister of Agriculture</Affiliation> acknowledges the problem: “[D]iafiltered milk was never meant to be allowed to be used as milk.”</ParaText>
               <ParaText id="4285269">During the election campaign, the Liberals committed to solving the diafiltered milk problem, which is costing our dairy producers millions of dollars. However, the Liberals are dragging their feet.</ParaText>
               <ParaText id="4285270">I want to share a quote from a Liberal candidate during the last election, as reported in the media. He said that:</ParaText>
               <ParaText id="4285271">
@@ -647,7 +628,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4285368">Mr. Speaker, I am pleased to take part in this debate, which is of paramount importance to a number of dairy farmers in my constituency and other parts of Canada.</ParaText>
               <ParaText id="4285369"> I will speak to the House today about the improper use of certain milk protein substances, such as diafiltered milk, in the context of Canada’s cheese compositional standards and the negative impact that such improper use has on Canadian dairy farmers.</ParaText>
-              <ParaText id="4285370">A flourishing dairy industry means more jobs and better access to infrastructure. It also means economic spin-offs for other industries, such as the banks, businesses that sell food, livestock, parts, machinery and hardware, construction companies, veterinarians, and many others. It is important to point out that the Canadian dairy industry makes a huge contribution to the country’s economy.</ParaText>
+              <ParaText id="4285370">A flourishing dairy industry means more jobs and better access to infrastructure. It also means economic spinoffs for other industries, such as the banks, businesses that sell food, livestock, parts, machinery and hardware, construction companies, veterinarians, and many others. It is important to point out that the Canadian dairy industry makes a huge contribution to the country’s economy.</ParaText>
               <ParaText id="4285371"> It contributes $18.9 billion to our gross domestic product and $3.6 billion in tax revenues every year. It provides the equivalent of 215,000 full-time jobs for Canada as a whole.</ParaText>
               <ParaText id="4285372"> As we know, the dairy farming sector in Canada operates under a Canadian agricultural policy known as supply management. The policy’s objectives are to ensure that farmers receive a fair return, derived from the marketplace, for their work and investments; provide processors with a stable supply of milk, so that they can properly plan their production year after year; and provide consumers with a consistent supply of milk and milk products of the highest and safest quality, at a fair price. </ParaText>
               <ParaText id="4285373"> Canadian dairy was the first industry to operate under supply management—a system that egg and poultry farmers would later adopt.</ParaText>
@@ -744,7 +725,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4285430">Mr. Speaker, I congratulate my colleague on his defence of supply management and dairy farmers.</ParaText>
               <ParaText id="4285431"> He and I banned the importation of milk proteins from New Zealand, along with the former minister of agriculture, Mr. Strahl. As my colleague mentioned, we did so again, a few months ago, with regard to pizza kits.</ParaText>
-              <ParaText id="4285432"> In the House, everyone says they are in favour of supply management, but action is needed. We did take action, and the current government can take action now</ParaText>
+              <ParaText id="4285432"> In the House, everyone says they are in favour of supply management, but action is needed. We did take action, and the current government can take action now.</ParaText>
               <ParaText id="4285433">In the opinion of the member for <Affiliation DbId="213974" Type="2">Lévis—Lotbinière</Affiliation>, my favourite member, how can the government resolve the issue of ingredients? Can he explain again what our expectations of the government are? Will it show some political courage? If so, what concrete action can the government take that will not cost taxpayers a cent and will protect dairy farmers?</ParaText>
             </Content>
           </Intervention>
@@ -873,7 +854,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="213974" Type="2">Mr. Jacques Gourde (Lévis—Lotbinière, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4285489">Mr. Speaker, I thank my colleague.</ParaText>
-              <ParaText id="4285490">I had the opportunity to listen to the end of his speech. There seems to be some confusion about the issue of diafiltered milk. He talked a lot about a legislative issue. We see this as more of a regulatory issue. I an tyring to understand the essence of his speech. Is this a legislative or regulatory issue? I would like him to clarify his argument.</ParaText>
+              <ParaText id="4285490">I had the opportunity to listen to the end of his speech. There seems to be some confusion about the issue of diafiltered milk. He talked a lot about a legislative issue. We see this as more of a regulatory issue. I am trying to understand the essence of his speech. Is this a legislative or regulatory issue? I would like him to clarify his argument.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Dubé" id="8877757">
@@ -1094,7 +1075,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4285587">Mr. Speaker, I thank my colleague for the question.</ParaText>
               <ParaText id="4285588">When the house is destroyed, it takes a lot more time to renovate it. This is exactly the situation we are in. We have been caught with our pants down, as they say. </ParaText>
-              <ParaText id="4285589">This has been a longstanding issue. However, I did not hear my colleague speak as strongly, when he was in government, to defend the interests of dairy farmers with respect to diafiltered milk.</ParaText>
+              <ParaText id="4285589">This has been a long-standing issue. However, I did not hear my colleague speak as strongly, when he was in government, to defend the interests of dairy farmers with respect to diafiltered milk.</ParaText>
               <ParaText id="4285590"> In 2013, 10,000 tonnes of diafiltered milk was imported into Canada. In 2014, it was 13,000 tonnes, and then 27,000 tonnes in 2015. Where was my colleague to defend the interest of Canada’s dairy farmers then?</ParaText>
             </Content>
           </Intervention>
@@ -1139,7 +1120,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285607">We are very aware of the issues with enforcement of our rules surrounding supply management. As my colleague, the <Affiliation DbId="214302" Type="4">Minister of Agriculture and Agri-Food</Affiliation>, has repeated numerous times in the House and elsewhere, this government supports supply management, and we are working hard with the industry to find a long-term solution to this question.</ParaText>
               <ParaText id="4285608">Let me say a few words about CETA.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="4285609">The European Union is Canada' second largest trade and investment partner and its relationship with our country is of fundamental importance. The European Union is the largest market in the world with 500 million people in 28 countries and a combined GDP of about $20 trillion.</ParaText>
+              <ParaText id="4285609">The European Union is Canada's second-largest trade and investment partner and its relationship with our country is of fundamental importance. The European Union is the largest market in the world, with 500 million people in 28 countries and a combined GDP of about $20 trillion.</ParaText>
               <ParaText id="4285610">The Canada–Europe Comprehensive and Economic Trade Agreement is a benchmark model. We also addressed Canadians' concerns regarding investment protection and dispute resolution by establishing in the agreement stronger provisions on the right to regulate of all levels of government and creating a dispute resolution system that is fairer, more transparent, and more objective. We are pleased that this progressive agreement is now moving towards implementation next year.</ParaText>
               <ParaText id="4285611">Canada will be a leader that respects the guiding principles of international investment in the 21st century, and the comprehensive economic trade agreement has laid a solid foundation to that end.<Sup /></ParaText>
               <ParaText id="4285612">The government believes that the agreement will have many positive spinoffs for the Canadian economy, including the agricultural sector, and for all Canadians.</ParaText>
@@ -1288,7 +1269,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285686"> She gave a press conference with the current <Affiliation DbId="214305" Type="4">minister of Foreign Affairs</Affiliation>, and many farmers were invited. She gave this press conference to defend supply management. She gave a fine press conference with great fanfare to say that she was going to defend supply management if she were elected. With respect to supply management, she said:</ParaText>
               <ParaText id="4285687">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">[Supply management] also maintains our family farms. If we opened up the gates and abandoned supply management, our farms would be in danger...</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">[Supply management] also maintains our family farms. If we opened up the gates and abandoned supply management, our farms would be in danger....</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4285688"> I could not agree more. Today, the big problem is that the importation of diafiltered milk is undermining supply management because producers in the United States are circumventing the rules and ending up exporting what could be called processed milk. They are getting around the supply management rules.</ParaText>
@@ -1376,7 +1357,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285723">Mr. Speaker, I would like to inform you that I will be sharing my time with the hon. member for <Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation>. </ParaText>
               <ParaText id="4285724">I would also like to thank the member for <Affiliation DbId="213883" Type="2">Berthier—Maskinongé</Affiliation> for raising this very important and sensitive issue in the House. This is an important issue for all dairy producers in Quebec and Canada, and also for many producers in my riding of Châteauguay—Lacolle.</ParaText>
               <ParaText id="4285725">It is not political will that is lacking here. I am well aware that the dairy producers in my region are feeling the effects of the current turmoil in their industry. Part of the reason for that is the fact that our riding is adjacent to the United States and has one of the 10 largest border crossings in Canada, the Saint-Bernard-de-Lacolle crossing.</ParaText>
-              <ParaText id="4285726">I am pleased today to clearly state that I support Canada's supply managed industries. The goal of the opposition motion is to have a discussion today about the issues affecting the dairy industry. However, I would like to draw members' attention to the issues affecting the other two supply managed sectors: the poultry and egg sectors.</ParaText>
+              <ParaText id="4285726">I am pleased today to clearly state that I support Canada's supply-managed industries. The goal of the opposition motion is to have a discussion today about the issues affecting the dairy industry. However, I would like to draw members' attention to the issues affecting the other two supply-managed sectors: the poultry and egg sectors.</ParaText>
               <ParaText id="4285727">In Châteauguay—Lacolle, the production of turkey, poultry, table eggs, and hatching eggs is an important sector. In fact, our riding has about 10 rural municipalities.</ParaText>
               <ParaText id="4285728">These industries are thriving right now and are supporting many Canadian communities. I want to point out that our government fully supports Canada's supply management system, which is a vital and inalienable achievement for family farms and small farms. We are proud to say that these farms are the hallmark of Quebec's agricultural industry.</ParaText>
               <ParaText id="4285729">We are determined to maintain and protect the three sectors subject to supply management: dairy production, poultry production, and egg production. For example, the poultry industry brings in about $3.9 billion a year for farms and contributes about $1.3 billion a year to Canada's gross domestic product. Furthermore, this industry estimates that it provides more than 100,000 jobs across the country, on farms, in processing plants, and in other areas. In Châteauguay—Lacolle alone, there are 16 poultry producers.</ParaText>
@@ -1391,11 +1372,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285737"> Nevertheless, as elected members, we have an important role to play in protecting this proven system that can be held up as a model. </ParaText>
               <ParaText id="4285738">As the member for Châteauguay—Lacolle, I need to be sensitive to the needs and requests of the farmers in my riding, stay on top of the issues and bring forward information to our government.</ParaText>
               <ParaText id="4285739"> I wish to reassure the local farmers in my riding and all farmers across Canada by saying once again that our government will provide full support for trade and supply management in the poultry and egg sectors. </ParaText>
-              <ParaText id="4285740">We recognize how vitally important supply managed industries are to Canada’s economy, which is why we are doing everything we can to keep these sectors strong and profitable.</ParaText>
+              <ParaText id="4285740">We recognize how vitally important supply-managed industries are to Canada’s economy, which is why we are doing everything we can to keep these sectors strong and profitable.</ParaText>
               <ParaText id="4285741"> Specifically, we will continue to support the three main pillars of the supply management system: production management, import control and price control.</ParaText>
               <ParaText id="4285742">Our government is making this aspiration a reality through our efforts to develop lucrative new markets for our farmers, in part through free trade agreements with large importer countries.</ParaText>
               <ParaText id="4285743">We also have other effective ways to support the poultry industry, such as strategic investments in research, science, and innovation.</ParaText>
-              <ParaText id="4285744"> Our ultimate objective is to help supply managed producers and processors to boost productivity, build their competitive capabilities and maintain their sustainability.</ParaText>
+              <ParaText id="4285744"> Our ultimate objective is to help supply-managed producers and processors to boost productivity, build their competitive capabilities and maintain their sustainability.</ParaText>
               <ParaText id="4285745">Of course, we are also working in partnership with the industry to develop animal welfare codes of practice. Over the years, these strategic investments have helped grow our industry as well as Canada’s economy.</ParaText>
               <ParaText id="4285746"> I will conclude my speech by stating that our government fully supports supply management and that we are constantly working in the best interests of everyone: Canadian communities, families, and farmers.</ParaText>
               <ParaText id="4285747"> We are positioning ourselves strategically on the international stage to maximize trade success, and this success is to be shared by all agricultural sectors, including those under supply management.</ParaText>
@@ -1476,8 +1457,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Timestamp Hr="13" Mn="25">(1325)</Timestamp>
               <ParaText id="4285776">For example, Agriculture and Agri-Food Canada researchers discovered that it is easier to absorb vitamin B12 from cow's milk than from supplements. That kind of research can obviously give the industry a shot in the arm because today's consumers are particularly health conscious.</ParaText>
               <ParaText id="4285777">We are aware of the industry's concerns regarding the use of diafiltered milk in cheese production. Our officials are working on ensuring that the standards are clear for everyone. We are in regular contact with stakeholders in the dairy industry on this serious problem.</ParaText>
-              <ParaText id="4285778">The Government of Canada fully supports supply management. We will also continue to defend all Canadian interests in agriculture, including supply managed sectors, when examining trade issues. The Government of Canada fully supports supply management.</ParaText>
-              <ParaText id="4285779">By continuing to work hard, the agricultural sector will continue to prosper and to stimulate our economy, which will reach new heights. Canada is a country with enormous economic potential and an unrivalled spirit of innovation. Its farmers produce world renowned foods, which they sell on international markets that are full of opportunities.</ParaText>
+              <ParaText id="4285778">The Government of Canada fully supports supply management. We will also continue to defend all Canadian interests in agriculture, including supply-managed sectors, when examining trade issues. The Government of Canada fully supports supply management.</ParaText>
+              <ParaText id="4285779">By continuing to work hard, the agricultural sector will continue to prosper and to stimulate our economy, which will reach new heights. Canada is a country with enormous economic potential and an unrivalled spirit of innovation. Its farmers produce world-renowned foods, which they sell on international markets that are full of opportunities.</ParaText>
               <ParaText id="4285780">The future is promising. Global demand for quality food is growing, and this food will be supplied by very progressive and productive farms and processors from across Canada. We will continue to work closely with all of our partners so that Canada's agrifood sector will be even more successful. We will continue to defend all of the interests of Canadian agriculture when reviewing trade files.</ParaText>
             </Content>
           </Intervention>
@@ -1547,7 +1528,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285799">As I was listening to the member for <Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation>, I got the impression that he regrets ever being elected because now he has to make decisions. True, it is unfortunate that the Liberals were elected, but it is a fact. Now they have to start living up to their responsibilities and stop coming up with excuses. </ParaText>
               <ParaText id="4285800">In the House today, we have dairy producers from Lanaudière, Mauricie, the Outaouais, Quebec City's south shore, and Montérégie. Today I had a chance to speak with producers from Saint-Boniface in Mauricie. They are very disturbed by what the Liberals are saying because the Liberals are using every excuse in the book to justify doing nothing. We do not need to change the law or even the regulations. We need a change in attitude.</ParaText>
               <ParaText id="4285801">When is milk not milk? It is not milk when it is diafiltered milk, of course. According to our border services, it gets through the border because it is not milk. When is diafiltered milk, milk? Well, of course, it becomes milk when it goes into cheese. Indeed, the Canadian Food Inspection Agency requires that cheese be made with milk, the same milk that was not milk when it crossed the border as diafiltered milk. That is the nonsense that the Liberals are trying to sell us here today. </ParaText>
-              <ParaText id="4285802">However, this is understandable, because a government reveals its true colours over time. It took some time for us to learn that the Conservatives would always be against the little guy. The Liberals are showing us just how ready they are to get down on their knees before the powerful and well connected.</ParaText>
+              <ParaText id="4285802">However, this is understandable, because a government reveals its true colours over time. It took some time for us to learn that the Conservatives would always be against the little guy. The Liberals are showing us just how ready they are to get down on their knees before the powerful and well-connected.</ParaText>
               <ParaText id="4285803">We saw this yesterday with the <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation>. He said it was no big deal if Air Canada did not obey the law. It is no big deal if thousands of workers and mechanics with good jobs in the aerospace industry lost their jobs. It is no big deal. Air Canada asked to have the law changed retroactively to have the violations dropped. The Liberals gave in to that request.</ParaText>
               <ParaText id="4285804">We are talking about the same Air Canada that systematically fails to comply with the Official Languages Act. Why? Just ask them, and they will tell you that it is not right that they are the only airline that has to comply with this legislation. The only little problem and the only little thing that Air Canada forgets in all this, is that they came begging for billions of taxpayer dollars. Canadians agreed on the condition that the maintenance is done in Canada and the Official Languages Act is respected. </ParaText>
               <ParaText id="4285805">It took a Liberal government to explain to us that even though Air Canada did not obey the law, there are two laws in Canada: one for the little guy and average Canadians, and another for the all-powerful friends of the regime. That is the Liberal government.</ParaText>
@@ -1555,7 +1536,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285807">This is an unbelievable situation where we lost $220 million last year.</ParaText>
               <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4285808">In English, we will often talk about a Catch-22. When is milk not milk? It is when it is diafiltered milk. Therefore, the American producers of this product do not have to pay customs duties. That is what our border services have decided. The same government, the same product, and it becomes milk, because the food inspection people say it is no problem. There has to be milk when making cheese, but this stuff is milk. It was not milk when it crossed the border when it would have been taxed, but now it is milk when it is put in cheese. It is not a Catch-22; it is a catch-$220 million. That is the problem.</ParaText>
+              <ParaText id="4285808">In English, we will often talk about a catch-22. When is milk not milk? It is when it is diafiltered milk. Therefore, the American producers of this product do not have to pay customs duties. That is what our border services have decided. The same government, the same product, and it becomes milk, because the food inspection people say it is no problem. There has to be milk when making cheese, but this stuff is milk. It was not milk when it crossed the border when it would have been taxed, but now it is milk when it is put in cheese. It is not a catch-22; it is a catch-$220 million. That is the problem.</ParaText>
               <ParaText id="4285809">I wish that some of the brain trusts on the other side, like the member of Parliament for <Affiliation DbId="213924" Type="2">Winnipeg North</Affiliation>, would actually speak to some of the milk producers. They would understand that the banks in this country are holding back investments for these producers. Why? It is because they do not know whether they are going to be paid back. That is the insecurity in the lives of farming families. That is the insecurity in their communities. That is why the NDP is standing up to fight for the government to start enforcing these laws.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4285810">All I heard from the member from New Brunswick, who spoke earlier, and the member for <Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation> was empty rhetoric. It boggles the mind. We hear “the government's action plan”, “the policies”, “the financial tools to support”, and blah, blah, blah. Hang on.</ParaText>
@@ -1623,9 +1604,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214432" Type="2">Ms. Christine Moore (Abitibi—Témiscamingue, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4285841">Mr. Speaker, the easiest way to understand the problem is to understand the dynamic it has created. I will therefore read a message I received from a producer at the end of March. “Dear Madam. I am sending you this message today to ask that you speak to the government on our behalf. Let me introduce myself. My name is Genevieve Audet. I am the owner of Ronick farm, a beautiful family-owned dairy farm in Ste-Gertrude. I need your help in defending supply management, a world model of responsible production that requires no subsidies, and which is suffering greatly as a result of the importation of milk proteins from the United States. The futures of many dairy farms are in jeopardy as a result of the significant drop in the price paid for milk at the farm, which does not cover the production costs, according to the Canadian Dairy Commission. The government needs to enforce its laws at the border to prevent these proteins from entering the country. They do not meet Canadian standards, they favour processors, they mislead consumers, and they hurt our economy. I hope I have made the right choice, Madam, and that you will choose to defend us”.</ParaText>
+              <ParaText id="4285841">Mr. Speaker, the easiest way to understand the problem is to understand the dynamic it has created. I will therefore read a message I received from a producer at the end of March. “I am sending you this message today to ask that you speak to the government on our behalf. Let me introduce myself. My name is Genevieve Audet. I am the owner of Ronick farm, a beautiful family-owned dairy farm in Ste-Gertrude. I need your help in defending supply management, a world model of responsible production that requires no subsidies, and which is suffering greatly as a result of the importation of milk proteins from the United States. The futures of many dairy farms are in jeopardy as a result of the significant drop in the price paid for milk at the farm, which does not cover the production costs, according to the Canadian Dairy Commission. The government needs to enforce its laws at the border to prevent these proteins from entering the country. They do not meet Canadian standards, they favour processors, they mislead consumers, and they hurt our economy. I hope I have made the right choice, Madam, and that you will choose to defend us”.</ParaText>
               <ParaText id="4285842">Other comments received afterwards clearly show how dairy producers feel.</ParaText>
-              <ParaText id="4285843">“For some years now, we feel as though the government has turned its backs on us. Agricultural funding keeps getting slashed as our revenues dwindle, and all these agreements we are entering into only serve to open our borders ever wider, leaving us at the mercy of market forces...We have the potential to be a great economic force, but the government does not seem to realize it...I do not know whether you are aware of this, but many start-ups are struggling to such a degree that they are on the verge of selling, and their creditors have all but lost faith in the industry...Agriculture feeds the world, which is why I cannot understand why nothing is being done to remedy the situation. What will we do when there is no one left to feed us? Thank you very much for taking the time to read my words...I appreciate it a great deal and hope you will be able to share them with others today”.</ParaText>
+              <ParaText id="4285843">“For some years now, we feel as though the government has turned its backs on us. Agricultural funding keeps getting slashed as our revenues dwindle, and all these agreements we are entering into only serve to open our borders ever wider, leaving us at the mercy of market forces... We have the potential to be a great economic force, but the government does not seem to realize it.... I do not know whether you are aware of this, but many start-ups are struggling to such a degree that they are on the verge of selling, and their creditors have all but lost faith in the industry.... Agriculture feeds the world, which is why I cannot understand why nothing is being done to remedy the situation. What will we do when there is no one left to feed us? Thank you very much for taking the time to read my words.... I appreciate it a great deal and hope you will be able to share them with others today”.</ParaText>
               <ParaText id="4285844">That pretty well sums up what several producers in my community are going through. From 2007 to 2016, the number of dairy farms in Abitibi—Témiscamingue dropped 24%. There are only 114 left, compared to 150 10 years ago. The industry accounts for some 1,200 jobs in my riding alone. Of those, 826 are employed by dairy farms and 493 by food processors. I have a specific example in mind. Many cheesemakers have opened shop. Some of the top-quality cheeses they produce have even claimed awards on the world stage, like the Cru du Clocher.</ParaText>
               <ParaText id="4285845">Every year, the Conservative government's failure to act has resulted in shortfalls of $12,000 to $15,000 per farm, and now, it is the Liberals' turn to sit on their hands.</ParaText>
               <ParaText id="4285846">Do members truly believe most people have the means to fill a $15,000 hole in their budget? Several Liberal MPs are not earning the same salary as they once did. Though that may be the case, most people still have a hard time absorbing a $15,000 loss. </ParaText>
@@ -1651,9 +1632,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4285858">I can guarantee that the <Affiliation DbId="214662" Type="18">Parliamentary Secretary to the Minister of Agriculture</Affiliation> is going to bat for our dairy producers. I can guarantee that the member for <Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation> is going to bat for dairy producers. Let us imagine that the solutions presented here were adopted and that tomorrow morning we would push a button to make it happen. Does the member understand that diafiltered milk would still enter the country and that is why we have to work with Canada's dairy industry to ensure the vitality of this industry in the long term? I would like her to comment on that.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Moore" id="8879119">
+          <Intervention Type="Interjection" ToC="No" ToCText="Ms. Moore" id="8879119">
             <PersonSpeaking>
-              <Affiliation DbId="214432" Type="2">Ms. Christine Moore (Abitibi—Témiscamingue, NDP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214432" Type="2">Ms. Christine Moore</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4285859">Mr. Speaker, the Government of Canada is responsible for the Canada Border Services Agency. If the government advises this agency to talk to the Canadian Food Inspection Agency, and they come up with the same definition for “milk”, the problem will be solved. The customs officers will be able to say that it is milk. Since it does not comply with the rules and exceeds the permitted quantities, the product cannot enter Canada. Therefore, there will be no problem. </ParaText>
               <ParaText id="4285860">All day the Liberal MPs have given speeches that barely mentioned diafiltered milk. Earlier, I almost thought they would ask my colleague the names of chickens in an effort to avoid the question. That is ridiculous.</ParaText>
@@ -1999,9 +1980,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4285945">Following discussions among representatives of all the parties in the House, I understand there is an agreement to observe a moment of silence to commemorate the National Day of Mourning and to honour the memory of workers killed or injured at work.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4285946">I invite all hon. members to rise. </ParaText>
-              <ParaText id="4285947">
-                <I>[A moment of silence observed] </I>
-              </ParaText>
+              <ParaText id="4285947">[A moment of silence observed] </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2096,9 +2075,14 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214676" Type="18">Mr. David Lametti (Parliamentary Secretary to the Minister of International Trade, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4285964">Mr. Speaker, we support Canada's primary metal manufacturing industry and we will defend the interests of Canadian businesses. Imposing restrictions on Canadian exports will not help resolve global overcapacity. Canada and the <?bk?>U.S.<?ek?> must resolve the overcapacity issue in a strategic, comprehensive manner in the interest of all our workers. </ParaText>
+              <ParaText id="4285964">Mr. Speaker, we support Canada's primary metal manufacturing industry and we will defend the interests of Canadian businesses. Imposing restrictions on Canadian exports will not help resolve global overcapacity. Canada and the <?bk ?>U.S.<?ek ?> must resolve the overcapacity issue in a strategic, comprehensive manner in the interest of all our workers. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="8879462">
+        <SubjectOfBusinessTitle>Dairy Industry</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="8879331">
             <PersonSpeaking>
               <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
@@ -2139,6 +2123,11 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4285974">The good news is that several steps remain in the parliamentary process. The bill will go to committee, where we will hear from witnesses. Then comes the report stage and third reading. After that, the Senate repeats the entire process. There are many steps left in the process.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="8879765">
+        <SubjectOfBusinessTitle>Indigenous Affairs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Mulcair" id="8879344">
             <PersonSpeaking>
               <Affiliation DbId="213985" Type="2">Hon. Thomas Mulcair (Outremont, NDP)</Affiliation>: </PersonSpeaking>
@@ -2205,7 +2194,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4285991">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="4285992">
-                <B>Hon. Stéphane Dion:</B> What she said is, “we would honour the contract, we don’t renege on contracts. It’s a signed contract and we will honour that contract”.</ParaText>
+                <B>Hon. Stéphane Dion:</B> Mr. Speaker, what she said is, “we would honour the contract, we don’t renege on contracts. It’s a signed contract and we will honour that contract”.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2248,7 +2237,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214218" Type="2">Mr. Blaine Calkins</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4285998">Mr. Speaker, it is funny: on that side the squeaky wheel seems to be getting the grease today.</ParaText>
-              <ParaText id="4285999">We know the minister was originally scheduled to appear on a <?bk?>U.S.<?ek?> TV program in October, but she rescheduled her appearance to November after she was sworn into cabinet.</ParaText>
+              <ParaText id="4285999">We know the minister was originally scheduled to appear on a <?bk ?>U.S.<?ek ?> TV program in October, but she rescheduled her appearance to November after she was sworn into cabinet.</ParaText>
               <ParaText id="4286000">The minister wants Canadians to believe that she was there to promote Canada, but Canadians are not buying her story, even at a cost of $20,000. The real reason she was there was to promote herself. If she was really there for government business, why did Time Warner book her stay?</ParaText>
             </Content>
           </Intervention>
@@ -2355,7 +2344,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8879455">
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canada Revenue Agency</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dusseault" id="8879444">
             <PersonSpeaking>
@@ -2374,12 +2363,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286031">What I can say is that the members opposite clearly like our budget so much that they are moving to talk about other things, non-stories, to move us off the topic. The fact is that we are helping Canadians with our budget. We are going after tax evaders, and we are going to continue to do so. </ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="8879462">
-        <Timestamp Hr="14" Mn="40">(1440)</Timestamp>
-        <SubjectOfBusinessTitle>Canada Revenue Agency</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <Timestamp Hr="14" Mn="40">(1440)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rankin" id="8879461">
             <PersonSpeaking>
               <Affiliation DbId="214384" Type="2">Mr. Murray Rankin (Victoria, NDP)</Affiliation>: </PersonSpeaking>
@@ -2402,7 +2386,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8879476">
-        <SubjectOfBusinessTitle>Natural Resources</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>The Environment</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fast" id="8879681">
             <PersonSpeaking>
@@ -2545,7 +2529,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214380" Type="2">Mr. James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286070">Mr. Speaker, when it comes to equipping our troops, the Liberals are deliberately misleading Canadians. The budget says, “funding that is not yet allocated to specific projects...can be moved forward to future years”, but the Liberals are making a $3.7 billion cut to the defence budget. They are taking hundreds of millions of dollars from important military projects that are already under way. </ParaText>
-              <ParaText id="4286071">Who is misleading Canadians? is it the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> or is it the <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation>?</ParaText>
+              <ParaText id="4286071">Who is misleading Canadians? Is it the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> or is it the <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation>?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McKay" id="8879570">
@@ -2582,7 +2566,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214103" Type="2">Hon. Tony Clement (Parry Sound—Muskoka, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286077">Mr. Speaker, back to the question of genocide, the Parliament of the <?bk?>U.K.,<?ek?> the U.S. Congress, and Secretary of State Kerry have all condemned the ISIS killings of Yazidis, Muslims, and Christian minorities as genocide.</ParaText>
+              <ParaText id="4286077">Mr. Speaker, back to the question of genocide, the Parliament of the <?bk ?>U.K.,<?ek ?> the U.S. Congress, and Secretary of State Kerry have all condemned the ISIS killings of Yazidis, Muslims, and Christian minorities as genocide.</ParaText>
               <ParaText id="4286078">Your government had the chance to do the same thing in this House yesterday. You refused. You hid—</ParaText>
             </Content>
           </Intervention>
@@ -2840,7 +2824,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214548" Type="2">Mr. Blake Richards (Banff—Airdrie, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286131">Mr. Speaker, when we change the basic rules of democracy, everyone should get a vote, but the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> seems to think that only those who agree with him should get a say.</ParaText>
-              <ParaText id="4286132">He clearly opposes directly consulting Canadians through a referendum on fundamental changes to how we vote. He told students at the University of Ottawa, “...the fact is that referendums are a pretty good way of not getting any electoral reform.”</ParaText>
+              <ParaText id="4286132">He clearly opposes directly consulting Canadians through a referendum on fundamental changes to how we vote. He told students at the University of Ottawa, “[T]he fact is that referendums are a pretty good way of not getting any electoral reform.”</ParaText>
               <ParaText id="4286133">Has the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> closed the door on a referendum because he thinks the only opinion that matters is his?</ParaText>
             </Content>
           </Intervention>
@@ -2849,6 +2833,8 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214316" Type="4">Hon. Maryam Monsef (Minister of Democratic Institutions, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286134">Mr. Speaker, unlike the previous government, we intend to use evidence and a complete consultation process with Canadians across this great nation so that when we propose changes in this House, we bring our democratic institutions—</ParaText>
+              <ParaText id="4326875">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8879683">
@@ -3023,11 +3009,11 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4286169">Does the hon. member have the unanimous consent of the House to move this motion?</ParaText>
               <ParaText id="4286170">
-                <B>Some hon. members:</B> Yes.</ParaText>
+                <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="4286171">
                 <B>The Speaker:</B> The House has heard the terms of the motion. Is it the pleasure of the House to adopt the motion?</ParaText>
               <ParaText id="4286172">
-                <B>Some hon. members:</B> Yes.</ParaText>
+                <B>Some hon. members:</B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="7">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
@@ -3037,7 +3023,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214501" Type="2">Mr. Andrew Scheer</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286173">Mr. Speaker, I have a very short point of order. I neglected to do this in my Thursday question, but on behalf of the official opposition, I would like to wish Her Majesty a very happy 90th birthday. It is a very special day for all her subjects all over the world.</ParaText>
-              <ParaText id="4286174">I wonder if we could just make a note of this. As you know, Mr. Speaker, the House spontaneously sung “God Save the Queen”. I am not sure how <I>Hansard</I> will capture that, but I hope it does mark the occasion because it was a very special moment. </ParaText>
+              <ParaText id="4286174">I wonder if we could just make a note of this. As you know, Mr. Speaker, the House spontaneously sang “God Save the Queen”. I am not sure how <I>Hansard</I> will capture that, but I hope it does mark the occasion because it was a very special moment. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3067,7 +3053,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286178">Mr. Speaker, perhaps I could answer the question as to why we are debating this issue today. This issue has been in the making for the last number of years and the Conservative government at the time chose to do nothing on the it. Now we find ourselves in this predicament. </ParaText>
+              <ParaText id="4286178">Mr. Speaker, perhaps I could answer the question as to why we are debating this issue today. This issue has been in the making for the last number of years, and because the Conservative government at the time chose to do nothing on the issue, we now find ourselves in this predicament. </ParaText>
               <ParaText id="4286179">I find it most interesting that on the one hand, the Conservatives say that they want to see action, but they did nothing when they were in government. On the hand, we have an animated New Democratic caucus that did not raise the issue when it was in the official opposition. Now everyone is taking an interest.</ParaText>
               <ParaText id="4286180">Let me provide assurances that the Government of Canada is very much aware of the issue and we are taking the necessary actions to protect the industry. As the <Affiliation DbId="214302" Type="4">Minister of Agriculture</Affiliation> and others have said, the Government of Canada is very supportive of supply management. </ParaText>
               <ParaText id="4286181">I wonder if the member might want to provide some on why the previous government and the previous official opposition kind of put this on the back burner and did nothing on the issue. </ParaText>
@@ -3093,7 +3079,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286187">I am proud to rise today to speak on the subject of trade and agriculture, while underscoring the government's strong support for Canada's supply-managed sectors. We are all well aware of the concerns regarding the use of diafiltered milk in the making of cheese.</ParaText>
               <ParaText id="4286188">Our government is working with all sides of the industry to ensure that we continue engaging everyone in order to find a long-term sustainable and agreed upon solution on this issue.</ParaText>
               <ParaText id="4286189">Agriculture is hugely important in my riding, and it has played an enormous role in my life, having grown up on a large family-owned farm myself, producing seed potatoes, oilseeds and small grains, as well as having worked both in the primary agricultural sector, farming myself for nearly 14 years, and food manufacturing prior to my new role as member of Parliament.</ParaText>
-              <ParaText id="4286190">As a supply-managed egg producer for the last six years, along with my wife Tanya and our four children, through the New Brunswick egg producers new entrant program , I have had an opportunity to see first hand the tremendous benefit that supply management plays within the dairy and egg sectors, and the tremendous benefit that it affords producers, allowing them to plan strategically in their investments with respect to their own agricultural enterprises, not only for themselves but for the next future generation and the subsequent generations to follow.</ParaText>
+              <ParaText id="4286190">As a supply-managed egg producer for the last six years, along with my wife Tanya and our four children, through the New Brunswick egg producers new entrant program, I have had an opportunity to see first-hand the tremendous benefit that supply management plays within the dairy and egg sectors, and the tremendous benefit that it affords producers, allowing them to plan strategically in their investments with respect to their own agricultural enterprises, not only for themselves but for the next future generation and the subsequent generations to follow.</ParaText>
               <ParaText id="4286191">Canada's agriculture and agri-food exports exceed $60 billion a year, $61.4 billion. About half of the value of Canada's agricultural production is exported, which is why our government strongly supports free trade.</ParaText>
               <ParaText id="4286192">The opportunities for Canada's farmers and food processors on the global stage are nothing short of breathtaking. The Food and Agriculture Organization of the United Nations has projected the global demand for food is expected to increase by 60% by 2050. Much of this demand will come from the growing middle class around the world, which is on track to exceed half the planet's entire population over the next 15 years.</ParaText>
               <ParaText id="4286193">This is good news for farmers in my riding and across our great country. Two-thirds of the middle class will be in Asia, with a quarter of a billion people in India alone. The Chinese middle class is growing by the population of Canada every year. It is projected that by 2030, almost three-quarters, 70% of China's population could be in the middle class, consuming nearly $10 trillion in goods and services.</ParaText>
@@ -3103,7 +3089,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286197"> Canada's supply-managed sectors are a major economic force in this country, accounting for close to 300,000, 285,000, jobs and $32 billion in overall economic benefit.</ParaText>
               <ParaText id="4286198">We understand the importance of compensation for supply-managed producers in the context of the Canada-EU trade agreement and the TPP, should it enter into force. </ParaText>
               <ParaText id="4286199">We are at a time of tremendous opportunity for Canada's agriculture and agri-food sectors. Agricultural exports are at an all-time record high. Producer incomes and balance sheets are expected to remain at historic levels.</ParaText>
-              <ParaText id="4286200">Agriculture and food is one of the top five fastest growing export sectors in Canada. It is estimated that up to 50,000 new jobs in agriculture across the country will be created in the next five years, both on and off farm, on top of vacancies that already exist. Some estimate those vacancies to be in excess of 25,000 jobs.</ParaText>
+              <ParaText id="4286200">Agriculture and food is one of the top five fastest-growing export sectors in Canada. It is estimated that up to 50,000 new jobs in agriculture across the country will be created in the next five years, both on and off farm, on top of vacancies that already exist. Some estimate those vacancies to be in excess of 25,000 jobs.</ParaText>
               <ParaText id="4286201">With our small population and huge production capacity, Canada is the world's leading agricultural trader on a per capita basis, as I mentioned earlier. Meanwhile, global demand for food is projected to increase by 60% by 2050. For farmers and food processors this is tremendous news. The future is bright for Canadian farmers and food processors, with growing demand for the products we grow in Canada.</ParaText>
               <ParaText id="4286202"> Our government will work hard to open new markets for them, while doing the right thing, consulting with Canadians and farmers on the TPP. The government's message is clear, we fully support trade and we fully support our supply-managed sectors. That is why we are committed to continuing to engage the entire sector on this issue to ensure we achieve a long-term, sustainable solution.</ParaText>
               <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
@@ -3265,7 +3251,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214222" Type="2">Mr. T.J. Harvey (Tobique—Mactaquac, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286249">Mr. Speaker, I would like to thank my hon. colleague for his impassioned speech on the subject matter here today. I share his passion. I think everyone who is currently sitting here shares a passion for agriculture, rural Canada, and seeing the rural economy grow.</ParaText>
+              <ParaText id="4286249">Madam Speaker, I would like to thank my hon. colleague for his impassioned speech on the subject matter here today. I share his passion. I think everyone who is currently sitting here shares a passion for agriculture, rural Canada, and seeing the rural economy grow.</ParaText>
               <ParaText id="4286250">I am wondering if my colleague could share how he thinks this government could support agriculture and help grow the rural economy.</ParaText>
             </Content>
           </Intervention>
@@ -3371,7 +3357,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor (Cowichan—Malahat—Langford, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286291">Madam Speaker, the motion put forward by the member for <Affiliation DbId="213883" Type="2">Berthier—Maskinongé</Affiliation> in the House today is incredibly important.</ParaText>
-              <ParaText id="4286292"> I want to give a shout-out to the hardworking farmers in my riding of Cowichan—Malahat—Langford. For those members in the House who do not know, the Cowichan Valley is worded after the first nations band that lives there, and it is referred to as the warm land. We have a beautiful climate on that part of Vancouver Island.</ParaText>
+              <ParaText id="4286292"> I want to give a shout-out to the hard-working farmers in my riding of Cowichan—Malahat—Langford. For those members in the House who do not know, the Cowichan Valley is worded after the first nations band that lives there, and it is referred to as the warm land. We have a beautiful climate on that part of Vancouver Island.</ParaText>
               <ParaText id="4286293"> I am honoured to be a part-time farmer myself. My wife and I have a small, three-acre farm. It is very small scale compared to what some farmers go through, but it does give me a bit of insight into just how hard farmers work.</ParaText>
               <ParaText id="4286294">I could not be more honoured to be a member of Parliament who comes from a riding that supports farms and that has a real link between the people who buy produce and the people who produce it.</ParaText>
               <ParaText id="4286295">Let me look at the Liberal government's track record on this. I want to start off with the Speech from the Throne. Some hon. members have already mentioned that there was not one mention of the word “agriculture” in the Speech from the Throne. To me that signals a big omission. It signals that agriculture does not figure heavily in the government's view of going forward.</ParaText>
@@ -3403,7 +3389,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
                 </Quote>
               </ParaText>
               <ParaText id="4286314">It is quite simple to me.</ParaText>
-              <ParaText id="4286315">Part (d) of the motion calls “upon the government to keep its election promises and honour the commitments made since the start of its mandate”, now six months long, “by immediately enforcing the compositional standards...”.</ParaText>
+              <ParaText id="4286315">Part (d) of the motion calls upon the government “to keep its election promises and honour the commitments made since the start of its mandate [now six months long] by immediately enforcing the compositional standards”.</ParaText>
               <ParaText id="4286316">With respect to the Liberal MPs who moved an amendment to the motion, I agree with my colleague. It would have watered down what we are ultimately trying to do in the motion, and I agree that it was the right choice to disallow that amendment and go with what we are proposing on this side of the House.</ParaText>
               <ParaText id="4286317">On a final note, I want to note the importance in Canada of food security, and I would like to acknowledge the incredible work that the NDP has done on this issue for many years. We had Malcolm Allen and also Alex Atamanenko compile an important report called “Everybody eats: Our vision for a pan-Canadian food strategy”, and we recognize the importance of treating food security and agriculture in a holistic approach. We cannot look at it piecemeal. We have to see the system as a whole. That is what has been missing in Canada for many years. We lack a pan-Canadian food strategy.</ParaText>
               <ParaText id="4286318">One of the important parts of that is making sure that the government operates on a level playing field, that the law is equal for everyone, and that the laws that are in the books are actually being enforced. That is what gives producers in Canada peace of mind. It gives them the ability to produce their goods and to know that they have economic security.</ParaText>
@@ -3446,7 +3432,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286331">Madam Speaker, I will agree with my colleague that we have keep the focus on the present government. I am trying to keep my comments to that subject.</ParaText>
+              <ParaText id="4286331">Madam Speaker, I will agree with my colleague that we have to keep the focus on the present government. I am trying to keep my comments to that subject.</ParaText>
               <ParaText id="4286332">I have highlighted this many times. Six months have gone by. It is time to stop living in the past and start living to the present. The NDP is trying to do that. We will continue to support that as the debate goes on in the House today.</ParaText>
             </Content>
           </Intervention>
@@ -3470,7 +3456,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286336">Madam Speaker, my hon. friend knows this very well. She has done an excellent job on this file. She has asked a number of questions of the <Affiliation DbId="214302" Type="4">Minister of Agriculture</Affiliation> on this. However, the answers we get are completely unacceptable. There is no ownership of responsibility with respect to laws and regulations needing to be changed. Rather, it is we simply need to follow the laws now exist on the books. We are looking for the government side to own up to the problem, fulfill its mandate, and work on behalf of Canadian agricultural producers.</ParaText>
+              <ParaText id="4286336">Madam Speaker, my hon. friend knows this very well. She has done an excellent job on this file. She has asked a number of questions of the <Affiliation DbId="214302" Type="4">Minister of Agriculture</Affiliation> on this. However, the answers we get are completely unacceptable. There is no ownership of responsibility with respect to laws and regulations needing to be changed. Rather, we simply need to follow the laws that exist on the books. We are looking for the government side to own up to the problem, fulfill its mandate, and work on behalf of Canadian agricultural producers.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3508,7 +3494,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286363">Some cheesemakers in our regions make their cheeses only with milk, 100% Canadian milk. Unfortunately, the labels no longer tell us everything, since the introduction of diafiltered milk. There is a mysterious process that transforms diafiltered milk when it crosses the Canadian border.</ParaText>
               <ParaText id="4286364">When trucks full of diafiltered milk cross the border, the product is considered milk protein concentrate, so it is not subject to the supply management protection measures. However, when the same truck with the same diafiltered milk arrives at the factory, and no one has touched it, the concentrate suddenly becomes milk.</ParaText>
               <ParaText id="4286365">Processors use it the same way they use the milk produced by our farmers in our regions. It is not magic; it is more like the 12 labours of Hercules. Milk is milk. The Canada Border Services Agency does not consider it to be milk, but the Canadian Food Inspection Agency does. Try and understand that.</ParaText>
-              <ParaText id="4286366">What does this mean for consumers who want to know what their cheese is made of? To the 17% of milk ingredients, processors can add a large quantity of American concentrate in the form of diafiltered milk, without having to indicate it on the label. It is therefore impossible to know whether our cheddar is made from 100% Canadian milk or not, because milk is milk is milk, but it is not milk according to the federal government. It might be, but no one knows any more.</ParaText>
+              <ParaText id="4286366">What does this mean for consumers who want to know what their cheese is made of? To the 17% of milk ingredients, processors can add a large quantity of American concentrate in the form of diafiltered milk, without having to indicate it on the label. It is therefore impossible to know whether our cheddar is made from 100% Canadian milk or not, because milk is milk is milk, but it is not milk according to the federal government. It might be, but no one knows anymore.</ParaText>
               <ParaText id="4286367">To come back to Alain Brassard's farm, he is simply asking that the compositional standards for cheese that were put in place by the Conservative government be upheld.</ParaText>
               <ParaText id="4286368">It is a vicious circle: diafiltered milk creates a surplus among our dairy producers, and those surpluses are the responsibility of the same producers who must process it into milk concentrate and then sell it at a lower price. It is nothing but bad news for dairy producers. </ParaText>
               <ParaText id="4286369">The Brassard farm's request is simple: enforce the minimum percentage of Canadian milk in cheddar, which is 83%, as well as the compositional standards for cheese.</ParaText>
@@ -3552,7 +3538,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214171" Type="2">Mr. Luc Berthold</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286382">Madam Speaker, in baseball, we call that a meatball, and I am going to hit a home run.</ParaText>
-              <ParaText id="4286383"> No one was able speak yesterday because the government imposed a gag order and no one could do anything. We cancelled our meeting of the Standing Committee on Transport, Infrastructure and Communities. We had to turn witnesses away in committee as well, because we had to rush back here. The government was so keen to fix a problem that does not exist. That is the truth.</ParaText>
+              <ParaText id="4286383"> No one was able to speak yesterday because the government imposed a gag order and no one could do anything. We cancelled our meeting of the Standing Committee on Transport, Infrastructure and Communities. We had to turn witnesses away in committee as well, because we had to rush back here. The government was so keen to fix a problem that does not exist. That is the truth.</ParaText>
               <ParaText id="4286384">
                 <B>An hon. member:</B> Yes, yes, yes!</ParaText>
             </Content>
@@ -3588,7 +3574,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286394"> I may not be a farmer or an agricultural expert like my colleague from <Affiliation DbId="213974" Type="2">Lévis—Lotbinière</Affiliation>, who by the way delivered quite a speech and masterfully answered questions from the other members before me, from the other side of the House, but one thing is certain: I am very much aware of the magnitude of the repercussions from the inappropriate use of milk proteins for dairy farmers across Canada.</ParaText>
               <ParaText id="4286395"> Furthermore, during the recent election campaign and since my election, I have had numerous meetings with associations, farmers, professionals, retailers and Canadians interested in the issue to gain further insight into the problem.</ParaText>
               <ParaText id="4286396">To the many stakeholders listening in, I gave my word that I would do my level best to put as much pressure on the government as necessary to resolve this issue once and for all.</ParaText>
-              <ParaText id="4286397">I realize that the <Affiliation DbId="214302" Type="4">Minister of Agriculture and Agri-Food</Affiliation> might have a hard time getting the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to understand how important this issue is, particularly considering that there is no mention of agriculture in either the throne speech or the budget. This deliberate omission, combined with the government's lack of interest in this file since coming to power, makes it clear that this issue is not exactly at the top of into the government's agenda. </ParaText>
+              <ParaText id="4286397">I realize that the <Affiliation DbId="214302" Type="4">Minister of Agriculture and Agri-Food</Affiliation> might have a hard time getting the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to understand how important this issue is, particularly considering that there is no mention of agriculture in either the throne speech or the budget. This deliberate omission, combined with the government's lack of interest in this file since coming to power, makes it clear that this issue is not exactly at the top of the government's agenda. </ParaText>
               <ParaText id="4286398">I will therefore do my best to provide a clear, detailed, concise summary of the reasons why the Prime Minister, or at least his Minister of Agriculture, must show leadership on this file.</ParaText>
               <ParaText id="4286399">First of all, the use of milk proteins has a negative impact that is destabilizing the dairy sector, a key sector in Canada's economy. With $3.6 billion per year in tax revenue and 215,000 full-time equivalent jobs, the value of Canada's dairy sector to our economy is incalculable.</ParaText>
               <ParaText id="4286400">Diafiltered milk imports cost Canada's economy more than $200 million per year. In central Quebec, 835 farms are losing an average of $15,000 each. These farms employ 5,600 people directly and indirectly.</ParaText>
@@ -3705,7 +3691,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214659" Type="18">Mr. Adam Vaughan (Parliamentary Secretary to the Prime Minister (Intergovernmental Affairs), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286459">Mr. Speaker, part of the challenge we face is that for the last decade the law has not been enforced. The official opposition can cry all it wants about this, but it is literally crying over spilled milk. If it had done anything on this file in 10 years, we would not be having this dispute today. </ParaText>
+              <ParaText id="4286459">Madam Speaker, part of the challenge we face is that for the last decade the law has not been enforced. The official opposition can cry all it wants about this, but it is literally crying over spilled milk. If it had done anything on this file in 10 years, we would not be having this dispute today. </ParaText>
               <ParaText id="4286460">Now we find ourselves in the situation of having imports that are quite obviously in contravention of rules and we are trying to figure out how to exit from that situation, which was what the promise was. If we read what the promise was, we see that it was to resolve the issue. It was not as described by the member opposite. </ParaText>
               <ParaText id="4286461">I understand how they can draw the same conclusion as to the result we are trying to get to, but the process we promised, which is important, was that we would resolve this issue.</ParaText>
               <ParaText id="4286462">In light of the fact there are cheese producers in Quebec and in other parts of this country that are currently under contract and involved in trade where this really wrong practice has been allowed to be moved forward, do they not recognize that exiting out of this situation, rather than just simply enforcing a regulation and cutting off supply to cheesemakers and to the people employed in that industry, requires us to evolve a solution to ensure that we do not disrupt every company in the process and that we get to the right place in the right way, so that we have a permanent solution to this problem, rather than just simply throwing enforcement at the issue?</ParaText>
@@ -3727,10 +3713,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <Affiliation DbId="214380" Type="2">Mr. James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4286468">Madam Speaker, I would say to the hon. member for Elmwood—Transcona that one does not get to that stature without drinking a little bit of milk. Strengthen those bones.</ParaText>
-              <ParaText id="4286469">
-                <B>Some hon. members:</B> Oh, oh!</ParaText>
-              <ParaText id="4286470">
-                <B>Mr. James Bezan: </B> Madam Speaker, a lot of people in here know me for the work that I do on the defence committee, but from 2006 to 2008 in the 40th Parliament, I served as chair of the agriculture committee. I was a beef cattle operator before politics. Before BSE, I ran a livestock export company that predominantly moved dairy cattle. I can tell members that protecting supply management is critical to the success of our dairy farms right across this country. That is why our processors need to work with our dairy farmers to get the products they need rather than going in the back door and trying to violate the import system and bringing in derivative products as we are seeing right now and undermining our overall supply management system. </ParaText>
+              <ParaText id="4286470">A lot of people in here know me for the work that I do on the defence committee, but from 2006 to 2008 in the 40th Parliament, I served as chair of the agriculture committee. I was a beef cattle operator before politics. Before BSE, I ran a livestock export company that predominantly moved dairy cattle. I can tell members that protecting supply management is critical to the success of our dairy farms right across this country. That is why our processors need to work with our dairy farmers to get the products they need rather than going in the back door and trying to violate the import system and bringing in derivative products as we are seeing right now and undermining our overall supply management system. </ParaText>
               <ParaText id="4286471">I am proud to support the motion that is before the House today.</ParaText>
             </Content>
           </Intervention>
@@ -3785,7 +3768,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286496">I will give a quick example from the auto sector of how this poor judgment and the lack of competition can result in real problems. Specifically, it is the Takata air bags. Because of consolidation and lack of competition, the air bags virtually became the air bags for North American automobiles. There were problems. We did not have the same problems in Canada, but they are produced in the same places with the same logistics and the same products go into those air bags. Six people died because the air bags deployed and shrapnel killed them. Now we are in the process of recall. Defective bags are still being put into cars because they do not have a solution just yet and they cannot replace them in all the cars. We did that by dependence. </ParaText>
               <ParaText id="4286497">What happens if we lose this industry and we do not have the independence to resume it? I think that is critical, because all that investment we have made over the years does not seem to be worthwhile at the end of the day.</ParaText>
               <ParaText id="4286498">I have seen it before with respect to economic development where there are some businesses that we would call loss leaders for the full advantage of the overall plan. I have seen that with the auto sector. We have gone from number two to number ten in auto manufacturing, because the auto sector was the sacrificial lamb of NAFTA. That is why we lost the Auto Pact which was developed in the 1960s and created much of the prosperity and continues to be a cornerstone in the Canadian economy, despite the challenges. This could happen with the dairy sector as well.</ParaText>
-              <ParaText id="4286499">The motions says, “recognize the magnitude of the economic losses to Canadian dairy producers from the importation of diafiltered milk from the United States, which totalled $220 million in 2015”.</ParaText>
+              <ParaText id="4286499">The motion says, “recognize the magnitude of the economic losses to Canadian dairy producers from the importation of diafiltered milk from the United States, which totalled $220 million in 2015”.</ParaText>
               <ParaText id="4286500">There is a simple example of unfairness applied, because CBSA at the border allows some of it. It becomes uncompetitive because of the laws we have and the lack of interest to actually apply them. The government was good at promising a review. It was supposed to deliver a review and a solution. It has not delivered. How do we invest in this industry right now that is so critical when all it is going to do is bring uncertainty?</ParaText>
             </Content>
           </Intervention>
@@ -3829,8 +3812,8 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor (Cowichan—Malahat—Langford, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286510">Madam Speaker, part (c) of our motion recognizes that the entire industry is standing together to call for the problem to be resolved immediately.</ParaText>
-              <ParaText id="4286511"> I just want to draw the attention of my colleague from <Affiliation DbId="214230" Type="2">Windsor West</Affiliation> to the quote from Mr. Peter Gould, who is the general manager and chief executive officer of the Dairy Farmers of Ontario. He said, “...effective border control is the foundation of a successful supply management system, of a strong domestic dairy industry, and that is the pillar in supply management that the federal government has the sole responsibility for”.</ParaText>
+              <ParaText id="4286510">Madam Speaker, part (<I>c</I>) of our motion recognizes that the entire industry is standing together to call for the problem to be resolved immediately.</ParaText>
+              <ParaText id="4286511"> I just want to draw the attention of my colleague from <Affiliation DbId="214230" Type="2">Windsor West</Affiliation> to the quote from Mr. Peter Gould, who is the general manager and chief executive officer of the Dairy Farmers of Ontario. He said, “[E]ffective border control is the foundation of a successful supply management system, of a strong domestic dairy industry, and that is the pillar in supply management that the federal government has the sole responsibility for”.</ParaText>
               <ParaText id="4286512">I wonder if my colleague can comment on the fact that it is lamentable that not only is the dairy association standing up, but so is the legislative branch standing up to the executive and reminding it of its responsibilities.</ParaText>
             </Content>
           </Intervention>
@@ -3965,7 +3948,8 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286551">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="4286552">It being 5:30 p.m., the House will now proceed to the consideration of private members' business as listed on today's order paper.</ParaText>
+              <ParaText id="4286552">
+                <B>The Assistant Deputy Speaker (Mrs. Carol Hughes):</B> It being 5:30 p.m., the House will now proceed to the consideration of private members' business as listed on today's order paper.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3985,7 +3969,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <Content>
               <ProceduralText TocType="TPC" id="10">Bill C-242. Second reading</ProceduralText>
               <ParaText id="4286553"> moved that Bill <Document DbId="8122740" Type="4">C-242, an act to amend the Criminal Code (inflicting torture)</Document>, be read the second time and referred to a committee. </ParaText>
-              <ParaText id="4286554"> He said: Madam Speaker, I stand today to formerly address my private member's bill, Bill <Document DbId="8122740" Type="4">C-242, an act to amend the Criminal Code (inflicting torture)</Document>.</ParaText>
+              <ParaText id="4286554"> He said: Madam Speaker, I stand today to formally address my private member's bill, Bill <Document DbId="8122740" Type="4">C-242, an act to amend the Criminal Code (inflicting torture)</Document>.</ParaText>
               <ParaText id="4286555">After being drawn ninth in the private members' bill lottery, I felt a responsibility to take advantage of this good fortune by putting forward a meaningful reform. I might have sought for a particular cause to be given special recognition or to have a forgotten historical event commemorated. Such initiatives certainly have their place, yet I felt the need to go in a different direction. </ParaText>
               <ParaText id="4286556">Bill <Document DbId="8122740" Type="4">C-242</Document> is a human rights bill that aims to add a torture offence to the Canadian Criminal Code.</ParaText>
               <ParaText id="4286557">Article 5 of the United Nations Declaration of Human Rights states, “No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.”</ParaText>
@@ -4092,7 +4076,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286604">When the hon. member for <Affiliation DbId="213906" Type="2">London North Centre</Affiliation> says the current laws are not good enough, I take it that he has a point. We, as parliamentarians, have a duty to ensure that the laws on the books do justice by holding perpetrators of heinous crimes accountable and do justice for the victims so that they can begin the process of healing.</ParaText>
               <ParaText id="4286605">Therefore, it is on that basis that I believe that Bill <Document DbId="8122740" Type="4">C-242</Document> deserves to go to the next step in the legislative process, to committee, for further review, further study, and further amendment. I want to thank the hon. member for <Affiliation DbId="213906" Type="2">London North Centre</Affiliation> for acknowledging that, as with all bills brought before the House in the early stages, there are often modifications and amendments that need to be made to improve the bill. </ParaText>
               <ParaText id="4286606">This is not a perfect bill. In fact, there are areas with which I have some concerns. For example, the definition of torture in Bill <Document DbId="8122740" Type="4">C-242</Document> is a different definition from the definition of torture under section 269.1 of the Criminal Code. The definition in section 269.1 of the Criminal Code is the same definition that is provided in article 1 of the United Nations convention against torture. The definition in Bill C-242, as I read it at least, seems to be more restrictive. Additionally, the sentencing in Bill <Document DbId="8122740" Type="4">C-242</Document> is different from the sentencing under section 269.1.</ParaText>
-              <ParaText id="4286607">We have a situation where, if Bill <Document DbId="8122740" Type="4">C-242</Document> passed in its current form, we could have two different definitions of torture in the Criminal Code, two different tests for torture in the Criminal Code, and two different sentences under the Criminal Code, depending on whether the torturous act were committed by a state or non-state actor. That is a problem.</ParaText>
+              <ParaText id="4286607">We have a situation where, if Bill <Document DbId="8122740" Type="4">C-242</Document> passed in its current form, we could have two different definitions of torture in the Criminal Code, two different tests for torture in the Criminal Code, and two different sentences under the Criminal Code, depending on whether the torturous acts were committed by a state or non-state actor. That is a problem.</ParaText>
               <ParaText id="4286608">However, as I say, I will support this bill so that it can move forward, because it is a well-intentioned bill and, as the hon. member says, the victims of torture deserve that we ensure that the criminal justice system and the Criminal Code fully provide the remedies that are necessary to hold perpetrators of those crimes fully accountable.</ParaText>
             </Content>
           </Intervention>
@@ -4200,7 +4184,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4286678">Mr. Speaker, I would like to echo the statements of my hon. colleague who just spoke. Linda MacDonald and Jeanne Sarson have been tireless advocates on this issue.</ParaText>
               <ParaText id="4286679"> I would also like to thank in addition to Jeanne and Linda, the Native Women's Association of Canada, Amnesty International for supporting the bill in principle, the Canadian Nurses Association of Canada, and the Canadian Federation of University Women. All have voiced either complete support, or support in principle in the case of Amnesty International, for this legislation.</ParaText>
-              <ParaText id="4286680">It is better to put forward a bill to committee that is flawed. I am even opened to definitional issues, difficult as it is for me to accept because these are acts of torture. Better to pass imperfect legislation than to leave an unjust status quo in place. That is the message I would like to deliver to my colleagues.</ParaText>
+              <ParaText id="4286680">It is better to put forward to committee a bill that is flawed. I am even open to definitional issues, difficult as it is for me to accept because these are acts of torture. It is better to pass imperfect legislation than to leave an unjust status quo in place. That is the message I would like to deliver to my colleagues.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
@@ -4238,17 +4222,17 @@ Rights and Freedoms</SubjectOfBusinessTitle>
               <ParaText id="4286685">Mr. Speaker, it is my pleasure to revisit a question I asked in the House back on December 7 related to the Speech from the Throne. </ParaText>
               <ParaText id="4286686">In the first part of the question, I talked about the comment about having a leaner military, which was almost prophetic for what we saw later in the main estimates and in the budget. In the second part of my question, I said that of the 1,700 words in the budget, not one of those 1,700 words was ISIS, ISIL, or Daesh. I want to revisit those two issues, because the replies we have been getting from the government have been incoherent.</ParaText>
               <ParaText id="4286687">The government is saying “leaner”, and we all know that leaner means cuts. It means a smaller military. It means less capabilities. We are seeing ongoing decisions by the government to withhold money from the Department of National Defence and the Canadian Armed Forces. </ParaText>
-              <ParaText id="4286688">If we look at the main estimates that were subsequently tabled, “leaner” translated into $300 million of money being cut from the main estimates. This is $300 million total that has been reduced from the main estimates. Then, in the budget that was presented by the government, we saw a defence procurement cut of $3.7 million or, as the parliamentary secretary will probably say, the money has been delayed or put off for the next five years. However, we all know in this place that any money that is deferred is potentially up for grabs by other departments, or for paying down the national debt, or reducing the deficit, or for special projects that the government may take from time to time. </ParaText>
+              <ParaText id="4286688">If we look at the main estimates that were subsequently tabled, “leaner” translated into $300 million of money being cut from the main estimates. This is $300 million total that has been reduced from the main estimates. Then, in the budget that was presented by the government, we saw a defence procurement cut of $3.7 billion or, as the parliamentary secretary will probably say, the money has been delayed or put off for the next five years. However, we all know in this place that any money that is deferred is potentially up for grabs by other departments, or for paying down the national debt, or reducing the deficit, or for special projects that the government may take from time to time. </ParaText>
               <ParaText id="4286689">Therefore, what we have here is a situation that the Liberal government is repeating itself. As we know, during the 1990s and early 2000s, we lived through what was called the “decade of darkness”. That was confirmed by the parliamentary budget officer in his report of 2015. He said:</ParaText>
               <ParaText id="4286690">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">The most significant budget cuts under program review occurred from 1995 to 2004 [...] The cumulative defence expenditure over that period of time was roughly $13.4 billion below what our modelling showed was required to maintain the existing force structure.</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">The most significant budget cuts under program review occurred from 1995 to 2004.... The cumulative defence expenditure over that period of time was roughly $13.4 billion below what our modelling showed was required to maintain the existing force structure.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4286691">He went on to say:</ParaText>
               <ParaText id="4286692">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">As a result of the underinvestment through the 1990s [...] the cumulative affordability gap that existed until the early 2000s. The model shows that it was only with the significant spending increases seen in the latter half of the 2000s that the affordability gap was closed.</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">As a result of the underinvestment through the 1990s, the model illustrates the cumulative affordability gap that existed until the early 2000s. The model shows that it was only with the significant spending increases seen in the latter half of the 2000s that the affordability gap was closed.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4286693">Of course, that affordability gap was closed by our Conservative government of the day.</ParaText>
@@ -4417,7 +4401,7 @@ Rights and Freedoms</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4286766">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk?>10 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1). <?ek?></ParaText>
+              <ParaText id="4286766">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk ?>10 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1). <?ek ?></ParaText>
               <ParaText id="4286767">(The House adjourned at 6:41 p.m.)</ParaText>
             </Content>
           </Intervention>

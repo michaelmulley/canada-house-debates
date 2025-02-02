@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="10524930">
-  <StartPageNumber>26073</StartPageNumber>
+  <StartPageNumber>26035</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -60,7 +60,7 @@
       <CatchLine>Private Members' Business</CatchLine>
       <SubjectOfBusiness id="10524952">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Fraud Against Seniors</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessTitle>Fraud Against Seniors</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Wong" id="10524944">
             <PersonSpeaking>
@@ -261,13 +261,13 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10525039">
         <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
-        <SubjectOfBusinessTitle>Business of the House</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Chagger" id="10524993">
             <PersonSpeaking>
               <Affiliation DbId="224669" Type="4">Hon. Bardish Chagger (Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829196">Mr. Speaker, I would like to inform the House that Wednesday, March 20, 2019, shall be an allotted day.</ParaText>
+              <ParaText id="5829196">Mr. Speaker, I would like to inform the House that Wednesday, March 20 shall be an allotted day.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="10524994">
@@ -332,7 +332,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10525001">
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Government Accountability</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Statements by Minister of Justice and Parliamentary Secretary to Minister of Justice</SubjectOfBusinessQualifier>
         <CatchLine>Privilege</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Julian" id="10525002">
@@ -572,7 +572,7 @@
         <SubjectOfBusinessTitle>Criminal Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="3">Bill C-84. Report stage</ProceduralText>
-          <ParaText id="5829298">The House proceeded to the consideration of Bill <Document DbId="10082996" Type="3">C-84</Document>, an act to amend the Criminal Code (bestiality and animal fighting), as reported (with amendment) from the committee.</ParaText>
+          <ParaText id="5829298">The House proceeded to the consideration of Bill <Document DbId="10082996" Type="3">C-84</Document>, an act to amend the Criminal Code (bestiality and animal fighting), as reported (with amendments) from the committee.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="10525033">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
@@ -933,12 +933,6 @@
             <Content>
               <ProceduralText TocType="TPC" id="5">Motion agreed to</ProceduralText>
               <ParaText id="5829312">I declare the motion carried.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10525131">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
               <ParaText id="5829313">When shall the bill be read a third time? By leave, now?</ParaText>
               <ParaText id="5829314">
                 <B>Some hon. members: </B>Agreed.</ParaText>
@@ -1381,7 +1375,7 @@
             <Content>
               <ParaText id="5829463">Mr. Speaker, when Ethiopian Airlines flight 302 crashed last week, Yusuf Abdullahi lost his sister, Amina Ibrahim Odowa, and her five-year-old daughter, Sofia Abdulkadir, both Edmontonians. </ParaText>
               <ParaText id="5829464">Yesterday, Abdullahi attended a candlelight vigil alongside dozens of Edmontonians to honour his family and the other 155 passengers aboard the Ethiopian Airlines flight. The same vigil commemorated the victims of Friday's mosque shootings in Christchurch, New Zealand. Fifty people were killed in the attacks and dozens more were injured.</ParaText>
-              <ParaText id="5829465"> Mr. Adbdullahi remarked that “Every family is going through pain. The families of those people who were killed in the mosque, they are going through the same pain I went through, my family went through.”</ParaText>
+              <ParaText id="5829465"> Mr. Abdullahi remarked that “Every family is going through pain. The families of those people who were killed in the mosque, they are going through the same pain I went through, my family went through.”</ParaText>
               <ParaText id="5829466">Also lost in the crash was former Edmonton resident, Darcy Belanger, and other Canadians headed to the UN Environment Assembly in Nairobi, to aid projects or to go to family reunions. </ParaText>
               <ParaText id="5829467">On behalf of the NDP, I offer our deepest condolences to all those who have lost family, friends and loved ones as a result of this tragedy.</ParaText>
             </Content>
@@ -1521,7 +1515,7 @@
               <Affiliation DbId="232947" Type="96">Hon. Andrew Scheer (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5829487">Mr. Speaker, I thank the Prime Minister.</ParaText>
-              <ParaText id="5829488">The former <Affiliation DbId="214558" Type="2">attorney general of Canada</Affiliation> confirmed that the Prime Minister and his staff subjected her to consistent and sustained political pressure to end criminal prosecution of SNC-Lavalin. The Prime Minister has retained the services of a lawyer to defend him against potential criminal charges. If he really wants to get to the bottom of what happened, he can waive solicitor-client privilege and allow the former attorney general to say everything she wants to say.</ParaText>
+              <ParaText id="5829488">The former <Affiliation DbId="214558" Type="2">attorney general of Canada</Affiliation> confirmed that the Prime Minister and his staff subjected her to consistent and sustained political pressure to end the criminal prosecution of SNC-Lavalin. The Prime Minister has retained the services of a lawyer to defend him against potential criminal charges. If he really wants to get to the bottom of what happened, he can waive solicitor-client privilege and allow the former attorney general to say everything she wants to say.</ParaText>
               <ParaText id="5829489">When will he do that?</ParaText>
             </Content>
           </Intervention>
@@ -1530,7 +1524,7 @@
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5829490"> Mr. Speaker, Canadians deserve to have faith in their institutions and the people who serve in them. The events of the last few weeks have raised important questions about the relationship between the federal government and the Minister of Justice and Attorney General.</ParaText>
-              <ParaText id="5829491">Today I am announcing that the Hon. Anne McLellan will serve as special adviser to examine these question and make independent recommendations. As a former minister of justice and attorney general and deputy prime minister, she has a unique understanding of these roles. Her work will help—</ParaText>
+              <ParaText id="5829491">Today I am announcing that the Hon. Anne McLellan will serve as special adviser to examine these questions and make independent recommendations. As a former minister of justice and attorney general and deputy prime minister, she has a unique understanding of these roles. Her work will help—</ParaText>
               <ParaText id="5829492">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
@@ -1555,7 +1549,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829496">Mr. Speaker, Canadians expect and deserve to have faith in the institutions and the people who serve in them. The events of the last few weeks have raised important questions about the relationship between the federal government and the Minister of Justice and Attorney General.</ParaText>
+              <ParaText id="5829496">Mr. Speaker, Canadians expect and deserve to have faith in their institutions and the people who serve in them. The events of the last few weeks have raised important questions about the relationship between the federal government and the Minister of Justice and Attorney General.</ParaText>
               <ParaText id="5829497"> I am therefore announcing that the Hon. Anne McLellan will serve as special adviser to examine these questions and provide independent recommendations to us. As former minister of justice and attorney general and deputy prime minister, she is uniquely suited for this role. Her work will be another important step toward maintaining Canadians' confidence in their institutions.</ParaText>
             </Content>
           </Intervention>
@@ -1563,8 +1557,8 @@
             <PersonSpeaking>
               <Affiliation DbId="232947" Type="96">Hon. Andrew Scheer (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829498">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is right. Canadians should have confidence in their institutions, but it is his actions and those around him that have eroded that confidence.</ParaText>
-              <ParaText id="5829499">Remember that on February 7, the Prime Minister said that all these allegations were completely false. We then saw two ministers resign on principle. Then his former principal secretary, Gerald Butts, had to resign in disgrace. Today, the Clerk of the Privy Council had to do the exact same thing.</ParaText>
+              <ParaText id="5829498">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is right. Canadians should have confidence in their institutions, but it is his actions and those around him who have eroded that confidence.</ParaText>
+              <ParaText id="5829499">Remember that on February 7 the Prime Minister said that all these allegations were completely false. We then saw two ministers resign on principle. Then his former principal secretary, Gerald Butts, had to resign in disgrace. Today, the Clerk of the Privy Council had to do the exact same thing.</ParaText>
               <ParaText id="5829500">If the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> wants to restore confidence, he can let the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation> complete her testimony, starting tomorrow at the justice committee.</ParaText>
             </Content>
           </Intervention>
@@ -1593,7 +1587,7 @@
             <PersonSpeaking>
               <Affiliation DbId="232947" Type="96">Hon. Andrew Scheer (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829507">Mr. Speaker, the premise of made a little mistake, it is not the events of the last few weeks that led to the erosion of trust. It was the coordinated, unwanted and sustained campaign of political pressure on the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation> that eroded trust under his government. </ParaText>
+              <ParaText id="5829507">Mr. Speaker, the Prime Minister made a little mistake, it is not the events of the last few weeks that led to the erosion of trust. It was the coordinated, unwanted and sustained campaign of political pressure on the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation> that eroded trust under his government. </ParaText>
               <ParaText id="5829508">Other people have had the ability to come back to complete their testimony, but so far the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is denying that right to the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation>. She wrote a letter saying that this matter was serious and that some questions remained unanswered. She can answer those questions if the Prime Minister lets her. Will he?</ParaText>
             </Content>
           </Intervention>
@@ -1654,7 +1648,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829521">Mr. Speaker, for many years, governments of different political strips failed to take action. Now, our government is implementing concrete measures to fight climate change.</ParaText>
+              <ParaText id="5829521">Mr. Speaker, for many years, governments of different political stripes failed to take action. Now, our government is implementing concrete measures to fight climate change.</ParaText>
               <ParaText id="5829522">We have put a price on pollution. We launched a historic plan to protect our oceans, our land and our marine areas. We have made record investments in renewable energy and in greener solutions for our businesses and entrepreneurs. We will continue to believe that the only way to protect the environment is to create economic growth at the same time, and that is what we are going to do.</ParaText>
             </Content>
           </Intervention>
@@ -1689,7 +1683,7 @@
             <Content>
               <ParaText id="5829529">Mr. Speaker, the only job the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is concerned about is his own.</ParaText>
               <ParaText id="5829530">The OECD's anti-bribery unit is concerned about political interference and said this scandal set “all alarms sounding”.</ParaText>
-              <ParaText id="5829531">For Canadians watching at home, this does not look any different than when the Conservatives were in power: special access for powerful corporations, a closed door for everyone else.</ParaText>
+              <ParaText id="5829531">For Canadians watching at home, this does not look any different from when the Conservatives were in power: special access for powerful corporations, a closed door for everyone else.</ParaText>
               <ParaText id="5829532">Why is the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> so afraid to launch a public inquiry?</ParaText>
             </Content>
           </Intervention>
@@ -1786,6 +1780,8 @@
               <Affiliation DbId="224669" Type="4">Hon. Bardish Chagger (Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5829558">Mr. Speaker, what is clear is that we have regard and respect for the work that committees do. We have—</ParaText>
+              <ParaText id="5846485">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10525320">
@@ -1827,8 +1823,8 @@
             <PersonSpeaking>
               <Affiliation DbId="214139" Type="2">Ms. Tracey Ramsey (Essex, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829570">Mr. Speaker, last week at the justice committee emergency meeting, Liberal MPs shut down debate on the PMO's interference scandal. Tomorrow, Liberals intend to hold a meeting out of the public eye, behind closed doors. They keep telling Canadians there is nothing to see here, that it is just procedural. The fact is that the former <Affiliation DbId="214323" Type="21">attorney general</Affiliation>wants to tell her whole truth, but the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> refuses to let Canadians hear it. This is a deliberate obstruction of justice. </ParaText>
-              <ParaText id="5829571">Canadians deserve the truth. Will the Prime Minister do the right thing and allow the former <Affiliation DbId="214558" Type="2">attorney general</Affiliation> to speak her whole truth for Canadians to hear—yes or no?</ParaText>
+              <ParaText id="5829570">Mr. Speaker, last week at the justice committee emergency meeting, Liberal MPs shut down debate on the PMO's interference scandal. Tomorrow, Liberals intend to hold a meeting out of the public eye, behind closed doors. They keep telling Canadians there is nothing to see here, that it is just procedural. The fact is that the former <Affiliation DbId="214323" Type="21">attorney general</Affiliation> wants to tell her whole truth, but the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> refuses to let Canadians hear it. This is a deliberate obstruction of justice. </ParaText>
+              <ParaText id="5829571">Canadians deserve the truth. Will the Prime Minister do the right thing and allow the former <Affiliation DbId="214558" Type="2">attorney general</Affiliation> to speak her whole truth for Canadians to hear, yes or no?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="45">(1445)</Timestamp>
@@ -1872,7 +1868,7 @@
               <Affiliation DbId="224669" Type="4">Hon. Bardish Chagger (Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5829582">Mr. Speaker, we know that the government waived cabinet confidence and solicitor-client privilege so that the former minister could speak fully. We know that the members of the Standing Committee on Justice and Human Rights are doing their work and asking questions. We know that the former attorney general testified for four hours and answered many questions. We saw them keep asking the same questions and get the same answers.</ParaText>
-              <ParaText id="5829583">We can also see that the member was reading a question given to her by the House Leader of the Official Opposition. She cannot ask her own questions. She has to do what her leader tells her to do.</ParaText>
+              <ParaText id="5829583">We can also see that the member was reading a question given to her by the House leader of the official opposition. She cannot ask her own questions. She has to do what her leader tells her to do.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -1891,7 +1887,7 @@
             <Content>
               <ParaText id="5829586">Mr. Speaker, exactly as that member has asked, I would like to reassure Canadians and international partners that the rule of law is intact in Canada.</ParaText>
               <ParaText id="5829587">I would like to reassure Canadians that they can have trust and faith in our democratic institutions. It is the justice committee that is doing its important work, and it continues to do so. The Conflict of Interest and Ethics Commissioner is studying this matter. We know that they will do their important work.</ParaText>
-              <ParaText id="5829588">We know that there are two ongoing investigations, courts cases. We know that we can have confidence in the independence of our judicial system. We have confidence, and Canadians can too.</ParaText>
+              <ParaText id="5829588">We know that there are two ongoing investigations, court cases. We know that we can have confidence in the independence of our judicial system. We have confidence, and Canadians can too.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Falk (Battlefords—Lloydminster)" id="10525352">
@@ -1916,7 +1912,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214456" Type="2">Ms. Rachael Harder (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829595">Mr. Speaker, imagine that, she was there for about four and a half hours. She was allowed to speak, yet she told us and all Canadians that she has more to say, that her testimony has not been made complete.</ParaText>
+              <ParaText id="5829595">Mr. Speaker, imagine that. She was there for about four and a half hours. She was allowed to speak, yet she told us and all Canadians that she has more to say, that her testimony has not been made complete.</ParaText>
               <ParaText id="5829596">My question is very simple. Canadians want a full story. They want to understand the full picture here. They do not see why the government is shutting down the justice committee and not allowing the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation> to speak. </ParaText>
               <ParaText id="5829597">Parliament belongs to Canadians. They deserve answers. Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> end the cover-up and let her speak?</ParaText>
             </Content>
@@ -1940,7 +1936,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214056" Type="2">Ms. Anne Minh-Thu Quach (Salaberry—Suroît, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829601">Mr. Speaker, speaking of not having a plan, more than 150,000 students in Quebec went on strike on Friday to call for action on climate change. They are calling on governments to take action to limit global warming to 1.5 degrees Celsius. They are sounding the alarm because the government is getting further and further away from its greenhouse gas reduction targets every year.</ParaText>
+              <ParaText id="5829601">Mr. Speaker, speaking of not having a plan, more than 150,000 students in Quebec went on strike on Friday to call for action on climate change. They are calling on governments to take action to limit global warming to 1.5<Sup>o</Sup> Celsius. They are sounding the alarm because the government is getting further and further away from its greenhouse gas reduction targets every year.</ParaText>
               <ParaText id="5829602">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> eliminate subsidies for the oil and gas industries?</ParaText>
               <ParaText id="5829603">Will he show some political courage by proposing measures to reduce pollution and investing in renewable energy, or will students have to jeopardize their education to get their message across?</ParaText>
             </Content>
@@ -2024,7 +2020,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213974" Type="2">Mr. Jacques Gourde (Lévis—Lotbinière, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829618">Mr. Speaker, for the Prime Minister, the SNC-Lavalin saga is turning into an outright corruption scandal, the likes of which have never been seen in Canada. A prime minister who refuses to accept the decision of his own country's attorney general and even refuses to allow her to immediately explain why no longer deserves to govern.</ParaText>
+              <ParaText id="5829618">Mr. Speaker, for the Prime Minister, the SNC-Lavalin saga is turning into an outright corruption scandal, the likes of which have never been seen in Canada. A Prime Minister who refuses to accept the decision of his own country's Attorney General, and even refuses to allow her to immediately explain why, no longer deserves to govern.</ParaText>
               <ParaText id="5829619">We have even learned that the Prime Minister has hired outside lawyers to prepare his defence. </ParaText>
               <ParaText id="5829620">Why is the Prime Minister preparing his defence? Will he stop hiding the truth from Canadians?</ParaText>
             </Content>
@@ -2034,7 +2030,7 @@
               <Affiliation DbId="224669" Type="4">Hon. Bardish Chagger (Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5829621">Mr. Speaker, the members of the Standing Committee on Justice and Human Rights took the time to hear from witnesses who came to answer questions.</ParaText>
-              <ParaText id="5829622">We know that the members of the Standing Committee on Justice and Human Rights have been studying this matter for five weeks now. The Conflict of Interest and Ethics Commissioner is also looking into this matter. We know that we can count on the work done by the committee and the Office of the Ethics Commissioner.</ParaText>
+              <ParaText id="5829622">We know that the members of the Standing Committee on Justice and Human Rights have been studying this matter for five weeks now. The Conflict of Interest and Ethics Commissioner is also looking into this matter. We know that we can count on the work done by the committee and the office of the Ethics Commissioner.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2051,7 +2047,7 @@
             <PersonSpeaking>
               <Affiliation DbId="224669" Type="4">Hon. Bardish Chagger (Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829625">Mr. Speaker, I think it is important that that member recognize that when it comes to the rule of law in Canada, it is intact, and it is being followed. We also know that in Canada, we have institutions and officers of Parliament who are able to do their work. We know that the Conflict of Interest and Ethics Commissioner is looking into this matter. </ParaText>
+              <ParaText id="5829625">Mr. Speaker, I think it is important the member recognize that when it comes to the rule of law in Canada, it is intact and it is being followed. We also know that in Canada, we have institutions and officers of Parliament who are able to do their work. We know that the Conflict of Interest and Ethics Commissioner is looking into this matter. </ParaText>
               <ParaText id="5829626">We have confidence that they are able to do that important work, something the Conservatives did not understand for 10 years. It is clear that they do not seem to comprehend that now. </ParaText>
               <ParaText id="5829627">We know that there is an ongoing court case. We will let the independent judicial system do its important work, because we know that it should.</ParaText>
             </Content>
@@ -2083,7 +2079,7 @@
               <Affiliation DbId="214284" Type="2">Mr. Pierre Nantel (Longueuil—Saint-Hubert, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5829632">Mr. Speaker, as we all know, our media industry is going through an unprecedented crisis. Last year, the government promised a tax credit and other measures to support Canadian journalism. A few announcements were made, but since then, there has been radio silence. The government issued a news release, but it has not provided any money or anything concrete.</ParaText>
-              <ParaText id="5829633"> Now, rumour has it that the government is planning to delay all this until just after the election. Funnily enough, Facebook and Google have no trouble securing a meeting with the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> or a massive tax break. Meanwhile, our media industry is crumbling, and thousands of Canadian jobs are at risk. </ParaText>
+              <ParaText id="5829633"> Now rumour has it that the government is planning to delay all this until just after the election. Funnily enough, Facebook and Google have no trouble securing a meeting with the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> or a massive tax break. Meanwhile, our media industry is crumbling and thousands of Canadian jobs are at risk. </ParaText>
               <ParaText id="5829634">How many more years will the media have to wait?</ParaText>
             </Content>
           </Intervention>
@@ -2127,7 +2123,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829642">Mr. Speaker, now the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is bringing in a politician from the era of the Liberal ad scam to investigate today's Liberal “Lav” scam. However, Anne McLellan is a bit busy right now. In fact, on March 31, people can meet with her if they donate to the Liberal Party and attend a fundraiser. I guess that is where they will discuss this independent investigation.</ParaText>
+              <ParaText id="5829642">Mr. Speaker, now the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is bringing in a politician from the era of the Liberal ad scam to investigate today's Liberal Lav scam. However, Anne McLellan is a bit busy right now. In fact, on March 31, people can meet with her if they donate to the Liberal Party and attend a fundraiser. I guess that is where they will discuss this independent investigation.</ParaText>
               <ParaText id="5829643">I have a better idea. Tomorrow the justice committee will meet in the morning to decide whether to bring back the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation> to complete her testimony. Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> let her speak?</ParaText>
             </Content>
           </Intervention>
@@ -2138,6 +2134,8 @@
             <Content>
               <ParaText id="5829644">Mr. Speaker, we have committees in which parliamentarians and members of Parliament sit. The justice committee is the committee the member refers to. It is doing its important work, and we believe it should be able to.</ParaText>
               <ParaText id="5829645">It was this <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>—</ParaText>
+              <ParaText id="5846486">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10525415">
@@ -2159,7 +2157,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829649">So, Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s top adviser has resigned. His <Affiliation DbId="214558" Type="2">attorney general</Affiliation> has resigned. His <Affiliation DbId="214288" Type="2">Treasury Board president</Affiliation> has resigned. Now the head of the entire public service has resigned. No one did anything wrong, but everybody is resigning for it.</ParaText>
+              <ParaText id="5829649">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s top adviser has resigned. His <Affiliation DbId="214558" Type="2">Attorney General</Affiliation> has resigned. His <Affiliation DbId="214288" Type="2">Treasury Board president</Affiliation> has resigned. Now the head of the entire public service has resigned. No one did anything wrong, but everybody is resigning for it.</ParaText>
               <ParaText id="5829650">We know something happened here, something bad enough that the <Affiliation DbId="214558" Type="2">former attorney general</Affiliation> could no longer be part of the government at all, but she has not been able to tell us why. Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> join with us tomorrow morning at the justice committee to let her speak?</ParaText>
             </Content>
           </Intervention>
@@ -2176,7 +2174,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829654">Yes, Mr. Speaker, she did appear and the Conservative deputy leader asked her this, “Can you tell us why you've resigned from cabinet?” The answer was, “I cannot”. The reason is that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> kept in a gag order for the period after he moved her out of the position of attorney general. During that period, she witnessed events so egregious she thought it merited her resignation from cabinet altogether.</ParaText>
+              <ParaText id="5829654">Yes, Mr. Speaker, she did appear and the Conservative deputy leader asked her this, “Can you tell us why you've resigned from cabinet?” The answer was, “I cannot”. The reason is that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> kept in a gag order for the period after he moved her out of the position of Attorney General. During that period, she witnessed events so egregious she thought it merited her resignation from cabinet altogether.</ParaText>
               <ParaText id="5829655"> If the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has nothing to hide, tomorrow morning he will show up at the justice committee and have his members vote in favour of letting her speak. Will he?</ParaText>
             </Content>
           </Intervention>
@@ -2226,7 +2224,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214171" Type="2">Mr. Luc Berthold (Mégantic—L'Érable, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829664">Mr. Speaker, where there is smoke, there is fire, and that fire is burning so fiercely in the Prime Minister's Office that they had to call in the firefighters. News surfaced this weekend that private-sector lawyers have been hired for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and cabinet members named in the cover-up.</ParaText>
+              <ParaText id="5829664">Mr. Speaker, where there is smoke, there is fire, and that fire is burning so fiercely in the Prime Minister's Office that they had to call in the firefighters. News surfaced this weekend that private sector lawyers have been hired for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and cabinet members named in the cover-up.</ParaText>
               <ParaText id="5829665">Rather than waste Canadian taxpayers' money, will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> come clean tomorrow at the Standing Committee on Justice and Human Rights?</ParaText>
               <ParaText id="5829666">Did the RCMP contact him or his office about political interference in criminal proceedings against SNC-Lavalin, yes or no?</ParaText>
             </Content>
@@ -2607,7 +2605,7 @@
               <ParaText id="5829780">Once again last Friday, people around the world were horrified by the hateful act of a terrorist who robbed 50 innocent people of their lives in Christchurch, New Zealand. Fifty people were killed simply because they wanted to practise their religion in peace.</ParaText>
               <ParaText id="5829781">On behalf of the Bloc Québécois, I wish to extend my deepest condolences to the victims' loved ones, the citizens of Christchurch and the people of the Muslim faith. Muslims there, like here, feel less safe today than they did yesterday.</ParaText>
               <ParaText id="5829782">I wish them the courage they will need to get through this ordeal. I want to tell them that we stand with them, that we join everyone else around the world who stands in solidarity with them. I want them to know that humanity will triumph over this horror and hate. </ParaText>
-              <ParaText id="5829783">I want to tell them that, despite their pain, they will see that their community is full of heros, people like Abdul Aziz, more than they could have imagined, people willing to sacrifice everything for their fellow humans, and that together they will find the strength to face every new day.</ParaText>
+              <ParaText id="5829783">I want to tell them that, despite their pain, they will see that their community is full of heroes, people like Abdul Aziz, more than they could have imagined, people willing to sacrifice everything for their fellow humans, and that together they will find the strength to face every new day.</ParaText>
               <ParaText id="5829784">The Christchurch tragedy shows that we need to remember that hatred toward Muslims is unacceptable and must be condemned at every opportunity. It is important to reiterate that. We need to condemn every word before it poisons the atmosphere, before that atmosphere turns into irreparable acts, before the actions taken by a murderer in Sainte-Foy become an inscription on the gun of a terrorist in New Zealand, on the other side of the world. That is our responsibility, one that we must fulfill in memory of all those who lost their lives in Christchurch.</ParaText>
               <ParaText id="5829785">It is important to remember that everyone has the right to worship as they see fit, should they choose to do so, without any fear for their safety. Everyone has the right to worship freely. That is one of the pillars of our society, of our rule of law. It is one of the most fundamental freedoms of the western world, one that must be upheld at any cost.</ParaText>
               <ParaText id="5829786">We must remember that freedom that unites us and tirelessly condemn the hate speech that divides us. We need to condemn those words of hate before they take root. We need to tirelessly condemn the conspiracy theories that cloud the judgment of the easily impressionable. That is everyone's responsibility and we must fulfill it in memory of all those who lost their lives, not only in Christchurch, but also in Sainte-Foy, at the École Polytechnique, in Paris, in Nice, in Charleston, in Pittsburgh, in Norway and anywhere else where hatred momentarily won out over compassion.</ParaText>
@@ -2682,7 +2680,9 @@
             <PersonSpeaking>
               <Affiliation DbId="213892" Type="2">Mr. Michael Cooper (St. Albert—Edmonton, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829807">Mr. Speaker, I will be splitting my time with the hon. member for <Affiliation DbId="213919" Type="2">Wellington—Halton Hills</Affiliation>.</ParaText>
+              <ProceduralText TocType="TPC" id="14">Motion for concurrence</ProceduralText>
+              <ParaText id="5829807">Mr. Speaker, I move that the 14th report of the Standing Committee on Justice and Human Rights presented on Wednesday, June 7, 2017, be concurred in.</ParaText>
+              <ParaText id="5829807">I will be splitting my time with the hon. member for <Affiliation DbId="213919" Type="2">Wellington—Halton Hills</Affiliation>.</ParaText>
               <ParaText id="5829808">For the past six weeks, we have seen a government that is in total chaos, unable to govern and riddled with resignations to cover up corruption at the highest levels of government, corruption that goes right to the top, right to the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> himself.</ParaText>
               <ParaText id="5829809">It is very clear, based upon the chronological, detailed and compelling testimony of the former <Affiliation DbId="214558" Type="2">attorney general</Affiliation>, the hon. member for <Affiliation DbId="214558" Type="2">Vancouver Granville</Affiliation>, when she appeared before the justice committee that there was a concerted and coordinated campaign directed by the Prime Minister to put pressure on the former attorney general to interfere in the prosecution of SNC-Lavalin. </ParaText>
               <ParaText id="5829810">It is very clear that the conduct of the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and his top officials is completely in appropriate, but it might be worse: It might indeed have crossed the line of criminality.</ParaText>
@@ -2757,7 +2757,7 @@
               <ParaText id="5829841">The House of Commons, its committees and its parliamentary parties, recognized under the Parliament of Canada Act, can vote to censor the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. They can vote to hold the Prime Minister or the government in contempt of Parliament. They can remove the Prime Minister as head of the Liberal parliamentary party and replace him with another leader. That is how this matter needs to be resolved. It is this legislature and its committees that need to hold the executive branch of government accountable for this serious constitutional breach of the independence of our judicial system. </ParaText>
               <ParaText id="5829842">However, it is clear that the justice committee, being under the control of the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and the Prime Minister's Office, has been unwilling or unable to hold the executive branch of government accountable, in part because members of committees are all appointed and essentially sit at the pleasure of the party leader. In the case of the justice committee, the majority of members are appointed by the Prime Minister through his designates.</ParaText>
               <ParaText id="5829843">That is the problem here, and that is why the House needs to order the justice committee to do its work. That is why I am going to move an amendment to the motion on the floor right now, which is seconded by the member for <Affiliation DbId="214388" Type="2">Calgary Shepard</Affiliation>. I move:</ParaText>
-              <ProceduralText TocType="TPC" id="14">Amendment</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Amendment</ProceduralText>
               <ParaText id="5829844">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the motion be amended by deleting all the words after the word “That” and substituting the following:</QuotePara>
@@ -2876,7 +2876,7 @@
               <ParaText id="5829891">The remediation agreement regime was studied at length in Canada-wide consultations. Following that study, it was proposed in legislation. That legislation was then studied by the finance committee and the justice committee of the House of Commons as well as a Senate committee. That remediation regime was then enacted into law and fully gazetted in an open and transparent manner to the public. </ParaText>
               <ParaText id="5829892">As has been stated on different occasions in the context of debates that we have been having over the past five or six weeks, the remediation agreement regime exists in five member countries of the G7. Those include the United States, Britain, France, Japan and now Canada. What we are doing by invoking a remediation agreement regime is harmonizing Canadian law with the laws of many other western democratic nations, particularly many other western democratic nations with whom we have trading relationships, which is an important point.</ParaText>
               <ParaText id="5829893">What is misunderstood here is this notion of what the remediation agreement concept invokes, or more specifically what it involves. There have been active discussions about whether the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> invoking the necessity and propriety of discussing jobs and job impacts was in fact appropriate. The position of Her Majesty's official opposition, articulated even earlier this afternoon, is that somehow that was inappropriate. </ParaText>
-              <ParaText id="5829894">I want to read this into the record so that is is absolutely crystal clear. This is how one would conduct this matter if we were debating it in a much more rigorous way in a court of law. One would look to the statute for guidance.</ParaText>
+              <ParaText id="5829894">I want to read this into the record so that is absolutely crystal clear. This is how one would conduct this matter if we were debating it in a much more rigorous way in a court of law. One would look to the statute for guidance.</ParaText>
               <ParaText id="5829895">Section 715.31 of the Criminal Code of Canada says:</ParaText>
               <ParaText id="5829896">
                 <Quote>
@@ -2946,7 +2946,7 @@
             <PersonSpeaking>
               <Affiliation DbId="245285" Type="4">Hon. Seamus O'Regan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5829918">Madam Speaker, I am rising on a point of order to table the government's response to Order Paper Questions Nos. 2149 and 2191.</ParaText>
+              <ParaText id="5829918">Madam Speaker, I am rising on a point of order to table the government's response to Order Paper Questions Nos. 2149 to 2191.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10527016" ToCText="">
@@ -3052,7 +3052,7 @@
               <ParaText id="5829960">We still see the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s Office attempting to get around this. The new <Affiliation DbId="245292" Type="21">Attorney General</Affiliation> was put in and the former <Affiliation DbId="214558" Type="2">attorney general</Affiliation> said that his first order of business was going to be SNC-Lavalin. The PMO is still talking about supposed new evidence that allows it to cut a deal and help its friends at SNC-Lavalin despite the fact that this has completely damaged the Prime Minister's credibility on reconciliation and completely damaged his credibility as a so-called feminist prime minister and completely damaged his reputation on accountability, but he still has to deliver for the friends of the Liberal Party. </ParaText>
               <ParaText id="5829961">That is the toxic, corrosive power of the 1%, and it is what is driving the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s agenda into the ground.</ParaText>
               <ParaText id="5829962">Today the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> announced a solution to this crisis. He has ignored calls for an independent inquiry. What the Prime Minister sees an independent inquiry is to find a Liberal out doing the hustings and raising cash for the Liberal Party, a Liberal who was involved in Adscam in the worst days of sponsorship, and bring someone back from the sponsorship scandal who is doing fundraising for the Liberal Party to look at whether Liberals broke the law on the independence of the Public Prosecution Service in order to help Liberal friends. That is so politically toxic.</ParaText>
-              <ParaText id="5829963">I almost feel we should call Gerry Butts back just to try to help the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, the MP for<Affiliation DbId="214115" Type="2">Papineau</Affiliation>, get out of this hole that he keeps digging. Liberals do not seem to understand that if they keep going back to that toxic partisan Liberal well, keep going back to the rum-bottle politics with which they have run business on the banks of the Rideau for the last 150 years, keep going back to that toxic relationship of insider friends, it is going to continue to burn the Prime Minister. </ParaText>
+              <ParaText id="5829963">I almost feel we should call Gerry Butts back just to try to help the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, the MP for <Affiliation DbId="214115" Type="2">Papineau</Affiliation>, get out of this hole that he keeps digging. Liberals do not seem to understand that if they keep going back to that toxic partisan Liberal well, keep going back to the rum-bottle politics with which they have run business on the banks of the Rideau for the last 150 years, keep going back to that toxic relationship of insider friends, it is going to continue to burn the Prime Minister. </ParaText>
               <ParaText id="5829964">I urge the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to do the right thing and let the former <Affiliation DbId="214558" Type="2">attorney general</Affiliation> speak. I urge him to remove all the hand puppets on the justice committee who are interfering, to stop hiding and come clean with Canadians and tell us just how far he is willing to go in order to help his friends at SNC-Lavalin, even if it means undermining the rule of law in Canada. </ParaText>
             </Content>
           </Intervention>
@@ -3230,6 +3230,7 @@
               <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
               <ParaText id="5830056">I ran out of time. I was hoping to speak about committees. </ParaText>
               <ParaText id="5830057">At this time, I move:</ParaText>
+              <ProceduralText TocType="TPC" id="16">Motion</ProceduralText>
               <ParaText id="5830058">
                 <Quote>
                   <QuotePara Align="Left">That the debate be now adjourned.</QuotePara>
@@ -3625,7 +3626,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="15">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Motion agreed to</ProceduralText>
               <ParaText id="5830079">I declare the motion carried.</ParaText>
             </Content>
           </Intervention>
@@ -3640,7 +3641,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="5830080"> moved:</ParaText>
-              <ProceduralText TocType="TPC" id="16">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="18">Motion</ProceduralText>
               <ParaText id="5830081">
                 <Quote>
                   <QuotePara IndentFirst="2" IndentRest="1">That it be an instruction to the Standing Committee on Fisheries and Oceans that, during its consideration of Bill S-203, An Act to amend the Criminal Code and other Acts (ending the captivity of whales and dolphins), the Committee be granted the power to travel throughout Canada to hear testimony from interested parties and that the necessary staff do accompany the Committee, provided that the travel does not exceed 15 sitting days.</QuotePara>
@@ -3708,7 +3709,7 @@
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5830103">The vote has been deferred until 3:55 p.m. tomorrow.</ParaText>
-              <ProceduralText TocType="TPC" id="17">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="19">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3914,11 +3915,6 @@
                 <B>Some hon. members:</B> No.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="10528400">
-        <SubjectOfBusinessQualifier>Human Organ Trafficking</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kent" id="10528273">
             <PersonSpeaking>
               <Affiliation DbId="214192" Type="2">Hon. Peter Kent (Thornhill, CPC)</Affiliation>: </PersonSpeaking>
@@ -4013,7 +4009,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10528311">
-        <SubjectOfBusinessQualifier>Questions on the Order Paper</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessTitle>Questions on the Order Paper</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="10528289">
             <PersonSpeaking>
@@ -4614,7 +4610,7 @@ including wind, make an important contribution to Canada’s energy mix. In Cana
         <SubjectOfBusinessTitle>Corrections and Conditional Release Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="5830272">The House resumed consideration from March 1 of the motion that Bill <Document DbId="10078426" Type="3">C-83, An Act to amend the Corrections and Conditional Release Act and another Act</Document>, be read the third time and passed.</ParaText>
-          <ProceduralText TocType="TPC" id="18">Bill C-83. Third reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="20">Bill C-83. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10528320">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -4946,9 +4942,9 @@ including wind, make an important contribution to Canada’s energy mix. In Cana
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="19">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="21">Motion agreed to</ProceduralText>
               <ParaText id="5830276">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TCC" id="20">(Bill read the third time and passed)</ProceduralText>
+              <ProceduralText TocType="TCC" id="22">(Bill read the third time and passed)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

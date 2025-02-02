@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9389628">
-  <StartPageNumber>9127</StartPageNumber>
+  <StartPageNumber>9125</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -725,7 +707,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214458" Type="2">M. Jim Eglinski (Yellowhead, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762296">Madame la Présidente, je suis heureux de partager mon temps de parole avec mon collègue, le député de <Affiliation DbId="214107" Type="2">Portneuf—Jacques-Cartier</Affiliation>.</ParaText>
+              <ParaText id="4762296">Madame la Présidente, je suis heureux de partager mon temps de parole avec mon collègue le député de <Affiliation DbId="214107" Type="2">Portneuf—Jacques-Cartier</Affiliation>.</ParaText>
               <ParaText id="4762297">En tant que vice-président du Comité permanent de l'environnement et du développement durable, je suis ravi d'intervenir à la Chambre pour parler du projet de loi <Document DbId="8334129" Type="3">C-18</Document>.</ParaText>
               <ParaText id="4762298">J'étais absent la semaine dernière, mais il semble que, dans le cadre du débat sur le projet de loi <Document DbId="8334129" Type="3">C-18</Document> tenu à la Chambre, certains députés aient prétendu que c'est dans leur circonscription qu'on peut observer les plus beaux paysages au pays. Je suis ici aujourd'hui pour trancher la question. La plus belle circonscription au pays, c'est la mienne, Yellowhead, qui abrite le majestueux parc national Jasper. Je suis désolé, mais aucune autre circonscription n'arrive à la cheville de la mienne.</ParaText>
               <ParaText id="4762299">Les visiteurs canadiens et étrangers qui viennent dans ma circonscription, Yellowhead, peuvent profiter de la nature et tisser des liens personnels avec le parc. Jasper a de quoi combler tous les visiteurs, qu'ils soient novices ou passionnés d'aventure. Le parc compte notamment le canyon Maligne, qui est une superbe gorge en calcaire remplie de cascades d'eau, de fossiles et d'une végétation luxuriante. Ce canyon, qui accueille plus de 400 000 visiteurs par année, s'explore par le haut en été et par le bas en hiver, où l'on peut marcher sur la glace.</ParaText>
@@ -941,7 +923,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9391485">
         <Timestamp Hr="14" Mn="00">(1400)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les infrastructures</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'infrastructure</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ste-Marie" id="9391486">
             <PersonSpeaking>
@@ -1012,8 +994,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4762404">Monsieur le Président, je veux aujourd'hui saluer le travail remarquable d'un organisme de Laurier—Sainte-Marie, le groupe L'Itinéraire. </ParaText>
               <ParaText id="4762405">
-                <I>L'Itinéraire</I> est le journal de rue le plus lu au Canada avec 25 000 lecteurs fidèles. Ce sont 150 camelots, hommes, femmes, jeunes, aînés, qui vendent avec fierté leur journal et peuvent ainsi regagner l'estime de soi, briser leur isolement et améliorer leurs conditions de vie.</ParaText>
-              <ParaText id="4762406">L'Itinéraire, c'est également une philosophie d'intervention qui place les personnes au coeur de l'organisme. Aujourd'hui, plus de 50 % du journal est rédigé par les camelots eux-mêmes, qui sont formés pour cela. C'est aussi une approche globale qui vise à répondre aux différents besoins, en intervenant aussi en sécurité alimentaire, en logement et en soutien psychosocial.</ParaText>
+                <I>L'Itinéraire</I> est le journal de rue le plus lu au Canada avec 25 000 lecteurs fidèles. Ce sont 150 camelots, hommes, femmes, jeunes et  aînés, qui vendent avec fierté leur journal et peuvent ainsi regagner l'estime de soi, briser leur isolement et améliorer leurs conditions de vie.</ParaText>
+              <ParaText id="4762406">
+                <I>L'Itinéraire</I>, c'est également une philosophie d'intervention qui place les personnes au coeur de l'organisme. Aujourd'hui, plus de 50 % du journal est rédigé par les camelots eux-mêmes, qui sont formés pour cela. C'est aussi une approche globale qui vise à répondre aux différents besoins, en intervenant aussi en sécurité alimentaire, en logement et en soutien psychosocial.</ParaText>
               <ParaText id="4762407">Enfin, c'est un milieu de vie essentiel pour de nombreuses personnes en situation de vulnérabilité, et ce, depuis 28 ans. </ParaText>
               <ParaText id="4762408">Bravo et salut à mon camelot Daniel!</ParaText>
             </Content>
@@ -1110,7 +1093,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214480" Type="2">M. Rodger Cuzner (Cape Breton—Canso, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762427">Monsieur le Président, je tiens à rendre hommage à Bob White, une véritable icône du mouvement syndical canadien. Il a commencé à consacrer sa vie aux droits des travailleurs à 17 ans à peine, lorsqu'il est devenu délégué syndical, peu après avoir mené pour la première fois 500 employés en grève.</ParaText>
-              <ParaText id="4762428">Reconnaissant la nécessité pour les travailleurs canadiens de prendre leur destin en main, Bob White a changé le monde des relations de travail, en 1985, en lançant le mouvement pour scinder les Travailleurs unis de l'automobile afin de créer le syndicat Travailleurs et travailleuses canadien(ne)s de l'automobile, ou <?bk?>TCA-Canada.<?ek?> Après trois mandats à titre de président des TCA-Canada, Bob White est passé au Congrès du travail du Canada, dont il a été président pendant sept ans et où il a continué à défendre avec ardeur les droits des travailleurs. Défenseur infatigable de la justice sociale et de l'équité dans le commerce, il a été fait officier de l'Ordre du Canada pour son service exceptionnel au pays.</ParaText>
+              <ParaText id="4762428">Reconnaissant la nécessité pour les travailleurs canadiens de prendre leur destin en main, Bob White a changé le monde des relations de travail, en 1985, en lançant le mouvement pour scinder les Travailleurs unis de l'automobile afin de créer le syndicat Travailleurs et travailleuses canadien(ne)s de l'automobile, ou <?bk ?>TCA-Canada.<?ek ?> Après trois mandats à titre de président des TCA-Canada, Bob White est passé au Congrès du travail du Canada, dont il a été président pendant sept ans et où il a continué à défendre avec ardeur les droits des travailleurs. Défenseur infatigable de la justice sociale et de l'équité dans le commerce, il a été fait officier de l'Ordre du Canada pour son service exceptionnel au pays.</ParaText>
               <ParaText id="4762429">Bob White était respecté par les travailleurs et les chefs d'entreprises et il était une source d'inspiration pour la génération actuelle de dirigeants syndicaux, dont deux anciens membres des TCA-Canada, le président d'Unifor Jerry Dias et le président du Congrès du travail du Canada Hassan Yussuff.</ParaText>
               <ParaText id="4762430">Nous offrons nos plus sincères condoléances à la famille de Bob, ainsi qu'à ses amis et à ses anciens collègues.</ParaText>
             </Content>
@@ -1207,7 +1190,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4762450">Monsieur le Président, je voudrais souhaiter la bienvenue sur la Colline et rendre hommage à l'imam de la mosquée de Saint-Jean-sur-Richelieu, Hassan Guillet, qui a été nommé personnalité de la semaine du quotidien <I>La Presse</I>.</ParaText>
               <ParaText id="4762451">Je le remercie des mots de paix qu'il nous offrait ce dimanche à la cathédrale Saint-Jean-l'Évangéliste. Son message rassembleur, qui a sensibilisé les citoyens du monde, en est un de respect mutuel. Nous devons faire preuve d'acceptation et d'ouverture.</ParaText>
-              <ParaText id="4762452">Chers collègue, le Canada est une terre d'accueil, une patrie tolérante fondée sur le vivre-ensemble. La diversité est notre force, et le respect, une de nos valeurs capitales. Notre pays est un métissage culturel qui, quotidiennement, s'enrichit et devient une communauté inclusive. La semaine dernière a été lue à la Chambre la motion M-103, qui condamne l'islamophobie et toutes les formes de racisme et de discrimination religieuse.</ParaText>
+              <ParaText id="4762452">Chers collègues, le Canada est une terre d'accueil et une patrie tolérante fondée sur le vivre-ensemble. La diversité est notre force, et le respect, une de nos valeurs capitales. Notre pays est un métissage culturel qui, quotidiennement, s'enrichit et devient une communauté inclusive. La semaine dernière, a été lue à la Chambre la motion M-103, qui condamne l'islamophobie et toutes les formes de racisme et de discrimination religieuse.</ParaText>
               <ParaText id="4762453"> Travaillons ensemble et unissons nos voix pour rendre demain encore meilleur.</ParaText>
             </Content>
           </Intervention>
@@ -1297,14 +1280,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762470">Monsieur le Président, la facture des Canadiens de la classe moyenne ne cesse d'augmenter sous ce <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>: il y a de nouveaux impôts sur les comptes d'épargne, les manuels scolaires et les activités des enfants, des cotisations plus élevées pour le régime de pensions et l'assurance-emploi et une taxe sur le carbone. Ce sont des milliers de dollars par année pour de nombreuses familles.</ParaText>
-              <ParaText id="4762471">Quand le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va-t-il arrêter de tromper les Canadiens et admettre qu'il fait payer la classe moyenne pour ses dépenses irréfléchies?</ParaText>
+              <ParaText id="4762471">Quand le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va-t-il arrêter de tromper les Canadiens et admettre qu'il fait payer à la classe moyenne  ses dépenses irréfléchies?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="9391587">
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762472">Monsieur le Président, au contraire, la première chose que nous avons faite, c'est d'abaisser les impôts pour la classe moyenne en les augmentant pour le 1 % le mieux nanti, ce contre quoi les conservateurs ont voté, d'ailleurs.</ParaText>
+              <ParaText id="4762472">Monsieur le Président, au contraire, la première chose que nous avons faite, c'est abaisser les impôts pour la classe moyenne en les augmentant pour le 1 % le mieux nanti, ce contre quoi les conservateurs ont voté, d'ailleurs.</ParaText>
               <ParaText id="4762473">La réalité, c'est que nous avons aussi augmenté les prestations pour les familles qui en ont besoin au moyen de l'Allocation canadienne pour les enfants, en réduisant ou en éliminant les prestations données aux familles millionnaires. Cela permettra de réduire la pauvreté chez les enfants du Canada de 40 %. </ParaText>
               <ParaText id="4762474">Nous mettons l'accent sur la classe moyenne et sur ceux qui travaillent fort pour s'y joindre.</ParaText>
             </Content>
@@ -1312,7 +1295,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9391596">
-        <SubjectOfBusinessTitle>L'immigration, les réfugiés et la citoyenneté</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les relations Canada-américaines</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Laverdière" id="9391589">
             <PersonSpeaking>
@@ -1396,7 +1379,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762490">Monsieur le Président, nous allons continuer d'aider la classe moyenne et d'améliorer sa situation. Nous allons continuer d'aider les gens qui ont besoin d'aide dans notre société au moyen de réductions d'impôt, par exemple, et en créant des situations qui vont aider leur famille.</ParaText>
-              <ParaText id="4762491">Nous avons introduit l'Allocation canadienne pour enfants, qui aidera neuf familles sur dix en leur accordant plus d'argent. Aider les familles canadiennes et la classe moyenne continue d'être notre but, et ce sera notre but dans notre budget, qui sera présenté au cours des prochaines semaines ou des prochains mois. </ParaText>
+              <ParaText id="4762491">Nous avons intstauré l'Allocation canadienne pour enfants, qui aidera neuf familles sur dix en leur accordant plus d'argent. Aider les familles canadiennes et la classe moyenne continue d'être notre but, et ce sera notre but dans notre budget, qui sera présenté au cours des prochaines semaines ou des prochains mois. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1418,7 +1401,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762495">Monsieur le Président, nous avons fait un choix, le choix d'investir dans notre avenir, dans celui de nos enfants et de la classe moyenne. </ParaText>
+              <ParaText id="4762495">Monsieur le Président, nous avons fait un choix, le choix d'investir dans notre avenir et dans celui de nos enfants et de la classe moyenne. </ParaText>
               <ParaText id="4762496">C'est pourquoi nous faisons des investissements dans les infrastructures, par exemple. Voilà ce que nous allons continuer à faire pour que notre pays ait une économie plus innovatrice et un taux de croissance économique plus élevé dans l'avenir.</ParaText>
             </Content>
           </Intervention>
@@ -1467,7 +1450,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762506">Monsieur le Président, on ne le sait que trop: ce gouvernement a complètement perdu le contrôle des dépenses publiques. Quand on est prêt à signer une dette de 1,5 trillion de dollars et à ne revenir à l'équilibre budgétaire qu'en 2055, c'est tout à fait inacceptable. </ParaText>
-              <ParaText id="4762507">Cela ne s'arrête pas là, parce que l'appétit gourmand du <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> n'a de cesse que celui-ci n'atteigne ses autres objectifs. Selon la revue <I>Les Affaires</I>, la dernière attaque en lice est d'augmenter le taux d'inclusion du gain en capital de 50 % à 75 %. Ça, c'est une attaque directe contre les contribuables canadiens et les créateurs d'emplois.</ParaText>
+              <ParaText id="4762507">Cela ne s'arrête pas là, parce que l'appétit gourmand du <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> n'a de cesse que celui-ci n'atteigne ses autres objectifs. Selon la revue <I>Les Affaires</I>, la dernière attaque en lice consiste à augmenter le taux d'inclusion du gain en capital de 50 % à 75 %. Ça, c'est une attaque directe contre les contribuables canadiens et les créateurs d'emplois.</ParaText>
               <ParaText id="4762508">Pourquoi le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> est-il si avare et si prêt à aller chercher encore plus d'argent dans les poches des Canadiens...</ParaText>
             </Content>
           </Intervention>
@@ -1484,14 +1467,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762511">Monsieur le Président, nous allons continuer d'aider les Canadiennes et les Canadiens partout au pays en haussant le taux de croissance économique, afin qu'ils aient un bien meilleur avenir. C'est notre but. </ParaText>
-              <ParaText id="4762512">Nous aurons sûrement la possibilité d'améliorer la situation de la classe moyenne avec notre budget. Nous prendrons des mesures afin de continuer notre programme visant à aider la classe moyenne et les gens qui ont besoin d'aide. </ParaText>
+              <ParaText id="4762512">Nous aurons sûrement la possibilité d'améliorer la situation de la classe moyenne au moyen de notre budget. Nous prendrons des mesures afin de continuer notre programme visant à aider la classe moyenne et les gens qui ont besoin d'aide. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Deltell" id="9391680">
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762513">Monsieur le Président, j'aime beaucoup le ministre et j'ai beaucoup de respect pour lui, entre autres, pour la qualité de son français. C'est un homme honorable, mais je me permets quand même d'être prudent par rapport à ses paroles. Souvenons-nous qu'il n'y a pas si longtemps, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> avait dit qu'il n'allait pas taxer l'assurance pour soins dentaires et l'assurance-santé. Or quelques jours plus tard, il votait en faveur d'une motion allant contre exactement le mot à mot employé dans sa déclaration. Bref, il dit une chose et il vote contre cela.</ParaText>
+              <ParaText id="4762513">Monsieur le Président, j'aime beaucoup le ministre et j'ai beaucoup de respect pour lui, entre autres, pour la qualité de son français. C'est un homme honorable, mais je me permets quand même d'être prudent par rapport à ses paroles. Souvenons-nous qu'il n'y a pas si longtemps, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> avait dit qu'il n'allait pas taxer l'assurance pour soins dentaires et l'assurance-santé. Or, quelques jours plus tard, il votait en faveur d'une motion allant contre exactement le mot à mot employé dans sa déclaration. Bref, il dit une chose et il vote contre cela.</ParaText>
               <ParaText id="4762514">Le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> peut-il enfin nous donner l'heure juste? Est-ce que, oui ou non, il va imposer davantage les Canadiens et les créateurs d'emplois, les créateurs de richesse, les entrepreneurs?</ParaText>
             </Content>
           </Intervention>
@@ -1499,7 +1482,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762515">Monsieur le Président, ce que je peux dire, c'est qu'au début de notre mandat, nous avons accordé une réduction d'impôts à la classe moyenne. C'était très important pour nous. Nous avons introduit l'Allocation canadienne pour enfants afin d'aider la classe moyenne et les gens qui ont besoin d'aide. Cela va continuer à être notre plan pour aider les familles de partout au pays. Il y aura dans notre budget des mesures qui seront bonnes pour notre économie et pour les familles canadiennes. </ParaText>
+              <ParaText id="4762515">Monsieur le Président, ce que je peux dire, c'est qu'au début de notre mandat, nous avons accordé une réduction d'impôts à la classe moyenne. C'était très important pour nous. Nous avons instauré l'Allocation canadienne pour enfants afin d'aider la classe moyenne et les gens qui ont besoin d'aide. Cela va continuer à être notre plan pour aider les familles de partout au pays. Il y aura dans notre budget des mesures qui seront bonnes pour notre économie et pour les familles canadiennes. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1513,14 +1496,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214056" Type="2">Mme Anne Minh-Thu Quach (Salaberry—Suroît, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762516">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a créé un Conseil jeunesse. C'est une bonne initiative, mais elle manque cruellement de transparence. À l'heure actuelle, nous ne connaissons ni les sujets abordés ni les personnes rencontrées, et nous ne savons même pas si le gouvernement tiendra compte des propositions des jeunes dans ses politiques ou dans son prochain budget. Il n'est pas prévu non plus que le Conseil jeunesse fasse un rapport public.</ParaText>
-              <ParaText id="4762517">Afin de nous démontrer que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'utilise pas les jeunes comme un faire-valoir, est-ce qu'il autorisera les membres du Conseil à publier un rapport sur leurs délibérations? Seront-ils libres d'organiser des consultations si cela leur chante?</ParaText>
+              <ParaText id="4762517">Afin de nous démontrer que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'utilise pas les jeunes comme faire-valoir, est-ce qu'il autorisera les membres du Conseil à publier un rapport sur leurs délibérations? Seront-ils libres d'organiser des consultations si cela leur chante?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Schiefke" id="9391689">
             <PersonSpeaking>
               <Affiliation DbId="214660" Type="18">M. Peter Schiefke (secrétaire parlementaire du premier ministre (Jeunesse), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762518">Monsieur le Président, nous sommes très fiers du fait que pour la première fois de l'histoire, nous avons 26 jeunes, d'un bout à l'autre du pays, qui rencontrent le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> plusieurs fois par année pour partager avec lui leurs rétroactions et leurs pensées sur les enjeux qui sont les plus importants pour eux. De plus, le premier ministre prend le temps de s'engager auprès des jeunes sur Facebook, en personne, dans les écoles secondaires, au collège et à l'université. Le premier ministre sait bien que c'est important de s'engager auprès des jeunes. C'est ce qu'il va continuer de faire.</ParaText>
+              <ParaText id="4762518">Monsieur le Président, nous sommes très fiers du fait que, pour la première fois de l'histoire, nous avons 26 jeunes, d'un bout à l'autre du pays, qui rencontrent le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> plusieurs fois par année pour lui faire part de leurs rétroactions et de  leurs pensées sur les enjeux qui sont les plus importants pour eux. De plus, le premier ministre prend le temps de s'engager auprès des jeunes sur Facebook, en personne, dans les écoles secondaires, au collège et à l'université. Le premier ministre sait bien que c'est important de s'engager auprès des jeunes. C'est ce qu'il va continuer de faire.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1619,8 +1602,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214428" Type="2">M. Pierre-Luc Dusseault (Sherbrooke, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762536">Monsieur le Président, alors que les États-Unis ont réussi à condamner et à récupérer des millions de dollars des riches contribuables pris dans le scandale de la banque suisse UBS, on apprenait que le Canada n'avait pas condamné un seul contribuable canadien en justice.</ParaText>
-              <ParaText id="4762537">Le mieux que l'Agence du revenu du Canada a pu faire, c'est d'offrir le programme de divulgation volontaire, ce qui garantit la confidentialité des fraudeurs, leur évite des pénalités financières et les met à l'abri de poursuites judiciaires. C'est honteux.</ParaText>
+              <ParaText id="4762536">Monsieur le Président, alors que les États-Unis ont réussi à condamner  des riches contribuables pris dans le scandale de la banque suisse UBS et à récupérer des millions de dollars, on apprenait que le Canada n'avait pas condamné un seul contribuable canadien en justice.</ParaText>
+              <ParaText id="4762537">Le mieux que l'Agence du revenu du Canada a pu faire, c'est offrir le programme de divulgation volontaire, ce qui garantit la confidentialité des fraudeurs, leur évite des pénalités financières et les met à l'abri de poursuites judiciaires. C'est honteux.</ParaText>
               <ParaText id="4762538">Quand la ministre va-t-elle prendre des mesures législatives concrètes pour contrer l'utilisation des paradis fiscaux et, surtout, quand va-t-elle — s'il vous plaît — arrêter de donner des traitements de faveur aux fraudeurs?</ParaText>
             </Content>
           </Intervention>
@@ -1674,7 +1657,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214327" Type="4">L’hon. Mélanie Joly (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762550">Monsieur le Président, j'aimerais remercier la députée de <Affiliation DbId="214183" Type="2">Dorval—Lachine—LaSalle</Affiliation> de son importante question.</ParaText>
-              <ParaText id="4762551">Je profite de l'occasion pour condamner les actes de discrimination qui ont été commises ce week-end à North York et à Montréal.</ParaText>
+              <ParaText id="4762551">Je profite de l'occasion pour condamner les actes de discrimination qui ont été commis ce week-end à North York et à Montréal.</ParaText>
               <ParaText id="4762552">Le 9 février dernier, j'ai eu l'occasion d'annoncer un appel de projets pour le programme Interactions communautaires.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4762553">Le gouvernement consacrera 5,5 millions de dollars par année à des organismes qui soumettent des projets visant l'élimination de la discrimination et du racisme. </ParaText>
@@ -1729,7 +1712,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4762565">Monsieur le Président, dans toute cette affaire, le gouvernement n'est pas la victime, mais plutôt le complice du fiasco du système Phénix. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4762566">Que ce soit l'opposition, les médias ou les fonctionnaires, personne ne croit en l'histoire du gouvernement libéral. Il refuse de prendre ses responsabilités, et il se réfugie derrière des excuses que personne ne croit. Le logiciel aurait dû être déployé en plusieurs vagues, afin de s'assurer que tout le monde est bien prêt à le mettre en place. D'ailleurs, c'était l'avis du rapport Gartner, commandé par le Conseil du Trésor, et dont le ministre est ici présent.</ParaText>
+              <ParaText id="4762566">Que ce soit l'opposition, les médias ou les fonctionnaires, personne ne croit en l'histoire du gouvernement libéral. Il refuse de prendre ses responsabilités, et il se réfugie derrière des excuses que personne ne croit. Le logiciel aurait dû être déployé en plusieurs vagues, afin de s'assurer que tout le monde était bien prêt à le mettre en place. D'ailleurs, c'était l'avis du rapport Gartner, commandé par le Conseil du Trésor, et dont le ministre est ici présent.</ParaText>
               <ParaText id="4762567">Je demande, au nom de tous les Canadiens, que la ministre présente enfin des excuses pour la mauvaise décision qu'elle a prise le 24 février dernier.</ParaText>
             </Content>
           </Intervention>
@@ -1826,7 +1809,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="14" Mn="55">(1455)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. DeCourcey" id="9391844">
             <PersonSpeaking>
-              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire de la ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762584">Monsieur le Président, le gouvernement reste profondément solidaire du peuple ukrainien.</ParaText>
               <ParaText id="4762585">La ministre l'a réitéré lorsqu'elle a rencontré le président et le ministre des Affaires étrangères de l'Ukraine la semaine dernière à la Conférence de Munich sur la sécurité. L'annexion et l'invasion de la Crimée était un acte illégal. Nous le disons au monde et nous le disons à la Russie.</ParaText>
@@ -1843,7 +1826,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. DeCourcey" id="9391849">
             <PersonSpeaking>
-              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire de la ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762589">Monsieur le Président, je réaffirme l'engagement sans équivoque du gouvernement envers l'Ukraine.</ParaText>
               <ParaText id="4762590">Nous avons condamné sans réserve l'annexion illégale de la Crimée. Pas plus tard que la semaine dernière, à Munich, la ministre a réaffirmé cette position en compagnie du ministre des Affaires étrangères et du président de l'Ukraine.</ParaText>
@@ -1861,7 +1844,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. DeCourcey" id="9391855">
             <PersonSpeaking>
-              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire de la ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762595">Monsieur le Président, nous savons que le comité des affaires étrangères de la Chambre des communes se penche actuellement sur la Loi sur les mesures économiques spéciales.</ParaText>
               <ParaText id="4762596">Nous avons hâte de consulter son rapport. Il faut évidemment permettre à la Chambre d'étudier convenablement la question afin qu'il puisse conseiller le gouvernement sur la façon de mettre en place une loi comme la Loi de Magnitski.</ParaText>
@@ -1966,8 +1949,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214171" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762615">Monsieur le Président, le cellulaire au volant fait maintenant presque autant de victimes sur les routes que la conduite avec les facultés affaiblies par l'alcool, et huit fois plus de blessés. Pendant que les provinces, les municipalités, les corps policiers et les Canadiens s'inquiètent, le gouvernement libéral, lui, est complètement muet sur ce fléau. </ParaText>
-              <ParaText id="4762616">Le gouvernement est-il conscient que le cellulaire fait de plus en plus de victimes sur les routes? Quelles sont les mesures que le gouvernement libéral entend prendre pour protéger la vie des usagers de la route?</ParaText>
+              <ParaText id="4762615">Monsieur le Président, le cellulaire au volant fait maintenant presque autant de victimes sur les routes que la conduite avec les facultés affaiblies par l'alcool et huit fois plus de blessés. Pendant que les provinces, les municipalités, les corps policiers et les Canadiens s'inquiètent, le gouvernement libéral, lui, est complètement muet sur ce fléau. </ParaText>
+              <ParaText id="4762616">Le gouvernement est-il conscient que le cellulaire fait de plus en plus de victimes sur les routes? Quellesmesures le gouvernement libéral entend-il prendre pour protéger la vie des usagers de la route?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Garneau" id="9391888">
@@ -1981,7 +1964,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9391892">
-        <SubjectOfBusinessTitle>L'industrie aérospatiale</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le transport aérien</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Thériault" id="9391891">
             <PersonSpeaking>
@@ -2009,8 +1992,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214062" Type="2">M. Michel Boudrias (Terrebonne, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762623">Monsieur le Président, l'incapacité du <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> et de ses fonctionnaires à écouter les Québécois vient de nous coûter 19 hectares de territoire protégé.</ParaText>
-              <ParaText id="4762624">Une forêt a été coupée à blanc sans que les gens de Mascouche et de Terrebonne et les élus du Québec et des villes aient eu leur mot à dire. </ParaText>
-              <ParaText id="4762625">On sait déjà que le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> se fout totalement des règles environnementales du Québec. Toutefois, est-ce que la <Affiliation DbId="214310" Type="4">ministre de l'Environnement</Affiliation> peut nous expliquer pourquoi elle a laissé passer ce saccage-là?</ParaText>
+              <ParaText id="4762624">Une forêt a été coupée à blanc sans que les gens de Mascouche et de Terrebonne et les élus du Québec et des Villes aient eu leur mot à dire. </ParaText>
+              <ParaText id="4762625">On sait déjà que le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> se fout totalement des règles environnementales du Québec. Toutefois, est-ce que la <Affiliation DbId="214310" Type="4">ministre de l'Environnement</Affiliation> peut nous expliquer pourquoi elle a laissé faire  ce saccage?</ParaText>
               <ParaText id="4762626"> À ce que je sache, quand on s'occupe de l'environnement, ce n'est pas pour faire la plante verte.</ParaText>
             </Content>
           </Intervention>
@@ -2853,7 +2836,6 @@ La Chambre reprend l'étude de la motion portant que le projet de loi <Document 
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4762799">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera lors de l'ajournement ce soir, à savoir: le député de <Affiliation DbId="213892" Type="2">St. Albert—Edmonton</Affiliation>, La justice; le député de <Affiliation DbId="214380" Type="2">Selkirk—Interlake—Eastman</Affiliation>, Les affaires étrangères; la députée de <Affiliation DbId="214056" Type="2">Salaberry—Suroît</Affiliation>, La jeunesse. </ParaText>
-              <ParaText id="4762800">Nous reprenons le débat. Le député de Parry Sound—Muskoka a la parole. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Clement" id="9392893">
@@ -3207,7 +3189,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi <Document 
             <PersonSpeaking>
               <Affiliation DbId="214029" Type="2">M. Michel Picard (Montarville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4762936">Madame la Présidente, j'invite mon collègue, le député d'<Affiliation DbId="214084" Type="2">Ajax</Affiliation>, à prendre la parole en premier.</ParaText>
+              <ParaText id="4762936">Madame la Présidente, j'invite mon collègue le député d'<Affiliation DbId="214084" Type="2">Ajax</Affiliation> à prendre la parole en premier.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Holland" id="9393411">

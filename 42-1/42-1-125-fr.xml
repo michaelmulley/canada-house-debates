@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9311289">
-  <StartPageNumber>7885</StartPageNumber>
+  <StartPageNumber>7883</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -63,7 +45,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9311334">
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>la Loi canadienne sur les
+        <SubjectOfBusinessTitle>La Loi canadienne sur les
 sociétés par actions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4702000">La Chambre reprend l'étude, interrompue le 25 novembre, de la motion portant que le projet de loi <Document DbId="8433563" Type="3">C-25, Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif et la Loi sur la concurrence</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
@@ -405,7 +387,7 @@ sociétés par actions</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4702133">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> réunit ses vis-à-vis provincialistes, aujourd'hui, pour parler d'environnement, alors qu'il vient d'imposer un pipeline à la Colombie-Britannique et qu'il pense faire la même chose au Québec.</ParaText>
               <ParaText id="4702134">Il devra aussi parler de santé, parce que le Québec n'accepte ni ses coupes ni ses conditions. Il devra aussi parler de bois d'oeuvre, parce que le Québec refuse d'être inclus dans une autre entente provincialiste qui ne profite qu'à l'Ouest. </ParaText>
-              <ParaText id="4702135">Il devra parler de Bombardier, toujours méprisé par le fédéral, alors que l'industrie automobile ontarienne va encore récolter des centaines de millions de dollars. Il devra parler du projet de loi <Document DbId="8519336" Type="3">C-29</Document> qui permet aux banques torontoises de contourner les lois québécoises pour flouer les consommateurs. </ParaText>
+              <ParaText id="4702135">Il devra parler de Bombardier, toujours méprisé par le fédéral, alors que l'industrie automobile ontarienne va encore récolter des centaines de millions de dollars. Il devra parler du projet de loi <Document DbId="8519336" Type="3">C-29</Document>, qui permet aux banques torontoises de contourner les lois québécoises pour flouer les consommateurs. </ParaText>
               <ParaText id="4702136">Finalement, le thème du jour, c'est le fédéralisme qui affaiblit le Québec au profit du Canada et qui empêche les Québécois de faire des choix de société qui leur ressemblent. Ce sera le thème de ces rencontres pour le Québec tant que ces rencontres ne s'appelleront pas « relations internationales ».</ParaText>
             </Content>
           </Intervention>
@@ -419,9 +401,9 @@ sociétés par actions</SubjectOfBusinessTitle>
               <Affiliation DbId="214049" Type="2">M. Stéphane Lauzon (Argenteuil—La Petite-Nation, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4702137">Monsieur le Président, aujourd'hui, je prends la parole à la Chambre afin de parler d'accessibilité. La <Affiliation DbId="214318" Type="4">ministre des Sports et des Personnes handicapées</Affiliation> organise depuis cet été des consultations un peu partout au pays sur le thème d'un Canada accessible.</ParaText>
-              <ParaText id="4702138">Ces consultations ont pour objectif d'élaborer une nouvelle loi sur l'accessibilité. Ces Canadiens et Canadiennes nous confient leurs expériences et les défis qu'ils vivent au quotidien.</ParaText>
-              <ParaText id="4702139">Durant ces consultations, j'ai appris lors des témoignages entendus, que même un seuil de porte représente un obstacle majeur pour certaines personnes à mobilité réduite. </ParaText>
-              <ParaText id="4702140">Je suis fier de dire que notre gouvernement travaille pour un Canada plus inclusif et plus accessible pour tous les Canadiens et Canadiennes. </ParaText>
+              <ParaText id="4702138">Ces consultations ont pour objectif d'élaborer une nouvelle loi sur l'accessibilité. Ces Canadiens et ces Canadiennes nous confient leurs expériences et les défis qu'ils vivent au quotidien.</ParaText>
+              <ParaText id="4702139">Durant ces consultations, j'ai appris lors des témoignages entendus que même un seuil de porte représente un obstacle majeur pour certaines personnes à mobilité réduite. </ParaText>
+              <ParaText id="4702140">Je suis fier de dire que notre gouvernement travaille pour un Canada plus inclusif et plus accessible pour tous les Canadiens et les Canadiennes. </ParaText>
               <ParaText id="4702141">Enfin, j'invite tous les députés à faire des consultations sur l'accessibilité dans leur circonscription. Ils pourront constater par eux-mêmes que toute amélioration, si petite soit-elle, pourrait faire toute la différence. </ParaText>
             </Content>
           </Intervention>
@@ -480,7 +462,7 @@ sociétés par actions</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9311423">
-        <SubjectOfBusinessTitle>La prévention des génocides</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les génocides</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ehsassi" id="9311424">
             <PersonSpeaking>
@@ -729,17 +711,12 @@ sociétés par actions</SubjectOfBusinessTitle>
               <ParaText id="4702207">À l'ordre. Le député de <Affiliation DbId="213959" Type="2">Louis-Saint-Laurent</Affiliation> a la parole.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9311484">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Deltell" id="9311483">
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4702208">Monsieur le Président, la situation est sérieuse. Le Canada a perdu 30 500 emplois à temps plein depuis un an. Quel est le plan de match du gouvernement libéral? Il veut taxer davantage les travailleurs canadiens. On augmente les charges du fonds de pension. On invente la taxe libérale sur les assurances santé, on invente la taxe libérale sur l'assurance dentaire et on invente la taxe libérale sur le carbone. Pendant ce temps, aux États-Unis, le président élu, lui, va baisser les taxes de façon spectaculaire.</ParaText>
+              <ParaText id="4702208">Monsieur le Président, la situation est sérieuse. Le Canada a perdu 30 500 emplois à temps plein depuis un an. Quel est le plan de match du gouvernement libéral? Il veut taxer davantage les travailleurs canadiens. On augmente les cotisations au fonds de pension. On invente la taxe libérale sur les assurances santé, on invente la taxe libérale sur l'assurance dentaire et on invente la taxe libérale sur le carbone. Pendant ce temps, aux États-Unis, le président élu, lui, va abaisser les taxes de façon spectaculaire.</ParaText>
               <ParaText id="4702209">Pourquoi le gouvernement veut-il taxer davantage les travailleurs canadiens?</ParaText>
             </Content>
           </Intervention>
@@ -753,11 +730,16 @@ sociétés par actions</SubjectOfBusinessTitle>
               <ParaText id="4702213">Le gouvernement va continuer à travailler pour la classe moyenne au pays.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9311484">
+        <SubjectOfBusinessTitle>La protection des consommateurs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Deltell" id="9311489">
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4702214">Monsieur le Président, effectivement, je me souviens que le gouvernement n'a fait aucun changement en ce qui a trait aux taxes pour 65 % des Canadiens. Les plus grands bénéficiaires sont ceux qui gagnent entre 140 000 $ et 200 000 $ par année. Qu'il ne vienne pas me parler de la classe moyenne.</ParaText>
+              <ParaText id="4702214">Monsieur le Président, effectivement, je me souviens que le gouvernement n'a fait aucun changement en ce qui a trait aux impôts pour 65 % des Canadiens. Les plus grands bénéficiaires sont ceux qui gagnent entre 140 000 $ et 200 000 $ par année. Qu'il ne vienne pas me parler de la classe moyenne.</ParaText>
               <ParaText id="4702215">J'ai une bonne mémoire. En 2014, la Cour suprême a dit que la Loi sur la protection du consommateur touche le provincial, et non pas le fédéral. Par malheur, le projet de loi <Document DbId="8519336" Type="3">C-29</Document> nous mène directement sur un mur, parce qu'il touche directement les droits des consommateurs. Cela n'a pas de sens. Tout ce que cela fera, c'est qu'on donnera des milliers de dollars à des avocats tout en sachant que l'on va perdre.</ParaText>
               <ParaText id="4702216">Pourquoi le gouvernement est-il prêt à perdre des millions de dollars, voire des centaines de millions de dollars, alors que la cause est perdue d'avance?</ParaText>
             </Content>
@@ -922,7 +904,7 @@ sociétés par actions</SubjectOfBusinessTitle>
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4702259">Monsieur le Président, avez-vous pensé à tout ce que l'on peut se payer en ce temps de l'année avec 1 500 $? </ParaText>
-              <ParaText id="4702260">On peut payer nos factures, s'offrir quelque chose dont on avait vraiment besoin, faire des économies, prendre soin de la petite famille et offrir des denrées aux plus démunis. Oh! j'oubliais! On peut s'acheter un accès privilégié au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> pour éviter de faire la file comme tout le monde. </ParaText>
+              <ParaText id="4702260">On peut payer nos factures, s'offrir quelque chose dont on avait vraiment besoin, faire des économies, prendre soin de sa petite famille et offrir des denrées aux plus démunis. Oh! j'oubliais! On peut s'acheter un accès privilégié au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> pour éviter de faire la file comme tout le monde. </ParaText>
               <ParaText id="4702261">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> reconnaît-il qu'il a discuté des affaires du gouvernement avec les participants lors des activités de financement à 1 500 $, oui ou non?</ParaText>
             </Content>
           </Intervention>
@@ -1213,7 +1195,7 @@ sociétés par actions</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214386" Type="2">Mme Cathy McLeod (Kamloops—Thompson—Cariboo, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4702318">ÊMonsieur le Président, les libéraux disent se préoccuper de la transparence et viennent tout juste, avec la ministre, d'assister à trois journées de réunions de l'Assemblée des Premières Nations. La question de la transparence et de la reddition de comptes de la part des chefs de bande à l'égard des membres n'a pas été soulevée une seule fois.</ParaText>
+              <ParaText id="4702318">Monsieur le Président, les libéraux disent se préoccuper de la transparence et viennent tout juste, avec la ministre, d'assister à trois journées de réunions de l'Assemblée des Premières Nations. La question de la transparence et de la reddition de comptes de la part des chefs de bande à l'égard des membres n'a pas été soulevée une seule fois.</ParaText>
               <ParaText id="4702319">Selon Karen McCarthy:</ParaText>
               <ParaText id="4702320">
                 <Quote>
@@ -1276,7 +1258,7 @@ sociétés par actions</SubjectOfBusinessTitle>
               <Affiliation DbId="214571" Type="2">Mme Marjolaine Boutin-Sweet (Hochelaga, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4702331">Monsieur le Président, depuis quelques années, plusieurs fermetures d'usines ont affecté l'économie de l'Est de Montréal. Après la raffinerie Shell et l'usine d'électroménagers Mabe, c'est maintenant l'usine de biscuits Christie qui ferme ses portes dans Hochelaga-Maisonneuve. </ParaText>
-              <ParaText id="4702332">D'ici un an, ce sont 454 autres bons emplois qui disparaîtront de ma circonscription. J'ai rencontré les dirigeants de l'usine et nous avons parlé de pistes de solution, mais ils ont été clairs: la décision est finale. </ParaText>
+              <ParaText id="4702332">D'ici un an, c'est 454 autres bons emplois qui disparaîtront de ma circonscription. J'ai rencontré les dirigeants de l'usine et nous avons parlé de pistes de solution, mais ils ont été clairs: la décision est finale. </ParaText>
               <ParaText id="4702333">Est-ce que le ministre a un plan pour assurer la survie et la création de bons emplois dans l'Est de Montréal?</ParaText>
             </Content>
           </Intervention>
@@ -1422,7 +1404,7 @@ sociétés par actions</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="213937" Type="2">Mme Sylvie Boucher (Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4702361">Monsieur le Président, le Bureau de la concurrence du Canada a clairement allumé une lumière rouge pour le gouvernement libéral concernant le nouveau programme d'infrastructures. Parmi les 40 députés du Québec qui ont entendus, tout comme nous, les nombreux témoignages lors de la Commission Charbonneau, comment se fait-il que personne n'ait réalisé que ce genre de buffet ouvert est dangereux et qu'il ouvre la porte à la collusion?</ParaText>
+              <ParaText id="4702361">Monsieur le Président, le Bureau de la concurrence du Canada a clairement allumé une lumière rouge pour le gouvernement libéral concernant le nouveau programme d'infrastructures. Parmi les 40 députés du Québec qui ont entendu, tout comme nous, les nombreux témoignages lors de la Commission Charbonneau, comment se fait-il que personne n'ait réalisé que ce genre de buffet ouvert est dangereux et qu'il ouvre la porte à la collusion?</ParaText>
               <ParaText id="4702362">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> prendra-t-il les choses en main ou attend-il vraiment que l'on demande une commission d'enquête?</ParaText>
             </Content>
           </Intervention>
@@ -1562,7 +1544,7 @@ sociétés par actions</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9311790">
-        <SubjectOfBusinessQualifier>Les anciens combattants</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Anciens combattants</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ellis" id="9311739">
             <PersonSpeaking>
@@ -1978,7 +1960,7 @@ sociétés par actions</SubjectOfBusinessTitle>
               <ParaText id="4702514">Il est important, à ce moment-ci, de relater la réalité vécue par les plus petites productions laitières et les fermes familiales, qui sont en voie de disparition au pays.</ParaText>
               <ParaText id="4702515">J'ai rencontré M. Viateur Soucy en juin dernier, lors d'une manifestation qui a eu lieu ici-même, devant le Parlement, pour demander au gouvernement de protéger la gestion de l'offre et les fermes. Les manifestants s'inquiétaient notamment de l'entrée au pays de lait diafiltré et des effets des ententes de libre-change du Partenariat transpacifique et de l'accord avec l'Europe sur les fermes laitières. </ParaText>
               <ParaText id="4702516">À 73 ans, il avait pris la route en tracteur pour se rendre à Ottawa avec des producteurs laitiers de toutes les régions du Québec et d'autres régions du Canada. À Nouvelle, dans la belle Baie-des-Chaleurs, en Gaspésie, la famille Soucy exploite une ferme familiale depuis trois générations. Lorsque Viateur, l'aîné de la famille d'Ovide Soucy, a repris la ferme de son père avec l'un de ses frères, il a décidé de la convertir en exploitation laitière dans les années 1970, en y voyant une occasion d'assurer un revenu stable à sa famille.</ParaText>
-              <ParaText id="4702517">L'histoire aura donné raison à M. Soucy, du moins, jusqu'à maintenant. Des investissements considérables ont été faits dans la modernisation des installations de la ferme, dans le troupeau, dans la machinerie, dans de nouveaux champs pour nourrir le troupeau et, surtout, dans des quotas de production qui, nous l'aurons tous compris, sont loin d'être consentis.</ParaText>
+              <ParaText id="4702517">L'histoire aura donné raison à M. Soucy, du moins jusqu'à maintenant. Des investissements considérables ont été faits dans la modernisation des installations de la ferme, dans le troupeau, dans la machinerie, dans de nouveaux champs pour nourrir le troupeau et, surtout, dans des quotas de production qui, nous l'aurons tous compris, sont loin d'être consentis.</ParaText>
               <ParaText id="4702518">Tant et aussi longtemps qu'on maintenait l'intégrité de la gestion de l'offre, il s'assurait un revenu. M. Soucy a eu la chance que plusieurs agriculteurs n'ont pas eue, celle d'avoir une relève au sein même de sa famille. C'est évidemment toujours plus facile de trouver une relève quand on peut la convaincre que, dans la mesure où on fait le travail nécessaire — sur une ferme, c'est beaucoup de travail —, on peut s'assurer un revenu stable. Il a eu la chance qu'un de ses fils, Mikaël, prenne le flambeau en 2004.</ParaText>
               <ParaText id="4702519">Aujourd'hui, c'est ce dernier qui vit le stress associé aux décisions de ce gouvernement et de celui qui l'a précédé. Quand nous avons parlé à Mikaël, il n'était pas très heureux des décisions du gouvernement. Nous lui avons demandé ce qu'il pensait de la compensation annoncée par les libéraux. Je ne pourrai malheureusement pas le citer ici, parce qu'il n'était vraiment pas content.</ParaText>
               <ParaText id="4702520">En gros, il nous a répondu que la perte de revenus que les producteurs devront éponger en raison de cet accord leur ferait perdre beaucoup de liquidité, et que de demander aux producteurs d'investir et, ce faisant, de s'endetter davantage n'était pas une solution logique. Il nous a aussi demandé de poser une question au gouvernement. Ici, je vais le citer: « J'aimerais aussi savoir combien de temps encore je vais me faire niaiser. Est-ce qu'il faut que je vende maintenant, ou j'attends que ça ne vaille plus rien et que je fasse faillite? »</ParaText>
@@ -2195,18 +2177,18 @@ sociétés par actions</SubjectOfBusinessTitle>
               <ParaText id="4702593">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="4702594">
-                <B>M. Kennedy Stewart:</B> Il faut dire les choses comme elles sont. J'invite les députés à comparer le gouvernement actuel au précédent. Actuellement, nous avons 10 projets de loi qui ont été présentés au Parlement et ont obtenu la sanction royale. Les libéraux ont rempli le Sénat de gens vendus à leurs idées. Ils ne devraient donc avoir aucune difficulté à faire adopter des projets de loi, mais ils sont trop incompétents pour le faire et semblent complètement déroutés.</ParaText>
+                <B>M. Kennedy Stewart:</B> Monsieur le Président, il faut dire les choses comme elles sont. J'invite les députés à comparer le gouvernement actuel au précédent. Actuellement, nous avons 10 projets de loi qui ont été présentés au Parlement et ont obtenu la sanction royale. Les libéraux ont rempli le Sénat de gens vendus à leurs idées. Ils ne devraient donc avoir aucune difficulté à faire adopter des projets de loi, mais ils sont trop incompétents pour le faire et semblent complètement déroutés.</ParaText>
               <ParaText id="4702595">Prenons l'exemple du projet de loi sur la réforme démocratique, que les libéraux promettaient de faire adopter avant Noël, et de toutes les réformes qui devaient avoir lieu; quel a été le résultat? Absolument rien ne s'est fait. C'est la confusion totale en ce qui concerne la formule électorale que le gouvernement croit qui devrait être utilisée. La <Affiliation DbId="214316" Type="4">ministre des Institutions démocratiques</Affiliation> s'excuse quotidiennement de gaffer, mais continue de le faire. </ParaText>
               <ParaText id="4702596">Le gouvernement nous donne des réponses malhonnêtes à la période des questions. Si j'entends encore une fois les réponses toutes faites que nous sert la leader du gouvernement à la Chambre sur les activités de financement donnant un accès privilégié, je pense que je vais aller me pendre, car nous n'avons pas...</ParaText>
               <ParaText id="4702597">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="4702598">
-                <B>M. Kennedy Stewart:</B> Je remercie mes collègues. Nous en avons marre de cette pratique. Qu'est-ce qui la justifie? Six des dix projets de loi qui ont reçu la sanction royale n'avaient vraiment aucune chance d'être rejetés. C'est très décevant, et nous débattons maintenant d'un projet de loi à l'égard duquel nous devons absolument éviter de nous tromper.</ParaText>
+                <B>M. Kennedy Stewart:</B> Je remercie mes collègues, monsieur le Président.  Nous en avons marre de cette pratique. Qu'est-ce qui la justifie? Six des dix projets de loi qui ont reçu la sanction royale n'avaient vraiment aucune chance d'être rejetés. C'est très décevant, et nous débattons maintenant d'un projet de loi à l'égard duquel nous devons absolument éviter de nous tromper.</ParaText>
               <ParaText id="4702599">Tout à l'heure, j'ai fait l'éloge des conservateurs parce qu'eux, au moins, avaient un gouvernement compétent, même si je ne partage pas leur position sur l'AECG. J'étais toutefois ouvert à l'idée. Durant la dernière législature, j'étais ouvert à l'idée parce qu'il est très important de veiller à ce que nos accords commerciaux avec l'Europe soient faits correctement. Ils sont trop importants pour qu'on puisse se tromper. Je trouve un peu fort que les libéraux s'attribuent le mérite du travail réalisé par les conservateurs parce que...</ParaText>
               <ParaText id="4702600">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="4702601">
-                <B>M. Kennedy Stewart:</B> Voilà pourquoi nous sommes à la Chambre, pour dire les choses telles quelles sont. Le NPD formait l'opposition officielle lors de la dernière législature mais ce n'est plus le cas actuellement. Je crois néanmoins que les néo-démocrates peuvent informer les Canadiens de ce qui se passe dans cette enceinte. Dans le passé, le NPD s'est principalement employé à tenir les Canadiens au courant de façon honnête. Comme les deux grands partis sont comparables, c'est au NPD qu'il revient d'expliquer ce qui se passe. </ParaText>
+                <B>M. Kennedy Stewart:</B> Monsieur le Président, voilà pourquoi nous sommes à la Chambre, pour dire les choses telles quelles sont. Le NPD formait l'opposition officielle lors de la dernière législature mais ce n'est plus le cas actuellement. Je crois néanmoins que les néo-démocrates peuvent informer les Canadiens de ce qui se passe dans cette enceinte. Dans le passé, le NPD s'est principalement employé à tenir les Canadiens au courant de façon honnête. Comme les deux grands partis sont comparables, c'est au NPD qu'il revient d'expliquer ce qui se passe. </ParaText>
               <ParaText id="4702602">C'est décevant. Je dois cependant reconnaître qu'il y a une différence entre ces deux partis dans la façon dont ils abordent le processus législatif. Lors de la dernière législature, le gouvernement recourait systématiquement à la clôture pour faire l'examen des projets de loi à toute vapeur avant de les renvoyer au Sénat pour les faire adopter. Je ne souscrivais pas à cette approche, mais le gouvernement avait au moins un plan de match clair, dans la mesure où le premier ministre Harper et les membres de son Cabinet informaient les Canadiens de ce qui allait se passer, même s'ils nous imposaient leur volonté. Puis, on passait à autre chose. Nous pouvions nous opposer à cette approche et nous savions à quoi nous attendre. </ParaText>
               <ParaText id="4702603">Maintenant, le gouvernement ne cesse de faire des consultations bidons. Il y a un article fort intéressant sur les consultations qui a été écrit dans les années 1960. Un des mentors qui m'a grandement influencé, le professeur Patrick Smith, a été le premier a attirer mon attention sur cette question. En réalité, tous les projets de loi et tous les types d'affaires gouvernementales peuvent faire l'objet de différentes formes de consultations. </ParaText>
               <Timestamp Hr="13" Mn="25">(1325)</Timestamp>
@@ -2321,7 +2303,7 @@ sociétés par actions</SubjectOfBusinessTitle>
               <ParaText id="4702663">
                 <B>Le vice-président:</B> Conformément à l'ordre adopté le jeudi 1<Sup>er</Sup> décembre, le vote par appel nominal est reporté au mardi 13 décembre, juste avant la période réservée aux initiatives parlementaires. </ParaText>
               <ProceduralText TocType="TPC" id="6">Report du vote sur la motion</ProceduralText>
-              <ParaText id="4702664">Comme il est 13 h 46, la Chambre s'ajourne à lundi prochain, à <?bk?>11 heures,<?ek?> conformément au paragraphe <?bk?>24(1)<?ek?> du Règlement.</ParaText>
+              <ParaText id="4702664">Comme il est 13 h 46, la Chambre s'ajourne à lundi prochain, à <?bk ?>11 heures,<?ek ?> conformément au paragraphe <?bk ?>24(1)<?ek ?> du Règlement.</ParaText>
               <ParaText id="4702665">(La séance est levée à 13 h 46.)</ParaText>
             </Content>
           </Intervention>

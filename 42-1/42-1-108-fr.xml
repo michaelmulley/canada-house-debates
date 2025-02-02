@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9236161">
   <StartPageNumber>6795</StartPageNumber>
   <DocumentTitle>
@@ -85,7 +67,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214211" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638216">Monsieur le Président, nous avons tous déjà possédé une vieille auto usée qui nous amenait néanmoins au travail chaque matin, jusqu'au jour où on nous apprenait qu'il fallait y mettre des milliers de dollars de réparations.</ParaText>
+              <ParaText id="4638216">Monsieur le Président, nous avons tous déjà possédé une vieille auto usée qui nous ammenait néanmoins au travail chaque matin, jusqu'au jour où on nous apprenait qu'il fallait y mettre des milliers de dollars de réparations.</ParaText>
               <ParaText id="4638217">Personne ne fait cette dépense. On met le minimum pour se rendre au travail; on se tourne vers l'avenir et on investit dans quelque chose de durable. C'est pourtant tout le contraire que fait le gouvernement avec les énergies fossiles.</ParaText>
               <ParaText id="4638218">Les groupes environnementaux estiment à 3,3 milliards de dollars les subventions que le Canada a accordées aux énergies fossiles, en 2015. Ces subventions à des industries du passé doivent cesser, demandait l'ONU hier, à Marrakech. Le gouvernement a promis d'arrêter de le faire, mais en 2024.</ParaText>
               <ParaText id="4638219">Pendant que le gouvernement fait de beaux discours sur la scène internationale, il fonce en cinquième vitesse dans le mur des changements climatiques. Tant qu'il refusera de prévoir un avenir sans énergies fossiles, le Canada nuira au Québec et à tous les États qui luttent contre le réchauffement mondial.</ParaText>
@@ -300,7 +282,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9236258">
-        <SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le 
       Mat totémique en l'honneur des survivantes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Kwan" id="9236259">
@@ -474,25 +456,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9236787">
         <SubjectOfBusinessTitle>Le développement international</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ambrose" id="9236312">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ambrose" id="9236315">
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638310">Monsieur le Président, il est bien établi que les écoles gérées par l'Office de secours et de travaux des Nations unies et l'Autorité palestinienne ont fait l'apologie du terrorisme contre Israël.</ParaText>
-              <ParaText id="4638311">Le gouvernement conservateur a coupé à juste titre le financement versé à l'UNRWA parce que nous n'avions aucun moyen de savoir avec certitude comment l'argent était utilisé.</ParaText>
-              <ParaText id="4638312">Même si le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> affirme appuyer Israël, ses actions prouvent le contraire. Comment peut-il garantir que cet argent ne servira pas à aggraver la situation pour les citoyens israéliens...</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9236314">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638313">À l'ordre. Le microphone a cessé de fonctionner pendant la question de la députée. Je lui demande de la répéter, en espérant que le microphone fonctionnera bien.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Ambrose" id="9236315">
-            <PersonSpeaking>
-              <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4638314">Monsieur le Président, il est bien établi que les écoles gérées par l'Office de secours et de travaux des Nations unies et l'Autorité palestinienne ont fait l'apologie du terrorisme contre Israël. Le gouvernement conservateur a coupé à juste titre le financement versé à l'UNRWA parce que nous n'avions aucun moyen de savoir avec certitude comment l'argent était utilisé.</ParaText>
               <ParaText id="4638315">Même si le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> affirme appuyer Israël, ses actions prouvent le contraire. Comment peut-il garantir que cet argent ne servira pas à aggraver la situation pour les citoyens israéliens? Ou s'agit-il d'une autre façon d'utiliser l'argent des contribuables canadiens pour obtenir un siège au Conseil de sécurité de l'ONU?</ParaText>
@@ -509,7 +475,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9236329">
-        <SubjectOfBusinessTitle>La liberté de la presse</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La liberté de presse</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Mulcair" id="9236328">
             <PersonSpeaking>
@@ -1010,7 +976,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638425">Monsieur le Président, la raison pour laquelle nous avons choisi le Groupe St-Pierre, c'est parce que nous voulons absolument nous débarrasser le plus vite possible du <I>Kathryn Spirit</I>. Il est là depuis cinq ans et c'est le temps d'agir. Cela n'a pas été fait par le gouvernement précédent et nous allons le faire. Nous paierons 7,9 millions de dollars pour faire bâtir un batardeau pour isoler le navire du fleuve Saint-Laurent. Au printemps, après un appel d'offres, nous procéderons au démantèlement de ce navire.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9236480">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les transports</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Block" id="9236479">
             <PersonSpeaking>
               <Affiliation DbId="214485" Type="2">Mme Kelly Block (Carlton Trail—Eagle Creek, PCC)</Affiliation>: </PersonSpeaking>
@@ -1029,7 +1000,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638431">Nous continuons de collaborer avec la Colombie-Britannique et le promoteur pour faire progresser le projet.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9236359">
+        <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
+        <SubjectOfBusinessTitle>L'environnement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Motz" id="9236484">
             <PersonSpeaking>
               <Affiliation DbId="227983" Type="2">M. Glen Motz (Medicine Hat—Cardston—Warner, PCC)</Affiliation>: </PersonSpeaking>
@@ -1057,7 +1033,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214025" Type="2">M. Alupa Clarke (Beauport—Limoilou, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638437">Monsieur le Président, en juillet 2015, notre gouvernement conservateur s'est engagé à verser 60 millions de dollars dans le projet Beauport 2020 du Port de Québec. Ce projet est très important pour la vitalité économique de Québec. C'est justement pourquoi le maire de ma ville appuie ce projet. </ParaText>
+              <ParaText id="4638437">Monsieur le Président, en juillet 2015, notre gouvernement conservateur s'est engagé à verser 60 millions de dollars dans le projet le projet Beauport 2020 du Port de Québec. Ce projet est très important pour la vitalité économique de Québec. C'est justement pourquoi le maire de ma ville appuie ce projet. </ParaText>
               <ParaText id="4638438">Pourtant, depuis son élection, le gouvernement libéral se fait silencieux non seulement en ce qui concerne Beauport 2020, mais aussi eu égard aux projets de la promenade de l'Anse au Foulon et du terminal de croisières Ross Gaudreault.</ParaText>
               <ParaText id="4638439">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> essaie-t-il de punir les résidants de Québec qui ont voté conservateur? Quand va-t-il confirmer son appui à ces projets d'envergure?</ParaText>
             </Content>
@@ -1277,7 +1253,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9236596">
-        <SubjectOfBusinessQualifier>L'environment et le développement durable</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Environment et développement durable</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Schulte" id="9236540">
             <PersonSpeaking>
@@ -1298,7 +1274,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ProceduralText TocType="TPC" id="2">Projet de loi C-321. Présentation et première lecture</ProceduralText>
               <ParaText id="4638473">demande à présenter le projet de loi <Document DbId="8421640" Type="4">C-321, Loi modifiant la Loi canadienne sur la protection de l’environnement (1999) (interdiction de l’amiante)</Document>.</ParaText>
-              <ParaText id="4638474">Monsieur le Président, j’ai l’honneur de présenter un projet de loi qui interdirait l’utilisation d’une substance mortelle, je veux parler de l’amiante. Nombre de mes concitoyens m’ont dit avoir perdu des êtres chers à cause de ce terrible fléau. L’épidémie de décès causés par l’amiante doit cesser.</ParaText>
+              <ParaText id="4638474">-- Monsieur le Président, j’ai l’honneur de présenter un projet de loi qui interdirait l’utilisation d’une substance mortelle, je veux parler de l’amiante. Nombre de mes concitoyens m’ont dit avoir perdu des êtres chers à cause de ce terrible fléau. L’épidémie de décès causés par l’amiante doit cesser.</ParaText>
               <ParaText id="4638475">Je suis toujours prête à travailler avec le gouvernement pour protéger la santé et la sécurité des Canadiens. J’espère que tous les députés appuieront le projet de loi.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="3">(Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.)</ProceduralText>
             </Content>
@@ -1386,6 +1362,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638511">Il faut bien comprendre que ce que les investisseurs à ce niveau souhaitent, c'est de faire le plus de profits possible, et de réduire les risques. Nous ne le savons pas encore, mais nous sommes très près de possiblement savoir ce que pensent les investisseurs. S'ils peuvent refiler les risques aux contribuables grâce à cette banque et tirer le plus de profits possible de ces projets, alors ce sera le scénario parfait. </ParaText>
               <ParaText id="4638512">Nous suivons de très près ce que fait le gouvernement sur le plan de la structure. Il ne nous a fourni aucun détail à ce sujet.</ParaText>
               <ParaText id="4638513">Bien que nous disposions d'un modèle qui fonctionne, c'est-à-dire les partenariats public-privé, le gouvernement a décidé de l'éliminer, parce qu'il suppose que les investisseurs s'occuperont des deux côtés de l'équation, soit les profits et les risques. Cependant, les investisseurs ne voudront peut-être pas assumer les risques, et ce sont les contribuables canadiens qui devront s'en charger.</ParaText>
+              <ParaText id="4668061">
+                <B>Le Président:</B> Nous reprenons le débat. L'honorable député de Carleton a la parole.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
@@ -1750,7 +1728,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213926" Type="2">M. Mark Warawa</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638530">Monsieur le Président, j'invoque le Règlement. Dans l'effervescence du moment, j'ai voté pour et contre. Je tiens à préciser que je vote pour. </ParaText>
+              <ParaText id="4638530">Monsieur le Président, j'invoque le Règlement. Dans l'effervescence du moment, j'ai voté pour et contre la motion. Je tiens à préciser que je vote pour. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9236819">
@@ -1765,7 +1743,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214240" Type="2">M. Todd Doherty</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638533">Monsieur le Président, j'invoque le Règlement. Dans un mouvement d'enthousiasme, et dans un moment de réflexion, j'ai voté pour alors que j'aurais dû voter contre. Je préférerais de loin entendre ce que le député de <Affiliation DbId="214462" Type="2">Carleton</Affiliation> a à dire à ce sujet.</ParaText>
+              <ParaText id="4638533">Monsieur le Président, j'invoque le Règlement. Dans un mouvement d'enthousiasme, et dans un moment de réflexion, j'ai voté pour la motion alors que j'aurais dû voter contre. Je préférerais de loin entendre ce que le député de <Affiliation DbId="214462" Type="2">Carleton</Affiliation> a à dire à ce sujet.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Ouellette" id="9236822">
@@ -1788,7 +1766,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214586" Type="2">M. Alexander Nuttall</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638537">Monsieur le Président, je m'excuse, j'ai eu une prise de conscience après avoir voté pour. Je dois maintenant vous dire que je vote contre et que j'ai effectivement voté deux fois pendant les délibérations. </ParaText>
+              <ParaText id="4638537">Monsieur le Président, je m'excuse, j'ai eu une prise de conscience après avoir voté pour la motion. Je dois maintenant vous dire que je vote contre et que j'ai effectivement voté deux fois pendant les délibérations. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9236826">
@@ -1801,157 +1779,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638541">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera à l'heure de l'ajournement ce soir: le député de Drummond, Les langues officielles; le député de Sherwood Park—Fort Saskatchewan, Les affaires étrangères; le député de Calgary Nose Hill, Les affaires étrangères.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9236992">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Questions au <I>Feuilleton</I></SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Duclos" id="9236828">
-            <PersonSpeaking>
-              <Affiliation DbId="214330" Type="4">L’hon. Jean-Yves Duclos (ministre de la Famille, des Enfants et du Développement social, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638542">Monsieur le Président, on répondra aujourd'hui aux questions n<Sup>os</Sup> 522 et 524.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237095">
-        <SubjectOfBusinessContent>
-          <FloorLanguage language="Text">[<I>Texte</I>]</FloorLanguage>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 522 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214064" Type="2">Mme Brigitte Sansoucy</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638543">  En ce qui concerne les affirmations du gouvernement selon lesquelles la nouvelle Allocation canadienne pour enfants permettra de sortir 60 000 enfants québécois de la pauvreté: <I>a</I>) sur quelles méthodes et prévisions précises le gouvernement s’appuie-t-il pour faire une telle affirmation; <I>b</I>) combien d’enfants au Québec vivaient dans la pauvreté au (i) 1<Sup>er</Sup> janvier 2014, (ii) 1<Sup>er</Sup> janvier 2015, (iii) 1<Sup>er</Sup> janvier 2016; <I>c</I>) selon les études et méthodes de prévision du gouvernement, à combien passera le nombre d’enfants vivant dans la pauvreté au Québec à partir du (i) 1<Sup>er</Sup> janvier 2017, (ii) 1<Sup>er</Sup> janvier 2018, (iii) 1<Sup>er </Sup>janvier 2019? 
- 
-  
- </ParaText>
-            </QuestionContent>
-            <Responder>
-              <Affiliation DbId="214678" Type="18">M. Terry Duguid (secrétaire parlementaire du ministre de la Famille, des Enfants et du Développement social, Lib.)</Affiliation>: </Responder>
-            <ResponseContent>
-              <ParaText id="4638544">Monsieur le Président, en réponse à la partie a) de la question, les répercussions sur la réduction de la pauvreté associées à l’Allocation canadienne pour enfants, ou l’ACE, ont été estimées au moyen d’un modèle de « microsimulation » produit par EDSC. Ce modèle est statique, c’est-à-dire qu’il ne tient pas compte des réponses comportementales aux changements de politiques. Pour estimer les répercussions, on a employé une méthode d’analyse contrefactuelle permettant de calculer les effets des changements dans les politiques sur le revenu après impôt des familles. En résumé, cela signifie que le revenu familial peut être comparé en fonction de deux scénarios: le premier scénario est fondé sur le régime actuel de prestations pour enfants, et le deuxième scénario est fondé sur le régime de prestations pour enfants proposé, comme l’ACE. Cela permet de déterminer si une famille dont le revenu se situe en dessous d’un certain seuil dans le premier scénario verrait sa situation changer dans le deuxième scénario. L’effet de réduction de la pauvreté estimé est la différence entre ces deux scénarios en ce qui a trait au nombre d’enfants sous le seuil de faible revenu, le SFR. Selon cette méthode, il fut estimé que près de 60 000 enfants verront leur revenu familial dépasser le SFR au Québec grâce à l’ACE.</ParaText>
-              <ParaText id="4638545">Cette estimation a été produite au moyen d’un modèle de « microsimulation » d’EDSC fondé sur la population d’enfants provenant de familles à faible revenu dans les données qui ont été publiées par Statistique Canada. Au moment où l’estimation a été produite, l’Enquête canadienne sur le revenu, la source officielle pour les données sur le revenu au Canada, indiquait qu’il y avait en tout 163 000 enfants vivant sous le SFR en 2013 au Québec. Une hypothèse a été formulée selon laquelle le nombre d’enfants provenant de familles à faible revenu demeurerait inchangé après 2013. Le régime de prestations pour enfants qui existait en 2013 a donc été choisi comme régime de base aux fins de l’analyse contrefactuelle.</ParaText>
-              <ParaText id="4638546">Par la suite, il a été estimé que l’ACE permettrait à 60 000 enfants de passer au dessus du SFR au Québec.</ParaText>
-              <ParaText id="4638547">En ce qui concerne la partie b) de la question, le faible revenu est mesuré en comparant le revenu d’un individu ou d’une famille au cours d’une année entière avec un seuil préétabli pour cette année, tel que le SFR. Il n’est donc pas possible de connaitre le nombre d’enfants ou d’individus vivant dans la pauvreté pour une journée particulière.</ParaText>
-              <ParaText id="4638548">Les statistiques de faible revenu les plus récentes sont celles qu’a publiées Statistique Canada pour 2014, selon lesquelles 105 000 enfants du Québec vivaient sous le SFR.  Les données pour 2015 et 2016 ne sont pas disponibles.</ParaText>
-              <ParaText id="4638549">Enfin, pour ce qui est de la partie c) de la question, comme je l’ai mentionné dans la réponse à la partie b) de la question, le faible revenu n’est pas mesuré à un moment particulier de l’année.  Il s’agit plutôt d’un concept mesuré au cours d’une année entière. </ParaText>
-              <ParaText id="4638550">En utilisant les hypothèses et la méthodologie décrites dans la réponse à la partie a) de la question, c’est-à-dire un point de départ de 163 000 enfants sous le SFR, reflétant les données les plus récentes disponibles au moment de faire l’estimation, EDSC a estimé le nombre d’enfants sous le SFR après impôt à 103 000 au Québec pour 2017. Le nombre d’enfants en situation de faible revenu au Québec pour 2017 sera connu lorsque l’Enquête canadienne sur le revenu de 2017 sera publiée par Statistique Canada, ce qui pourrait ne pas être avant 2019. À des fins de références, l’Enquête canadienne sur le revenu de 2014 a été publiée en juillet 2016.</ParaText>
-              <ParaText id="4638551">Le nombre d’enfants en situation de faible revenu publié par Statistique Canada fluctue de manière significative d’une année à l’autre. Une estimation est fournie pour 2017 puisqu’il s’agit de la première année de la mise en oeuvre complète de l’ACE. Par contre, l’incertitude liée aux estimations pour les années futures grandit au fur et à mesure que l’on s’éloigne de l’année de référence utilisée. Les estimations au-delà de 2017 ne seraient pas suffisamment fiables à ce stade-ci.   </ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 524 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214272" Type="2">M. Matt Jeneroux</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638552">   En ce qui concerne l’achat de meubles pour les résidences du premier ministre, soit la résidence du lac Mousseau et le Rideau Cottage: quelle est la valeur, ou la valeur estimée, ainsi que la description de tous les meubles acquis depuis le 4 novembre 2015 pour (i) la résidence du lac Mousseau, (ii) le Rideau Cottage?</ParaText>
-            </QuestionContent>
-            <Responder>
-              <Affiliation DbId="214682" Type="18">M. Randy Boissonnault (secrétaire parlementaire de la ministre du Patrimoine canadien, Lib.)</Affiliation>: </Responder>
-            <ResponseContent>
-              <ParaText id="4638553">Monsieur le Président, tous les meubles, nouvellement acquis ou permanents, font partie de la collection de la Couronne de la CCN ou viennent d’un inventaire de service général. La CCN n’attribue de coût d’acquisition de meubles à aucune des résidences officielles.  Conséquemment, il n’y a aucun coût relié à l’acquisition ou au placement de meubles associé spécifiquement à la résidence du lac Mousseau ou à Rideau Cottage.</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237097">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Questions transformées en ordres de dépôt de documents</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Duclos" id="9237103">
-            <PersonSpeaking>
-              <Affiliation DbId="214330" Type="4">L’hon. Jean-Yves Duclos (ministre de la Famille, des Enfants et du Développement social, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638554">Monsieur le Président, si les questions n<Sup>os</Sup> 520, 521, 523, 525 et 526 pouvaient être transformées en ordre de dépôt de document, les documents seraient déposés immédiatement. </ParaText>
-              <ParaText id="4638555">
-                <B>Le Président</B>: Est-on d'accord? </ParaText>
-              <ParaText id="4638556">
-                <B>Des voix</B>: D'accord. </ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237106">
-        <SubjectOfBusinessContent>
-          <FloorLanguage language="Text">[<I>Texte</I>]</FloorLanguage>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 520 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214564" Type="2">M. Charlie Angus</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638557"> En ce qui concerne le numéro de dossier T1340/7008 du Tribunal canadien des droits de la personne, qui oppose la Société de soutien à l'enfance et à la famille des Premières Nations du Canada et l’Assemblée des Premières Nations au procureur général du Canada (représentant la ministre des Affaires indiennes et du Développement du Nord du Canada): <I>a</I>) à combien s’élève le total des frais juridiques engagés par le gouvernement dans l’affaire depuis le 25 janvier 2016; <I>b</I>) en ce qui concerne les 382 millions de dollars annoncés pour l’application du principe de Jordan, (i) qui a été consulté, (ii) quel a été le processus de consultation, (iii) comment le financement est-il ventilé tous les ans, (iv) comment ces fonds sont-ils répartis; <I>c</I>) à quelle date a-t-on initialement créé les investissements budgétaires dans les organismes de protection de la jeunesse; <I>d</I>) en ce qui concerne la modification de la formule de financement des organismes de protection de la jeunesse pour ce qui est de l’éloignement, (i) Affaires autochtones et du Nord Canada (AANC) établira-t-il une stratégie qui tienne compte de ces éléments, (ii) dans l’affirmative, dans combien de temps mettra-t-il cette stratégie en œuvre; <I>e</I>) en ce qui concerne les consultations lors de ce processus judiciaire, (i) quelle est la liste des Premières Nations, des services à l'enfance et à la famille des Premières Nations (SEFPN), des autorités provinciales et territoriales, des partenaires, des spécialistes ou de toute autre personne que AANC a consulté depuis le 26 janvier 2016 au sujet des conclusions du jugement rendu par le Tribunal canadien des droits de la personne à cette même date, (ii) quel est le plan de consultations d'AANC prévu pour la suite, (iii) quel est l’ordre du jour de toutes les séances de consultations d'AANC auprès des Premières Nations, des SEFPN, des autorités provinciales et territoriales, des partenaires, des spécialistes ou de toute autre personne consultée par AANC depuis le 26 janvier 2016, (iv) quel est le compte rendu des décisions de toutes les séances de consultations d'AANC auprès des Premières Nations, des SEFPN, des autorités provinciales et territoriales, des partenaires, des spécialistes ou de toutes les autres personnes consultées par AANC depuis le 26 janvier 2016; <I>f</I>) en ce qui concerne la répartition des fonds d’aide immédiate versés en Ontario, quels sont les détails de toute correspondance entre AANC et le gouvernement de l’Ontario sur ce sujet; <I>g</I>) en ce qui concerne la définition des services de prévention en Ontario abordée dans le jugement, (i) AANC remboursera-t-il les frais de déplacements nécessaires pour obtenir des examens et des services en besoins particuliers prescrits par les médecins, des services de relève, de soutien et de réadaptation en besoins particuliers de même que des services de soutien aux familles en crise sous le régime de l’entente de 1965 sur les programmes de bien-être des Indiens en vigueur en Ontario, (ii) quels sont les détails de toutes les demandes que AANC a reçues visant le remboursement des frais de déplacement pour obtenir des examens et des services en besoins particuliers prescrits par les médecins, des services de relève, de soutien et de réadaptation en besoins particuliers de même que des services de soutien aux familles en crise en Ontario; <I>h</I>) en ce qui concerne les besoins en infrastructures de l’Ontario cités dans le jugement, (i) AANC est-il doté d’une stratégie provisoire pour répondre aux besoins des SEFPN de l’Ontario en la matière, qui ne sont pas visés par l’entente de 1965 sur les programmes de bien-être des Indiens en vigueur dans cette province, (ii) si AANC est doté d’une stratégie provisoire, quels en sont les détails, (iii) si AANC n’est pas doté d’une stratégie provisoire, y a-t-il eu des tentatives de mettre en place une telle stratégie; (i) en ce qui concerne l’admissibilité en Ontario, (i) AANC s’occupera-t-il de l’accès aux services pour les enfants des Premières Nations de cette province ayant « le droit d’être inscrits » en vertu de la Loi sur les Indiens, (ii) si AANC s’occupera de l’accès aux services, quand le fera-t-il; <I>j</I>) en ce qui concerne les consultations sur le principe de Jordan, (i) quelle est la liste des Premières Nations, des SEFPN, des autorités provinciales et territoriales, des partenaires, des spécialistes ou de toute autre personne que AANC a consultés depuis le 26 janvier 2016 au sujet des conclusions du jugement rendu par le Tribunal canadien des droits de la personne à cette même date, ainsi que le plan de consultations d'AANC prévu pour la suite, (ii) quel est l’ordre du jour de toutes les séances de consultations d'AANC auprès des Premières Nations, des SEFPN, des autorités provinciales et territoriales, des partenaires, des spécialistes ou de toute autre personne consultés par AANC depuis le 26 janvier 2016, (iii) quel est le compte rendu des décisions de toutes les séances de consultations d'AANC auprès des Premières Nations, des SEFPN, des autorités provinciales et territoriales, des partenaires, des spécialistes ou de toute autre personne consultés par AANC depuis le 26 janvier 2016; <I>k</I>) en ce qui concerne l’Étude canadienne sur l’incidence citée dans le jugement, (i) le financement est-il assuré pour le volet de l'Étude sur les Autochtones, y compris si ce volet de l’Étude comprendra la collecte de données précises sur les communautés des Premières Nations éloignées et du Nord, (ii) dans l’affirmative, quand l’équipe de l’Étude se rendra-t-elle sur le terrain, (iii) quels sont les détails de la méthodologie employée pour collecter les données dans le cadre du volet de l'Étude sur les Autochtones et des communautés des Premières Nations éloignées et du Nord? </ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638558">(Le document est déposé)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 521 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638559"> En ce qui concerne la réponse du gouvernement à la pétition no 388, adressée à la commissaire à l’environnement et au développement durable et publiée sur le site Web du Bureau du vérificateur général du Canada, et plus précisément sa réponse à la question trois, où le gouvernement indique sa préférence pour la Ferme expérimentale centrale en vue de deux études qui en sont toujours à l’étape de la planification: <I>a</I>) quel est l’objectif de chaque étude; <I>b</I>) selon les recherches effectuées par le gouvernement, est-il possible de déterminer si chaque étude pourra se terminer d’ici la fin de 2022; <I>c</I>) quelles caractéristiques de la parcelle de terrain en question de la Ferme expérimentale centrale sont nécessaires pour les besoins des études, les caractéristiques étant ventilées selon le type; <I>d</I>) le gouvernement a-t-il envisagé la possibilité que les études soient menées sur une autre parcelle de terrain de la Ferme expérimentale centrale et, le cas échéant, à quelle conclusion en est il arrivé; <I>e</I>) sur quelles terres ou dans quelles installations semblables ces études pourraient-elles se dérouler; <I>f</I>) combien la préparation de ces études a-t-elle coûté jusqu’à présent; <I>g</I>) le gouvernement a-t-il déterminé combien il en coûterait d’annuler ces études et, le cas échéant, quels seraient les coûts?</ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638560">(Le document est déposé)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 523 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214417" Type="2">M. Larry Miller</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638561">  En ce qui concerne les frais de déménagement des employés contractuels, ventilés par ministère ou agence gouvernementale, depuis le 4 novembre 2015: <I>a</I>) combien d’employés contractuels ont fait payer leurs frais de déménagement ou d’hébergement temporaire par le gouvernement; <I>b</I>) quel montant a été payé, ventilé par type de frais; <I>c</I>) combien d’employés contractuels du bureau d’un ministre ont fait payer leurs frais de déménagement ou d’hébergement temporaire par le gouvernement; <I>d</I>) pour chaque cas visé en <I>c</I>), (i) quel montant a été payé, (ii) quelle est la ventilation précise des frais payés? </ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638562">(Le document est déposé)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 525 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214272" Type="2">M. Matt Jeneroux</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638563">  En ce qui concerne les cyberattaques, ventilées par mois et par ministère, agence et société d’État, depuis le 1er janvier 2016: <I>a</I>) combien de cyberattaques ont été dirigées contre un ministère, une agence ou une société d’État ou un de leurs serveurs ou réseaux; <I>b</I>) parmi les attaques citées en <I>a</I>), combien se sont soldées par le vol d’informations gouvernementales; <I>c</I>) parmi les attaques citées en b), combien se sont soldées par le vol d’informations gouvernementales classifiées; <I>d</I>) parmi les attaques citées en <I>a</I>), combien se sont soldées par le vol de renseignements personnels; <I>e</I>) parmi les attaques citées en <I>d</I>), les renseignements personnels de combien de personnes ont été volés; <I>f</I>) les particuliers dont les renseignements ont été volés ont-ils été informés du vol et, le cas échéant, comment les en a-t-on informés; <I>g</I>) pour chaque cas de vol de renseignements personnels, a-t-on avisé le commissaire à la protection de la vie privée? </ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638564">(Le document est déposé)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question n<Sup>o</Sup> 526 -- </QuestionID>
-            <Questioner>
-              <Affiliation DbId="214272" Type="2">M. Matt Jeneroux</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638565">  En ce qui concerne les comptes de médias sociaux du gouvernement, y compris les comptes des ministères, ventilés par ministère et agence ainsi que par compte de média social: <I>a</I>) quelles plateformes de média social le gouvernement utilise-t-il à l’heure actuelle; <I>b</I>) quel est le nom, le pseudonyme ou autre identifiant de chaque compte, selon la plateforme; <I>c</I>) quels comptes sont gérés par (i) des représentants ministériels, (ii) du personnel ministériel exempté, (iii) les deux catégories d’employés?</ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638566">(Le document est déposé)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Duclos" id="9237108">
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Duclos" id="9236828">
             <PersonSpeaking>
               <Affiliation DbId="214330" Type="4">L’hon. Jean-Yves Duclos</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638567">Monsieur le Président, je demande que les autres questions restent au <I>Feuilleton</I>. </ParaText>
-              <ParaText id="4638568">
-                <B>Le Président:</B> Est-on d'accord? </ParaText>
-              <ParaText id="4638569">
-                <B>Des voix: </B>D'accord. </ParaText>
+              <ParaText id="4638542">Monsieur le Président, je fais appel au Règlement pour déposer, dans les deux langues officielles, les réponses du gouvernement aux questions n<Sup>os</Sup> 520 à 526.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9236831">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Finances</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="7">Motion d'adoption</ProceduralText>
-          <ParaText id="4638570">La Chambre reprend l'étude de la motion.</ParaText>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Anderson" id="9237109">
             <PersonSpeaking>
               <Affiliation DbId="214358" Type="2">M. David Anderson (Cypress Hills—Grasslands, PCC)</Affiliation>: </PersonSpeaking>
@@ -1990,7 +1826,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638588">Beaucoup d'autres choses sont à signaler, notamment les hausses d'impôt du gouvernement libéral et la multiplication des formalités administratives. Tout cela ne fait qu'empirer la situation des Canadiens. Il ne faut pas oublier que les libéraux ont annulé le crédit d'impôt à l'intention des familles, pour les activités sportives et artistiques, de même que les allégements fiscaux consentis aux petites entreprises. Ces décisions ont eu des répercussions importantes à l'échelle du pays notamment parce que les libéraux veulent augmenter les cotisations au RPC. Cette mesure forcera les entreprises et les particuliers à payer jusqu'à 2 200 $, possiblement plus, pour couvrir les augmentations que les libéraux estiment nécessaires. Les Canadiens doivent s'intéresser à cette hausse des cotisations au RPC parce qu'elle n'aura pas vraiment d'incidence sur la génération actuelle. Il faudra de 20 à 40 ans avant que cette mesure ne porte pleinement ses fruits. Ainsi, certains travailleurs verseront des cotisations plus élevées pendant plusieurs années, mais ne toucheront jamais de meilleures prestations. Or, ils ne semblent pas s'en rendre compte.</ParaText>
               <ParaText id="4638589">La taxe sur le carbone est un autre problème. J'ai siégé pendant six ans au comité des ressources naturelles et nous avons grandement discuté du carbone, du dioxyde de carbone et des taxes sur le carbone. Nous avons discuté de bourses du carbone et de la possibilité de fixer un prix pour les émissions de carbone. Il semble que toutes les mesures suggérées aujourd'hui au Canada ont été mises à l'essai ailleurs mais sans succès. Nous accusons du retard dans ce dossier, mais nous insistons tout de même pour participer au processus.</ParaText>
               <ParaText id="4638590">Je propose:</ParaText>
-              <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
               <ParaText id="4638591">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que la Chambre s'ajourne maintenant.</QuotePara>
@@ -2346,22 +2182,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4638603">Je déclare la motion rejetée.</ParaText>
-              <ProceduralText TocType="TPC" id="9">Rejet de la motion</ProceduralText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237251">
-        <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Finances</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TPC" id="10">Motion d'adoption</ProceduralText>
-        <SubjectOfBusinessContent>
-          <ParaText id="4638604">La Chambre reprend l'étude de la motion.</ParaText>
-          <Intervention Type="Interjection" ToC="No" id="9237837" ToCText="Le Président">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
               <ParaText id="4638605">Nous passons maintenant à la période de questions et observations faisant suite au discours du député de Cypress Hills—Grasslands.</ParaText>
+              <ProceduralText TocType="TPC" id="8">Rejet de la motion</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9237115">
@@ -2491,7 +2313,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638646">
                 <B>Une voix:</B> Beaucoup.</ParaText>
               <ParaText id="4638647">
-                <B>M. Kevin Lamoureux:</B> Beaucoup, c'est exact, et pas seulement dans les circonscriptions libérales. Beaucoup...</ParaText>
+                <B>M. Kevin Lamoureux:</B> Beaucoup, madame la Présidente, c'est exact, et pas seulement dans les circonscriptions libérales. Beaucoup...</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
@@ -2544,7 +2366,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4638660"> À l'ordre. Il ne nous reste environ que quatre minutes avant que le débat sur la question ne prenne fin pour aujourd'hui. Je vous invite à écouter ce que le député a à dire et à prendre en note les questions qui vous viennent à l'esprit plutôt que de les crier.</ParaText>
-              <ParaText id="4638661">Avant de poursuivre, je rappelle aux députés que le paragraphe <?bk?>16(2)<?ek?> du Règlement dit: « Lorsqu'un député a la parole, il est interdit à tout député [...] de l'interrompre sauf pour soulever un rappel au Règlement. »<Query /> Par conséquent, je rappelle aux députés de ne pas interrompre un collègue qui a la parole.</ParaText>
+              <ParaText id="4638661">Avant de poursuivre, je rappelle aux députés que le paragraphe <?bk ?>16(2)<?ek ?> du Règlement dit: « Lorsqu'un député a la parole, il est interdit à tout député [...] de l'interrompre sauf pour soulever un rappel au Règlement. »<Query /> Par conséquent, je rappelle aux députés de ne pas interrompre un collègue qui a la parole.</ParaText>
               <ParaText id="4638662">Le député de Brantford—Brant invoque le Règlement.</ParaText>
             </Content>
           </Intervention>
@@ -2613,7 +2435,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214254" Type="2">M. Kelly McCauley (Edmonton-Ouest, PCC) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="11">Projet de loi C-301. Deuxième lecture</ProceduralText>
+              <ProceduralText TocType="TPC" id="9">Projet de loi C-301. Deuxième lecture</ProceduralText>
               <ParaText id="4638674">propose que le projet de loi <Document DbId="8411873" Type="4">C-301, Loi modifiant la Loi de l’impôt sur le revenu et apportant une modification connexe à une autre loi (fonds enregistré de revenu de retraite)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
               <ParaText id="4638675">Madame la Présidente, j’ai l’honneur d’intervenir aujourd’hui, et aussi d'interrompre la diatribe de mon collègue d’en face, pour parler de mon projet de loi, le projet de loi <Document DbId="8411873" Type="4">C-301</Document>, loi sur la sécurité financière du fonds enregistré de revenu de retraite, qui vise à supprimer le retrait minimum obligatoire que doivent faire les aînés titulaires d’un compte dans un fonds enregistré de revenu de retraite. </ParaText>
               <ParaText id="4638676">Comme les députés le savent, la retraite est un moment difficile. Planifier sa vie après le travail n’est pas facile, coûte de l’argent et n’est pas toujours prévisible. Tout au long de la dernière décennie, le gouvernement canadien a fait de grands progrès pour atténuer le stress de la retraite, notamment en augmentant le Supplément de revenu garanti, en créant les comptes d’épargne libre d’impôt et en instaurant le fractionnement du revenu pour les aînés. Le gouvernement précédent a pris également une mesure très progressiste en faveur des Canadiens en abaissant le montant du retrait que devaient faire les aînés détenteurs d’un fonds enregistré de revenu de retraite.</ParaText>
@@ -2901,7 +2723,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4638828">En ce qui concerne le Bureau de la traduction, la réponse du gouvernement a été déposée en octobre dernier par la <Affiliation DbId="214324" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation>. Nous avons réaffirmé notre soutien et réitéré notre engagement à offrir des services dans les deux langues officielles grâce à un outil de compréhension linguistique conçu pour favoriser et encourager l'utilisation des deux langues officielles au travail. De nombreuses recommandations du Comité permanent des langues officielles ont déjà été mises en oeuvre, notamment celles concernant l'outil de compréhension linguistique. La ministre est persuadée que sa collègue, la <Affiliation DbId="214324" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation>, accorde à cela toute l'attention nécessaire.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4638829">Nous avons aussi réalisé des progrès en collaboration avec notre collègue, la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation>, en ce qui concerne l'obligation que des juges bilingues soient nommés à la Cour suprême. En plus, avec le concours du <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation>, nous avons réussi à rétablir la présence et l'éducation pour les militaires du Collègue militaire royal de Saint-Jean. </ParaText>
-              <ParaText id="4638830">Nous sommes très fiers de nos réalisations concernant les langues officielles. Nous prenons en compte la question du « par » et <?bk?>« pour ».<?ek?> Nous allons continuer de revendiquer les droits linguistiques des communautés en situation langagière minoritaire. Nous continuons à oeuvrer à nos objectifs et à nos responsabilités en ce qui concerne la Loi sur les langues officielles, parce que c'est notre devoir.</ParaText>
+              <ParaText id="4638830">Nous sommes très fiers de nos réalisations concernant les langues officielles. Nous prenons en compte la question du « par » et <?bk ?>« pour ».<?ek ?> Nous allons continuer de revendiquer les droits linguistiques des communautés en situation langagière minoritaire. Nous continuons à oeuvrer à nos objectifs et à nos responsabilités en ce qui concerne la Loi sur les langues officielles, parce que c'est notre devoir.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="40">(1840)</Timestamp>

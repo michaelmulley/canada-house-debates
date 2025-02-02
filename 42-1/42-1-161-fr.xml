@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9465068">
-  <StartPageNumber>10243</StartPageNumber>
+  <StartPageNumber>10241</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -91,7 +73,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9465267">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>La défense nationale</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Défense nationale</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Fisher" id="9465096">
             <PersonSpeaking>
@@ -104,7 +86,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9465321">
-        <SubjectOfBusinessQualifier>Les affaires étrangères et le commerce international</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Affaires étrangères et le commerce international</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Nault" id="9465106">
             <PersonSpeaking>
@@ -202,7 +184,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9465648">
         <SubjectOfBusinessQualifier>Le transport ferroviaire</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9465193">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9465193">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -251,7 +233,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9465226">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826566">Monsieur le Président, on répondra aujourd'hui aux questions n<Sup>os</Sup> 877, 879 et 883.</ParaText>
             </Content>
@@ -301,11 +283,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="229524" Type="18">Mme Yvonne Jones (secrétaire parlementaire de la ministre des Affaires autochtones et du Nord, Lib.)</Affiliation>: </Responder>
             <ResponseContent>
               <ParaText id="4826575"> Monsieur le Président, en réponse à la partie a) de la question, la ministre a signé un arrêté qui soustrait la Première Nation O’Chiese de l’Arrêté sur l’élection du conseil de bandes indiennes le 16 novembre 2016.</ParaText>
-              <ParaText id="4826576">Pour ce qui est de la partie b) de la question, la Première Nation O’Chiese a rempli les obligations énumérées dans la Politique sur la conversion à un système électoral communautaire. La Première Nation O’Chiese a développé un code électoral communautaire qui a reçu l’approbation de la communauté à un vote de ratification, et le conseil de bande a fait la demande de changement par résolution formelle, ce qui respecte la politique. 
+              <ParaText id="4826576">Pour ce qui est de la partie b) de la question, la Première Nation O’Chiese a rempli les obligations énumérées dans la Politique sur la conversion à un système électoral communautaire. La Nation O’Chiese a développé un code électoral communautaire qui a reçu l’approbation de la communauté à un vote de ratification, et le conseil de bande a fait la demande de changement par résolution formelle, ce qui respecte la politique. 
 
-La Politique sur la conversion à un système électoral communautaire établit les règles et le processus entourant la conversion par une Première Nation de la tenue des élections de son conseil de bande en vertu de la Loi sur les Indiens vers la tenue de celles-ci en vertu de ses propres règles communautaires. La politique existe depuis 1996. Plus de 100 Premières Nations ont développé et mis en œuvre un système électoral communautaire en vertu de cette politique depuis.</ParaText>
+La Politique sur la conversion à un système électoral communautaire établit les règles et le processus entourant la conversion par une Nation de la tenue des élections de son conseil de bande en vertu de la Loi sur les Indiens vers la tenue de celles-ci en vertu de ses propres règles communautaires. La politique existe depuis 1996. Plus de 100 Premières Nations ont développé et mis en œuvre un système électoral communautaire en vertu de cette politique depuis.</ParaText>
               <ParaText id="4826577">En ce qui concerne la partie c) de la question, la totalité des articles 74 à 80 inclusivement de la Loi sur les Indiens, ainsi que le Règlement sur les élections au sein des bandes d’Indiens ont été remplacés par l’O’Chiese Election Act, l’O’Chiese Election Regulation et l’O’Chiese Appeal Regulation.</ParaText>
-              <ParaText id="4826578">Enfin, En ce qui a trait aux parties d), e), f) et g) de la question, compte tenu que la Première Nation O’Chiese tient maintenant ses élections en vertu de ses propres règles électorales, c’est le rôle de la Première Nation de veiller à ce que ces élections soient transparentes et légales. Cependant, l’application des règles électorales communautaires doit toujours être conforme à la Charte canadienne des droits et libertés, et les personnes qui croient que ces droits ont été enfreints peuvent accéder aux tribunaux pour obtenir un rétablissement.
+              <ParaText id="4826578">Enfin, en ce qui a trait aux parties d), e), f) et g) de la question, compte tenu que la Nation O’Chiese tient maintenant ses élections en vertu de ses propres règles électorales, c’est le rôle de la Première Nation de veiller à ce que ces élections soient transparentes et légales. Cependant, l’application des règles électorales communautaires doit toujours être conforme à la Charte canadienne des droits et libertés, et les personnes qui croient que ces droits ont été enfreints peuvent accéder aux tribunaux pour obtenir un rétablissement.
 </ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
@@ -317,7 +299,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9465235">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826579">Monsieur le Président, si la réponse du gouvernement aux questions n<Sup>os</Sup> 878, 880 à 882, et 884 à 886 pouvait être transformée en ordre de dépôt de documents, les documents seraient déposés immédiatement. </ParaText>
               <ParaText id="4826580">
@@ -374,7 +356,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <WrittenQuestionResponse>
             <QuestionID>Question n<Sup>o</Sup> 884 -- </QuestionID>
             <Questioner>
-              <Affiliation DbId="2582">M. MacKenzie (Oxford)</Affiliation>:</Questioner>
+              <Affiliation DbId="2582">M. Dave MacKenzie</Affiliation>:</Questioner>
             <QuestionContent>
               <ParaText id="4826590">   En ce qui concerne les documents produits en lien avec le projet de loi S-201, Loi visant à interdire et à prévenir la discrimination génétique: pour chaque document d’information produit, (i) quelle est la date inscrite sur le document, (ii) qui est l’expéditeur, (iii) qui est le destinataire, (iv) quel est le titre ou l’objet du document, (v) quel est le numéro de suivi interne du ministère?</ParaText>
             </QuestionContent>
@@ -407,7 +389,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9465597">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213924" Type="2">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826596">Monsieur le Président, je demande que les autres questions restent au <I>Feuilleton</I>.</ParaText>
               <ParaText id="4826597">
@@ -484,7 +466,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>L'accès à la Chambre des communes — Décision de la présidence</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="9465333">
+          <Intervention Type="Interjection" ToC="No" id="9465333">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -579,9 +561,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <Timestamp Hr="10" Mn="40">(1040)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9465604">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4826655">Monsieur le Président, je dois dire que je suis déçu qu'une candidate à la chefferie du Parti conservateur cherche à politiser une importante question de privilège en tentant d'imputer la faute à l'escorte motorisée du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. </ParaText>
+              <ParaText id="4826655">Monsieur le Président, je dois dire que je suis déçu qu'une candidate à la direction du Parti conservateur cherche à politiser une importante question de privilège en tentant d'imputer la faute à l'escorte motorisée du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. </ParaText>
               <ParaText id="4826656">Monsieur le Président, si la députée a écouté votre décision, elle a clairement compris les raisons qui vous ont fait juger que la question de privilège paraît fondée à première vue et pour lesquelles la motion a été présentée. Le cas n'a rien à voir avec le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, sans parler des autres propos tenus par la députée. </ParaText>
               <ParaText id="4826657">La députée, qui voudrait bien être chef du Parti conservateur, n'admet-elle pas que les questions de privilège sont très sérieuses, et qu'il n'est pas nécessaire d'être député de l'opposition pour en convenir? Nous-mêmes, qui faisons partie du gouvernement, l'admettons et prenons cette question très au sérieux. </ParaText>
               <ParaText id="4826658">J'ai siégé au comité de la procédure et des affaires, où nous avons été saisis de cette question cruciale par le passé. De ce côté-ci de la Chambre, nous reconnaissons ce qu'est le privilège et lui accordons une très grande importance. Nous ne croyons pas que de tenter de politiser cette question, comme la députée d'en face l'a fait, permet d'aller de l'avant.</ParaText>
@@ -589,9 +571,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="45">(1045)</Timestamp>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Raitt" id="9465631">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Raitt" id="9465631">
             <PersonSpeaking>
-              <Affiliation DbId="214228" Type="2">L'hon. Lisa Raitt</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214228" Type="2">L'hon. Lisa Raitt (Milton, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826660">Monsieur le Président, je n'ai pas eu la chance de lire les deux documents dont vous avez parlé. J'ignore donc ce qu'ils incluent précisément. Cependant, je peux dire au député que mon collègue de <Affiliation DbId="213862" Type="2">Beauce</Affiliation> a bien demandé pourquoi l'accès était entravé. Le fait est que — je parle d'un fait, et non d'une interprétation — le service de sécurité a répondu au député que l'accès était bloqué en raison de l'escorte motorisée du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>.</ParaText>
               <ParaText id="4826661">Le député accuse-t-il le député de <Affiliation DbId="213862" Type="2">Beauce</Affiliation> d'être un menteur? Est-ce bien ce qu'il tente de dire à la Chambre des communes? Si c'est le cas, je vous invite à sortir et à répéter la même chose, et nous verrons...</ParaText>
@@ -614,9 +596,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4826666">Un député libéral vient de tenter de discréditer le témoignage du député de <Affiliation DbId="213862" Type="2">Beauce</Affiliation>, qui a clairement précisé la raison pour laquelle l'accès à cette enceinte a été bloqué. Ne serait-il pas plus approprié de discuter de cette question devant un comité? Nous pourrions faire comparaître des membres du service de sécurité. Nous pourrions entendre la version des faits des députés de Beauce et de <Affiliation DbId="214228" Type="2">Milton</Affiliation> et exposer les faits afin de comprendre la nature du problème. On peut imaginer une situation à l'avenir où un premier ministre donné ne voudrait pas que certains députés votent, et où il n'aurait qu'à s'assurer que son escorte motorisée passe au moment opportun afin que les portes soient fermées. Un comité ne serait-il pas le meilleur endroit pour avoir une telle discussion?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Raitt" id="9465672">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Raitt" id="9465672">
             <PersonSpeaking>
-              <Affiliation DbId="214228" Type="2">L'hon. Lisa Raitt</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214228" Type="2">L'hon. Lisa Raitt (Milton, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826667">Madame la Présidente, je remercie le député de <Affiliation DbId="214590" Type="2">Skeena—Bulkley Valley</Affiliation> de son interprétation de ce que j'essayais de dire.</ParaText>
               <ParaText id="4826668">Le 22 mars, lors de ma première intervention à ce sujet, j'ai mentionné que nous n'avions pu accéder comme de coutume à la Colline en raison des véhicules vides qui attendaient le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. Voilà une bien piètre raison qui donne lieu de s'inquiéter des autres types de prétextes qui pourraient être invoqués pour empêcher certains députés de quelque parti que ce soit d'accéder à la Colline ou de remplir leurs fonctions.</ParaText>
@@ -649,7 +631,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9465695">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826680">Madame la Présidente, l'approche adoptée par le Parti conservateur au sujet de cette importante question de privilège me laisse perplexe. Depuis toujours, peu importe de quel côté de cette enceinte nous nous trouvions, nous défendons l'idée que les députés doivent avoir un accès sans entrave à la Chambre des communes. Pour nous, la valeur et l'importance de la participation aux débats et aux votes ne font aucun doute et j'aurai l'occasion de revenir sur ce qu'a dit exactement le Président. </ParaText>
               <ParaText id="4826681">En revanche, nous savons que le Président n'a pas dit que le problème était lié à l'escorte motorisée du premier ministre, mais l'opposition ne peut s'empêcher de ramener le débat au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. Cela semble être plus important pour eux que la question de privilège. </ParaText>
@@ -693,7 +675,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9465707">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826697">Madame la Présidente, comme je l'ai dit plus tôt en réponse à des questions sur ce sujet, le gouvernement prend très au sérieux la question de privilège et d'accès à la Chambre, comme tous les députés devraient le faire, et il reconnaît l'importance d'avoir un accès sans entrave à l'enceinte de la Chambre des communes. </ParaText>
               <ParaText id="4826698">Comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a toujours dit aux députés de son caucus, et laissé entendre à tous les députés, ils réussiront à mieux accomplir leur travail s'ils représentent les intérêts de leurs électeurs ici, à Ottawa, que s'ils représentent les intérêts d'Ottawa dans leur circonscription. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> y croît véritablement.</ParaText>
@@ -734,7 +716,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9465806">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826718">Madame la Présidente, je vous remercie d’être intervenue. Je m’apprêtais à dire que, depuis un an et demi, notre <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> montre clairement aux Canadiens que la notion de responsabilité est une priorité à Ottawa, et pas seulement dans le Cabinet du premier ministre. Il y a quelques semaines, le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> s’est rendu à Winnipeg-Nord pour rencontrer des membres de la communauté ukrainienne et pour parler des relations entre l’Ukraine et le Canada. Le député d’en face...</ParaText>
             </Content>
@@ -784,7 +766,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9465835">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826726">Madame la Présidente, il est intéressant que le député invoque le Règlement sur la pertinence de mes propos, alors qu’il n’a rien dit lorsque son collègue a parlé du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et de son comportement. Il faut que le Parti conservateur comprenne que, si un député commence à parler d’un sujet pour essayer de démontrer quelque chose, un autre député a tout à fait le droit de répondre aux remarques qui viennent d’être faites. C’est exactement la situation dans laquelle nous nous trouvons. Si des députés conservateurs commencent à faire des critiques et à invoquer le Règlement...</ParaText>
             </Content>
@@ -798,7 +780,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9465854">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826728">Madame la Présidente, pendant toute son intervention, le député a-t-il fait la moindre allusion à l’autobus des médias dont a parlé le Président? En définitive, les députés de l’opposition envoient un message contradictoire: d’un côté, ils essaient de prouver qu’ils sont justifiés d’invoquer le Règlement. Je comprends tout à fait la raison pour laquelle les députés proposent cette motion. Je me demande toutefois pourquoi cela leur a pris si longtemps. Pendant leurs interventions, ils n’ont pas vraiment parlé du privilège en soi, mais de toutes sortes d’autres sujets qui n’ont rien à voir avec le privilège en question.</ParaText>
               <ParaText id="4826729"> C’est la raison pour laquelle j’ai jugé bon de commencer par parler de ces autres sujets. C’est important de le faire. L’amendement propose d’en saisir le comité de la procédure et des affaires de la Chambre, qui est le comité compétent, et de demander à celui-ci d’examiner cette question en priorité. Comme je l’ai dit, j’ai déjà été membre de ce comité. Ce qui est bien avec un comité permanent, c’est qu’il peut fixer son ordre du jour. Rien n’empêche ce comité, par exemple, d’avoir plus de deux séances de deux heures par semaine. En fait, c’est le cas aujourd’hui. Ce comité siège en ce moment même. </ParaText>
@@ -831,7 +813,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9465946">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826741">Madame la Présidente, ma dernière intervention visait à demander aux députés, particulièrement ceux du caucus conservateur, de se concentrer sur la question de privilège elle-même. Le Cabinet du premier ministre n'a rien à faire dans tout cela. Pourquoi les conservateurs ramènent-ils constamment sur le tapis le Cabinet du premier ministre alors qu'ils savent pertinemment qu'il n'a rien à voir dans cette affaire? </ParaText>
               <ParaText id="4826742">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> était ici pour la journée. Le convoi motorisé est peut-être resté garé là toute la journée. Je ne le sais pas. Pourquoi les députés conservateurs continuent-ils de parler du Cabinet du premier ministre? Ils devraient avoir honte. La question porte sur le privilège d'accès à la Chambre et c'est là-dessus que les conservateurs devraient se concentrer. Ils font preuve de mauvaise foi en essayant d'y mêler le Cabinet du premier ministre. Si les conservateurs sont sérieux au sujet de cette affaire et qu'ils souhaitent en débattre, ils devraient se concentrer sur le privilège. </ParaText>
@@ -854,7 +836,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9465995">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826748">Madame la Présidente, je remercie le député de ses premières observations. Il s’agit en effet d’un privilège d’être ici pour représenter nos électeurs. C’est l’une des raisons qui font que je réclame un accès sans entrave à la Cité parlementaire. Je crois que nous sommes tous d'accord là-dessus.</ParaText>
               <ParaText id="4826749">En ce qui concerne la question posée par le député, je pense que, parfois, les députés ont une oreille sélective. Le député de <Affiliation DbId="213862" Type="2">Beauce</Affiliation> a dit, en réponse à une question, que le personnel à l'entrée ne lui avait donné aucune raison précise. Le personnel aurait mentionné l'escorte motorisée du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, mais également l’autobus des journalistes. Pourquoi a-t-on oublié de mentionner ce point? Pourquoi l’opposition a-t-elle retenu l'escorte comme raison? Pourquoi les députés veulent-ils donner cette impression? J’ai des soupçons à ce sujet.</ParaText>
@@ -871,12 +853,12 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9466016">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826752">Madame la Présidente, je souhaiterais également entendre ce qu’ont à dire les autres députés sur cette question soulevée à la Chambre. Je ne sais pas quoi en penser. Je crois à un accès sans entrave à la Cité parlementaire, mais les propos des députés de l’opposition, en particulier ceux des deux députés conservateurs, me préoccupent. Il semble que ce ne soit pas uniquement une question de libre accès. Il semble que les motifs soient politiques et c’est ce qui m’inquiète.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9466028">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9466028">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -887,7 +869,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9466060">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826756">Madame la Présidente, les travaux de construction sont un problème pour tout le monde. L’Édifice de l’Ouest est en travaux depuis que je suis député, ou presque, et il est évident que cela entrave l’accès au Parlement, mais, tout bien considéré, je pense que les choses se passent plutôt bien.</ParaText>
               <ParaText id="4826757"> Il n’y a pas que les voitures de ministres qui viennent sur la Colline parlementaire, il y a aussi des camions pour la construction, des taxis, et j’en passe. C’est préoccupant, car les députés doivent absolument avoir un accès sans entrave aux édifices du Parlement.</ParaText>
@@ -930,7 +912,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9466217">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826784">Madame la Présidente, maintenant que le député a entendu les observations préliminaires de deux députés conservateurs, ma question lui paraîtra plutôt simple.</ParaText>
               <ParaText id="4826785">Certains se demandent pourquoi des députés reviennent avec insistance sur un élément qui n'est pas traité dans la décision de la présidence. L'escorte motorisée souvent mentionnée par les députés de l'opposition était sur place pendant toute la journée. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne s'y trouvait pas. Certains semblent toutefois résolus à mêler le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ou son Cabinet à cette histoire.</ParaText>
@@ -995,7 +977,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9466451">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826816">Madame la Présidente, je n’ai pas pu m’empêcher de remarquer que le député d’en face a fait référence à l’heure du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, une idée dont ce dernier a parlé abondamment pendant la campagne électorale. Cela faisait partie de l’ensemble du projet de modernisation du Parlement canadien, et nous avons invité les députés à prendre part à cette discussion. Je comprends que le député soulève cette question à ce moment-ci, mais je me demande s’il pourrait expliquer pourquoi il croyait important de souligner exactement cet élément du programme libéral, à savoir la nécessité de tenir une période des questions du premier ministre, afin qu’un député, peu importe s’il pose la 25<Sup>e</Sup> ou la 5<Sup>e</Sup> question, ait la possibilité d’obtenir une réponse directement du premier ministre.</ParaText>
             </Content>
@@ -1106,9 +1088,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9466698">
+          <Intervention Type="Interjection" ToC="No" id="9466698">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826857">Nous revenons aux questions et observations. Le député d'Elmwood—Transcona a la parole.</ParaText>
             </Content>
@@ -1139,7 +1121,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9466718">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826864">À l'ordre. </ParaText>
               <ParaText id="4826865">Il y a trop de bruit. Je suis conscient que ce bruit provient surtout de l'autre bout de la Chambre, mais même à cette extrémité-ci je n'ai pas pu entendre le député de Hull—Aylmer. Je suis sûr que les autres députés auront l'occasion de se prononcer sur ces questions au cours du débat. </ParaText>
@@ -1249,7 +1231,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Petitpas Taylor" id="9466889">
             <PersonSpeaking>
-              <Affiliation DbId="229486" Type="18">L’hon. Ginette Petitpas Taylor</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229486" Type="18">Hon. Ginette Petitpas Taylor</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826899">Monsieur le Président, tout comme ma collègue, c'est un grand honneur et un privilège d'avoir l'occasion de prendre la parole chaque jour à la Chambre pour accomplir notre travail de parlementaires des deux côtés de la Chambre. Je suis honorée de représenter les électeurs de ma circonscription ici, à la Chambre, pour défendre leurs intérêts à Ottawa et m'assurer que leurs opinions sont entendues. Je suis donc d'accord avec la députée à cet égard.</ParaText>
               <ParaText id="4826900">Le débat d'aujourd'hui est d'une importance capitale. Quelques députés ont dit qu'ils voulaient connaître davantage le point de vue du Parti libéral au sujet du débat. Il s'agit d'un débat sain pour savoir si cet enjeu devrait, en fait, être renvoyé au Comité permanent de la procédure et des affaires de la Chambre. Je crois que nous pouvons avoir un échange constructif avant de décider si l'on envoie ce dossier au Comité ou pas. </ParaText>
@@ -1320,7 +1302,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9467231">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4826936">Monsieur le Président, je cite les propos tenus par la députée de <Affiliation DbId="214228" Type="2">Milton</Affiliation> juste avant qu'elle ne présente la motion et, je le souligne, après que la présidence a rendu sa décision. Elle a dit ceci: « La raison? La suprématie d'un seul individu s'est avérée prépondérante à celle de députés qui se déplaçaient pour aller voter. Cet individu, c'est le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. »</ParaText>
               <ParaText id="4826937">Or, si on lit la décision de la présidence, ce que le député a fait, on constate que cette déclaration est irréfléchie, et je suis généreux en disant cela, comme le sait pertinemment le député. Certains pourraient même soutenir que des excuses s'imposent. Si le député a écouté la décision de la présidence, il sait que le message en était très clair. À la simple lecture des propos que je viens de citer et de ceux tenus ensuite, qui condamnent encore plus vigoureusement le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, on peut aisément conclure que la députée souhaitait se concentrer sur une question n'ayant rien à voir avec le privilège.</ParaText>
@@ -1443,8 +1425,8 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4826973">
                 <B>M. Daniel Blaikie:</B> C’est pourquoi nous avons des autobus. Nous avons seulement besoin qu’ils arrivent à l’heure.</ParaText>
               <ParaText id="4826974">
-                <B>M. Robert-Falcon Ouellette:</B> C'est la raison pour laquelle les navettes sont là, effectivement. C'est une bonne idée d'avoir un service de navettes.</ParaText>
-              <ParaText id="4826975">Toutefois, monsieur le Président, en fin de compte, je suis également capable de planifier mon emploi du temps assez longtemps à l'avance, de telle sorte que je puisse essayer de partir dès que j'entends la sonnerie. Cela ne veut pas dire qu'il n'y a pas eu atteinte au privilège, et le Président a jugé qu'il semblait de prime abord y avoir bel et bien eu violation du privilège parlementaire. Néanmoins, nous avons tous cette responsabilité en fin de compte.</ParaText>
+                <B>M. Robert-Falcon Ouellette:</B>  Monsieur le Président, c'est la raison pour laquelle les navettes sont là, effectivement. C'est une bonne idée d'avoir un service de navettes.</ParaText>
+              <ParaText id="4826975">Toutefois, en fin de compte, je suis également capable de planifier mon emploi du temps assez longtemps à l'avance, de telle sorte que je puisse essayer de partir dès que j'entends la sonnerie. Cela ne veut pas dire qu'il n'y a pas eu atteinte au privilège, et le Président a jugé qu'il semblait de prime abord y avoir bel et bien eu violation du privilège parlementaire. Néanmoins, nous avons tous cette responsabilité en fin de compte.</ParaText>
               <ParaText id="4826976">À mon avis, l'un des principaux problèmes présentement est le temps fou que nous passons à débattre d'une question qui est très importante, soit, mais qui nous empêche de nous consacrer à d'autres dossiers dont il serait beaucoup plus important de débattre dans cette enceinte. Je suis certain que les députés de l'opposition et le public canadien voudraient que nous débattions des projets de loi ministériels pour nous assurer que les engagements pris lors de la dernière campagne électorale sont respectés et qu'ils donnent lieu à des mesures concrètes. Nous devons retarder nos débats sur ces projets de loi parce que nous consacrons énormément de temps à débattre de la position des bornes de protection et de la connaissance qu'avaient certaines personnes des règles à suivre. Comme je l'ai dit, je suis certain que le personnel de sécurité est très bien informé des règles et qu'il l'a d'ailleurs toujours été.</ParaText>
               <ParaText id="4826977">Je lis toujours avec intérêt <I>La procédure et les usages de la Chambre des communes</I>, que nous recevons lorsque nous commençons à siéger comme députés. Lors d'une petite cérémonie, on nous remet notre épinglette de député et le bon livre vert. Le greffier ou sous-greffier nous dit: « Bonne chance, et j'espère que vous aimerez cette lecture. » À la page 110 du livre se trouve une section sur l'obstruction par des moyens physiques, les voies de fait et la brutalité. Le livre donne aussi d'autres exemples d'obstruction, d'ingérence et d'intimidation.</ParaText>
               <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
@@ -1562,7 +1544,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9467372">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827020">Monsieur le Président, j'aimerais revenir sur l'idée de manigance soulevée par mon collègue. Le Président a rendu sa décision, et je l'en remercie. Or, juste avant de présenter sa motion, la députée de <Affiliation DbId="214228" Type="2">Milton</Affiliation> a dit à la Chambre, en parlant de ce qui a empêché des députés de participer au vote: « La suprématie d'un seul individu s'est avérée prépondérante à celle de députés qui se déplaçaient pour aller voter. Cet individu, c'est le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. » Elle a ensuite critiqué vertement le premier ministre.</ParaText>
               <ParaText id="4827021">Quand on écoute la décision du Président, on constate qu'elle ne fait aucune mention du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ni d'un cortège de voitures, ce qui m'amène à croire que tout cela n'est qu'une manigance. Le privilège parlementaire est une question très sérieuse et l'accès sans entrave aux édifices du Parlement est également une question importante. Je reconnais cela. Toutefois, il semble que des députés d'en face soient prêts à en faire un jeu politique. Cela me préoccupe, et c'est la raison pour laquelle j'aimerais entendre ce que les conservateurs ont d'autre à dire à cet égard.</ParaText>
@@ -1630,7 +1612,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <Timestamp Hr="13" Mn="55">(1355)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9467569">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827062">Monsieur le Président, puisque le député d'en face a parlé notamment de l'attribution de temps, je lui rappelle que, pendant les années que j'ai passées dans l'opposition, le gouvernement de l'époque l'a proposée plus de 100 fois, un nombre sans précédent.</ParaText>
               <ParaText id="4827063">Si le député voulait vraiment faire preuve d'honnêteté et de transparence à ce sujet, il admettrait que la modernisation du Parlement est motivée en bonne partie par ce dont nous avons été témoins au cours des quatre dernières années. Je parle des centaines d'heures passées à voter par assis et debout, à faire retentir la sonnerie d'appel et à faire une foule d'autres choses liées à l'attribution de temps. Lorsqu'on écoute le député, on ne peut que convenir avec lui que le Parti conservateur n'a jamais vraiment voulu moderniser le Parlement. Il semble que c'est encore le cas aujourd'hui. Cela ne veut pas dire que le gouvernement actuel ne peut pas en faire une grande priorité. Nous nous sommes engagés à le faire. Nous invitons tous les députés à participer à cette discussion.</ParaText>
@@ -1646,9 +1628,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827067">Les libéraux veulent court-circuiter le processus, imposer leurs nouvelles règles au comité dès maintenant, et ne plus jamais avoir à assumer la responsabilité de leurs gestes comme le prévoit le Règlement. Ils préfèrent changer les règles du jeu. Comme les équipes de hockey et de football de Winnipeg traversent parfois des moments difficiles, je peux comprendre qu'une personne de Winnipeg puisse avoir envie de changer un peu les règles du jeu. Je n'ai toutefois jamais entendu les excellents joueurs des Jets ou des Blue Bombers dire que, si seulement on changeait les règles du jeu, ils pourraient enfin...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="9467580">
+          <Intervention Type="Interjection" ToC="No" id="9467580">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827068">Le député de Sherbrooke a la parole.</ParaText>
             </Content>
@@ -1675,9 +1657,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9467592">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827075">Il restera au député de <Affiliation DbId="213990" Type="2">York—Simcoe</Affiliation> cinq minutes pour une période de questions et observations lorsque la Chambre reprendra le débat sur cette question.</ParaText>
+              <ParaText id="4827075">Il restera au député d'<Affiliation DbId="213990" Type="2">York—Simcoe</Affiliation> cinq minutes pour une période de questions et observations lorsque la Chambre reprendra le débat sur cette question.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1689,7 +1671,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
       <SubjectOfBusiness id="9467596">
         <Timestamp Hr="14" Mn="00">(1400)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le Conseil jeunesse de circonscription de Hull—Aylmer</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Conseil jeunesse de la circonscription de Hull—Aylmer</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Fergus" id="9467597">
             <PersonSpeaking>
@@ -1827,7 +1809,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <Content>
               <ParaText id="4827110">Monsieur le Président, c’est la journée Jeudi Nostalgie sur Internet, au mot-clic #tbt. Peut-on imaginer un thème plus opportun dans le contexte des budgets déficitaires des libéraux?</ParaText>
               <ParaText id="4827111"> Bien des Canadiens reprocheraient au gouvernement ce budget qui consiste à taxer, à emprunter et à dépenser. Ce budget nous renvoie aussi à une période sombre et difficile de l’histoire canadienne, les années 1970. La mode était alors au disco et aux pantalons à pattes d’éléphant, et le père du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> actuel plongeait le pays dans un déficit structurel de 25 ans.</ParaText>
-              <ParaText id="4827112">Mais revenons à aujourd’hui. Le fils met en pratique ce que le père prêchait. Comme dans les années 1970, le gouvernement libéral croit en une sorte d’économie keynésienne bizarre, ce qui est une façon de dire que les libéraux font les choses à l’envers. Ils font des déficits en temps de vaches grasses, ce qui entraîne des déficits encore plus grands en temps de vaches maigres. Cette étrange croyance selon laquelle dépenser plus que ce qu’on a créera de façon magique des emplois qui dureront plus longtemps que l’argent emprunté est un retour en arrière, comme on le voit au mot clic #tbt.</ParaText>
+              <ParaText id="4827112">Cela dit,  revenons à aujourd’hui. Le fils met en pratique ce que le père prêchait. Comme dans les années 1970, le gouvernement libéral croit en une sorte d’économie keynésienne bizarre, ce qui est une façon de dire que les libéraux font les choses à l’envers. Ils font des déficits en temps de vaches grasses, ce qui entraîne des déficits encore plus grands en temps de vaches maigres. Cette étrange croyance selon laquelle dépenser plus que ce qu’on a créera de façon magique des emplois qui dureront plus longtemps que l’argent emprunté est un retour en arrière, comme on le voit au mot clic #tbt.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1849,13 +1831,13 @@ La Politique sur la conversion à un système électoral communautaire établit 
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9467640">
-        <SubjectOfBusinessTitle>La Journée internationale des femmes</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La Journée internationale de la femme</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Alghabra" id="9467641">
             <PersonSpeaking>
               <Affiliation DbId="213890" Type="2">M. Omar Alghabra (Mississauga-Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827117">Monsieur le Président, à l'occasion de la Journée internationale des femmes, j'ai invité les gens de ma circonscription à me donner le nom d'une femme qui les inspire. </ParaText>
+              <ParaText id="4827117">Monsieur le Président, à l'occasion de la Journée internationale de la femme, j'ai invité les gens de ma circonscription à me donner le nom d'une femme qui les inspire. </ParaText>
               <ParaText id="4827118">Je prends donc la parole aujourd'hui pour saluer une femme d'exception. Gabriella Mammone a fait la preuve que, lorsque la vie se complique, c'est notre façon de réagir qui importe.</ParaText>
               <ParaText id="4827119">En 2004, Gaby a reçu un diagnostic de sclérose en plaques. Entrepreneure établie, elle est devenue ambassadrice de la Société de la sclérose en plaques. Elle a également fondé Kind Projects, qui aide des organismes de bienfaisance à atteindre leurs objectifs. </ParaText>
               <ParaText id="4827120">M<Sup>me</Sup> Mammone a reçu un prix de reconnaissance de la ville de Mississauga, ainsi que le prix de femme du mois de l'organisation Canadian Small Business Women. </ParaText>
@@ -1883,7 +1865,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9467646">
-        <SubjectOfBusinessTitle> La crête de Vimy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle> La bataille de la crête de Vimy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller  (Ville-Marie—Le Sud-Ouest—Île-des-Soeurs)" id="9467647">
             <PersonSpeaking>
@@ -2043,14 +2025,14 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827168">Monsieur le Président, tout comme moi, vous avez été attentif à la réponse du ministre, et tout comme moi, vous avez constaté que le gouvernement est incapable de dire aux Canadiens quand on va retourner à l'équilibre budgétaire. C'est tout à fait inacceptable.</ParaText>
-              <ParaText id="4827169">Les libéraux n'ont aucun plan pour l'équilibre budgétaire et ils font très peu, voire rien du tout pour les agriculteurs, ceux qui nous nourrissent, ceux qui donnent à manger à tous les Canadiens. Il faut aller jusqu'à la page 121 du document budgétaire du gouvernement pour entendre parler d'agriculture.</ParaText>
+              <ParaText id="4827169">Les libéraux n'ont aucun plan pour l'équilibre budgétaire et ils font très peu, voire rien du tout, pour les agriculteurs, ceux qui nous nourrissent, ceux qui donnent à manger à tous les Canadiens. Il faut aller jusqu'à la page 121 du document budgétaire du gouvernement pour entendre parler d'agriculture.</ParaText>
               <ParaText id="4827170">Pourquoi le gouvernement laisse de côté ceux qui nourrissent les Canadiens?</ParaText>
               <ParaText id="4827171">
                 <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9467686">
+          <Intervention Type="Interjection" ToC="No" id="9467686">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2066,7 +2048,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9467692">
+          <Intervention Type="Interjection" ToC="No" id="9467692">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2169,7 +2151,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827196">Quoi qu'il en soit, il est important que tous les députés discutent de la modernisation du Règlement. Le gouvernement a déjà commencé à prendre des mesures, mais nous pensons que, si nous pouvions inclure officiellement ces mesures dans le Règlement, nous pourrions non seulement tenir le gouvernement...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9467717">
+          <Intervention Type="Interjection" ToC="No" id="9467717">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2278,22 +2260,22 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214102" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827215">Monsieur le Président, depuis des mois, le service de paie fédéral est dans un bordel total. Des gens sont payés en double, d'autres ne sont pas payés pantoute et ils doivent emprunter pour payer l'épicerie. </ParaText>
-              <ParaText id="4827216">Normalement, les gérants d'un tel gâchis devraient se faire taper sur les doigts. Mais non, que font les libéraux? Ils leur donnent des bonis, oui monsieur, et pas des petits: 5 millions de dollars de notre argent pour récompenser des gens qui ne sont pas capables de payer les employés. </ParaText>
-              <ParaText id="4827217">C'est cela la gestion libérale: récompenser les gnochons et les incompétents?</ParaText>
+              <ParaText id="4827215">Monsieur le Président, depuis des mois, le service de paie fédéral est un bordel total. Des gens sont payés en double, d'autres ne sont pas payés du tout et ils doivent emprunter pour payer l'épicerie. </ParaText>
+              <ParaText id="4827216">Normalement, les gérants d'un tel gâchis devraient se faire taper sur les doigts, mais non, que font les libéraux? Ils leur donnent des bonis, et pas des petits: ils prennent 5 millions de dollars de notre argent pour récompenser des gens qui ne sont pas capables de payer les employés. </ParaText>
+              <ParaText id="4827217">Est-ce  cela, la gestion libérale: récompenser les gnochons et les incompétents?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. MacKinnon" id="9467744">
             <PersonSpeaking>
               <Affiliation DbId="229485" Type="18">M. Steven MacKinnon (secrétaire parlementaire de la ministre des Services publics et de l’Approvisionnement, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827218">Monsieur le Président, je peux assurer mon collègue, à titre de secrétaire parlementaire et à titre de député de Gatineau, que la résolution des problèmes légués par notre précédent gouvernement concernant le système de paie Phénix est notre plus haute priorité. Je tiens à rappeler au député que les cadres supérieurs... </ParaText>
+              <ParaText id="4827218">Monsieur le Président, je peux assurer à mon collègue, à titre de secrétaire parlementaire et à titre de député de Gatineau, que la résolution des problèmes légués par le précédent gouvernement concernant le système de paie Phénix est notre plus haute priorité. Je tiens à rappeler au député que les cadres supérieurs... </ParaText>
               <ParaText id="4827219">
-                <B>Des voix:</B> Oh, oh!|</ParaText>
+                <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9467753">
+          <Intervention Type="Interjection" ToC="No" id="9467753">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2307,7 +2289,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <Affiliation DbId="229485" Type="18">M. Steven MacKinnon</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827222">Monsieur le Président, je tiens à rappeler au député, à mon honorable collègue, que les cadres supérieurs directement responsables de Phénix n'ont pas reçu leur rémunération au rendement. </ParaText>
-              <ParaText id="4827223"> La ministre a demandé au vérificateur général d'examiner tous les aspects de Phénix, c'est quelque chose à laquelle notre honorable opposition ne devrait pas avoir hâte. </ParaText>
+              <ParaText id="4827223"> La ministre a demandé au vérificateur général d'examiner tous les aspects de Phénix, ce à quoi notre honorable opposition ne devrait pas avoir hâte. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2352,7 +2334,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827234">Je suis certain que Jennifer Stebbing sera une excellente...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9467782">
+          <Intervention Type="Interjection" ToC="No" id="9467782">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2417,7 +2399,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Chagger" id="9467831">
             <PersonSpeaking>
-              <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="224672" Type="96">Hon. Bardish Chagger (Leader of the Government in the House of Commons and Minister of Small Business and Tourism, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827252">Monsieur le Président, comme je l'ai déjà dit à maintes reprises, il va sans dire que je suis toujours impatiente de débattre avec les députés des deux côtés de la Chambre au sujet de cette question importante.</ParaText>
               <ParaText id="4827253">Le débat actuel porte sur le Règlement. Il porte sur la modernisation du fonctionnement de la Chambre des communes, pour la faire entrer dans le XXI<Sup>e</Sup> siècle.</ParaText>
@@ -2428,7 +2410,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9467890">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Programme des travailleurs étrangers temporaires</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle> Le Programme des travailleurs étrangers temporaires</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sansoucy" id="9467834">
             <PersonSpeaking>
@@ -2462,14 +2444,14 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <Content>
               <ParaText id="4827261">Monsieur le Président, on sait déjà que ce gouvernement n'atteindra pas les cibles climatiques pitoyables de Stephen Harper.</ParaText>
               <ParaText id="4827262">Les libéraux ont promis mer et monde pendant la campagne électorale. Cependant, le dernier budget indique qu'il n'y aura rien en ce qui concerne les voitures électriques et les bornes de recharge, malgré l'urgence climatique, et ce, pour au moins un an encore.</ParaText>
-              <ParaText id="4827263">Les États-Unis, quant à eux, ont obtenu un réseau de bornes de recharge aux frais de Volkswagen qui était obligé de compenser sa responsabilité environnementale dans le scandale du diésel.</ParaText>
+              <ParaText id="4827263">Les États-Unis, quant à eux, ont obtenu un réseau de bornes de recharge aux frais de Volkswagen, qui était obligée de compenser sa responsabilité environnementale dans le scandale du diésel.</ParaText>
               <ParaText id="4827264">Le gouvernement a-t-il au moins considéré cette approche? Contrairement aux bornes de recharge, ce ne sont pas les Volkswagen qui manquent sur nos routes.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Wilkinson" id="9467842">
             <PersonSpeaking>
-              <Affiliation DbId="214687" Type="18">M. Jonathan Wilkinson (secrétaire parlementaire de la ministre de l’Environnement et du Changement climatique, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229531" Type="18">M. Jonathan Wilkinson (secrétaire parlementaire de la ministre de l’Environnement et du Changement climatique, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827265">Monsieur le Président, les changements climatiques constituent un enjeu crucial et pour le Canada, et pour le gouvernement. </ParaText>
               <ParaText id="4827266">Dès notre arrivée au pouvoir, nous avons entrepris de mettre au point un cadre pancanadien avec les provinces et les territoires, qui a abouti à une entente historique en décembre. Celle-ci porte sur les étapes qui permettront d'atteindre les cibles de réduction des gaz à effet de serre tout en accélérant la croissance propre dans l'avenir. </ParaText>
@@ -2521,6 +2503,11 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827278">Le budget de 2017 prévoit des consultations auprès des agriculteurs et des intervenants sur ce report d'impôt. Nous voulons entendre ce que les agriculteurs ont à dire avant d'aller plus loin.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9467900">
+        <SubjectOfBusinessTitle>La petite entreprise</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Richards" id="9467856">
             <PersonSpeaking>
               <Affiliation DbId="214548" Type="2">M. Blake Richards (Banff—Airdrie, PCC)</Affiliation>: </PersonSpeaking>
@@ -2538,8 +2525,13 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827282">Monsieur le Président, les petites entreprises jouent un rôle essentiel au Canada. Nous travaillons avec toutes les petites entreprises. Les règles sont toujours les mêmes, et elles s'appliquent à toutes les petites entreprises. </ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9470031">
+        <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Richards" id="9467862">
             <PersonSpeaking>
               <Affiliation DbId="214548" Type="2">M. Blake Richards (Banff—Airdrie, PCC)</Affiliation>: </PersonSpeaking>
@@ -2588,13 +2580,13 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214168" Type="2">Mme Karine Trudel (Jonquière, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827290">Monsieur le Président, encore une fois, aujourd'hui, les syndicats, les municipalités et l'industrie étaient à Québec pour réclamer au gouvernement qu'il joue son rôle de leader dans le dossier du bois d'oeuvre. Dans moins d'un mois, on s'attend à ce que les Américains imposent une taxe sur les importations canadiennes. Les cris du coeur se multiplient, mais le gouvernement fédéral fait toujours la sourde oreille et n'a toujours pas de plan de garantie de prêts. </ParaText>
+              <ParaText id="4827290">Monsieur le Président, encore une fois, aujourd'hui, les syndicats, les municipalités et l'industrie étaient à Québec pour réclamer du gouvernement qu'il joue son rôle de leader dans le dossier du bois d'oeuvre. Dans moins d'un mois, on s'attend à ce que les Américains imposent une taxe sur les importations canadiennes. Les cris du coeur se multiplient, mais le gouvernement fédéral fait toujours la sourde oreille et n'a toujours pas de plan de garantie de prêts. </ParaText>
               <ParaText id="4827291">Le gouvernement se vante constamment de faire des consultations auprès de la population, mais pour une fois, peut-il écouter et agir pour protéger nos emplois?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Rudd" id="9467878">
             <PersonSpeaking>
-              <Affiliation DbId="214681" Type="18">Mme Kim Rudd (secrétaire parlementaire du ministre des Ressources naturelles, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229529" Type="18">Mme Kim Rudd (secrétaire parlementaire du ministre des Ressources naturelles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827292">Monsieur le Président, le secteur forestier canadien est très important pour nos collectivités. Un marché stable et prévisible favorise le développement économique et la création de bons emplois. Nous continuerons à travailler en étroite collaboration avec les provinces par l'entremise du groupe de travail fédéral-provincial sur le bois d'oeuvre pour avoir une approche coordonnée et répondre aux besoins des entreprises et des travailleurs qui pourraient être touchés. </ParaText>
             </Content>
@@ -2638,7 +2630,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Blair" id="9467891">
             <PersonSpeaking>
-              <Affiliation DbId="214674" Type="18">M. Bill Blair (secrétaire parlementaire de la ministre de la Justice et procureure générale du Canada, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229528" Type="18">M. Bill Blair (secrétaire parlementaire de la ministre de la Justice et procureure générale du Canada, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827298">Monsieur le Président, le gouvernement a été très clair à ce sujet. Nous prenons très au sérieux la question du maintien de la sécurité sur les routes. Nous avons fait une promesse et nous sommes déterminés à veiller à ce que les forces de l'ordre et les tribunaux aient les lois, les technologies, la formation et les ressources dont ils ont besoin pour garder les routes sécuritaires.</ParaText>
             </Content>
@@ -2654,8 +2646,8 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827299">Monsieur le Président, avant l'été 2016, le Fonds Canada 150 appuyait des activités permettant d'encourager des participants à contribuer au Canada grâce à des dons de temps et d'énergie, de manière à laisser un héritage pour l'avenir. </ParaText>
-              <ParaText id="4827300">Il appuyait des activités permettant de donner aux Canadiens l'occasion de participer activement à quelque chose et de célébrer cela ensemble, ainsi que de promouvoir et permettre une meilleure compréhension du Canada, de sa population et de ce que signifie être Canadien.</ParaText>
-              <ParaText id="4827301"> Il appuyait des activités permettant de reconnaître et promouvoir les Canadiens exceptionnels, les lieux, les réalisations et les événements qui continuent de façonner notre pays. </ParaText>
+              <ParaText id="4827300">Il appuyait des activités permettant de donner aux Canadiens l'occasion de participer activement à quelque chose et de célébrer cela ensemble, ainsi que de promouvoir et de permettre une meilleure compréhension du Canada, de sa population et de ce que signifie être Canadien.</ParaText>
+              <ParaText id="4827301"> Il appuyait des activités permettant de reconnaître et de promouvoir les Canadiens exceptionnels, les lieux, les réalisations et les événements qui continuent de façonner notre pays. </ParaText>
               <ParaText id="4827302">Pourquoi la <Affiliation DbId="214327" Type="4">ministre du Patrimoine</Affiliation> a-t-elle rejeté tous les projets ayant ces nobles objectifs?</ParaText>
             </Content>
           </Intervention>
@@ -2663,7 +2655,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214327" Type="4">L’hon. Mélanie Joly (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827303">Monsieur le Président, je tiens à remercier mon collègue de son importante question. Nous sommes bien entendu fiers d'avoir développé une véritable vision pour les célébrations du Canada 150 et de laisser un legs fondé sur quatre thématiques: la jeunesse, l'environnement, la réconciliation avec les peuples autochtones, ainsi que la diversité.</ParaText>
+              <ParaText id="4827303">Monsieur le Président, je tiens à remercier mon collègue de son importante question. Nous sommes bien entendu fiers d'avoir développé une véritable vision pour les célébrations du Canada 150 et de laisser un legs fondé sur quatre thèmes: la jeunesse, l'environnement, la réconciliation avec les peuples autochtones, ainsi que la diversité.</ParaText>
               <ParaText id="4827304">Je suis convaincue que mes collègues reconnaissent l'importance de ces quatre thèmes et que nous pouvons tous travailler ensemble pour construire notre avenir pour les 150 prochaines années. Nous sommes aussi fiers que des milliers de projets financés de concert avec nos partenaires de partout au pays feront le tour de notre territoire et démontreront le meilleur de nous-mêmes.</ParaText>
             </Content>
           </Intervention>
@@ -2680,14 +2672,14 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214327" Type="4">L’hon. Mélanie Joly (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827308">Monsieur le Président, je tiens rassurer à mon collègue: le tout a été fait avec la plus grande honnêteté et la plus grande diligence, bien entendu. Toutes les personnes qui ont participé aux différents appels d'offres ont été contactées afin de soumettre des projets. </ParaText>
-              <ParaText id="4827309">Comme gouvernement, nous voulions nous assurer d'avoir une véritable vision pour les célébrations du Canada 150, mais également une vision davantage axée sur quatre thématiques qui font l'unanimité au pays: la jeunesse, l'environnement, la réconciliation avec les peuples autochtones, ainsi que l'importance de la diversité et de l'inclusion.</ParaText>
+              <ParaText id="4827308">Monsieur le Président, je tiens rassurer mon collègue: le tout a été fait avec la plus grande honnêteté et la plus grande diligence, bien entendu. Toutes les personnes qui ont participé aux différents appels d'offres ont été contactées afin de soumettre des projets. </ParaText>
+              <ParaText id="4827309">Comme gouvernement, nous voulions nous assurer d'avoir une véritable vision pour les célébrations du Canada 150, mais également une vision davantage axée sur quatre thèmes qui font l'unanimité au pays: la jeunesse, l'environnement, la réconciliation avec les peuples autochtones, ainsi que l'importance de la diversité et de l'inclusion.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9467905">
-        <SubjectOfBusinessTitle>Le commerce international</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Lagriculture et l'agroalimentaire</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lemieux" id="9467904">
             <PersonSpeaking>
@@ -2721,7 +2713,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <Timestamp Hr="15" Mn="00">(1500)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Jones" id="9467913">
             <PersonSpeaking>
-              <Affiliation DbId="214666" Type="18">Mme Yvonne Jones (secrétaire parlementaire de la ministre des Affaires autochtones et du Nord, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229524" Type="18">Mme Yvonne Jones (secrétaire parlementaire de la ministre des Affaires autochtones et du Nord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827315">Monsieur le Président, les libéraux croient que la transparence est une composante nécessaire de tous les aspects du gouvernement. Nous collaborons étroitement avec les gouvernements autochtones d'un bout à l'autre du pays pour mettre en oeuvre une loi qui est réellement transparente et qui prévoit une reddition de comptes complète. Dans des collectivités comme Onion Lake, par exemple, nous avons uni nos efforts avec les dirigeants de la communauté afin que nous puissions accroître la transparence et la reddition de comptes des dirigeants des Premières Nations et de tous les organismes autochtones.</ParaText>
             </Content>
@@ -2736,7 +2728,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214096" Type="2">M. Robert Aubin (Trois-Rivières, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827316">Monsieur le Président, au Comité permanent des transports, de l'infrastructure et des collectivités, l'étude sur la sécurité aérienne nous dévoile déjà que les représentants des pilotes et des travailleurs appuient la proposition du juge Moshansky de tenir une enquête publique et indépendante sur la sécurité aérienne. Le juge Moshansky, dont la crédibilité est reconnue, affirme que le gouvernement fédéral joue avec la sécurité aérienne, car Transport Canada a abandonné totalement la surveillance réglementaire traditionnelle.</ParaText>
+              <ParaText id="4827316">Monsieur le Président, au Comité permanent des transports, de l'infrastructure et des collectivités, l'étude sur la sécurité aérienne nous dévoile déjà que les représentants des pilotes et des travailleurs appuient la proposition du juge Moshansky de tenir une enquête publique et indépendante sur la sécurité aérienne. Le juge Moshansky, dont la crédibilité est reconnue, affirme que le gouvernement fédéral joue avec la sécurité aérienne, car Transports Canada a abandonné totalement la surveillance réglementaire traditionnelle.</ParaText>
               <ParaText id="4827317">Que fera le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> pour corriger la situation après des années de coupes libérales et conservatrices?</ParaText>
             </Content>
           </Intervention>
@@ -2822,23 +2814,23 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214530" Type="2">Mme Marilène Gill (Manicouagan, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827331">Monsieur le Président, je rappelle aux gens d'en face d'une période de questions doit être nécessairement suivie d'une période de réponses.</ParaText>
+              <ParaText id="4827331">Monsieur le Président, je rappelle aux gens d'en face qu'une période de questions doit être nécessairement suivie d'une période de réponses.</ParaText>
               <ParaText id="4827332">Je réessaie donc. Comme on l'a dit tout à l'heure, le secteur forestier, les syndicats, l'Union des municipalités du Québec et le gouvernement du Québec demandent ce que le Bloc québécois s'évertue à demander depuis des mois. Il faudra le demander combien de fois?</ParaText>
               <ParaText id="4827333">Une nouvelle crise du bois d'oeuvre aura lieu dans moins de 20 jours. On dit que cela va toucher les travailleurs et des familles de régions entières, mais cela les touche déjà.</ParaText>
-              <ParaText id="4827334">Il nous faut une réponse claire, maintenant. Il faut arrêter de jouer avec les nerfs des gens.</ParaText>
+              <ParaText id="4827334">Il nous faut une réponse claire maintenant. Il faut arrêter de jouer avec les nerfs des gens.</ParaText>
               <ParaText id="4827335">Je répète ma question. Le gouvernement va-t-il accorder des garanties de prêts à l'industrie forestière pour l'aider à faire face à la nouvelle crise, oui ou non?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Rudd" id="9467942">
             <PersonSpeaking>
-              <Affiliation DbId="214681" Type="18">Mme Kim Rudd (secrétaire parlementaire du ministre des Ressources naturelles, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229529" Type="18">Mme Kim Rudd (secrétaire parlementaire du ministre des Ressources naturelles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827336">Monsieur le Président, notre gouvernement prend très au sérieux les défis du secteur forestier.</ParaText>
               <ParaText id="4827337">Le groupe de travail fédéral-provincial s'est rencontré récemment pour discuter de différentes options et trouver des solutions créative à cet important enjeu. Nous travaillons en équipe avec nos partenaires provinciaux, afin d'assurer la prospérité à long terme du secteur et de protéger les emplois et les familles qui en dépendent.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9467943">
+          <Intervention Type="Interjection" ToC="No" id="9467943">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2871,7 +2863,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827344">[<I>Les députés chantent Joyeux anniversaire</I>]</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9467950">
+          <Intervention Type="Interjection" ToC="No" id="9467950">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2889,7 +2881,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
         <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="4827346">La Chambre reprend l'étude de la motion, ainsi que de l'amendement. </ParaText>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9467959">
+          <Intervention Type="Interjection" ToC="No" id="9467959">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2899,7 +2891,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9467960">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229526" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827349">Monsieur le Président, je veux souligner avec insistance que les députés ministériels comprennent tous l'importance d'un accès sans entrave à la Cité parlementaire — ce qui comprend les bureaux des députés, la Chambre des communes pour les votes et les débats, ainsi que les lieux où siègent les comités, sur la Colline et ailleurs. Cela ne fait aucun doute. </ParaText>
               <ParaText id="4827350">Ceci étant dit, si on écoute les motivations de la députée qui parraine la motion et de son comotionnaire, il y a matière à préoccupation. C'est que, comme je l'ai dit plus tôt, il ne faut d'aucune manière tenter de politiser le débat sur cet important principe, qui est effectivement un privilège. Le député d'en face n'est-il pas de cet avis? Peut-il nous dire qu'il s'engage à ne rien tenter pour politiser le débat? Après tout, nous comprenons tous l'importance de l'accès sans entrave et nous en profitons tous. Le député accepte-t-il de joindre sa voix à la mienne à cet égard? </ParaText>
@@ -2923,7 +2915,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Van Loan" id="9467970">
             <PersonSpeaking>
-              <Affiliation DbId="213990" Type="2">L'hon. Peter Van Loan</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213990" Type="2">L'hon. Peter Van Loan (York—Simcoe, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827355">Monsieur le Président, je pense que la députée fait allusion au fait qu’en ce moment le Comité permanent de la procédure et des affaires de la Chambre s'occupe d'autres affaires qui sont vraiment pour le long terme. C'est le genre de choses qui fait généralement l'objet d'études. En fait, nous entendons le gouvernement dire qu'il n'a pas de propositions particulières. Nous craignons que ce soit le contraire. Il ne s'engagera pas à accepter un quelconque type d'approche unifiée ici. Il me semble qu'il faudrait tenir encore beaucoup de discussions. Cependant, nous n’allons pas changer les règles la semaine prochaine, mais nous aurons des votes la semaine prochaine. Donc, la question de savoir ce que nous devons faire pour nous assurer que cet événement malheureux ne se répète pas est importante. </ParaText>
               <ParaText id="4827356"> C'est la première fois que nous aborderons cette question dans ce contexte, où il est question de la sécurité dans le cadre du nouveau Service de protection parlementaire unifié qui était censé empêcher ces problèmes de se produire de nouveau.</ParaText>
@@ -3229,7 +3221,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>Décision de la présidence</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="9468060">
+          <Intervention Type="Interjection" ToC="No" id="9468060">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3243,9 +3235,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9469282">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Motions d'amendement</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Motion d'amendement</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9468065">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9468065">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD) </Affiliation>
             </PersonSpeaking>
@@ -3298,7 +3290,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse (Windsor-Ouest)" id="9468131">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse  (Windsor-Ouest)" id="9468131">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3315,9 +3307,9 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827397">Monsieur le Président, je me demande si mon collègue pourrait parler des inégalités qui se creusent entre les riches PDG et les Canadiens ordinaires, et s’il peut nous dire si le projet de loi <Document DbId="8433563" Type="3">C-25</Document> permet de régler le problème de l’explosion de la rémunération des cadres supérieurs.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse (Windsor-Ouest)" id="9468141">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9468141">
             <PersonSpeaking>
-              <Affiliation DbId="214230" Type="2">M. Brian Masse</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827398">Monsieur le Président, je dirais qu'il le ne fait pas dans sa forme actuelle, et c’est pourquoi l’amendement que je propose est crucial. Il imposerait au moins des délais dans lesquels un examen devrait avoir lieu.</ParaText>
               <ParaText id="4827399">Comme je le mentionnais, nous optons pour un modèle qui consiste à se conformer ou à s’expliquer, modèle que de nombreux autres pays ont abandonné. La Norvège et la France ont des quotas et prévoient des sanctions. Je répète, non seulement ils ont des quotas, mais ils prévoient aussi des sanctions. Nous n’avons pas, à mon sens, à aller aussi loin. Nous pourrions, en fait, adopter un modèle hybride. Sinon, on ne peut pas s’attendre à grand-chose.</ParaText>
@@ -3367,7 +3359,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9468219">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9468219">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3464,7 +3456,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9468558">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9468558">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3482,12 +3474,11 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9468622">
+          <Intervention Type="Interjection" ToC="No" id="9468622">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827467">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera à l'heure de l'ajournement ce soir, à savoir: l'honorable député de <Affiliation DbId="214171" Type="2">Mégantic—L'Érable</Affiliation>, L'emploi; l'honorable députée de <Affiliation DbId="214254" Type="2">Edmonton-Ouest</Affiliation>, Les services publics et l'approvisionnement; l'honorable député de <Affiliation DbId="214025" Type="2">Beauport—Limoilou</Affiliation>, Les services publics et l'approvisionnement.</ParaText>
-              <ParaText id="4827468">L'honorable député de Beauport—Limoilou a la parole.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Clarke" id="9468629">
@@ -3537,7 +3528,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9468919">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9468919">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3824,7 +3815,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9469295">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="15">Rejet de la motion</ProceduralText>
               <ParaText id="4827513">Je déclare la motion rejetée.</ParaText>
@@ -3832,7 +3823,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9469297">
             <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827514">Comme il est 17 h 35, la Chambre passe maintenant à l'étude des initiatives parlementaires inscrites au <I>Feuilleton</I> d'aujourd'hui.</ParaText>
             </Content>
@@ -3887,7 +3878,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
               <ParaText id="4827537"> Il y a eu un pas dans la bonne direction. Les gouvernements de l’Ontario et du Québec ont créé un comité mixte sur la gestion de l’eau pour protéger les ressources hydriques qu’ils partagent. Nos provinces sont très liées par ces voies navigables communes. La motion M-104 est en réalité le prolongement logique pourrait-on dire de cette initiative antérieure qui a donné lieu à la création de ce comité mixte Ontario-Québec pour la gestion de l’eau. En fait, la motion M-104 donnerait renforcerait cette structure initiale de gestion conjointe.</ParaText>
               <ParaText id="4827538"> Ma circonscription se trouve en bordure du fleuve Saint-Laurent, et heureusement, le fleuve Saint-Laurent a été l’objet d’une attention relativement soutenue de la part du gouvernement au cours des 25 dernières années; je parle bien sûr du Plan d’action Saint-Laurent. Ce plan d’action pourrait d’une certaine manière servir de modèle pour le genre de conseil coopératif que le député d’<Affiliation DbId="214297" Type="2">Ottawa-Sud</Affiliation> essaie de mettre sur pied.</ParaText>
               <ParaText id="4827539"> Le Plan d’action Saint-Laurent a créé une structure de gestion verticale et horizontale hautement intégrée visant essentiellement à assurer la surveillance du fleuve Saint-Laurent et de ses rives et à servir de cadre au niveau local et à des paliers supérieurs de gouvernement, pour des initiatives visant à préserver le fleuve Saint-Laurent.</ParaText>
-              <ParaText id="4827540"> Les <I>comités ZIP </I> constituent l’un des aspects les plus intéressants du Plan d’action Saint-Laurent. L’acronyme ZIP signifie <I>zones d’intervention prioritaire</I>, et il y en a 13 tout le long du fleuve Saint-Laurent. En gros, ces ZIP divisent le fleuve Saint-Laurent en zones écologiques et en zones urbaines. Je suppose que nous pourrions les comparer aux secteurs préoccupants, que nous avons dans les Grands Lacs et ailleurs, mais ces ZIP ne se limitent pas simplement aux secteurs problématiques du fleuve Saint-Laurent. Leur principal objectif est de susciter la participation des citoyens et des parties prenantes. En d’autres termes, les comités ZIP sont là pour encourager les communautés à prendre en main la protection de la partie du fleuve Saint-Laurent qui coule dans leur région. Ces 13 ZIP sont gérées ou coordonnées collectivement par une organisation ayant pour nom Stratégies Saint-Laurent, regroupement de groupes environnementaux du Québec dirigé par l’Union québécoise pour la conservation de la nature. L’UQCN joue un rôle de premier plan dans la coordination des activités de ces groupes.</ParaText>
+              <ParaText id="4827540"> Les comités ZIP constituent l’un des aspects les plus intéressants du Plan d’action Saint-Laurent. L’acronyme ZIP signifie zones d’intervention prioritaire, et il y en a 13 tout le long du fleuve Saint-Laurent. En gros, ces ZIP divisent le fleuve Saint-Laurent en zones écologiques et en zones urbaines. Je suppose que nous pourrions les comparer aux secteurs préoccupants, que nous avons dans les Grands Lacs et ailleurs, mais ces ZIP ne se limitent pas simplement aux secteurs problématiques du fleuve Saint-Laurent. Leur principal objectif est de susciter la participation des citoyens et des parties prenantes. En d’autres termes, les comités ZIP sont là pour encourager les communautés à prendre en main la protection de la partie du fleuve Saint-Laurent qui coule dans leur région. Ces 13 ZIP sont gérées ou coordonnées collectivement par une organisation ayant pour nom Stratégies Saint-Laurent, regroupement de groupes environnementaux du Québec dirigé par l’Union québécoise pour la conservation de la nature. L’UQCN joue un rôle de premier plan dans la coordination des activités de ces groupes.</ParaText>
               <ParaText id="4827541"> Il y a également une coordination des parties prenantes à des paliers supérieurs. Il y a ce que j’appellerais un conseil du Saint-Laurent. Il ne s’agit pas d’une appellation officielle, mais de nombreux ministères fédéraux et ministères provinciaux du Québec, ainsi que d’autres parties prenantes, les Premières Nations, se réunissent pour superviser la gestion du Saint-Laurent aux paliers supérieurs.</ParaText>
             </Content>
           </Intervention>
@@ -3991,9 +3982,10 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" id="9469860" ToCText="M. Rota">
             <PersonSpeaking>
-              <Affiliation DbId="214970" Type="96">Le vice-président adjoint (M. Anthony Rota )</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827598">Nous reprenons le débat. Puisque aucun député ne souhaite intervenir, le député d'Ottawa-Sud a le droit de réplique.</ParaText>
+              <ParaText id="4827598">Nous reprenons le débat. </ParaText>
+              <ParaText id="4827598">Puisque aucun député ne souhaite intervenir, le député d'Ottawa-Sud a le droit de réplique.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. McGuinty" id="9469537">
@@ -4015,11 +4007,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4827606">La Chambre est-elle prête à se prononcer? </ParaText>
-              <ParaText id="4827607">
-                <B>Des voix:</B> Le vote. </ParaText>
-              <ParaText id="4827608">
-                <B>Le vice-président adjoint (M. Anthony Rota):</B> La question porte sur l'amendement. Plaît-il à la Chambre d'adopter l'amendement? </ParaText>
+              <ParaText id="4827608"> La question porte sur l'amendement. Plaît-il à la Chambre d'adopter l'amendement? </ParaText>
               <ParaText id="4827609">
                 <B>Des voix:</B> D'accord. </ParaText>
               <ParaText id="4827610">
@@ -4134,7 +4122,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Petitpas Taylor" id="9469678">
             <PersonSpeaking>
-              <Affiliation DbId="229486" Type="18">L’hon. Ginette Petitpas Taylor</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229486" Type="18">Hon. Ginette Petitpas Taylor</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827646">Monsieur le Président, le gouvernement prend des mesures concrètes pour aider les entreprises, l'un des principaux moteurs de l'économie, à prospérer. Nous avons pris des mesures importantes pour stimuler l'innovation dans les entreprises et aider les petites et moyennes entreprises à croître. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -4211,17 +4199,12 @@ La Politique sur la conversion à un système électoral communautaire établit 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Rota" id="9469961">
             <PersonSpeaking>
-              <Affiliation DbId="214970" Type="96"> Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4827676">Le député de Beauport—Limoilou a la parole.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9470031">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Les services publics et l'approvisionnement</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Clarke" id="9469759">
             <PersonSpeaking>
               <Affiliation DbId="214025" Type="2">M. Alupa Clarke (Beauport—Limoilou, PCC)</Affiliation>: </PersonSpeaking>
@@ -4285,7 +4268,7 @@ La Politique sur la conversion à un système électoral communautaire établit 
             <Content>
               <ParaText id="4827696">La motion portant que la Chambre s'ajourne est maintenant réputée adoptée. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4827697">La Chambre s'ajourne donc à demain, à <?bk?>10 heures,<?ek?> conformément au paragraphe<?bk?> 24(1) <?ek?>du Règlement.</ParaText>
+              <ParaText id="4827697">La Chambre s'ajourne donc à demain, à <?bk ?>10 heures,<?ek ?> conformément au paragraphe<?bk ?> 24(1) <?ek ?>du Règlement.</ParaText>
               <ParaText id="4827698">(La séance est levée à 18 h 56.)</ParaText>
             </Content>
           </Intervention>

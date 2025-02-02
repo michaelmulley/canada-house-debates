@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9440315">
-  <StartPageNumber>9915</StartPageNumber>
+  <StartPageNumber>9913</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -163,7 +145,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9440797">
         <SubjectOfBusinessTitle>Pétitions</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Soins palliatifs</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les soins palliatifs</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Albrecht" id="9440391">
             <PersonSpeaking>
@@ -175,7 +157,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9440599">
-        <SubjectOfBusinessQualifier>Réforme démocratique</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La réforme démocratique</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cullen" id="9440394">
             <PersonSpeaking>
@@ -1166,12 +1148,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214460" Type="2">L’hon. Candice Bergen (Portage—Lisgar, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4810830">Monsieur le Président, j’interviens aujourd’hui à propos d’une question de privilège qui se rapporte à ma capacité d’assumer ma fonction de leader parlementaire de l’opposition. Je m’explique et je vous demande au moins de regarder la vidéo d’hier.</ParaText>
-              <ParaText id="4810831">Vous vous rappellerez que, juste avant la présentation du budget, il y a eu un vote pour que nous passions à l’ordre du jour. Dès que mes collègues de l’opposition et moi-même avons déclenché le vote, la <Affiliation DbId="214312" Type="4">ministre des Affaires autochtones et du Nord</Affiliation> — et vous pourrez le constater sur la vidéo — s’est précipitée vers moi de façon très agressive. </ParaText>
+              <ParaText id="4810830">Monsieur le Président, j’interviens aujourd’hui à propos d’une question de privilège qui se rapporte à ma capacité d’assumer ma fonction de leader parlementaire de l’opposition. Je m’explique et je vous demande au moins de regarder la vidéo d’hier. Vous vous rappellerez que, juste avant la présentation du budget, il y a eu un vote pour que nous passions à l’ordre du jour. Dès que mes collègues de l’opposition et moi-même avons déclenché le vote, la <Affiliation DbId="214312" Type="4">ministre des Affaires autochtones et du Nord</Affiliation> — et vous pourrez le constater sur la vidéo — s’est précipitée vers moi de façon très agressive. </ParaText>
               <ParaText id="4810832">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="4810833">
-                <B>L'hon. Candice Bergen:</B> Pourquoi cela fait-il rire les libéraux? Regardez la vidéo. Elle était vraiment contrariée que le vote ait été déclenché. C’est son droit absolu d’être contrariée, mais elle n’a pas le droit de traverser l’allée et de m’agresser parce que je fais mon travail.</ParaText>
+                <B>L'hon. Candice Bergen:</B> Monsieur le Président, pourquoi cela fait-il rire les libéraux? Regardez la vidéo. Elle était vraiment contrariée que le vote ait été déclenché. C’est son droit absolu d’être contrariée, mais elle n’a pas le droit de traverser l’allée et de m’agresser parce que je fais mon travail.</ParaText>
               <ParaText id="4810834">Je vous demande de revoir la vidéo, monsieur le Président, et de demander au Cabinet du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> de ne pas chercher à nous faire taire.</ParaText>
             </Content>
           </Intervention>
@@ -1187,7 +1168,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214312" Type="4">L'hon. Carolyn Bennett (ministre des Affaires autochtones et du Nord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4810837">Monsieur le Président, j'admets que hier, durant le vote, j'ai traversé le parquet pour signaler à la <Affiliation DbId="224944" Type="7">leader parlementaire de l'opposition officielle</Affiliation> que le premier ministre du Yukon et le grand chef Peter Johnston se trouvaient à la tribune, juste au-dessus des députés d'en face, et qu'ils étaient extrêmement déçus que le débat sur le projet de loi <Document DbId="8330942" Type="3">C-17</Document>, une mesure législative d'une importance cruciale, n'ait pas eu lieu à cause des jeux qui se jouaient à la Chambre. Je...</ParaText>
+              <ParaText id="4810837">Monsieur le Président, j'admets que, hier, durant le vote, j'ai traversé le parquet pour signaler à la <Affiliation DbId="224944" Type="7">leader parlementaire de l'opposition officielle</Affiliation> que le premier ministre du Yukon et le grand chef Peter Johnston se trouvaient à la tribune, juste au-dessus des députés d'en face, et qu'ils étaient extrêmement déçus que le débat sur le projet de loi <Document DbId="8330942" Type="3">C-17</Document>, une mesure législative d'une importance cruciale, n'ait pas eu lieu à cause des jeux qui se jouaient à la Chambre. Je...</ParaText>
               <ParaText id="4810838">
                 <B>Des voix:</B> Oh, oh! </ParaText>
             </Content>
@@ -1618,7 +1599,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4811044"> C'est Denis Coderre, ancien ministre, ancien député libéral, ici même, grand ami de l'actuel <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, député de Papineau comme chacun le sait. « Comment peut-on d’un côté financer des méga-projets de transport collectif et, de l’autre côté, cesser d’encourager les Canadiens à les utiliser » demande le maire.</ParaText>
               <ParaText id="4811045">Je pose la question à mes amis du parti ministériel. S'ils ne veulent pas me répondre, qu'ils ne me répondent pas, mais au moins qu'ils répondent à leur ami Denis Coderre qui s'interroge sur leur contradiction tout à fait inacceptable. </ParaText>
               <ParaText id="4811046">C'est la même chose pour les usagers du transport collectif qui ne comprennent pas du tout. Hier, sur les ondes de TVA, on demandait aux gens dans la rue ce qu'ils en pensaient. Ils disaient que cela n'avait pas de bon sens. C'est sûr que cela ne changeait pas la face du monde, mais c'était un petit incitait supplémentaire. Cela donnait un peu d'oxygène, les gens étaient stimulés par rapport à cela. Voilà que les libéraux ont décidé de punir celles et ceux qui utilisent le transport en commun. Cela n'a pas de bon sens. </ParaText>
-              <ParaText id="4811047">Je dois reconnaître qu'il y avait aussi d'autres libéraux qui n'étaient pas contents: les libéraux provinciaux du gouvernement provincial du Québec sous l'égide de l'honorable Philippe Couillard, premier ministre libéral du Québec. On sait qu'il n'y a aucun lien entre le Parti libéral provincial et le Parti libéral fédéral, et ce, depuis Jean Lesage en 1965, mais quand même, ce sont des libéraux. Hier, le ministre des Finances et le président du Conseil du trésor ont été <?bk?>« extrêmement déçus ».<?ek?> Ce sont les mots employés par les hauts ministres du gouvernement Couillard qui ont dit hier: « nous sommes extrêmement déçus et préoccupés de l'absence d'un signal clair » dans ce budget. Il n'y a rien dans ce budget sur les demandes du Québec. Pierre Moreau a d'ailleurs interpellé ses homologues fédéraux: </ParaText>
+              <ParaText id="4811047">Je dois reconnaître qu'il y avait aussi d'autres libéraux qui n'étaient pas contents: les libéraux provinciaux du gouvernement provincial du Québec sous l'égide de l'honorable Philippe Couillard, premier ministre libéral du Québec. On sait qu'il n'y a aucun lien entre le Parti libéral provincial et le Parti libéral fédéral, et ce, depuis Jean Lesage en 1965, mais quand même, ce sont des libéraux. Hier, le ministre des Finances et le président du Conseil du trésor ont été <?bk ?>« extrêmement déçus ».<?ek ?> Ce sont les mots employés par les hauts ministres du gouvernement Couillard qui ont dit hier: « nous sommes extrêmement déçus et préoccupés de l'absence d'un signal clair » dans ce budget. Il n'y a rien dans ce budget sur les demandes du Québec. Pierre Moreau a d'ailleurs interpellé ses homologues fédéraux: </ParaText>
               <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
               <ParaText id="4811048">
                 <Quote>
@@ -1781,7 +1762,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442370">
-        <SubjectOfBusinessTitle>Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Fergus" id="9442371">
             <PersonSpeaking>
@@ -1800,7 +1781,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442374">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Nomination à la Commission des droits de la personne de la Saskatchewan</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Une Nomination à la Commission des droits de la personne de la Saskatchewan</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Benson" id="9442375">
             <PersonSpeaking>
@@ -1853,7 +1834,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442385">
-        <SubjectOfBusinessTitle>Abbotsford</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les ressources communautaires dans Abbotsford</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Sidhu (Mission—Matsqui—Fraser Canyon)" id="9442386">
             <PersonSpeaking>
@@ -1901,7 +1882,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442400">
-        <SubjectOfBusinessTitle>La discrimination religieuse</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tolérance religieuse</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Oliver" id="9442401">
             <PersonSpeaking>
@@ -1928,7 +1909,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                     <Line>Nous partageons les mêmes joies et les mêmes peurs.</Line>
                     <Line>Pour les mêmes raisons, nous sommes heureux ou en pleurs.</Line>
                     <Line>Je ne suis donc pas une menace à la sécurité,</Line>
-                    <Line>Mais simplement un ami que vous n'avez pas encore rencontré.</Line>
+                    <Line>Mais simplement une amie que vous n'avez pas encore rencontrée.</Line>
                   </Verse>
                 </Poetry>
               </ParaText>
@@ -1956,7 +1937,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442407">
-        <SubjectOfBusinessTitle>La réforme démocratique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Règlement de la Chambre des communes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brassard" id="9442408">
             <PersonSpeaking>
@@ -2071,7 +2052,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4811159">Monsieur le Président, comme l'a si bien dit le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>, c'est le gouvernement actuel qui a réduit les impôts de la classe moyenne en augmentant les impôts du 1 % des Canadiens les plus riches. C'est le gouvernement actuel qui a créé l'Allocation canadienne pour enfants dans le but de venir en aide aux familles avec enfants qui en ont le plus besoin, pour que ce soient elles qui en tirent le maximum. </ParaText>
+              <ParaText id="4811159">Monsieur le Président, comme l'a si bien dit le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>, c'est le gouvernement actuel qui a réduit les impôts de la classe moyenne en augmentant les impôts du 1 %  le plus riche des Canadiens. C'est le gouvernement actuel qui a créé l'Allocation canadienne pour enfants dans le but de venir en aide aux familles avec enfants qui en ont le plus besoin, pour que ce soient elles qui en tirent le maximum. </ParaText>
               <ParaText id="4811160">Pour ce qui est du voyage auquel la députée d'en face fait référence, je rappelle que l'une des premières mesures que nous avons prises à notre arrivée au pouvoir a été de demander au greffier du Conseil privé de définir des lignes directrices concernant le remboursement des frais de déplacement des premiers ministres en exercice, des membres de leur famille et de leurs invités. </ParaText>
             </Content>
           </Intervention>
@@ -2094,7 +2075,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442477">
-        <SubjectOfBusinessTitle>La reddition de comptes par le gouvernement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Règlement de la Chambre des communes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ambrose" id="9442476">
             <PersonSpeaking>
@@ -2384,7 +2365,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442549">
         <Timestamp Hr="14" Mn="40">(1440)</Timestamp>
-        <SubjectOfBusinessTitle>Le Règlement de la Chambre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Règlement de la Chambre des communes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Berthold" id="9442548">
             <PersonSpeaking>
@@ -2529,7 +2510,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442625">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La réforme démocratique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Règlement de la Chambre des communes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Reid" id="9442624">
             <PersonSpeaking>
@@ -2604,7 +2585,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442887">
-        <SubjectOfBusinessTitle>Les personnes âgées</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9442650">
             <PersonSpeaking>
@@ -2713,7 +2694,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442679">
-        <SubjectOfBusinessTitle>L'innovation, les sciences et le développement économique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Peterson" id="9442678">
             <PersonSpeaking>
@@ -2785,7 +2766,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442775">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'emploi et le développement social</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le développement de la main-d'oeuvre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Dhillon" id="9442696">
             <PersonSpeaking>
@@ -2841,7 +2822,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442710">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'emploi</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le développement de la main-d'oeuvre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Barsalou-Duval" id="9442709">
             <PersonSpeaking>
@@ -2974,13 +2955,28 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4811353">Comme il est 15 h 14, conformément à l'ordre adopté le vendredi 10 mars, la Chambre passe maintenant au vote par appel nominal différé sur la motion d'adoption du cinquième rapport du Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées concernant la prolongation du délai prévu pour l'étude du projet de loi  <Document DbId="8122307" Type="4">C-243</Document>. </ParaText>
               <ParaText id="4811354">Convoquez les députés.</ParaText>
+              <ParaText id="4870315">
+                <I>Avant le vote:</I>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9443619">
+        <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+        <SubjectOfBusinessTitle>L'incident au Parlement du Royaume-Uni</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="9443630">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4811357">À l'ordre. À la suite des discussions entre les représentants de tous les partis à la Chambre, je crois comprendre qu'il y a consentement afin d'observer un moment de silence pour les victimes de l'attentat contre le Parlement du Royaume-Uni. J'invite les députés à se lever.</ParaText>
+              <ParaText id="4811358">[<I>La Chambre observe un moment de silence.</I>]</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9442944">
-        <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
           <ParaText id="4811355">(La motion, mise aux voix, est adoptée par le vote suivant:)</ParaText>
           <Division id="9441863" DivisionNumber="235">
@@ -3294,27 +3290,19 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Total> -- 2</Total>
             </DivisionType>
           </Division>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9442950">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Ressources humaines, Développement des compétences, Développement social et condition des personnes handicapées</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9442817">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4811356">Je déclare la motion adoptée.</ParaText>
               <ProceduralText TocType="TPC" id="8">Adoption de la motion</ProceduralText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9443619">
-        <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'incident au Parlement du Royaume-Uni</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="9443630">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4811357">À l'ordre. À la suite des discussions entre les représentants de tous les partis à la Chambre, je crois comprendre qu'il y a consentement afin d'observer un moment de silence pour les victimes de l'attentat contre le Parlement du Royaume-Uni. J'invite les députés à se lever.</ParaText>
-              <ParaText id="4811358">[<I>La Chambre observe un moment de silence.</I>]</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4362,7 +4350,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4811494">J'apprécie l'intervention de l'honorable député de<Affiliation DbId="214171" Type="2">Mégantic—L'Érable</Affiliation>. Dans ce cas-ci, la décision restera la même et nous reprendrons le débat.</ParaText>
+              <ParaText id="4811494">J'apprécie l'intervention de l'honorable député de <Affiliation DbId="214171" Type="2">Mégantic—L'Érable</Affiliation>. Dans ce cas-ci, la décision restera la même et nous reprendrons le débat.</ParaText>
               <ParaText id="4811495">L'honorable députée de <Affiliation DbId="214504" Type="2">Sarnia—Lambton</Affiliation> a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -5288,7 +5276,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4811762"> La motion d'ajournement est adoptée d'office.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4811763"> La Chambre s'ajourne donc jusqu'à demain, à<?bk?> 10 heures,<?ek?> conformément au paragraphe <?bk?>24(1)<?ek?> du Règlement. </ParaText>
+              <ParaText id="4811763"> La Chambre s'ajourne donc jusqu'à demain, à<?bk ?> 10 heures,<?ek ?> conformément au paragraphe <?bk ?>24(1)<?ek ?> du Règlement. </ParaText>
               <ParaText id="4811764"> (La séance est levée à 19 h 6.) </ParaText>
             </Content>
           </Intervention>

@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9166198">
   <StartPageNumber>5829</StartPageNumber>
   <DocumentTitle>
@@ -74,11 +55,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9166438">
-        <SubjectOfBusinessTitle>Statements by Members</SubjectOfBusinessTitle>
-        <CatchLine>Statements by Members</CatchLine>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="9168492" Rubric="Other">
+      <OrderOfBusinessTitle>Statements by Members</OrderOfBusinessTitle>
+      <CatchLine>Statements by Members</CatchLine>
       <SubjectOfBusiness id="9166298">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>The Old Port</SubjectOfBusinessTitle>
@@ -116,7 +96,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="213926" Type="2">Mr. Mark Warawa (Langley—Aldergrove, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4556830">Mr. Speaker, over 200 million women and girls are missing, gone forever. There is a dangerous gender imbalance in the world. This global crisis is called gendercide, and is caused by sex selection. The world has become a very dangerous place for girls because many prefer boys over girls. Gender-based violence begins for girls even before they are born.</ParaText>
-              <ParaText id="4556831"> Numerous studies and documentaries are revealing that sex selection is occurring in Canada. World leaders and Canadians are speaking out against sex selection, and 92% of Canadians believe that sex-selection should be illegal. Canadian gynecologists and radiologists strongly oppose sex selection. </ParaText>
+              <ParaText id="4556831"> Numerous studies and documentaries are revealing that sex selection is occurring in Canada. World leaders and Canadians are speaking out against sex selection, and 92% of Canadians believe that sex selection should be illegal. Canadian gynecologists and radiologists strongly oppose sex selection. </ParaText>
               <ParaText id="4556832">It is time to join the voices that are speaking out against sex selection. I ask this Parliament to support Motion No. 77, and join Canadians, the United Nations, and world leaders in condemning all forms of gender-based violence against women and girls.</ParaText>
             </Content>
           </Intervention>
@@ -181,7 +161,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4556847">Mr. Speaker, there is a sinister disease in Canada. It causes long-term suffering to both its victims and their families, and it's on the rise.</ParaText>
               <ParaText id="4556848"> Lyme disease is passed with a simple tick bite, and there are many ways Canadians can take preventive action. Unfortunately, once bitten, many cases go undiagnosed, misdiagnosed, and simply ignored until the disease sets in.</ParaText>
-              <ParaText id="4556849"> We need better awareness amongst health care professionals and better public awareness. The good news is that it is treatable, but it can take time.</ParaText>
+              <ParaText id="4556849"> We need better awareness among health care professionals and better public awareness. The good news is that it is treatable, but it can take time.</ParaText>
               <ParaText id="4556850"> While infected, the patients and their families often face tremendous financial difficulties and emotional stress. We need to do more to help those fighting Lyme disease. </ParaText>
               <ParaText id="4556851">We thank the Lyme Disease Association of Alberta and caregivers like Nicholas, Ivan and Inez who make recoveries possible. </ParaText>
             </Content>
@@ -197,7 +177,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4556852">Mr. Speaker, I rise today to pay tribute to a former colleague of mine, Councillor Rick Johnson, who passed away suddenly at the age of 62.</ParaText>
               <ParaText id="4556853"> I served with Councillor Johnson on Pickering Council for a number of years, as did my hon. colleague from Ajax.</ParaText>
-              <ParaText id="4556854"> Rick had a larger than life personality and a variety of passions outside of politics. He was a proud farmer and musician. Anyone who has ever attended Pickering's Canada Day celebrations will never forget his annual rendition of the <I>Devil Went Down to Georgia</I>. I know I will not.</ParaText>
+              <ParaText id="4556854"> Rick had a larger-than-life personality and a variety of passions outside of politics. He was a proud farmer and musician. Anyone who has ever attended Pickering's Canada Day celebrations will never forget his annual rendition of the <I>Devil Went Down to Georgia</I>. I know I will not.</ParaText>
               <ParaText id="4556855"> Rick and I also shared a passion for the Toronto Blue Jays. Tough as the Jays' current situation may be, I know Rick would not be ruling them out, and is somewhere cheering them on.</ParaText>
               <ParaText id="4556856"> During this difficult time, my thoughts are with Rick's wonderful wife Susan and their son Chris, as well as his extended family and friends, and all those who worked with him in the city of Pickering. </ParaText>
               <ParaText id="4556857">Rick's memory will live on in the stories we share. </ParaText>
@@ -207,7 +187,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166241">
         <Timestamp Hr="14" Mn="15">(1415)</Timestamp>
-        <SubjectOfBusinessTitle>Small Business Week</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Tobique-Mactaquac</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Harvey" id="9166242">
             <PersonSpeaking>
@@ -244,7 +224,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214556" Type="2">Ms. Pam Goldsmith-Jones (West Vancouver—Sunshine Coast—Sea to Sky Country, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4556867">Mr. Speaker, last Saturday, the district of Squamish and the Squamish Nation led the testing of a new community-wide emergency alert system powered by ePACT, a north Vancouver tech company that lets families create one emergency record to securely store all of their information so that in a crisis they can reach the organizations that matter most, like the school, day care, and seniors centre.</ParaText>
+              <ParaText id="4556867">Mr. Speaker, last Saturday, the district of Squamish and the Squamish Nation led the testing of a new community-wide emergency alert system powered by ePACT, a North Vancouver tech company that lets families create one emergency record to securely store all of their information so that in a crisis they can reach the organizations that matter most, like the school, day care, and seniors centre.</ParaText>
               <ParaText id="4556868">ePACT has customers in every province and territory in Canada, every state in the United States, and 102 countries around the world, and yet CEO Christine Sommers says, “we’ve never seen such an innovative approach to using our network...as what the Squamish District and Squamish Nation are doing.” </ParaText>
               <ParaText id="4556869">Municipalities everywhere are looking to learn from last weekend in Squamish so we can build better, smarter, and safer communities through Canadian innovation.</ParaText>
             </Content>
@@ -262,7 +242,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4556870">Mr. Speaker, 87 years ago Canadian women could not sit in the Senate because the Supreme Court of Canada did not consider them “persons” under the Senate requirement.</ParaText>
               <ParaText id="4556871">Five Alberta women, “the famous five”, challenged the Supreme Court of Canada decision all the way to the Judicial Council of the Privy Council in Britain, which overturned the ruling.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4556872">The now historic person's case stated:</ParaText>
+              <ParaText id="4556872">The now historic persons case stated:</ParaText>
               <ParaText id="4556873">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">...the exclusion of women from all public offices is a relic of days more barbarous than ours. And to those who would ask why the word “person” should include females, the obvious answer is, why should it not?</QuotePara>
@@ -300,8 +280,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214588" Type="2">Mr. Michael McLeod (Northwest Territories, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4556882">Mr. Speaker, on September 20, De Beers Canada and its joint venture partner, Mountain Province Diamonds, celebrated the official opening of the Gahcho Kué mine, located northeast of Yellowknife. </ParaText>
-              <ParaText id="4556883">As the member for Northwest Territories, I am proud of the potential benefits this mine will bring to my communities. This $1 billion mine is the largest new diamond mine recently constructed in the world, and highlights the importance of strategic and ambitious investment. </ParaText>
-              <ParaText id="4556884">The benefits of this project are enormous: 54 million carats of rough diamonds will be mined over the life of the mine, which will reinforce Canada's position as the world's third largest diamond producer by value, and there will be spin-off benefits in the communities and small businesses, the backbone of our Canadian economy.</ParaText>
+              <ParaText id="4556883">As the member for Northwest Territories, I am proud of the potential benefits this mine will bring to my communities. This $1-billion mine is the largest new diamond mine recently constructed in the world, and highlights the importance of strategic and ambitious investment. </ParaText>
+              <ParaText id="4556884">The benefits of this project are enormous: 54 million carats of rough diamonds will be mined over the life of the mine, which will reinforce Canada's position as the world's third-largest diamond producer by value, and there will be spin-off benefits in the communities and small businesses, the backbone of our Canadian economy.</ParaText>
               <ParaText id="4556885"> The potential contributions are further highlighted in the north with De Beers' partnering with our communities, using local procurement, local business, and hiring locally.</ParaText>
               <ParaText id="4556886"> I congratulate De Beers on the opening of the mine and its commitment to work with first nations and Métis communities in the north.</ParaText>
             </Content>
@@ -331,7 +311,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214234" Type="2">Mrs. Karen Vecchio (Elgin—Middlesex—London, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4556892">Mr. Speaker, the limousine Liberals are at it again. Lavish lounges and and lobbying loopholes are letting the Liberals line their linens while labourers are losing their life-savings.</ParaText>
+              <ParaText id="4556892">Mr. Speaker, the limousine Liberals are at it again. Lavish lounges and lobbying loopholes are letting the Liberals line their linens while labourers are losing their life savings.</ParaText>
               <ParaText id="4556893">Let us review what we have seen in the past year. </ParaText>
               <ParaText id="4556894">The <Affiliation DbId="214310" Type="4">environment minister</Affiliation>, who is apparently the only Liberal unable to take a selfie, spent $6,600 so that a photographer could follow her around Paris. The <Affiliation DbId="214325" Type="4">natural resources minister</Affiliation>, who could not walk a few blocks to attend a hockey game, decided to use a limousine at taxpayers' expense instead. Then we have the <Affiliation DbId="214328" Type="4">health minister</Affiliation>, who not only rides in a luxurious Lexus limousine but also billed taxpayers so she could lavishly lounge and lunch with lobbyists on lobster linguine.</ParaText>
               <ParaText id="4556895">Unfortunately, the Liberals' lack of logic is leading Canadians down a long, lost loop where labourers languish and lose their loonies.</ParaText>
@@ -667,7 +647,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214456" Type="2">Ms. Rachael Harder (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4556963">Mr. Speaker, my friends Tony and Noel, from my riding, have saved for six years for their dream of owning their very first home. The <Affiliation DbId="214320" Type="4">finance minister</Affiliation> just recently released changes with regard to mortgage rules, and now these same friends no longer qualify for the same amount they once did.</ParaText>
-              <ParaText id="4556964">The<Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claimed that he would help the middle class out, but instead, over the last year, 1.4 million Canadians are without jobs, small businesses are struggling and failing, and now young Canadians have to wait even longer to be able to buy their first home.</ParaText>
+              <ParaText id="4556964">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claimed that he would help the middle class out, but instead, over the last year, 1.4 million Canadians are without jobs, small businesses are struggling and failing, and now young Canadians have to wait even longer to be able to buy their first home.</ParaText>
               <ParaText id="4556965">How can young Canadians trust the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, when his policies make it even more difficult for them to succeed?</ParaText>
             </Content>
           </Intervention>
@@ -750,7 +730,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166446">
-        <SubjectOfBusinessTitle>Political Fundraising</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Ethics</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Bergen" id="9166445">
             <PersonSpeaking>
@@ -1116,7 +1096,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166570">
-        <SubjectOfBusinessTitle>Transportation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Government Appointments</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Warkentin" id="9166568">
             <PersonSpeaking>
@@ -1145,7 +1125,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166581">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Quebec's Interests</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Intergovernmental Relations</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boulerice" id="9166578">
             <PersonSpeaking>
@@ -1268,7 +1248,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4557099">I have the honour to inform the House that Mr. Rankin, member for the electoral district of Victoria, has been appointed a member of the Board of Internal Economy in place of Mr. Julian, member for the electoral district of New Westminster—Burnaby, for the purposes of and under the provisions of Section 50 of the Parliament of Canada Act.</ParaText>
+              <ParaText id="4557099">I have the honour to inform the House the member for the electoral district of Victoria, has been appointed a member of the Board of Internal Economy in place of the member for the electoral district of New Westminster—Burnaby, for the purposes of and under the provisions of Section 50 of the Parliament of Canada Act.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1348,7 +1328,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557108">Pursuant to Standing Order 91.1(2), the report is deemed adopted. </ParaText>
-              <ProceduralText TocType="TCC" id="3">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1362,7 +1341,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214426" Type="2">Mr. Gordon Brown (Leeds—Grenville—Thousand Islands and Rideau Lakes, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557109">Mr. Speaker, there have been discussions among the parties, and if you seek it I believe you would find consent for the following motion:</ParaText>
-              <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="4557110">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the order made Thursday, October 6, 2016, pursuant to Standing Order 97.1 respecting the deferral of the recorded division on the motion to concur in the sixth report of the Standing Committee on Public Safety and National Security scheduled to take place on Wednesday, October 19, 2016, be discharged and the motion deemed adopted.</QuotePara>
@@ -1381,7 +1360,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 <B>The Speaker:</B> The House has heard the terms of the motion. Is it the pleasure of the House to adopt the motion?</ParaText>
               <ParaText id="4557114">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <ProceduralText TocType="TCC" id="5">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="4">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1413,7 +1392,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166762">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Tax Havens</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Tax Evasion</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Choquette" id="9166649">
             <PersonSpeaking>
@@ -1491,7 +1470,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166784">
-        <SubjectOfBusinessQualifier>Public Health</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Health</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Waugh" id="9166667">
             <PersonSpeaking>
@@ -1543,7 +1522,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214300" Type="4">Hon. Ralph Goodale (Minister of Public Safety and Emergency Preparedness, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557133">Mr. Speaker, I would ask that this notice of motion for production of papers be transferred for debate.</ParaText>
-              <ProceduralText TocType="TPC" id="6">Transferred for debate</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Transferred for debate</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9166681">
@@ -1575,7 +1554,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <ParaText id="4557137"> 
 The House resumed from October 18 consideration of the motion that Bill <Document DbId="8073132" Type="3">C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</Document>, be read the third time and passed.
 </ParaText>
-          <ProceduralText TocType="TPC" id="7">Bill C-4. Third reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Bill C-4. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fonseca" id="9166689">
             <PersonSpeaking>
               <Affiliation DbId="214019" Type="2">Mr. Peter Fonseca (Mississauga East—Cooksville, Lib.)</Affiliation>: </PersonSpeaking>
@@ -1584,7 +1563,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <ParaText id="4557139">I will first address the important function played by unions in protecting the rights of Canadian workers and in helping the middle class grow and prosper. </ParaText>
               <ParaText id="4557140">Historically in Canada, unions have played a vital role, both in determining the way people are paid and in preserving people's rights in the workplace. A few of the many benefits that have been secured include the right to fair, safe working conditions; compensation for injury; and equitable labour relations. These three notable fruits of the work of Canadian unions benefit all Canadian employees.</ParaText>
               <ParaText id="4557141">The right to be treated fairly and without discrimination, according to the Canadian Labour Congress, is the most valued right that unions have pursued for workers. Minimum wages, employment insurance, and maternity leave are also workplace benefits that were pioneered by unions and that many of us share. Unions are and have been instrumental in developing the evolution of positive employment practices in Canada.</ParaText>
-              <ParaText id="4557142"> This government is working to ensure that labour law is balanced, equitable, and fair. Accordingly, Bill <Document DbId="8073132" Type="3">C-4</Document> has been set forth by the government to restore fairness and balance to Canada's labour system. It is essential to this restoration of the balance of rights that Bills <Document DbId="6251818" Type="4">C-377</Document> and <Document DbId="6251920" Type="4">C-525</Document>, both of which were supported by our predecessors, be repealed now. Bill C-4 would fulfill that function. It would rescind the provisions of two bills: one bill that causes undue interference and upsets balance and stability in labour relations, Bill C-525; and one that attempts to amend the Income Tax Act for no foreseeable benefit, and that turns out to be counterproductive to a positive working relationship between employers and employees.</ParaText>
+              <ParaText id="4557142"> This government is working to ensure that labour law is balanced, equitable, and fair. Accordingly, Bill <Document DbId="8073132" Type="3">C-4</Document> has been set forth by the government to restore fairness and balance to Canada's labour system. It is essential to this restoration of the balance of rights that Bill <Document DbId="6251818" Type="4">C-377</Document> and Bill <Document DbId="6251920" Type="4">C-525</Document>, both of which were supported by our predecessors, be repealed now. Bill C-4 would fulfill that function. It would rescind the provisions of two bills: one bill that causes undue interference and upsets balance and stability in labour relations, Bill C-525; and one that attempts to amend the Income Tax Act for no foreseeable benefit, and that turns out to be counterproductive to a positive working relationship between employers and employees.</ParaText>
               <ParaText id="4557143">Bill <Document DbId="8073132" Type="3">C-4</Document> would restore a long-time system that worked well for decades. According to Bob Blakely of Canada's Building Trades Unions, it would restore fairness and respect for the confidentiality of union financial information by allowing unions to be treated like every other tax entity in Canada. The Government of Canada prizes the role that unions play in protecting the rights of Canadian workers and, in so doing, helping the middle class grow and prosper. Unions are a positive force in our economy. This government has also not forgotten that labour rights are human rights. Bill C-4 would restore and maintain those rights.</ParaText>
               <ParaText id="4557144">The repeal of these two bills is essential. The adoption of Bill <Document DbId="8073132" Type="3">C-4</Document> would result in positive and productive outcomes, but in order to show these benefits clearly, it is necessary to outline the conditions of the bills and their counterproductive unfair defaults.</ParaText>
               <ParaText id="4557145">In Bill <Document DbId="6251818" Type="4">C-377</Document>, the intent was to require unions to show financial statements for expenses over $5,000 and salaries of more than $100,000. Unions were also supposed to provide statements related to expenditures on political and lobbying activities. All of the information was to be posted on a Canada Revenue Agency website. Keep in mind that legislation exists already to ensure that unions make financial information available to their members. Such legislation is evident in section 110 of the Canada Labour Code, with similar provisions in many provincial labour laws. In fact, some provinces feel encroached upon by this overriding of their responsibility. Redundancy is counterproductive. Labour unions are already transparent. </ParaText>
@@ -1662,7 +1641,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <ParaText id="4557172">We know. We do not have to rely on the misinformation campaign by the member opposite. We can simply look at the polling information that has been done time and time again, which has resulted in the very same regressive laws that the Liberal Party, with the support of the NDP, is going back to. These laws have been changed in virtually every other democracy in the world that we would consider to be our peers, and in the provinces of our very own country. The United States, for example, has mandatory secret ballot voting for workers to decide whether or not they want to be in a union. Various countries in Europe have the same thing. Various provinces in Canada have the exact same thing. </ParaText>
               <ParaText id="4557173">I do not know any members of Parliament who have stood in the House and said that a constituent asked them when once elected by a secret ballot to trundle off to Ottawa, rise in their places and make some speech about things that are flowery but do not make any sense whatsoever. I do not know of any members whose constituents have asked for their ability to see where their tax dollars or union dues are spent to be taken away. I do not know of any members who have said that their constituents have asked them to take away their ability to have a secret ballot vote because they do not want to make that decision on their own behalf. It is tomfoolery. That is absolutely ludicrous.</ParaText>
               <ParaText id="4557174">The Liberals talk a great game about union bosses and they talk a great game about employers, but they never talk about what an actual worker wants. Unionized workers are the people who actually pay the dues. They are not the people who live off the dues. They are not the people necessarily who subsidize the union dues. Unionized workers are the people who go to work and show up with their lunch pails in their hands every day. They are the people who pay these union dues.</ParaText>
-              <ParaText id="4557175"> Leger as recently as 2013 asked for people's opinion on the secret ballot when a union is formed or removed from a workplace. Across the country, 69% of Canadians completely agreed and 17% somewhat agreed. We are talking numbers north of 75% to 80% in the various regions of this country of unionized workers who absolutely want the right to have a mandatory secret ballot vote to verify whether or not they want to be members of a union. What is so wrong with supporting that notion? It is absolutely mind-boggling to me. This would be tantamount to members of Parliament knocking on doors in their constituencies during a byelection or a general election campaign with ballots in hand. They bring along two of the biggest people they know who stand right behind them and they tell the person who answers the door that it might be in his or her best interests to vote for them right there, right now. That is called card checking and that is sometimes how it is played out. I have heard that from my constituents. </ParaText>
+              <ParaText id="4557175"> Leger as recently as 2013 asked for people's opinion on the secret ballot when a union is formed or removed from a workplace. Across the country, 69% of Canadians completely agreed and 17% somewhat agreed. We are talking numbers north of 75% to 80% in the various regions of this country of unionized workers who absolutely want the right to have a mandatory secret ballot vote to verify whether or not they want to be members of a union. What is so wrong with supporting that notion? It is absolutely mind-boggling to me. This would be tantamount to members of Parliament knocking on doors in their constituencies during a by-election or a general election campaign with ballots in hand. They bring along two of the biggest people they know who stand right behind them and they tell the person who answers the door that it might be in his or her best interests to vote for them right there, right now. That is called card checking and that is sometimes how it is played out. I have heard that from my constituents. </ParaText>
               <ParaText id="4557176">The Liberals and the NDP like to claim that it was the previous Conservative government's notion to put this bill forward. I did it. I put Bill <Document DbId="6251920" Type="4">C-525</Document> forward and I did it because I heard from workers in my riding that they were not getting the accountability that they wanted.</ParaText>
               <ParaText id="4557177">I do not think as a member of Parliament that I should be reaching into the internal operations of a union, but I do believe as a member of Parliament that I have a responsibility to give every accountability measure I can to workers so they can understand where their money is being spent, so they have the ability to see where it is being spent, and so they have the ability to hold that union to account if it is not doing a good job spending their union dues.</ParaText>
               <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
@@ -1764,7 +1743,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557216">The vote is deferred.</ParaText>
-              <ProceduralText TocType="TPC" id="8">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1772,7 +1751,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
       <SubjectOfBusiness id="9167211">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Salaries Act</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="9">Bill C-24. Second reading</ProceduralText>
+        <ProceduralText TocType="TPC" id="8">Bill C-24. Second reading</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="4557217">The House resumed from October 7 consideration of the motion that Bill  <Document DbId="8374844" Type="3">C-24, An Act to amend the Salaries Act and to make a consequential amendment to the Financial Administration Act</Document>, be read the second time and referred to a committee, and of the amendment.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Berthold" id="9167019">
@@ -1802,7 +1781,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <ParaText id="4557233">What is going to happen on Halloween night when kids go trick-or-treating? The dairy producers of my riding will not even be able to hand out Halloween candy to the kids. They cannot afford it; it is that simple. How sad.</ParaText>
               <ParaText id="4557234">Meanwhile, the softwood lumber issue is affecting thousands of jobs, including hundreds in my riding and hundreds in my colleagues' ridings. In the ridings of many of the members across the aisle, the current situation is having a direct impact on sawmills, since negotiations with the United States are not going well at all, because the government really does not care about resolving this matter. Why are the negotiations not working? Who in cabinet is going to stand up and speak on behalf of the various economic regions? We no longer have ministers responsible for regional economic development.</ParaText>
               <ParaText id="4557235">Not only does Bill <Document DbId="8374844" Type="3">C-24</Document> abolish them, it abolishes them forever. It is really troubling.</ParaText>
-              <ParaText id="4557236">Since this is a new government, those folks over there do not really realize what those regional minsters did. What does a minister responsible for an economic development agency do? I will refer directly to the the Canada Economic Development website to explain what an economic development agency does. There are six regional development agencies across Canada that each represent one of the country's various regions.</ParaText>
+              <ParaText id="4557236">Since this is a new government, those folks over there do not really realize what those regional ministers did. What does a minister responsible for an economic development agency do? I will refer directly to the Canada Economic Development website to explain what an economic development agency does. There are six regional development agencies across Canada that each represent one of the country's various regions.</ParaText>
               <ParaText id="4557237">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Regional Development Agencies across Canada help to address key economic challenges by providing regionally-tailored programs, services, knowledge and expertise that: build on regional and local economic assets and strengths; support business growth, productivity and innovation; help small- and medium-sized businesses effectively compete in the global marketplace; provide adjustment assistance in response to economic downturns and crises; and support communities.</QuotePara>
@@ -1835,7 +1814,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557248">Mr. Speaker, the member might actually be a little off base on this particular bill. Bill <Document DbId="8374844" Type="3">C-24</Document> really equalizes. It makes all ministers equal. For example, with the Harper government, we had status of women being one level of cabinet minister, and the minister of finance being another level of cabinet minister. </ParaText>
-              <ParaText id="4557249">It takes a two-tier system, and establishes one-tier for cabinet ministers. When they sit around the table, they speak from the same power base, and that is important.</ParaText>
+              <ParaText id="4557249">It takes a two-tier system, and establishes one tier for cabinet ministers. When they sit around the table, they speak from the same power base, and that is important.</ParaText>
               <ParaText id="4557250">The member made reference to regional ministers. Finance does an incredible job, and that minister represents the entire country. We have confidence the minister responsible for development will represent the entire country. That is an obligation of all federal ministers. It is not just one pocket but the entire country.</ParaText>
               <ParaText id="4557251">When we talk about the economic development of regions, we have FedDev, ACOA, CED, and the Western Diversification Fund. If we look at the Western Diversification Fund in particular, even with a majority Conservative government, the regional minister did squat in terms of developing that fund during the Harper years.</ParaText>
               <ParaText id="4557252">My question to the member is, would he not recognize that the real true value are those regional development funds?</ParaText>
@@ -1889,9 +1868,9 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9167269">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Lamoureux" id="9167269">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557268">Mr. Speaker, my question for the member is fairly straightforward. Three economic development agencies are budgeted a certain amount of money on an annual basis. If we look at the Western Diversification Fund, we find that the budget, which the minister is responsible for allocating the money, has not done well in western Canada. The minister representing western Canada did not get the job done in terms of delivering for western Canada. The argument is that a minister is responsible for the entire country, whether it is the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation>, the <Affiliation DbId="214319" Type="4">Minister of Innovation, Science and Economic Development</Affiliation>, or the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation>. This legislation makes all ministers equal. </ParaText>
               <ParaText id="4557269">From the Conservative Party's perspective, is there anything wrong with having an equal cabinet?</ParaText>
@@ -1918,7 +1897,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <ParaText id="4557276">The addition of these new positions to the Salaries Act speak to the priorities of our times, just as Laurier's ministers spoke to his time. Laurier was the first French-Canadian prime minister. He argued that Canada's linguistic duality could make our country a key player on the international stage. Today, we are proud to be part of the Organisation internationale de la Francophonie. In addition to her responsibilities as Minister of International Development, the Minister for La Francophonie pursues Canada’s strong and engaged commitment to the 80 governments and member states of la Francophonie. Together we represent more than one-third of the United Nations’ member states and account for a population of over 890 million people, including 220 million French speakers.</ParaText>
               <ParaText id="4557277">The Minister of Small Business and Tourism also represents a priority that did not exist in Laurier's time, when Canada was predominantly an agricultural nation. Today, our small businesses are the backbone of Canada's economy. They create jobs, they support communities, and they provide a launching pad for our best and brightest to create world-class companies. The Minister of Small Business and Tourism helps these people thrive and contribute to a strong Canadian economy. Her efforts to help small businesses grow and prosper contribute to building a strong middle class in Canada.</ParaText>
               <ParaText id="4557278"> Like the Minister of Small Business and Tourism, the Minister of Science has a mandate that contributes to the competitiveness of Canada in a global, knowledge-based economy. Science plays a key role in providing the evidence for sound policy decisions. Support for world-class research is critical to making innovation a national priority, and the minister is helping promote the science that will drive an economy that is both prosperous and environmentally sustainable. </ParaText>
-              <ParaText id="4557279">The Government of Canada is the largest single investor in our country’s sports system. Its investments in Canada’s able-bodied and parasport athletes was recently on display in the excellent results Canada achieved at the Olympic and Paralympic Games in Rio. These results encourage all Canadians, especially our young people, to get involved in sport and recreation. The Minister of Sport and Persons with Disabilities promotes healthier Canadians through sport and recreation and helps to ensure greater accessibility and opportunities for Canadians with disabilities. She plays an important part in pursing the government’s goal of fostering and celebrating Canada’s diversity and making sure that all Canadians have equality of opportunity. </ParaText>
+              <ParaText id="4557279">The Government of Canada is the largest single investor in our country’s sports system. Its investments in Canada’s able-bodied and parasport athletes were recently on display in the excellent results Canada achieved at the Olympic and Paralympic Games in Rio. These results encourage all Canadians, especially our young people, to get involved in sport and recreation. The Minister of Sport and Persons with Disabilities promotes healthier Canadians through sport and recreation and helps to ensure greater accessibility and opportunities for Canadians with disabilities. She plays an important part in pursing the government’s goal of fostering and celebrating Canada’s diversity and making sure that all Canadians have equality of opportunity. </ParaText>
               <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
               <ParaText id="4557280"> This goal of promoting diversity applies, as well, to the work of the Minister of Status of Women. One hundred years ago, women first earned the right to vote in Canada, starting in Manitoba. Last year, Canadians saw the first ever gender-balanced federal cabinet and, for the first time, a minister is dedicated fully to gender issues. </ParaText>
               <ParaText id="4557281">This government has made gender equality a priority. The minister champions gender equality, addresses the issue of violence against women, advances women's economic security and prosperity, and increases the representation of women in leadership and decision-making roles.</ParaText>
@@ -1931,7 +1910,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <Affiliation DbId="214171" Type="2">Mr. Luc Berthold (Mégantic—L'Érable, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557284">Mr. Speaker, I commend my colleague on his speech. He did a fine job learning the talking points for this bill, especially the ones on equity.</ParaText>
-              <ParaText id="4557285">The hon. member talked about what is included in the bill, but he did not talk about what is not included in the bill, in other words, the elimination of the regional minister positions. He also failed to talked about the ministerial lottery, these three new, mysterious minister positions that are included in the bill and we have no idea why.</ParaText>
+              <ParaText id="4557285">The hon. member talked about what is included in the bill, but he did not talk about what is not included in the bill, in other words, the elimination of the regional minister positions. He also failed to talk about the ministerial lottery, these three new, mysterious minister positions that are included in the bill and we have no idea why.</ParaText>
               <ParaText id="4557286">Why is the government reserving the right to include three new minister positions in a bill without providing any further details? Would it be because the government wants to cut the number of regional economic development agencies to three? We do not know, because it is not in the bill. We have no idea.</ParaText>
               <ParaText id="4557287">What are these three mysterious minister positions? What is this Liberal ministerial lottery all about?</ParaText>
             </Content>
@@ -1976,9 +1955,9 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Berthold" id="9167380">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Berthold" id="9167380">
             <PersonSpeaking>
-              <Affiliation DbId="214171" Type="2">Mr. Luc Berthold (Mégantic—L'Érable, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214171" Type="2">Mr. Luc Berthold</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557295">Mr. Speaker, I am pleased to have the opportunity to ask another question, because I heard my colleague say something that made what little hair I have left stand on end. If I continue listening, I may well lose the rest.</ParaText>
               <ParaText id="4557296">Does my colleague realize what he just said, with the comment about six ministers doing the same thing? Do the six ministers for the regional development agencies, which means one for the Atlantic provinces, one for Ontario, one for Quebec, one for the west, and one for the north, all have the same mandate to develop the same thing? Are the regional development issues in the west the same as they are in the Atlantic provinces? </ParaText>
@@ -1994,9 +1973,9 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Blaikie" id="9167395">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Blaikie" id="9167395">
             <PersonSpeaking>
-              <Affiliation DbId="214129" Type="2">Mr. Daniel Blaikie (Elmwood—Transcona, NDP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214129" Type="2">Mr. Daniel Blaikie</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557300">Mr. Speaker, I think there might have been a slip of the tongue in the answer to my previous question, so I want to give the member the opportunity to correct himself.</ParaText>
               <ParaText id="4557301">I think he meant to be talking about ministers for whom a department is designated. He said that they will be working together, and that is what the new arrangement is going to be, but he said “minister of state”. I think the slip of the tongue might actually be telling, because it is actually hard to tell the difference between what these positions are, other than the fact that they will have a slightly different title. In practical terms, it seems to me that these are still two different positions. One kind of minister, ministers of departments, will be heads of departments, and the other ones will effectively be assisting those ministers with resources from their departments.</ParaText>
@@ -2063,9 +2042,9 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
             <Content>
               <ParaText id="4557312">Mr. Speaker, I rise today to speak to Bill <Document DbId="8374844" Type="3">C-24, an act to amend the Salaries Act and to make a consequential amendment to the Financial Administration Act</Document>.</ParaText>
               <ParaText id="4557313"> The bill can be broken down into three major components: the legal creation of eight new Liberal ministerial positions, including three ministers; the elimination of six regional development agency ministers; and the amendment to the Salaries Act so that all ministers are paid equally.</ParaText>
-              <ParaText id="4557314">Before I start speaking directly to these points, I want to share with everyone the importance of economic development agencies. I have seen first hand in my own riding the positive impact of federal economic agencies, and more specifically, of the Federal Economic Development Agency for Southern Ontario.</ParaText>
+              <ParaText id="4557314">Before I start speaking directly to these points, I want to share with everyone the importance of economic development agencies. I have seen first-hand in my own riding the positive impact of federal economic agencies, and more specifically, of the Federal Economic Development Agency for Southern Ontario.</ParaText>
               <ParaText id="4557315">In 2009, the federal government created FedDev Ontario. Prime Minister Stephen Harper announced this agency, recognizing the global recession and the specific challenges in every region of the country. The agency was created to deal with the specific and distinct needs of southern Ontario, tailored to the priorities of the region. The agency was developed as a tool to help businesses and communities succeed with necessary resources.</ParaText>
-              <ParaText id="4557316">At the time, the prime minister appointed the hon. Gary Goodyear to tour and engage workers, businesses, and community leaders. Gary was a member of Parliament from Cambridge who not only represented the area but was able to see the issues first hand and work with leaders to create solutions for the economic downturn.</ParaText>
+              <ParaText id="4557316">At the time, the prime minister appointed the hon. Gary Goodyear to tour and engage workers, businesses, and community leaders. Gary was a member of Parliament from Cambridge who not only represented the area but was able to see the issues first-hand and work with leaders to create solutions for the economic downturn.</ParaText>
               <ParaText id="4557317">Through the creation of this agency, many incredible opportunities came to fruition, and over $1 billion was provided over five years. Mr. Goodyear's job was to work with the departments and account for putting programs into action, working to expedite funding for economic development, diversification, and community development.</ParaText>
               <ParaText id="4557318">Programs included under FedDev Ontario were the community adjustment fund, the National Research Council industrial research assistance program, the community futures program, and the Business Development Bank of Canada. </ParaText>
               <ParaText id="4557319">Overall, the agency's mandate was aimed at addressing the short-term economic needs of the communities hit hard by the economic recession. FedDev was able to announce a number of important initiatives, including an $8-million investment to build an air cargo terminal at the London International Airport and improvements to Highway 8 in co-operation with the Province of Ontario.</ParaText>
@@ -2120,7 +2099,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <Affiliation DbId="214234" Type="2">Mrs. Karen Vecchio</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557354">Mr. Speaker, I have a great respect for all of the work that the member has done in the past, and he does enlighten us very often. I recognize what he is saying. Converting the five is one thing. I recognize how we do the math there, and that is great, but when we are talking about accountability, there are billions of dollars flowing through those economic development agencies.</ParaText>
-              <ParaText id="4557355"> In the city of London itself we have London Air Cargo, which is a new opportunity for more businesses to grow and to have international trade opportunities come into the communities. I believe it is important to have someone in that region who understand its needs and who advocates on behalf of the southwestern Ontario economic development agency. What I am asking for is accountability, to see how that money is spent, and to have a minister who is accountable for that.</ParaText>
+              <ParaText id="4557355"> In the city of London itself we have London Air Cargo, which is a new opportunity for more businesses to grow and to have international trade opportunities come into the communities. I believe it is important to have someone in that region who understands its needs and who advocates on behalf of the southwestern Ontario economic development agency. What I am asking for is accountability, to see how that money is spent, and to have a minister who is accountable for that.</ParaText>
               <ParaText id="4557356">I recognize that the <Affiliation DbId="214319" Type="4">Minister of Innovation</Affiliation> does a good job. However, we are asking him to be in charge of not only his own role but also six other federal agencies that will be spending this money. We cannot put the needs of Atlantic Canada, western Canada, southwestern Ontario, Quebec, and northern Ontario into one bucket and say they are all the same. When I travel across this great country, things are different from place to place. Having the member from northern B.C. tell me how things are up there will be a lot different from what I find in southwestern Ontario. By having those ministers as a part of the dialogue in those communities, they will be able to connect with cabinet and share the concerns of all Canadians in their represented regions.</ParaText>
             </Content>
           </Intervention>
@@ -2229,11 +2208,11 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
               <ParaText id="4557417">Granted, it is the government's prerogative to experiment with new ways of doing this, but I think it made a poor decision. This kind of centralizing of decision-making for agencies that have a deliberately regional mandate does not make sense and ultimately is not helpful. The government wants to try something new and it is doing that, but I think the government will find that it does not work. Why are the Liberals closing the door behind them and making it harder to go back to a model which I think works better, which is actually having ministers from the regions in charge of the local regional development agencies? Particularly in tough economic times, the government may find in time that it is worth making it a full-time job of a cabinet minister to do that. That is what the government is taking away by doing this and that does not make sense.</ParaText>
               <ParaText id="4557418">The Liberals are leaving their options open with slush ministries or extra ministries that have not been designated yet. They are leaving their options open, even though they are saying there is some matter of principle at stake in not having ministers of state, but they are keeping the act around just in case they want to appoint some anyway. The Liberals embarked on a centralizing experiment when it comes to regional economic development, and they have decided instead to tie their hands. That does not make sense to me. They have their priorities backward.</ParaText>
               <ParaText id="4557419">People in Elmwood—Transcona would prefer to have a minister from western Canada who knows and understands western Canada's economy making the detailed decisions about how the government is going to encourage western economic diversification. I believe that people in other parts of the country feel the same way about their own region. The government should leave itself with more options, not less, when it comes to managing regional economic development. The government is creating three as yet unspecified ministries in the name of flexibility, so why not retain the flexibility it already has with respect to regional economic development?</ParaText>
-              <ParaText id="4557420">Where does this leave us? It seems to me this bill was drafted by the minster's personal communications team with the full dearth of understanding of legislative and parliamentary process that that implies. The bill is not really about furthering any principle of equality. For any of the government's proposed goals in the bill with respect to equality, and I have gone through an exhaustive list of different senses of equality that the government might mean, Bill <Document DbId="8374844" Type="3">C-24</Document> either fails or is completely unnecessary. </ParaText>
+              <ParaText id="4557420">Where does this leave us? It seems to me this bill was drafted by the minister's personal communications team with the full dearth of understanding of legislative and parliamentary process that that implies. The bill is not really about furthering any principle of equality. For any of the government's proposed goals in the bill with respect to equality, and I have gone through an exhaustive list of different senses of equality that the government might mean, Bill <Document DbId="8374844" Type="3">C-24</Document> either fails or is completely unnecessary. </ParaText>
               <ParaText id="4557421">The bill would create an expanded and more complicated set of cabinet-building options for a <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> who already did not understand the options that were available to him, while tending to mask real differences in responsibility by maintaining the tradition of junior and senior cabinet posts, and let me be clear that is what a minister for whom a department is designated is, while conferring the same title on each cabinet member.</ParaText>
               <ParaText id="4557422">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> wants to be lauded for bringing real gender equality to cabinet, but in order to do that, and instead of taking real action on that, he is just glossing over the fact that his ministers formerly known as ministers of state really are just ministers of state with a better salary and a better title.</ParaText>
               <ParaText id="4557423">It is no secret that where the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is concerned, style trumps substance. It is shocking to see that tendency drilled down to the level where it is starting to interfere with a relatively straightforward administrative matter such as determining what act of Parliament would authorize the payment of ministers of state. That is something else.</ParaText>
-              <ParaText id="4557424">The end result is that we are forced to consider a bill that is a colossal waste of time. The Liberal government has been criticized for having a notoriously light legislative agenda, but the goal of those critics was not to encourage it to produce nonsense bills that would not change anything but rather that we might spur the Liberals on to introduce meaningful legislation that would help move the country forward. For instance, if they want a quick short list off the top of my head, they could move to repeal Bill <Document DbId="6842344" Type="3">C-51</Document>. They could move to to protect Canadian water by reinstating the Navigable Waters Protection Act which was decimated in the last Parliament. They could reinstate the Fair Wages and Hours of Labour Act. That would get us back to a baseline of where we were before the last 10 years of government.</ParaText>
+              <ParaText id="4557424">The end result is that we are forced to consider a bill that is a colossal waste of time. The Liberal government has been criticized for having a notoriously light legislative agenda, but the goal of those critics was not to encourage it to produce nonsense bills that would not change anything but rather that we might spur the Liberals on to introduce meaningful legislation that would help move the country forward. For instance, if they want a quick short list off the top of my head, they could move to repeal Bill <Document DbId="6842344" Type="3">C-51</Document>. They could move to protect Canadian water by reinstating the Navigable Waters Protection Act which was decimated in the last Parliament. They could reinstate the Fair Wages and Hours of Labour Act. That would get us back to a baseline of where we were before the last 10 years of government.</ParaText>
               <ParaText id="4557425">If the Liberals wanted to go further and begin improving on that baseline, they could bring forward legislation granting pay equity for Canadian women, which they have said they are going to wait until the end of 2018 to do. They could bring in a meaningful rail safety regime instead of continuing to rely on industry self-regulation, and the list goes on.</ParaText>
               <ParaText id="4557426">There are so many important issues facing the country that are crying out for government action and we are stuck with a bill that is really just about easing the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> sense of shame at having botched his own cabinet debut.</ParaText>
             </Content>
@@ -2243,7 +2222,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
             <PersonSpeaking>
               <Affiliation DbId="214121" Type="2">Mr. Kyle Peterson (Newmarket—Aurora, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4557427">Mr. Speaker, I found it a little humourous when the member for <Affiliation DbId="214129" Type="2">Elmwood—Transcona</Affiliation> referred to the names of the new ministries as ministries formerly known as something else. I found it quite rich coming from the party formerly known as the official opposition. I found it even more rich when his friends next to him were laughing coming from the party formerly known as the government. I appreciated the sense of irony.</ParaText>
+              <ParaText id="4557427">Mr. Speaker, I found it a little humorous when the member for <Affiliation DbId="214129" Type="2">Elmwood—Transcona</Affiliation> referred to the names of the new ministries as ministries formerly known as something else. I found it quite rich coming from the party formerly known as the official opposition. I found it even more rich when his friends next to him were laughing coming from the party formerly known as the government. I appreciated the sense of irony.</ParaText>
               <ParaText id="4557428">Would the member explain to the House what he sees as unimportant and not to be a priority about La Francophonie, about small businesses, about science, about the status of women, and about persons with disabilities? Why does he think those ministries are not important to Canadians?</ParaText>
             </Content>
           </Intervention>
@@ -2312,7 +2291,7 @@ The House resumed from October 18 consideration of the motion that Bill <Documen
           <ParaText id="4557446"> 
 The House resumed consideration of the motion that Bill <Document DbId="8073132" Type="3">C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</Document>, be read the third time and passed.
 </ParaText>
-          <ProceduralText TocType="TPC" id="10">Bill C-4. Third reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="9">Bill C-4. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9167872">
             <PersonSpeaking>
               <Affiliation DbId="214948" Type="96">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
@@ -2633,7 +2612,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557450">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TPC" id="11">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">Motion agreed to</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2684,7 +2663,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
         <SubjectOfBusinessTitle>Criminal Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557457">The House resumed from October 6 consideration of the motion that Bill <Document DbId="8111356" Type="4">C-230, An Act to amend the Criminal Code (firearm — definition of variant)</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="12">Bill C-230. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="11">Bill C-230. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9167902">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -3002,7 +2981,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="13">Motion negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Motion negatived</ProceduralText>
               <ParaText id="4557460">I declare the motion defeated.</ParaText>
             </Content>
           </Intervention>
@@ -3013,7 +2992,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
         <SubjectOfBusinessTitle>National Strategy for Safe Disposal of Lamps Containing Mercury Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557461">The House resumed from October 7 consideration of the motion that Bill <Document DbId="8118993" Type="4">C-238, An Act respecting the development of a national strategy for the safe disposal of lamps containing mercury</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="14">Bill C-238. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="13">Bill C-238. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9167954">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -3331,9 +3310,9 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="15">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Motion agreed to</ProceduralText>
               <ParaText id="4557464">I declare the motion carried. Accordingly, this bill stands referred to the Standing Committee on Environment and Sustainable Development. </ParaText>
-              <ProceduralText TocType="TCC" id="16">(Bill read the second time and referred to a committee)</ProceduralText>
+              <ProceduralText TocType="TCC" id="15">(Bill read the second time and referred to a committee)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3343,7 +3322,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
         <SubjectOfBusinessTitle>Excise Tax Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557465">The House resumed from October 17   consideration of the motion that Bill <Document DbId="8111357" Type="4">C-241, An Act to amend the Excise Tax Act (school authorities)</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="17">Bill C-241. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="16">Bill C-241. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9167998">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -3666,7 +3645,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557468">I declare the motion defeated.</ParaText>
-              <ProceduralText TocType="TPC" id="18">Motion negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Motion negatived</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3675,10 +3654,10 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
         <Timestamp Hr="18" Mn="40">(1840)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Protection of Pregnant Women and Their Preborn Children Act (Cassie and Molly's Law)</SubjectOfBusinessTitle>
-        <ProceduralText id="19" />
+        <ProceduralText id="18" />
         <SubjectOfBusinessContent>
           <ParaText id="4557469">The House resumed from October 17 consideration of the motion that Bill <Document DbId="8102335" Type="4">C-225, An Act to amend the Criminal Code (injuring or causing the death of a preborn child while committing an offence)</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="20">Bill C-225. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="19">Bill C-225. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9168040">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -3999,7 +3978,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557472">I declare the motion lost.</ParaText>
-              <ProceduralText TocType="TPC" id="21">Motion negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Motion negatived</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4009,7 +3988,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
         <SubjectOfBusinessTitle>Candidate Gender Equity Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557473">The House resumed from October 18 consideration of the motion that Bill <Document DbId="8118999" Type="4">C-237, An Act to amend the Canada Elections Act (gender equity)</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="22">Bill C-237. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="21">Bill C-237. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9168150">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -4322,7 +4301,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557476">I declare the motion lost.</ParaText>
-              <ProceduralText TocType="TPC" id="23">Motion negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Motion negatived</ProceduralText>
               <ParaText id="4557477">
                 <B>The Speaker:</B> It being 6:55 p.m. the House will now proceed to the consideration of private members' business as listed on today's order paper.</ParaText>
             </Content>
@@ -4333,7 +4312,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
         <SubjectOfBusinessTitle>National Maternity Assistance Program Strategy Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557478">The House resumed from May 17 consideration of the motion that Bill <Document DbId="8122307" Type="4">C-243, An Act respecting the development of a national maternity assistance program strategy and amending the Employment Insurance Act (maternity benefits)</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="24">Bill C-243. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="23">Bill C-243. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. May (Cambridge)" id="9168144">
             <PersonSpeaking>
               <Affiliation DbId="214372" Type="2">Mr. Bryan May (Cambridge, Lib.)</Affiliation>: </PersonSpeaking>
@@ -4353,7 +4332,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <Timestamp Hr="19" Mn="00">(1900)</Timestamp>
               <ParaText id="4557491">Easing the rules on when someone can begin their maternity leave is a good start, but it obviously does not remove all of the barriers to women's equal participation in the labour force. That is why I am pleased to see that the bill also calls on the <Affiliation DbId="214313" Type="4">Minister of Employment</Affiliation> to consult with Canadians and provincial stakeholders on the prospect of developing a comprehensive national maternity assistance strategy.</ParaText>
               <ParaText id="4557492">The bill lays out some specifics for what these consultations would cover, including an assessment of the demand for such a program, existing programs, potential costs and benefits, and any legal, constitutional, or jurisdictional implications. </ParaText>
-              <ParaText id="4557493">If the bill passes second reading, which I hope it does, these are areas that the committee could look into. As chair of the HUMA committee, I would be interested in studying these areas, and hearing from my colleagues on the committee to see if there are other areas that we could add to this list.</ParaText>
+              <ParaText id="4557493">If the bill passes second reading, which I hope it does, these are areas that the committee could look into. As chair of the human resources committee, I would be interested in studying these areas, and hearing from my colleagues on the committee to see if there are other areas that we could add to this list.</ParaText>
               <ParaText id="4557494">The bill purposely leaves the parameters of the study broad. It calls on the government to study the issues of maternity assistance without prescribing what the outcome should be. </ParaText>
               <ParaText id="4557495">In summary, the issue identified by the member is a serious and important one. The idea of a national maternity assistance program deserves to be studied, and that is exactly what the bill calls on the government to do. I agree wholeheartedly with the objectives of both parts one and two, and urge my colleagues to support the bill, so that they may be studied further at committee.</ParaText>
               <ParaText id="4557496">When we think about gender equality in the workplace, we should not limit that decision to politicians, lawyers, and the business world. We need to recognize that many women want to be welders, construction workers, or engineers. Every career option should be open to all Canadians whether they are a woman or a man, and no one should have to choose between having a family and having a job.</ParaText>
@@ -4424,7 +4403,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
             <Content>
               <ParaText id="4557538">Madam Speaker, I would like to thank the member for <Affiliation DbId="213953" Type="2">Kingston and the Islands</Affiliation> for putting forward this very important bill, which I was proud to support and second. </ParaText>
               <ParaText id="4557539">This bill was inspired by Melodie Ballard's story. This is a story of a hard-working lady. Working as a welder, she suffered extreme financial hardship when she had to stop working due to potential health risks to her unborn child. She was unable to be accommodated by her workplace and access that maternity leave. The current EI benefit rules do not allow for her situation, so she was denied employment insurance maternity leave coverage because she did not meet the current eight weeks before the due date limit.</ParaText>
-              <ParaText id="4557540">This bill has been brought forward to provide the much needed flexibility that women need when working in hazardous places of employment. For example, some roles in the military, some trades, resource extraction jobs, and even roles that are not normally considered hazardous, such as pilots, flight attendants, and frequent flyers, do pose a risk to pregnant women. This is an issue that is becoming more prevalent as more women are taking on non-traditional roles in the workplace and need a precautionary leave of absence during pregnancy. The bill seeks to raise awareness of the issue and would allow workers to access maternity benefits earlier, up to 15 weeks before delivery, rather than the allowed eight weeks, .</ParaText>
+              <ParaText id="4557540">This bill has been brought forward to provide the much-needed flexibility that women need when working in hazardous places of employment. For example, some roles in the military, some trades, resource extraction jobs, and even roles that are not normally considered hazardous, such as pilots, flight attendants, and frequent flyers, do pose a risk to pregnant women. This is an issue that is becoming more prevalent as more women are taking on non-traditional roles in the workplace and need a precautionary leave of absence during pregnancy. The bill seeks to raise awareness of the issue and would allow workers to access maternity benefits earlier, up to 15 weeks before delivery, rather than the allowed eight weeks.</ParaText>
               <ParaText id="4557541">I am proud to support Bill <Document DbId="8122307" Type="4">C-243</Document>, which takes crucial steps toward advancing gender equality in the workplace of Canadians. Most importantly, Bill <Document DbId="8122307" Type="4">C-243</Document> would ensure that pregnancy is not a barrier to a woman's full and equal participation in our Canadian labour force. I believe that no woman should have to choose between the health of her baby and putting food on the table or a roof overhead. The system today leaves women who are advised to stop working due to potential health complications with long periods of no income. We have already heard about the very distressing situation that Melodie faced, which ultimately resulted in her losing her home and creating much personal stress. Our EI system failed Melodie just when she needed it most. </ParaText>
               <ParaText id="4557542">Canadians pay into the employment insurance system to ensure that they can get the help they need when they are temporarily out of work. Women like Melodie need to know the employment insurance system can be there for them when they need it. I believe when the EI system was set up to assist pregnant women in the workforce, it was not foreseen that women would be employed in roles that might put their health or their baby's health at risk during pregnancy. It is about time we took a new look at the needs of our workforce and the EI system and updated it to accommodate the realities of today.</ParaText>
               <ParaText id="4557543"> I can personally attest to the challenges encountered while applying for EI maternity benefits 20 years ago. I am pleased to see that today's EI benefits are much better than before, with more flexibility not only for mothers, as it was in my day, but fathers too. I believe it is now time to review the EI program again to make sure that it is keeping up with the realities of the workforce today. We need to ensure that our EI policies are not seen as a barrier to a woman's full and equal participation in all sectors of the workforce, including potentially hazardous jobs.</ParaText>
@@ -4433,7 +4412,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <ParaText id="4557546">The second part of the bill is addressing the need for a comprehensive strategy to ensure that pregnancy is not a barrier to working women. It requires the Minister of Employment, in collaboration with other federal ministers, representatives of the provincial and territorial governments, and other relevant stakeholders, to conduct consultations on the prospect of developing a national maternity assistance program to support women who are unable to work due to pregnancy.</ParaText>
               <Timestamp Hr="19" Mn="25">(1925)</Timestamp>
               <ParaText id="4557547">There are many examples of how this issue has been addressed here in Canada and around the world. Many advanced industrialized countries have recognized the importance of maternal care and have taken action to ensure that women in all professions receive adequate support throughout pregnancy and child care.</ParaText>
-              <ParaText id="4557548">Since 1981, the Province of Quebec has offered the option of preventive withdrawal as part of its safe maternity assistance program. Under this program, an employer may opt to eliminate the hazard represented by the employee's work or assign her to other tasks. If neither of these alternatives are doable, the employee is entitled to benefit from a preventive withdrawal and to receive compensation in the amount of 90% of her average pay.</ParaText>
+              <ParaText id="4557548">Since 1981, the Province of Quebec has offered the option of preventive withdrawal as part of its safe maternity assistance program. Under this program, an employer may opt to eliminate the hazard represented by the employee's work or assign her to other tasks. If neither of these alternatives is doable, the employee is entitled to benefit from a preventive withdrawal and to receive compensation in the amount of 90% of her average pay.</ParaText>
               <ParaText id="4557549">In Finland, for example, there is a class of special maternity benefits that are provided when conditions may cause a particular risk to a woman's pregnancy and the hazard cannot be eliminated by the employer. In Australia, if there is no appropriate safe job available, an employee is entitled to take paid no-safe-job leave for the risk period. There are similar programs that protect expecting mothers in France, Hungary, Denmark, and elsewhere.</ParaText>
               <ParaText id="4557550"> Therefore, it is appropriate for Canada to undertake a review and bring forward a policy that is more supportive of pregnant women who are working in environments that may pose a risk to a pregnant woman and/or her unborn child.</ParaText>
               <ParaText id="4557551">While the private and not-for-profit sector is doing incredible work encouraging more women to enter trades, government must do its part to support those who enter the workforce in these traditionally male-dominated occupations. Data shows that while overall labour force participation among women has increased, from 37% in 1976 to 47% in 2014, women remain drastically under-represented within many traditional male occupations. For example, in 2012, women represented only 4% of those working in construction. </ParaText>
@@ -4489,7 +4468,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               <ParaText id="4557584">Bill <Document DbId="8122307" Type="4">C-243</Document> would actually bring forward several other issues, such as health and safety, gender equality in the workforce, and the notion that a woman's pregnancy could act as a barrier to full participation in the workplace or as an impediment to career development.</ParaText>
               <ParaText id="4557585">These are some of the very issues we intend to discuss with members of this House, provincial and territorial governments, and other stakeholders with the primary intention of developing more flexible EI parental benefits to meet the unique needs of Canadian families.</ParaText>
               <ParaText id="4557586">At the same time, this is also a government that wants to act as fast as possible to bring real change to Canadians, and a great deal of that work has already begun.</ParaText>
-              <ParaText id="4557587">Over the course of the government's mandate, we will continue to make EI better. We will make compassionate care benefits more inclusive and easier to access. The government will also work to remove the barriers to achieving full gender equality in the workforce. We have made progress in this regard, but it is well-recognized that we have to do more.</ParaText>
+              <ParaText id="4557587">Over the course of the government's mandate, we will continue to make EI better. We will make compassionate care benefits more inclusive and easier to access. The government will also work to remove the barriers to achieving full gender equality in the workforce. We have made progress in this regard, but it is well recognized that we have to do more.</ParaText>
               <ParaText id="4557588">We will also amend the Canada Labour Code to allow employees in the federally regulated private sector to formally request flexible working arrangements.</ParaText>
               <ParaText id="4557589">However, while the government supports the general direction of the bill, it will not be supporting Bill <Document DbId="8122307" Type="4">C-243</Document> in its current form.</ParaText>
               <ParaText id="4557590">I would now like to tell members about those changes that are required in this legislation. I will not go through the whole list, but I will mention the main impediments.</ParaText>
@@ -4564,7 +4543,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
               </ParaText>
               <ParaText id="4557627">
                 <B>The Assistant Deputy Speaker (Mrs. Carol Hughes):</B> Pursuant to Standing Order 93, the recorded division stands deferred until Wednesday, October 26, 2016, immediately before the time provided for private members' business.</ParaText>
-              <ProceduralText TocType="TPC" id="25">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="24">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4642,7 +4621,7 @@ The House resumed consideration of the motion that Bill <Document DbId="8073132"
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4557651">The motion that the House do now adjourn is deemed to have been adopted. Accordingly the House stands adjourned until tomorrow at <?bk?>10 a.m.<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4557651">The motion that the House do now adjourn is deemed to have been adopted. Accordingly the House stands adjourned until tomorrow at <?bk ?>10 a.m.<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4557652"> (The House adjourned at 8:07 p.m.) </ParaText>
             </Content>
           </Intervention>

@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="8915507">
-  <StartPageNumber>1</StartPageNumber>
+  <StartPageNumber>3187</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -56,16 +38,24 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <Intro>
       <ParaText id="4332678">La séance est ouverte à 14 heures.</ParaText>
       <Prayer>Prière</Prayer>
-      <Timestamp Hr="14" Mn="05">(1405)</Timestamp>
-      <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-      <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="8915510">
-        <PersonSpeaking>
-          <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-        <Content>
-          <ParaText id="4332679">Puisque nous sommes mercredi, nous allons maintenant chanter l'hymne national, qui sera entonné par le député de Hull—Aylmer.</ParaText>
-        </Content>
-      </Intervention>
     </Intro>
+    <OrderOfBusiness id="8766068" Rubric="Address">
+      <CatchLine>Déclarations de députés</CatchLine>
+      <SubjectOfBusiness>
+        <Timestamp Hr="14" Mn="05">(1405)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="8915510">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4332679">Puisque nous sommes mercredi, nous allons maintenant chanter l'hymne national, qui sera entonné par le député de Hull—Aylmer.</ParaText>
+              <ParaText id="5832096">[<I>Les députés chantent l'hymne national.</I>]</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
     <OrderOfBusiness id="8915515" Rubric="StatementsByMembers">
       <OrderOfBusinessTitle>DÉCLARATIONS DE DÉPUTÉS</OrderOfBusinessTitle>
       <CatchLine>Déclarations de députés</CatchLine>
@@ -78,7 +68,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214027" Type="2">M. Anthony Housefather (Mont-Royal, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332680">Monsieur le Président, nous allons accueillir aujourd'hui plus de 125 résidants de ma circonscription. De toute évidence, ils ne sont pas encore arrivés.</ParaText>
-              <ParaText id="4332681">Le Club de l’âge d’or masculin de Côte Saint-Luc, qui compte plus de 520 membres, est la plus grande organisation d’aînés de sexe masculin du Québec. Il joue un rôle énorme dans la vie de notre collectivité. Que ce soit au moyen des petits déjeuners-rencontres, du groupe de discussion de l'actualité, des jours de golf ou des ligues de quilles, le Club permet à ses membres de rester jeunes et dynamiques. Les membres sont toujours prêts à s'entraider, et le Club constitue un réseau social incomparable.</ParaText>
+              <ParaText id="4332681">Le Club de l’âge d’or masculin de Côte Saint-Luc, qui compte plus de 520 membres, est la plus grande organisation d’aînés de sexe masculin du Québec. Il joue un rôle énorme dans la vie de notre collectivité. Que ce soit au moyen des petits-déjeuners-rencontres, du groupe de discussion de l'actualité, des jours de golf ou des ligues de quilles, le Club permet à ses membres de rester jeunes et dynamiques. Les membres sont toujours prêts à s'entraider, et le Club constitue un réseau social incomparable.</ParaText>
               <ParaText id="4332682">Le Club a vu le jour lorsque d'anciens combattants de la Seconde Guerre mondiale se sont mis à chercher d'autres façons de redonner à la collectivité. Aujourd'hui, les membres poursuivent cette tradition en participant aux activités d'organisations comme Citoyens en patrouille et en contribuant à la campagne du coquelicot de la Légion locale.</ParaText>
               <ParaText id="4332683">J'aurais aimé pouvoir souhaiter la bienvenue à Ottawa au président actuel, Syd Kronish, aux anciens présidents, Sid Margles et Peter Sternberg, et à tous les fiers Canadiens et résidants de Côte Saint-Luc qui font partie de ce groupe.</ParaText>
               <ParaText id="4332684">J'ai eu l'honneur de travailler en étroite collaboration avec le Club pendant des années en tant que maire et je continuerai de le faire comme député. Je souhaite au Club de continuer de connaître du succès.</ParaText>
@@ -109,7 +99,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332689"> Monsieur le Président, il y a 15 ans aujourd'hui, étant donné qu'Arthur Dent s'était bâti une nouvelle vie, Ford Prefect est retourné à un endroit globalement inoffensif pour Douglas Adams. Quant à Marvin, l'androïde paranoïde, il a bien entendu été laissé de côté.</ParaText>
-              <ParaText id="4332690"> Tous ceux qui ont lu <I>Le guide du voyageur galactique</I> savent que la planète Terre est plus qu'un ordinateur, construit sur les instructions des souris, pour trouver le réponse à la grande question sur la vie, l'univers et le reste.</ParaText>
+              <ParaText id="4332690"> Tous ceux qui ont lu <I>Le guide du voyageur galactique</I> savent que la planète Terre est plus qu'un ordinateur, construit sur les instructions des souris, pour trouver la réponse à la grande question sur la vie, l'univers et le reste.</ParaText>
               <ParaText id="4332691"> Puisque je dois terminer ma déclaration, qui a été comprise par bon nombre d'entre nous grâce au poisson Babel de cette institution, avant qu'elle soit détruite pour faire place à une voie express hyperpartisane, je tiens à dire que c'est un grand honneur de savoir que tous les députés, qui sont rassemblés ici aujourd'hui grâce au générateur d'improbabilité infinie, verront leur nom être inscrit sur une plaque pour toujours.</ParaText>
               <ParaText id="4332692"> Cette plaque sera installée dans l'édifice du Centre et elle portera le numéro 42, celui de notre législature, même si nous n'avons pas encore trouvé la réponse à la grande question sur la vie, l'univers et le reste.</ParaText>
             </Content>
@@ -161,7 +151,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214472" Type="2">M. Bernard Généreux (Montmagny—L'Islet—Kamouraska—Rivière-du-Loup, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332702">Monsieur le Président, avez-vous remarqué ma nouvelle coupe de cheveux? Comme vous pouvez le constater, je n'ai plus un poil sur le crâne.</ParaText>
-              <ParaText id="4332703">En effet, aujourd'hui, j'ai participé au Défi têtes rasées Leucan 2016. Je l'ai fait volontairement, mais l'ensemble des enfants canadiens qui subissent le cancer n'ont pas ce choix. Ils n'ont pas demandé à perdre leurs cheveux parce qu'ils subissent un traitement contre le cancer.</ParaText>
+              <ParaText id="4332703">En effet, aujourd'hui, j'ai participé au Défi têtes rasées Leucan 2016. Je l'ai fait volontairement, mais l'ensemble des enfants canadiens qui souffrent du cancer n'ont pas ce choix. Ils n'ont pas demandé à perdre leurs cheveux parce qu'ils subissent un traitement contre le cancer.</ParaText>
               <ParaText id="4332704">Je remercie ma chef, mes collègues, ainsi que tous les députés de la Chambre qui, moyennant un coup de rasoir ou un coup de pouce, me permettront d'atteindre l'objectif que je me suis fixé. J'invite mes amis députés, ainsi que toutes les personnes de la Chambre et vous-même, monsieur le Président, à venir me rejoindre après la période des questions, dans le foyer de la Chambre, pour appuyer ma démarche en faisant un don, aussi minime soit-il.</ParaText>
               <ParaText id="4332705">Demain, chez moi à La Pocatière, plusieurs citoyens poseront le même geste en soutien aux familles qui vivent le cancer pédiatrique. Les enfants sont notre plus cher joyau. C'est en tant que père, grand-père et parlementaire que je me suis impliqué cette année, et je remercie toute la communauté de m'appuyer.</ParaText>
             </Content>
@@ -300,7 +290,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4332745">Compte tenu du vieillissement de la population du pays, les infirmières jouent un rôle de plus en plus essentiel pour assurer le bien-être des Canadiens.</ParaText>
               <ParaText id="4332746">Nous devrions nous en souvenir au cours de la Semaine nationale des soins infirmiers, qui inclut la Journée internationale de l'infirmière et l'anniversaire de naissance de Florence Nightingale, le 12 mai.</ParaText>
               <ParaText id="4332747">Au Canada, le formidable personnel infirmier comprend beaucoup d'hommes, mais ce n'est un secret pour personne que l'on trouve une forte majorité de femmes dans cette profession. Les infirmières et les infirmiers nous aident à traverser des périodes très difficiles, où nous sommes vulnérables. Ils jouent beaucoup de rôles: tantôt fournisseurs de soins, tantôt confidents, tantôt conseillers.</ParaText>
-              <ParaText id="4332748">Cette année, le slogan de la Semaine nationale des soins infirmiers est « Le personnel infirmier: toujours à vos côtés! ». Dès qu'une personne doit faire appel au système de santé, elle se rend compte à quel point ces paroles sont vraies.</ParaText>
+              <ParaText id="4332748">Cette année, le slogan de la Semaine nationale des soins infirmiers est: « Le personnel infirmier: toujours à vos côtés! » Dès qu'une personne doit faire appel au système de santé, elle se rend compte à quel point ces paroles sont vraies.</ParaText>
               <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4332749">Merci à tous les gardes-malades.</ParaText>
@@ -392,7 +382,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332762">Monsieur le Président, je trouve cela délirant d'entendre pareils propos venant du parti qui a présenté, sans aucune consultation préalable, le projet de loi sur le manque d'intégrité des élections afin d'instaurer une réforme à son avantage.</ParaText>
-              <ParaText id="4332763">Les Canadiens ont clairement entendu notre promesse de faire en sorte que les plus récentes élections aient été les dernières à être tenues selon le système uninominal majoritaire à un tour. Nous sommes résolus à honorer cet engagement. Les Canadiens ont choisi de nous accorder la majorité et s'attendent à ce que nous tenions nos promesses. </ParaText>
+              <ParaText id="4332763">Les Canadiens ont clairement entendu notre promesse de faire en sorte que la plus récente élection ait été la dernière à être tenue selon le système uninominal majoritaire à un tour. Nous sommes résolus à honorer cet engagement. Les Canadiens ont choisi de nous accorder la majorité et s'attendent à ce que nous tenions nos promesses. </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
@@ -478,7 +468,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332784">Je rappelle les députés à l'ordre. La Chambre est un endroit partisan, nous le savons. Il est normal qu'il y règne un certain antagonisme. Il faut s'attendre à ce que les deux côtés présentent des arguments puissants, mais il faut pouvoir les entendre.</ParaText>
-              <ParaText id="4332785">Le <Affiliation DbId="214296" Type="1">très hononorable premier ministre</Affiliation> a la parole.</ParaText>
+              <ParaText id="4332785">Le <Affiliation DbId="214296" Type="1">très honorable premier ministre</Affiliation> a la parole.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
@@ -487,7 +477,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332786">Monsieur le Président, les Canadiens ont voté massivement pour le changement à la dernière élection. Nous avons proposé un changement concret qui ferait en sorte que ce soit la dernière élection à se faire selon le système uninominal à un tour.</ParaText>
-              <ParaText id="4332787">Le comité que nous avons formé est en fait le premier à réunir des membres de tous les partis. Nous ferons un travail sérieux et nous concentrerons nos efforts afin d'offrir une meilleure solution aux Canadiens. Nous faisons confiance aux Canadiens et en leur capacité d'élire le gouvernement de leur choix. Si vous choisissez...</ParaText>
+              <ParaText id="4332787">Le comité que nous avons formé est en fait le premier à réunir des membres de tous les partis. Nous ferons un travail sérieux et nous concentrerons nos efforts afin d'offrir une meilleure solution aux Canadiens. Nous faisons confiance aux Canadiens et à leur capacité d'élire le gouvernement de leur choix. S'ils choisissent?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8915617">
@@ -511,7 +501,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4332792">Monsieur le Président, nous avons été très clairs durant la campagne électorale: nous allions remplacer le système de scrutin uninominal majoritaire à un tour. </ParaText>
+              <ParaText id="4332792">Monsieur le Président, nous avons été très clairs durant la campagne électorale: nous allons remplacer le système de scrutin uninominal majoritaire à un tour. </ParaText>
               <ParaText id="4332793">Nous avons été clairs: c'était la dernière élection avec ce genre de scrutin, et nous allons le modifier. Les Canadiens nous ont donné une majorité. Nous allons l'utiliser pour rendre plus difficile l'élection d'un gouvernement qui ne représente pas la vue et la perspective de tous les Canadiens. C'est ce que les Canadiens attendent de nous et c'est ce que je vais faire. </ParaText>
             </Content>
           </Intervention>
@@ -545,7 +535,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213985" Type="2">L'hon. Thomas Mulcair (Outremont, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332801">Monsieur le Président, nous parlons des permis d'exportation que les libéraux ont signés après la campagne électorale.</ParaText>
-              <ParaText id="4332802">À la suite des rapports sur les droits de la personne publiés par les Nations Unies en janvier et de la vidéo diffusée aujourd'hui, le gouvernement n'est nullement justifié de continuer de vendre des armes à l'Arabie saoudite afin qu'elle puisse s'en servir pour écraser des civils.</ParaText>
+              <ParaText id="4332802">À la suite des rapports sur les droits de la personne publiés par les Nations unies en janvier et de la vidéo diffusée aujourd'hui, le gouvernement n'est nullement justifié de continuer de vendre des armes à l'Arabie saoudite afin qu'elle puisse s'en servir pour écraser des civils.</ParaText>
               <ParaText id="4332803">Nous tenons à savoir si c'est vraiment la première fois que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> voit un document qui prouve que l'Arabie saoudite porte atteinte aux droits de la personne au moyen de véhicules blindés. Nous avons du mal à croire que personne au gouvernement n'était au courant de cette pratique avant que le <I>Globe and Mail</I> en fasse état.</ParaText>
             </Content>
           </Intervention>
@@ -661,7 +651,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4332829">Monsieur le Président, que la ministre le veuille ou non, c'est vraiment une mauvaise journée pour la démocratie aujourd'hui.</ParaText>
               <ParaText id="4332830">Nous n'en sommes qu'au premier jour de cette discussion sur la démarche libérale en matière de réforme démocratique, et il est déjà clair que les libéraux n'ont aucun intérêt à vraiment entendre la population canadienne. Je leur offre la chance de nous prouver le contraire.</ParaText>
-              <ParaText id="4332831">Comme les libéraux veulent changer les règles de la démocratie, peuvent-ils s'engager aujourd'hui, à la Chambre, à faire la bonne chose et consulter tous les Canadiens et Canadiennes par voie de référendum?</ParaText>
+              <ParaText id="4332831">Comme les libéraux veulent changer les règles de la démocratie, peuvent-ils s'engager aujourd'hui, à la Chambre, à faire la bonne chose et à consulter tous les Canadiens et Canadiennes par voie de référendum?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -679,9 +669,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214086" Type="2">M. Alain Rayes (Richmond—Arthabaska, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332834">Monsieur le Président, lorsqu'on veut enlever la permission à toute la population de s'exprimer, ce n'est pas ce que j'appelle quelque chose d'englobant.</ParaText>
-              <ParaText id="4332835">Je peux assurer la Chambre que de ce côté-ci, nous allons continuer à défendre l'idée du référendum, car nous jugeons que c'est fondamental. Toutefois, ce n'est pas la seule crainte que les Canadiens devraient avoir. </ParaText>
+              <ParaText id="4332835">Je peux assurer la Chambre que, de ce côté-ci, nous allons continuer à défendre l'idée du référendum, car nous jugeons que c'est fondamental. Toutefois, ce n'est pas la seule crainte que les Canadiens devraient avoir. </ParaText>
               <ParaText id="4332836">En effet, ce processus a été mis sur pied sans consulter les partis de l'opposition. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> s'est même excusé devant la Chambre d'avoir prétendu le contraire. </ParaText>
-              <ParaText id="4332837">La ministre croit-elle que 10 élus sont mieux placés que la population canadienne pour changer les fondements même de notre démocratie?</ParaText>
+              <ParaText id="4332837">La ministre croit-elle que 10 élus sont mieux placés que la population canadienne pour changer les fondements mêmes de notre démocratie?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -704,7 +694,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214476" Type="2">M. Romeo Saganash (Abitibi—Baie-James—Nunavik—Eeyou, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332840">Monsieur le Président, les libéraux disent avoir la réconciliation avec les peuples autochtones au coeur de leurs priorités. </ParaText>
-              <ParaText id="4332841">Pourtant, aujourd'hui, le ministère de la Justice est devant les tribunaux pour se battre contre un survivant du St. Anne's Indian Residential School, dont l'histoire est tout simplement révoltante. Le gouvernement fédéral aurait délibérément caché des documents qui démontrent les abus qu'il a subis. Faute de preuve, il s'est vu refusé toute compensation.</ParaText>
+              <ParaText id="4332841">Pourtant, aujourd'hui, le ministère de la Justice est devant les tribunaux pour se battre contre un survivant du St. Anne's Indian Residential School, dont l'histoire est tout simplement révoltante. Le gouvernement fédéral aurait délibérément caché des documents qui démontrent les abus qu'il a subis. Faute de preuve, il s'est vu refuser toute compensation.</ParaText>
               <ParaText id="4332842">Comment la ministre peut-elle justifier son opposition à ce que ce survivant ait droit à une nouvelle audience?</ParaText>
             </Content>
           </Intervention>
@@ -901,8 +891,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214424" Type="2">M. Chris Warkentin (Grande Prairie—Mackenzie, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4332891">Monsieur le Président, ce sont les mêmes réponses qu'il m'a données le 25 janvier dernier. Or, la commissaire à l'éthique nous a appris récemment que dans sa nouvelle décision, elle exige que la chef de cabinet du ministre n'intervienne pas dans les questions liées au Partenariat transpacifique, à l'industrie ovocole et au système de gestion de l'offre.</ParaText>
-              <ParaText id="4332892">Compte tenu de la décision claire de la commissaire, je demande au ministre s'il peut garantir que, depuis le premier jour à ce poste, sa chef de cabinet n'a eu absolument rien à voir avec ces dossiers cruciaux?</ParaText>
+              <ParaText id="4332891">Monsieur le Président, ce sont les mêmes réponses qu'il m'a données le 25 janvier dernier. Or, la commissaire à l'éthique nous a appris récemment que, dans sa nouvelle décision, elle exige que la chef de cabinet du ministre n'intervienne pas dans les questions liées au Partenariat transpacifique, à l'industrie ovocole et au système de gestion de l'offre.</ParaText>
+              <ParaText id="4332892">Compte tenu de la décision claire de la commissaire, je demande au ministre s'il peut garantir que, depuis le premier jour à ce poste, sa chef de cabinet n'a eu absolument rien à voir avec ces dossiers cruciaux.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="55">(1455)</Timestamp>
@@ -1140,7 +1130,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8915784">
-        <SubjectOfBusinessTitle>Les sports</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les jeux invictus</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Anandasangaree" id="8915783">
             <PersonSpeaking>
@@ -1180,7 +1170,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214688" Type="18">L'hon. John McKay (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4332956">Comme le sait le député, monsieur le Président, le ministre a lancé un examen complet de la politique de défense auquel tous les députés sont invités à participer.</ParaText>
-              <ParaText id="4332957">Il va sans dire que la réouverture du Collège de Saint-Jean revêt une grande importance pour le ministre et mon collègue, qui la préconise infatigablement. J'espère que tous les députés participent à l'examen, dans le cadre duquel une attention particulière sera portée à la question.</ParaText>
+              <ParaText id="4332957">Il va sans dire que la réouverture du Collège de Saint-Jean revêt une grande importance pour le ministre et mon collègue de Saint-Jean, qui la préconise infatigablement. J'espère que tous les députés participent à l'examen, dans le cadre duquel une attention particulière sera portée à la question.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1722,7 +1712,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214341" Type="4">L'hon. Scott Brison</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4333001">Monsieur le Président, j'ai beaucoup de respect pour le député. Je le connais depuis longtemps. Cependant, il doit reconnaître que l'urgence de la situation découle du fait que son gouvernement n'a pas agi avec célérité en réponse à la décision de la Cour suprême. à notre arrivée au pouvoir, nous avons hérité d'une situation qui devait être réglée. Nous avons demandé une prolongation, et on nous a accordé quatre mois. Il nous a ensuite fallu agir. Nous avons saisi le Parlement de la question. Nous avons eu recours à l'étude en comité. En fait, nous avons accepté un changement législatif de la part du comité parce que nous respectons le rôle que jouent tous les députés lorsqu'ils siègent à des comités et qu'ils participent au processus législatif. Cette façon de faire tranche nettement avec l'approche du gouvernement précédent pour ce qui est de la gestion des comités et de l'adoption de projets de loi. Cependant, cela ne nous dispense pas d'agir avec célérité, puisqu'il régnera au sein de notre service de police national et ses relations de travail un profond climat d'incertitude après le 16 mai. Nous avons l'obligation d'agir, et le gouvernement prend la chose au sérieux.</ParaText>
+              <ParaText id="4333001">Monsieur le Président, j'ai beaucoup de respect pour le député. Je le connais depuis longtemps. Cependant, il doit reconnaître que l'urgence de la situation découle du fait que son gouvernement n'a pas agi avec célérité en réponse à la décision de la Cour suprême. À notre arrivée au pouvoir, nous avons hérité d'une situation qui devait être réglée. Nous avons demandé une prolongation, et on nous a accordé quatre mois. Il nous a ensuite fallu agir. Nous avons saisi le Parlement de la question. Nous avons eu recours à l'étude en comité. En fait, nous avons accepté un changement législatif de la part du comité parce que nous respectons le rôle que jouent tous les députés lorsqu'ils siègent à des comités et qu'ils participent au processus législatif. Cette façon de faire tranche nettement avec l'approche du gouvernement précédent pour ce qui est de la gestion des comités et de l'adoption de projets de loi. Cependant, cela ne nous dispense pas d'agir avec célérité, puisqu'il régnera au sein de notre service de police national et ses relations de travail un profond climat d'incertitude après le 16 mai. Nous avons l'obligation d'agir, et le gouvernement prend la chose au sérieux.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Murray" id="8915907">
@@ -2470,7 +2460,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
               <Affiliation DbId="214542" Type="2">M. Pat Kelly (Calgary Rocky Ridge, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4333144">Madame la Présidente, j'aimerais répondre aux points soulevés le 18 avril par le leader parlementaire du NPD au sujet de la motion M-<Document DbId="8124450" Type="57">43</Document>.</ParaText>
-              <ParaText id="4333145">Le leader parlementaire du NPD a fait allusion au paragraphe <?bk?>68(4)<?ek?> du Règlement et à la page 722 de l'O'Brien et Bosc pour faire valoir son point de vue selon lequel seuls les ministres peuvent charger un comité d'élaborer et de présenter un projet de loi.</ParaText>
+              <ParaText id="4333145">Le leader parlementaire du NPD a fait allusion au paragraphe <?bk ?>68(4)<?ek ?> du Règlement et à la page 722 de l'O'Brien et Bosc pour faire valoir son point de vue selon lequel seuls les ministres peuvent charger un comité d'élaborer et de présenter un projet de loi.</ParaText>
               <ParaText id="4333146">Le paragraphe 68(4) du Règlement établit la procédure qui permet à un ministre d'étudier, dans le cadre des initiatives ministérielles, une motion tendant à charger un comité d'élaborer et de présenter un projet de loi.</ParaText>
               <ParaText id="4333147">Le leader parlementaire du NPD a soutenu que, comme il existe un mécanisme qui permet aux ministres d'agir ainsi, un simple député ne peut pas faire de même. Je conviens avec le leader parlementaire du NPD qu'un simple député ne peut pas présenter une motion d'instruction dans le cadre des initiatives ministérielles. C'est un fait. Toutefois, il est faux de prétendre qu'un simple député ne peut sous aucune condition donner une instruction à un comité d'élaborer et de présenter un projet de loi.</ParaText>
               <ParaText id="4333148">Il a cité l'extrait suivant, qui figure à la page 722 de O'Brien et Bosc:</ParaText>
@@ -2518,7 +2508,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4333160">Madame la Présidente, c'est avec plaisir que je prends la parole au sujet d'une mesure législative de première importance. Comme nous le disons pratiquement depuis le début, il faut avoir conscience que la mesure législative dont nous sommes saisis aujourd'hui découle directement d'une décision de la Cour suprême du Canada qui doit être respectée.</ParaText>
-              <ParaText id="4333161">Le côté positif de cette mesure législative, c'est qu'elle reconnaîtrait le bon travail des membres de la GRC depuis la création de l'organisme, il y a de nombreuses années. Je soupçonne que, si nous sondions la Chambre, il y aurait unanimité sur la façon dont la GRC founit depuis toujours ses services.</ParaText>
+              <ParaText id="4333161">Le côté positif de cette mesure législative, c'est qu'elle reconnaîtrait le bon travail des membres de la GRC depuis la création de l'organisme, il y a de nombreuses années. Je soupçonne que, si nous sondions la Chambre, il y aurait unanimité sur la façon dont la GRC fournit depuis toujours ses services.</ParaText>
               <ParaText id="4333162">Cette mesure législative, au fond, permettrait la mise en place d'un processus de négociation, ce qu'un grand nombre d'organismes policiers du pays ont déjà. Nombreuses sont les personnes qui pensent qu'il devrait y en avoir un depuis longtemps.</ParaText>
               <ParaText id="4333163">Nous reconnaissons la contribution inestimable de la Cour suprême, qui a fait avancer ce dossier. Je crois que le mérite revient au gouvernement actuel, surtout au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, d'avoir reconnu la nécessité de se conformer à la décision de la Cour suprême en présentant la mesure législative dont nous sommes aujourd'hui saisis.</ParaText>
               <ParaText id="4333164">Il faut aussi souligner non seulement que le projet de loi a été reconnu comme important à l'étape de la deuxième lecture, mais également que des amendements, dont beaucoup ont été proposés à l'instigation et avec l'appui de l'opposition, ont été adoptés à l'étape de l'étude en comité.</ParaText>
@@ -2579,7 +2569,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
             <Content>
               <ParaText id="4333181">Monsieur le Président, le député de <Affiliation DbId="214060" Type="2">Beloeil—Chambly</Affiliation> est bien plus intelligent que moi. Alors, je suis certain qu'il savait exactement ce sur quoi il votait. Cela dit, il y a tout de même eu des interprétations différentes au fil des années.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4333182">Comme nous sommes souvent appelés à voter à cause des motions de clôture du gouvernement, il me semble important que voua précisiez à quel moment le vote d'un député ne compte plus. Où est la limite?</ParaText>
+              <ParaText id="4333182">Comme nous sommes souvent appelés à voter à cause des motions de clôture du gouvernement, il me semble important que vous précisiez à quel moment le vote d'un député ne compte plus. Où est la limite?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="8916413">
@@ -3353,7 +3343,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
             <Content>
               <ProceduralText TocType="TPC" id="10">Projet de loi C-227. Deuxième lecture</ProceduralText>
               <ParaText id="4333206"> propose que le projet de loi <Document DbId="8102366" Type="4">C-227, Loi modifiant la Loi sur le ministère des Travaux publics et des Services gouvernementaux (retombées locales)</Document>, soit lu pour la deuxième fois et renvoyé à un comité. </ParaText>
-              <ParaText id="4333207">--Monsieur le Président, c'est un honneur d'intervenir à la Chambre aujourd'hui pour parler à la population de mon projet de loi d'initiative parlementaire, le projet de loi <Document DbId="8102366" Type="4">C-227</Document>, Loi modifiant la Loi sur le ministère des Travaux publics et des Services gouvernementaux, retombées locales.</ParaText>
+              <ParaText id="4333207">— Monsieur le Président, c'est un honneur d'intervenir à la Chambre aujourd'hui pour parler à la population de mon projet de loi d'initiative parlementaire, le projet de loi <Document DbId="8102366" Type="4">C-227</Document>, Loi modifiant la Loi sur le ministère des Travaux publics et des Services gouvernementaux, retombées locales.</ParaText>
               <ParaText id="4333208">Avant de commencer, j'aimerais remercier les habitants de York-Sud—Weston de m'avoir accordé leur confiance et de m'avoir donné l'occasion de présenter ce projet de loi à la Chambre des communes. </ParaText>
               <ParaText id="4333209">Depuis que mon nom est sorti parmi les premiers à la loterie des députés, j'ai mené de vastes consultations et j'ai discuté longuement avec divers intervenants. J'avais l'impression d'être investi d'une responsabilité particulière pour ce qui est de présenter un projet de loi qui profiterait énormément à tous les Canadiens.</ParaText>
               <ParaText id="4333210">Le projet de loi <Document DbId="8102366" Type="4">C-227</Document> modifierait l'article 20 de la Loi sur le ministère des Travaux publics et des Services gouvernementaux afin d'inclure une disposition qui conférerait au <Affiliation DbId="214324" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation> le pouvoir d'exiger que les personnes soumissionnant les contrats fédéraux de construction, d'entretien et de réparation fournissent des renseignements sur les retombées locales que généreront les travaux. </ParaText>
@@ -3450,7 +3440,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4333253">Bien sûr, notre formation politique, le Parti conservateur, appuie la transparence au sein du gouvernement et lors de l'attribution de contrats fédéraux. Nous croyons qu'il est essentiel d'assurer l'intérêt local. On sait que, d'une façon implicite, lorsque des contrats sont donnés dans une région, il y a automatiquement des retombées pour stimuler l'économie. Il est important également de soutenir les travailleuses et les travailleurs locaux. Nous croyons à un processus d'attribution de marchés neutre, rationnel et qui est avantageux pour les contribuables.</ParaText>
               <ParaText id="4333254">C'est ma crainte à propos du projet de loi <Document DbId="8102366" Type="4">C-227</Document>, qui est déposé. C'est en quelque sorte un couteau à deux tranchants, puisqu'il viendrait accorder un pouvoir discrétionnaire au ministre dans le processus d'attribution des marchés. Quand on pense aux dizaines de milliers de contrats qui sont accordés chaque année par Services publics et Approvisionnement Canada, cela viendra créer une lourdeur administrative qui ne m'apparaît pas nécessaire du tout.</ParaText>
-              <ParaText id="4333255">On peut lire à l'alinéa 7(1)<I>a</I>) de la Loi sur le ministère des travaux publics et des Services gouvernementaux, qui explique le cadre et les différentes fonctions que confère la loi au ministre, que le ministère doit « accroître l'efficacité de l'administration publique fédérale et favoriser l'intégrité et l'efficience du processus d'impartition des marchés ».</ParaText>
+              <ParaText id="4333255">On peut lire à l'alinéa 7(1)<I>a</I>) de la Loi sur le ministère des Travaux publics et des Services gouvernementaux, qui explique le cadre et les différentes fonctions que confère la loi au ministre, que le ministère doit « accroître l'efficacité de l'administration publique fédérale et favoriser l'intégrité et l'efficience du processus d'impartition des marchés ».</ParaText>
               <ParaText id="4333256">Donc, selon ce qui est proposé — on l'a vu et je l'ai mentionné —, on veut que le ministre soit en mesure de demander des rapports additionnels aux soumissionnaires et qu'il soit capable de produire un rapport à la Chambre. Il est donc question de beaucoup de tâches administratives différentes. C'est une tâche pour le soumissionnaire, mais ce sont aussi des tâches additionnelles qu'on impose à nos fonctionnaires et qui ne sont pas nécessaires.</ParaText>
               <Timestamp Hr="18" Mn="55">(1855)</Timestamp>
               <ParaText id="4333257">Alors, dans l'intérêt des petites et des moyennes entreprises, cela ne nous paraît pas nécessaire. J'invite mon collègue à considérer des initiatives qui existent pour réduire la paperasse. Je pense notamment au gouvernement du Nouveau-Brunswick et à d'autres exemples au Québec.</ParaText>
@@ -3527,7 +3517,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
               <ParaText id="4333303">L'an dernier, la province de l'Ontario est devenue la première à intégrer les retombées locales dans les projets d'infrastructure provinciaux, dans le cadre de la Loi de 2015 sur l'infrastructure au service de l'emploi et de la prospérité.</ParaText>
               <ParaText id="4333304">Si le projet de loi <Document DbId="8102366" Type="4">C-227</Document> est renvoyé au comité, il serait utile que celui-ci examine plus en profondeur les expériences de ces champs de compétence, et qu'il détermine les leçons apprises qui pourraient être appliquées à l'échelle fédérale au Canada.</ParaText>
               <ParaText id="4333305">Le député de <Affiliation DbId="214067" Type="2">York-Sud—Weston</Affiliation> a aussi déclaré, lorsqu'il a présenté le projet de loi, que les ententes relatives aux retombées locales « aident à créer de la richesse, des emplois de qualité, des activités de formation, de la croissance responsable et un milieu plus sain à l'échelle locale ».</ParaText>
-              <ParaText id="4333306">Encore une fois, il s'agit d'objectifs que chaque député à la Chambre des communes devraient appuyer.</ParaText>
+              <ParaText id="4333306">Encore une fois, il s'agit d'objectifs que chaque député à la Chambre des communes devrait appuyer.</ParaText>
               <ParaText id="4333307">En fait, notre gouvernement prend déjà d'autres mesures pour atteindre ces objectifs. Pour renforcer la classe moyenne et assurer une croissance plus inclusive pour davantage de Canadiens et Canadiennes, le budget de 2016 procède à des investissements historiques en infrastructure et en innovation.</ParaText>
               <ParaText id="4333308"> Pour citer le budget, l'investissement dans l'infrastructure va au-delà de la création de bons emplois et de la croissance économique. Il s'agit aussi de bâtir des collectivités auxquelles les Canadiens sont fiers d'appartenir. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3579,7 +3569,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
             <PersonSpeaking>
               <Affiliation DbId="214432" Type="2">Mme Christine Moore (Abitibi—Témiscamingue, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4333339">Madame la Présidente, j'ai le grand plaisir de pouvoir parler d'un projet de loi qui traite des retombées locales. Ces retombées sont extrêmement d'importantes pour les petites communautés rurales,.</ParaText>
+              <ParaText id="4333339">Madame la Présidente, j'ai le grand plaisir de pouvoir parler d'un projet de loi qui traite des retombées locales. Ces retombées sont extrêmement d'importantes pour les petites communautés rurales.</ParaText>
               <ParaText id="4333340">Certains viennent aussi d'une circonscription qui ressemble à la mienne, soit un énorme territoire comportant souvent une centaine de petites municipalités. Lorsque le gouvernement fédéral choisit d'investir localement en embauchant des compagnies et des travailleurs locaux et en achetant les matériaux localement, on comprend à quel point cela peut faire toute une différence pour ces communautés, en particulier celles qui doivent se battre au quotidien contre la dévitalisation. Plusieurs communautés ont perdu de nombreuses infrastructures au fil des ans. Par conséquent, viser le maximum de retombées locales ne peut être qu'intéressant.</ParaText>
               <ParaText id="4333341">Dans le projet de loi de mon collègue, bien que j'appuie le principe, plusieurs points pourraient quand même être améliorés ou clarifiés. C'est pourquoi je vais lui en faire part. Ainsi, s'il choisit de présenter des amendements à son projet de loi en comité pour l'améliorer, il aura des pistes de solution, afin de le rendre plus efficace.</ParaText>
               <ParaText id="4333342">Lorsqu'on parle de retombées locales, on dit, et j'insiste sur ces mots, que:</ParaText>
@@ -3815,7 +3805,7 @@ La Chambre reprend l'étude, interrompue le 9 mai, du projet de loi <Document Db
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4333440">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à <?bk?>10 heures,<?ek?> conformément au paragraphe<?bk?> 24(1)<?ek?> du Règlement.</ParaText>
+              <ParaText id="4333440">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à <?bk ?>10 heures,<?ek ?> conformément au paragraphe<?bk ?> 24(1)<?ek ?> du Règlement.</ParaText>
               <ParaText id="4333441">(La séance est levée à 20 h 2.)</ParaText>
             </Content>
           </Intervention>

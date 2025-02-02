@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8759671">
   <StartPageNumber>1</StartPageNumber>
   <DocumentTitle>
@@ -58,8 +39,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     <OrderOfBusiness id="8759676" Rubric="Other">
       <OrderOfBusinessTitle>
       First Session—42nd Parliament</OrderOfBusinessTitle>
+      <CatchLine>Opening of Parliament</CatchLine>
       <SubjectOfBusiness id="8759677">
         <SubjectOfBusinessContent>
+          <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
+          <FloorLanguage language="EN.">[<I>English</I>]</FloorLanguage>
+          <ProceduralText TocType="TPC" id="1">Opening of Parliament</ProceduralText>
           <ParaText id="4170360">
         The 41st Parliament having been dissolved by proclamation on August 2, 2015, and writs having been issued and returned, a new Parliament was summoned to meet for the dispatch of business on Thursday, December 3, 2015, and did accordingly meet on that day.</ParaText>
           <ParaText id="4170361">Thursday, December 3, 2015</ParaText>
@@ -92,7 +77,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8759691">
-        <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
+        <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
           <ParaText id="4170370">
@@ -102,13 +87,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214703" Type="96">The Acting Clerk of the House</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170371">Honourable members, pursuant to Standing Order 3, I invite Mr. Louis Plamondon, member for the electoral district of <Affiliation DbId="214090" Type="2">Bécancour–Nicolet–Saurel</Affiliation>, to take the chair as the member presiding over the election of the Speaker.</ParaText>
+              <ParaText id="4170371">Honourable members, pursuant to Standing Order 3, I invite Mr. Louis Plamondon, member for the electoral district of <Affiliation DbId="214090" Type="2">Bécancour—Nicolet—Saurel</Affiliation>, to take the chair as the member presiding over the election of the Speaker.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8759694">
-        <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Election of Speaker</SubjectOfBusinessTitle>
         <CatchLine>Election of Speaker</CatchLine>
@@ -118,10 +102,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214090" Type="2">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4170372">Colleagues, this is the third time that I have had the honour of taking the chair and I must confess that I am really beginning to enjoy it. Considering the welcome you have just given me, I should have run for the position of Speaker, for goodness' sake.</ParaText>
-              <ParaText id="4170373">From this prestigious chair, I would like to take a moment before we begin the official ceremony and thank my constituents in the riding of Bécancour–Nicolet–Saurel, who have given me my tenth consecutive term. I have been in this House for 31 years now. As I have said on many occasions, I am proud that I have had the best job in the world for 31 years.</ParaText>
+              <ParaText id="4170373">From this prestigious chair, I would like to take a moment before we begin the official ceremony and thank my constituents in the riding of Bécancour—Nicolet—Saurel, who have given me my tenth consecutive term. I have been in this House for 31 years now. As I have said on many occasions, I am proud that I have had the best job in the world for 31 years.</ParaText>
               <ParaText id="4170374">I would also like to acknowledge my family, my partner Manon, as well as my children, Lucie, Catherine and Steve, my partner's son, who have always supported my political career. In fact, one of my daughters is here today.</ParaText>
               <ParaText id="4170375">I also want to congratulate each and every one of you, as well as those running for the position of Speaker. You have all contributed to the development of our democracy, one of the most envied democracies in the world.</ParaText>
-              <ParaText id="4170376">We will now proceed to the election of the Speaker. Most of the ceremony will take place in French, which will allow you the opportunity to appreciate the work of the House of Commons translators. Even if I were to proceed in English, you would still need translation, so I will speak only briefly in English.</ParaText>
+              <ParaText id="4170376">We will now proceed to the election of the Speaker. Most of the ceremony will take place in French, which will allow you the opportunity to appreciate the work of the House of Commons interpreters. Even if I were to proceed in English, you would still need interpretation, so I will speak only briefly in English.</ParaText>
               <ParaText id="4170377">The list of members who have withdrawn or who are ineligible as candidates has been placed on each member's desk and is available at the table. </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4170378">The list of candidates has been placed on each member's desk and is also available at the table. </ParaText>
@@ -144,8 +128,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4170384">My dear colleagues, first of all I would like to congratulate all new and returning MPs. I would also like to thank the House of Commons staff for the helpful orientation sessions.</ParaText>
               <ParaText id="4170385">I applaud the diversity of Canada's House of Commons. All of us are here to voice our constituents' needs and concerns in this place. We must now continue to be passionate in our debates while being very respectful.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4170386">The position of speaker is based on three pillars. I will call the first pillar procedure and decorum. Canadians have entrusted each person in this chamber, opposition and government, with the responsibility to work together to find the best way for our nation to meet the challenges we face. However, we can only do this effectively if we conduct our work with fundamental respect for one another.</ParaText>
-              <ParaText id="4170387"> Maintaining essential decorum will be a critical role for the next speaker. Canadians have been disappointed that question period remains just that, question period. They expect a question and answer period.</ParaText>
+              <ParaText id="4170386">The position of Speaker is based on three pillars. I will call the first pillar procedure and decorum. Canadians have entrusted each person in this chamber, opposition and government, with the responsibility to work together to find the best way for our nation to meet the challenges we face. However, we can only do this effectively if we conduct our work with fundamental respect for one another.</ParaText>
+              <ParaText id="4170387"> Maintaining essential decorum will be a critical role for the next Speaker. Canadians have been disappointed that question period remains just that, question period. They expect a question and answer period.</ParaText>
               <ParaText id="4170388">The second pillar is the administration of the House and its services. The House has an annual budget of over $400 million. It is important to have someone with skills and experience to administer the House.</ParaText>
               <ParaText id="4170389"> We also face increased security concerns in the House. Our mission is to protect the security of Parliament while at the same time allowing Canadians to continue to have access to Parliament. It is their House.</ParaText>
               <ParaText id="4170390">We also face another very important challenge, the family challenge. MPs are younger, and so are their families. After all, we are in 2015. This must be addressed.</ParaText>
@@ -162,7 +146,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4170397">I also co-wrote the rules of procedure for Quebec's administrative tribunals. </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4170398">I have always been in business. I also co-founded a law firm specializing in agricultural law, and I started a vineyard, which is now the second largest in Quebec.</ParaText>
-              <ParaText id="4170399">In closing, the speaker is many things: our referee, our ambassador to other parliaments, and the protector of our rights and privileges. My door will always be open to all members. Inside, they will find a speaker with an open mind and an open heart.</ParaText>
+              <ParaText id="4170399">In closing, the Speaker is many things: our referee, our ambassador to other parliaments, and the protector of our rights and privileges. My door will always be open to all members. Inside, they will find a Speaker with an open mind and an open heart.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4170400">We are a big family. I want to forge the necessary ties of friendship among us. I said friendship, not necessarily love. Do not worry. I will still continue to refer to all of you as “honourable members”. I would like to preside over a Parliament in which all members work together in harmony. </ParaText>
               <ParaText id="4170401">I want to tell you how proud I am to sit here in the House with all of you. I ask you to support my bid.</ParaText>
@@ -291,7 +275,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214090" Type="2">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4170449"> Before I suspend the sitting for 30 minutes, I wish to remind hon. members that the bells to call the members back to the House will be sounded for not more than five minutes. The sitting is suspended for 30 minutes, to the call of the Chair.</ParaText>
-              <ProceduralText TocType="TCC" id="1">(The sitting of the House was suspended at 2 p.m.) </ProceduralText>
+              <ProceduralText TocType="TCC" id="2">(The sitting of the House was suspended at 2 p.m.) </ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -300,7 +284,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
         <SubjectOfBusinessQualifier>Sitting Resumed </SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" id="2">(The House resumed at 2:34 p.m.)</ProceduralText>
+          <ProceduralText TocType="TCC" id="3">(The House resumed at 2:34 p.m.)</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr.  Louis Plamondon" id="8759700">
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
@@ -329,7 +313,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170459"> If any hon. members have not yet voted and wish to do so, will they please vote now? </ParaText>
+              <ParaText id="4170459"> If any hon. members have not yet voted and wish to do so, will they please vote now.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4170460"> All members having voted, I do now instruct the Acting Clerk to proceed with the counting of the ballots, after I have cast my ballot.</ParaText>
             </Content>
@@ -346,7 +330,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4170461"> Before I suspend the sitting, I wish to inform the hon. members that, when the counting has been completed, the bells to call the members back to the House will be sounded.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4170462">The sitting is suspended to the call of the Chair. </ParaText>
-              <ProceduralText TocType="TCC" id="3">(The sitting of the House was suspended at 3:05 p.m.)</ProceduralText>
+              <ProceduralText TocType="TCC" id="4">(The sitting of the House was suspended at 3:05 p.m.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -356,8 +340,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>Sitting resumed</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" id="4">(The House resumed at 4:05 p.m.)</ProceduralText>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Louis Plamondo" id="8759716">
+          <ProceduralText TocType="TCC" id="5">(The House resumed at 4:05 p.m.)</ProceduralText>
+          <ParaText id="4177554">(The Clerk of the House having provided the Presiding Officer with the name of the member having received a majority of the votes cast:)</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Louis Plamondon" id="8759716">
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -366,7 +351,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4170464">It is with great pleasure that I do now invite the hon. member for the electoral district of Halifax West to take the chair.</ParaText>
               <ParaText id="4170465">
                 <B>Some hon. members:</B> Hear, hear!</ParaText>
-              <ParaText id="4170466">(The Presiding Officer having vacated the chair, and the mace having been laid under the table, the Prime Minster and the hon. Leader of the Opposition conducted Mr. Regan from his seat in the House to the chair.)</ParaText>
+              <ParaText id="4170466">(The Presiding Officer having vacated the chair, and the mace having been laid under the table, the right hon. Prime Minister and the hon. Leader of the Opposition conducted Mr. Regan from his seat in the House to the chair.)</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="8759718" ToCText="The Speaker">
@@ -483,7 +468,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214145" Type="2">Mr. Rhéal Fortin (Rivière-du-Nord, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170510">Mr. Speaker, on behalf of all members of the Bloc Québécois caucus, I want to congratulate you on being elected to the prestigious office of Speaker of the House of Commons. I also want to pay respect to Ms. Ratansi, Mr. Paradis and Mr. Stanton for putting their names forward. That is always touching to see. </ParaText>
+              <ParaText id="4170510">Mr. Speaker, on behalf of all members of the Bloc Québécois caucus, I want to congratulate you on being elected to the prestigious office of Speaker of the House of Commons. I also want to pay respect to the member for Don Valley East, the member for Brome—Missisquoi and the member for Simcoe North for putting their names forward. That is always touching to see. </ParaText>
               <ParaText id="4170511">On behalf of the Bloc Québécois, I would also like to express our respect and compassion for our colleague, the hon. member for <Affiliation DbId="170111" Type="2">Ottawa—Vanier</Affiliation>, who worked hard in his bid for the position of Speaker and who is now waging his own serious battle. I want our esteemed colleague to know that he has our full support. </ParaText>
               <ParaText id="4170512">Mr. Speaker, I assure you that you will have our full co-operation in upholding our democracy and having meaningful, respectful debates in the House. The House can also count on us to work diligently to protect and promote the interests, rights, and privileges of all the voters who put their trust in us. We are excited and hopeful to hear you talk about meaningful, respectful debate. You can count on our co-operation.</ParaText>
             </Content>

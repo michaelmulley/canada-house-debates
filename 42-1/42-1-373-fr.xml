@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="10453436">
-  <StartPageNumber>24971</StartPageNumber>
+  <StartPageNumber>24933</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -46,7 +46,7 @@
       <SubjectOfBusiness id="10453443">
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Projet de loi C-421 — Loi modifiant la Loi sur la Citoyenneté (connaissance suffisante de la langue française au Québec)</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Projet de loi C-421 — La Loi sur la citoyenneté</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Vote relatif à la désignation d’une affaire</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="10453444">
@@ -63,6 +63,13 @@
               <ParaText id="5753804">L’honorable député de <Affiliation DbId="214205" Type="2">Montcalm</Affiliation> se lève pour faire un rappel au Règlement à ce sujet.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="10200845">
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Vote relatif à la désignation d'une affaire</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Thériault" id="10453446">
             <PersonSpeaking>
               <Affiliation DbId="214205" Type="2">M. Luc Thériault (Montcalm, BQ)</Affiliation>: </PersonSpeaking>
@@ -214,7 +221,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5753867">Je remercie l'honorable député. Je reviendrai à la Chambre avec une décision.</ParaText>
+              <ParaText id="5753867">Je remercie l'honorable député. Je rendrai ma décision à la Chambre.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -661,7 +668,7 @@
               <ParaText id="5754024">Les libéraux disent que tout va très bien, tout en accordant de plus en plus d'argent à Bay Street. Jim ne va pas bien, Heather et Sarah non plus. Les Canadiens souffrent pendant que les libéraux déphasés prennent les pires décisions politiques qui soient: ils envoient 14 milliards de dollars à Bay Street et engloutissent 15 milliards de dollars dans l'oléoduc Trans Mountain. Cet oléoduc a coûté deux fois ce qu'il vaut au gouvernement, est un gouffre financier et engendre des coûts de construction qui ne cessent de grimper. C'est sans compter les répercussions du projet sur les industries de la pêche et du tourisme en Colombie-Britannique qui n'ont toujours pas été prises en compte, soit la possibilité que des emplois soient perdus. Voilà à quoi ressemblent les priorités du gouvernement libéral. Ils font des cadeaux de milliards de dollars et ne réfléchissent pas du tout aux conséquences. </ParaText>
               <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="5754025">La question qui se pose maintenant est de savoir comment on peut résoudre cette situation. Nous croyons qu'il faut un système d'impôt équitable. Notre système d'impôt est le plus inégal de ceux des pays industrialisés. Le taux effectif des grandes entreprises se situe autour de 9 %, soit un taux supérieur à celui des autres pays industrialisés.</ParaText>
+              <ParaText id="5754025">La question qui se pose maintenant est de savoir comment on peut résoudre cette situation. Nous croyons qu'il faut un système d'impôt équitable. Notre système d'impôt est le plus inégal de ceux des pays industrialisés. Le taux effectif des grandes entreprises se situe autour de 9 % seulement, soit un taux qui n'est pas à égalité avec celui des autres pays industrialisés.</ParaText>
               <ParaText id="5754026">Nous croyons que la solution est à l'opposé de la proposition des conservateurs. Ces derniers proposent de conserver le système d'impôt tel qu'il est maintenant, c'est-à-dire fossilisé et inéquitable. Malheureusement, ce système d'impôt ne permet pas de faire des investissements pour aider les gens comme Sarah, comme Jim et comme Heather.</ParaText>
               <ParaText id="5754027"> D'autres pays entreprennent actuellement ces démarches. Certains pays européens exigent des géants du Web qu'ils paient des impôts. La France déplorait que les géants du Web ne paient qu'un taux effectif de 9 %, alors que c'est mieux que celui payé par les grandes entreprises au Canada. La France a décidé de mettre en place un système d'impôt équitable. Ainsi, les géants du Web seront obligés de payer leur juste part d'impôt, et cela permettra de faire des investissements pour aider les gens comme Jim, Sarah et Heather.</ParaText>
               <ParaText id="5754028">Quand on parle des grandes entreprises, on parle des paradis fiscaux qui font en sorte que le taux effectif n'est que de 9 %.</ParaText>
@@ -844,7 +851,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214354" Type="2">Mme Linda Lapointe (Rivière-des-Mille-Îles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5754100">Monsieur le Président, j’écoute toujours avec attention mon collègue de <Affiliation DbId="213892" Type="2">St. Albert—Edmonton</Affiliation>. </ParaText>
+              <ParaText id="5754100">Monsieur le Président, j’écoute toujours avec attention mon collègue de <?bk ?><Affiliation DbId="213892" Type="2">St. Albert—Edmonton</Affiliation><?ek ?>. </ParaText>
               <ParaText id="5754101">Sait-il que, dans sa circonscription, le nombre de paiements d’allocations familiales pour enfants non imposables est de 11 910 pour 22 430 enfants? Cela donne une moyenne de 6 840 $ par année. Notre honorable collègue avait voté contre cela.</ParaText>
               <ParaText id="5754102">J’aimerais savoir quel est le plan des conservateurs. Qu’est-ce qu’ils vont sabrer? Vont-ils promettre d’équilibrer le budget en 2020? J’aimerais les entendre à ce sujet.</ParaText>
             </Content>
@@ -1026,7 +1033,7 @@
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754180">J'entends beaucoup de « vous ». Je prierais les députés de s'adresser à la présidence et d'utiliser la troisième personne du singulier.</ParaText>
-              <ParaText id="5754181">Nous passons maintenant aux questions et observations. Le député de Hull—Aylmer a la parole.</ParaText>
+              <ParaText id="5754181">Poursuivons les questions et observations. Le député de Hull—Aylmer a la parole.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -1251,7 +1258,7 @@
               <Affiliation DbId="214354" Type="2">Mme Linda Lapointe (Rivière-des-Mille-Îles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754262">Monsieur le Président, j’ai trouvé le discours de mon collègue de <Affiliation DbId="214107" Type="2">Portneuf—Jacques-Cartier</Affiliation> vraiment intéressant. </ParaText>
-              <ParaText id="5754263">J’ai fait des recherches sur <I>Le Corbeau et le Renard</I>, de La Fontaine. Voici la morale de cette fable:</ParaText>
+              <ParaText id="5754263">J’ai fait des recherches sur <I>Le Corbeau et le Renard</I>, de <?bk ?>La Fontaine<?ek ?>. Voici la morale de cette fable:</ParaText>
               <ParaText id="5754264">
                 <Poetry OriginalReceived="True">
                   <Verse>
@@ -1344,7 +1351,7 @@
               <ParaText id="5754308">Monsieur le Président, j'aimerais remercier ma collègue de son allocution.</ParaText>
               <ParaText id="5754309">La question que les conservateurs posent au gouvernement aujourd’hui est de savoir si celui-ci s’engage à ne pas créer de nouvelle taxe. Personnellement, je vais parler des taxes existantes.</ParaText>
               <ParaText id="5754310">La députée d’en face connaît très bien le monde du commerce de détail. Elle sait très bien que les commerçants et les PME doivent percevoir la TPS lors des transactions avec leurs clients. Ce n’est pas de l’argent prélevé de leur compte, mais c’est leur travail de percevoir cette taxe.</ParaText>
-              <ParaText id="5754311">Au sujet d’une taxe existante, pourquoi le gouvernement s’entête-t-il à être un des derniers gouvernements laxistes à ne pas appliquer une taxe à destination, comme la TPS, sur les services de télévision par contournement des géants du Web comme Netflix?</ParaText>
+              <ParaText id="5754311">Au sujet d’une taxe existante, pourquoi le gouvernement s’entête-t-il à être un des derniers gouvernements laxistes à ne pas appliquer une taxation au lieu de destination, comme la TPS, sur les services de télévision par contournement des géants du Web comme Netflix?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10454839" ToCText="">
@@ -1681,8 +1688,8 @@
             <Content>
               <ParaText id="5754418">Monsieur le Président, ce mois-ci, l'organisme Action réfugiés Montréal a fêté son 25<Sup>e</Sup> anniversaire. C'est l'occasion de souligner le travail important de cette association qui cherche toujours plus de justice sociale pour les demandeurs d'asile et les réfugiés. Avec ses trois programmes de sensibilisation, Action réfugiés Montréal est devenu un incontournable à Montréal.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="5754419">Au fil des ans, Action Réfugiés Montréal a aidé des groupes privés à parrainer plus de 1 200 personnes de pays comme l'Afghanistan, le Burundi et la Syrie. Grâce à son programme de jumelage entre des femmes réfugiées nouvellement arrivées et des femmes vivant déjà à Montréal, cet organisme contribue à la création de systèmes de soutien social visant à rompre l'isolement ressenti par de nombreux nouveaux arrivants.</ParaText>
-              <ParaText id="5754420">Alors que beaucoup de pays se replient sur eux et qu'il y a un nombre record de personnes déplacées partout dans le monde, il faut plus que jamais célébrer et appuyer le travail d'organismes comme Action Réfugiés Montréal.</ParaText>
+              <ParaText id="5754419">Au fil des ans, Action réfugiés Montréal a aidé des groupes privés à parrainer plus de 1 200 personnes de pays comme l'Afghanistan, le Burundi et la Syrie. Grâce à son programme de jumelage entre des femmes réfugiées nouvellement arrivées et des femmes vivant déjà à Montréal, cet organisme contribue à la création de systèmes de soutien social visant à rompre l'isolement ressenti par de nombreux nouveaux arrivants.</ParaText>
+              <ParaText id="5754420">Alors que beaucoup de pays se replient sur eux et qu'il y a un nombre record de personnes déplacées partout dans le monde, il faut plus que jamais célébrer et appuyer le travail d'organismes comme Action réfugiés Montréal.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="5754421">Ensemble, continuons à appuyer ces programmes qui permettent l'inclusion et fabriquent notre société canadienne, riche de sa diversité.</ParaText>
             </Content>
@@ -1843,7 +1850,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10455232">
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Raitt" id="10455052">
             <PersonSpeaking>
@@ -1893,7 +1900,7 @@
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754467">Monsieur le Président, nous n'avons pas et nous n'allons pas augmenter les taxes et les impôts pour les Canadiens. Au contraire, c'est nous qui les avons baissés. Nous les avons baissés pour la classe moyenne en demandant aux mieux nantis de payer un peu plus d'impôt.</ParaText>
-              <ParaText id="5754468"> C'est cela qui choque les conservateurs, car ils préfèrent faire des investissements qui profitent aux mieux nantis et leur donner plus d'avantages pour faire croître l'économie. Cela ne fonctionne pas. Le « <I>trickle down</I> » ne fonctionne pas, ni au Canada ni ailleurs. C'est ce qu'ils ne comprennent pas. </ParaText>
+              <ParaText id="5754468"> C'est cela qui choque les conservateurs, car ils préfèrent faire des investissements qui profitent aux mieux nantis et leur donner plus d'avantages pour faire croître l'économie. Cela ne fonctionne pas. L'effet de ruissellement ne fonctionne pas, ni au Canada ni ailleurs. C'est ce qu'ils ne comprennent pas. </ParaText>
               <ParaText id="5754469">Nous avons créé de la croissance économique en investissant dans la classe moyenne et nous allons continuer...</ParaText>
             </Content>
           </Intervention>
@@ -1952,7 +1959,7 @@
               <Affiliation DbId="214064" Type="2">Mme Brigitte Sansoucy (Saint-Hyacinthe—Bagot, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754477">Monsieur le Président, une étude démontre que près de la moitié des gens au pays sont à 200 $ d'être incapables de payer leurs factures mensuelles. </ParaText>
-              <ParaText id="5754478">Sophie, une de mes concitoyennes, me disait à quel point c'est difficile pour sa mère et elle d'arriver à la fin du mois. Les gens font face à des dettes personnelles écrasantes, et la priorité des libéraux est de donner les milliards de dollars en cadeaux aux grandes compagnies.</ParaText>
+              <ParaText id="5754478">Sophie, une de mes concitoyennes, me disait à quel point c'est difficile pour sa mère et elle d'arriver à la fin du mois. Les gens font face à des dettes personnelles écrasantes, et la priorité des libéraux est de donner des milliards de dollars en cadeaux aux grandes compagnies.</ParaText>
               <ParaText id="5754479">Quand les libéraux vont-ils vraiment aider les gens au lieu de choisir d'aider les compagnies les plus riches?</ParaText>
             </Content>
           </Intervention>
@@ -1961,7 +1968,7 @@
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754480">Monsieur le Président, au contraire, notre priorité depuis le début a été d'investir dans la classe moyenne et dans ceux qui travaillent fort pour en faire partie. C'est pourquoi nous avons baissé les impôts pour la classe moyenne. C'est pourquoi nous avons créé l'Allocation canadienne pour enfants, qui est train de sortir des centaines de milliers d'enfants de la pauvreté partout au pays. </ParaText>
-              <ParaText id="5754481">Nous avons investi dans une Stratégie nationale sur le logement, qui a déjà aidé près de 1 million de personnes à se trouver un logement, et nous allons continuer d'investir dans nos communautés et dans les Canadiens pour les aider à bâtir un monde meilleur pour eux et pour leur famille.</ParaText>
+              <ParaText id="5754481">Nous avons investi dans la Stratégie nationale sur le logement, qui a déjà aidé près de 1 million de personnes à se trouver un logement, et nous allons continuer d'investir dans nos communautés et dans les Canadiens pour les aider à bâtir un monde meilleur pour eux et pour leur famille.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2018,7 +2025,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5754495">Monsieur le Président, la députée devrait dire cela au 80 % des familles canadiennes qui paient 800 $ de plus depuis que les libéraux sont au pouvoir. J’ai hâte de voir les candidats libéraux dire qu’ils tiennent leurs promesses dans quelques mois. Ce n’est pas vrai, les libéraux ne tiennent pas leurs promesses.</ParaText>
+              <ParaText id="5754495">Monsieur le Président, la députée devrait dire cela aux 80 % des familles canadiennes qui paient 800 $ de plus depuis que les libéraux sont au pouvoir. J’ai hâte de voir les candidats libéraux dire qu’ils tiennent leurs promesses dans quelques mois. Ce n’est pas vrai, les libéraux ne tiennent pas leurs promesses.</ParaText>
               <ParaText id="5754496">Les Canadiens veulent savoir quel est le plan du gouvernement pour le retour à l’équilibre budgétaire. Est-ce qu’il en a un, au moins?</ParaText>
             </Content>
           </Intervention>
@@ -2168,7 +2175,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5754527">Monsieur le Président, depuis le début, le gouvernement libéral a perdu le contrôle dans le dossier des migrants illégaux au Canada. Ce sont encore des dépenses supplémentaires de 115 millions de dollars pour l’afflux de migrants illégaux aux frontières. Pour quelle raison? C’est l’erreur qu’a faite le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> en les invitant à porte grande ouverte sur un gazouillis, en janvier 2017. Quand le premier ministre va-t-il sécuriser nos frontières et arrêter de faire payer les Canadiens pour ses erreurs?</ParaText>
+              <ParaText id="5754527">Monsieur le Président, depuis le début, le gouvernement libéral a perdu le contrôle dans le dossier des migrants illégaux au Canada. Ce sont encore des dépenses supplémentaires de 115 millions de dollars pour l’afflux de migrants illégaux aux frontières. Pour quelle raison? C’est l’erreur qu’a faite le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> en les invitant à porte grande ouverte dans un gazouillis, en janvier 2017. Quand le premier ministre va-t-il sécuriser nos frontières et arrêter de faire payer les Canadiens pour ses erreurs?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. LeBlanc" id="10455176">
@@ -2245,7 +2252,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214168" Type="2">Mme Karine Trudel (Jonquière, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5754542">Monsieur le Président, il y a longtemps qu’on n’a pas entendu parler les libéraux des tarifs que les États-Unis ont imposés sur l’acier et l’aluminium.</ParaText>
+              <ParaText id="5754542">Monsieur le Président, il y a longtemps qu’on n’a pas entendu les libéraux parler des tarifs que les États-Unis ont imposés sur l’acier et l’aluminium.</ParaText>
               <ParaText id="5754543">Récemment, une compagnie d’aluminium russe a réussi à se faire retirer de la liste des sanctions américaines. Eux, ils n’en ont plus de tarifs.</ParaText>
               <ParaText id="5754544">Qu’est-ce que les libéraux ont à dire au monde de chez nous, aux gens de Jonquière? Ce sont des milliers de familles et de bons emplois qui sont en jeu. Ils ont le droit de savoir. </ParaText>
               <ParaText id="5754545">Qu’est-ce que les libéraux vont faire pour abolir ces tarifs sur l’acier et l’aluminium?</ParaText>
@@ -2380,7 +2387,7 @@
               <Affiliation DbId="241487" Type="2">M. Richard Martel (Chicoutimi—Le Fjord, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754573">Monsieur le Président, le gouvernement a collecté près de 1 milliard de dollars avec les contre-mesures tarifaires.</ParaText>
-              <ParaText id="5754574">Pourtant, les libéraux n'ont remis qu'une fraction des deux milliards qu'ils avaient promis pour appuyer l'industrie de l'acier et de l'aluminium. De plus, tout le monde sait que nous produisons l'acier et l'aluminium le plus vert au monde. Voilà une autre promesse brisée.</ParaText>
+              <ParaText id="5754574">Pourtant, les libéraux n'ont remis qu'une fraction des 2 milliards qu'ils avaient promis pour appuyer l'industrie de l'acier et de l'aluminium. De plus, tout le monde sait que nous produisons l'acier et l'aluminium le plus vert au monde. Voilà une autre promesse brisée.</ParaText>
               <ParaText id="5754575">Pourquoi les entreprises du Saguenay et du Canada continueraient-elles de payer pour les échecs des négociations du premier ministre?</ParaText>
             </Content>
           </Intervention>
@@ -2439,7 +2446,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10455270">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les relations intergouvernementales</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Boucher" id="10455269">
             <PersonSpeaking>
@@ -2600,6 +2607,8 @@
               <ParaText id="5754630">Monsieur le Président, je remercie le député de <Affiliation DbId="214134" Type="2">Calgary-Centre</Affiliation> de son excellent travail.</ParaText>
               <ParaText id="5754631">La semaine dernière, nous avons annoncé un investissement fédéral de 15 milliards de dollars dans le projet solaire Suffield, en Alberta. Ce projet permettra de créer 250 emplois bien rémunérés pour la classe moyenne à l'étape de la construction et d'alimenter plus de 7 000 logements chaque année.</ParaText>
               <ParaText id="5754632">Nous concrétisons notre plan visant à stimuler l'économie tout en protégeant l'environnement.</ParaText>
+              <ParaText id="5798748">
+                <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="10455338">
@@ -2658,7 +2667,7 @@
               <Affiliation DbId="214282" Type="2">M. Mario Beaulieu (La Pointe-de-l'Île, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5754642">Monsieur le Président, j'ai eu l'honneur de déposer un projet de loi qui exige une connaissance adéquate du français afin d'obtenir la citoyenneté à partir du Québec.</ParaText>
-              <ParaText id="5754643">La connaissance du français est essentielle pour intégrer celles et ceux qui décident de se joindre à nous, qui veulent faire partie de nous et qui veulent être nous. Le gouvernement du Québec l'a compris.</ParaText>
+              <ParaText id="5754643">La connaissance du français est essentielle pour s'intégrer à celles et ceux qui décident de se joindre à nous, qui veulent faire partie de nous et qui veulent être nous. Le gouvernement du Québec l'a compris.</ParaText>
               <ParaText id="5754644">Est-ce que ce gouvernement est en faveur d'une loi qui exige une connaissance adéquate du français afin d'obtenir la citoyenneté à partir du Québec?</ParaText>
             </Content>
           </Intervention>
@@ -3118,7 +3127,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213994" Type="2">L’hon. Michelle Rempel (Calgary Nose Hill, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5754792">Monsieur le Président, je vais partager mon temps de parole avec le député de <Affiliation DbId="214025" Type="2">Beauport—Limoilou</Affiliation>.</ParaText>
+              <ParaText id="5754792">Madame la Présidente, je vais partager mon temps de parole avec le député de <Affiliation DbId="214025" Type="2">Beauport—Limoilou</Affiliation>.</ParaText>
               <ParaText id="5754793">La motion dont nous sommes saisis aujourd'hui se lit comme suit: </ParaText>
               <ParaText id="5754794">
                 <Quote>
@@ -3436,7 +3445,7 @@
               <ParaText id="5754918">Les conservateurs vont tenter de faire croire — ils le font déjà — que leur plan de retour à l’équilibre budgétaire ne va pas viser les services publics offerts aux Canadiens. Cela est complètement faux. Il ne faut pas que les Canadiens se laissent leurrer par ces belles paroles. En réalité, ce qui va se passer, c’est ce qui s’est passé en 2011.</ParaText>
               <ParaText id="5754919">Entre 2011 et 2015, à Sherbrooke, les services ont diminué. Il n’y a plus de bureau d’Immigration Canada à Sherbrooke. Les gens ne peuvent plus avoir accès en personne à des services du ministère de l’Immigration du Canada, ne peuvent à peu près plus avoir de cérémonie de citoyenneté à Sherbrooke et ne peuvent plus ou presque passer les tests de citoyenneté à Sherbrooke. Ils doivent se déplacer à Montréal pour avoir accès à des services. Voilà la réalité engendrée par les coupes des conservateurs. Ces coupes se sont poursuivies en 2019. Les libéraux n’ont rien corrigé.</ParaText>
               <ParaText id="5754920">C’est la même chose en ce qui concerne l’Agence durevenu du Canada. Avant l’austérité conservatrice de 2011, les gens de Sherbrooke avaient accès à des services en personne à l’Agence du revenu du Canada. Lorsque les conservateurs sont arrivés au pouvoir, ils ont décrété que les services en personne à l’Agence du revenu du Canada étaient terminés. À la porte du bureau d’accueil de l’Agence du revenu du Canada, ils ont seulement indiqué le numéro de téléphone à composer si on voulait des services. Telle est la réalité des coupes et de l’austérité conservatrices. N’en déplaise aux conservateurs, les Canadiens seront donc avertis que derrière les belles paroles de l’équilibre budgétaire se cachent des coupes dans les services.</ParaText>
-              <ParaText id="5754921">Je pense que ma collègue de <Affiliation DbId="214344" Type="2">London—Fanshawe</Affiliation> a bien dit tantôt — je ne vais pas le répéter — que les impôts sont importants. N’en déplaise aux conservateurs, les impôts servent à quelque chose. Dans tout ce débat, on semble oublier que les impôts ont une utilité et qu’ils permettent d’avoir une société plus juste et plus équitable. Comme l’a dit ma collègue tantôt, ceux qui paient le moins d’impôts sont aussi ceux qui reçoivent le plus de services. C’est dans une société comme celle-là qu’on veut vivre, où ceux qui ont le moins demoyens ont quand même accès à des services de qualité pour se sortir de ces situations, pour réussir dans la vie et, peut-être, pour avoir un avenir meilleur. Voilà donc la raison d’être des impôts. Il faut que les conservateurs réalisent que les impôts ont une utilité, n’en déplaise à leur idéologie conservatrice.</ParaText>
+              <ParaText id="5754921">Je pense que ma collègue de <Affiliation DbId="214344" Type="2">London—Fanshawe</Affiliation> a bien dit tantôt — je ne vais pas le répéter — que les impôts sont importants. N’en déplaise aux conservateurs, les impôts servent à quelque chose. Dans tout ce débat, on semble oublier que les impôts ont une utilité et qu’ils permettent d’avoir une société plus juste et plus équitable. Comme l’a dit ma collègue tantôt, ceux qui paient le moins d’impôts sont aussi ceux qui reçoivent le plus de services. C’est dans une société comme celle-là qu’on veut vivre, où ceux qui ont le moins de moyens ont quand même accès à des services de qualité pour se sortir de ces situations, pour réussir dans la vie et, peut-être, pour avoir un avenir meilleur. Voilà donc la raison d’être des impôts. Il faut que les conservateurs réalisent que les impôts ont une utilité, n’en déplaise à leur idéologie conservatrice.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
@@ -3485,7 +3494,7 @@
             <Content>
               <ParaText id="5754932">Madame la Présidente, si mon collègue veut que j’énumère les mauvaises dépenses du gouvernement libéral, je ne saurai pas par où commencer. Bien sûr, l’achat d’un pipeline de 4,5 milliards de dollars américains est une dépense odieuse du gouvernement. De plus, cela démontre l’improvisation totale du gouvernement sur cette question.</ParaText>
               <ParaText id="5754933"> Lorsque vient le temps d’investir dans des pipelines, le gouvernement semble capable de trouver 4,5 milliards de dollars américains dans ses fonds des tiroirs. Toutefois, quand on a besoin d’argent pour des logements sociaux, l’argent n’est pas disponible et il faut attendre parce qu’on n’a pas de marge de manœuvre pour investir, alors qu’une crise du logement sévit partout au pays.</ParaText>
-              <ParaText id="5754934"> C’est une question de priorité. Lorsque vient le temps de soutenir les pipelines de pétrole, l’argent est dans les tiroirs et sort rapidement. Lorsque vient le temps de résoudre les problèmes concrets des Canadiens, le gouvernement demande aux Canadiens d’attendre après les élections. En 2019, je pense que les Canadiens seront capables de voir que le gouvernement n’en a rien à foutre des Canadiens et de leur bien-être.</ParaText>
+              <ParaText id="5754934"> C’est une question de priorité. Lorsque vient le temps de soutenir les pipelines de pétrole, l’argent est dans les tiroirs et sort rapidement. Lorsque vient le temps de résoudre les problèmes concrets des Canadiens, le gouvernement demande aux Canadiens d’attendre après les élections. En 2019, je pense que les Canadiens seront capables de voir que le gouvernement n’en a rien à foutre, des Canadiens et de leur bien-être.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3516,7 +3525,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5754945">Comme il est 17 h 15, je dois interrompre les délibérations et mettre aux voix sur-le-champ toutes les motions relatives aux crédits.</ParaText>
+              <ParaText id="5754945">Comme il est 17 h 15, je dois interrompre les délibérations et mettre aux voix sur-le-champ toutes les motions relatives aux travaux des subsides.</ParaText>
               <ParaText id="5754946">Le vote porte sur la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
               <ParaText id="5754947">
                 <B>Des voix:</B> D'accord.</ParaText>
@@ -4218,7 +4227,7 @@
               <ParaText id="5754964">Lors de son intervention, le député a demandé que le résultat du scrutin secret sur la désignation du projet de loi <Document DbId="10131265" Type="4">C-421, Loi modifiant la Loi sur la citoyenneté (connaissance suffisante de la langue française au Québec)</Document>, soit divulgué en même temps que le résultat du vote lui-même. À son avis, la présidence ne peut pas se contenter d’annoncer seulement si le projet de loi C-421 est votable ou non, puisqu’il est primordial que le nombre de voix favorables et non favorables soit divulgué pour contrer la volonté du gouvernement de bâillonner les députés.</ParaText>
               <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="5754965">Comme le député lui-même y fait référence, j’ai rendu une décision sur cette même question le 28 novembre 2017. À l’époque, on alléguait que le processus suivi pour la désignation d’un projet de loi n’avait pas à suivre celui prévu pour l’élection du Président. Les députés se rappelleront que, en réponse, j’ai déclaré, à la page 15677 des Débats:</ParaText>
+              <ParaText id="5754965">Comme le député lui-même y fait référence, j’ai rendu une décision sur cette même question le 28 novembre 2017. À l’époque, on alléguait que le processus suivi pour la désignation d’un projet de loi n’avait pas à suivre celui prévu pour l’élection du Président. Les députés se rappelleront que, en réponse, j’ai déclaré, à la page 15653 des Débats:</ParaText>
               <ParaText id="5754966">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Rien dans l'article 92 du Règlement n'indique que le Président doit s'écarter de l'usage maintenant établi.</QuotePara>
@@ -4334,7 +4343,8 @@
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5755014">Nous reviendrons au député dans un instant. Il y a un problème d'interprétation. Le système fonctionne maintenant.</ParaText>
+              <ParaText id="5755014">Nous reviendrons au député dans un instant. Il y a un problème d'interprétation. </ParaText>
+              <ParaText id="5755014">Le système fonctionne maintenant.</ParaText>
               <ParaText id="5755015">Le député de Windsor-Ouest a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -4400,10 +4410,9 @@
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5755027">Avant de reprendre le débat, j'aimerais remercier les interprètes et toutes les personnes qui ont participé à la résolution du problème technique survenu dans le système.</ParaText>
-              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="5755028">Nous reprenons le débat. La secrétaire parlementaire du ministre des Finances a la parole.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme O'Connell" id="10456971">
             <PersonSpeaking>
               <Affiliation DbId="242087" Type="18">Mme Jennifer O'Connell (secrétaire parlementaire du ministre des Finances (Possibilités économiques pour la jeunesse), Lib.)</Affiliation>: </PersonSpeaking>

@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9230605">
   <StartPageNumber>6719</StartPageNumber>
   <DocumentTitle>
@@ -100,18 +82,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4636457">Monsieur le Président, aujourd'hui, j'ai l'honneur de prendre la parole pour présenter deux pétitions. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4636458">La première a été signée par de nombreux résidants de ma circonscription, ainsi que d'autres régions, jusqu'à Edmonton. Les pétitionnaires demandent à la Chambre d'interdire la vente de poissons génétiquement modifiés. Nous savons que la pétition fait suite aux autorisations actuelles concernant le saumon de l'Atlantique produit par l'entreprise AquaBounty. Les pétitionnaires demandent au Parlement de veiller à ce que la production et la vente de poissons et d'oeufs de poissons génétiquement modifiés soient interdites au Canada.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9231022">
-        <SubjectOfBusinessQualifier>Les aliments génétiquement modifiés</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9231030">
-            <PersonSpeaking>
-              <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4636459">Monsieur le Président, la deuxième pétition est semblable à la première, mais elle a été signée par des résidants de localités totalement différentes, allant de Victoria à Meaford, en Ontario, en passant par Sherbrooke, au Québec. Les pétitionnaires demandent au gouvernement et au Parlement du Canada d'assurer l'étiquetage des produits génétiquement modifiés.</ParaText>
+              <ParaText id="4636459">La deuxième pétition est semblable à la première, mais elle a été signée par des résidants de localités totalement différentes, allant de Victoria à Meaford, en Ontario, en passant par Sherbrooke, au Québec. Les pétitionnaires demandent au gouvernement et au Parlement du Canada d'assurer l'étiquetage des produits génétiquement modifiés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -199,10 +170,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ParaText>
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="2" />
+                  <QuotePara IndentFirst="2" IndentRest="2">
+                  </QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4636470">
+              <ParaText id="4636469">
                 <Quote>
                   <QuotePara IndentFirst="2" IndentRest="1">Que, 15 minutes avant l'expiration du temps prévu pour les Ordres émanant du gouvernement au cours du jour de séance attribué pour l'étude à l'étape de la deuxième lecture de ce projet de loi, toute délibération devant la Chambre soit interrompue, s’il y a lieu aux fins de cet ordre, et, par la suite, toute question nécessaire pour disposer de cette étape soit mise aux voix immédiatement et successivement, sans plus ample débat ni amendement.</QuotePara>
                 </Quote>
@@ -350,7 +322,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4636512">Madame la présidente, j'avais hâte de pouvoir répondre à une question du député parce que j'ai l'impression que le comportement qu'il nous reproche était celui du gouvernement précédent, pas le nôtre.</ParaText>
+              <ParaText id="4636512">Madame la Présidente, j'avais hâte de pouvoir répondre à une question du député parce que j'ai l'impression que le comportement qu'il nous reproche était celui du gouvernement précédent, pas le nôtre.</ParaText>
               <ParaText id="4636513">Je regrette infiniment d'avoir dû présenter cette motion aujourd'hui. J'espérais que nous allions mieux collaborer et que nous saurions déterminer ensemble combien d'heures de débat seraient nécessaires. Ce genre de discussions fait partie de la collaboration. Je croyais vraiment que nous pourrions discuter du nombre d'heures de débat que voulaient les députés d'en face. Nous sommes tout à fait disposés à collaborer avec l'opposition, mais lorsqu'elle ne nous répond pas, il nous est difficile d'y arriver. Je sais qu'il y aura encore beaucoup d'autres occasions.</ParaText>
               <ParaText id="4636514">Je rappelle au député que le projet de loi d'exécution du budget est moitié moins volumineux qu'un projet de loi du gouvernement précédent. Nous avons accordé plus de temps pour en débattre à l'étape de la deuxième lecture, soit six jours. Le gouvernement précédent croyait que trois ou quatre jours suffisaient amplement. Il est intéressant de voir comme les perspectives changent.</ParaText>
               <ParaText id="4636515">Nous continuerons de voir à ce qu'un débat utile puisse avoir lieu et à ce que les comités aient la capacité de faire leur travail également.</ParaText>
@@ -389,7 +361,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4636526">J'imagine que vous adressez votre question à la présidence et non directement à la députée.</ParaText>
+              <ParaText id="4636526">J'imagine que le député adresse sa question à la présidence et non directement à la députée.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Chagger" id="9231155">
@@ -402,9 +374,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4636530">Comme le député l'a dit de manière si éloquente, la jeunesse surveille ce que le gouvernement fait. Elle s'attend à ce que nous respections nos engagements. C'est pourquoi la mise en oeuvre du budget est absolument nécessaire et pourquoi le comité devrait avoir l'occasion d'étudier le projet de loi.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Blaikie" id="9231207">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Blaikie" id="9231207">
             <PersonSpeaking>
-              <Affiliation DbId="214129" Type="2">M. Daniel Blaikie (Elmwood—Transcona, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214129" Type="2">M. Daniel Blaikie</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4636531">Madame la Présidente, j'aimerais revenir à la question de la privatisation, puisque les investissements dans les infrastructures étaient au coeur des promesses et du budget des libéraux. La mise à jour économique nous a appris que le gouvernement compte remplir cet engagement en vendant ces nouvelles infrastructures à des sociétés d'investissement privées, y compris de nombreuses sociétés étrangères. Par conséquent, il est ridicule de penser que nous devrions mettre fin au débat juste comme nous commençons à apprendre les détails de cet engagement central du plan budgétaire des libéraux. Cette situation est peut-être attribuable au fait que le seul député ministériel que j'aie entendu se porter à la défense de ce plan farfelu pendant le débat était le député de <Affiliation DbId="214155" Type="2">Spadina—Fort York</Affiliation>. Celui-ci se plaît à dire qu'il est question de logements abordables et que nous devrions consulter le programme électoral. Il a fait allusion à la banque de l'infrastructure. Cependant, le programme dit que cette banque prêtera de l'argent aux municipalités et aux provinces qui veulent construire des infrastructures; il n'est pas question de s'en servir pour attirer des investissements privés de manière à ce que nos routes, nos aéroports et nos ponts appartiennent à des multinationales d'investissement étrangères. Cela ne figure nulle part dans le programme électoral. Peut-être que le député de <Affiliation DbId="214155" Type="2">Spadina—Fort York</Affiliation> est à bout de souffle et que le gouvernement ne trouve personne d'autre pour défendre ce plan.</ParaText>
               <ParaText id="4636532">Sommes-nous obligés de clore le débat parce que le gouvernement ne trouve personne d'autre sur ses banquettes qui soit prêt à défendre ce plan ridicule?</ParaText>
@@ -1761,7 +1733,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214145" Type="2">M. Rhéal Fortin (Rivière-du-Nord, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4636969">Monsieur le Président, « Je n'ai jamais pensé que je pourrais être aussi fier d'être Québécois que ce soir », déclarait un René Lévesque ému, lors de la victoire du Parti québécois, le 15 novembre 1976. C'était une victoire historique sous le thème « À partir d'aujourd'hui, demain nous appartient ». </ParaText>
-              <ParaText id="4636970">Au cours des années suivantes, le gouvernement Lévesque allait nous communiquer cette fierté: la Loi sur le financement des partis politiques, la Loi sur la protection du territoire et des activités agricoles, la loi anti-<I>scabs</I>, la Charte de la langue française et le premier référendum sur la souveraineté du Québec; demain nous appartenait. </ParaText>
+              <ParaText id="4636970">Au cours des années suivantes, le gouvernement Lévesque allait nous communiquer cette fierté en adoptant la Loi sur le financement des partis politiques, la Loi sur la protection du territoire et des activités agricoles, la loi anti-<I>scabs</I>, la Charte de la langue française et le premier référendum sur la souveraineté du Québec; demain nous appartenait. </ParaText>
               <ParaText id="4636971">Quarante ans plus tard, le Bloc québécois salue ces hommes et ces femmes qui ont contribué à forger l'identité unique du peuple québécois, qui est, rappelons-le, « quelque chose comme un grand peuple ».</ParaText>
               <ParaText id="4636972">Merci, René.</ParaText>
             </Content>
@@ -1904,7 +1876,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214299" Type="2">M. Raj Grewal (Brampton-Est, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4636992">Monsieur le Président, hier, des milliers de sikhs du Canada et des autres pays ont célébré la naissance du gourou Nanak Dev Ji, un intellectuel hors du commun qui avait une grande passion pour le service communautaire et qui a consacré sa vie à aider les autres et à se battre pour l'égalité.</ParaText>
-              <ParaText id="4636993">Le gourou Nanak insistait sur l'importance de la méditation ou<I>Naam Japna</I>, de l'altruisme ou <I>Seva</I>, du partage ou <I>Vand Ke Chakna</I> ainsi que de l'ardeur au travail ou <I>Kirt Karni</I>. Ce sont les principes du mode de vie sikh.</ParaText>
+              <ParaText id="4636993">Le gourou Nanak insistait sur l'importance de la méditation ou <I>Naam Japna</I>, de l'altruisme ou <I>Seva</I>, du partage ou <I>Vand Ke Chakna</I> ainsi que de l'ardeur au travail ou <I>Kirt Karni</I>. Ce sont les principes du mode de vie sikh.</ParaText>
               <ParaText id="4636994">Le Canada est fier d'être le foyer de l'une des communautés sikhes les plus nombreuses hors de l'Inde, et l'attachement des sikhs aux valeurs que sont l'amour, la compassion et le dévouement pour l'humanité et la communauté se manifeste clairement tous les jours.</ParaText>
               <ParaText id="4636995">Par exemple, hier, la banque alimentaire Seva a réussi, conjointement avec CJMR Radio 1320, à recueillir plus de 115 000 $, ce qui contribuera à réduire l'insécurité alimentaire dans la région de Peel.</ParaText>
               <ParaText id="4636996">Un très heureux Gurpurab, et nos félicitations à...</ParaText>
@@ -1961,7 +1933,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4637008">Monsieur le Président, Abbey Thompson a créé l'activité Worthy Devotion 2015 dans le cadre de son projet de dernière année à l'école secondaire Chippewa à North Bay, en Ontario. Elle voulait créer quelque chose qui aurait des répercussions durables même lorsqu'elle aurait quitté l'école secondaire.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4637009">Le but ultime du programme est de fournir aux étudiantes de la 7<Sup>e</Sup> année à la 10<Sup>e</Sup> année de l'école secondaire Chippewa les outils nécessaires afin d'encourager une estime de soi saine.</ParaText>
+              <ParaText id="4637009">Le but ultime du programme est de fournir aux étudiantes de la 7<Sup>e</Sup> à la 10<Sup>e</Sup> année de l'école secondaire Chippewa les outils nécessaires afin d'encourager une estime de soi saine.</ParaText>
               <ParaText id="4637010">En partenariat avec les entreprises locales, les étudiantes ont la chance d'assister à des ateliers qui encouragent l'activité physique et l'alimentation saine et enseignent la légitime défense.</ParaText>
               <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2057,17 +2029,17 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9233042">
         <Timestamp Hr="14" Mn="15">(1415)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Opération Nez rouge</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'Opération Nez rouge</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Quach" id="9233043">
             <PersonSpeaking>
               <Affiliation DbId="214056" Type="2">Mme Anne Minh-Thu Quach (Salaberry—Suroît, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637035">Monsieur le Président, la 26<Sup>e</Sup> campagne d'Opération Nez rouge, à Salaberry-de-Valleyfield, est commencée. Cette année, l'objectif est de raccompagner 1 000 personnes.</ParaText>
+              <ParaText id="4637035">Monsieur le Président, la 26<Sup>e</Sup> campagne de l''Opération Nez rouge, à Salaberry-de-Valleyfield, est commencée. Cette année, l'objectif est de raccompagner 1 000 personnes.</ParaText>
               <ParaText id="4637036">Des centaines de bénévoles se réuniront entre le 25 novembre et le 31 décembre pour offrir de raccompagner les automobilistes qui auront fêté et consommé de l'alcool, et ce, au profit de la Fondation Tournesol. Cette dernière aide les familles qui ont un enfant atteint d'une maladie grave ou ayant un handicap majeur. </ParaText>
               <ParaText id="4637037">Cette année, la présidente d'honneur est Mme Marilyne Picard, cofondatrice du mouvement Parents jusqu'au bout et mère d'une fille de quatre ans, Dylane, atteinte de plusieurs maladies graves dès la naissance.</ParaText>
-              <ParaText id="4637038">Je tiens à souligner également le nouveau volet destiné aux jeunes, Party sans déraper, organisé par l'organisme Liberté de choisir, qui promeut de saines habitudes de vie et la prévention des dépendances. Rappelons-nous que les jeunes continuent à être les premières victimes d'accidents de la route au Québec. Plus du tiers des décès sont des jeunes de moins de 35 ans. </ParaText>
-              <ParaText id="4637039">J'encourage donc tous ceux qui veulent s'impliquer et aider à aller rencontrer les bénévoles de l'Opération Nez rouge ce samedi 19 novembre, de 16 heures à 19 heures, au 247, chemin Larocque, à Salaberry-de-Valleyfield.</ParaText>
+              <ParaText id="4637038">Je tiens à souligner également le nouveau volet destiné aux jeunes, Party sans déraper, organisé par l'organisme Liberté de choisir, qui promeut de saines habitudes de vie et la prévention des dépendances. Rappelons-nous que les jeunes continuent d'être les premières victimes d'accidents de la route au Québec. Plus du tiers des décès sont des jeunes de moins de 35 ans. </ParaText>
+              <ParaText id="4637039">J'encourage donc tous ceux qui veulent s'impliquer et fournir de l'aide à aller rencontrer les bénévoles de l'Opération Nez rouge ce samedi 19 novembre, de 16 heures à 19 heures, au 247, chemin Larocque, à Salaberry-de-Valleyfield.</ParaText>
               <ParaText id="4637040">Ensemble, sauvons des vies.</ParaText>
             </Content>
           </Intervention>
@@ -2248,7 +2220,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214330" Type="4">L’hon. Jean-Yves Duclos (ministre de la Famille, des Enfants et du Développement social, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4637077">Monsieur le Président, à nouveau, j'apprécie l'occasion d'en dire un peu plus long sur l'importance de la bonification du Régime de pensions du Canada pour les femmes. </ParaText>
-              <ParaText id="4637078">Nous savons que, malheureusement, elles vivent souvent seules une fois qu'elles sont à l'âge de la retraite. D'ailleurs, au cours des derniers mois, nous avons ramené à 65 ans l'âge d'admissibilité à la Sécurité de la vieillesse, ce qui va sortir de la pauvreté, ou du moins éviter à 100 000 aînés canadiens d'entrer dans la pauvreté. Une grande partie de ces aînés est composée de femmes, et 80 % des aînés qui vivent en situation de pauvreté sont des femmes qui vivent seules. </ParaText>
+              <ParaText id="4637078">Nous savons que, malheureusement, elles vivent souvent seules une fois qu'elles sont à l'âge de la retraite. D'ailleurs, au cours des derniers mois, nous avons ramené à 65 ans l'âge d'admissibilité à la Sécurité de la vieillesse, ce qui va sortir 100 000 aînés canadiens de la pauvreté, ou du moins leur éviter d'y entrer. Une grande partie de ces aînés est composée de femmes, et 80 % des aînés qui vivent en situation de pauvreté sont des femmes qui vivent seules. </ParaText>
               <ParaText id="4637079">C'est important, nous travaillons très fort...</ParaText>
             </Content>
           </Intervention>
@@ -2352,7 +2324,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4637103">Monsieur le Président, je suis tout à fait ravi de donner une réponse en anglais sur ce que nous faisons pour les Canadiens. L'Énoncé économique de l'automne révèle que nous investissons pour soutenir les familles canadiennes. Nous investissons dans les infrastructures. Nous investissons dans l'économie afin de créer des emplois.</ParaText>
-              <ParaText id="4637104"> Le monde et les Canadiens le savent. Même la directrice du FMI a dit espérer que le plan du Canada aura un effet contagieux. J'espère seulement que nos collègues d'en face s'en rendront compte.</ParaText>
+              <ParaText id="4637104"> Le monde et les Canadiens le savent. Même la directrice générale du FMI a dit espérer que le plan du Canada aura un effet contagieux. J'espère seulement que nos collègues d'en face s'en rendront compte.</ParaText>
               <ParaText id="4637105">C'est le plan dont les Canadiens ont besoin. C'est un plan de création d'emplois pour les Canadiens. C'est un plan pour les familles canadiennes, et nous allons continuer de le mettre en oeuvre.</ParaText>
               <ParaText id="4637106">
                 <B>Des voix:</B> Oh, oh!</ParaText>
@@ -2467,7 +2439,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214268" Type="2">M. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4637128">Monsieur le Président, c'est vraiment un bar ouvert pour les amis libéraux de Wall Street et de Bay Street.</ParaText>
-              <ParaText id="4637129">D'abord, on laisse à BlackRock le soin de mener la barque en ce qui a trait à la privatisation des infrastructures et de leurs revenus. Ensuite, on demande à Crédit suisse, une firme d'investissements qui achète des infrastructures, de nous dire si on devrait privatiser nos aéroports. Enfin, on apprend que Morgan Stanley, qui était impliqué dans la crise financière de 2008, conseille le gouvernement canadien afin qu'il décide s'il doit privatiser les ports. Même Stephen Harper n'a jamais osé aller aussi loin.</ParaText>
+              <ParaText id="4637129">D'abord, on laisse à BlackRock le soin de mener la barque en ce qui a trait à la privatisation des infrastructures et de leurs revenus. Ensuite, on demande à Credit Suisse, une firme d'investissements qui achète des infrastructures, de nous dire si on devrait privatiser nos aéroports. Enfin, on apprend que Morgan Stanley, qui était impliqué dans la crise financière de 2008, conseille le gouvernement canadien afin qu'il décide s'il doit privatiser les ports. Même Stephen Harper n'a jamais osé aller aussi loin.</ParaText>
               <ParaText id="4637130">Dans la plateforme électorale des libéraux, où se trouve la promesse de privatiser les infrastructures?</ParaText>
             </Content>
           </Intervention>
@@ -2650,7 +2622,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4637172">Monsieur le Président, je reprendrai sensiblement la question de mon collègue, mais en français. </ParaText>
-              <ParaText id="4637173">Comme vétéran, c'est désolant de voir le ministre utiliser le jour du Souvenir pour continuer sa campagne de relations publiques auprès de l'ONU. </ParaText>
+              <ParaText id="4637173">Pour un vétéran, c'est désolant de voir le ministre utiliser le jour du Souvenir pour continuer sa campagne de relations publiques auprès de l'ONU. </ParaText>
               <ParaText id="4637174">Au sujet de la mission en Irak, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, alors dans l'opposition, disait qu'il ne pouvait appuyer aucune mission tant que les arguments la justifiant n'avaient pas été exposés ouvertement. On attend toujours la présentation de cette justification pour la mission en Afrique. </ParaText>
               <ParaText id="4637175">Quand les libéraux vont-ils finalement être transparents et expliquer où nos soldats seront déployés, dans quel objectif et dans quelles conditions?</ParaText>
             </Content>
@@ -2877,7 +2849,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9233358">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'éducation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les sciences</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Robillard" id="9233356">
             <PersonSpeaking>
@@ -2942,8 +2914,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214145" Type="2">M. Rhéal Fortin (Rivière-du-Nord, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637239">Monsieur le Président, imaginons un contribuable incapable de faire ses versements hypothécaires, qui arrive à sa banque et se voit octroyer, en plus d'un congé de paiement, une généreuse augmentation de sa marge de crédit. Impossible? C'est pourtant ce que ce gouvernement est en train de faire avec Terre-Neuve-et-Labrador qui est en défaut de paiement à hauteur de 266 millions de dollars. Les libéraux étirent les délais et augmentent de 2,9 milliards de dollars la garantie de prêt de 6,4 milliards de dollars qui avait déjà été octroyée pour financer Muskrat Falls. </ParaText>
-              <ParaText id="4637240">Ce gouvernement peut-il enfin cesser d'utiliser l'argent des Québécois pour une concurrence déloyale à Hydro-Québec?</ParaText>
+              <ParaText id="4637239">Monsieur le Président, imaginons un contribuable incapable de faire ses versements hypothécaires, qui arrive à sa banque et se voit octroyer, en plus d'un congé de paiement, une généreuse augmentation de sa marge de crédit. Impossible? C'est pourtant ce que ce gouvernement est en train de faire avec Terre-Neuve-et-Labrador qui est en défaut de paiement à hauteur de 266 millions de dollars. Les libéraux étirent les délais et augmentent de 2,9 milliards de dollars la garantie de prêts de 6,4 milliards de dollars qui avait déjà été octroyée pour financer Muskrat Falls. </ParaText>
+              <ParaText id="4637240">Ce gouvernement peut-il enfin cesser d'utiliser l'argent des Québécois pour faire une concurrence déloyale à Hydro-Québec?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
@@ -3095,7 +3067,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637265">Le whip en chef du gouvernement a demandé s'il y avait consentement unanime pour que le vote du député du NPD en faveur de la motion soit compté. Y a-t-il consentement unanime?</ParaText>
+              <ParaText id="4637265">Le whip en chef du gouvernement a demandé s'il y avait consentement unanime pour que le vote des députés du NPD en faveur de la motion soit compté. Y a-t-il consentement unanime?</ParaText>
               <ParaText id="4637266">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4637267">
@@ -3131,7 +3103,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214665" Type="18">M. Arif Virani</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4637273">J'essaierai de profiter de ma troisième chance, monsieur le Président.</ParaText>
-              <ParaText id="4637274">J'étais à ma place lors du vote et je présente mes excuses pour l'avoir quitté par inadvertance après avoir voté. Compte tenu de la clémence qui semble régner à la Chambre aujourd'hui, je demanderais que mon vote soit compté au même titre que celui du député du NPD.</ParaText>
+              <ParaText id="4637274">J'étais à ma place lors du vote et je présente mes excuses pour l'avoir quittée par inadvertance après avoir voté. Compte tenu de la clémence qui semble régner à la Chambre aujourd'hui, je demanderais que mon vote soit compté au même titre que celui du député du NPD.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9233540">
@@ -3727,7 +3699,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4637387">
                 <B>Une voix:</B> Il impose une taxe sur le carbone.</ParaText>
               <ParaText id="4637388">
-                <B> L’hon. Michelle Rempel:</B> Une taxe sur le carbone, oui, monsieur le Président. C’est très utile à ce stade-ci. </ParaText>
+                <B> L’hon. Michelle Rempel:</B> Une taxe sur le carbone, oui, monsieur le Président, c’est très utile à ce stade-ci. </ParaText>
               <ParaText id="4637389"> Le gouvernement augmente les cotisations au RPC. Cela équivaut à une taxe sur la masse salariale. Dans le climat actuel des affaires, cela revient à obliger les petites entreprises à se demander: « Devrais-je conserver deux employés ou un seul? » Voilà ce que cela signifie.</ParaText>
               <ParaText id="4637390">Le gouvernement augmente les cotisations à l’assurance-emploi. </ParaText>
               <ParaText id="4637391"> C’est ce qu'il fait avec ce projet de loi. Ce n’est pas un plan. C’est une feuille de route de 200 pages qui indique comment gaspiller l’argent de mes concitoyens. Je ne peux pas appuyer cette mesure.</ParaText>
@@ -3849,14 +3821,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214564" Type="2">M. Charlie Angus</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637412">Sérieusement, monsieur le Président.</ParaText>
+              <ParaText id="4637412">Soyons sérieux, monsieur le Président.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme May (Saanich—Gulf Islands)" id="9234796">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637413">Monsieur le Président, je n'ai jamais chahuté à la Chambre, pas même une fois, et je n'ai jamais utilisé de propos non parlementaires, pas même une fois. Je comprends que le député s'est laissé emporter, mais je ne pardonne pas et je n'accepte pas non plus...</ParaText>
+              <ParaText id="4637413">Monsieur le Président, je n'ai jamais chahuté à la Chambre, pas même une fois, et je n'ai jamais utilisé de propos non parlementaires, pas même une fois. Je comprends que la députée s'est laissée emporter, mais je ne pardonne pas et je n'accepte pas non plus...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9234139">
@@ -3972,8 +3944,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214197" Type="2">M. Sukh Dhaliwal</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637463">Monsieur le Président, je peux certainement indiquer à la députée que tous les députés de la Colombie-Britannique, et je peux me porter garant du député de <Affiliation DbId="214266" Type="2">Steveston—Richmond-Est</Affiliation>, travaillent avec acharnement pour les aînés et les familles de Richmond.</ParaText>
-              <ParaText id="4637464"> Comme je l'ai mentionné plus tôt, c'est le gouvernement conservateur qui voulait repousser l'âge de la retraite de 65 à 67 ans. C'est le gouvernement libéral qui a ramené l'âge à 65 ans, et je suis très fier d'en faire partie. Je suis persuadé que la députée sera également fière quand, à son retour, elle parlera aux citoyens de sa région qui ont le plus besoin d'aide.</ParaText>
+              <ParaText id="4637463">Monsieur le Président, je peux certainement indiquer à la députée de <Affiliation DbId="214042" Type="2">Richmond Centre</Affiliation> que tous les députés de la Colombie-Britannique, et je peux me porter garant du député de <Affiliation DbId="214266" Type="2">Steveston—Richmond-Est</Affiliation>, travaillent avec acharnement pour les aînés et les familles de Richmond.</ParaText>
+              <ParaText id="4637464"> Comme je l'ai mentionné plus tôt, c'est le gouvernement conservateur qui voulait repousser l'âge de la retraite de 65 à 67 ans. C'est le gouvernement libéral qui a ramené l'âge à 65 ans, et je suis très fier d'en faire partie. Je suis persuadé que la députée sera également fière quand, à son retour en Colombie-Britannique, elle parlera aux citoyens de sa région qui ont le plus besoin d'aide.</ParaText>
               <ParaText id="4637465">Comme je l'ai mentionné dans mon discours, nous avons également augmenté le Supplément de revenu garanti de 947 $. Je suis certain que mon collègue de <Affiliation DbId="214266" Type="2">Steveston—Richmond-Est</Affiliation> sera d'accord pour dire que ce sera avantageux pour tous les aînés domiciliés à Richmond et dans ma circonscription, Surrey—Newton, comme partout ailleurs au Canada.</ParaText>
             </Content>
           </Intervention>
@@ -3993,7 +3965,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4637470">Monsieur le Président, j’aimerais d’abord remercier le député de la passion dont il fait montre à l'égard de l'aide aux familles de la classe moyenne. Il n’y a qu’un seul leader au Canada qui parlait de la classe moyenne il y a de nombreuses années, et c’est le député de Papineau, qui est maintenant le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>.</ParaText>
               <ParaText id="4637471">La première chose que nous avons faite quand nous sommes arrivés au pouvoir a été de réduire les impôts pour les familles à revenu faible et modeste, et nous avons augmenté les impôts pour les multimillionnaires, le fameux 1 %. D’autre part, nous pouvons parler des 125 milliards de dollars sur les 10 prochaines années pour l’infrastructure. Qui cela va-t-il aider? Directement ou indirectement, cela va créer des emplois bien rémunérés. Qui va en profiter le plus? Les Canadiens de la classe moyenne.</ParaText>
-              <ParaText id="4637472">Mon ami a mentionné la garde d’enfants. Je me revois à la Chambre quand un gouvernement libéral a introduit la prestation universelle pour la garde d’enfants partout au Canada. Ken Dryden était le ministre. Quel était le parti qui a fait tomber le gouvernement? C’était le parti du député qui a fait tomber le gouvernement, et cette prestation pour la garde d’enfants a été abolie à ce moment-là. Je peux dire que nous ramenons...</ParaText>
+              <ParaText id="4637472">Le député a mentionné la garde d’enfants. Je me rappelle quand un gouvernement libéral a introduit la prestation universelle pour la garde d’enfants partout au Canada. Ken Dryden était le ministre. Quel était le parti qui a fait tomber le gouvernement? C’était le parti du député qui a fait tomber le gouvernement, et cette prestation pour la garde universelle d’enfants a été abolie à ce moment-là. Je peux dire que nous ramenons...</ParaText>
               <ParaText id="4637473">
                 <B>Des voix: </B> Oh, oh!</ParaText>
             </Content>
@@ -4006,10 +3978,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4637474">Je rappelle aux députés qu’il est d’usage que tout le monde se calme lorsque la présidence intervient. C’est dans le livre que j’ai cité plus tôt.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4637475">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera lors de l'ajournement ce soir, à savoir: le député de <Affiliation DbId="214380" Type="2">Selkirk—Interlake—Eastman</Affiliation>, Les affaires étrangères; le député de <Affiliation DbId="214131" Type="2">Port Moody—Coquitlam</Affiliation>, Les pêches et les océans.</ParaText>
-              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4637476"> Nous reprenons le débat. Le député de Niagara-Centre a la parole.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Badawey" id="9234335">
             <PersonSpeaking>
               <Affiliation DbId="214368" Type="2">M. Vance Badawey (Niagara-Centre, Lib.)</Affiliation>: </PersonSpeaking>
@@ -4046,7 +4017,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214368" Type="2">M. Vance Badawey</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637495">Monsieur le Président, c’est quelque chose que nous sommes en train d’examiner. En tout respect, je peux vous revenir avec l’information dont nous disposons à l’heure actuelle et à propos de l’orientation que nous pourrions prendre en 2017.</ParaText>
+              <ParaText id="4637495">Monsieur le Président, c’est une chose que nous sommes en train d’examiner. En tout respect, je peux revenir avec l’information dont nous disposons à l’heure actuelle et à propos de l’orientation que nous pourrions prendre en 2017.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9234425">
@@ -4119,7 +4090,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4637525"> Le budget libéral comporte d’importantes lacunes. Où sont les engagements à aider les aînés qui peinent à joindre les deux bouts et à planifier leur retraite? Où sont les engagements à investir dans les soins à domicile? Où sont les engagements à réduire les frais de garde? Dans mon bureau de circonscription, nous aidons les familles à demander l'Allocation canadienne pour enfants. Il y a seulement une semaine, nous avons aidé une mère seule qui a de la difficulté à obtenir cette prestation parce qu'elle doit se conformer à des exigences très strictes pour prouver qu'elle et son conjoint sont séparés. Nombre de parents se plaignent du manque de places abordables en garderie. La nouvelle Allocation canadienne pour enfants ne contribue nullement à régler ces problèmes.</ParaText>
               <ParaText id="4637526">Il y a également des gens de ma circonscription qui ont été touchés par la débâcle du système de paie Phénix. On m’a souligné des cas d’étudiants qui n’avaient pas été payés convenablement pour leur emploi d’été, de femmes qui reprenaient le travail après un congé de maternité et dont le versement du salaire était interrompu. Ce sont des situations extrêmement stressantes, puisque la plupart des gens vivent d’un chèque de paie à l’autre et ne disposent tout simplement pas de réserves financières suffisantes pour attendre pendant des mois le versement de leur traitement. Ce sont quelques exemples de problèmes auxquels sont confrontés les électeurs de ma circonscription.</ParaText>
               <ParaText id="4637527"> Le Parti libéral a fait campagne en promettant un vrai changement. Le budget nous amène à nous interroger sur la signification de ce vrai changement ou, ce qui est plus inquiétant, sur les vrais bénéficiaires de ce prétendu changement.</ParaText>
-              <ParaText id="4637528"> Le 20 octobre dernier, nous avons appris que les libéraux avaient confié au Crédit Suisse, une firme d’investissement spécialisée dans les privatisations, le mandat de les conseiller sur les avantages de privatiser les aéroports canadiens. Selon toutes probabilités, le Crédit Suisse recommandera la privatisation. En plus de la question de l’augmentation des frais pour les Canadiens, la privatisation des aéroports soulève des préoccupations au sujet de la sécurité. Il pourrait y avoir des conséquences importantes pour les voyageurs, ainsi que pour la sécurité publique en général. Qu’est-ce qu’on va privatiser ensuite? Les postes frontaliers? </ParaText>
+              <ParaText id="4637528"> Le 20 octobre dernier, nous avons appris que les libéraux avaient confié à Credit Suisse, une firme d’investissement spécialisée dans les privatisations, le mandat de les conseiller sur les avantages de privatiser les aéroports canadiens. Selon toutes probabilités,  Credit Suisse recommandera la privatisation. En plus de la question de l’augmentation des frais pour les Canadiens, la privatisation des aéroports soulève des préoccupations au sujet de la sécurité. Il pourrait y avoir des conséquences importantes pour les voyageurs, ainsi que pour la sécurité publique en général. Qu’est-ce qu’on va privatiser ensuite? Les postes frontaliers? </ParaText>
               <ParaText id="4637529"> Je désire souligner quelques-unes des autres priorités de ma circonscription touchant l’infrastructure. La circonscription d’Essex est desservie par une compagnie de chemin de fer d’intérêt local appelée Essex Terminal Railway. Ce service est essentiel pour nous. L’industrie des chemins de fer d’intérêt local a présenté plusieurs demandes en prévision du budget de 2016, mais elle n’a pas été entendue. Manifestement, des investissements dans les chemins de fer d’intérêt local stimuleraient l’offre de services et les perspectives économiques régionales. Le budget est muet sur cette question. </ParaText>
               <ParaText id="4637530"> J’invite instamment le gouvernement à revoir en profondeur son projet de banque de l’infrastructure. Les privatisations ont de nombreux effets pervers, et je doute sérieusement que la banque proposée réponde aux intérêts de mes concitoyens et aux besoins de ma circonscription. Pour ces raisons, je voterai contre le projet de loi <Document DbId="8519336" Type="3">C-29</Document>.</ParaText>
             </Content>
@@ -4372,7 +4343,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214046" Type="2">M. Dan Ruimy</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4637644">Monsieur le Président, je remercie ma collègue de sa question. Je vais y répondre en anglais.</ParaText>
+              <ParaText id="4637644">Monsieur le Président, je remercie ma collègue de sa question.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4637645">Lorsqu'il est question de l'Allocation canadienne pour enfants, la tentation de s'arrêter à des détails semble forte. Nous devons plutôt nous attarder à ses effets réels. Dans ma circonscription, des électeurs de la classe moyenne croyaient lors des consultations prébudgétaires qu'ils ne profiteraient pas de cette mesure. Lorsqu'ils me téléphonent pour me dire qu'ils obtiennent 2 500 $ supplémentaires, c'est ce que j'appelle un véritable changement. C'est l'orientation que nous voulons faire prendre au gouvernement et au pays. Nous permettons aux contribuables d'avoir plus d'argent dans leurs poches, voilà le message que nous devons continuer à faire passer.</ParaText>
             </Content>
@@ -4428,7 +4399,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4637663">
                 <B>Des voix:</B> Non.</ParaText>
               <ParaText id="4637664">[<I>La présidence donne lecture du sous-amendement.</I>]</ParaText>
-              <ParaText id="4637665">Le vote porte sur le sous-amendement. Plaît-il à la Chambre d’adopter le sous-amendement?</ParaText>
+              <ParaText id="4637665">Plaît-il à la Chambre d’adopter le sous-amendement?</ParaText>
               <ParaText id="4637666">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4637667">
@@ -5870,7 +5841,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ProceduralText TocType="TPC" id="13">Rejet du sous-amendement</ProceduralText>
               <ParaText id="4637707">Je déclare le sous-amendement rejeté.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4637708">Je tiens à informer la Chambre qu'en raison du retard, il n'y aura pas d'heure réservée aux initiatives parlementaires aujourd'hui. Par conséquent, l'article est reporté à une séance ultérieure.</ParaText>
+              <ParaText id="4637708">Je tiens à informer la Chambre qu'en raison du retard il n'y aura pas d'heure réservée aux initiatives parlementaires aujourd'hui. Par conséquent, l'article est reporté à une séance ultérieure.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9312256">
-  <StartPageNumber>7921</StartPageNumber>
+  <StartPageNumber>7919</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -215,7 +197,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4705763">Nous reprenons le débat. Puisqu’il n’y a pas d’intervenants, je donne au député d’Edmonton-Ouest le droit de répondre pendant cinq minutes. </ParaText>
+              <ParaText id="4705763">Nous reprenons le débat. </ParaText>
+              <ParaText id="4705763">Puisqu’il n’y a pas d’intervenants, je donne au député d’Edmonton-Ouest le droit de répondre pendant cinq minutes. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. McCauley" id="9312372">
@@ -281,11 +264,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9312412">
-        <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TCC" TocText="Reprise de la séance à midi" id="4">(La séance reprend à 12 heures.)</ProceduralText>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="9312415" Rubric="Other">
       <OrderOfBusinessTitle>INITIATIVES MINISTÉRIELLES</OrderOfBusinessTitle>
@@ -295,9 +273,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>L'Accord économique et commercial global</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="5">Projet de loi C-30. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="4">Projet de loi C-30. Deuxième lecture</ProceduralText>
           <ParaText id="4705788">
-        La Chambre reprend l'étude, interrompue le 9 décembre, de la motion portant que le projet de loi <Document DbId="8549249" Type="3">C-30, Loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne et ses États membres et comportant d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité; et de la motion portant que la question soit maintenant mise aux voix.</ParaText>
+        La Chambre reprend l'étude, interrompue le 9 décembre, de la motion portant que le projet de loi <Document DbId="8549249" Type="3">C-30, Loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne et ses États membres et comportant d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité, et de la motion voulant que cette question soit maintenant mise aux voix.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9312417">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
@@ -309,7 +287,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214344" Type="2">Mme Irene Mathyssen (London—Fanshawe, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4705790">Monsieur le Président, ma question pour le député concerne la consultation publique. Je sais qu'il en a beaucoup parlé, mais j'aimerais qu'il précise pourquoi elle est importante. Est-elle essentielle à la réussite de l'accord commercial?</ParaText>
+              <ParaText id="4705790">Monsieur le Président, la question que j'adresse au député concerne la consultation publique. Je sais qu'il en a beaucoup parlé, mais j'aimerais qu'il précise pourquoi elle est importante. Est-elle essentielle à la réussite de l'accord commercial?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Stewart" id="9312420">
@@ -780,7 +758,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706015">Je serais aussi très heureux si le Canada était le premier pays du monde à tenir des négociations commerciales au sein d'instances multilatérales en vue de négocier des accords qui viseraient d'abord à protéger les normes du travail, les droits de la personne, l'environnement et l'eau pour ensuite chercher à véritablement lever les obstacles inutiles au commerce.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9312566">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9312566">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -831,11 +809,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706029">Avant que nous poursuivions, je sais qu'il est facile pour les députés de s'échapper en s'adressant directement à la personne dont ils parlent ou à laquelle ils posent une question lorsque celle-ci se trouve à côté d'eux. Cela s'est produit ce matin. Je rappelle aux députés qu'ils doivent s'adresser à la présidence et non directement à leurs collègues, peu importe la distance qui les sépare.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9312577">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9312577">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706030">Monsieur le Président, je lève mon chapeau à mon collègue, le député d'<Affiliation DbId="213909" Type="2">Esquimalt—Saanich—Sooke</Affiliation>. J'appuie ses observations et je remercie tous ceux qui l'appuient de leur travail.</ParaText>
+              <ParaText id="4706030">Monsieur le Président, je lève mon chapeau à mon collègue le député d'<Affiliation DbId="213909" Type="2">Esquimalt—Saanich—Sooke</Affiliation>. J'appuie ses observations et je remercie tous ceux qui l'appuient de leur travail.</ParaText>
               <ParaText id="4706031">Je suis particulièrement reconnaissante envers ma famille, notamment envers mon frère. Maintenant qu'il fait -40 avec le refroidissement éolien en Alberta, il a eu l'amabilité de mettre mon véhicule dans le garage. Je remercie donc Peter Duncan.</ParaText>
               <ParaText id="4706032">Je tiens également à remercier tous ceux qui m'appuient dans mon travail et, franchement, tous les députés, qui font chaque jour un travail incroyable pour le public.</ParaText>
               <ParaText id="4706033">Comme l'ont dit à répétition mes collègues du NPD, notre parti est en faveur des accords commerciaux internationaux qui sont équitables et réciproques. Depuis que je suis à la Chambre, nous en avons appuyé plusieurs qui réunissaient ces conditions. L'ancien gouvernement avait la signature facile lorsqu'il s'agissait de signer de soi-disant accords de libre-échange. Le gouvernement actuel a promis de meilleurs accords, mais s'est contenté de signer l'accord avec l'Europe négocié par les conservateurs, en dépit des préoccupations exprimées par de nombreux Canadiens.</ParaText>
@@ -871,7 +849,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan (Edmonton Strathcona)" id="9312584">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9312584">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
@@ -889,7 +867,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706059">La députée convient-elle que les peuples autochtones auraient dû être consultés lorsque la mesure législative a été rédigée, puisque le gouvernement actuel avait promis des relations de nation à nation et une réconciliation avec les peuples autochtones?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan (Edmonton Strathcona)" id="9312590">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9312590">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
@@ -908,7 +886,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan (Edmonton Strathcona)" id="9312597">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9312597">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1005,7 +983,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9312620">
-        <SubjectOfBusinessTitle>La circonscription de Toronto—Danforth</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Toronto—Danforth</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Dabrusin" id="9312621">
             <PersonSpeaking>
@@ -1016,7 +994,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706094">Le centre Lippert enseigne la musique aux enfants de la collectivité depuis 1957. Joseph John Lippert, le fondateur de l'école, nous a quittés cette année, mais son héritage musical demeure bien vivant.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4706095">Une caractéristique de la saison est le concert <I>Riverdale Share</I> qui a eu lieu au Danforth Music Hall. En rassemblant des musiciens et des artistes talentueux, le concert recueille des fonds pour les organisations communautaires locales. </ParaText>
-              <ParaText id="4706096">Merci au maître de cérémonie Michael Tanner et à tous les bénévoles qui nous ont offert cet événement merveilleux. </ParaText>
+              <ParaText id="4706096">Je remercie le maître de cérémonie Michael Tanner et tous les bénévoles qui nous ont offert cet événement merveilleux. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1028,7 +1006,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214056" Type="2">Mme Anne Minh-Thu Quach (Salaberry—Suroît, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706097">Monsieur le Président, le 16 novembre dernier, nous avons célébré les 10 ans d'un organisme cher aux habitants de Soulanges, la coopérative de solidarité du Suroît. La Coop-CSUR est une initiative citoyenne fondée en 2006 par Benoit Guichard, Guy Guénette, Lise Couët et Norman Molhant. Grâce à une mobilisation citoyenne hors du commun, ils ont fourni aux habitants de Très-Saint-Rédempteur et des municipalités voisines un service Internet de qualité.</ParaText>
+              <ParaText id="4706097">Monsieur le Président, le 16 novembre dernier, nous avons célébré les 10 ans d'un organisme cher aux habitants de Soulanges, la Coopérative de solidarité du Suroît. La Coop-CSUR est une initiative citoyenne fondée en 2006 par Benoit Guichard, Guy Guénette, Lise Couët et Norman Molhant. Grâce à une mobilisation citoyenne hors du commun, ils ont fourni aux habitants de Très-Saint-Rédempteur et des municipalités voisines un service Internet de qualité.</ParaText>
               <ParaText id="4706098">La Coop-CSUR a ajouté des cordes à son arc en mettant en place Csur la télé et en développant un service de téléphonie. Prônant un mode de vie écologique et solidaire, la coopérative a créé un marché écolocal à Rigaud pour permettre aux habitants du Suroît de consommer des produits locaux. Un point de chute a été ajouté à La Factrie de Salaberry-de-Valleyfield récemment. </ParaText>
               <ParaText id="4706099">À force de vision et de détermination, la Coop-CSUR compte désormais 1 120 membres, 14 tours de communication à Vaudreuil-Soulanges et à l'est de l'Ontario et 60 kilomètres de fibres optiques. </ParaText>
               <ParaText id="4706100">La Coop-CSUR est pour moi un excellent exemple de la force des citoyens. Longue vie à la coop!</ParaText>
@@ -1110,7 +1088,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214167" Type="2">L’hon. Andrew Leslie (Orléans, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706112">Monsieur le Président, c'est avec une profonde tristesse que je prends la parole pour honorer la mémoire de mon ami et mentor, le lieutenant-général à la retraite, Charles-Henri Belzile, qui est décédé le 5 décembre.</ParaText>
+              <ParaText id="4706112">Monsieur le Président, c'est avec une profonde tristesse que je prends la parole pour honorer la mémoire de mon ami et mentor, le lieutenant-général à la retraite Charles-Henri Belzile, qui est décédé le 5 décembre.</ParaText>
               <ParaText id="4706113">Charlie a servi notre pays, chez nous et à l'étranger, pendant 35 ans comme un homme, un leader et un fantassin. Il a fini sa carrière comme commandant de l'armée canadienne pendant cinq ans.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4706114">Après son départ à la retraite, il s’est consacré entièrement à aider les anciens combattants et d’autres, et a reçu l’Ordre du Canada pour les excellents services qu’il a rendus.</ParaText>
@@ -1133,7 +1111,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4706118">Monsieur le Président, le port de Québec est le port en eau profonde situé le plus loin à l'intérieur de l'Amérique du Nord et, surtout, celui qui donne les meilleurs accès directs aux chemins de fer et aux marchés du coeur du continent. </ParaText>
               <ParaText id="4706119">Ce port en eau profonde bénéficie d'un tirant d'eau de 15 mètres à marée basse, ce qui lui permet d'accueillir des navires de haute mer, qui ne peuvent naviguer plus loin que la ville de Québec. Cette réalité suscite certainement l'envie. </ParaText>
-              <ParaText id="4706120">Le projet Beauport 2020 apportera au port des revenus supplémentaires, nécessaires pour rénover plusieurs de ses installations actuelles. Si de telles rénovations n'étaient pas apportées dans les plus brefs délais, la pérennité du port à long terme serait menacée ni plus ni moins. De plus, ce projet de doubler les quais rendra le port davantage compétitif vis-à-vis de ses compétiteurs directs de la côte Est américaine. Ceux-ci ont d'ailleurs bénéficié dernièrement d'investissements étatiques massifs. </ParaText>
+              <ParaText id="4706120">Le projet Beauport 2020 apportera au port des revenus supplémentaires, nécessaires pour rénover plusieurs de ses installations actuelles. Si de telles rénovations n'étaient pas apportées dans les plus brefs délais, la pérennité du port à long terme serait menacée ni plus ni moins. De plus, le projet de doubler les quais rendra le port davantage compétitif vis-à-vis de ses compétiteurs directs de la côte Est américaine. Ceux-ci ont d'ailleurs bénéficié dernièrement d'investissements étatiques massifs. </ParaText>
               <ParaText id="4706121">Les divers projets du port de Québec vont non seulement contribuer de manière significative à l'économie de notre région, mais ils vont aussi apporter une importante touche de revitalisation à la Vieille Capitale. </ParaText>
             </Content>
           </Intervention>
@@ -1223,32 +1201,46 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4706138">Monsieur le Président, </ParaText>
               <ParaText id="4706139">
-                <CommitteeQuote>
-                  <QuotePara Align="Left">À l'approche de Noël, les libéraux sans cesse claironnent,</QuotePara>
-                  <QuotePara Align="Left">au Canada, l'arrivée de la taxe sur le carbone;</QuotePara>
-                  <QuotePara Align="Left">Les familles et les industries protestent à l'unisson,</QuotePara>
-                  <QuotePara Align="Left">Sachant que la menace de la taxe plane à l'horizon;</QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara Align="Left">Les pertes d'emplois et le chômage, aux taux exponentiels,</QuotePara>
-                  <QuotePara Align="Left">N'arrêtent nullement les libéraux, qui font fi du réel;</QuotePara>
-                  <QuotePara Align="Left">Harper ayant quitté, qui diable pourront-ils blâmer, </QuotePara>
-                  <QuotePara Align="Left">Lorsque les taxes et dépenses le pays auront ruiné? </QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara Align="Left">Sièges à l'ONU? Égoportraits? Bien sûr, le premier ministre en veut,</QuotePara>
-                  <QuotePara Align="Left">Mais des emplois payants du secteur énergétique, il se soucie peu;</QuotePara>
-                  <QuotePara Align="Left">Le surplus dont ils ont hérité, parti au diable vauvert!</QuotePara>
-                  <QuotePara Align="Left">Dans les circonscriptions des libéraux poussent sans doute moult billets verts;</QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara>Pour sûr, éponger le déficit ne se fera pas aisément,</QuotePara>
-                  <QuotePara Align="Left">Et dans les poches des Canadiens ils iront piger avant longtemps;</QuotePara>
-                  <QuotePara Align="Left">Que voulez-vous, dettes et hausses d'impôts sont la tactique des libéraux,</QuotePara>
-                  <QuotePara Align="Left">Mais n'ayez crainte, aux électeurs reviendra un jour le dernier mot;</QuotePara>
-                  <QuotePara Align="Left" />
-                  <QuotePara Align="Left">D'une pierre blanche il faudra marquer les élections de 2019, </QuotePara>
-                  <QuotePara Align="Left">Plus possible pour les libéraux de compter sur le minois du chef;</QuotePara>
-                  <QuotePara Align="Left">Haut et fort, les acclamations des conservateurs retentiront,</QuotePara>
-                  <QuotePara Align="Left">Alors qu'autour d'une bonne bière se dérouleront les célébrations.</QuotePara>
-                </CommitteeQuote>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>À l'approche de Noël, les libéraux sans cesse claironnent,</Line>
+                    <Line>au Canada, l'arrivée de la taxe sur le carbone;</Line>
+                    <Line>Les familles et les industries protestent à l'unisson,</Line>
+                    <Line>Sachant que la menace de la taxe plane à l'horizon;</Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>Les pertes d'emplois et le chômage, aux taux exponentiels,</Line>
+                    <Line>N'arrêtent nullement les libéraux, qui font fi du réel;</Line>
+                    <Line>Harper ayant quitté, qui diable pourront-ils blâmer, </Line>
+                    <Line>Lorsque les taxes et dépenses le pays auront ruiné? </Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>Sièges à l'ONU? Égoportraits? Bien sûr, le premier ministre en veut,</Line>
+                    <Line>Mais des emplois payants du secteur énergétique, il se soucie peu;</Line>
+                    <Line>Le surplus dont ils ont hérité, parti au diable vauvert!</Line>
+                    <Line>Dans les circonscriptions des libéraux poussent sans doute moult billets verts;</Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>Pour sûr, éponger le déficit ne se fera pas aisément,</Line>
+                    <Line>Et dans les poches des Canadiens ils iront piger avant longtemps;</Line>
+                    <Line>Que voulez-vous, dettes et hausses d'impôts sont la tactique des libéraux,</Line>
+                    <Line>Mais n'ayez crainte, aux électeurs reviendra un jour le dernier mot;</Line>
+                  </Verse>
+                </Poetry>
+                <Poetry OriginalReceived="True">
+                  <Verse>
+                    <Line>D'une pierre blanche il faudra marquer les élections de 2019, </Line>
+                    <Line>Plus possible pour les libéraux de compter sur le minois du chef;</Line>
+                    <Line>Haut et fort, les acclamations des conservateurs retentiront,</Line>
+                    <Line>Alors qu'autour d'une bonne bière se dérouleront les célébrations.</Line>
+                  </Verse>
+                </Poetry>
               </ParaText>
             </Content>
           </Intervention>
@@ -1331,7 +1323,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9312703">
+          <Intervention Type="Interjection" ToC="No" id="9312703">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1399,8 +1391,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213883" Type="2">Mme Ruth Ellen Brosseau (Berthier—Maskinongé, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706174">Monsieur le Président, la raison pour laquelle le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a écrit des règles interdisant l'accès préférentiel, c'est parce que cela ressemble à de la corruption. C'est aussi la raison pour laquelle ce gouvernement a nié que des affaires gouvernementales ont été discutées lors de ces événements super exclusifs. </ParaText>
-              <ParaText id="4706175">Eh bien, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> vient de bel et bien confirmer que non seulement des affaires gouvernementales ont été discutées, mais que c'est lui qui juge si c'est approprié, oui ou non. </ParaText>
+              <ParaText id="4706174">Monsieur le Président, la raison pour laquelle le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a écrit des règles interdisant l'accès préférentiel, c'est que cela ressemble à de la corruption. C'est aussi la raison pour laquelle ce gouvernement a nié que des affaires gouvernementales ont été discutées lors de ces événements super exclusifs. </ParaText>
+              <ParaText id="4706175">Eh bien, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> vient bel et bien de  confirmer que non seulement des affaires gouvernementales ont été discutées, mais que c'est lui qui juge si c'est approprié ou non. </ParaText>
               <ParaText id="4706176">Le gouvernement libéral pense-t-il vraiment sincèrement que les Canadiens ne voient pas qu'il est pris dans une tonne de conflits d'intérêts?</ParaText>
             </Content>
           </Intervention>
@@ -1409,7 +1401,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706177">Monsieur le Président, comme les Canadiens l'ont demandé, nous avons entrepris des consultation publique à un niveau jamais vu auparavant, afin de répondre aux vrais défis auxquels les Canadiens font face. Les règles régissant les collectes de fonds sont parmi les plus strictes au pays et notre parti suit les règles. Le directeur général des élections a déclaré que les lois canadiennes de financement politique sont les plus avancées, transparentes et contraignantes au monde. </ParaText>
+              <ParaText id="4706177">Monsieur le Président, comme les Canadiens l'ont demandé, nous avons entrepris des consultation publiques à un niveau jamais vu auparavant, afin de répondre aux vrais défis auxquels les Canadiens font face. Les règles régissant les collectes de fonds sont parmi les plus strictes au pays et notre parti suit les règles. Le directeur général des élections a déclaré que les lois canadiennes de financement politique sont les plus avancées, transparentes et contraignantes au monde. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1603,13 +1595,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9312911">
         <Timestamp Hr="14" Mn="35">(1435)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La protection des consommateurs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Caron" id="9312775">
             <PersonSpeaking>
               <Affiliation DbId="214268" Type="2">M. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706226">Monsieur le Président, avant que le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> ne décide de jouer au père Noël pour les banques, il n'y avait pas de problème. La Cour suprême avait établi que la Loi sur la protection du consommateur, au Québec, s'appliquait pour les clients des banques.</ParaText>
+              <ParaText id="4706226">Monsieur le Président, avant que le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> ne décide de jouer au père Noël pour les banques, il n'y avait pas de problème. La Cour suprême avait établi que la Loi sur la protection du consommateur, au Québec, s'appliquait aux clients des banques.</ParaText>
               <ParaText id="4706227">Avec le projet de loi <Document DbId="8519336" Type="3">C-29</Document>, les libéraux créent un problème là où il n'y en avait pas. En créant un conflit avec la législation québécoise, le ministre essaie de s'arroger une compétence qu'il n'avait pas, et ce n'est pas en donnant un chèque en blanc avec une pseudo-suspension qu'il va régler la situation et amadouer les consommateurs. Une loi, cela passe ou cela ne passe pas.</ParaText>
               <ParaText id="4706228">Pourquoi le ministre joue-t-il à la politique constitutionnelle sur le dos des consommateurs québécois?</ParaText>
             </Content>
@@ -1856,7 +1848,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214330" Type="4">L’hon. Jean-Yves Duclos (ministre de la Famille, des Enfants et du Développement social, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706275">Monsieur le Président, je remercie en particulier ma collègue de me donner la chance de rappeler à quel point il est important d'appuyer les familles et les enfants, entre autres ceux qui vivent dans la classe moyenne. Nous l'avons fait dès le budget de 2016 parce que nous savons qu'il est important que le gouvernement canadien se réengage en appui aux besoins d'apprentissage et de garde de nos familles.</ParaText>
-              <ParaText id="4706276">Nous avons annoncé un investissement de 500 millions de dollars. J'ai bien hâte de continuer à travailler avec les provinces et territoires pour mettre en place ce plan rapidement au profit de nos familles et de nos enfants. </ParaText>
+              <ParaText id="4706276">Nous avons annoncé un investissement de 500 millions de dollars. J'ai bien hâte de continuer à travailler avec les provinces et les territoires pour mettre en place ce plan rapidement au profit de nos familles et de nos enfants. </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
@@ -1887,7 +1879,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214290" Type="2">M. Scott Reid (Lanark—Frontenac—Kingston, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706281">Monsieur le Président, j'ai une autre question concernant les protocoles propriétaires opaques utilisés par Vox Pop Labs.</ParaText>
-              <ParaText id="4706282">Le PDG de l'entreprise a affirmé ce qui suit dans une entrevue: « [...] quand on constate qu'un même utilisateur a fournit plusieurs [réponses], on conserve la première série de réponses. » Dans le cas de MaDémocratie.ca, la ministre pourrait-elle dire à la Chambre si les deuxièmes et troisièmes réponses provenant d'une même adresse IP seront rejetées? Va-t-elle rendre public le nombre total de réponses multiples provenant d'une seule adresse IP, nous dire si elles ont été acceptées ou rejetées et nous expliquer pour quelles raisons?</ParaText>
+              <ParaText id="4706282">Le PDG de l'entreprise a affirmé ce qui suit dans une entrevue: « quand on constate qu'un même utilisateur a fournit plusieurs [réponses], on conserve la première série de réponses. » Dans le cas de MaDémocratie.ca, la ministre pourrait-elle dire à la Chambre si les deuxièmes et troisièmes réponses provenant d'une même adresse IP seront rejetées? Va-t-elle rendre public le nombre total de réponses multiples provenant d'une seule adresse IP, nous dire si elles ont été acceptées ou rejetées et nous expliquer pour quelles raisons?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Monsef" id="9312847">
@@ -1916,7 +1908,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706288">Le comité, tout comme nous, est d'avis que nous devons entendre bien d'autres voix encore à propos des valeurs qui, selon les Canadiens, devraient être au coeur de la réforme électorale. C'est ce à quoi nous nous employons. Nous invitons tous les Canadiens à visiter MaDémocratie.ca. Nous remercions les dizaines de milliers de personnes qui ont jugé que notre approche est la bonne et qui ont déjà participé. Avant de présenter un projet de loi, nous voulons entendre beaucoup d'autres voix.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller (Bruce—Grey—Owen Sound)" id="9312857">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller  (Bruce—Grey—Owen Sound)" id="9312857">
             <PersonSpeaking>
               <Affiliation DbId="214417" Type="2">M. Larry Miller (Bruce—Grey—Owen Sound, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2047,7 +2039,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9312890">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les relations intergouvernementales</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les intérêts du Québec</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Thériault" id="9312889">
             <PersonSpeaking>
@@ -2061,7 +2053,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214333" Type="4">L’hon. Marc Garneau (ministre des Transports, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706317">Monsieur le Président, je rappelle que nous sommes 40 députés du Québec et que nous sommes ici pour défendre le Québec. Je commence: le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, six ministres fédéraux et 33 députés travaillent avec acharnement pour les intérêts du Québec. Nous sommes ici pour défendre es intérêts du Québec et nous allons continuer à le faire.</ParaText>
+              <ParaText id="4706317">Monsieur le Président, je rappelle que nous sommes 40 députés du Québec et que nous sommes ici pour défendre le Québec. Je commence: le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, six ministres fédéraux et 33 députés travaillent avec acharnement pour les intérêts du Québec. Nous sommes ici pour défendre les intérêts du Québec et nous allons continuer à le faire.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2098,7 +2090,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4706325">Monsieur le Président, c'est une rhétorique. Toutefois, la réalité est très simple. Dans l'arrêt Marcotte, la Cour suprême nous a demandé de clarifier le régime. </ParaText>
+              <ParaText id="4706325">Monsieur le Président, c'est une rhétorique. Toutefois, la réalité est très simple. Dans l'arrêt dans l'affaire Marcotte, la Cour suprême nous a demandé de clarifier le régime. </ParaText>
               <ParaText id="4706326">Je suis sûr que mon collègue de circonscription serait d'accord pour dire que les services bancaires de base devraient être accessibles à tous les Canadiens. </ParaText>
               <ParaText id="4706327">La divulgation devrait permettre aux clients d'une institution et aux membres du public en général de prendre des décisions financières éclairées; je suis sûr que mon collègue est d'accord. </ParaText>
               <ParaText id="4706328">Les clients d'une institution et les membres du grand public devraient être traités de manière équitable; je suis sûr que mon collègue est d'accord. </ParaText>
@@ -2117,20 +2109,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706330">Je voudrais signaler aux députés la présence à la tribune de M. Jacques Chagnon, président de l'Assemblée nationale du Québec.</ParaText>
               <ParaText id="4706331">
                 <B>Des voix:</B> Bravo!</ParaText>
-              <ParaText id="4706332">
-                <B>Le Président:</B> Cela conclut la période prévue pour les questions orales. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="9312908" Rubric="PointofOrder">
-      <CatchLine />
       <SubjectOfBusiness id="9312909">
         <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Questions au Feuilleton </SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les Questions au Feuilleton </SubjectOfBusinessQualifier>
         <CatchLine>Recours au Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Poilievre" id="9312910">
@@ -2153,7 +2140,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706342">Je pourrais poursuivre... </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9312913">
+          <Intervention Type="Interjection" ToC="No" id="9312913">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2170,7 +2157,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4706347">Or, le gouvernement n'a pas répondu. Il vous incombe donc, monsieur le Président, en raison de vos fonctions, de veiller à ce que le Règlement soit respecté, à ce que des réponses soient fournies aux questions et à ce que les Canadiens soient informés de tous les faits avant d'avoir à assumer les coûts que le gouvernement leur imposera.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9312916">
+          <Intervention Type="Interjection" ToC="No" id="9312916">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2193,9 +2180,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214328" Type="4">L’hon. Jane Philpott (ministre de la Santé, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="6">Projet de loi C-37. Présentation et première lecture</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Projet de loi C-37. Présentation et première lecture</ProceduralText>
               <ParaText id="4706349"> demande à présenter le projet de loi <Document DbId="8689350" Type="3">C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois</Document>.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="7">(Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="6">(Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2231,7 +2218,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9312974">
         <SubjectOfBusinessQualifier>Santé</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Casey (Cumberland—Colchester)" id="9312928">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Casey  (Cumberland—Colchester)" id="9312928">
             <PersonSpeaking>
               <Affiliation DbId="214260" Type="2">M. Bill Casey (Cumberland—Colchester, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2286,7 +2273,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9313253">
         <SubjectOfBusinessQualifier>Les nageoires de requin</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9312938">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9312938">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2352,7 +2339,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213926" Type="2">M. Mark Warawa (Langley—Aldergrove, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706368">Monsieur le Président, la deuxième pétition porte sur la conduite avec facultés affaiblies. Families for Justice est un groupe de Canadiens dont l'un des proches a été tué par un conducteur aux facultés affaiblies. Ses membres estiment que les lois canadiennes en matière de conduite avec facultés affaiblies sont beaucoup trop clémentes. Ils veulent que l'on appelle les choses par leur nom: cet acte criminel est un homicide commis au volant d'un véhicule automobile. Les pétitionnaires réclament des peines obligatoires pour l'homicide commis au volant d'un véhicule automobile. </ParaText>
-              <ParaText id="4706369">Ils demandent aussi au Parlement d'appuyer les projets de loi <Document DbId="8102913" Type="4">C-226</Document> et <Document DbId="8118649" Type="4">C-247</Document>, la loi de Cassandra.</ParaText>
+              <ParaText id="4706369">Ils demandent aussi au Parlement d'appuyer les projets de loi <Document DbId="8102913" Type="4">C-226</Document> et <Document DbId="8118649" Type="4">C-247</Document>, la loi de Kassandra.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2566,7 +2553,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
         <SubjectOfBusinessQualifier>L'emploi en Alberta</SubjectOfBusinessQualifier>
         <CatchLine>Article 52 du Règlement</CatchLine>
         <SubjectOfBusinessContent>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Stanton" id="9313345">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Stanton" id="9313345">
             <PersonSpeaking>
               <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2583,7 +2570,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
               <ParaText id="4706407"> Le gouvernement a un rôle essentiel à jouer. Il faut qu’il intervienne. Je vous demande de nous accorder ce débat pour que nous ayons la possibilité d'enfin discuter des mesures à prendre face à la crise de l'emploi en Alberta.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText=" Le vice-président " id="9313541">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Stanton" id="9313541">
             <PersonSpeaking>
               <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2596,16 +2583,12 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
     <OrderOfBusiness id="9312961" Rubric="Other">
       <OrderOfBusinessTitle>INITIATIVES MINISTÉRIELLES</OrderOfBusinessTitle>
       <CatchLine>Initiatives ministérielles</CatchLine>
-      <SubjectOfBusiness id="9312962">
-        <SubjectOfBusinessTitle>L'Accord économique et commercial global</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
       <SubjectOfBusiness id="9313144">
         <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="8">Projet de loi C-30. Deuxième lecture.</ProceduralText>
-          <ParaText id="4706409">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="8549249" Type="3">C-30, Loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne et ses États membres et comportant d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
+          <ProceduralText TocType="TPC" id="7">Projet de loi C-30. Deuxième lecture.</ProceduralText>
+          <ParaText id="4706409">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="8549249" Type="3">C-30, Loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne et ses États membres et comportant d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité, et de la motion voulant que cette question soit maintenant mise aux voix.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9312963">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
@@ -2633,7 +2616,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
           </Intervention>
           <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9312971">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9312971">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2823,7 +2806,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9313620">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9313620">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2863,7 +2846,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
               <ParaText id="4706533">La députée aurait-elle des réflexions à nous faire sur le temps qu'il faudrait prendre pour étudier les dispositions investisseur-État et les craintes très clairement exprimées par l'Association canadienne du droit de l'environnement concernant la dégradation de l'environnement? Évidemment, la question des producteurs laitiers canadiens et des gens qui produisent les bons aliments dont nous avons besoin se pose également. Pouvons-nous tenir compte d'eux? Pouvons-nous ralentir? Devrions-nous le faire?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme May (Saanich—Gulf Islands)" id="9313809">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme May  (Saanich—Gulf Islands)" id="9313809">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2881,7 +2864,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
               <ParaText id="4706539">Je me demande qui, selon la députée, exerce toutes ces pressions. Si ce sont les dispositions sur le règlement des différends entre investisseurs et États qui risquent de faire échouer l'Accord en Europe, qui tente de les faire adopter? Si c'est le gouvernement du Canada, pourquoi est-il prêt à mettre en péril le reste de l'Accord simplement pour conserver ces dispositions? Il y a assurément très peu de gouvernements en Europe qui souhaitent les faire adopter. En fait, la résistance de la population européenne au sujet de l'Accord est liée à ces dispositions. Qui les défend et pourquoi est-il si crucial de les conserver si elles compromettent tout ce que les libéraux et les conservateurs considèrent positif dans l'Accord?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme May (Saanich—Gulf Islands)" id="9313846">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme May  (Saanich—Gulf Islands)" id="9313846">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2915,7 +2898,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
               <ParaText id="4706558"> Les conservateurs comme les libéraux ont montré qu’ils ne sont pas à la hauteur de la tâche. Malgré un changement de gouvernement, nous ne voyons pas encore de changement d’approche. Nous avons vu la même chose quand David Emerson est passé de ministre du Commerce international libéral à ministre du Commerce international de Stephen Harper, et nous l’avons vu également quand l’actuelle <Affiliation DbId="214326" Type="4">ministre du Commerce international</Affiliation> a embrassé l’ancien ministre du Commerce international à la Chambre des communes le jour de la signature de l’AECG. Il n’y a aucune différence entre les deux.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9314091">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9314091">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2950,12 +2933,11 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9314150">
+          <Intervention Type="Interjection" ToC="No" id="9314150">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706569">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera à l'heure de l'ajournement ce soir, à savoir: la députée de Carlton Trail-Eagle Creek, L’agriculture et l’agroalimentaire; la députée d’Essex, Le commerce international; et le député de Peace River-Westlock, La justice.</ParaText>
-              <ParaText id="4706570"> Nous reprenons le débat. Le député de Beloeil-Chambly a la parole.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -3030,7 +3012,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9314533">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9314533">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3062,10 +3044,10 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             <Content>
               <ParaText id="4706624">Monsieur le Président, j'ai écouté attentivement la députée de North Island-Powell River, qui a dit que le NPD n'est pas contre le commerce. Autant qu’il m’en souvienne, et je suis sûr que vous vous en souvenez aussi, monsieur le Président, le NPD n'a jamais appuyé le moindre accord commercial. </ParaText>
               <ParaText id="4706625"> Je viens aussi de la Colombie-Britannique et quand je suis sur le terrain, je peux vous dire que la Colombie-Britannique est une province très diversifiée. Des gens de partout dans le monde s’y sont installés. Les Européens sont très enthousiastes à l'idée de l'AECG.</ParaText>
-              <ParaText id="4706626"> La députée a parlé de l’aspect négatif, mais il doit y avoir du positif dans cet accord. Je demanderais à la députée si elle peut parler des aspects positifs de l'AECG.</ParaText>
+              <ParaText id="4706626"> La députée a parlé de l’aspect négatif de l'AECG, mais il doit y avoir du positif dans cet accord. Je demanderais à la députée si elle peut parler des aspects positifs de l'AECG.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney (North Island—Powell River)" id="9314758">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney  (North Island—Powell River)" id="9314758">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3087,7 +3069,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
           </Intervention>
           <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney (North Island—Powell River)" id="9314801">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney  (North Island—Powell River)" id="9314801">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3132,7 +3114,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
               <ParaText id="4706664"> J'exhorte mes collègues de tous les partis, des deux côtés de la Chambre, à voter contre la motion visant à clore le débat. Au début de mon discours, j'ai décrit quelques-unes des nombreuses questions et préoccupations que nous, en tant que parlementaires, devrions examiner avant de précipiter l’adoption d’un accord de cette envergure et de cette portée. Il n'y a aucune raison pour que nous ne puissions pas faire notre travail de député et prendre notre temps pour examiner cet accord semblable à l'ALENA.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9314910">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9314910">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3173,7 +3155,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
               <ParaText id="4706680"> L'autre question concerne l'assurance-médicaments. Le personnel infirmier du Canada nous a dit très clairement qu'il n'y aura probablement jamais d'assurance-médicaments au pays et que le Canada ferait l'objet de poursuites s'il tentait d'adopter un tel régime. De nombreux pays de l'Union européenne ont déjà...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9314962">
+          <Intervention Type="Interjection" ToC="No" id="9314962">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3256,7 +3238,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9315093">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9315093">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3455,7 +3437,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
         <SubjectOfBusinessTitle>L'Accord économique et commercial global</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4706792">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="8549249" Type="3">C-30, Loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne et ses États membres et comportant d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité, et de la motion voulant que cette question soit maintenant mise aux voix.</ParaText>
-          <ProceduralText TocType="TPC" id="9">Projet de loi C-30. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="8">Projet de loi C-30. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9315130">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -3508,7 +3490,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9315145">
+          <Intervention Type="Interjection" ToC="No" id="9315145">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3540,7 +3522,7 @@ Le gouvernement fédéral instaurera un filet de sécurité de tarification qui 
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="10">Report du vote sur la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="9">Report du vote sur la motion</ProceduralText>
               <ParaText id="4706814">Monsieur le Président, je demande que le vote sur la motion soit reporté à demain, à la fin de la période prévue pour l'étude des initiatives ministérielles.</ParaText>
             </Content>
           </Intervention>
@@ -3567,7 +3549,7 @@ En conséquence, le Président et les députés se rendent au Sénat.
           <ParaText id="4706818">
             <I>Et de retour:</I>
           </ParaText>
-          <Intervention Type="Debate" ToC="Yes" id="9315188" ToCText="Le Président">
+          <Intervention Type="Interjection" ToC="No" id="9315188">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3650,7 +3632,7 @@ En conséquence, le Président et les députés se rendent au Sénat.
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9315210">
         <Timestamp Hr="18" Mn="35">(1835)</Timestamp>
-        <SubjectOfBusinessQualifier>Commerce international </SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le commerce international </SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ramsey" id="9315183">
             <PersonSpeaking>
@@ -3668,7 +3650,7 @@ En conséquence, le Président et les députés se rendent au Sénat.
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lametti" id="9315187">
             <PersonSpeaking>
-              <Affiliation DbId="214676" Type="18">M. David Lametti (secrétaire parlementaire de la ministre du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214676" Type="18">M. David Lametti (secrétaire parlementaire du ministre du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4706852">Monsieur le Président, je répondrai à la question telle qu’elle a été énoncée dans la version initiale du <I>Feuilleton</I>.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>

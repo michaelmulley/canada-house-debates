@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9797671">
-  <StartPageNumber>15491</StartPageNumber>
+  <StartPageNumber>15469</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -153,7 +153,7 @@
       <SubjectOfBusiness id="9798042">
         <Timestamp Hr="10" Mn="10">(1010)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Canadian Arms Sales</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Canadian Arms Sales</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Choquette" id="9797768">
             <PersonSpeaking>
@@ -366,13 +366,6 @@
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="5147788">When we came to office two years ago, we took immediate action to help the middle class. We introduced the middle-class tax cut, while asking the wealthiest Canadians to pay a little more. Nine million Canadians are benefiting from that tax cut.</ParaText>
               <ParaText id="5147789">In addition, thanks to the Canada child benefit, nine out of 10 Canadian families are receiving more in child benefits than they did under the previous system. We also estimate that with the introduction of the Canada child benefit, child poverty—</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Stanton" id="9799671">
-            <PersonSpeaking>
-              <Affiliation DbId="214864" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="5147790">Order. The hon. member for <Affiliation DbId="213990" Type="2">York—Simcoe</Affiliation> on a point of order.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -1445,7 +1438,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214378" Type="2">Mr. Harold Albrecht</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5148196">Madam Speaker, I was so hopeful that the member's speech was finished. I thought he was out of time. Seeing that there is still so much time, I would ask you to please enforce your ruling that the member is not talking about the topic at hand and that he needs to come back to the topic at hand.</ParaText>
+              <ParaText id="5148196">Madam Speaker, I rise on a point of order. I was so hopeful that the member's speech was finished. I thought he was out of time. Seeing that there is still so much time, I would ask you to please enforce your ruling that the member is not talking about the topic at hand and that he needs to come back to the topic at hand.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9800464">
@@ -1527,6 +1520,8 @@
             <Content>
               <ParaText id="5148219">Madam Speaker, the member for <Affiliation DbId="214121" Type="2">Newmarket—Aurora</Affiliation> has been very entertaining for the last 20 minutes. I know the strategy of the Liberal caucus is to fill time, and he did an admirable job of filling time. </ParaText>
               <ParaText id="5148220">Last week we had a break, and I happened to read in the paper where all of the members on the Liberal benches had been instructed by the PMO to go out and listen to their constituents that week. We did the same thing. We did not have to be instructed. We just do that automatically. I want to ask the member, when he was talking to his constituents last week, what were they telling him about the minister and his unethical behaviour? I can say what our constituents are telling us. If he is going to tell us something different, then I am going to suggest he is not doing a very good job of listening to his constituents. </ParaText>
+              <ParaText id="5239164">
+                <B>Some hon. member:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9800511">
@@ -1930,7 +1925,7 @@
               <Affiliation DbId="214329" Type="4">Hon. Diane Lebouthillier (Minister of National Revenue, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5148322">Mr. Speaker, our government is well aware that it is a multi-billion-dollar issue. We invested close to $1 billion in our last two budgets.</ParaText>
-              <ParaText id="5148323">The Canada Revenue Agency uses information from lists shared by participating BEPS countries.This is why, as of September 30, 2017, the agency was conducting more than 990 audits and 42 criminal investigations related to offshore financial structures. The agency is examining ties with Canadian entities and will take appropriate action with regard to the paradise papers. We continue to work for Canadians. </ParaText>
+              <ParaText id="5148323">The Canada Revenue Agency uses information from lists shared by participating BEPS countries. This is why, as of September 30, 2017, the agency was conducting more than 990 audits and 42 criminal investigations related to offshore financial structures. The agency is examining ties with Canadian entities and will take appropriate action with regard to the paradise papers. We continue to work for Canadians. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -1976,12 +1971,17 @@
               <ParaText id="5148332">I am very proud of our country's leadership role internationally. Co-operation between revenue authorities, including the exchange of tax information, is an essential tool for maintaining the integrity of Canada's tax base.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9800711">
+        <SubjectOfBusinessTitle />
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Deltell" id="9800670">
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">Mr. Gérard Deltell (Louis-Saint-Laurent, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5148333">Mr. Speaker, Canadians have yet again received some very bad news about ethics in the Liberal Party. </ParaText>
-              <ParaText id="5148334">This morning, the <I>Globe and Mail</I> reported that Stephen Bronfman, the Liberal Party's chief fundraiser, had assets in tax havens, in the Cayman Islands. This despite his claim that he was no longer involved in that sort of thing. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> wasted no time saying he believed him, that everything was fine and that Bronfman was beyond reproach.</ParaText>
+              <ParaText id="5148334">This morning, <I>The Globe and Mail</I> reported that Stephen Bronfman, the Liberal Party's chief fundraiser, had assets in tax havens, in the Cayman Islands. This despite his claim that he was no longer involved in that sort of thing. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> wasted no time saying he believed him, that everything was fine and that Bronfman was beyond reproach.</ParaText>
               <ParaText id="5148335">Is the Prime Minister still proud of his bagman?</ParaText>
             </Content>
           </Intervention>
@@ -2015,7 +2015,7 @@
               <Affiliation DbId="214268" Type="2">Mr. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5148342">Mr. Speaker, when Stephen Bronfman was named in the paradise papers, he swore, hand on heart, that he had not had any involvement since 1998, in any way, directly or indirectly. However, today we learned that he still had ties to a trust in the Cayman Islands in 2005.</ParaText>
-              <ParaText id="5148343">Here is a very simple multiple-choice question: a) Stephen Bronfman lied to the Prime Minister; and b) the Prime Minister misled the House. Which answer is correct?</ParaText>
+              <ParaText id="5148343">Here is a very simple multiple-choice question: a) Stephen Bronfman lied to the Prime Minister;  b) the Prime Minister misled the House. Which answer is correct?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Lebouthillier" id="9800684">
@@ -2032,7 +2032,7 @@
               <Affiliation DbId="214268" Type="2">Mr. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5148346">Mr. Speaker, the minister seems to think she is entitled to her own facts, but let us go through the facts.</ParaText>
-              <ParaText id="5148347"> The paradise papers initially revealed that Stephen Bronfman had ties to a trust in the Cayman Islands. Bronfman denied it and said he gave a loan that was quickly paid back by 1998. Well, that was false, because today we learned that as of 2005, there were still $7 million outstanding on that loan.</ParaText>
+              <ParaText id="5148347"> The paradise papers initially revealed that Stephen Bronfman had ties to a trust in the Cayman Islands. Bronfman denied it and said he gave a loan that was quickly paid back by 1998. Well, that was false, because today we learned that as of 2005, there was still $7 million outstanding on that loan.</ParaText>
               <ParaText id="5148348"> The government seems to be very content to accept whatever fish tale their well-connected friends cook up. When will the minister understand that Canadians are fed up with this double standard? </ParaText>
             </Content>
           </Intervention>
@@ -2331,7 +2331,7 @@
             <PersonSpeaking>
               <Affiliation DbId="234563" Type="18">Mr. Joël Lightbound (Parliamentary Secretary to the Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5148410">Mr. Speaker, if it is true that we are defined by what we do and perhaps by what we do not do, what the <Affiliation DbId="214320" Type="4">finance minister</Affiliation> has not done is to mismanage the economy the way they mismanaged it for 10 years. What he has done is create half a million jobs in this country, most of them full time; grow the economy at a faster pace than they ever could; reduce child poverty by 40%; reduce taxes for nine million Canadians; go back on the regressive policies they put forward, such as doubling the TFSA limit that would benefit the three per cent of wealthiest Canadians, so we can give more to Canadians who need it the most; and yesterday we announced a national housing strategy they should have done a long time ago.</ParaText>
+              <ParaText id="5148410">Mr. Speaker, if it is true that we are defined by what we do and perhaps by what we do not do, what the <Affiliation DbId="214320" Type="4">finance minister</Affiliation> has not done is to mismanage the economy the way they mismanaged it for 10 years. What he has done is create half a million jobs in this country, most of them full time; grow the economy at a faster pace than they ever could; reduce child poverty by 40%; reduce taxes for nine million Canadians; go back on the regressive policies they put forward, such as doubling the TFSA limit that would benefit the 3% of wealthiest Canadians, so we can give more to Canadians who need it the most; and yesterday we announced a national housing strategy they should have done a long time ago.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Strahl" id="9800786">
@@ -2438,7 +2438,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214522" Type="2">Mr. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5148430">Mr. Speaker, I am not questioning the work our security agencies do. They are the best in the world. What I am questioning is what the minister told the House. The minister is an intelligent, well-informed man. Why did he mislead the House when he knows perfectly well that the information he provided yesterday is two years old? The numbers he shared were taken from statements made by the director of CSIS in March 2016. The minister needs to wake up, take this issue seriously, and give Canadians accurate information. We want to know where these traitors to the nation are and whether they are being monitored 24/7.</ParaText>
+              <ParaText id="5148430">Mr. Speaker, I am not questioning the work our security agencies do. They are the best in the world. What I am questioning is what the minister told the House. The minister is an intelligent, well-informed man. Why did he mislead the House when he knows perfectly well that the information he provided yesterday is two years old? The numbers he shared were taken from statements made by the director of CSIS in March 2016. The minister needs to wake up, take this issue seriously, and give Canadians accurate information. We want to know where these traitors to the nation are and whether they are being monitored 24-7.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
@@ -2966,9 +2966,9 @@
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Grewal" id="9801068">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Grewal" id="9801068">
             <PersonSpeaking>
-              <Affiliation DbId="214299" Type="2">Mr. Raj Grewal (Brampton East, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214299" Type="2">Mr. Raj Grewal</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5148562">Mr. Speaker, I feel like I am back at law school, so thank you so much for the lesson on how to present an argument. In his point of order, my hon. colleague said I was not being relevant, but the fact of the matter is that the first six minutes was just my preamble. I will get into it.</ParaText>
               <ParaText id="5148563">We started by saying that sunshine is the best disinfectant. The Ethics Commissioner has a role to play and we all respect her for the great job she does in ensuring that all members of the House, including ministers, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, opposition members, members on the backbench, members of the third party, and independent members, are held to high ethical standards. All members are elected to the House by great Canadians and sit down with the Ethics Commissioner to make sure they are onside and do not have any conflicts of interest with their government and parliamentary work.</ParaText>
@@ -2982,18 +2982,11 @@
               <ParaText id="5148570">As we look forward to the future and our next federal budget, the government remains focused on how best to grow the Canadian economy, and how to make sure that the growth benefits all Canadians. That means it will continue to make smart investments in people and communities, to ensure continued progress for the middle class and—</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="9801187">
-            <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="5148571">Order. The hon. member for Kitchener—Conestoga is rising on a point of order. </ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albrecht" id="9801190">
             <PersonSpeaking>
               <Affiliation DbId="214378" Type="2">Mr. Harold Albrecht (Kitchener—Conestoga, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5148572">Mr. Speaker, I hate to raise this point again, but my colleague assured all of us that he was just in his preamble earlier when he had not yet referred to the motion before us, other than that one phrase. Therefore, I would ask you to call my colleague to order.</ParaText>
+              <ParaText id="5148572">Mr. Speaker, I hate to raise this point of order again, but my colleague assured all of us that he was just in his preamble earlier when he had not yet referred to the motion before us, other than that one phrase. Therefore, I would ask you to call my colleague to order.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="9801194">
@@ -3457,7 +3450,6 @@
             <Content>
               <ParaText id="5148738">It is my duty pursuant to Standing Order 38 to inform the House that the questions to be raised tonight at the time of adjournment are as follows: the hon. member for <Affiliation DbId="214119" Type="2">Nanaimo—Ladysmith</Affiliation>, Status of Women; the hon. member for <Affiliation DbId="214489" Type="2">Courtenay—Alberni</Affiliation>, Fisheries and Oceans; the hon. member for <Affiliation DbId="214171" Type="2">Mégantic—L'Érable</Affiliation>, Government Appointments.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="5148739">Resuming debate. The hon. member for <Affiliation DbId="214432" Type="2">Abitibi—Témiscamingue</Affiliation>.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Moore" id="9802248">
@@ -3661,8 +3653,6 @@
               <ParaText id="5148834">
                 <I>And five or more members having risen:</I>
               </ParaText>
-              <ParaText id="5148835">
-                <B>The Assistant Deputy Speaker (Mrs. Carol Hughes):</B> Call in the members. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Ms. Rempel" id="9802706">
@@ -3681,9 +3671,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Nater" id="9802717">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Nater" id="9802717">
             <PersonSpeaking>
-              <Affiliation DbId="214434" Type="2">Mr. John Nater (Perth—Wellington, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214434" Type="2">Mr. John Nater</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5148838">Madam Speaker, I think you will find unanimous consent to see the clock as 5:30 p.m.</ParaText>
             </Content>
@@ -3695,10 +3685,9 @@
               <ParaText id="5148839">Is it agreed?</ParaText>
               <ParaText id="5148840">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <ParaText id="5148841">
-                <B>The Assistant Deputy Speaker (Mrs. Carol Hughes):</B> We are all agreed.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="5148842">It being 5:30 p.m., the House will now proceed to the consideration of private members' business as listed on today's Order Paper.</ParaText>
+              <ParaText id="5148842">
+                <B>The Assistant Deputy Speaker (Mrs. Carol Hughes):</B> It being 5:30 p.m., the House will now proceed to the consideration of private members' business as listed on today's Order Paper.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3718,11 +3707,6 @@
             <Content>
               <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
               <ParaText id="5148843"> moved:</ParaText>
-              <ParaText id="5148844">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="1" IndentRest="1">Motion No. 148</QuotePara>
-                </Quote>
-              </ParaText>
               <ParaText id="5148845">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> That, in the opinion of the House, the government should recognize the importance of educating Canadians about the consequences of impaired driving due to alcohol, drugs, fatigue or distraction, which, each year, destroys the lives and health of thousands of Canadians, by designating the third week of March, each year, National Impaired Driving Prevention Week. </QuotePara>
@@ -3734,17 +3718,18 @@
               <ParaText id="5148849">Chief among the reasons for carrying on my professional, philanthropic, and community activities after my election is my deep-felt need to remain grounded and retain sufficient independence to carry on my work as an elected official. I am fully mindful that, because of my decision to remain an active law practitioner, and by virtue of the prevailing rules in place, I am precluded from ever occupying a cabinet position. As I will explain shortly, my personal journey and the objectives that I set to attain while having the privilege of being an integral part of this institution more than makes up for any opportunity that I might be forgoing.</ParaText>
               <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="5148850">I notice that our fellow citizens are adopting healthy lifestyles these days. Ironically, by leading an active life, they are putting their lives at risk, because accidents are the leading cause of death for Canadians under 45. That statistic includes all accidents, not just road accidents, though road accidents account for a substantial portion. Canada suffered a great tragedy in the 2000s when 158 Canadian men and women in uniform gave their lives for their country in a decade-long war.</ParaText>
-              <ParaText id="5148851">However, over that same period, nearly 100 times more people died in collisions involving drugs and alcohol. It is an unspeakable tragedy. We are talking about nearly 15,000 people who died in that way. Wars end, but road fatalities never do. Every day, four Canadians die in a collision involving alcohol or drugs. Sadly, the tragedy does not end there, as others suffer serious injuries, leading to paralysis, amputation, and other functional limitations. Add to that all the other injuries and their consequences, as well as the material damages, hospital bills, health care costs, and subsequent losses to society.</ParaText>
+              <ParaText id="5148850">I notice that our fellow citizens are adopting healthy lifestyles these days. Ironically, by leading an active life, they are putting their lives at risk, because accidents are the leading cause of death for Canadians under 45. That statistic includes all accidents, not just road accidents, though road accidents account for a substantial portion. </ParaText>
+              <ParaText id="5148850">Canada suffered a great tragedy in the 2000s when 158 Canadian men and women in uniform gave their lives for their country in a decade-long war. However, over that same period, nearly 100 times more people died in collisions involving drugs and alcohol. It is an unspeakable tragedy. We are talking about nearly 15,000 people who died in that way. </ParaText>
+              <ParaText id="5148850">Wars end, but road fatalities never do. Every day, four Canadians die in a collision involving alcohol or drugs. Sadly, the tragedy does not end there, as others suffer serious injuries, leading to paralysis, amputation, and other functional limitations. Add to that all the other injuries and their consequences, as well as the material damages, hospital bills, health care costs, and subsequent losses to society.</ParaText>
               <ParaText id="5148852">In terms of the criminal aspect, police reported more than 72,000 impaired driving incidents in 2015. Impaired driving is the most common offence in cases heard by criminal courts. It is the leading criminal cause of death in Canada.</ParaText>
               <ParaText id="5148853">This brings us to cannabis. As we speak, Canadians are driving under the influence of cannabis. This drug is currently sold by criminal gangs, which are motivated solely by profit and are not bound by any obligation to ensure the well-being or safety of their clients. It goes without saying that when cannabis is legalized, people will continue to consume it, and we will still have a problem with people driving under the influence of cannabis. We are entering a new era that will require a new approach and stepped-up prevention efforts. </ParaText>
-              <ParaText id="5148854">The legalization of cannabis raises many concerns about its impact on driving. However, legalization also brings new hope, as it may result in more research on cannabis, its effects, and, above all, techniques for determining its precise impact on driving ability. </ParaText>
+              <ParaText id="5148854">The legalization of cannabis raises many concerns about its impact on driving. However, legalization also brings new hope, as it may result in more research on cannabis, its effects, and above all, techniques for determining its precise impact on driving ability. </ParaText>
               <ParaText id="5148855">As for collisions and non-accidents, in common language, we tend to consider or at least to talk about a fatality caused by a drunk driver as an accident, when really, there is nothing accidental about it. It is a collision, not an accident.</ParaText>
               <ParaText id="5148856">In terms of technology, we cannot talk about the tragedy of impaired driving without mentioning the meaningful progress that has been made in recent years. Although considerable progress has been made, we still cannot forget the staggering number of deaths that do still occur as well as the serious injuries. I want to reiterate that this progress would not have been possible without all the efforts made in the area of prevention by many stakeholders in the field. I cannot say it enough: prevention must continue. We must constantly continue, renew, and increase prevention efforts. </ParaText>
               <ParaText id="5148857">There is more. Technology must also serve to help and strengthen prevention. Over the next few years, we can look forward to advances in artificial intelligence and deep learning in order to come up with more solutions to eliminate the scourge of drug-impaired driving and eliminate the sources of distracted driving.</ParaText>
               <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="5148858">What is my motivation? To adequately describe my motivation, I need to provide a glimpse into my personal journey. After 5,000 years of lineage in a magnificent locality in what is now Italy, I was the first generation to be born abroad, namely, in my great country of Canada, while being a dual citizen. Where I was born was, at the time, the poorest area of the poorest neighbourhood in Canada. While being poor, we never felt poor, because we had one another.</ParaText>
+              <ParaText id="5148858">What is my motivation? To adequately describe my motivation, I need to provide a glimpse into my personal journey. After 5,000 years of lineage in a magnificent locality in what is now Italy, I was the first generation to be born abroad, namely, in my great country of Canada, while being a dual citizen. Where I was born was, at the time, the poorest area of the poorest neighbourhood in Canada. While being poor, we never felt poor because we had one another.</ParaText>
               <ParaText id="5148859"> My father is a survivor of the Nazi camps, where he faced forced labour, the harshness of physical and psychological punishment, and hunger on a daily basis. Both he and my mother devoted themselves to their family while instilling the values and virtues of hard work and service to the community. That is what brought me to be a founder of the largest ethnic cultural centre in Canada, the Leonardo da Vinci Centre, on the board of which I remain to this day and where I have established my riding office.</ParaText>
               <ParaText id="5148860">Then there was a call. In my case, it all began with a phone call in the middle of the night on July 24, 2010. The phone stopped ringing before I could answer it. I went back to bed, and shortly after, it rang again. When I answered, the caller identified himself as a physician in the emergency ward of the Montreal General Hospital. One of my three daughters had been brought there after being in a car that struck a tree at a very high speed, actually 140 kilometres an hour. She was in critical condition, had brain bleeds, multiple fractures, and was in a coma. I did not recognize her when I saw her. The physician insisted that I get to the hospital as quickly as possible. He kept repeating and asking if I understood what that meant. </ParaText>
               <ParaText id="5148861">It was the summer of Claudia's 16th birthday. After a midsummer school reunion, she was waiting for a taxi with two friends when a young man offered to drive the girls home. Despite their initial refusal, they accepted. Claudia and her friend, Justine, arrived at the hospital between life and death. </ParaText>

@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9483910">
-  <StartPageNumber>10499</StartPageNumber>
+  <StartPageNumber>10495</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -60,7 +42,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>L'accès à la Chambre des communes</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le renvoi au Comité permanent de la procédure et des affaires de la Chambre</SubjectOfBusinessQualifier>
         <CatchLine>Privilège</CatchLine>
         <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
         <SubjectOfBusinessContent>
@@ -255,7 +237,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214040" Type="2">M. Mark Strahl</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4838878">Je me réjouis de l'ardeur avec laquelle la députée d'<Affiliation DbId="214139" Type="2">Essex</Affiliation> pose sa question. En effet, le contraste entre les promesses électorales des libéraux et la réalité est frappante. L'exemple le plus récent: le recours aux projets de loi omnibus, que rejetait expressément la plateforme électorale des libéraux.</ParaText>
+              <ParaText id="4838878">Monsieur le Président, je me réjouis de l'ardeur avec laquelle la députée d'<Affiliation DbId="214139" Type="2">Essex</Affiliation> pose sa question. En effet, le contraste entre les promesses électorales des libéraux et la réalité est frappante. L'exemple le plus récent: le recours aux projets de loi omnibus, que rejetait expressément la plateforme électorale des libéraux.</ParaText>
               <ParaText id="4838879">Nous voilà avec un projet de loi omnibus de 300 pages qui prévoit toutes sortes de choses, de l'augmentation des frais pour les passeports à la hausse des frais de camping, en passant par la modification du rôle du directeur parlementaire du budget. Le projet de loi englobe toutes sortes de choses, et les libéraux se défendent à vrai dire exactement de la même manière que le gouvernement conservateur l'a fait, c'est-à-dire en faisant valoir qu'il s'agit de mettre en oeuvre le contenu du budget. Cette réplique avait fait mouche lorsque nous l'avions employée, et les libéraux semblent l'avoir adoptée.</ParaText>
             </Content>
           </Intervention>
@@ -388,7 +370,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9484903">
-        <SubjectOfBusinessTitle>Des nouvelles de la circonscription</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Haliburton—Kawartha Lakes—Brock</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Schmale" id="9484904">
             <PersonSpeaking>
@@ -404,17 +386,20 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9484906">
-        <SubjectOfBusinessTitle>
-      Le Vaisakhi</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Vaisakhi</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Grewal" id="9484907">
             <PersonSpeaking>
               <Affiliation DbId="214299" Type="2">M. Raj Grewal (Brampton-Est, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4838929">Monsieur le Président, </ParaText>
-              <ParaText id="4838930"> [<I>Le député s'exprime en pendjabi.</I>]</ParaText>
+              <ParaText id="4838929">
+              </ParaText>
+              <ParaText id="4838930"> [<I>Le député s'exprime en pendjabi ainsi qu'il suit:</I>]</ParaText>
+              <ParaText id="4987297">
+                <I>Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh.</I>
+              </ParaText>
               <ParaText id="4838931">[<I>Traduction</I>]</ParaText>
-              <ParaText id="4838932">Aujourd'hui, les sikhs partout dans le monde célèbrent le Vaisakhi. Le gourou Gobind Singh a créé l'ordre du Khalsa Panth en 1699 en se fondant sur une philosophie simple — la méditation, <I>naam japna</I>; le travail acharné, <I>kirt karni</I>; et l'altruisme, <I>seva</I> — et en n'oubliant jamais que nous avons la responsabilité de rendre le monde qui nous entoure meilleur. Il ne s'agit pas seulement de valeurs sikhes, mais aussi des valeurs canadiennes.</ParaText>
+              <ParaText id="4838932">Monsieur le Président, aujourd'hui, les sikhs partout dans le monde célèbrent le Vaisakhi. Le gourou Gobind Singh a créé l'ordre du Khalsa Panth en 1699 en se fondant sur une philosophie simple — la méditation, <I>naam japna</I>; le travail acharné, <I>kirt karni</I>; et l'altruisme, <I>seva</I> — et en n'oubliant jamais que nous avons la responsabilité de rendre le monde qui nous entoure meilleur. Il ne s'agit pas seulement de valeurs sikhes, mais aussi des valeurs canadiennes.</ParaText>
               <ParaText id="4838933">Lundi dernier, nous avons célébré le Vaisakhi sur la Colline et nous étions fiers de montrer ce que les sikhs contribuent au Canada depuis de nombreuses années. </ParaText>
               <ParaText id="4838934">Nous avons prié pour le succès de tous les Canadiens et de notre grand pays. Notre prière quotidienne se lit ainsi:</ParaText>
               <ParaText id="4838935">[<I>Le député s'exprime en pendjabi.</I>]</ParaText>
@@ -439,7 +424,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4838941">Le Dr Wainberg était connu dans le monde entier pour sa contribution à l'identification de la lamivudine, un médicament antiviral, qui est maintenant l'un des médicaments les plus utilisés pour traiter le VIH.</ParaText>
               <ParaText id="4838942">En 2015, il a été intronisé au Temple de la renommée médicale canadienne.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4838943">Sa contribution au traitement du VIH-sida a sauvé des millions de vies partout dans le monde. On se souviendra aussi de lui comme d'un homme engagé et d'un militant dans la lutte contre le VIH-sida. Je tiens à exprimer ici toutes mes sympathies à sa famille, ses amis, ses collaborateurs et ses nombreux admirateurs. </ParaText>
+              <ParaText id="4838943">Sa contribution au traitement du VIH-sida a sauvé des millions de vies partout dans le monde. On se souviendra aussi de lui comme d'un homme engagé et d'un militant dans la lutte contre le VIH-sida. Je tiens à exprimer ici toutes ma sympathie à sa famille, à ses amis, à ses collaborateurs et à ses nombreux admirateurs. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -484,7 +469,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4838950">Monsieur le Président, je prends la parole aujourd'hui pour transmettre mes meilleurs voeux à ceux qui fêtent le Vaisakhi aujourd'hui au Canada et dans le monde. Le Vaisakhi est l'une des journées les plus importantes dans le sikhisme puisqu'il marque l'inauguration du Khalsa et des principes fondamentaux de la foi sikhe instaurés par le 10<Sup>e</Sup> gourou, Guru Gobind Singh ji. </ParaText>
               <ParaText id="4838951">D'un bout à l'autre du Canada, à leur gurdwara locale et à la maison avec leur famille, les sikhs participeront à des défilés, des cérémonies et des fêtes colorés et réfléchiront aux valeurs propres à notre foi: l'harmonie, l'unité, la justice, l'égalité et le service à l'humanité. Ces valeurs, qui sont au coeur du sikhisme, sont aussi des valeurs chères à tous les Canadiens de tous les milieux. J'invite tous les Canadiens à participer aux festivités du Vaisakhi dans leur localité et à se joindre à leur communauté sikhe pour célébrer notre cause et notre but communs comme Canadiens.</ParaText>
               <ParaText id="4838952">Joyeux Vaisakhi à tous.</ParaText>
-              <ParaText id="4838953"> [<I>Le député s'exprime en pendjabi</I>:]</ParaText>
               <ParaText id="4838954">
                 <I>Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh. </I>
               </ParaText>
@@ -514,15 +498,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213957" Type="2">M. Bob Saroya (Markham—Unionville, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4838959">Monsieur le Président, </ParaText>
-              <ParaText id="4838960">[<I>Le député s'exprime en pendjabi</I>:]</ParaText>
+              <ParaText id="4838959">
+              </ParaText>
               <ParaText id="4838961">
                 <I> Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh. </I>
               </ParaText>
               <ParaText id="4838962">[<I>Traduction</I>]</ParaText>
-              <ParaText id="4838963">Le Vaisakhi marque le début de la nouvelle année sikhe, et c'est l'occasion de commémorer la formation du khalsa panth des guerriers sous la direction du gourou Gobind Singh, en 1699. Chaque année, les sikhs participent aux processions du Nagar Kirtan, qui rassemble les communautés et leur permet de fraterniser, de partager des mets délicieux et de réfléchir aux enseignements du sikhisme. Voilà ce qui se passe aujourd'hui dans la région du Grand Toronto, où la Guru Gobind Singh Children's Foundation tient une campagne de financement pour les enfants défavorisés du monde. </ParaText>
+              <ParaText id="4838963">Monsieur le Président, le Vaisakhi marque le début de la nouvelle année sikhe, et c'est l'occasion de commémorer la formation du khalsa panth des guerriers sous la direction du gourou Gobind Singh, en 1699. Chaque année, les sikhs participent aux processions du Nagar Kirtan, qui rassemble les communautés et leur permet de fraterniser, de partager des mets délicieux et de réfléchir aux enseignements du sikhisme. Voilà ce qui se passe aujourd'hui dans la région du Grand Toronto, où la Guru Gobind Singh Children's Foundation tient une campagne de financement pour les enfants défavorisés du monde. </ParaText>
               <ParaText id="4838964">Le Vaisakhi est également une belle occasion de célébrer l'immense contribution de la communauté sikhe à la diversité et la richesse culturelle du Canada. À titre de député de Markham—Unionville, je souhaite à tous ceux qui fêtent le Vaisakhi une joyeuse célébration.</ParaText>
-              <ParaText id="4838965">[<I>Le député s'exprime en pendjabi</I>:]</ParaText>
+              <ParaText id="4838965">[<I>Le député s'exprime en pendjabi ainsi qu'il suit</I>:]</ParaText>
               <ParaText id="4838966">
                 <I> Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh. </I>
               </ParaText>
@@ -540,7 +524,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213941" Type="2">Mme Sherry Romanado (Longueuil—Charles-LeMoyne, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4838967">Monsieur le Président, aujourd'hui, je me lève pour rendre hommage à une entreprise d'économie sociale et un organisme de bienfaisance que je considère comme étant un joyau de ma circonscription, <Affiliation DbId="213941" Type="2">Longueuil—Charles-LeMoyne</Affiliation>.</ParaText>
-              <ParaText id="4838968">Depuis maintenant 25 ans, Certex offre des emplois permanents à des personnes handicapées en opérant le plus important centre de tri et de récupération de vêtements et de textiles du genre au Québec. Grâce à ses activités, plus de 6 000 tonnes de matières textiles sont détournées de nos sites d'enfouissement, chaque année.</ParaText>
+              <ParaText id="4838968">Depuis maintenant 25 ans, Certex offre des emplois permanents à des personnes handicapées en opérant le plus important centre de tri et de récupération de vêtements et de textiles du genre au Québec. Grâce à ses activités, plus de 6 000 tonnes de matières textiles sont détournées de nos sites d'enfouissement chaque année.</ParaText>
               <ParaText id="4838969">Certex, pour qui l'innovation est toujours au rendez-vous, s'engage aussi en recherche-développement, afin de trouver de nouvelles solutions permettant de réduire davantage notre empreinte écologique.</ParaText>
               <ParaText id="4838970">Félicitations à Certex et à son équipe. Au nom de ma communauté et de notre planète, je leur dis merci.</ParaText>
             </Content>
@@ -557,11 +541,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4838971">Monsieur le Président, c'est avec tristesse que je prends la parole aujourd'hui pour signaler le décès du professeur Mark Wainberg. Un géant nous a quittés. Le professeur Wainberg est décédé tragiquement hier à l'âge de 71 ans. Il est connu pour avoir contribué, en 1989, à la découverte du 3TC, un médicament antirétroviral. Il poursuivait ses recherches à l'Hôpital général juif et au Centre SIDA de l'Université McGill. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4838972">Il a eu le courage d'amener toute la communauté de recherche sur le VIH-sida à Durban, en Afrique du Sud, au coeur de la crise en 2000, de sorte que la dévastation soit constatée directement.</ParaText>
+              <ParaText id="4838972">Il a eu le courage d'amener toute la communauté de recherche sur le VIH-sida à Durban, en Afrique du Sud, au coeur de la crise, en 2000, afin que la dévastation soit constatée directement.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4838973">Il a dit qu'il était un activiste, dans le domaine du sida, parce qu'il fallait l'être.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4838974">Grâce à son travail, Mark Wainberg a sauvé des millions de vies, partout dans le monde. Il était officier de l'Ordre du Canada, officier de l'Ordre national du Québec et chevalier de la Légion d'honneur de la France.</ParaText>
+              <ParaText id="4838974">Grâce à son travail, Mark Wainberg a sauvé des millions de vies partout dans le monde. Il était officier de l'Ordre du Canada, officier de l'Ordre national du Québec et chevalier de la Légion d'honneur de la France.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4838975">En tant que membre de la famille de McGill, je me joins à la famille Wainberg, à la grande communauté de l'Université McGill, ainsi qu'aux habitants du Québec et du Canada, et même du monde, pour pleurer le décès d'un homme brillant qui était, effectivement, un grand homme. </ParaText>
               <ParaText id="4838976">Merci, Mark.</ParaText>
@@ -613,7 +597,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9484948">
-        <SubjectOfBusinessTitle>La crête de Vimy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La bataille de la crête de Vimy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brassard" id="9484949">
             <PersonSpeaking>
@@ -698,7 +682,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214127" Type="2">L'hon. Denis Lebel (Lac-Saint-Jean, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839003">Monsieur le Président, les libéraux ont la même rhétorique depuis le début: « un bon accord, pas n'importe lequel ». Toutefois, il n'y avait pas d'accord sur la table. Ils n'ont donc pas pu refuser un accord qui n'existait pas. Ce ne sont encore que des mots. Tout ce qu'ils veulent, c'est museler l'opposition, comme ils l'ont fait au cours des dernières semaines, en changeant la façon de travailler. </ParaText>
-              <ParaText id="4839004">C'est épais comme cela, mais ils ne feront pas de budget épais comme cela. Ils veulent museler le directeur parlementaire du budget. C'est n'importe quoi. Les libéraux croient qu'ils ont toujours raison, ils ne veulent pas d'opposition et ils ne veulent pas que les gens les contredisent. Le directeur parlementaire doit suivre les dépenses, les déficits et les promesses non tenues de ce gouvernement. </ParaText>
+              <ParaText id="4839004">C'est épais comme cela, mais ils ne feront pas de budget épais comme cela. Ils veulent museler le directeur parlementaire du budget. C'est n'importe quoi. Les libéraux croient qu'ils ont toujours raison, ils ne veulent pas d'opposition et ils ne veulent pas que les gens les contredisent. Le directeur parlementaire du budget doit suivre les dépenses, les déficits et les promesses non tenues de ce gouvernement. </ParaText>
               <ParaText id="4839005">Vont-ils le respecter?</ParaText>
             </Content>
           </Intervention>
@@ -706,7 +690,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839006">Monsieur le Président, au cours de l'élection de 2015, notre gouvernement s'est engagé à mettre à fin au recours inapproprié aux projets de loi omnibus. </ParaText>
+              <ParaText id="4839006">Monsieur le Président, au cours de l'élection de 2015, notre gouvernement s'est engagé à mettre fin au recours inapproprié aux projets de loi omnibus. </ParaText>
               <ParaText id="4839007">Le projet de loi d'exécution du budget que nous avons déposé contient des mesures budgétaires et rien d'autre. Nous mettons en oeuvre notre plan visant à favoriser l'équité et à faire croître l'économie en renforçant la classe moyenne, en créant de l'emploi et en donnant aux gens les compétences nécessaires à leur réussite.</ParaText>
             </Content>
           </Intervention>
@@ -735,8 +719,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485361">
-        <SubjectOfBusinessTitle>
-      La reddition de comptes par le gouvernement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La reddition de comptes par le gouvernement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9484977">
             <PersonSpeaking>
@@ -759,7 +742,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485000">
         <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
-        <SubjectOfBusinessTitle>La justice</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La marijuana</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. MacGregor" id="9484982">
             <PersonSpeaking>
@@ -816,7 +799,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214056" Type="2">Mme Anne Minh-Thu Quach (Salaberry—Suroît, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839030">Monsieur le Président, comme d'habitude, les libéraux évitent de répondre aux questions. Ils viennent juste de dire qu'ils veulent protéger les jeunes contre le trafic de la marijuana, mais ils oublient complètement la question de la prévention, et ils continuent de faire en sorte que les jeunes se retrouvent avec un casier judiciaire.</ParaText>
-              <ParaText id="4839031">Québec demande au gouvernement fédéral de mettre ses culottes. Recevoir 2 millions de dollars par année en prévention pour le plus grand changement législatif des 20 dernières années? C'est ridicule. Si on se compare avec le Colorado, le budget de prévention pour les jeunes, en 2015 seulement, était de 45 millions de dollars, et ce, pour un État comptant 5 millions d'habitants.</ParaText>
+              <ParaText id="4839031">Québec demande au gouvernement fédéral de mettre ses culottes. Recevoir 2 millions de dollars par année en prévention pour le plus grand changement législatif des 20 dernières années est ridicule. Si on se compare avec le Colorado, le budget de prévention pour les jeunes, en 2015 seulement, était de 45 millions de dollars, et ce, pour un État comptant 5 millions d'habitants.</ParaText>
               <ParaText id="4839032"> Est-ce que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et ministre de la Jeunesse va nous présenter un véritable plan de transition qui inclut les fonds nécessaires pour la prévention?</ParaText>
             </Content>
           </Intervention>
@@ -860,7 +843,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4839040">
                 <B>Des voix: </B>Oh, oh!</ParaText>
               <ParaText id="4839041">
-                <B>L'hon. Tony Clement:</B>Anne McLellan est une ancienne ministre libérale, et nous savons maintenant qu'elle entretient des liens étroits avec l'industrie du cannabis. Alors qu'elle élaborait le cadre de ce nouveau système, ses collègues avocats attendaient dans les coulisses pour réaliser d'énormes profits.</ParaText>
+                <B>L'hon. Tony Clement:</B> Monsieur le Président, Anne McLellan est une ancienne ministre libérale, et nous savons maintenant qu'elle entretient des liens étroits avec l'industrie du cannabis. Alors qu'elle élaborait le cadre de ce nouveau système, ses collègues avocats attendaient dans les coulisses pour réaliser d'énormes profits.</ParaText>
               <ParaText id="4839042">Ce nouveau projet de loi n'est-il qu'un stratagème pour emplir les poches des copains des libéraux?</ParaText>
             </Content>
           </Intervention>
@@ -899,14 +882,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214107" Type="2">M. Joël Godin (Portneuf—Jacques-Cartier, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839050">Monsieur le Président, ce <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a demandé la confiance aux électeurs canadiens, il y a 18 mois, mais encore aujourd'hui il force la vérité, il dit n'importe quoi. J'espère qu'il ne pense pas qu'en ce Jeudi saint il obtiendra l'absolution sans confession. Concernant sa fausse déclaration sur l'utilisation de l'hélicoptère privé de l'Aga Khan, le premier ministre peut-il admettre les faits et dire la vérité? Comment ce premier ministre peut-il regarder les honnêtes Canadiens et Canadiennes dans les yeux et leur dire qu'il dit la vérité, quand le contraire a été démontré?</ParaText>
+              <ParaText id="4839050">Monsieur le Président, ce <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a demandé la confiance aux électeurs canadiens il y a 18 mois, mais encore aujourd'hui il force la vérité, il dit n'importe quoi. J'espère qu'il ne pense pas qu'en ce Jeudi saint il obtiendra l'absolution sans confession. Concernant sa fausse déclaration sur l'utilisation de l'hélicoptère privé de l'Aga Khan, le premier ministre peut-il admettre les faits et dire la vérité? Comment ce premier ministre peut-il regarder les honnêtes Canadiens et Canadiennes dans les yeux et leur dire qu'il dit la vérité, quand le contraire a été démontré?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Chagger" id="9485059">
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839051">Notre <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va continuer à répondre aux vrais défis auxquels font face les Canadiens. Quel que soit l'endroit où se trouve le premier ministre, il doit toujours être en mesure d'exercer ses fonctions officielles. Comme ses prédécesseurs, le premier ministre est toujours en communication avec son bureau et reçoit constamment du soutien pendant ses voyages au pays et à l'étranger, que ces voyages soient à des fins officielles ou personnelles.</ParaText>
+              <ParaText id="4839051">Monsieur le Président, notre <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va continuer à répondre aux vrais défis auxquels font face les Canadiens. Quel que soit l'endroit où se trouve le premier ministre, il doit toujours être en mesure d'exercer ses fonctions officielles. Comme ses prédécesseurs, le premier ministre est toujours en communication avec son bureau et reçoit constamment du soutien pendant ses voyages au pays et à l'étranger, que ces voyages soient à des fins officielles ou personnelles.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -938,8 +921,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214171" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839057">Monsieur le Président, laissez-moi avoir une discussion avec la <Affiliation DbId="224669" Type="4">leader du gouvernement à la Chambre des communes</Affiliation>. Que signifie pour elle le sens d'un engagement électoral? Au fait, qu'ont promis les libéraux? Ils ont promis un léger déficit de 10 milliards de dollars, le retour à l'équilibre budgétaire en 2019, une réforme électorale majeure, un baisse d'impôts pour les PME. </ParaText>
-              <ParaText id="4839058">C'est clair, la leader du gouvernement nous a fait la preuve qu'une promesse libérale est un fait alternatif.</ParaText>
+              <ParaText id="4839057">Monsieur le Président, laissez-moi avoir une discussion avec la <Affiliation DbId="224669" Type="4">leader du gouvernement à la Chambre des communes</Affiliation>. Que signifie pour elle le sens d'un engagement électoral? Au fait, qu'ont promis les libéraux? Ils ont promis un léger déficit de 10 milliards de dollars, le retour à l'équilibre budgétaire en 2019, une réforme électorale majeure et un baisse d'impôts pour les PME. </ParaText>
+              <ParaText id="4839058">C'est clair, la leader du gouvernement nous a fait la preuve qu'une promesse libérale est un « fait alternatif ».</ParaText>
               <ParaText id="4839059">Pour une fois, le gouvernement peut-il respecter sa promesse d'ouverture et de transparence et s'engager à ne pas changer nos règles sans l'unanimité des députés?</ParaText>
             </Content>
           </Intervention>
@@ -1053,7 +1036,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="229484" Type="18">M. Jean Rioux (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839080">Monsieur le Président, nous sommes déterminés à offrir une rémunération convenable à nos militaires pour le travail remarquable qu'ils accomplissent dans le cadre des opérations menées par les Forces armées canadiennes. Comme le ministre l'a dit à plusieurs reprises, il est résolu à agir à ce sujet.</ParaText>
-              <ParaText id="4839081">Nous avons récemment modifié les dates d'entrée en vigueur des niveaux de risque, pour faire en sorte que les membres des Forces armées canadiennes qui étaient déployés au Koweït au moment où ces niveaux ont diminué ne seront pas touchés par cette modification pendant leur déploiement.</ParaText>
+              <ParaText id="4839081">Nous avons récemment modifié les dates d'entrée en vigueur des niveaux de risque pour faire en sorte que les membres des Forces armées canadiennes qui étaient déployés au Koweït au moment où ces niveaux ont diminué ne seront pas touchés par cette modification pendant leur déploiement.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1095,9 +1078,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214327" Type="4">L’hon. Mélanie Joly (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839092">Monsieur le Président, j'aimerais remercier mon collègue de son importante question, et souligner sa passion pour le dossier.</ParaText>
+              <ParaText id="4839092">Monsieur le Président, j'aimerais remercier mon collègue de son importante question et souligner sa passion pour le dossier.</ParaText>
               <ParaText id="4839093">Nous reconnaissons, bien entendu, l'importante contribution des arts et de la culture à la société et à l'économie canadiennes. Les négociations de l'ALENA n'ont pas débuté. Par contre, si un avis d'intention de négociation est donné au Canada, nous serons prêts.</ParaText>
-              <ParaText id="4839094">J'aimerais rappeler à mon collègue que la diversité culturelle est au coeur de mon action. Voilà pourquoi je travaille à l'échelle nationale et internationale afin de préserver la diversité culturelle à l'ère numérique.</ParaText>
+              <ParaText id="4839094">J'aimerais rappeler à mon collègue que la diversité culturelle est au coeur de mon action. Voilà pourquoi je travaille à l'échelle nationale et internationale: préserver la diversité culturelle à l'ère numérique.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1242,7 +1225,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485203">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les transports</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le transport ferroviaire</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Aubin" id="9485201">
             <PersonSpeaking>
@@ -1413,7 +1396,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214396" Type="2">M. Garnett Genuis (Sherwood Park—Fort Saskatchewan, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839158">Monsieur le Président, plus tôt cette semaine, j'ai présenté le projet de loi <Document DbId="8870309" Type="4">C-350</Document>, qui est identique au projet de loi <Document DbId="6367393" Type="4">C-561</Document> qui avait été présenté par l'ancien ministre libéral de la Justice, Irwin Cotler. Il s'agit d'une bonne mesure législative, non partisane, qui vise à lutter contre le prélèvement forcé d'organes, qui revient à tuer des gens pour prélever leurs organes. </ParaText>
+              <ParaText id="4839158">Monsieur le Président, plus tôt cette semaine, j'ai présenté le projet de loi <Document DbId="8870309" Type="4">C-350</Document>, qui est identique au projet de loi <Document DbId="6367393" Type="4">C-561</Document> qui avait été présenté par l'ancien ministre libéral de la Justice Irwin Cotler. Il s'agit d'une bonne mesure législative, non partisane, qui vise à lutter contre le prélèvement forcé d'organes, qui revient à tuer des gens pour prélever leurs organes. </ParaText>
               <ParaText id="4839159">Les libéraux feront-ils ce qui est juste, peu importe ce qu'en pense le gouvernement chinois, et appuieront-ils ce projet de loi qui vise à sauver des vies?</ParaText>
             </Content>
           </Intervention>
@@ -1458,7 +1441,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214211" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839165">Monsieur le Président, en tout cas, ce n'est pas ce qu'on voit. </ParaText>
-              <ParaText id="4839166">Avec ses grands projets de loi mammouth, le gouvernement brise encore ses promesses. L'automne dernier, c'était le projet de loi <Document DbId="8519336" Type="3">C-29</Document>. Le gouvernement nous en avait passé une petite vite en soustrayant les banques à la Loi sur la protection du consommateur du Québec. C'était tellement bien caché que personne ne l'a vu, sauf le Bloc québécois. On l'a échappé belle. Ce printemps, le projet de loi mammouth s'appelle le projet de loi <Document DbId="8874160" Type="3">C-44</Document> et il fait une fois et demie la grosseur du projet de loi C-29.</ParaText>
+              <ParaText id="4839166">Avec ses grands projets de loi mammouth, le gouvernement rompt encore ses promesses. L'automne dernier, c'était le projet de loi <Document DbId="8519336" Type="3">C-29</Document>. Le gouvernement nous en avait passé une petite vite en soustrayant les banques à la Loi sur la protection du consommateur du Québec. C'était tellement bien caché que personne ne l'a vu, sauf le Bloc québécois. On l'a échappé belle. Ce printemps, le projet de loi mammouth s'appelle le projet de loi <Document DbId="8874160" Type="3">C-44</Document> et il fait une fois et demie la grosseur du projet de loi C-29.</ParaText>
               <ParaText id="4839167">Quel est le sapin que le gouvernement veut nous passer cette fois?</ParaText>
             </Content>
           </Intervention>
@@ -1486,7 +1469,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214328" Type="4">L’hon. Jane Philpott (ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839171">Monsieur le Président, au cours des derniers mois, j'ai beaucoup travaillé avec mes homologues, les ministres de la Santé. Nous avons discuté de plusieurs enjeux. Nous avons discuté de l'introduction de la légalisation du cannabis, et nous allons continuer à travailler fort et à collaborer avec eux dans le but de protéger la santé et la sécurité des Canadiens.</ParaText>
+              <ParaText id="4839171">Monsieur le Président, au cours des derniers mois, j'ai beaucoup travaillé avec mes homologues les ministres de la Santé. Nous avons discuté de plusieurs enjeux. Nous avons discuté de l'introduction de la légalisation du cannabis, et nous allons continuer à travailler fort et à collaborer avec eux dans le but de protéger la santé et la sécurité des Canadiens.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1514,9 +1497,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4839176">Comme le gouvernement l'a dit, aucune relation ne nous importe davantage que celle que nous avons avec les peuples autochtones. Le gouvernement donne pleinement suite aux appels à l'action de la Commission de vérité et réconciliation. Il est notamment en train d'élaborer un cadre de réconciliation en ce qui a trait au patrimoine du Canada et à la commémoration. Bien entendu, toute décision dans ce dossier sera prise en collaboration étroite avec les peuples autochtones.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Warawa" id="9485278">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Warawa" id="9485278">
             <PersonSpeaking>
-              <Affiliation DbId="213926" Type="2">M. Mark Warawa (Langley—Aldergrove, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213926" Type="2">M. Mark Warawa</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839177">Monsieur le Président, j'invoque le Règlement. Je voudrais obtenir le consentement unanime de la Chambre pour déposer un rapport de la Bibliothèque du Parlement qui démontre clairement que la taxe sur le carbone aura une incidence sur les recettes fiscales de l'État fédéral.</ParaText>
             </Content>
@@ -1532,16 +1515,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Des voix: </B> Non. </ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9485871">
-        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Questions orales</SubjectOfBusinessQualifier>
-        <CatchLine>Recours au Règlement</CatchLine>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Falk" id="9485280">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Falk" id="9485280">
             <PersonSpeaking>
-              <Affiliation DbId="214174" Type="2">M. Ted Falk (Provencher, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214174" Type="2">M. Ted Falk</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839181">J'invoque le Règlement, monsieur le Président. Tout à l'heure, pendant la période des questions, lorsque nous l'avons interrogé sur la consigne du silence imposée à la GRC et à l'Agence des services frontaliers et sur l'incurie du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> dans le dossier des immigrants illégaux, le <Affiliation DbId="214300" Type="4">ministre de la Sécurité publique</Affiliation> a fait allusion à un rapport censé contenir les données compilées par ces deux organismes.</ParaText>
               <ParaText id="4839182">Monsieur le Président, je sais que les libéraux vous empêcheront d'obtenir le consentement unanime de la Chambre pour demander au ministre de déposer le rapport qu'il a entre les mains, mais pourriez-vous le demander pour qu'il dépose à tout le moins celui auquel il fait allusion dans sa réponse?</ParaText>
@@ -1555,9 +1531,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4839184">Je vois le <Affiliation DbId="214300" Type="4">ministre de la Sécurité publique</Affiliation> se lever. Peut-être nous aidera-t-il à y voir plus clair.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Goodale" id="9485282">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Goodale" id="9485282">
             <PersonSpeaking>
-              <Affiliation DbId="214300" Type="4">L'hon. Ralph Goodale (ministre de la Sécurité publique et de la Protection civile, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214300" Type="4">L'hon. Ralph Goodale</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839185">Monsieur le Président, comme je l'ai dit pendant la période des questions, ces données seront publiées très prochainement, et je ferai le nécessaire pour que le député en reçoive un exemplaire dès qu'elles seront sorties.</ParaText>
             </Content>
@@ -1711,7 +1687,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ProceduralText TocType="TPC" id="8">Projet de loi C-352. Présentation et première lecture</ProceduralText>
               <ParaText id="4839207">demande à présenter le projet de loi <Document DbId="8879647" Type="4">C-352, Loi modifiant la Loi de 2001 sur la marine marchande du Canada et prévoyant l’élaboration d’une stratégie nationale (abandon de bâtiments)</Document></ParaText>
-              <ParaText id="4839208">--Monsieur le Président, depuis des décennies, les collectivités bordant les trois océans du Canada font état du phénomène récurrent des bâtiments abandonnés. Ces collectivités courent divers risques: déversement d’hydrocarbures, pertes d’emplois, notamment dans les secteurs de l’aquaculture et de la pêche commerciale. On qualifie ces zones de no man's land, où les responsabilités ne sont plus assumées.</ParaText>
+              <ParaText id="4839208">-- Monsieur le Président, depuis des décennies, les collectivités bordant les trois océans du Canada font état du phénomène récurrent des bâtiments abandonnés. Ces collectivités courent divers risques: déversement d’hydrocarbures, pertes d’emplois, notamment dans les secteurs de l’aquaculture et de la pêche commerciale. On qualifie ces zones de no man's land, où les responsabilités ne sont plus assumées.</ParaText>
               <ParaText id="4839209">Ma prédécesseure, Jean Crowder, a présenté à la Chambre une mesure législative semblable. En février dernier, il y a de cela plus d’un an, j’ai présenté le projet de loi <Document DbId="8070917" Type="4">C-219</Document>. J’interviens aujourd’hui pour mettre à jour cette mesure législative à la lumière des appels répétés des administrations locales et du non-respect du délai de six mois imposé par le Parlement au gouvernement libéral pour présenter des solutions à la Chambre.</ParaText>
               <ParaText id="4839210">Ensemble, cessons ces manoeuvres évasives et confions à la Garde côtière canadienne la responsabilité des bâtiments abandonnés. Réglons le problème de l’enregistrement des bâtiments et allégeons le fardeau des contribuables. Élaborons une stratégie côtière avec les provinces et les municipalités. Agissons avant qu’il y ait des déversements d’hydrocarbures et rétablissons un projet pilote de dépôt de navires. Créons de bons emplois verts en appuyant les entreprises de récupération marine et en recyclant.</ParaText>
               <ParaText id="4839211">Le projet de loi se fonde sur l’excellent travail mené par de nombreuses associations d’administrations locales, notamment l’Union des municipalités de la Colombie-Britannique. Dimanche dernier, la section locale de l’union pour l’île de Vancouver et le district Sunshine Coast a approuvé le projet de loi à l’unanimité par résolution d’urgence. Je me réjouis de cet appui, j’ai hâte de débattre du projet de loi et j’espère avoir l’appui de la Chambre pour régler ce problème chronique de pollution marine.</ParaText>
@@ -1858,7 +1834,7 @@ vieillesse</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485562">
-        <SubjectOfBusinessQualifier>Le service ferroviaire voyageurs d'Algoma</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le transport ferroviaire</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Hughes" id="9485360">
             <PersonSpeaking>
@@ -1928,7 +1904,7 @@ vieillesse</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485483">
-        <SubjectOfBusinessQualifier>L'utilisation de détecteurs ioniques dans les prisons</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La sécurité publique</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Dubé" id="9485371">
             <PersonSpeaking>
@@ -2018,13 +1994,10 @@ vieillesse</SubjectOfBusinessTitle>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="9485412" Rubric="Other">
-      <CatchLine>Privilège</CatchLine>
       <SubjectOfBusiness id="9485413">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>L'accès  à la Chambre des communes</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le renvoi au Comité permanent de la procédure et des affaires de la Chambre</SubjectOfBusinessQualifier>
+        <CatchLine>Privilège</CatchLine>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="16">Motion</ProceduralText>
           <ParaText id="4839269">La Chambre reprend l'étude de la motion, de l'amendement et du sous-amendement.</ParaText>
@@ -2047,7 +2020,7 @@ vieillesse</SubjectOfBusinessTitle>
               <ParaText Interjection="e1" id="4839276">
                 <Affiliation DbId="214456" Type="2">Mme Rachael Harder:</Affiliation> Cela s'appelle une dictature.</ParaText>
               <ParaText id="4839277">
-                <Affiliation DbId="213994" Type="2">L’hon. Michelle Rempel:</Affiliation> Cela s'appelle une dictature. Ma collègue de <Affiliation DbId="214456" Type="2">Lethbridge</Affiliation> a trouvé les mots pour exprimer ma pensée.</ParaText>
+                <Affiliation DbId="213994" Type="2">L’hon. Michelle Rempel:</Affiliation> Cela s'appelle une dictature, monsieur le Président. Ma collègue de <Affiliation DbId="214456" Type="2">Lethbridge</Affiliation> a trouvé les mots pour exprimer ma pensée.</ParaText>
               <ParaText id="4839278">Monsieur le Président, voici certaines choses que je trouve absolument insensées. Prenons cette phrase: « Les décisions doivent être prises après un débat d'une durée raisonnable. » Le gouvernement n'a pas à décider de la durée raisonnable du débat. Les Canadiens décident de la durée raisonnable du débat, en nous élisant. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne peut pas changer de façon unilatérale les règles du Parlement pour décider de cette durée. C'est une fonction qui relève du Parlement.</ParaText>
               <ParaText id="4839279">On peut lire également dans le document: « Des changements sociétaux favorisent la nécessité d’assurer une plus grande prévisibilité à la Chambre [...] pour offrir un meilleur équilibre aux députés; et pour encourager des segments sous-représentés de la société à essayer de se faire élire. » Je ne comprends pas comment le fait de limiter le temps de parole dont chacun des élus dispose dans le cadre d'un débat permettrait un meilleur « équilibre ». Je présume que cela veut dire que le premier ministre veut travailler moins. Voilà selon moi ce qu'on entend par « meilleur équilibre ». Avoir les vendredis de congé me semble plutôt insensé. Pour ce qui est d'« encourager des segments sous-représentés de la société à essayer de se faire élire », je ne suis pas convaincue que je voudrais me faire élire après que nous ayons perdu notre droit de parole, qui est garanti par le Règlement de la Chambre. Voilà pourquoi ce qui se passe présentement au comité de la procédure est tellement ridicule.</ParaText>
               <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
@@ -2056,7 +2029,7 @@ vieillesse</SubjectOfBusinessTitle>
               <ParaText id="4839282">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="4839283">
-                <B>L'hon. Michelle Rempel:</B> Cela amuse mes collègues. Dans le document, les libéraux indiquent qu'être convoqué à voter sur un projet de loi est en somme un inconvénient. Je souligne à ceux qui regardent le débat qu'il s'agit de notre travail, ce pour quoi nous sommes payés. À la sonnerie d'appel, il faut aller voter. Les libéraux veulent qu'il en soit autrement.</ParaText>
+                <B>L'hon. Michelle Rempel:</B> Cela amuse mes collègues, monsieur le Président. Dans le document, les libéraux indiquent qu'être convoqué à voter sur un projet de loi est en somme un inconvénient. Je souligne à ceux qui regardent le débat qu'il s'agit de notre travail, ce pour quoi nous sommes payés. À la sonnerie d'appel, il faut aller voter. Les libéraux veulent qu'il en soit autrement.</ParaText>
               <ParaText id="4839284">Les libéraux souhaitent que la Chambre accepte de siéger au-delà des dates d'ajournement et de tenir des séances plus longues. À la lecture de ce document bourré d'aberrations, je me demande quel objectif poursuit le gouvernement.</ParaText>
               <ParaText id="4839285">On vient de me glisser une note afin de me suggérer d'expliquer, pour les gens qui nous écoutent, ce que signifie l'abréviation PROC, employée en anglais. Il s'agit du comité de la procédure et des affaires de la Chambre, celui qui examine ce type de propositions de changement. Il est aussi chargé d'examiner les motions de privilège.</ParaText>
               <ParaText id="4839286">Les libéraux ont essayé de faire quelque chose de similaire l'année dernière. Nous nous souvenons tous de la fameuse motion n<Sup>o</Sup> 6, avec laquelle le gouvernement a tenté de modifier le Règlement de façon unilatérale. Cette tentative de changer le Règlement a tellement enflammé l'atmosphère à la Chambre qu'une bagarre a éclaté durant laquelle le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a donné un coup de coude à une députée. C'est pour cette seule raison que la motion n'a pas été adoptée. Je me demande pourquoi, au lieu de perdre autant de temps à essayer d'apporter des modifications au Règlement qui rendront le Parlement moins démocratique, le gouvernement ne s'occupe pas plutôt de gouverner le pays. Les Canadiens qui regardent les efforts déployés par le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> pour faciliter son travail doivent penser qu'il devrait plutôt s'atteler à la tâche. C'est pour cela qu'ils le paient. Or, nous discutons encore aujourd'hui des modifications proposées.</ParaText>
@@ -2334,7 +2307,7 @@ vieillesse</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839400"> Tu l'aimes! C'est parce que vous vous aimez. </ParaText>
+              <ParaText id="4839400"> Vous l'aimez! C'est parce que vous vous aimez. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Genuis" id="9485750">
@@ -2413,7 +2386,7 @@ vieillesse</SubjectOfBusinessTitle>
               <ParaText id="4839437">
                 <B>M. Adam Vaughan:</B> Tout va bien dans le dossier de l'assurance automobile provinciale, David?</ParaText>
               <ParaText id="4839438">
-                <B>M. Matthew Dubé:</B> Monsieur le Président, je me fais chahuter par un député de Toronto qui parle de politique provinciale. Cela montre à quel point il prend très peu au sérieux la façon dont fonctionne la Chambre en ce moment.</ParaText>
+                <B>M. Matthew Dubé:</B> Monsieur le Président, je me fais chahuter par un député de Toronto qui parle de politique provinciale. Cela montre comme il prend très peu au sérieux la façon dont fonctionne la Chambre en ce moment.</ParaText>
               <ParaText id="4839439">Il a été élu en s'engageant à améliorer le fonctionnement de la Chambre. Toutefois, il est intervenu plus tôt pour dire que l'objectif était de veiller à ce que le pouvoir exécutif puisse faire adopter son programme. J'espère que les résidants de sa circonscription se souviendront que la priorité du député, c'est de faire adopter le programme des libéraux, plutôt que de s'assurer de pouvoir protéger son privilège, tant au sein des comités qu'à la Chambre.</ParaText>
               <ParaText id="4839440">Nous ne défendons pas seulement notre propre privilège. Nous défendons aussi le privilège des députés libéraux qui, malheureusement, sont restés muets sur cette question, du moins dans cette enceinte. J'aimerais bien être un petit oiseau pour entendre ce qu'ils disent au cours de leurs réunions de caucus et de leurs autres rencontres.</ParaText>
               <ParaText id="4839441">Non seulement nombre d'entre eux ont été élus pour la première fois aux élections de 2015, mais beaucoup d'entre eux se présentaient pour la première fois. Je n'ai aucun doute que, comme je l'ai mentionné, mardi, dans mon discours sur cette question, ils sont nombreux à avoir fait campagne parce que le chef de leur parti, qui est maintenant <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, a déclaré que nous venions de traverser 10 années horribles avec un dictateur au Parlement, avec Stephen Harper, qui ne respecte pas la façon de faire du Parlement, qui présente des projets de loi omnibus — oups —, qui a été élu avec 38 % des voix, soit une prétendue majorité dans un système injuste — oups —, qui décide qu'il est plus important de faire des déclarations à l'extérieur du Parlement qu'à la Chambre, dans des assemblées publiques, par exemple, au lieu de les faire ici — oups.</ParaText>
@@ -2609,17 +2582,15 @@ vieillesse</SubjectOfBusinessTitle>
               <ParaText id="4839523">Monsieur le Président, je tiens à rappeler au député d'en face que la <Affiliation DbId="224669" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> a choisi de discuter avec le reste de la Chambre, mais de le faire par l'entremise des médias au lieu d'avoir une conversation respectueuse. En fait, notre discussion des trois dernières semaines s'est concentrée sur le privilège parlementaire, notre sujet d'aujourd'hui. Je souhaite rappeler à tout le monde ce qu'on peut lire dans O'Brien et Bosc, à la page 61:</ParaText>
               <ParaText id="4839524">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Les privilèges des députés assurent l’immunité absolue dont ils ont besoin pour s’acquitter de leur travail parlementaire [...]</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Les privilèges des députés assurent l’immunité absolue dont ils ont besoin pour s’acquitter de leur travail parlementaire [pour leurs concitoyens. ]</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4839525">[...] pour leurs électeurs. </ParaText>
               <ParaText id="4839526">On peut ensuite lire ceci:</ParaText>
               <ParaText id="4839527">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1">Les privilèges des Communes visent à préserver les droits de chaque électeur. Par exemple, le privilège de la liberté de parole est accordé aux députés non pour leur avantage personnel, mais pour [...]</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1">Les privilèges des Communes visent à préserver les droits de chaque électeur. Par exemple, le privilège de la liberté de parole est accordé aux députés non pour leur avantage personnel, mais pour [...] représenter les électeurs [...]</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4839528"> [...] représenter les électeurs.</ParaText>
               <ParaText id="4839529">Le gouvernement tente, essentiellement, de museler l'opposition. Son geste signale, haut et clair, que les députés de l'opposition et les Canadiens représentés par un député de l'opposition — qu'il soit du Parti conservateur, du Nouveau Parti démocratique, du Bloc ou du Parti vert — n'ont pas leur mot à dire.</ParaText>
               <ParaText id="4839530">Le député est-il aussi d'avis que, essentiellement, les libéraux font savoir que le point de vue des électeurs représentés par un député de l'opposition ne compte pas, et qu'ils ne devraient pas avoir leur mot à dire?</ParaText>
             </Content>
@@ -2629,7 +2600,7 @@ vieillesse</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214025" Type="2">M. Alupa Clarke</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839531">Monsieur le Président, ce que les libéraux veulent, c'est de faire en sorte que la voix des Canadiens se fasse moins entendre à la Chambre. Depuis 1982, avec la révolution constitutionnelle qu'on a eue avec Pierre Elliott Trudeau, le Parti libéral tente de mettre fin un jour ou l'autre au système parlementaire westminstérien. Le but fondamental du Parti libéral, c'est d'amener un système républicain au Canada. Je vais m'opposer à cela à tout jamais. On a bloqué ce document de réforme avant qu'on en discute au comité pour s'assurer que ces propositions ne passent jamais.<ForceColumnBreak /></ParaText>
+              <ParaText id="4839531">Monsieur le Président, ce que les libéraux veulent, c'est de faire en sorte que la voix des Canadiens se fasse moins entendre à la Chambre. Depuis 1982, avec la révolution constitutionnelle qu'on a eue avec Pierre Elliott Trudeau, le Parti libéral tente de mettre fin un jour ou l'autre au système parlementaire westminstérien. Le but fondamental du Parti libéral, c'est d'amener un système républicain au Canada. Je vais m'opposer à cela à tout jamais. On a bloqué ce document de réforme avant qu'on en discute au comité pour s'assurer que ces propositions ne passent jamais.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="30">(1430)</Timestamp>

@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9405822">
-  <StartPageNumber>9365</StartPageNumber>
+  <StartPageNumber>9361</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -56,28 +38,20 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <Intro>
       <ParaText id="4787552">La séance est ouverte à 11 heures.</ParaText>
       <Prayer>Prière</Prayer>
-      <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
-      <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-      <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9405829">
-        <PersonSpeaking>
-          <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-        <Content>
-          <ParaText id="4787553">Comme il est 11 h 4, la Chambre abordera maintenant l'étude des affaires émanant des députés selon l'ordre indiqué au <I>Feuilleton</I> d'aujourd'hui.</ParaText>
-        </Content>
-      </Intervention>
     </Intro>
     <OrderOfBusiness id="9405831" Rubric="PrivateMembersBusiness">
       <OrderOfBusinessTitle>INITIATIVES PARLEMENTAIRES</OrderOfBusinessTitle>
       <CatchLine>Initiatives parlementaires</CatchLine>
       <SubjectOfBusiness id="9405832">
+        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi sur le cadre fédéral relatif à l'état de stress post-traumatique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4787554">La Chambre reprend l'étude, interrompue le 9 février, de la motion portant que le projet de loi <Document DbId="8072201" Type="4">C-211, Loi concernant un cadre fédéral relatif à l’état de stress post-traumatique</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <ProceduralText TocType="TPC" id="1">Projet de loi C-211. Deuxième lecture</ProceduralText>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Lightbound" id="9405834">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lightbound" id="9405834">
             <PersonSpeaking>
-              <Affiliation DbId="229488" Type="18">M. Joël Lightbound (secrétaire parlementaire de la ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229488" Type="18">M. Joël Lightbound</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787555">Monsieur le Président, j'interviens aujourd'hui au sujet du projet de loi d'initiative parlementaire <Document DbId="8072201" Type="4">C-211</Document>, Loi concernant un cadre fédéral relatif à l’état de stress post-traumatique.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -142,7 +116,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787584">Je vous remercie de me donner l'occasion d'éclaircir mes propos antérieurs.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9405842">
+          <Intervention Type="Interjection" ToC="No" id="9405842">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -358,7 +332,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <I>Et cinq députés ou plus s'étant levés:</I>
               </ParaText>
               <ParaText id="4787702">
-                <B> Le vice-président:</B> Conformément à l'article 93 du Règlement, le vote par appel nominal est différé jusqu'au mercredi 8 mars 2017, juste avant la période prévue pour les affaires émanant des députés.</ParaText>
+                <B> Le vice-président:</B> Conformément à l'article 93 du Règlement, le vote par appel nominal est différé jusqu'au mercredi 8 mars, juste avant la période prévue pour les affaires émanant des députés.</ParaText>
               <ProceduralText TocType="TPC" id="3">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
@@ -392,7 +366,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9405883">
+          <Intervention Type="Interjection" ToC="No" id="9405883">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -420,7 +394,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787711">Monsieur le Président, nous entamons la quatrième journée de débat à l'étape de la deuxième lecture du projet de loi <Document DbId="8362244" Type="3">C-23</Document>. En comptant les discussions d'aujourd'hui, nous aurons consacré plus de 10 heures à ce débat. Jusqu'à maintenant, 18 députés ont prononcé un discours au sujet de ce projet de loi, et d'autres prendront la parole aujourd'hui. Il ne faudrait pas oublier que l'examen détaillé de cette mesure se fera en comité. Je suis d'ailleurs certain que les membres du comité ont hâte de mettre la main à la pâte. Viendront ensuite l'étape du rapport, puis la troisième lecture. Les députés ont amplement l'occasion d'exprimer leur opinion tout au long de ce processus délibératif. Enfin, je note que monsieur est généralement en faveur du projet de loi à l'étude.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9405889">
+          <Intervention Type="Interjection" ToC="No" id="9405889">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -486,7 +460,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9405903">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9405903">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -579,7 +553,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787755">Monsieur le Président, si le député est en train de dire qu'il retire l'appui de l'opposition officielle au projet de loi <Document DbId="8362244" Type="3">C-23</Document>, cela risque de surprendre le porte-parole de son parti.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme May (Saanich—Gulf Islands)" id="9405925">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme May  (Saanich—Gulf Islands)" id="9405925">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
@@ -678,7 +652,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4787782">Monsieur le Président, j'ai une brève question complémentaire. J'ai demandé au ministre en vertu de quel principe il établit une différence entre une attribution de temps acceptable et une qui ne l'est pas. Il a dit qu'il s'agit d'une évaluation subjective du caractère raisonnable, selon les circonstances.</ParaText>
               <ParaText id="4787783">Habituellement, les leaders parlementaires discutent du temps nécessaire pour les débats. L'évaluation du caractère raisonnable est subjective, selon les circonstances et les enjeux. Cependant, cette décision est prise au cours d'une conversation entre les différents partis. Elle n'est pas prise par un parti seulement, ou encore par le gouvernement, selon ce qui, selon lui, est raisonnable, c'est-à-dire, dans la plupart des cas probablement, selon ce qui est dans son intérêt.</ParaText>
-              <ParaText id="4787784">Si le ministre pense que la décision relève d'une évaluation véritable de ce qui est raisonnable dans les circonstances, pourquoi le gouvernement ne travaille-t-il pas en collaboration avec les autres leaders parlementaires au lieu d'imposer l'attribution de temps? Les libéraux n'avaient-ils pas justement l'habitude de dénoncer le fait que le gouvernement décidait seul du temps alloué aux débats?</ParaText>
+              <ParaText id="4787784">Si le ministre pense que la décision relève d'une évaluation véritable de ce qui est raisonnable dans les circonstances, pourquoi le gouvernement ne travaille-t-il pas en collaboration avec les autres leaders parlementaires au lieu d'imposer l'attribution de temps? N'avaient-ils pas justement l'habitude de dénoncer le fait que le gouvernement décidait seul du temps alloué aux débats?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Goodale" id="9405953">
@@ -1013,7 +987,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Total> -- 2</Total>
             </DivisionType>
           </Division>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9406072">
+          <Intervention Type="Interjection" ToC="No" id="9406072">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1032,7 +1006,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="6">Projet de loi C-23. Deuxième lecture</ProceduralText>
           <ParaText id="4787802">La Chambre reprend l'étude, interrompue le 24 février,  de la motion portant que le projet de loi <Document DbId="8362244" Type="3">C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que l'amendement.</ParaText>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Stanton" id="9406058">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Stanton" id="9406058">
             <PersonSpeaking>
               <Affiliation DbId="214864" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1055,7 +1029,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787807">J'invoque le Règlement, monsieur le Président. Mon collègue est à quelques sièges de moi et je suis à peu près incapable d'entendre ce qu'il dit à cause de tout ce tintamarre. Je saurais gré aux députés de respecter leur collègue, de baisser le ton et de cesser de déranger les autres.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9406014">
+          <Intervention Type="Interjection" ToC="No" id="9406014">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1107,7 +1081,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787822">Cependant, il sera bien de faciliter les déplacements et le commerce entre le Canada et les États-Unis.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9406027">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9406027">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1291,7 +1265,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787884">Monsieur le Président, nous devrions présenter aux citoyens canadiens et américains la possibilité d'effectuer du précontrôle canadien dans de grands centres urbains américains. Je conviens que le projet de loi donne aux contrôleurs canadiens des droits réciproques pour éventuellement faire ce travail aux États-Unis et j'encourage le gouvernement à aller dans ce sens.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9406082">
+          <Intervention Type="Interjection" ToC="No" id="9406082">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1332,7 +1306,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4787904">Je vais m'arrêter ici. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9406087">
+          <Intervention Type="Interjection" ToC="No" id="9406087">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1446,7 +1420,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9406109">
         <SubjectOfBusinessTitle>Nimrat Gill</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Sidhu (Mission—Matsqui—Fraser Canyon)" id="9406110">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Sidhu  (Mission—Matsqui—Fraser Canyon)" id="9406110">
             <PersonSpeaking>
               <Affiliation DbId="214478" Type="2">M. Jati Sidhu (Mission—Matsqui—Fraser Canyon, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1589,7 +1563,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4787962">Monsieur le Président, nous accueillons aujourd'hui sur la Colline du Parlement des représentants de quatre universités du Canada atlantique: l'Université du Nouveau-Brunswick, l'Université Memorial de Terre-Neuve, l'Université de l'Île-du-Prince-Édouard et mon alma mater, qui est aussi la vôtre, monsieur le Président, l'Université Dalhousie. </ParaText>
               <ParaText id="4787963">Ces représentants sont à Ottawa aujourd'hui pour discuter avec les députés de l’Atlantique de collaboration et de croissance propre et inclusive dans le Canada Atlantique. Que l'on parle de la Faculté de génie de conception durable de l’Université de l’Île-du-Prince-Édouard, du laboratoire de recherche sur le réseau intelligent de l'Université du Nouveau-Brunswick, de l'institut de la technologie maritime de l'Université Memorial ou de l’institut Ocean Frontier de l’Université Dalhousie, ces quatre universités du Canada atlantique positionnent notre région à la fine pointe de l'innovation. Ces universités travaillent en étroite collaboration avec le gouvernement fédéral pour transformer les obstacles auxquels nous nous heurtons en possibilités communes.</ParaText>
-              <ParaText id="4787964">Je saisis cette occasion pour inviter tous les députés à une réception ce soir à compter de 19 heures dans l'édifice <?bk?>Sir-John-A.-Macdonald,<?ek?> où ils pourront rencontrer ces représentants et les remercier de tout ce que les universités en question font pour aider les provinces de l'Atlantique et le Canada entier à réaliser leur plein potentiel.</ParaText>
+              <ParaText id="4787964">Je saisis cette occasion pour inviter tous les députés à une réception ce soir à compter de 19 heures dans l'édifice <?bk ?>Sir-John-A.-Macdonald,<?ek ?> où ils pourront rencontrer ces représentants et les remercier de tout ce que les universités en question font pour aider les provinces de l'Atlantique et le Canada entier à réaliser leur plein potentiel.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1600,7 +1574,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <CatchLine>Questions orales</CatchLine>
       <SubjectOfBusiness id="9406142">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les aînés</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9406143">
             <PersonSpeaking>
@@ -1616,9 +1590,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787968">Monsieur le Président, encore une fois, les conservateurs mènent une campagne de peur pour essayer de faire peur aux aînés. Toutefois, comme Hazel McCallion l'a bien dit, les conservateurs ne feront pas peur aux aînés. </ParaText>
-              <ParaText id="4787969">La réalité, c'est que nous sommes en train de réduire les impôts pour la classe moyenne et d'augmenter les impôts du 1 % les mieux nantis. Nous avons aidé 9 familles sur 10 avec l'Allocation canadienne pour enfants. Nous avons augmenté de 10 % le Supplément de revenu garanti aux aînés les plus vulnérables. Cela représente seulement une petite partie de tout ce que nous sommes en train de faire pour aider les Canadiens vulnérables.</ParaText>
+              <ParaText id="4787969">La réalité, c'est que nous sommes en train de réduire les impôts pour la classe moyenne et d'augmenter les impôts du 1 % le mieux nanti. Nous avons aidé 9 familles sur 10 au moyen de l'Allocation canadienne pour enfants. Nous avons augmenté de 10 % le Supplément de revenu garanti pour les aînés les plus vulnérables. Cela représente seulement une petite partie de tout ce que nous sommes en train de faire pour aider les Canadiens vulnérables.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9412897">
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9406147">
             <PersonSpeaking>
               <Affiliation DbId="214127" Type="2">L'hon. Denis Lebel (Lac-Saint-Jean, PCC)</Affiliation>: </PersonSpeaking>
@@ -1633,7 +1612,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787973">Monsieur le Président, les conservateurs démontrent encore qu'ils n'ont pas appris les leçons de la dernière campagne électorale. </ParaText>
-              <ParaText id="4787974">Nous nous sommes engagés à investir dans l'avenir des communautés et dans la classe moyenne au pays. Nous avons démontré que nous avions besoin de miser sur notre avenir. C'est exactement ce que nous faisons en investissant dans le transport collectif, dans l'infrastructure verte, ainsi que dans les infrastructures sociales et du savoir. Nous savons qu'investir pour l'avenir va créer de bons emplois maintenant et de la croissance économique pour la classe moyenne et pour tous ceux qui travaillent fort pour en faire partie.</ParaText>
+              <ParaText id="4787974">Nous nous sommes engagés à investir dans l'avenir des communautés et dans la classe moyenne au pays. Nous avons démontré que nous avions besoin de miser sur notre avenir. C'est exactement ce que nous faisons en investissant dans le transport collectif, dans l'infrastructure verte, ainsi que dans les infrastructures sociales et celles du savoir. Nous savons qu'investir dans l'avenir va créer de bons emplois maintenant et de la croissance économique pour la classe moyenne et pour tous ceux qui travaillent fort pour en faire partie.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9406151">
@@ -1651,7 +1630,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787978">Monsieur le Président, nous reconnaissons à quel point les petites et moyennes entreprises sont des génératrices d'emplois et de croissance économique pour les communautés partout au pays. C'est pour cela que nous mettons plus d'argent dans les poches de la classe moyenne pour qu'elle puisse dépenser davantage et acheter des produits auprès de nos petites entreprises.</ParaText>
-              <ParaText id="4787979"> Des familles vont avoir plus d'argent pour élever leurs enfants. En effet, 9 familles sur 10 ont plus d'argent avec notre nouvelle Allocation canadienne pour enfants. Cette Allocation sortira 300 000 jeunes de la pauvreté partout au pays. Nous savons que le fait d'investir dans la croissance économique, c'est bon pour nos petites entreprises et c'est bon pour l'économie de ce pays.</ParaText>
+              <ParaText id="4787979"> Des familles vont avoir plus d'argent pour élever leurs enfants. En effet, 9 familles sur 10 ont plus d'argent avec notre nouvelle Allocation canadienne pour enfants. Cette allocation sortira 300 000 jeunes de la pauvreté partout au pays. Nous savons que le fait d'investir dans la croissance économique, c'est bon pour nos petites entreprises et c'est bon pour l'économie de ce pays.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1728,13 +1707,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787995">Monsieur le Président, nous continuons à travailler très fort avec l'administration américaine pour nous assurer que notre frontière demeure un endroit où les Canadiens, les biens et les services peuvent faire un transit efficace et rapide.</ParaText>
-              <ParaText id="4787996"> On sait que des millions d'emplois dépendent de cette frontière ouverte et que des milliers de Canadiens voyagent aux États-Unis régulièrement. Nous allons toujours travailler avec le gouvernement américain pour nous assurer que les Canadiens continuent de pouvoir voyager de façon libre et ouverte aux États-Unis. </ParaText>
+              <ParaText id="4787996"> On sait que des millions d'emplois dépendent de cette frontière ouverte et que des milliers de Canadiens voyagent aux États-Unis régulièrement. Nous travaillerons toujours avec le gouvernement américain pour nous assurer que les Canadiens continuent de pouvoir voyager de façon libre et ouverte aux États-Unis. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9406289">
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'agence du revenu du Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Mulcair" id="9406186">
             <PersonSpeaking>
@@ -1789,8 +1768,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788008">Monsieur le Président, notre but est d'améliorer la situation de la classe moyenne et celle des gens qui veulent en faire partie. </ParaText>
-              <ParaText id="4788009">C'est pourquoi nous faisons des investissements dans notre économie afin d'avoir un niveau de croissance plus haut et un meilleur avenir pour les emplois au Canada. Voilà notre projet. Nous allons continuer avec notre projet visant à améliorer la situation des Canadiens partout au pays. </ParaText>
+              <ParaText id="4788008">Monsieur le Président, notre but est d'améliorer la situation de la classe moyenne et de celle des gens qui veulent en faire partie. </ParaText>
+              <ParaText id="4788009">C'est pourquoi nous faisons des investissements dans notre économie afin d'avoir un niveau de croissance plus haut et un meilleur avenir pour les emplois au Canada. Voilà notre projet. Nous allons poursuivre notre projet visant à améliorer la situation des Canadiens partout au pays. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Deltell" id="9406199">
@@ -1881,7 +1860,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9406221">
+          <Intervention Type="Interjection" ToC="No" id="9406221">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1897,7 +1876,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4788033">En ce qui concerne l'environnement, nous avons travaillé en étroite collaboration avec les provinces et les territoires, chose que le gouvernement précédent n'a pas fait, afin de parvenir à un plan global...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9406223">
+          <Intervention Type="Interjection" ToC="No" id="9406223">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1934,7 +1913,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214102" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788041">Monsieur le Président, 444 millions de dollars et zéro accusation. Les bandits à cravate ont vraiment peur.</ParaText>
-              <ParaText id="4788042">Les gens qui vont travailler tous les matins paient leurs impôts. Ils n'ont pas le choix. Toutefois, s'ils remettent leur déclaration de revenus en retard, on leur tombe sur la tête dès le lendemain et ils doivent payer des intérêts. C'est drôle, lorsqu'on est millionnaires, ce ne sont pas les mêmes règles qui s'appliquent. Ils peuvent cacher leur fortune sous les palmiers des paradis fiscaux, et c'est correct. S'ils se font prendre, des ententes secrètes leur permettent de ne pas payer d'amende.</ParaText>
+              <ParaText id="4788042">Les gens qui vont travailler tous les matins paient leurs impôts. Ils n'ont pas le choix. Toutefois, s'ils remettent leur déclaration de revenus en retard, on leur tombe sur la tête dès le lendemain et ils doivent payer des intérêts. C'est drôle, lorsqu'on est millionnaire, ce ne sont pas les mêmes règles qui s'appliquent. Ils peuvent cacher leur fortune sous les palmiers des paradis fiscaux, et c'est correct. S'ils se font prendre, des ententes secrètes leur permettent de ne pas payer d'amende.</ParaText>
               <ParaText id="4788043">Quand le gouvernement libéral se fera-t-il greffer une colonne vertébrale? Quand se tiendra-t-il debout? Quand abolira-t-il les échappatoires fiscales? Quand renégociera-t-il les conventions bilatérales? Quand punira-t-il les fraudeurs?</ParaText>
             </Content>
           </Intervention>
@@ -1952,7 +1931,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>L'investissement étranger</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme McLeod (Kamloops—Thompson—Cariboo)" id="9406234">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme McLeod  (Kamloops—Thompson—Cariboo)" id="9406234">
             <PersonSpeaking>
               <Affiliation DbId="214386" Type="2">Mme Cathy McLeod (Kamloops—Thompson—Cariboo, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1969,7 +1948,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4788050">L'entreprise Retirement Concepts, qui est gérée et exploitée par des Canadiens, aura désormais la possibilité de prendre de l'expansion. Elle pourra ainsi offrir de meilleurs services aux aînés et créer des emplois, ce qui est avantageux pour l'économie.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme McLeod (Kamloops—Thompson—Cariboo)" id="9406239">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme McLeod  (Kamloops—Thompson—Cariboo)" id="9406239">
             <PersonSpeaking>
               <Affiliation DbId="214386" Type="2">Mme Cathy McLeod (Kamloops—Thompson—Cariboo, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2044,7 +2023,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9406431">
         <SubjectOfBusinessTitle>L'environnement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9406265">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9406265">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2092,7 +2071,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214554" Type="2">L'hon. Gerry Ritz (Battlefords—Lloydminster, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788076">Monsieur le Président, les libéraux ont mis de côté la chose que l'Ukraine voulait vraiment, c'est-à-dire l'imagerie par satellite.</ParaText>
-              <ParaText id="4788077">S'agissant des accords commerciaux, la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> a déclaré ce qui suit à la Chambre: « [...] nous avons besoin d'une plus grande transparence afin de savoir ce qui se passe. Nous n'avons pas seulement besoin de belles séances de photos. Nous voulons des éclaircissements sur ce qui se passe [... ] »</ParaText>
+              <ParaText id="4788077">S'agissant des accords commerciaux, la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> a déclaré ce qui suit à la Chambre: « nous avons besoin d'une plus grande transparence afin de savoir ce qui se passe. Nous n'avons pas seulement besoin de belles séances de photos. Nous voulons des éclaircissements sur ce qui se passe ».</ParaText>
               <ParaText id="4788078">Pourquoi donc des réunions commerciales bilatérales se sont-elles tenues secrètement le mois dernier à Beijing avant que les consultations publiques n’aient été publiées dans la <I>Gazette</I> la semaine dernière? Pourquoi la ministre n’est-elle pas franche et transparente avec les Canadiens? Qu’a-t-on convenu avec la Chine, outre la vente de résidences pour personnes âgées?</ParaText>
             </Content>
           </Intervention>
@@ -2106,7 +2085,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="45">(1445)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9407139">
+          <Intervention Type="Interjection" ToC="No" id="9407139">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2193,7 +2172,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4788101">Pour ce qui est de financer la recherche scientifique et la mise en oeuvre d'un dispositif de surveillance adéquat pour que l'aquaculture puisse être pratiquée sans danger sur les côtes canadiennes, le député connaît notre détermination à agir. Il sait qu'à nos yeux, l'aquaculture et la pêche offrent des débouchés à la classe moyenne sur les deux côtes et que ces deux secteurs économiques peuvent coexister sans se nuire.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9406302">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9406302">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2238,7 +2217,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214314" Type="4">L’hon. Amarjeet Sohi (ministre de l'Infrastructure et des Collectivités, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788108">®Monsieur le Président, permettez-moi de citer la présidente de l’Alberta Urban Municipalities Association:</ParaText>
+              <ParaText id="4788108">Monsieur le Président, permettez-moi de citer la présidente de l’Alberta Urban Municipalities Association:</ParaText>
               <ParaText id="4788109">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Nous nous félicitons qu’un collègue fédéral soit prêt à collaborer avec nous. Nos membres apprécient l’investissement continu que le programme fédéral prévoit dans les infrastructures et grâce auquel d’utiles projets municipaux verront le jour dans l’ensemble de la province. </QuotePara>
@@ -2283,7 +2262,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4788117">J'aimerais que la <Affiliation DbId="214338" Type="4">ministre des Sciences</Affiliation> réponde à la question que voici: quels investissements le gouvernement fait-il dans l'infrastructure de recherche afin que les scientifiques aient les outils dont ils ont besoin pour faire du Canada un chef de file mondial dans le domaine de la recherche et de l'innovation?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Etobicoke-Nord)" id="9406327">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Etobicoke-Nord)" id="9406327">
             <PersonSpeaking>
               <Affiliation DbId="214338" Type="4">L’hon. Kirsty Duncan (ministre des Sciences, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2467,7 +2446,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. DeCourcey" id="9406376">
             <PersonSpeaking>
-              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire de la ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788153">Monsieur le Président, au nom de la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> et en vertu du paragraphe 32(2) du Règlement, j'ai l'honneur de déposer, dans les deux langues officielles, le traité intitulé « Accord entre le gouvernement du Canada et le gouvernement de la Suisse aux termes de la Convention concernant l'assistance administrative mutuelle en matière fiscale, telle qu'amendée par le protocole de 2010 », fait à Ottawa le 22 décembre 2016 et à Berne le  9 décembre 2016.</ParaText>
               <ParaText id="4788154">J'ai également l'honneur de déposer un accord sur le transport aérien entre le gouvernement du Canada et le gouvernement de la Jamaïque, fait à Kingston, le 20 décembre 2016.</ParaText>
@@ -2537,7 +2516,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9406485">
         <SubjectOfBusinessQualifier>Les insecticides</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9406402">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9406402">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2568,7 +2547,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4788166">Monsieur le Président, je demande que toutes les questions restent au <I>Feuilleton</I>.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9406406">
+          <Intervention Type="Interjection" ToC="No" id="9406406">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2591,7 +2570,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
 La Chambre reprend l'étude de la motion portant que le projet de loi 
  <Document DbId="8362244" Type="3">C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que de l'amendement.</ParaText>
           <ProceduralText TocType="TPC" id="7">Projet de loi C-23. Deuxième lecture</ProceduralText>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9406410">
+          <Intervention Type="Interjection" ToC="No" id="9406410">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2647,7 +2626,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <ParaText id="4788186">Monsieur le Président, concernant la question de la députée, je tiens à signaler que les libéraux ont mis ce projet de loi au <I>Feuilleton</I> en juin. Ils ont attendu près d’un an avant de finalement permettre qu’on en débatte. Le député d’en face invoque maintenant ce délai pour justifier l’attribution de temps, ce qui équivaut à clore le débat. C’est une allégation injuste de sa part.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9406425">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9406425">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2691,7 +2670,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
             <PersonSpeaking>
               <Affiliation DbId="214396" Type="2">M. Garnett Genuis (Sherwood Park—Fort Saskatchewan, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788206">Monsieur le Président, nous sommes d'accord avec la position générale que reflète le projet de loi. Cependant, il est curieux que le député ait décidé de prendre beaucoup de temps à réfuter les commentaires d'une candidate du NPD à une élection partielle au lieu de se concentrer sur le débat avec les députés à la Chambre. Bien entendu, j'aurais pensé qu'il aurait été plus préoccupé par le candidat du Parti conservateur dans le cadre de cette élection partielle, mais l'endroit est peut-être mal choisi pour soulever ces points.</ParaText>
+              <ParaText id="4788206">Monsieur le Président, bien sûr, nous sommes d'accord sur la position générale que reflète le projet de loi. Cependant, il est curieux que le député ait décidé de prendre beaucoup de temps à réfuter les commentaires d'une candidate du NPD à une élection partielle au lieu de se concentrer sur le débat avec les députés à la Chambre. Bien entendu, j'aurais pensé qu'il aurait été plus préoccupé par le candidat du Parti conservateur dans le cadre de cette élection partielle, mais l'endroit est peut-être mal choisi pour soulever ces points.</ParaText>
               <ParaText id="4788207">En l'occurrence, le projet de loi traite du précontrôle des personnes. Il n'aborde pas la question du précontrôle des marchandises. Le député en a parlé, alors je me demande s'il est en mesure de justifier l'importance d'agir à cet égard. Par ailleurs, est-il en mesure de nous dire quel est l'échéancier du gouvernement en ce qui a trait au précontrôle des marchandises?</ParaText>
             </Content>
           </Intervention>
@@ -2772,7 +2751,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9406576">
+          <Intervention Type="Interjection" ToC="No" id="9406576">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2785,7 +2764,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <Affiliation DbId="214027" Type="2">M. Anthony Housefather (Mont-Royal, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788247">Monsieur le Président, je voudrais offrir à la députée de <Affiliation DbId="214592" Type="2">Churchill—Keewatinook Aski</Affiliation> mes meilleurs voeux en ce qui concerne l'annonce qu'elle doit faire cette semaine et que nous attendons tous.</ParaText>
-              <ParaText id="4788248">Voici ma question. Nous avons tous entendu parler d'incidents très regrettables et alarmants qui se sont produits à certains postes frontaliers. Le précontrôle évite aux gens d'avoir à passer par un poste frontalier. J'aimerais demander à la députée si elle a entendu parler d'incidents qui se seraient produits au précontrôle. <?bk?>Personnellement,<?ek?>  je n'ai entendu parler d'aucun incident du genre. S'il n'y a pas eu d'incidents fâcheux, ne serait-il pas préférable que plus de personnes passent par le précontrôle, plutôt que par la frontière?</ParaText>
+              <ParaText id="4788248">Voici ma question. Nous avons tous entendu parler d'incidents très regrettables et alarmants qui se sont produits à certains postes frontaliers. Le précontrôle évite aux gens d'avoir à passer par un poste frontalier. J'aimerais demander à la députée si elle a entendu parler d'incidents qui se seraient produits au précontrôle. <?bk ?>Personnellement,<?ek ?>  je n'ai entendu parler d'aucun incident du genre. S'il n'y a pas eu d'incidents fâcheux, ne serait-il pas préférable que plus de personnes passent par le précontrôle, plutôt que par la frontière?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Ashton" id="9406597">
@@ -2826,8 +2805,6 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <ParaText id="4788261">Premièrement, en ce qui concerne les droits, nous savons tous que le Canada et les États-Unis établissent et appliquent leurs propres règles afin de déterminer les personnes et les marchandises pouvant entrer sur leur territoire respectif. Toutefois, aux termes du projet de loi <Document DbId="8362244" Type="3">C-23</Document>, les Canadiens qui procèdent, alors qu'ils sont encore au Canada, aux formalités américaines de douanes et d'immigration seraient protégés par les normes juridiques du Canada et la Charte canadienne. Il s'agit là d'un avantage certain. En revanche, les personnes qui entrent aux États-Unis par un point d'entrée frontalier, en sol américain, ne seraient pas protégés par la Charte canadienne puisque les contrôleurs américains n'y sont pas assujettis.</ParaText>
               <ParaText id="4788262">Prenons l'exemple du retrait. Si des voyageurs souhaitent se soustraire à un précontrôle au Canada et décident de ne plus se rendre aux États-Unis, ils seraient en mesure de le faire en vertu du projet de loi C-23, comme c'est le cas dans le cadre de l'accord actuel en matière de précontrôle. La seule différence, c'est que les contrôleurs américains pourraient désormais demander aux voyageurs de s'identifier et de faire état des raisons de leur retrait. Cela vise à empêcher les gens de sonder les zones de précontrôle de façon illicite. L'autre solution serait de se rendre aux États-Unis afin de se soumettre à l'examen des autorités américaines en sol américain. À ce stade, il ne serait plus possible de se soustraire au processus parce que la personne serait déjà aux États-Unis.</ParaText>
               <ParaText id="4788263">J'ai entendu des députés soutenir que les voyageurs sont déjà protégés par le système de précontrôle actuel et que, par conséquent, aucun changement n'est nécessaire. Le problème, c'est que seulement huit aéroports canadiens offrent actuellement des services de précontrôle. Les voyageurs qui partent d'autres aéroports ne peuvent pas s'acquitter des procédures frontalières américaines au Canada, et ils n'ont donc pas le droit de se soustraire à un précontrôle. Grâce au projet de loi <Document DbId="8362244" Type="3">C-23</Document>, nous pourrions commencer à étendre la portée du précontrôle afin que plus de voyageurs canadiens puissent profiter de ses avantages et de ses protections.</ParaText>
-              <ParaText />
-              <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
               <ParaText id="4788264">Un autre élément à clarifier en ce qui concerne les droits des voyageurs est le fait que les agents de précontrôle des États-Unis n'auraient pas le pouvoir d'appliquer le droit pénal américain ou de faire des arrestations au Canada. Si les agents de précontrôle américains ont des motifs raisonnables de croire qu’un voyageur a commis une infraction à la loi canadienne, ceux-ci peuvent détenir la personne sans l'arrêter, mais uniquement en vue de la remettre immédiatement aux autorités canadiennes. Cela n'a rien de nouveau. En effet, cela fait partie du cadre de précontrôle qui est déjà en place depuis 1999. </ParaText>
               <ParaText id="4788265">Autrement dit, contrairement à ce que certains ont avancé, aucun compromis n'a été fait en ce qui a trait aux droits ou aux valeurs des Canadiens. Au contraire, le projet de loi <Document DbId="8362244" Type="3">C-23</Document> étendrait la protection de la Charte canadienne des droits et libertés pour qu'elle s'applique également aux Canadiens prenant des vols en partance d'aéroports comme l'aéroport Billy Bishop ou l'aéroport Jean-Lesage à Québec. À l'heure actuelle, ces endroits ne sont pas couverts par la Charte. Cela serait aussi applicable pour la première fois aux Canadiens qui utilisent d'autres moyens de transport, en commençant par les chemins de fer de Montréal et de la Colombie-Britannique.</ParaText>
               <ParaText id="4788266">Les Canadiens comptent sur nous pour s'assurer que leurs droits et leurs valeurs, de même que les protections qui leur sont accordées en vertu de la Charte canadienne des droits et libertés, de la Déclaration canadienne des droits et de la Loi canadienne sur les droits de la personne, sont au coeur de toutes les mesures législatives que nous étudions à la Chambre. En élargissant l'accès aux protections conférées par la Charte, le projet de loi <Document DbId="8362244" Type="3">C-23</Document> est un pas dans la bonne direction pour les droits des voyageurs canadiens.</ParaText>
@@ -3171,7 +3148,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <ParaText id="4788393">Monsieur le Président, c'était formidable de participer au débat d'aujourd'hui. Je devais prendre la parole et poser une question parce qu'on a mentionné l'aéroport Billy Bishop à quelques reprises. C'est excellent qu'il obtienne désormais le précontrôle, mais en même temps, les libéraux, immédiatement après les élections, sans données scientifiques ou toutes ces données qu'ils devaient obtenir avant de prendre une décision, ont empêché l'aéroport Billy Bishop d'allonger sa piste d'atterrissage pour élargir son rayon d'action et utiliser le précontrôle. Réévaluerez-vous l'interruption inopportune de l'expansion de l'aéroport Billy Bishop afin de lui permettre de profiter réellement du précontrôle?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9407573">
+          <Intervention Type="Interjection" ToC="No" id="9407573">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3426,7 +3403,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <ParaText id="4788492">Je crois que le député soulève une bonne question. Il faudrait que le comité s'y penche, et nous devrions tous certainement nous y intéresser. Bien entendu, il reste beaucoup de questions encore sans réponse au sujet du projet de loi sur la marijuana. J'ai bien hâte qu'elles soient soulevées lors des travaux du comité.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9408164">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9408164">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3527,7 +3504,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse (Windsor-Ouest)" id="9408329">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse  (Windsor-Ouest)" id="9408329">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse (Windsor-Ouest, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3558,14 +3535,14 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <ParaText id="4788546">Voici ma question pour le député: pourquoi tant de peur? Pourquoi le NPD avance-t-il des arguments entièrement infondés en ce qui a trait à ce projet de loi?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse (Windsor-Ouest)" id="9408344">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse  (Windsor-Ouest)" id="9408344">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788547">Monsieur le Président, il est malheureux que le député aime tant s'énerver et qu'il éclate ainsi. De toute façon, je crois qu'il est important de souligner qu'on ne parle pas uniquement des aéroports. Il est clairement question de la criminalité et de la corruption en place et du fait que nous sommes en train d'accroître la souplesse, les droits et la portée des dispositions. Il y a une nette différence entre ce que les libéraux veulent faire sans reddition de comptes, sans processus rigoureux ni vérifications par la suite, et ce que nous faisons à l'heure actuelle pour nous assurer que nous comprenons clairement ce dont il est question. J'ai déjà étudié ce type de dossier, j'ai grandi près de la frontière et j'étais constamment à Washington à travailler avec le service des douanes et aussi avec les sénateurs et le Congrès. Ils sont très conscients de la fragilité de la situation. Paradoxalement, ce sont certains des plus ardents défenseurs qui sont aussi le plus préoccupés par cet accroissement de pouvoir.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9408346">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9408346">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3574,7 +3551,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse (Windsor-Ouest)" id="9408349">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Masse  (Windsor-Ouest)" id="9408349">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">M. Brian Masse</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3727,7 +3704,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. DeCourcey" id="9408395">
             <PersonSpeaking>
-              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire de la ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788616">Monsieur le Président, je suis heureux de prendre la parole ce soir au sujet de cette importante mesure législative. Le projet de loi <Document DbId="8362244" Type="3">C-23</Document> mettra en oeuvre l'entente conclue avec les États-Unis pour étendre les opérations de précontrôle à d'autres endroits et à d'autres modes de transport, en plus d'ouvrir la porte au précontrôle des marchandises et aux activités de précontrôle canadiennes en sol américain.</ParaText>
               <ParaText id="4788617">Je suis ravi du débat animé qui a eu lieu tout au long de la journée — en fait depuis environ une semaine environ — sur le projet de loi <Document DbId="8362244" Type="3">C-23</Document>. Cela dit, pendant l'étude et les discussions relatives à la mesure législative proposée, nous devons nous appuyer sur une excellente compréhension du projet de loi et avoir pleinement conscience des grands avantages qu'engendrerait l'élargissement des activités de précontrôle en concertation avec les États-Unis.</ParaText>
@@ -3804,7 +3781,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="45">(1845)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9408417">
+          <Intervention Type="Interjection" ToC="No" id="9408417">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4469,7 +4446,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi
               <Total> -- 2</Total>
             </DivisionType>
           </Division>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9408443">
+          <Intervention Type="Interjection" ToC="No" id="9408443">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>

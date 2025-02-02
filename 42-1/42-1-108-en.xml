@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9236161">
   <StartPageNumber>6795</StartPageNumber>
   <DocumentTitle>
@@ -474,25 +455,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <SubjectOfBusiness id="9236787">
         <SubjectOfBusinessTitle>International Development</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9236312">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9236315">
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638310">Mr. Speaker, it is well documented that schools that are run by the United Nations Relief and Works Agency within the Palestinian authority have incited terrorism against Israel.</ParaText>
-              <ParaText id="4638311">The Conservative government rightly cut UNRWA's funding because we had no assurances about where the money was going. </ParaText>
-              <ParaText id="4638312">While the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claims to support Israel, his actions prove otherwise. How can he ensure that these dollars will not put Israeli citizens at further risk—</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9236314">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638313">Order. The microphone was cut off during the member's question. I will ask her to repeat her question, and hopefully the microphone will be on the whole time.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Ms. Ambrose" id="9236315">
-            <PersonSpeaking>
-              <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4638314">Mr. Speaker, it is well documented that schools run by the United Nations Relief and Works Agency within the Palestinian authority have incited terrorism against Israel. The Conservative government rightly cut UNRWA's funding, because we had no assurances about where the money was going. </ParaText>
               <ParaText id="4638315">While the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claims to support Israel, his actions prove otherwise. How can he ensure these dollars will not put Israeli citizens at further risk, or is this just another down payment of Canadian tax dollars to win him a UN Security Council seat?</ParaText>
@@ -1010,7 +975,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4638425">Mr. Speaker, the reason we chose Groupe St-Pierre is that we want to get rid of the <I>Kathryn Spirit</I> as quickly as possible. It has been there for five years, and it is time to take action. The previous government did not deal with this issue, but we will. We will pay $7.9 million to build an embankment to isolate the ship from the St. Lawrence River. In the spring, we will put out a tender for the ship's dismantling.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9236480">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Transport</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Block" id="9236479">
             <PersonSpeaking>
               <Affiliation DbId="214485" Type="2">Mrs. Kelly Block (Carlton Trail—Eagle Creek, CPC)</Affiliation>: </PersonSpeaking>
@@ -1029,7 +999,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4638431">We continue to collaborate with British Columbia and with the proponent to move the project forward.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9236359">
+        <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
+        <SubjectOfBusinessTitle>The Environment</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Motz" id="9236484">
             <PersonSpeaking>
               <Affiliation DbId="227983" Type="2">Mr. Glen Motz (Medicine Hat—Cardston—Warner, CPC)</Affiliation>: </PersonSpeaking>
@@ -1386,6 +1361,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4638511">Let us be very clear. What investors at this level want to do is make as much profit and as much margin as they can on their investments, and they want to reduce risk. We do not know yet, but we are very close to perhaps knowing what investors think. If they can offload the risk to taxpayers by having this bank, yet gain all of the return and profits from these projects, this will be the perfect scenario. </ParaText>
               <ParaText id="4638512">We are watching very closely what the government does in terms of the structure. It has given us no details at all.</ParaText>
               <ParaText id="4638513">While we have a model that is working, what we call P3, the government is deciding to undo that on the speculation that investors will be the ones who will cover both sides of the equation, profit and risk. However, they perhaps will not take the risk, and it will be left to Canadian taxpayers.</ParaText>
+              <ParaText id="4668061">
+                <B>The Speaker:</B> Resuming debate, the hon. member for Carleton.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
@@ -1801,157 +1778,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4638541">It is my duty pursuant to Standing Order 38 to inform the House that the questions to be raised tonight at the time of adjournment are as follows: the hon. member for Drummond, Official Languages; the hon. member for Sherwood Park—Fort Saskatchewan, Foreign Affairs; the hon. member for Calgary Nose Hill, Foreign Affairs.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9236992">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Questions on the Order Paper</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duclos" id="9236828">
-            <PersonSpeaking>
-              <Affiliation DbId="214330" Type="4">Hon. Jean-Yves Duclos (Minister of Families, Children and Social Development, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638542">Mr. Speaker, the following questions will be answered today: Nos. 522 and 524.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237095">
-        <SubjectOfBusinessContent>
-          <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 522--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214064" Type="2">Ms. Brigitte Sansoucy</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638543"> With regard to the government’s claims that the new Canada Child Benefit will lift 60 000 Quebec children out of poverty: (<I>a</I>) what specific methods and projections did the government use to make that claim; (<I>b</I>) how many children in Quebec were living in poverty as of (i) January 1, 2014, (ii) January 1, 2015, (iii) January 1, 2016; (<I>c</I>) using the government’s studies and projection methods, how many children will there be living in poverty in Quebec as of (i) January 1, 2017, (ii) January 1, 2018, (iii) January 1, 2019?</ParaText>
-            </QuestionContent>
-            <Responder>
-              <Affiliation DbId="214678" Type="18">Mr. Terry Duguid (Parliamentary Secretary to the Minister of Families, Children and Social Development, Lib.)</Affiliation>: </Responder>
-            <ResponseContent>
-              <ParaText id="4638544">Mr. Speaker, with regard to the government’s claims that the new Canada child benefit will lift 60 000 Quebec children out of poverty, and question (a) specifically, the Canada child benefit, CCB, poverty reduction impacts were estimated through an ESDC micro-simulation model. The model is static in nature, which means that it does not take behavioural responses to policy changes into account. The impacts are estimated by employing a counterfactual method of calculating the effects of a change of policy on a family’s after-tax income. In short, this signifies that a family’s income can be compared under two scenarios (that is, scenario 1 under the existing child benefit system, and scenario 2, under a proposed child benefit system such as the CCB) to determine whether a family whose income would be below a given threshold under scenario 1 would no longer be in that situation under scenario 2. The poverty reduction impact is estimated as the difference between these two scenarios in the number of children below the low-income cut-offs, LICO. Using this approach, it was estimated that nearly 60,000 children would be lifted above the LICO in Quebec as a result of the CCB. </ParaText>
-              <ParaText id="4638545">This estimate was produced with an ESDC micro-simulation model that was benchmarked to the child low-income population as it is known through Statistics Canada’s published data (the “Survey of Labour and Income Dynamics” is used as the foundational database for the ESDC model). At the time that the estimate was produced, the “Canadian Income Survey”, Canada’s official source of income data, reported a total number of 163,000 children living below the LICO in 2013. An assumption was made that the number of low-income children would remain unchanged beyond 2013. The system of child
-benefits that existed in 2013 was therefore chosen as the baseline child benefit system for purposes of the counterfactual analysis.
-</ParaText>
-              <ParaText id="4638546">After doing this, it was estimated that the CCB would result in 60,000 children being lifted above the LICO.</ParaText>
-              <ParaText id="4638547">With regard to (b), low income is measured by comparing a family or individual’s income for an entire year to a pre-set threshold such as the LICO for that year. Therefore, it is not possible to tell how many individuals or children are in poverty on a specific day.  </ParaText>
-              <ParaText id="4638548">The latest low-income statistics available from Statistics Canada are for the year 2014, which reported there were 105,000 children in Quebec below the LICO in 2014. Statistics for 2015 and 2016 are not yet available.  </ParaText>
-              <ParaText id="4638549">With regard to (c), as mentioned in the answer to question (b), low income is not measured as a specific point in time situation, but rather over an entire year.  </ParaText>
-              <ParaText id="4638550">Under the assumptions and methodology laid out in answer to question (a), that is, a starting point of 163,000 children below the LICO, reflective of the most recent data available at the time the estimate was performed, ESDC has estimated the number of children below the after-tax LICO to be 103,000 for 2017. The actual number of children in low income for that year will be known when the 2017 “Canadian Income Survey” will be released by Statistics Canada, which may not be until 2019. (For reference, the “Canadian Income Survey, 2014”, was released in July 2016.) </ParaText>
-              <ParaText id="4638551">There is significant volatility in the figures of low-income children published by Statistics Canada from one year to the next. Estimates for 2017 are provided because it is the first full year of implementation of the CCB. However, the further in the future that estimates are made, the higher the uncertainty that is associated with these estimates becomes, and estimates beyond 2017 would not be sufficiently reliable at this point.          </ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 524--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214272" Type="2">Mr. Matt Jeneroux</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638552"> With regard to refurnishing the Prime Minister's residences at Harrington Lake and at Rideau Cottage: what is the value, or estimated value, as well as a description of any piece of furniture acquired since November 4, 2015, for (i) Harrington Lake, (ii) Rideau Cottage?</ParaText>
-            </QuestionContent>
-            <Responder>
-              <Affiliation DbId="214682" Type="18">Mr. Randy Boissonnault (Parliamentary Secretary to the Minister of Canadian Heritage, Lib.)</Affiliation>: </Responder>
-            <ResponseContent>
-              <ParaText id="4638553">Mr. Speaker, the NCC does not attribute the cost of any furniture acquisition to any of the official residences, since all furnishings, acquired or existing for the official residences, are considered part of the NCC’s crown collection or general service asset inventory. Therefore, there are no costs associated with any furnishing changes or purchases related specifically to the Harrington Lake property or to Rideau Cottage.</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237097">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>
-      Questions Passed as Orders for Returns</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duclos" id="9237103">
-            <PersonSpeaking>
-              <Affiliation DbId="214330" Type="4">Hon. Jean-Yves Duclos (Minister of Families, Children and Social Development, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4638554">Mr. Speaker, if Questions Nos. 520, 521, 523, 525, and 526 could be made orders for returns, these returns would be tabled immediately.</ParaText>
-              <ParaText id="4638555">
-                <B>The Speaker:</B> Is that agreed?</ParaText>
-              <ParaText id="4638556">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237106">
-        <SubjectOfBusinessContent>
-          <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 520--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214564" Type="2">Mr. Charlie Angus</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638557">  With respect to First Nations Child and Family Caring Society of Canada and Assembly of First Nations v Attorney General of Canada (representing the Minister of Aboriginal Affairs and Northern Development Canada), Canadian Human Rights Tribunal File No. T1340/7008: (<I>a</I>) what are the total legal costs incurred by the government in this matter since January 25, 2016; (<I>b</I>) of the 382 million dollars announced for Jordan’s Principle, (i) who was consulted, (ii) what was the process of consultation, (iii) what is the annual breakdown of this funding, (iv) what is the total breakdown of the allocation of these funds; (<I>c</I>) what is the date on which the budget investments in the child welfare system were initially developed; (<I>d</I>) with respect to adjustment to funding formulae regarding remoteness in the child welfare system, (i) will Indigenous and Northern Affairs Canada (INAC) develop a strategy that takes into account such things, (ii) if so, when will such a strategy will be implemented; (<I>e</I>) with respect to consultation during this legal process, (i) what is the list of the First Nations, First Nations Child and Family Services (FNCFS) Agencies, provincial and territorial authorities, partners, experts or any other persons that INAC has consulted with since January 26, 2016, in response to the findings in the Canadian Human Rights Tribunal’s January 26, 2016, decision, (ii) what is INAC’s consultation plan moving forward, (iii) what are the agendas for any consultations INAC has had with First Nations, FNCFS Agencies, provincial and territorial authorities, partners, experts or any other persons INAC has consulted with since January 26, 2016, (iv) what are the summaries of discussions for any consultations INAC has had with First Nations, FNCFS Agencies, provincial and territorial authorities, partners, experts or any other persons INAC has consulted with since January 26, 2016; (<I>f</I>) with respect to the allocation of immediate relief funding in Ontario, what are the the details of all correspondence between INAC and the Government of Ontario on this topic; (<I>g</I>) with respect to the definition of prevention services in Ontario that was raised in the ruling, (i) will INAC reimburse costs for travel to access physician-prescribed special needs services and assessments, special needs rehabilitative and support services and respite care, and support for families in crisis under the 1965 Memorandum of Agreement Respecting Welfare Programs for Indians, (ii) what are the details of any requests INAC has received for reimbursement of costs for travel to access physician-prescribed special needs services and assessments, special needs rehabilitative and support services and respite care, and support for families in crisis in Ontario; (<I>h</I>) with respect to the infrastructure needs in Ontario that were identified by the ruling, (i) does INAC have an interim strategy to deal with infrastructure needs of FNCFS Agencies in Ontario outside of the 1965 Memorandum of Agreement Respecting Welfare Programs for Indians, (ii) if INAC has such an interim strategy, what are the details of that strategy, (iii) if INAC does not have an interim strategy, has anything been done to develop such a strategy; (<I>i</I>) with respect to eligibility in Ontario, (i) will INAC address access to services for First Nations children in Ontario who are “entitled to be registered” under the Indian Act, (ii) if INAC will address such access to services, when will such access be addressed; (<I>j</I>) with respect to consultation on Jordan’s Principle, (i) what is the list of First Nations, FNCFS Agencies, provincial and territorial authorities, partners, experts or any other persons INAC has consulted with since January 26, 2016, in response to the findings in the Canadian Human Rights Tribunal’s January 26, 2016, decision, along with INAC’s consultation plan moving forward, (ii) what were the agendas for any consultations INAC has had with First Nations, FNCFS Agencies, provincial and territorial authorities, partners, experts or any other persons INAC has consulted with since January 26, 2016, (iii) what are the summaries of discussions for any consultations INAC has had with First Nations, FNCFS Agencies, provincial and territorial authorities, partners, experts or any other persons INAC has consulted with since January 26, 2016; and (<I>k</I>) with respect to the Canadian Incidence Study, (i) is funding being provided for the Aboriginal component of the Study, including whether that component of the Study will include data collection specific to remote and northern First Nations, (ii) if funding is being provided, when will the Study be in the field, (iii) what are the details of methodology used for data collection with regard to the Aboriginal component of the Study and with regard to remote and northern First Nations? </ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638558">(Return tabled)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 521--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638559">  With regard to the government’s response to petition No. 388, addressed to the Commissioner of the Environment and Sustainable Development, specifically in response to question three, wherein the government states it would preferably use the Central Experimental Farm for two future-planned studies: (<I>a</I>) what is the objective of each study; (<I>b</I>) based on research conducted by the government, is it possible to determine if each study be concluded by the end of 2022; (<I>c</I>) which characteristics of this specific plot of the Central Experimental Farm are required for these studies, broken down by type; (<I>d</I>) has the government considered whether these studies can be completed on another plot of the Central Experimental Farm, and if so, what was its conclusion; (<I>e</I>) what similar lands or facilities exist that could accommodate these studies; (<I>f</I>) to-date what costs have been incurred in preparing these studies; and (<I>g</I>) has the cost of cancelling these studies been considered, and if so, what would they be?</ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638560">(Return tabled)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 523--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214417" Type="2">Mr. Larry Miller</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638561"> With regard to moving expenses for individuals working on a contract basis, broken down by government department and agency, since November 4, 2015: (<I>a</I>) how many individuals working on a contract basis have had their moving or temporary accommodation expenses paid for by the government; (<I>b</I>) how much was paid, broken down by expense type; (<I>c</I>) how many individuals working on a contract basis for a Minister's office have had their moving or temporary accommodation expenses paid for by the government; and (<I>d</I>) for each case referred to in (<I>c</I>), (i) how much was paid, (ii) what is the specific breakdown of expenses paid?</ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638562">(Return tabled)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 525--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214272" Type="2">Mr. Matt Jeneroux</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638563">  With regard to cyber attacks, broken down by month, and by department, agency, and crown corporation, since January 1, 2016: (<I>a</I>) how many cyber attacks have occurred, either against a department, agency or crown corporation or on one of their servers or networks; (<I>b</I>) how many of the attacks referred to in (<I>a</I>) resulted in government information being stolen; (<I>c</I>) how many of the attacks referred to in (<I>b</I>) resulted in classified government information being stolen; (<I>d</I>) how many of the attacks referred to in (<I>a</I>) resulted in individuals' personal information being stolen; (<I>e</I>) for each of the attacks referred to in (<I>d</I>), how many individuals' personal information was stolen; (<I>f</I>) were the individuals from whom information was stolen informed of the theft, and, if so, how were they informed; and (<I>g</I>) for each case where individuals' information was stolen, was the Privacy Commissioner notified?</ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638564">(Return tabled)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <WrittenQuestionResponse>
-            <QuestionID>Question No. 526--<Sup /></QuestionID>
-            <Questioner>
-              <Affiliation DbId="214272" Type="2">Mr. Matt Jeneroux</Affiliation>:</Questioner>
-            <QuestionContent>
-              <ParaText id="4638565">  With regard to official government social media accounts, including ministerial accounts, broken down by department and agency, and broken down by social media account: (<I>a</I>) what social media platforms does the government currently use; (<I>b</I>) what is each account's name, handle, or other identifier, broken down by platform; and (<I>c</I>) which accounts' contents are managed by (i) departmental officials, (ii) ministerial exempt staff, (iii) both?</ParaText>
-            </QuestionContent>
-            <ResponseContent>
-              <ParaText id="4638566">(Return tabled)</ParaText>
-            </ResponseContent>
-          </WrittenQuestionResponse>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Duclos" id="9237108">
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Duclos" id="9236828">
             <PersonSpeaking>
               <Affiliation DbId="214330" Type="4">Hon. Jean-Yves Duclos</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4638567">Mr. Speaker, I ask that all remaining questions be allowed to stand. </ParaText>
-              <ParaText id="4638568">
-                <B>The Speaker:</B> Is that agreed?</ParaText>
-              <ParaText id="4638569">
-                <B>Some hon. members: </B> Agreed. </ParaText>
+              <ParaText id="4638542">Mr. Speaker, I am tabling the government response to questions Nos. 520 to 526.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9236831">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Finance</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="7">Motion for concurrence</ProceduralText>
-          <ParaText id="4638570">The House resumed consideration of the motion.</ParaText>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Anderson" id="9237109">
             <PersonSpeaking>
               <Affiliation DbId="214358" Type="2">Mr. David Anderson (Cypress Hills—Grasslands, CPC)</Affiliation>: </PersonSpeaking>
@@ -1990,7 +1825,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <ParaText id="4638588">There are a lot of other things that are taking place. There are the Liberal tax hikes that Canadians are facing. Red tape is increasing. It is just making things even worse for Canadians. We remember things like the fact that the Liberals cancelled the family tax credit for sports and arts classes; they cancelled small-business tax cuts. That was significant across the country because at the same time they want to increase CPP premiums so businesses and individuals would be tagged for up to $2,200, perhaps even more than that, in order to cover those increases that the Liberals think they need. That CPP tax hike is something that Canadians need to be paying attention to because it would not actually impact this generation. It would take 20 to 30 to 40 years before it would be fully realized. Some people would be paying into this for a number of years and would never get anything out of it. They do not seem to understand that is the case.</ParaText>
               <ParaText id="4638589">The carbon tax is another issue. I spent six years on the natural resource committee, and we talked a lot about carbon, carbon dioxide, carbon taxes. We talked about carbon exchanges and we talked about putting a price on carbon. It seemed like every one of these schemes that is being suggested in Canada has been tried somewhere else and it has failed somewhere else. Now we come late to the game and we insist on then being part of this whole process.</ParaText>
               <ParaText id="4638590">I move:</ParaText>
-              <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
               <ParaText id="4638591">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the House do now adjourn.</QuotePara>
@@ -2346,22 +2181,8 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4638603">I declare the motion rejected.</ParaText>
-              <ProceduralText TocType="TPC" id="9">Motion negatived</ProceduralText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9237251">
-        <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Finance</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TPC" id="10">Motion for concurrence</ProceduralText>
-        <SubjectOfBusinessContent>
-          <ParaText id="4638604">The House resumed consideration of the motion.</ParaText>
-          <Intervention Type="Interjection" ToC="No" id="9237837" ToCText="The Speaker">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
               <ParaText id="4638605">Questions and comments after the speech by the hon. member for Cypress Hills—Grasslands.</ParaText>
+              <ProceduralText TocType="TPC" id="8">Motion negatived</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9237115">
@@ -2454,7 +2275,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <ParaText id="4638629">We took it seriously when the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> said that he wanted us to connect with Canadians and listen to what Canadians had to say. We took that seriously did just that. That is the subject matter of the report that the Conservative Party chose to talk about today.</ParaText>
               <ParaText id="4638630">It is with pleasure that I rise and tell my Conservative colleagues that they should really rethink the way they have voted in regard to our budget. They made a mistake. They need to be reminded of just exactly how they voted on this budget.</ParaText>
               <ParaText id="4638631">Let us think about it. What did the Conservatives vote against? They voted against a substantial decrease in personal income taxes on Canada's middle class. Who are they? They are our firefighters, factory workers, teachers, health care professionals, and so many other individuals, nine million plus from every region of our country. They are the ones who are getting the tax break. The Conservative Party voted against that. The Conservative Party also voted against a tax increase on Canada's wealthiest. Even Canada's wealthiest recognize that they want to participate and pay their fair share.</ParaText>
-              <ParaText id="4638632">What else did the Conservatives vote against? We have the highest historical level of infrastructure spending by the government. That Conservative Party, the official opposition, voted against that. <?bk?>These—<?ek?></ParaText>
+              <ParaText id="4638632">What else did the Conservatives vote against? We have the highest historical level of infrastructure spending by the government. That Conservative Party, the official opposition, voted against that. <?bk ?>These—<?ek ?></ParaText>
               <ParaText id="4638633">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
@@ -2486,7 +2307,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <ParaText id="4638643">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="4638644">
-                <B>Mr. Kevin Lamoureux:</B> I believe this is something that the Conservative Party needs to reflect on in terms of its voting pattern in the House.</ParaText>
+                <B>Mr. Kevin Lamoureux:</B> Madam  Speaker, I believe this is something that the Conservative Party needs to reflect on in terms of its voting pattern in the House.</ParaText>
               <ParaText id="4638645">It does not stop there. We have the Paris agreement. How many of our constituents talked to us about the importance of the environment? </ParaText>
               <ParaText id="4638646">
                 <B>An hon. member:</B> Many.</ParaText>
@@ -2613,7 +2434,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <Affiliation DbId="214254" Type="2">Mr. Kelly McCauley (Edmonton West, CPC) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="11">Bill C-301. Second reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="9">Bill C-301. Second reading</ProceduralText>
               <ParaText id="4638674"> moved that Bill <Document DbId="8411873" Type="4">C-301, an act to amend the Income Tax Act and to make a related amendment to another act (registered retirement income fund)</Document>, be read the second time and referred to a committee. </ParaText>
               <ParaText id="4638675"> He said: Madam Speaker, it is my honour to rise today to speak to my private member's bill, and also to interrupt my colleague's rant from across the floor, Bill <Document DbId="8411873" Type="4">C-301</Document>, the RRIF financial security act to remove the mandatory minimum withdrawal for seniors holding a registered retirement income fund account.</ParaText>
               <ParaText id="4638676">As members of the House should know, retirement is daunting. Planning for life after work is not easy, it is not cheap, and it is not always predictable. The Canadian government has taken great strides throughout the past decade to alleviate the stress of retirement, including increasing the guaranteed income supplement, creating tax-free savings accounts, and introducing income splitting for seniors. The previous government also took an important step forward in helping Canadians by lowering the mandatory withdrawal rate for seniors who held an RRIF. </ParaText>
@@ -2762,7 +2583,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <ParaText id="4638755">Mr. Speaker, I want to congratulate the member for <Affiliation DbId="214254" Type="2">Edmonton West</Affiliation> for bringing the bill forward. I am sad to hear from the parliamentary secretary that the government will be opposing the bill. When we look at the three pillars that Canada's retirement system is based on, we know that workplace pensions are really the pillar that is suffering. Therefore, the government has to look at the other two. They are the ones where the government can have a real influence. </ParaText>
               <ParaText id="4638756">To the government's credit, it is bringing in Bill <Document DbId="8471390" Type="3">C-26</Document>, and it has made some amendments to the guaranteed income supplement, which deals with that third pillar of personal savings. If we allow seniors, especially in this unstable retirement environment, more freedom to choose how and when they withdraw their retirement savings, that is all the better for them.</ParaText>
               <ParaText id="4638757">The bill is obviously not a panacea for the difficult issues facing our seniors today, but private members' bills have to be very careful. To succeed, they have to focus on one little item where they can make a real difference. It is really up to the government to do the rest. We will certainly be keeping our eye on the Liberal government to ensure it does that.</ParaText>
-              <ParaText id="4638758">There may be some watching this debate who are unclear on the difference between RRSPs and RRIFs. We know that RRSPs give everyone the ability to save for their retirement, as long as they have contribution room available and based on their earnings. A RIFF is used as the fund people can withdraw from during their retirement. However, there are mandatory minimum withdrawals that a person must make every year. </ParaText>
+              <ParaText id="4638758">There may be some watching this debate who are unclear on the difference between RRSPs and RRIFs. We know that RRSPs give everyone the ability to save for their retirement, as long as they have contribution room available and based on their earnings. A PRIF is used as the fund people can withdraw from during their retirement. However, there are mandatory minimum withdrawals that a person must make every year. </ParaText>
               <ParaText id="4638759">The rules for these mandatory minimums were created back in 1978. While I acknowledge there certainly have been some modifications over the years, basically we have old rules that are not very well adapted to today's society and today's reality in which many retirees are living. Seniors are now living much longer than they were in the 1970s. Now RRIF holders face the very real likelihood that they will run out of money in the later stages of their retirement. When that pillar of personal savings is taken out, a person's quality of life can take a significant downhill turn. We certainly want to ensure, through this bill, that we address that very issue.</ParaText>
               <ParaText id="4638760">I venture to say that all members of Parliament in the chamber believe Canada's seniors deserve to retire in dignity and that the government should be doing everything it can within its power to make that a possibility. I strongly encourage support of the bill at second reading so we can at least bring it to committee for further study and hear from expert witnesses. We should at least do the bill that justice. </ParaText>
               <ParaText id="4638761">This has been a battle the New Democrats have been waging for some time now. I would like to point out for hon. members that it was in the previous Parliament that our pensions critic brought a motion before the House to review the retirement income fund mandatory minimum withdrawal threshold. That was John Rafferty, the former member of Parliament for Thunder Bay—Rainy River. His Motion No. 595 stated:</ParaText>
@@ -2957,7 +2778,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
             <Content>
               <ParaText id="4638849">Mr. Speaker, the promotion and protection of human rights is an integral part of Canada's constructive engagement in the world. We have consistently advocated for all universal, indivisible, interrelated, and interdependent rights and freedoms, including freedom of religion or belief and expression; rights of sexual minorities; rights of women, children, and indigenous peoples; sexual and reproductive health and rights; and abolition of the death penalty. We have promoted these human rights alongside the strength of diversity and the power of inclusion.</ParaText>
               <ParaText id="4638850">We have seen what exclusion and marginalization of others leads to, in the Holocaust, the Rwandan genocide, and in the former Yugoslavia, for example.</ParaText>
-              <ParaText id="4638851">Canada is dedicated to embracing diversity and defeating exclusion through choosing inclusion. As the Right Hon. <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> stated at the UN General Assembly on September 20, “In Canada, we see diversity as a source of strength, not weakness. Our country is strong not in spite of our differences, but because of them.” </ParaText>
+              <ParaText id="4638851">Canada is dedicated to embracing diversity and defeating exclusion through choosing inclusion. As the right hon. <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> stated at the UN General Assembly on September 20, “In Canada, we see diversity as a source of strength, not weakness. Our country is strong not in spite of our differences, but because of them.” </ParaText>
               <ParaText id="4638852">What is the alternative? To exploit anxiety, to turn it into fear and blame, to reject others because they look or speak or pray differently than we do.</ParaText>
               <ParaText id="4638853">In an era of unprecedented interconnectedness, we need to focus now more than ever on what unites across borders, across economies, and across belief systems.</ParaText>
               <ParaText id="4638854">On September 21, the <Affiliation DbId="214305" Type="4">Minister of Foreign Affairs</Affiliation> convened an interactive high-level panel, “Diversity is strength”, which, building on prior high-level events on migration and refugees, focused on how the global community can work together to better accrue the economic, social, cultural, and civic benefits of inclusion and diversity.</ParaText>
@@ -3054,7 +2875,7 @@ benefits that existed in 2013 was therefore chosen as the baseline child benefit
               <ParaText id="4638894">The motion to adjourn the House is now deemed to have been adopted.</ParaText>
               <Timestamp Hr="19" Mn="00">(1900)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4638895">Accordingly, this House stands adjourned until tomorrow at <?bk?>10 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4638895">Accordingly, this House stands adjourned until tomorrow at <?bk ?>10 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4638896">(The House adjourned at 6:58 p.m.) </ParaText>
             </Content>
           </Intervention>

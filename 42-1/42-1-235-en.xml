@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9788142">
-  <StartPageNumber>15357</StartPageNumber>
+  <StartPageNumber>15335</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -792,7 +792,7 @@
       <SubjectOfBusiness id="9789112">
         <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Report Stage</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Report Stage</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="3">Bill C-45. Report Stage</ProceduralText>
           <ParaText id="5145387">
@@ -853,7 +853,7 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5145412">I want to remind the member that there are only five minutes for questions and comments. </ParaText>
-              <ParaText id="5145413">All members should be able to draft their question or comment within one minute.</ParaText>
+              <ParaText id="5145413">All members should be able to deliver their question or comment within one minute.</ParaText>
               <ParaText id="5145414">The hon. parliamentary secretary.</ParaText>
             </Content>
           </Intervention>
@@ -1127,9 +1127,9 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
               <ParaText id="5145521">I would like my colleague to tell us who else in his riding, other than Cercles de fermières, has criticized this bill.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Paul-Hus" id="9789802">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Paul-Hus" id="9789802">
             <PersonSpeaking>
-              <Affiliation DbId="214522" Type="2">Mr. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214522" Type="2">Mr. Pierre Paul-Hus</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5145522">Mr. Speaker, I thank my esteemed colleague for his question.</ParaText>
               <ParaText id="5145523">We have women in agriculture associations, and in addition we have groups of athletes, such as hockey teams, and all the people who work with youth. None of those groups understand the government's position on this issue. </ParaText>
@@ -1967,7 +1967,7 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
               <ParaText id="5145820"> Basel is a 12-year-old Syrian refugee who now proudly calls Canada and, more specific, Charlottetown, home. He attends St. Jean Elementary School, where he is often called “The Little Mayor”. His school projects focus on themes of empathy and fairness.</ParaText>
               <ParaText id="5145821">At the UN, he spoke of his journey from Syria through Jordan to Prince Edward Island in 2015, and how his initial fear and apprehension was, over time, transformed into pride, hope, optimism, and happiness.</ParaText>
               <ParaText id="5145822"> Before he spoke, he received a phone call from the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, wishing him good luck. Basel represented Canada well, raising his voice, our voice, for international children's rights today and every day.</ParaText>
-              <ParaText id="5145823">I thank to Basel. Canada is very proud of him. </ParaText>
+              <ParaText id="5145823">I thank Basel. Canada is very proud of him. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2293,6 +2293,8 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
               <Affiliation DbId="234563" Type="18">Mr. Joël Lightbound (Parliamentary Secretary to the Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5145899">Mr. Speaker, what is expected of all parliamentarians is to work with the Ethics Commissioner, who is responsible to safeguard the integrity of this Parliament. The <Affiliation DbId="214320" Type="4">finance minister</Affiliation> has always worked in full transparency with the Ethics Commissioner, has always followed her recommendations, will continue to do so, and of his own accord has decided to go above and beyond, divesting all his shares in Morneau Shepell, and placing all of his assets in a blind trust so that he can continue to do the important work and avoid any further distraction. I understand the opposition. Members do not want to talk about his record because, when it comes to the economy, he has steered the ship in the right direction for the last two years, creating half a million jobs.</ParaText>
+              <ParaText id="5204080">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="35">(1435)</Timestamp>
@@ -2374,6 +2376,8 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
               <Affiliation DbId="214329" Type="4">Hon. Diane Lebouthillier (Minister of National Revenue, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5145918">Mr. Speaker, I am very pleased to have the chance to contrast our track record with that of my colleague opposite. Our government is fully committed to fighting tax evasion and aggressive tax avoidance. In our last two budgets, we allocated nearly $1 billion to doing just that, and we are on track to recoup $25 billion. Our plan is working. We are targeting four jurisdictions a year, and we are working to finalize the hiring of 100 auditors. There have been 627 cases transferred to criminal investigations, 268 search warrants—</ParaText>
+              <ParaText id="5204081">
+                <B>The Speaker:</B> Order. The hon. member for Skeena—Bulkley Valley.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3473,7 +3477,6 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5146258"> It is my duty, pursuant to Standing Order 38, to inform the House that the questions to be raised tonight at the time of adjournment are as follows: the hon. member for <Affiliation DbId="214119" Type="2">Nanaimo—Ladysmith</Affiliation>, Families, Children and Social Development; the hon. member for <Affiliation DbId="214380" Type="2">Selkirk—Interlake—Eastman</Affiliation>, National Defence; and the hon. member for <Affiliation DbId="213937" Type="2">Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix</Affiliation>, Ethics. </ParaText>
-              <ParaText id="5146259">Resuming debate. The hon. member for Rivière-du-Nord.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fortin" id="9792584">
@@ -3889,7 +3892,7 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
             <Content>
               <ParaText id="5146429">It being 5:45 p.m., pursuant to order made earlier today, it is my duty to interrupt the proceedings and put forthwith every question necessary to dispose of the report stage of the bill now before the House. </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="5146430"> The question is on the Motion No. 2. Is it the pleasure of the House to adopt the motion? </ParaText>
+              <ParaText id="5146430"> The question is on Motion No. 2. Is it the pleasure of the House to adopt the motion? </ParaText>
               <ParaText id="5146431">
                 <B>Some hon. members:</B> Agreed. </ParaText>
               <ParaText id="5146432">
@@ -5170,14 +5173,6 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
             </Content>
           </Intervention>
           <Timestamp Hr="19" Mn="40">(1940)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="9793464">
-            <PersonSpeaking>
-              <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="5146583">Before we resume debate and the hon. member for Kamloops—Thompson—Cariboo, I will let her know that there is a bit less than two minutes left in the time remaining for private members' business this evening. She will have her remaining time when the House next gets back to debate on the question.</ParaText>
-              <ParaText id="5146584">The hon. member for Kamloops—Thompson—Cariboo.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. McLeod (Kamloops—Thompson—Cariboo)" id="9793465">
             <PersonSpeaking>
               <Affiliation DbId="214386" Type="2">Mrs. Cathy McLeod (Kamloops—Thompson—Cariboo, CPC)</Affiliation>: </PersonSpeaking>
@@ -5340,9 +5335,9 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rioux" id="9793491">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Rioux" id="9793491">
             <PersonSpeaking>
-              <Affiliation DbId="229484" Type="18">Mr. Jean Rioux (Parliamentary Secretary to the Minister of National Defence, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229484" Type="18">Mr. Jean Rioux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5146657">Mr. Speaker, Canada's new defence policy is a forward-looking plan that includes key investments in Canadian Armed Forces equipment.</ParaText>
               <ParaText id="5146658">We plan to replace the Royal Canadian Air Force's CF-18s with 88 advanced fighter aircraft. The competition to permanently replace the Royal Canadian Air Force fighter fleet will be open and transparent and will happen within this term.</ParaText>
@@ -5353,7 +5348,7 @@ The House resumed from November 9 consideration of Bill <Document DbId="8886269"
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9793529">
-        <SubjectOfBusinessTitle>Ethics</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Ethics</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Boucher" id="9793493">
             <PersonSpeaking>

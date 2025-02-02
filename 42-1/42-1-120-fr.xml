@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9290810">
-  <StartPageNumber>7565</StartPageNumber>
+  <StartPageNumber>7563</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -39,7 +21,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number  (Official Version)</ExtractedItem>
     <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number  (Official Version)</ExtractedItem>
     <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro  (Version officielle)</ExtractedItem>
-    <ExtractedItem Name="MetaVolumeNumber" />
+    <ExtractedItem Name="MetaVolumeNumber">
+    </ExtractedItem>
     <ExtractedItem Name="MetaNumberNumber">120</ExtractedItem>
     <ExtractedItem Name="MetaDateNumDay">02</ExtractedItem>
     <ExtractedItem Name="MetaDateNumMonth">12</ExtractedItem>
@@ -346,7 +329,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4678794">Comme la députée de <Affiliation DbId="214382" Type="2">Saanich—Gulf Islands</Affiliation> n'est pas à la Chambre ce matin, je ne pourrai pas proposer la motion n<Sup>o</Sup> 24.</ParaText>
+              <ParaText id="4678794">Comme la députée de <Affiliation DbId="214382" Type="2">Saanich—Gulf Islands</Affiliation> n'est pas à la Chambre ce matin, je ne pourrai pas soumettre la motion n<Sup>o</Sup> 24.</ParaText>
               <ParaText id="4678795">Le leader du gouvernement à la Chambre a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -402,7 +385,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214268" Type="2">M. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4678820">Monsieur le Président, je pourrais dire tellement de choses. J'en dirai d'ailleurs sur le projet de loi <Document DbId="8519336" Type="3">C-29</Document>, parce que nous allons l'étudier à l'étape de la troisième lecture.</ParaText>
+              <ParaText id="4678820">Monsieur le Président, je pourrais dire tant de choses! J'en dirai d'ailleurs sur le projet de loi <Document DbId="8519336" Type="3">C-29</Document>, parce que nous allons l'étudier à l'étape de la troisième lecture.</ParaText>
               <ParaText id="4678821">Je suis sincèrement intrigué par la raison pour laquelle le député a pu s'exprimer le premier ce matin. Est-ce parce que le Parti libéral, ou le gouvernement, a décidé de proposer l'abolition de l'article 1 et du titre abrégé du projet de loi, qui se lit comme suit: Loi n<Sup>o</Sup> 2 d'exécution du budget de 2016.</ParaText>
               <ParaText id="4678822">J'aimerais donc savoir pourquoi le gouvernement veut éliminer le titre abrégé. Y a-t-il une raison valide pour laquelle il veut éliminer sa propre proposition de titre? N'était-ce pas simplement une manoeuvre politique pour s'arroger le droit de passer outre le droit traditionnel de l'opposition de pouvoir s'exprimer la première sur ces projets de loi et sur ces modifications? </ParaText>
             </Content>
@@ -452,8 +435,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213954" Type="2">M. Steven MacKinnon (Gatineau, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4678848">Monsieur le Président, je remercie mon collègue du Comité permanent des finances de son excellent discours. Il parle du legs du gouvernement conservateur. Oui, il y a un legs du gouvernement conservateur: croissance anémique, neuf années consécutives de déficit, après avoir hérité d'une situation financière des plus salutaires léguée par M. Martin et M. Goodale, un déficit en infrastructure, un déficit social, en logement social, et autres.</ParaText>
-              <ParaText id="4678849">Maintenant, nous réfléchissons et débattons d'un plan de redressement de l'économie canadienne. Durant les élections fédérales, son parti et le Nouveau Parti démocratique ont dit qu'il fallait à tout prix équilibrer le budget. Il laissait comme legs une croissance anémique et il allait équilibrer le budget à tout prix. </ParaText>
+              <ParaText id="4678848">Monsieur le Président, je remercie mon collègue du Comité permanent des finances de son excellent discours. Il parle du legs du gouvernement conservateur. Oui, il y a un legs du gouvernement conservateur: croissance anémique, neuf années consécutives de déficit après avoir hérité d'une situation financière des plus salutaires léguée par M. Martin et M. Goodale, un déficit en infrastructure, un déficit social, en logement social, et le reste.</ParaText>
+              <ParaText id="4678849">Maintenant, nous réfléchissons à un plan de redressement de l'économie et en débattons. Durant les élections fédérales, son parti et le Nouveau Parti démocratique ont dit qu'il fallait à tout prix équilibrer le budget. Il laissait comme legs une croissance anémique et il allait équilibrer le budget à tout prix. </ParaText>
               <ParaText id="4678850">Aujourd'hui, j'invite le député à nous dire quel est son plan pour contrer l'anémie de la situation économique, la chute du prix du pétrole, le déficit en infrastructure, le déficit social. Quel est son plan? Il est bien bon pour critiquer, mais quel est son plan pour améliorer et assainir l'économie canadienne?</ParaText>
             </Content>
           </Intervention>
@@ -549,6 +532,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4678891">Ma question a trait au dernier commentaire de notre confrère libéral. L'Assemblée nationale, de façon unanime, a demandé au gouvernement fédéral de changer sa position par rapport à cet enjeu.</ParaText>
               <ParaText id="4678892">Lorsque j'entends mon collègue dire que c'est gros et qu'on monte une histoire en épingle, j'ai l'impression qu'il est en train de dire à l'ensemble des députés de l'Assemblée nationale qu'ils n'ont pas de jugement et qu'ils ne sont pas capables de voir ce qui est bon pour les citoyens et les citoyennes de la province de Québec.</ParaText>
               <ParaText id="4678893">J'aimerais que mon collègue me donne son opinion sur le commentaire du député libéral.</ParaText>
+              <ParaText id="4773032">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9290981">
@@ -574,7 +559,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214268" Type="2">M. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4678900">Monsieur le Président, il y a tellement de questions et si peu de réponses. Je ne prétends pas avoir beaucoup de réponses aux commentaires que je vais élaborer dans les prochaines minutes, mais je trouve extrêmement décevant qu'on soit si loin de pouvoir combler les attentes que le gouvernement en place a créées et qu'il a imposées à la population canadienne à partir de ce qu'il a présenté lors de la campagne électorale.</ParaText>
+              <ParaText id="4678900">Monsieur le Président, il y a tant de questions et si peu de réponses. Je ne prétends pas avoir beaucoup de réponses aux commentaires que je vais élaborer dans les prochaines minutes, mais je trouve extrêmement décevant qu'on soit si loin de pouvoir combler les attentes que le gouvernement en place a créées et qu'il a imposées à la population canadienne à partir de ce qu'il a présenté lors de la campagne électorale.</ParaText>
               <ParaText id="4678901">Nous étudions présentement le projet de loi <Document DbId="8519336" Type="3">C-29</Document>. Il qui vise à mettre en oeuvre des recommandations du budget. Il est vanté par le gouvernement comme étant un projet de loi qui donne suite aux mesures proposées pour aider la classe moyenne, laquelle n'a jamais été définie. </ParaText>
               <ParaText id="4678902">D'ailleurs, selon ce que je peux voir dans les différentes statistiques sur le revenu, lorsqu'on parle des réductions d'impôt qui ont été effectuées pour la classe moyenne, il s'agit d'augmenter les taxes de 1 % des contribuables pour redistribuer ces montants à 9 % de la population, en négligeant à peu près 89 % de celle-ci. C'est un peu la même chose pour l'Allocation canadienne pour enfants. On dit qu'il s'agit d'un programme qui va bénéficier à l'ensemble de la population et à tellement plus de monde. Or on ne l'indexera pas pendant quatre ans, ce qui veut dire que cela va revenir à peu près au même montant qu'on avait auparavant. Nous voyons donc comme c'est problématique. </ParaText>
               <ParaText id="4678903">Ce qui est problématique aussi, ce sont les non-dits durant la campagne électorale. Je reviens encore à la question des infrastructures, parce que je la trouve centrale quant au manque de franchise du gouvernement concernant les questions économiques.</ParaText>
@@ -595,7 +580,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4678917">On demande à deux firmes d'investissement de nous conseiller, moins de 10 ans après la débâcle de Wall Street et de la crise financière. Au moins une des deux firmes impliquée dans cette débâcle va maintenant nous conseiller, pour savoir si on devrait privatiser des ports dans lesquels elle pourrait ultimement investir. Morgan Stanley a d'ailleurs déjà détenu des actions dans le port de Montréal pour ceux qui s'en rappelleront.</ParaText>
               <ParaText id="4678918">N'y a-t-il pas, chez les députés libéraux, un semblant de reconnaissance qu'il puisse peut-être y avoir ici l'image d'un conflit d'intérêts, quand on demande à des firmes d'investissement, qui pourraient en bénéficier directement, de conseiller le gouvernement sur la privatisation d'infrastructures clés de l'économie canadienne, sans en avoir glissé un mot pendant la campagne électorale? Ce n'est pas une décision mineure. On parle d'un changement majeur et draconien dans la direction économique que prend le pays. Et là, on devrait simplement se fermer les yeux et les laisser faire. </ParaText>
               <ParaText id="4678919">Je ne vois pas une grande différence entre la gouvernance libérale et la gouvernance conservatrice que j'ai vue auparavant. Au moins, les conservateurs étaient clairs. Ils voulaient aller dans cette direction et ils l'avouaient. Nous n'étions pas d'accord avec eux, mais ils l'avouaient. Les libéraux disent être tellement en faveur du bien commun et tellement décidés à aider la classe moyenne, la population, mais en catimini, ils font affaire avec Wall Street et Bay Street pour leur réserver des actions dans l'infrastructure canadienne. Ils ne l'ont jamais dit auparavant. Ils vont faire affaire avec eux pour leur réserver des infrastructures clés, comme les aéroports et les ports. </ParaText>
-              <ParaText id="4678920">Nous ne commencerons pas à tirer la sonnette d'alarme au moment où ce sera annoncé dans les médias et que la décision sera prise. Nous le savons clairement présentement. Il y a juste à faire une recherche dans les médias pour voir que Crédit suisse et Morgan Stanley ont été mandatés par le gouvernement pour faire des recommandations sur la privatisation.</ParaText>
+              <ParaText id="4678920">Nous ne commencerons pas à tirer la sonnette d'alarme au moment où ce sera annoncé dans les médias et que la décision sera prise. Nous le savons clairement présentement. Il y a juste à faire une recherche dans les médias pour voir que Credit Suisse et Morgan Stanley ont été mandatés par le gouvernement pour faire des recommandations sur la privatisation.</ParaText>
               <ParaText id="4678921">Pour moi, il est clair que les libéraux ne disent même pas la moitié de la vérité en ce qui a trait à leur programme économique, et particulièrement en ce qui a trait à leurs investissements en infrastructure.</ParaText>
             </Content>
           </Intervention>
@@ -614,13 +599,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <CatchLine>Déclarations de députés</CatchLine>
       <SubjectOfBusiness id="9291016">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les banques et la haute finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les institutions bancaires</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ste-Marie" id="9291017">
             <PersonSpeaking>
               <Affiliation DbId="214211" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4678923">Monsieur le Président, on dira ce qu'on voudra, les banques sont en affaires avec le ministre de la haute finance. Les paradis fiscaux et l'évitement fiscal, on ne touche pas à cela, car cela pourrait déranger les bons amis de Bay Street. </ParaText>
+              <ParaText id="4678923">Monsieur le Président, on dira ce qu'on voudra, les banques  affaires avec le ministre de la haute finance. Les paradis fiscaux et l'évitement fiscal, on ne touche pas à cela, car cela pourrait déranger les bons amis de Bay Street. </ParaText>
               <ParaText id="4678924">Affaiblir l'autorité des marchés financiers avec la commission pancanadienne des valeurs mobilières, est-ce que cela fait plaisir aux amis fumeurs de cigares de l'establishment? Pas de problème, le ministre de la haute finance va arranger cela. Et si les banques veulent se faire soustraire de la Loi sur la protection des consommateurs du Québec, parce qu'elles n'aiment pas cela rendre des comptes à M. et Mme Tout-le-Monde, le ministre de la haute finance va arranger cela aussi.</ParaText>
               <ParaText id="4678925">On sait bien que ce n'est pas donné à tout le monde de se payer des cocktails à 1 500 $ pour rencontrer le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ou son ministre de la haute finance, mais à un moment donné, il va falloir que le gouvernement lâche l'intérêt cumulé de ses amies les banques et commence à travailler pour le vrai monde. </ParaText>
             </Content>
@@ -638,7 +623,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4678926">Monsieur le Président, parlons du vrai monde. </ParaText>
               <ParaText id="4678927">Il me fait plaisir de féliciter la Chambre de commerce et d'industrie de Shawinigan, récipiendaire du prix Développement économique, décerné le 23 novembre par la Fédération des chambres de commerce du Québec, qui compte plus de 140 chambres de commerce.</ParaText>
               <ParaText id="4678928">Je tiens à saluer le travail de toute l'équipe de la Chambre de commerce et d'industrie de Shawinigan, ainsi que l'implication de plus de 600 gens d'affaires de Shawinigan et de ses alentours.</ParaText>
-              <ParaText id="4678929">Étant résidant de la ville, jadis reconnue comme la capitale mondiale de l'électricité, je sais à quel point cet honneur met aussi en lumière l'important virage économique entrepris par Shawinigan, en raison des nombreux défis rencontrés avec la fin de l'ère industrielle. </ParaText>
+              <ParaText id="4678929">Étant résidant de la ville jadis reconnue comme la capitale mondiale de l'électricité, je sais à quel point cet honneur met aussi en lumière l'important virage économique entrepris par Shawinigan, en raison des nombreux défis rencontrés avec la fin de l'ère industrielle. </ParaText>
               <ParaText id="4678930">Grâce, entre autres, aux actions d'intervenants du milieu tels que la Chambre de commerce, je suis fier de dire aujourd'hui aux Canadiens et aux Canadiennes que Shawinigan redevient un chef de file, notamment en entrepreneuriat et dans le secteur du numérique, des domaines résolument tournés vers l'avenir. </ParaText>
               <ParaText id="4678931">Vive la Mauricie!</ParaText>
             </Content>
@@ -647,7 +632,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9291023">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La Légion royale canadienne</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La Légion canadienne</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Richards" id="9291024">
             <PersonSpeaking>
@@ -720,7 +705,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214086" Type="2">M. Alain Rayes (Richmond—Arthabaska, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4678948">Monsieur le Président, chaque année, lorsqu'arrive le mois de décembre, on commence à sentir la fébrilité qui s'installe à l'approche du congé des Fêtes. On voit apparaître les décorations de Noël, on commence à préparer nos <I>partys</I> et on magasine pour nos cadeaux. </ParaText>
+              <ParaText id="4678948">Monsieur le Président, chaque année, lorsqu'arrive le mois de décembre, on commence à sentir la fébrilité qui s'installe à l'approche du congé des Fêtes. On voit apparaître les décorations de Noël, on commence à préparer nos <I>partys</I> et on magasine pour ses cadeaux. </ParaText>
               <ParaText id="4678949">En même temps, une partie de la population appréhende ce moment avec beaucoup d'angoisse: les gens qui ont perdu leur emploi, ceux qui vivent dans la pauvreté et ceux qui sont seuls. Je voudrais donc aujourd'hui rendre hommage à tous les hommes et à toutes les femmes qui s'impliquent pour aider ces personnes, afin qu'elles puissent elles aussi festoyer et prendre une pause en toute dignité. </ParaText>
               <ParaText id="4678950">Comme partout au Canada, dans ma circonscription, plusieurs personnes et organismes distribuent des paniers de Noël, organisent des guignolées et préparent des réceptions pour ces personnes plus démunies. Sans tous les nommer, je sais qu'ils se reconnaissent certainement dans ce message et je veux, au nom des mes collègues, ici à la Chambre, leur dire un grand merci. </ParaText>
               <ParaText id="4678951">Je remercie tous ces généreux lutins qui s'impliquent sans compter les heures et qui distribuent du bonheur à tous ces gens pendant la période des Fêtes.</ParaText>
@@ -968,16 +953,16 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4679005">Monsieur le Président, quel plaisir de répondre à la question de mon collègue.</ParaText>
-              <ParaText id="4679006">Nous sommes le gouvernement qui a réduit les taxes pour la classe moyenne. Rappelons aux citoyens canadiens qui nous regardent que l'opposition, les conservateurs, ont voté contre. </ParaText>
-              <ParaText id="4679007">Pour revenir à la question de mon collègue sur les médecins, nous avons été très clairs. Ce gouvernement a été élu sur la base de l'équité fiscale. Chacun doit payer sa juste part, que ce soit les avocats, les comptables ou les médecins. Nous avons dit que pour chaque petite entreprise qui est créée, il y aura une déduction fiscale par entreprise: une compagnie, une déduction. Les Canadiens comprennent bien. C'est exactement ce qu'on fait pour la classe moyenne. </ParaText>
+              <ParaText id="4679006">Nous formons le gouvernement qui a réduit les taxes pour la classe moyenne. Rappelons aux citoyens canadiens qui nous regardent que l'opposition, les conservateurs, ont voté contre. </ParaText>
+              <ParaText id="4679007">Pour revenir à la question de mon collègue sur les médecins, nous avons été très clairs. Ce gouvernement a été élu sur la base de l'équité fiscale. Chacun doit payer sa juste part, que ce soit les avocats, les comptables ou les médecins. Nous avons dit que, pour chaque petite entreprise qui est créée, il y aura une déduction fiscale par entreprise: une compagnie, une déduction. Les Canadiens comprennent bien. C'est exactement ce qu'on fait pour la classe moyenne. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Rayes" id="9291115">
             <PersonSpeaking>
               <Affiliation DbId="214086" Type="2">M. Alain Rayes (Richmond—Arthabaska, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679008">Monsieur le Président, j'ai bien hâte de voir si le député va nous remettre la même cassette qu'il nous joue depuis le début de l'année, quand nous lui aurons donné les chiffres qui viennent de sortir ce matin.</ParaText>
-              <ParaText id="4679009">Le bilan de la première année des libéraux: 30 000 emplois à temps plein de moins présentement. Ce gouvernement a été incapable de créer un seul emploi à temps plein supplémentaire durant la dernière année. Le plan des libéraux de s'endetter de dizaines de milliards de dollars sur le dos de nos enfants et petits-enfants et de taxer, taxer et taxer les citoyens ne fonctionne pas. Le ministre va droit dans un mur.</ParaText>
+              <ParaText id="4679008">Monsieur le Président, j'ai bien hâte de voir si le député va nous remettre la même cassette qu'il nous fait jouer depuis le début de l'année, quand nous lui aurons donné les chiffres qui viennent de sortir ce matin.</ParaText>
+              <ParaText id="4679009">Voici le bilan de la première année des libéraux: il y a 30 000 emplois à temps plein de moins présentement. Ce gouvernement a été incapable de créer un seul emploi à temps plein supplémentaire durant la dernière année. Le plan des libéraux de s'endetter de dizaines de milliards de dollars sur le dos de nos enfants et petits-enfants et de taxer, taxer et taxer les citoyens ne fonctionne pas. Le ministre va droit dans un mur.</ParaText>
               <ParaText id="4679010">Quand le ministre va-t-il enfin écouter la population et donner un <I>break</I> aux contribuables?</ParaText>
             </Content>
           </Intervention>
@@ -1035,7 +1020,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9291402">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les ressources naturelles</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La sécurité publique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Dusseault" id="9291129">
             <PersonSpeaking>
@@ -1148,7 +1133,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4679048">Monsieur le Président, le meilleur moyen d'avoir l'esprit tranquille, c'est de demander aux Canadiens quelle est leur opinion au sujet de la réforme électorale. Cela s'appelle un référendum.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4679049">Quand on est démocrate, on n'a pas peur d'aller devant les citoyens. Quand on est démocrate, on n'a pas peur de savoir ce que les citoyens pensent. Quand on est démocrate et qu'on est sûr et certain de sa position, on est confiant d'avoir la confiance des Canadiens. </ParaText>
+              <ParaText id="4679049">Quand on est démocrate, on n'a pas peur d'aller devant les citoyens. Quand on est démocrate, on n'a pas peur de savoir ce que les citoyens pensent. Quand on est démocrate et qu'on est sûr et certain de sa position, on se sent assuré d'avoir la confiance des Canadiens. </ParaText>
               <ParaText id="4679050">Pourquoi le gouvernement refuse-t-il de demander aux Canadiens ce qu'ils pensent? Pourquoi le gouvernement refuse-t-il de tenir un référendum sur la réforme électorale?</ParaText>
             </Content>
           </Intervention>
@@ -1166,8 +1151,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679053">Monsieur le Président, ce n'est pas parce que la ministre n'est pas d'accord avec les conclusions du rapport qui a été fait qu'elle doit le mettre de côté. </ParaText>
-              <ParaText id="4679054">Des milliers de Canadiens se sont fait entendre lors de ces consultations, d'un océan à l'autre. Nous, le Parti conservateur, nous avons reçu plus de 80 000 personnes. Des lettres nous ont été envoyées pour nous dire qu'il fallait tenir un référendum, et 80 % des gens ont dit que cela prenait un référendum. La meilleure façon de faire une réforme électorale solide, c'est de demander l'opinion des Canadiens. </ParaText>
+              <ParaText id="4679053">Monsieur le Président, ce n'est pas parce que la ministre n'est pas d'accord sur les conclusions du rapport qui a été fait qu'elle doit le mettre de côté. </ParaText>
+              <ParaText id="4679054">Des milliers de Canadiens se sont fait entendre lors de ces consultations, d'un océan à l'autre. Nous, du Parti conservateur, nous avons reçu plus de 80 000 personnes. Des lettres nous ont été envoyées pour nous dire qu'il fallait tenir un référendum, et 80 % des gens ont dit que cela prenait un référendum. La meilleure façon de faire une réforme électorale solide, c'est de demander l'opinion des Canadiens. </ParaText>
               <ParaText id="4679055">Est-ce que, oui ou non, le gouvernement va faire ce que les Canadiens veulent, va faire en sorte que les Canadiens soient gagnants, c'est-à-dire tenir un référendum?</ParaText>
             </Content>
           </Intervention>
@@ -1207,7 +1192,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9291405">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'emploi</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Caron" id="9291207">
             <PersonSpeaking>
@@ -1225,7 +1210,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4679068">Monsieur le Président, je remercie mon collègue de justement me permettre de rappeler aux députés que les mesures qui ont été mises en avant par le gouvernement ont créé plus de 140 000 emplois au pays durant les 12 derniers mois. Cela, c'est grâce au choix qu'ont fait les Canadiens le 19 octobre dernier, un choix qui leur a permis d'investir dans la classe moyenne, d'investir dans les Canadiens et d'investir dans les infrastructures. </ParaText>
-              <ParaText id="4679069">Je rappellerai à mes collègues que non seulement le plan canadien est salué par les Canadiens et les Canadiennes au pays, mais aussi de par le monde. Même Mme Lagarde, directrice du Fonds monétaire international, disait qu'elle espérait que le plan canadien devienne viral dans le monde. C'est un plan pour les Canadiens, pour l'emploi chez nous. </ParaText>
+              <ParaText id="4679069">Je rappellerai à mes collègues que non seulement le plan canadien est salué par les Canadiens et les Canadiennes au pays, mais aussi de par le monde. Même Mme Lagarde, directrice du Fonds monétaire international, disait qu'elle espérait que le plan canadien devienne viral dans le monde. C'est un plan pour les Canadiens et pour l'emploi chez nous. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1507,7 +1492,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4679131">Monsieur le Président, le gouvernement a augmenté le nombre de CF-18 que l'armée doit avoir en tout temps pour créer un déficit de capacité. Ce changement s'est fait en cinq minutes, avant de confirmer l'acquisition de 18 Super Hornet désuets. Nous apprenons aussi que le gouvernement élimine des informations compromettantes.</ParaText>
-              <ParaText id="4679132">Un rapport de la Défense sur la durée de vie des CF-18 et les coûts exorbitants d'une flotte intérimaire, pourtant public depuis deux ans, est disparu. Nous commençons à comprendre pourquoi ils bâillonnent à vie les fonctionnaires affectés au dossier. </ParaText>
+              <ParaText id="4679132">Un rapport de la Défense sur la durée de vie des CF-18 et les coûts exorbitants d'une flotte intérimaire, pourtant public depuis deux ans, a disparu. Nous commençons à comprendre pourquoi ils bâillonnent à vie les fonctionnaires affectés au dossier. </ParaText>
               <ParaText id="4679133">Qu'est-ce que les libéraux cachent aux Canadiens?</ParaText>
             </Content>
           </Intervention>
@@ -1526,10 +1511,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679136">Monsieur le Président, l'amour du gouvernement pour les régimes communistes est bien connu. « <I>Viva Fidel!</I> » et « Vive la Chine de Mao! » </ParaText>
+              <ParaText id="4679136">Monsieur le Président, l'amour du gouvernement pour les régimes communistes est bien connu: « <I>Viva Fidel!</I> » et « Vive la Chine de Mao! » </ParaText>
               <ParaText id="4679137">Maintenant, les libéraux font comme les Soviétiques qui, à l'arrivée de chaque nouveau dirigeant, réécrivaient l'encyclopédie pour appuyer la légende les entourant. </ParaText>
               <ParaText id="4679138">Les libéraux font la même chose avec les CF-18. Pour créer un faux déficit de capacité, ils changent la politique, ils bâillonnent ceux qui travaillent sur le dossier et ils suppriment les documents compromettants, comme le rapport sur la durée de vie des CF-18. L'histoire du gouvernement n'a aucun sens.</ParaText>
-              <ParaText id="4679139">Autre que leur incompétence crasse, que cachent les libéraux aux Canadiens?</ParaText>
+              <ParaText id="4679139">À part leur incompétence crasse, que cachent les libéraux aux Canadiens?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1674,7 +1659,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214282" Type="2">M. Mario Beaulieu (La Pointe-de-l'Île, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679166">Monsieur le Président, voulez-vous une démonstration que les francophones sont les citoyens de deuxième classe pour l'État canadien?</ParaText>
+              <ParaText id="4679166">Monsieur le Président, voulez-vous une démonstration que les francophones sont des citoyens de deuxième classe pour l'État canadien?</ParaText>
               <ParaText id="4679167">À la GRC, 16 000 postes exigent l'anglais, mais seulement 19 postes exigent le français. C'est tellement gros et tellement ridicule qu'on dirait une farce. Dans un Québec indépendant, on aura une gendarmerie qui parlera français.</ParaText>
               <ParaText id="4679168">Le Canada, c'est cela, un État qui se moque des Québécois et de l'ensemble des francophones. C'est une honte!</ParaText>
               <ParaText id="4679169"> Comment le ministre peut-il expliquer une telle aberration?</ParaText>
@@ -1698,7 +1683,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214054" Type="2">Mme Monique Pauzé (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679171">Monsieur le Président, dans le cadre de la stratégie fédérale de promotion des changements climatiques, Kinder Morgan et Enbridge ont reçu deux beaux pipelines, et ce, malgré l'opposition de nombreuses municipalités, des Premières Nations, de citoyens et de citoyennes et d'environnementalistes. Cela laisse en plan TransCanada qui poursuit son lobbying pour Énergie Est. </ParaText>
+              <ParaText id="4679171">Monsieur le Président, dans le cadre de la stratégie fédérale de promotion des changements climatiques, Kinder Morgan et Enbridge ont reçu deux beaux pipelines, et ce, malgré l'opposition de nombreuses municipalités, des Premières Nations, de citoyens et de citoyennes et d'environnementalistes. Cela laisse en plan TransCanada, qui poursuit son lobbying pour Énergie Est. </ParaText>
               <ParaText id="4679172">Le Québec s'inquiète, et avec raison, parce que maintenant le gouvernement a prouvé que l'acceptabilité sociale, il s'en balance. </ParaText>
               <ParaText id="4679173">Je demande donc au <Affiliation DbId="214325" Type="4">ministre des Ressources naturelles</Affiliation> de répondre si, oui ou non, il va nous foutre la paix avec Énergie Est?</ParaText>
             </Content>
@@ -1724,7 +1709,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214211" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4679176">Monsieur le Président, avec le projet de loi <Document DbId="8519336" Type="3">C-29</Document>, le gouvernement fédéral protège les banques contre les consommateurs québécois et contre la loi qui les protège. Cela veut dire que les Québécois n'auront plus de recours lorsqu'ils vont se faire imposer des frais cachés par les banques ou qu'ils vont se faire avoir. C'est un sacré beau précédent.</ParaText>
-              <ParaText id="4679177">Demain, ce sera les compagnies de téléphones cellulaires qui vont demander au fédéral de les protéger contre la Loi sur la protection du consommateur. Ensuite, ce sera les fournisseurs Internet, puis le câble, puis les transporteurs aériens. </ParaText>
+              <ParaText id="4679177">Demain, ce seront les compagnies de téléphones cellulaires qui vont demander au fédéral de les protéger contre la Loi sur la protection du consommateur. Ensuite, ce seraont les fournisseurs Internet, puis le câble, puis les transporteurs aériens. </ParaText>
               <ParaText id="4679178">Je demande au ministre de la haute finance et à son secrétaire particulier où s'arrête le détroussage des Québécois.</ParaText>
             </Content>
           </Intervention>
@@ -1765,7 +1750,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214692" Type="18">M. Serge Cormier (secrétaire parlementaire du ministre des Pêches, des Océans et de la Garde côtière canadienne, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4679186">Monsieur le Président, je remercie mon collègue et bon ami du <Affiliation DbId="214600" Type="2">Nunavut</Affiliation> de sa question.</ParaText>
-              <ParaText id="4679187">Je partage le point de vue que mon collègue vient de soulever en ce qui a trait aux pêches durables et basées sur des faits scientifiques. Nous pensons que cela peut offrir des occasions économiques intéressantes pour le Nunavut.</ParaText>
+              <ParaText id="4679187">Je partage le point de vue que mon collègue vient de soulever en ce qui a trait aux pêches durables et basées sur des faits scientifiques. Nous pensons que cela peut offrir des occasions économiques intéressantes au Nunavut.</ParaText>
               <ParaText id="4679188">Les programmes auxquels notre collègue fait référence, sur les deux côtes, Atlantique et Pacifique, nous ont permis de bâtir des relations solides avec les Premières Nations. Nous sommes très heureux de travailler avec lui et avec les différents partenaires du Nunavut pour faire en sorte de développer des pêches économiques et commerciales pour le Nord et le Nunavut.</ParaText>
             </Content>
           </Intervention>
@@ -2418,7 +2403,7 @@ Par conséquent, le ministère a fourni des renseignements financiers aux membre
             <PersonSpeaking>
               <Affiliation DbId="214534" Type="2">M. John Brassard (Barrie—Innisfil, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679373">Monsieur le Président, j'ai une question au sujet de la Banque de l'infrastructure. Ma question porte sur un point dont le Parti libéral n'a pas parlé lors de la dernière campagne électorale, et plus particulièrement sur les répercussions de cette banque de l'infrastructure sur les petites localités. Nous avons déjà entendu maintes fois, à la Chambre, que les localités dont la population ne dépasse pas 100 000 habitants ne profiteront pas de cette banque de l'infrastructure.</ParaText>
+              <ParaText id="4679373">Monsieur le Président, j'ai une question au sujet de la banque de l'infrastructure. Ma question porte sur un point dont le Parti libéral n'a pas parlé lors de la dernière campagne électorale, et plus particulièrement sur les répercussions de cette banque de l'infrastructure sur les petites localités. Nous avons déjà entendu maintes fois, à la Chambre, que les localités dont la population ne dépasse pas 100 000 habitants ne profiteront pas de cette banque de l'infrastructure.</ParaText>
               <ParaText id="4679374">J'aimerais aussi que le député nous donne son avis sur la question suivante. J'ai rencontré les représentants de la Fédération canadienne des municipalités, lors de leur dernière visite à Ottawa, et j'ai été choqué d'apprendre que, lorsque le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a tenu une réunion avec les banques et les sociétés d'investissement, il n'y avait pas un seul représentant de la Fédération. Je me demande simplement s'il pourrait le confirmer et répondre à la question sur la Banque de l'infrastructure.</ParaText>
             </Content>
           </Intervention>
@@ -2725,9 +2710,6 @@ Par conséquent, le ministère a fourni des renseignements financiers aux membre
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4679532">La Chambre est-elle prête à se prononcer?</ParaText>
-              <ParaText id="4679533">
-                <B>Des voix:</B> Le vote.</ParaText>
               <ParaText id="4679534">
                 <B>Le vice-président adjoint (M. Anthony Rota):</B> Le vote porte sur la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
               <ParaText id="4679535">

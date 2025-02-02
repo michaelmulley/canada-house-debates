@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8764307">
   <StartPageNumber>283</StartPageNumber>
   <DocumentTitle>
@@ -97,7 +78,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4176195"> I am hoping that the House will support these important calls to action.</ParaText>
               <ParaText id="4176196">On social challenges, as I began to express, one-third of the children in Port Alberni and in Alberni Valley are living in poverty. Seniors in Oceanside and throughout our riding cannot get access to doctors. This is unacceptable.</ParaText>
               <ParaText id="4176197">Getting back to Alberni Valley, the life expectancy there is four years lower than the Canadian average. It is 40th in the world, just above the Dominican Republic. We have some work to do. Affordable child care would really help make a difference in the lives of people of Courtenay—Alberni. </ParaText>
-              <ParaText id="4176198">We need a seniors strategy. Having the highest median age for seniors in my riding in the nation, I see firsthand the results of not having a seniors strategy, and not having a strategy for dementia and Alzheimer's. It is important that we do that. </ParaText>
+              <ParaText id="4176198">We need a seniors strategy. Having the highest median age for seniors in my riding in the nation, I see first-hand the results of not having a seniors strategy, and not having a strategy for dementia and Alzheimer's. It is important that we do that. </ParaText>
               <ParaText id="4176199">We need better support for mental health and for veterans. We heard this every day at the door, as well as the impact of a failed economy on our youth, and youth unemployment. We need to ensure that our young people have an economy that will take them into the future, and make sure they have a living wage and an affordable place to live.</ParaText>
               <ParaText id="4176200">There are opportunities for us to move forward, and I would like to talk about some of those opportunities, working in collaboration with first nations. Often the wealth of our country starts in rural communities, but it leaves rural communities. We need to have shared prosperity with aboriginal people, and with all of our communities.</ParaText>
               <ParaText id="4176201"> In recent years, the Nuu-chah-nulth won a very important court case in the Supreme Court of Canada: the right to catch and sell fish. This decision was awarded to them, but still the government has refused to sit at the table with the Nuu-chah-nulth people and negotiate fairly. I call upon this new government to do just that: sit and have fair and reasonable negotiations.</ParaText>
@@ -117,7 +98,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214489" Type="2">Mr. Gord Johns</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176204">Mr. Speaker, in response to my friend from Winnipeg Centre, I want to outline that the court case is important.</ParaText>
-              <ParaText id="4176205"> During the campaign the chief from Hesquiaht first nation, April Charleson, talked about the fact that the government has cut the welfare rate and income assistance rates. Transportation had been gutted so they could not even get home. It was $250 to get a water taxi from Hesquiaht to Tofino to buy groceries. At the same time they had won their court victory to catch and sell the very fish that were running by their villages and they could not even get access to those resources.</ParaText>
+              <ParaText id="4176205"> During the campaign the chief from Hesquiaht First Nation, April Charleson, talked about the fact that the government has cut the welfare rate and income assistance rates. Transportation had been gutted so they could not even get home. It was $250 to get a water taxi from Hesquiaht to Tofino to buy groceries. At the same time they had won their court victory to catch and sell the very fish that were running by their villages and they could not even get access to those resources.</ParaText>
               <ParaText id="4176206">My colleague is absolutely right. This is the solution. This is an opportunity to feed the people of Hesquiaht, feed the people of our communities. This is an opportunity to make sure that we empower people instead of mismanaging poverty. We have a historic opportunity right now to do just that and I hope my colleague will join me in helping make that happen.</ParaText>
             </Content>
           </Intervention>
@@ -260,9 +241,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 <B>The Deputy Speaker:</B> I see the hon. opposition whip rising on a point of order. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Brown" id="8764339">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Brown" id="8764339">
             <PersonSpeaking>
-              <Affiliation DbId="214426" Type="2">Mr. Gordon Brown (Leeds—Grenville—Thousand Islands and Rideau Lakes, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214426" Type="2">Mr. Gordon Brown</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176239">Mr. Speaker, there have also been consultations, and if you seek it I believe you will find consent for the following motion: that, notwithstanding any standing order or usual practices of the House and its committees, before proceeding with the election of a committee chair, pursuant to Standing Order 106.2, the clerk of the committee shall call upon each candidate for the chair to address the committee once, for not more than three minutes. When the final candidate has completed his or her speech, the clerk of the committee shall proceed immediately to the election of a chair. </ParaText>
             </Content>
@@ -305,7 +286,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 <B>Some hon. members:</B> No. </ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="8764562">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Resumption of Debate on Address in Reply</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <ParaText id="4177662">The House resumed consideration of the motion for an address to His Excellency the Governor General in reply to his speech at the opening of the session, and of the amendment.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ramsey" id="8764346">
             <PersonSpeaking>
               <Affiliation DbId="214139" Type="2">Ms. Tracey Ramsey (Essex, NDP)</Affiliation>: </PersonSpeaking>
@@ -412,7 +399,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4176304"> Sault Ste. Marie was built on the steel industry, and as a representative for my community here in Ottawa, I have the job of ensuring the government does what it can to protect and ensure its continued growth. This is not going to be a simple task. Like many other industries, the steel industry is facing challenging economic times after a decade of neglect. In fact, shortly after my election to this House, Essar Steel Algoma gained CCAA creditor protection and is currently restructuring. Tenaris, a leading supplier of tubes and related services for the energy industry, has laid off hundreds of its employees from my riding. As in other areas of Canada, the steel industry in Sault Ste. Marie faces a number of challenges. It is relying on governments, including this one, to think critically and to engage with producers and other stakeholders to find suitable solutions.</ParaText>
               <ParaText id="4176305"> For those reasons, I am glad that this government is committed, as it was in the campaign, to historic spending on infrastructure, which will help stimulate the economy both locally in Sault Ste. Marie and nationally.</ParaText>
               <ParaText id="4176306">As a former four-term city councillor, I know that Canadian municipalities face major infrastructure deficits. They need more support from the federal government and have suffered years of neglect. Infrastructure is crumbling. These historic investments in transit, social, and green infrastructure would go a long way to addressing these issues. They would put Canadians to work, and they would give them safer cities and homes to live in. As an added bonus, infrastructure projects use steel, which is produced in my riding.</ParaText>
-              <ParaText id="4176307">Ridings across this country also have Canadians who are struggling to make ends meet, to find enough funds to raise their kids, and to save for their future. In Sault Ste. Marie, I know this is the case. This government's commitment to creating a larger tax-free child benefit that would raise 315,000 kids out of poverty is critical. The government showed on Wednesday that it would strengthen the middle class by providing it with a middle class tax cut, which would benefit roughly nine million Canadians every year. This is just part of the government's plan to implement real change for Canadians.</ParaText>
+              <ParaText id="4176307">Ridings across this country also have Canadians who are struggling to make ends meet, to find enough funds to raise their kids, and to save for their future. In Sault Ste. Marie, I know this is the case. This government's commitment to creating a larger tax-free child benefit that would raise 315,000 kids out of poverty is critical. The government showed on Wednesday that it would strengthen the middle class by providing it with a middle-class tax cut, which would benefit roughly nine million Canadians every year. This is just part of the government's plan to implement real change for Canadians.</ParaText>
               <ParaText id="4176308">Our government is investing in the future of our children and giving families more money to save, invest, and grow the economy. It is well known that when middle-class Canadians do well, they spend their money locally. They benefit local businesses and, in turn, help to boost the economies and create jobs.</ParaText>
               <ParaText id="4176309">In Sault Ste. Marie, we need middle-class people to do well, but we also need to help those who are struggling or down on their luck. Not only is this government committed to creating jobs through investment in infrastructure, but it is mentioned in the Speech from the Throne that the government will strengthen the employment insurance system. We will ensure that the EI system serves the economy and Canadians. As someone who has worked hard in my community to ensure the economic success of everyone, I am particularly proud of this. People in Sault Ste. Marie and across Canada need a social safety net that is there for them so they can get back on their feet; and an effective EI system is a good initial step toward that.</ParaText>
               <ParaText id="4176310">I am also proud that this government will work with the provinces and territories on a number of initiatives, including, but not limited to, providing more income security when people retire, reducing post-secondary costs, developing a new health accord, and reducing carbon pollution. In short, Canadians do better when our governments work together. </ParaText>
@@ -440,7 +427,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4176314">Mr. Speaker, yesterday, the House adopted Bill <Document DbId="8064045" Type="3">C-3, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2016</Document>. As is our practice, I rose to place a question to the <Affiliation DbId="214341" Type="4">President of the Treasury Board</Affiliation> during the committee of the whole. I asked him if he could confirm if the bill was in its usual form and the President of the Treasury Board replied, “The form of this bill is, in fact, the same as that passed in the previous supply period”.</ParaText>
               <ParaText id="4176315">I checked the Journals Branch this morning and the copy of the bill that was adopted by the House of Commons did not include the schedules that contain the actual amounts in the supplementary estimates. It would appear that we did not actually grant for Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, because the bill was not in fact presented in its complete form, having excluded the schedule which provides for the authorization the House must actually give.</ParaText>
-              <ParaText id="4176316">Originating with the Magna Carta, the Crown cannot spend what the people do not approve through their elected representatives in the House of Commons. That is probably the most important foundation in public finance. Therefore, if information about that spending is not properly included in the legislation adopted in the House, then the Government of Canada does not have the authorization to spend the money that it does. That is the first point.</ParaText>
+              <ParaText id="4176316">Originating with the Magna Carta, the crown cannot spend what the people do not approve through their elected representatives in the House of Commons. That is probably the most important foundation in public finance. Therefore, if information about that spending is not properly included in the legislation adopted in the House, then the Government of Canada does not have the authorization to spend the money that it does. That is the first point.</ParaText>
               <ParaText id="4176317"> The second point is that the <Affiliation DbId="214341" Type="4">President of the Treasury Board</Affiliation> took great lengths to say that he would “surprise” me by actually answering the question. In fact, he did surprise me and he did answer the question, but then he surprised me again today by virtue of the fact that his answer was incorrect. I looked back at the schedule of the previous supply bill that was passed by the House of Commons and the schedule was in fact present, which is contrary to the words the President of the Treasury Board uttered when he said that the form of the bill was the same as that passed in the previous supply period. We now know that this is not accurate and that the President of the Treasury Board has misled the House.</ParaText>
               <ParaText id="4176318">This of course creates a dilemma because the schedule has not been adopted by the House and it is one for which I do not have a solution, but it is one that I am obliged, as a member of the House of Commons, to bring to your attention, Mr. Speaker, and to the attention of the House.</ParaText>
             </Content>
@@ -484,7 +471,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <CatchLine>The Address</CatchLine>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
-          <ParaText id="4176327">The House resumed consideration of the motion, and of the amendment.</ParaText>
+          <ParaText id="4176327">The House resumed consideration of the motion for an address to His Excellency the Governor General in reply to his speech at the opening of the session, and of the amendment.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Brassard" id="8764519">
             <PersonSpeaking>
               <Affiliation DbId="214534" Type="2">Mr. John Brassard (Barrie—Innisfil, CPC)</Affiliation>: </PersonSpeaking>
@@ -498,9 +485,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214402" Type="2">Mr. Terry Sheehan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4176331">Mr. Speaker, as a former city councillor, I know the importance of infrastructure. That is why I was so pleased during the campaign when we announced the historic amount, doubling the infrastructure commitment to $125 billion for transit, for much needed social infrastructure, for green infrastructure. These things are needed.</ParaText>
+              <ParaText id="4176331">Mr. Speaker, as a former city councillor, I know the importance of infrastructure. That is why I was so pleased during the campaign when we announced the historic amount, doubling the infrastructure commitment to $125 billion for transit, for much-needed social infrastructure, for green infrastructure. These things are needed.</ParaText>
               <ParaText id="4176332"> Infrastructure in cities across Canada is crumbling and doubling the commitment is so important, because there is such a deficit. It is going to be an absolute pleasure to meet with various people to find out what their priorities are so we can get moving on this. Transit is important across cities. The Garden River First Nation that I met with has a number of priorities that it has listed for me.</ParaText>
-              <ParaText id="4176333">It is a historic investment. It is amazing. It is going to be so beneficial not only for fixing the infrastructure deficit, but for the much needed jobs that are required, and for the construction and steelmaking industries as well.</ParaText>
+              <ParaText id="4176333">It is a historic investment. It is amazing. It is going to be so beneficial not only for fixing the infrastructure deficit, but for the much-needed jobs that are required, and for the construction and steelmaking industries as well.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8764379">
@@ -744,7 +731,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214436" Type="2">Mr. Scott Simms (Coast of Bays—Central—Notre Dame, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4176392">Mr. Speaker, next week is a special week for Newfoundland and Labrador. A gentleman by the name of Dwight Ball, whom I have known for many years, as many of us have, will be sworn in next week as Newfoundland and Labrador's next premier. It is a moment we have been waiting for for quite some time. </ParaText>
+              <ParaText id="4176392">Mr. Speaker, next week is a special week for Newfoundland and Labrador. A gentleman by the name of Dwight Ball, whom I have known for many years, as many of us have, will be sworn in next week as Newfoundland and Labrador's next premier. It is a moment we have been waiting for quite some time. </ParaText>
               <ParaText id="4176393">Dwight is a compassionate individual and empathetic to all citizens of Newfoundland and Labrador. He is certainly a fantastic member of the House of Assembly, and will now become our next premier.</ParaText>
               <ParaText id="4176394"> Specifically, I would like to congratulate the new MHAs in my riding: Brian Warr, Baie Verte-Green Bay; Al Hawkins, Grand Falls-Windsor-Buchans; Jerry Dean, Exploits; Derek Bennett, Lewisporte-Twillingate; Tracey Perry, Fortune Bay-Cape La Hune; Dr. John Haggie, Gander; and, Derrick Bragg, Fogo Island-Cape Freels.</ParaText>
               <ParaText id="4176395">I congratulate the Liberal Party in Newfoundland and Labrador. We look forward to—</ParaText>
@@ -769,14 +756,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4176397">Mr. Speaker, I want to thank the people of Essex for trusting me to represent them in Ottawa. I will work hard every day to be a strong voice for their priorities. </ParaText>
               <ParaText id="4176398"> In Essex, family farms fill the landscape and are vital to the success of our local economy. Too many family farms have disappeared over the last decade in Essex, but despite farmers' many challenges, they are embracing environmentally sustainable and progressive conservation practices. </ParaText>
               <ParaText id="4176399">I want to specifically honour the work of Don and Neil Huber, who, like many farmers in my community, are spearheading innovative agricultural practices. By using no-till planting and helicopter seeding methods, they are helping the environment and reducing soil erosion and improving water quality.</ParaText>
-              <ParaText id="4176400"> To be a farmer is about more than growing food. A farmer is a small business owner, an employer, an accountant, a mechanic, and a climatologist, all the while living on a razor thin profit margin and working far more than the traditional 40-hour work week. </ParaText>
+              <ParaText id="4176400"> To be a farmer is about more than growing food. A farmer is a small business owner, an employer, an accountant, a mechanic, and a climatologist, all the while living on a razor-thin profit margin and working far more than the traditional 40-hour work week. </ParaText>
               <ParaText id="4176401">I want to thank Don and Neil Huber and all the farmers in my riding and across Canada. They do not just feed their families and their neighbours, but are truly artists in their “field”.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8764431">
-        <SubjectOfBusinessTitle>18th Prime Minister</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>18th Prime Minister of Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Nicholson" id="8764432">
             <PersonSpeaking>
@@ -872,7 +859,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Scheer" id="8764449">
             <PersonSpeaking>
-              <Affiliation DbId="214618" Type="7">Mr. Andrew Scheer (House Leader of the Official Opposition, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214501" Type="2">Mr. Andrew Scheer (Regina—Qu'Appelle, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176422">Mr. Speaker, we have already seen the Liberals' inability to manage costs related to resettling refugees, with their campaign promise of $250 million ballooning to over $1 billion, and now we know why.</ParaText>
               <ParaText id="4176423">Former Liberal MP Denis Coderre has found a way to use money meant for resettlement to take care of his friend, with an $1,800-a-day consultant's fee. This is money that could actually go to help refugees. The City of Toronto has employed four people for the same amount. </ParaText>
@@ -895,7 +882,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Scheer" id="8764454">
             <PersonSpeaking>
-              <Affiliation DbId="214618" Type="7">Mr. Andrew Scheer (House Leader of the Official Opposition, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214501" Type="2">Mr. Andrew Scheer (Regina—Qu'Appelle, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176427">Mr. Speaker, I just hope that Mr. Coderre's friend was not there and on the clock.</ParaText>
               <ParaText id="4176428">As it stands now, the only vote the Liberals are planning to hold on changes to the electoral process is a vote in this House where they can use their majority to get their preferred outcome. Only 184 Liberals will get the final say on how 30 million Canadians choose their next government.</ParaText>
@@ -971,7 +958,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8764478">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Families</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Child care</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ashton" id="8764476">
             <PersonSpeaking>
@@ -988,11 +975,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214678" Type="18">Mr. Terry Duguid (Parliamentary Secretary to the Minister of Families, Children and Social Development, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176448">Mr. Speaker, as this is the first time I rise in the House, I want to thank the good people of Winnipeg South for placing their confidence in me and assure them that I will work hard every day to earn that trust.</ParaText>
-              <ParaText id="4176449">I appreciate the question from the hon. minister.</ParaText>
-              <ParaText id="4176450">
-                <B>Some hon. members:</B> Oh, oh!</ParaText>
-              <ParaText id="4176451">
-                <B>Mr. Terry Duguid:</B> In our platform, we committed to work with provinces, territories, and indigenous communities to create a national early learning and child care framework in order to provide quality, affordable, flexible child care for those who need it.</ParaText>
+              <ParaText id="4176451"> In our platform, we committed to work with provinces, territories, and indigenous communities to create a national early learning and child care framework in order to provide quality, affordable, flexible child care for those who need it.</ParaText>
               <ParaText id="4176452">We will be making more announcements in the coming days. I appreciate the member's question.</ParaText>
             </Content>
           </Intervention>
@@ -1040,7 +1023,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214094" Type="2">Mr. Ben Lobb (Huron—Bruce, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4176459">Mr. Speaker, this week we are welcoming the first Syrian families of the 25,000 government-sponsored refugees to Canada, so why is the government leaving Afghan refugee James Akam out in the cold? James served bravely alongside our troops in Afghanistan as an interpreter and now needs refuge in Canada. At a time when we are welcoming thousands, why is the government leaving Mr. Akam out in the cold after he has showed tremendous service to our county?</ParaText>
+              <ParaText id="4176459">Mr. Speaker, this week we are welcoming the first Syrian families of the 25,000 government-sponsored refugees to Canada, so why is the government leaving Afghan refugee James Akam out in the cold? James served bravely alongside our troops in Afghanistan as an interpreter and now needs refuge in Canada. At a time when we are welcoming thousands, why is the government leaving Mr. Akam out in the cold after he has shown tremendous service to our country?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McCallum" id="8764495">
@@ -1077,7 +1060,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214444" Type="2">Mr. Mel Arnold (North Okanagan—Shuswap, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176465">Mr. Speaker, I am honoured to speak today for the first time on behalf of the residents of North Okanagan—Shuswap. </ParaText>
-              <ParaText id="4176466">The longer the minister waits, the longer the people of Atlantic Canada must wait for these new jobs. The arctic surf clam fishery represents a real opportunity for economic growth in this region. When will the minister follow through on the Conservative plan to support new entrants? Why does he not act on that today today?</ParaText>
+              <ParaText id="4176466">The longer the minister waits, the longer the people of Atlantic Canada must wait for these new jobs. The arctic surf clam fishery represents a real opportunity for economic growth in this region. When will the minister follow through on the Conservative plan to support new entrants? Why does he not act on that today?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Cormier" id="8764507">
@@ -1206,7 +1189,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8764693">
-        <SubjectOfBusinessTitle>Wine Industry</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Intergovernmental Relations</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albas" id="8764538">
             <PersonSpeaking>
@@ -1291,7 +1274,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214060" Type="2">Mr. Matthew Dubé (Beloeil—Chambly, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4176506">Mr. Speaker, let us review the the commitments.</ParaText>
+              <ParaText id="4176506">Mr. Speaker, let us review the  commitments.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4176507">During the election campaign, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> met with the mayor of Montreal to talk about Canada Post. Standing by the mayor's side he clearly said, and I quote, “We are committed to restoring home mail delivery.” The message could not have been clearer. It was even recorded if the government needs help jogging its memory.</ParaText>
               <ParaText id="4176508">However, now that the Liberals are in power, the government is singing a different tune and fuelling cynicism.</ParaText>
@@ -1324,7 +1307,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Hehr" id="8764564">
             <PersonSpeaking>
-              <Affiliation DbId="214336" Type="4">Hon. Kent Hehr (Associate Minister of National Defence, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="220373" Type="96">Hon. Kent Hehr (Minister of Veterans Affairs and Associate Minister of National Defence, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176514">Mr. Speaker, I thank the member for <Affiliation DbId="214158" Type="2">Nickel Belt</Affiliation> for his dedication to veterans. This can be a difficult time for many Canadians, including veterans. I want veterans to know that our government is here to help. Veterans and their families can immediately reach a mental health professional by contacting veterans assistance service, 24 hours a day, 365 days a year. We will be launching a social media campaign to promote this service and to highlight the importance of reaching out for help. </ParaText>
               <ParaText id="4176515">I encourage all members of the House to spread the message and to support our veterans.</ParaText>
@@ -1356,7 +1339,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214483" Type="2">Mr. David Yurdiga (Fort McMurray—Cold Lake, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176519">Mr. Speaker, the Canada Revenue Agency's current TD1 form for 2016 and the description of the northern residence tax deduction currently show no increase to this important tax deduction. </ParaText>
-              <ParaText id="4176520">Will the minister take the steps necessary to put in plan an enhanced northern residence tax deduction for the 2016 tax year?</ParaText>
+              <ParaText id="4176520">Will the minister take the steps necessary to put in place an enhanced northern residence tax deduction for the 2016 tax year?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Jones" id="8764574">
@@ -1457,7 +1440,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8764712">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Zimmer" id="8764596">
             <PersonSpeaking>
@@ -1478,7 +1461,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8764735">
-        <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Assisted Suicide</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Harder" id="8764601">
             <PersonSpeaking>
@@ -1713,8 +1696,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214456" Type="2">Ms. Rachael Harder (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176590">Mr. Speaker, Canadians want Parliament to know about the tragic story of Cassandra Kaake, who was 31 weeks pregnant when she was murdered in Windsor, Ontario a year ago.</ParaText>
-              <ParaText id="4176591">Tragically, there will be no justice for Cassandra's pre-born baby girl, Molly, who was also killed during that violent attack. That is because in Canadian criminal law a pre-born child is not recognized as a separate victim in attacks against their mothers.</ParaText>
-              <ParaText id="4176592"> This petition calls on Parliament to pass legislation to allow a separate charge to be laid in the death or injury of a pre-born child when that child's mother is a victim of a crime. Canadians want justice for victims like Molly.</ParaText>
+              <ParaText id="4176591">Tragically, there will be no justice for Cassandra's preborn baby girl, Molly, who was also killed during that violent attack. That is because in Canadian criminal law a preborn child is not recognized as a separate victim in attacks against their mothers.</ParaText>
+              <ParaText id="4176592"> This petition calls on Parliament to pass legislation to allow a separate charge to be laid in the death or injury of a preborn child when that child's mother is a victim of a crime. Canadians want justice for victims like Molly.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1868,7 +1851,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4176648">For working Canadians, living in Canada is going to become much more expensive thanks to the Liberal government. How is it going to be more expensive, one may ask? The government wants to impose a carbon tax. It wants to hike payroll taxes. It wants to eliminate income splitting for single income families. It wants to eliminate the universal child care benefit. It wants to roll back TFSAs.</ParaText>
               <ParaText id="4176649">It is clear that the government has no plan and no vision other than job-killing, tax-and-spend, redistributed schemes. This is evidenced by the fact that there was no mention in the Speech from the Throne about the trans-Pacific partnership, the biggest trade deal in Canadian history, which is going to allow Canadian businesses to get their products to market, to 800 million consumers, duty-free, but the government did not even bother to mention it.</ParaText>
               <ParaText id="4176650">There was no mention of Alberta's vital energy sector. There was no mention about any meaningful strategy to create jobs to get the economy growing and to get Canadians back to work. </ParaText>
-              <ParaText id="4176651">When it comes to keeping Canadians safe, the government has been equally shortsighted. The greatest security threat to Canada comes from ISIS. ISIS is responsible for slaughtering tens of thousands of people in Iraq, Syria, and around the world. Entire villages have been upended and literally rivers of blood flow in Iraq and Syria, and yet the government's response is to cut and run by pulling out the CF-18s. The <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation>, the <Affiliation DbId="214305" Type="4">Minister of Foreign Affairs</Affiliation>, and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> cannot explain how that is going to assist the international coalition to defeat ISIS. The reason is that it is completely unhelpful.</ParaText>
+              <ParaText id="4176651">When it comes to keeping Canadians safe, the government has been equally short-sighted. The greatest security threat to Canada comes from ISIS. ISIS is responsible for slaughtering tens of thousands of people in Iraq, Syria, and around the world. Entire villages have been upended and literally rivers of blood flow in Iraq and Syria, and yet the government's response is to cut and run by pulling out the CF-18s. The <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation>, the <Affiliation DbId="214305" Type="4">Minister of Foreign Affairs</Affiliation>, and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> cannot explain how that is going to assist the international coalition to defeat ISIS. The reason is that it is completely unhelpful.</ParaText>
               <ParaText id="4176652">I say to hon. members opposite, in closing, that in terms of a road to prosperity, it does not come by spending more, by regulating more, by taxing more, and by redistributing more. It comes from being fiscally responsible and trusting taxpayers and creating the conditions for growth.</ParaText>
             </Content>
           </Intervention>
@@ -2020,7 +2003,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214139" Type="2">Ms. Tracey Ramsey (Essex, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176698">Mr. Speaker, I would like to congratulate the member for <Affiliation DbId="214080" Type="2">Vaughan—Woodbridge</Affiliation> for his first speech here in the House. He mentioned the middle class and the tax cut the Liberals have offered. I would like to say that the middle class will still not get a raise, as the member indicated, with tax plans that leave out 70% of Canadians.</ParaText>
-              <ParaText id="4176699">He mentioned the coffee shops. These are the places in my riding where working class people gather, and they will no doubt be asking the Liberal government why 70% of Canadians are being left out of the tax changes the the government has proposed. Why do they not get a break as well?</ParaText>
+              <ParaText id="4176699">He mentioned the coffee shops. These are the places in my riding where working-class people gather, and they will no doubt be asking the Liberal government why 70% of Canadians are being left out of the tax changes the government has proposed. Why do they not get a break as well?</ParaText>
               <ParaText id="4176700">What will the member tell them, or does he only represent the 30% that he worked with on Bay Street?</ParaText>
             </Content>
           </Intervention>
@@ -2098,7 +2081,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessTitle>Resumption of Debate on Address in Reply</SubjectOfBusinessTitle>
         <ProceduralText TocType="TPC" id="6">Motion</ProceduralText>
         <SubjectOfBusinessContent>
-          <ParaText id="4176720">The House resumed consideration of the motion, and of the amendment.</ParaText>
+          <ParaText id="4176720">The House resumed consideration of the motion for an address to His Excellency the Governor General in reply to his speech at the opening of the session, and of the amendment.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Jeneroux" id="8764734">
             <PersonSpeaking>
               <Affiliation DbId="214272" Type="2">Mr. Matt Jeneroux (Edmonton Riverbend, CPC)</Affiliation>: </PersonSpeaking>
@@ -2110,7 +2093,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4176725"> However, this is where I would like to stop talking about me. Quite frankly, there are much more important things to talk about. I would like to focus this time—my time—to speak on what the Speech from the Throne means to our future generations. I thought it might be interesting because, quite simply, I get both excited and scared for our future leaders. I am excited because I truly feel there is nothing they cannot accomplish, but also scared because we are a country that is admired by so many in this world for its freedom and prosperity. It is the decisions we do not make today that could put all that at risk. </ParaText>
               <ParaText id="4176726">However, we are only a generation away from losing this way of life that we have worked so hard to achieve. I want our future generations to have a better life, a successful life. Let us take the message forward together. Deep down, we all have a dream for what Canada can become in the next 20 to 50 years, but we need to take responsibility for that dream. I challenge our future generations to make their dreams for our country a reality. I challenge them to say “yes” to their dreams, not to settle for mediocrity, and to work hard. Things in this life are not easy. They are hard. Do what is hard. Trust me that it will be worth the work.</ParaText>
               <ParaText id="4176727"> There are many distractions in this world: Facebook, Twitter, social media. However, for our future generations, they should focus on their goals and dreams. They are responsible to our country to do just that. </ParaText>
-              <ParaText id="4176728">Our future generations are certain to face many difficult challenges in the years to come. However, I want them to remember, each and every day, to embrace the Canada they want to see. There will be thousands of people lined up around each and every corner to tell them no, but they should not listen. I want our future generations to push themselves to do better, to be better for this world, and to be better for us. It is hard to push oneself, but that is the point: do what is hard. Their integrity and their honour are what define them. They should never let anyone tell them they cannot do something. If they want something, work hard. It is honestly that simple. I want our future generations to remember these words, as what we do inside this chamber for all of them is not something anyone of us should ever forget. </ParaText>
+              <ParaText id="4176728">Our future generations are certain to face many difficult challenges in the years to come. However, I want them to remember, each and every day, to embrace the Canada they want to see. There will be thousands of people lined up around each and every corner to tell them no, but they should not listen. I want our future generations to push themselves to do better, to be better for this world, and to be better for us. It is hard to push oneself, but that is the point: do what is hard. Their integrity and their honour are what define them. They should never let anyone tell them they cannot do something. If they want something, work hard. It is honestly that simple. I want our future generations to remember these words, as what we do inside this chamber for all of them is not something any one of us should ever forget. </ParaText>
               <ParaText id="4176729"> I want to focus my remaining comments on my home province of Alberta.</ParaText>
               <ParaText id="4176730"> I have grown up in a province that has taken action, a province that does a lot of the heavy lifting for the economy, but a province that is under attack both by its own NDP government and the federal Liberal government. I am fearful for our future there. If people do not believe me, the very decision to remove the responsibilities for the west and roll them into a minister from Toronto does not sit well with everyday Albertans. There are decisions like giving up on pipelines and tankers on the west coast. I ask members to please not take these decisions lightly. These decisions impact the lives and futures of many. I also ask members to please not make a political decision. The west is truly Canada's land of opportunity during economic hardships and we can be that way again.</ParaText>
               <ParaText id="4176731">We need a government that will join with us across the aisle and fight to ensure we have the jobs, the people, and ultimately the support to bring forward the next era of the golden west. We have been the strongest economic region in North America for the past 10 years. For the men and women who have lost their jobs in the oil patch, this Conservative team is here for them. For the farmers feeling threatened in their way of life, this Conservative team is here for them. For the working moms and dads who are now bracing for the burden of more debt, I pledge to them that this Conservative team is here for them.</ParaText>
@@ -2133,7 +2116,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4176739">The amendment is in order.</ParaText>
+              <ParaText id="4176739">The subamendment is in order.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2179,7 +2162,7 @@ Accordingly the Speaker with the House went up to the Senate chamber.
         <SubjectOfBusinessTitle>Resumption of Debate on Address in Reply</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
-          <ParaText id="4176745">The House resumed consideration of the motion, of the amendment and of the amendment to the amendment.</ParaText>
+          <ParaText id="4176745">The House resumed consideration of the motion for an address to His Excellency the Governor General in reply to his speech at the opening of the session, of the amendment and amendment to the amendment.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fisher" id="8764758">
             <PersonSpeaking>
               <Affiliation DbId="214074" Type="2">Mr. Darren Fisher (Dartmouth—Cole Harbour, Lib.)</Affiliation>: </PersonSpeaking>
@@ -2244,7 +2227,7 @@ Accordingly the Speaker with the House went up to the Senate chamber.
               <ParaText id="4176766">We are also committed to creating more opportunities for young Canadians. One of the biggest concerns that parents have in the riding of Mississauga—Streetsville is that their children will not have the same opportunities that they did. It is imperative that future generations are educated in order to ensure the continued prosperity of our great nation.</ParaText>
               <ParaText id="4176767">In addition to hearing the concerns of our residents, I have also consulted with the mayor of Mississauga, city councillors, and our provincial counterparts. In order for the riding to thrive, the municipality requires dedicated and predictable funding for infrastructure with an emphasis on transit investments. Those living in my riding who work in downtown Toronto can barely make it back for dinner. </ParaText>
               <ParaText id="4176768">On July 6, 2013, we all watched in horror the tragic events of Lac-Mégantic's derailment. Residents of Mississauga—Streetsville were shocked to hear that that very train passed through our backyards and our shopping centres. This particular issue was once again brought to the forefront as a similar train caught fire during the campaign. That train was situated between shopping centres, a day care, and the backyards of some residents.</ParaText>
-              <ParaText id="4176769">Another concern in regards to infrastructure is that of affordable housing. Social and affordable housing currently has a seven-to-ten year wait time in Mississauga. Our riding also has multiple co-op housing units. My colleagues and I visited one of these co-ops and were surprised to learn that they only required a mere $50,000 in government assistance to keep a lot of those people from being kicked out onto the street. This is why our infrastructure investment of $125 billion is not just an investment in infrastructure, but an investment in Canadian families. Ultimately, we need a federal government that respects municipalities.</ParaText>
+              <ParaText id="4176769">Another concern in regards to infrastructure is that of affordable housing. Social and affordable housing currently has a seven- to 10-year wait time in Mississauga. Our riding also has multiple co-op housing units. My colleagues and I visited one of these co-ops and were surprised to learn that they only required a mere $50,000 in government assistance to keep a lot of those people from being kicked out onto the street. This is why our infrastructure investment of $125 billion is not just an investment in infrastructure, but an investment in Canadian families. Ultimately, we need a federal government that respects municipalities.</ParaText>
               <ParaText id="4176770">During this previous election, I was contacted by various groups and individuals of all parties to discuss electoral reform. Residents often felt their vote could potentially be wasted. When our party announced that 2015 would be the last election under the first past the post voting system, it was an announcement that our government is going to be one that listens to the concerns of citizens, has progressive views, and is truly about real change.</ParaText>
               <ParaText id="4176771">Some of my fondest memories of growing up in the riding involve our parks and trails. Our riding has a multitude of green spaces, conservation lands, bike paths, ponds, and a lake, and of course, the Credit River. I often take my cousins along with me to tree planting events so that not only can they enjoy these spaces, but understand how we need to preserve them.</ParaText>
               <ParaText id="4176772">This government has committed to preserving the environment and will take on climate change. As mentioned in the Speech from the Throne, we will make decisions that are informed by scientific evidence.</ParaText>
@@ -2326,9 +2309,9 @@ Accordingly the Speaker with the House went up to the Senate chamber.
               <ParaText id="4176796">Mr. Speaker, before I begin my speech, I would like to say that I will be sharing my time with the member for <Affiliation DbId="214446" Type="2">South Okanagan—West Kootenay</Affiliation>.</ParaText>
               <ParaText id="4176797">Since this is my first speech in the House, I would like to take this opportunity to thank the people of Saint-Hyacinthe-Bagot for putting their trust in me on October 19. It is a great privilege to represent them in the House of Commons. </ParaText>
               <ParaText id="4176798">I will continue to work hard to deserve this honour and to give my constituents a voice. I would also like to thank all those who supported me and worked by my side during the election campaign: the volunteers, as well as my friends and family. Without the support they gave me every day, I would not be here today.</ParaText>
-              <ParaText id="4176799">I am fortunate to represent an extraordinary riding and I invite my colleagues to discover it. It includes two RCMs, the RCM of Acton and that of Maskoutains, which are made up of 25 municipalities and three towns, namely Acton Vale, Saint-Pie, and of course, Saint-Hyacinthe. Saint-Hyacinthe is an innovative region, as demonstrated by the fact it won the title of Canada's Jobs Capital in 2015. We have also held the prestigious title of Agri-Food Capital of Québec for a long time.</ParaText>
+              <ParaText id="4176799">I am fortunate to represent an extraordinary riding and I invite my colleagues to discover it. It includes two RCMs, the RCM of Acton and that of Maskoutains, which are made up of 25 municipalities and three towns, namely Acton Vale, Saint-Pie, and of course, Saint-Hyacinthe. Saint-Hyacinthe is an innovative region, as demonstrated by the fact it won the title of Canada's Jobs Capital in 2015. We have also held the prestigious title of agri-food capital of Quebec for a long time.</ParaText>
               <ParaText id="4176800">I, along with many Canadians, listened closely to the throne speech. I was happy with a number of commitments this government made, but there were some omissions, and I was disappointed by other aspects.</ParaText>
-              <ParaText id="4176801">Agriculture is a very strong economic driver in my riding. Saint-Hyacinthe is known around the world for being an agrifood technopole, in particular because it is home to educational institutions, such as the CEGEP, the Institut de technologie agroalimentaire, and the only French-language veterinary medicine faculty in North America. It is also home to research centres and a number of biotechnology innovation companies. Agriculture is the backbone of our economy back home.</ParaText>
+              <ParaText id="4176801">Agriculture is a very strong economic driver in my riding. Saint-Hyacinthe is known around the world for being an agri-food technopole, in particular because it is home to educational institutions, such as the CEGEP, the Institut de technologie agroalimentaire, and the only French-language veterinary medicine faculty in North America. It is also home to research centres and a number of biotechnology innovation companies. Agriculture is the backbone of our economy back home.</ParaText>
               <ParaText id="4176802">On a daily basis, I hear from farmers who are worried about the trans-Pacific partnership. I am concerned that the Liberals still seem prepared to move forward with the Conservatives' trans-Pacific partnership agreement. This agreement will put our farmers at risk. In my riding, in the RCM of Les Maskoutains alone, more than 250 family businesses will be affected by this agreement.</ParaText>
               <ParaText id="4176803">Furthermore, although the Liberals made an election promise, I did not hear anything in the throne speech about holding public consultations anytime soon. There was also nothing about the compensation promised to the farmers who will suffer the consequences of this agreement. I must admit that people back home are very worried.</ParaText>
               <ParaText id="4176804">In my riding of Saint-Hyacinthe—Bagot, a number of major infrastructure projects are waiting for federal funding. This government promised Canadians change—rapid, urgent, and positive change—in how it does things. It promised to make massive investments in infrastructure, among other things. </ParaText>
@@ -2441,7 +2424,7 @@ Accordingly the Speaker with the House went up to the Senate chamber.
             <PersonSpeaking>
               <Affiliation DbId="214446" Type="2">Mr. Richard Cannings</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4176860">Mr. Speaker, I would like to touch on the infrastructure question. When I was campaigning throughout the riding, I met with almost all the mayors and councillors in the 41 communities.. Infrastructure was at the top of their list at all times. They wanted the infrastructure funding from the federal government to be easier to access for small communities. So many of the funding programs are aimed at larger communities and it is very difficult to find partnerships for small communities. </ParaText>
+              <ParaText id="4176860">Mr. Speaker, I would like to touch on the infrastructure question. When I was campaigning throughout the riding, I met with almost all the mayors and councillors in the 41 communities. Infrastructure was at the top of their list at all times. They wanted the infrastructure funding from the federal government to be easier to access for small communities. So many of the funding programs are aimed at larger communities and it is very difficult to find partnerships for small communities. </ParaText>
               <ParaText id="4176861">As far as helping children in poverty and families in need, the NDP ran on a program to provide affordable child care across the country. That really resonated on the doorsteps in South Okanagan—West Kootenay. So many people thought said that was what could really help them much more than a lump sum payment.</ParaText>
             </Content>
           </Intervention>
@@ -2527,7 +2510,7 @@ Accordingly the Speaker with the House went up to the Senate chamber.
               <Affiliation DbId="214534" Type="2">Mr. John Brassard (Barrie—Innisfil, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176896">Mr. Speaker, I want to congratulate the hon. member on her first speech in the House of Commons.</ParaText>
-              <ParaText id="4176897">I am curious, as a former first responder myself, as the hon. member spoke about post traumatic stress disorder. It certainly is becoming more prevalent, not just in emergency services but the military. In my riding, there is a very strong advocate by the name of Natalie Harris who is doing a lot of tremendous work in the area of PTSD. </ParaText>
+              <ParaText id="4176897">I am curious, as a former first responder myself, as the hon. member spoke about post-traumatic stress disorder. It certainly is becoming more prevalent, not just in emergency services but the military. In my riding, there is a very strong advocate by the name of Natalie Harris who is doing a lot of tremendous work in the area of PTSD. </ParaText>
               <ParaText id="4176898">I am curious what the government is planning to do. What is the plan as it relates to the throne speech?</ParaText>
             </Content>
           </Intervention>
@@ -2595,15 +2578,15 @@ Accordingly the Speaker with the House went up to the Senate chamber.
               <ParaText id="4176917">Agriculture is another pillar of the economy in my riding of Long Range Mountains, as it is in many ridings throughout the country. Investments in our crumbling roads and bridges will allow farmers and our fishermen to get the products to market more quickly and more cheaply. They will also provide the resources for our small resources to compete in global markets.</ParaText>
               <ParaText id="4176918">Broadband access is just as important. Throughout the Long Range Mountains, and in many rural communities across Canada, there is limited or no access to high-speed Internet. Without this access, it is difficult for our small businesses to compete. It limits their ability to reach new markets and conduct day-to-day business. It also limits education in communities and reduces the capabilities of our health care system. Remote care is quite common for seniors in my province, especially in the rural areas.</ParaText>
               <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
-              <ParaText id="4176919">These investments are not just an investment in our economy of today. They are a investment in our economy of tomorrow. If we are willing to seize this unique opportunity we will empower our children to succeed in the future and, hopefully, they too will improve our country for the next generation. </ParaText>
+              <ParaText id="4176919">These investments are not just an investment in our economy of today. They are an investment in our economy of tomorrow. If we are willing to seize this unique opportunity we will empower our children to succeed in the future and, hopefully, they too will improve our country for the next generation. </ParaText>
               <ParaText id="4176920">This idea of investing in our future was present throughout the throne speech. Our government has proposed an ambitious agenda, based on a vision of Canada that we all share. It is a vision of economic growth, driven by our middle class, of equal opportunity for all our children. It is looking after our seniors and preserving our environment for our next generation. </ParaText>
               <ParaText id="4176921">This agenda does not just make moral sense. This makes economic sense. Accounting for 80% of all new jobs created across the country, small and medium-sized businesses are the biggest driver of economic growth in Canada. To continue to grow our economy, we must invest in our small businesses and empower them with the resources they need to succeed in an increasingly competitive global economy.</ParaText>
-              <ParaText id="4176922">As a small business operator in Newfoundland and Labrador, I understand the challenges our small businesses are facing. Today's economy is built on ideas and innovation, and in order to succeed it is essential for small businesses to have access to a highly skilled workforce. That is why I was very pleased to see the priority of working with territorial and provincial leaders to make post-secondary education more affordable. Whether it is the skilled trades, college, or university, post-secondary education is the key to our youth succeeding in today's economy. In the Long Range Mountains, we are lucky to have three top flight post-secondary institutions: Memorial University's Grenfell Campus, the College of the North Atlantic, and Academy Canada. By working to make post-secondary education more affordable, we can ensure that our small businesses can harness their talents to build an economy that will be competitive not just today but for decades to come.</ParaText>
-              <ParaText id="4176923">I would like to touch on Memorial University and the Grenfell Campus for a minute. The Grenfell Campus is located in Corner Brook. It was named after Sir Wilfred Grenfell, a medical missionary on the rugged coast of Newfoundland and Labrador. Memorial University itself was founded in honour of the 1,500 Newfoundlander and Labradorian soldiers who died fighting in the first world war. It was named by their mothers. They wanted to commemorate their sacrifice, and their memories live on in Memorial University. </ParaText>
+              <ParaText id="4176922">As a small business operator in Newfoundland and Labrador, I understand the challenges our small businesses are facing. Today's economy is built on ideas and innovation, and in order to succeed it is essential for small businesses to have access to a highly skilled workforce. That is why I was very pleased to see the priority of working with territorial and provincial leaders to make post-secondary education more affordable. Whether it is the skilled trades, college, or university, post-secondary education is the key to our youth succeeding in today's economy. In the Long Range Mountains, we are lucky to have three top-flight post-secondary institutions: Memorial University's Grenfell Campus, the College of the North Atlantic, and Academy Canada. By working to make post-secondary education more affordable, we can ensure that our small businesses can harness their talents to build an economy that will be competitive not just today but for decades to come.</ParaText>
+              <ParaText id="4176923">I would like to touch on Memorial University and the Grenfell Campus for a minute. The Grenfell Campus is located in Corner Brook. It was named after Sir Wilfred Grenfell, a medical missionary on the rugged coast of Newfoundland and Labrador. Memorial University itself was founded in honour of the 1,500 Newfoundlander and Labradorian soldiers who died fighting in the First World War. It was named by their mothers. They wanted to commemorate their sacrifice, and their memories live on in Memorial University. </ParaText>
               <ParaText id="4176924">We will always remember our fallen and we will always be proud of those who choose to serve, just as we all are of our Canadian Forces. I was very pleased that the additional support for veterans will mean the reopening of the Veterans Affairs offices throughout the country, one of which is in my riding of Corner Brook. These offices are an important source of care and assistance for the hundreds of thousands of veterans across the country. </ParaText>
               <ParaText id="4176925">The throne speech laid out the theme of investing in our future. Perhaps nowhere is this more important than our relationship with our environment. The pledges in the throne speech to tackle climate change and to focus on the growing economy while protecting our environment are great steps forward for all Canadians. We are lucky to be blessed with a beautiful country and an abundance of resources. By caring for both we will preserve these treasures for the next generation.</ParaText>
               <ParaText id="4176926">In my riding of Long Range Mountains, we enjoy two UNESCO world heritage sites, L'Anse aux Meadows and Gros Morne National Park. Both of these sites, and the many other tourism treasures, contribute to the growing tourism industry, to our small businesses and, most importantly, to our culture and heritage, which is a tad unique in Newfoundland and Labrador. I am thrilled our government has placed a priority on protecting our environment. </ParaText>
-              <ParaText id="4176927">I believe the Speech from the Throne laid out an ambitious agenda with a vision that Canadians share, and I look forward to working with my colleagues on both side of the aisle delivering for the constituents of the Long Range Mountains and for all Canadians.</ParaText>
+              <ParaText id="4176927">I believe the Speech from the Throne laid out an ambitious agenda with a vision that Canadians share, and I look forward to working with my colleagues on both sides of the aisle delivering for the constituents of the Long Range Mountains and for all Canadians.</ParaText>
               <ParaText id="4176928">As I am the last speaker for today, I would like to take this opportunity to say merry Christmas. Have a safe and happy holiday. We will see everyone in the new year. </ParaText>
             </Content>
           </Intervention>
@@ -2612,7 +2595,7 @@ Accordingly the Speaker with the House went up to the Senate chamber.
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4176929">The hon. parliamentary secretary will have five minutes remaining for questions and comments when the House next returns to debate on the question before the House.</ParaText>
-              <ParaText id="4176930">The hon. parliamentary secretary to the minister of innovation, science and economic development had indicated he was rising on a point of order. I do note that we are post the usual time of adjournment. I will let him have a brief intervention, but we are out of time.</ParaText>
+              <ParaText id="4176930">The hon. parliamentary secretary to the minister of innovation, science and economic development had indicated he was rising on a point of order. I do note that we are past the usual time of adjournment. I will let him have a brief intervention, but we are out of time.</ParaText>
               <ParaText id="4176931">The hon. parliamentary secretary.</ParaText>
             </Content>
           </Intervention>
@@ -2636,7 +2619,7 @@ Accordingly the Speaker with the House went up to the Senate chamber.
                 <B>Some hon. members:</B> No.</ParaText>
               <ParaText id="4176937">
                 <B>The Deputy Speaker:</B> I know that the hon. House leaders from both sides have intimated this, but as we adjourn the House and get back to our ridings, on behalf of the Speaker and the speakership generally, I wish all members a very wonderful and happy holiday season and a wonderful New Year to come. May you all have safe travels throughout this holiday season.</ParaText>
-              <ParaText id="4176938">It being 2:38 p.m. the House stands adjourned until Monday, January 25, 2016, at 11 a.m. pursuant to Standing Orders <?bk?>28(2)<?ek?> and <?bk?>24(1)<?ek?>.</ParaText>
+              <ParaText id="4176938">It being 2:38 p.m. the House stands adjourned until Monday, January 25, 2016, at 11 a.m. pursuant to Standing Orders <?bk ?>28(2)<?ek ?> and <?bk ?>24(1)<?ek ?>.</ParaText>
               <ParaText id="4176939"> (The House adjourned at 2:32 p.m.) </ParaText>
             </Content>
           </Intervention>

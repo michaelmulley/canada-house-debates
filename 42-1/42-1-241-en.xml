@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9813494">
-  <StartPageNumber>15753</StartPageNumber>
+  <StartPageNumber>15729</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -430,7 +430,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5156333">We were hearing nice things about peace earlier. I liked that. Let us try to have a little quiet when we hear the questions and the answers. </ParaText>
+              <ParaText id="5156333">Order. We were hearing nice things about peace earlier. I liked that. Let us try to have a little quiet when we hear the questions and the answers. </ParaText>
               <ParaText id="5156334">The hon. Leader of the Opposition has the floor.</ParaText>
             </Content>
           </Intervention>
@@ -520,7 +520,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5156354">I know it is too much to expect love, but we did hear about peace earlier and that was nice.</ParaText>
+              <ParaText id="5156354">Order. I know it is too much to expect love, but we did hear about peace earlier and that was nice.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -627,7 +627,7 @@
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5156382">Mr. Speaker, once again the opposition has nothing better to do than sling mud.</ParaText>
-              <ParaText id="5156383"> We are showing how to create economic growth after 10 years of sluggish economic growth under Stephen Harper, when we experienced the worst growth rate since before World War II. The work we are doing now will lead to real benefits for Canadians. The opposition had nothing better to do than make personal attacks and mount a smear campaign.</ParaText>
+              <ParaText id="5156383"> We are showing how to create economic growth after 10 years of sluggish economic growth under Stephen Harper, when we experienced the worst growth rate since before World War II. The work we are doing now will lead to real benefits for Canadians. The opposition has nothing better to do than make personal attacks and mount a smear campaign.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -670,7 +670,7 @@
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5156393">Order, please. I want to remind members that each side gets their turn. Members on one side should have confidence in those who will have a chance to speak for their side, to make the arguments they feel should be made. However, they should not make them while someone else is speaking and has the floor, but wait until they have the chance when they have the floor.</ParaText>
-              <ParaText id="5156394"> Let us list to the hon. Leader of the Opposition and then to the answer.</ParaText>
+              <ParaText id="5156394"> Let us listen to the hon. Leader of the Opposition and then to the answer.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="40">(1440)</Timestamp>
@@ -1293,9 +1293,9 @@
         <ProceduralText TocType="TCC" id="2">(House in committee of the whole to recognize the 2017 Special Olympics World Winter Games  athletes, Mr. Geoff Regan in the chair)</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="5156525"> [<I>And Canada's 2017 Special Olympic World Winter Games athletes being present in the chamber:</I>]</ParaText>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9813901">
+          <Intervention Type="Debate" ToC="Yes" ToCText="The Chair" id="9813901">
             <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5156526">It is my pleasure to welcome onto the floor of the chamber many of the athletes who competed in the 2017 Special Olympics World Winter Games in Austria last March, led by the chef de mission and the 2017 honorary coach. </ParaText>
               <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
@@ -1311,14 +1311,14 @@
                 <B>Some hon. members:</B> Hear, hear!</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="5156534">
-                <B>The Speaker:</B> All members are invited to a reception in room 237-C to meet our distinguished guests.</ParaText>
+                <Affiliation DbId="214706" Type="15">The Chair</Affiliation> All members are invited to a reception in room 237-C to meet our distinguished guests.</ParaText>
               <ParaText id="5156535">[<I>And Canada's 2017 Special Olympics World Winter Games athletes having left the Chamber:</I>]</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9813906">
             <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5156536">The committee will rise and I will leave the Chair.</ParaText>
             </Content>
@@ -1565,22 +1565,6 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9814800">
-        <SubjectOfBusinessTitle>Questions on the Order Paper</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9814935">
-            <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="5156569">Mr. Speaker, I ask that all questions be allowed to stand.</ParaText>
-              <ParaText id="5156570">
-                <B>The Assistant Deputy Speaker (Mr. Anthony Rota):</B> Is that agreed?</ParaText>
-              <ParaText id="5156571">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
       <SubjectOfBusiness id="9815707">
         <SubjectOfBusinessTitle>Questions Passed as Orders for Returns</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -1592,12 +1576,6 @@
               <ParaText id="5156573">
                 <B>The Assistant Deputy Speaker (Mr. Anthony Rota):</B> Is that agreed?</ParaText>
               <ParaText id="5156574">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-              <ParaText id="5156575">
-                <B>Mr. Kevin Lamoureux: </B> Mr. Speaker, I ask that the remaining questions be allowed to stand.</ParaText>
-              <ParaText id="5156576">
-                <B>The Assistant Deputy Speaker (Mr. Anthony Rota):</B> Is that agreed?</ParaText>
-              <ParaText id="5156577">
                 <B>Some hon. members:</B> Agreed.</ParaText>
             </Content>
           </Intervention>
@@ -1613,10 +1591,21 @@
               <ParaText id="5156579">(Return tabled)</ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9814935">
+            <PersonSpeaking>
+              <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="5156569">Mr. Speaker, I ask that all questions be allowed to stand.</ParaText>
+              <ParaText id="5156570">
+                <B>The Assistant Deputy Speaker (Mr. Anthony Rota):</B> Is that agreed?</ParaText>
+              <ParaText id="5156571">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+            </Content>
+          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9814015">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Motions for Papers</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9814014">
@@ -1625,7 +1614,7 @@
             <Content>
               <ParaText id="5156580">Mr. Speaker, I ask that all notices of motions for the production of papers be allowed to stand.</ParaText>
               <ParaText id="5156581">
-                <B>Mr. Anthony Rota (The Assistant Deputy Speaker):</B> Is that agreed?</ParaText>
+                <B>The Assistant Deputy Speaker (Mr. Anthony Rota):</B> Is that agreed?</ParaText>
               <ParaText id="5156582">
                 <B>Some hon. members:</B> Agreed.</ParaText>
             </Content>
@@ -1925,7 +1914,6 @@
               <ParaText id="5156698">I would note that the words have been very nice. The right words are being said, however, in actual fact, when the rubber hits the road, when the government is required to do some consultation, it has been quite lacking.<ForceColumnBreak /></ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Saganash" id="9814784">
             <PersonSpeaking>
               <Affiliation DbId="214476" Type="2">Mr. Romeo Saganash (Abitibi—Baie-James—Nunavik—Eeyou, NDP)</Affiliation>: </PersonSpeaking>
@@ -1943,7 +1931,6 @@
               <ParaText id="5156707">One of the other important promises that this government made to indigenous people was that it would adopt and implement the United Nations Declaration on the Rights of Indigenous Peoples. In my view, this is the most important promise. Why not accept this framework, which would allow us to move forward?</ParaText>
               <ParaText id="5156708">I will read Article 9 of the United Nations Declaration on the Rights of Indigenous Peoples.</ParaText>
               <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
-              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="5156709">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Indigenous peoples and individuals have the right to belong to an indigenous community or nation, in accordance with the traditions and customs of the community or nation concerned. No discrimination of any kind may arise from the exercise of such a right.</QuotePara>
@@ -2084,7 +2071,7 @@
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> I would like to add my support for this motion and indicate that I intend to vote for it.... The amendments before us, to my relief, leave no legal distinction between indigenous men and women. It brings the act, therefore, into compliance with the Charter.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5156754">The member opposite also knows that we have gone beyond the 1951 cut-off amendment in Bill <Document DbId="4336828" Type="3">C-3</Document>. In fact, we have made amendments in the bill that would include circumstances prior to 1951 and remedy sex-based inequities back to 1869. I ask why the member opposite will not support these amendments in Bill <Document DbId="8532485" Type="3">S-3</Document>.</ParaText>
+              <ParaText id="5156754">The member opposite also knows that we have gone beyond the 1951 cut-off amendment in Bill <Document DbId="8532485" Type="3">S-3</Document>. In fact, we have made amendments in the bill that would include circumstances prior to 1951 and remedy sex-based inequities back to 1869. I ask why the member opposite will not support these amendments in Bill <Document DbId="8532485" Type="3">S-3</Document>.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -2330,7 +2317,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5156842">It being 5:30 p.m. the House will now proceed to the taking of the deferred recorded division on the motion to concur in the 13th report of the Standing Committee on Finance.</ParaText>
+              <ParaText id="5156842">It being 5:30 p.m. the House will now proceed to the taking of the deferred recorded divisions on the motion to concur in the 13th report of the Standing Committee on Finance.</ParaText>
               <ParaText id="5156843">Call in the members.</ParaText>
             </Content>
           </Intervention>
@@ -3353,7 +3340,7 @@
               <ParaText id="5157024">This so-called cost-benefit analysis does not taken into account any benefits. Additionally, the so-called basket of services examined as costs are arbitrary at best. For example, housing costs are not part of the baseline calculation of social costs for average Canadians with a disability. However, under the excessive demand assessment process, they are. By the way, when the baseline costs were calculated in 2004, they were done incorrectly. Different services had costs from different fiscal years, and the figures were not adjusted to inflation to make them comparable. </ParaText>
               <ParaText id="5157025">Finally, this policy is discriminatory. It contradicts our charter, federal and provincial human rights legislation, and our international commitment to respect the rights of people with disabilities. Frankly, this policy reminds me of a sci-fi movie I saw some years ago. The whole premise of the movie was based on a hunt for people with defects, disabilities, and they were to be wiped out. I wonder how different this is from the premise of that movie.</ParaText>
               <ParaText id="5157026">Effectively, we have an immigration policy that aims to bar people with a disability and their families from being permanent residents in Canada. The minister recently said, "From a principled perspective, the current excessive demand policy simply does not align with our country's values on the inclusion of persons with disabilities in Canadian society." </ParaText>
-              <ParaText id="5157027">The minister has been reviewing this policy for two years now. The policy continues to discriminate. Families continue to be hurt by it. If the minister is going to be true to his words, he needs to repeal the excessive demand provision. In the words of Professor Montoya, “Section 38(1)(c) is flawed...the Charter isn't being applied as it should be, nor the United Nations convention that Canada ratified”. </ParaText>
+              <ParaText id="5157027">The minister has been reviewing this policy for two years now. The policy continues to discriminate. Families continue to be hurt by it. If the minister is going to be true to his words, he needs to repeal the excessive demand provision. In the words of Professor Montoya, “Section 38(1)(c) is flawed...the charter isn't being applied as it should be, and niether is the United Nations convention that Canada ratified”. </ParaText>
               <ParaText id="5157028">Given all of this, will the government commit to repealing paragraph 38(1)(c), the excessive provision demands in IRPA?</ParaText>
             </Content>
           </Intervention>

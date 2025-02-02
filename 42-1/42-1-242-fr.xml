@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9820058">
-  <StartPageNumber>15799</StartPageNumber>
+  <StartPageNumber>15775</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -517,9 +517,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Kwan" id="9821158">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Kwan" id="9821158">
             <PersonSpeaking>
-              <Affiliation DbId="214258" Type="2">Mme Jenny Kwan (Vancouver-Est, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214258" Type="2">Mme Jenny Kwan</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5159828">Monsieur le Président, j'ai des nouvelles pour le secrétaire parlementaire. Les problèmes causés par les consultants véreux ont commencé il y a belle lurette, à l'époque des gouvernements Chrétien et Martin, et ils perdurent. </ParaText>
               <ParaText id="5159829">Le secrétaire parlementaire affirme que l'Agence des services frontaliers du Canada mène des enquêtes à ce sujet. J'ai moi-même porté une situation à l'attention du gouvernement. Il s'agit d'un recours collectif. Un consultant véreux a floué et arnaqué des travailleurs migrants, sous prétexte de leur fournir des services. Les consultants n'ont pas le droit de dire que les gens devront payer un montant X pour obtenir un emploi, mais c'est exactement ce qui s'est produit. L'Agence a fait enquête et recommandé que des accusations soient portées. Malgré cela, aucune accusation n'a encore été portée. Pourquoi?</ParaText>
@@ -1100,9 +1100,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9823231">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9823231">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5160099">Madame la Présidente, je demande que le vote soit reporté à l'heure ordinaire de l'ajournement le lundi 4 décembre 2017.</ParaText>
             </Content>
@@ -1160,13 +1160,7 @@
               <ParaText id="5160113">Monsieur le Président, comme vous le savez, le Bloc québécois n'a aucune autre occasion de soulever la question. Je vous demande donc d'autoriser un débat d'urgence dès ce soir.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9823906">
-        <Timestamp Hr="13" Mn="20">(1320)</Timestamp>
-        <SubjectOfBusinessQualifier>Décision de la présidence</SubjectOfBusinessQualifier>
-        <CatchLine>Décision de la présidence</CatchLine>
-        <SubjectOfBusinessContent>
+          <Timestamp Hr="13" Mn="20">(1320)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le vice-président" id="9823277">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
@@ -1494,7 +1488,9 @@
               <ParaText id="5160219">Bien qu'Irene ait officiellement pris sa retraite en 2016, elle continue de mettre ses talents à profit d'organismes comme l'Alberta Council of Women's Shelters ainsi que de la 23<Sup>e</Sup> édition des Aboriginal Role Models of Alberta Awards qu'elle préside.</ParaText>
               <ParaText id="5160220">Irene est à Ottawa cette semaine pour recevoir une médaille du 150<Sup>e</Sup> anniversaire du Sénat de la part du sénateur Mitchell en reconnaissance de son leadership exceptionnel et de son dévouement envers les peuples autochtones. Elle est accompagnée de sa petite-fille Alyssa Morin-Arcand, qui suit déjà les traces de sa kokum et qui est engagée dans sa communauté.</ParaText>
               <ParaText id="5160221">Monsieur le Président, j'invite les députés à se joindre à moi pour remercier et féliciter Irene Morin.</ParaText>
-              <ParaText id="5160222">[<I>Mamihcimowewin</I>]</ParaText>
+              <ParaText id="5160222">
+                <I>Mamihcimowewin</I>
+              </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1948,6 +1944,7 @@
               <ParaText id="5160328">À l'ordre. Je demanderais au <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> et aux autres députés de ne pas insinuer que l'un des leurs est incapable de comprendre quelque chose.</ParaText>
               <ParaText id="5160329">Je suis conscient qu'il y a énormément de tension dans l'air.</ParaText>
               <ParaText id="5160330">À l'ordre. Le député de <Affiliation DbId="214548" Type="2">Banff—Airdrie</Affiliation> a le choix: ou bien il se calme, ou bien il sort, ou bien il se fait escorter jusqu'à la sortie. Que décide-t-il?</ParaText>
+              <ParaText id="5161080">Je demande au sergent d'armes d'emmener M. Richards.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2244,6 +2241,8 @@
               <ParaText id="5160395">Monsieur le Président, j'espère que nous allons aborder des questions qui revêtent de l'importance pour les Canadiens, par exemple des questions sur la situation économique.</ParaText>
               <ParaText id="5160396">J'ai répété à maintes reprises que j'ai effectivement vendu certaines actions quand je suis entré en fonction. Puis, nous avons mis en oeuvre notre programme, dont j'aimerais maintenant parler. Ce programme a énormément amélioré les choses. Il a permis au Canada d'enregistrer le taux de croissance le plus rapide des pays du G7, et il a aidé considérablement les familles du pays.</ParaText>
               <ParaText id="5160397">L'opposition ne veut pas parler de la réalité des Canadiens. Elle préfère parler de questions d'ordre personnel qui n'ont rien à voir avec nos concitoyens.</ParaText>
+              <ParaText id="5239167">
+                <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9824398">
@@ -2303,7 +2302,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9825457">
-        <SubjectOfBusinessTitle>La violence faite aux femmes</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La condition féminine</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Kwan" id="9824422">
             <PersonSpeaking>
@@ -2475,7 +2474,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213983" Type="2">Mme Eva Nassif (Vimy, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5160443">Monsieur le Président, le Canada souligne, jusqu'au 10 décembre, la campagne « Les 16 jours d'activisme contre la violence fondée sur le sexe » parce que nous savons que cela représente un obstacle important mais évitable à l'égalité. Pour parvenir à l'égalité des sexes, les femmes et les filles, incluant les femmes autochtones, doivent avoir la possibilité de participer pleinement à la vie démocratique et publique et dans leurs communautés.</ParaText>
+              <ParaText id="5160443">Monsieur le Président, le Canada souligne, jusqu'au 10 décembre, l'initiative « Les 16 jours d'activisme contre la violence fondée sur le sexe » parce que nous savons que cela représente un obstacle important mais évitable à l'égalité. Pour parvenir à l'égalité des sexes, les femmes et les filles, incluant les femmes autochtones, doivent avoir la possibilité de participer pleinement à la vie démocratique et publique et dans leurs communautés.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="5160444">Le <Affiliation DbId="229496" Type="18">secrétaire parlementaire pour la Condition féminine</Affiliation> peut-il expliquer à la Chambre comment le gouvernement aide les femmes autochtones à prendre leur destin en main et contribue à l'égalité entre les sexes?</ParaText>
             </Content>
@@ -2532,7 +2531,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214205" Type="2">M. Luc Thériault (Montcalm, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5160452">Monsieur le Président, les faits sont que le 19 mai 2016, le fondateur de la Wealth One a payé 1 500 $ pour un souper privé avec le premier ministre. Le 7 juillet, ses voeux sont exaucés: la banque peut fonctionner. Ô coïncidence, dans les 48 heures entourant l'autorisation, le compte de banque de la circonscription libérale de Papineau a augmenté de 70 000 $ en provenance de riches Chinois de Vancouver. </ParaText>
+              <ParaText id="5160452">Monsieur le Président, les faits sont que, le 19 mai 2016, le fondateur de la Wealth One a payé 1 500 $ pour un souper privé avec le premier ministre. Le 7 juillet, ses voeux sont exaucés: la banque peut fonctionner. Ô coïncidence, dans les 48 heures entourant l'autorisation, le compte de banque de la circonscription libérale de Papineau a augmenté de 70 000 $ en provenance de riches Chinois de Vancouver. </ParaText>
               <ParaText id="5160453">Si cela n'est pas un retour d'ascenseur, c'est quoi?</ParaText>
             </Content>
           </Intervention>
@@ -2822,7 +2821,7 @@
               <ParaText id="5160557">Deborah a fait preuve de cohérence en disant que le projet de loi <Document DbId="8532485" Type="3">S-3</Document> ne réglerait pas ses problèmes, parce qu’il ne lui donnerait ni le statut ni l’appartenance à la bande. C’est pourquoi elle persiste à demander au gouvernement de corriger le projet de loi de sorte qu’elle obtienne son statut et puisse ensuite être admise dans sa bande. Dans une certaine mesure, la réalité de la situation est ce qu’il y a de plus pertinent ici. Elle détient la preuve génétique qu’elle est la fille de Walter Twinn, un chef réputé de la bande de Sawridge et ancien sénateur. C’est son ADN qui le dit et pourtant elle est incapable, par n’importe quel système dont nous disposons, d’obtenir le statut, même si son père l’a. Elle est aussi incapable de se faire admettre comme membre de la bande, même si son père en a été le chef pendant très longtemps.</ParaText>
               <ParaText id="5160558"> Voilà la réalité de la situation; pourtant, nous n’avons aucun système que ce soit, même après les changements qu’apporterait le projet de loi <Document DbId="8532485" Type="3">S-3</Document>, qui permette d’en appeler au gouvernement du Canada en disant: « Aidez-moi dans ma quête de justice; aidez-moi à obtenir le statut et l’appartenance à ma bande sans que j’aie à l’amener devant un tribunal. » Deborah a très peu de moyens. Elle n’a pas d’avocats dispendieux à sa disposition. Elle n’a que sa preuve d’ADN. Elle est incapable d’engager un avocat pour plaider sa cause devant un tribunal. Elle est prête à entamer une procédure, mais elle n’a vraiment pas les fonds nécessaires. Pourquoi n’y aurait-il pas un mécanisme d’appel, une procédure équitable qui lui permette de demander pourquoi elle n’a pas droit au statut et à l’appartenance officielle à sa bande? Voilà ce qu’elle attend surtout du projet de loi <Document DbId="8532485" Type="3">S-3</Document>. C’est ce qu’elle nous a dit lorsqu’elle a comparu devant le comité et c’est ce que nous attendons aussi.</ParaText>
               <ParaText id="5160559"> Cela dit, n’est-il pas intéressant de voir le gouvernement libéral persister à dire qu’il va consulter, consulter et consulter? Les libéraux disent qu’ils vont mettre en œuvre la phase un du projet de loi, puis consulter sur la manière de mettre en œuvre les phases suivantes.</ParaText>
-              <ParaText id="5160560"> Parlons un peu de ces consultations. Lorsqu’ils veulent retarder quelque chose, qu’ils veulent reporter quelque chose à plus tard, qu’ils veulent se débarrasser de quelque chose dont ils ne veulent pas discuter, les députés du gouvernement actuel disent qu’ils vont consulter et y revenir à une date ultérieure. S’il y a quelqu’un qui devrait être consulté, c’est bien Deborah. Son cas est peut-être particulier, n’empêche qu’elle serait absolument concernée par le projet de loi <Document DbId="8532485" Type="3">S-3</Document>. A t elle été consultée? Non, il n’y a pas eu la moindre communication. Elle a dû se présenter devant le comité de son propre chef. Elle a dû s’adresser à moi et demander à témoigner. C’est la seule consultation qu’elle a eue.</ParaText>
+              <ParaText id="5160560"> Parlons un peu de ces consultations. Lorsqu’ils veulent retarder quelque chose, qu’ils veulent reporter quelque chose à plus tard, qu’ils veulent se débarrasser de quelque chose dont ils ne veulent pas discuter, les députés du gouvernement actuel disent qu’ils vont consulter et y revenir à une date ultérieure. S’il y a quelqu’un qui devrait être consulté, c’est bien Deborah. Son cas est peut-être particulier, n’empêche qu’elle serait absolument concernée par le projet de loi S-3. A t elle été consultée? Non, il n’y a pas eu la moindre communication. Elle a dû se présenter devant le comité de son propre chef. Elle a dû s’adresser à moi et demander à témoigner. C’est la seule consultation qu’elle a eue.</ParaText>
               <ParaText id="5160561"> Les exemples ne s’arrêtent pas là. Nous avons assisté à l’imposition d’un moratoire sur les forages dans le Nord sans aucune consultation. Quand le gouvernement veut faire quelque chose, il peut le faire très rapidement et il ne semble pas avoir besoin de consultation pour passer à l’action. Quand le projet de loi <Document DbId="8532485" Type="3">S-3</Document> a été étudié en comité la première fois, les mêmes personnes qui avaient traîné le gouvernement devant les tribunaux pour l'obliger à produire ce projet de loi ont dit qu’elles n’avaient même pas été consultées et qu’elles avaient pris connaissance du projet de loi en même temps que nous. Elles ont été consultées pour la première fois quand nous leur avons demandé de témoigner au comité. </ParaText>
               <ParaText id="5160562"> Je ne fais aucunement confiance au gouvernement actuel en matière de gestion, quelle qu’elle soit. À partir de maintenant, j’appuierai ce projet de loi, mais il reste encore beaucoup de travail à faire, et j’espère bien que les libéraux vont bouger, mais comme je l’ai dit, je ne leur fais aucunement confiance dans la gestion de ce dossier. </ParaText>
             </Content>
@@ -3540,15 +3539,15 @@
               <Affiliation DbId="235718" Type="2">M. Dane Lloyd (Sturgeon River—Parkland, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5160863">Monsieur le Président, je prends la parole aujourd'hui pour faire mon tout premier discours et parler du projet de loi <Document DbId="9155444" Type="4">C-373</Document>.</ParaText>
-              <ParaText id="5160864">D'abord, j'aimerais remercier ma famille de sa présence à mes côtés, de son amour et de son soutien pendant les six mois qu'a duré cette campagne électorale pour le siège de Sturgeon River—Parkland. Je tiens à mentionner ma mère, Rebecca Hyde, et mon beau-père, Doug Macheniak. J'aimerais également mentionner mes grands-parents maternels, Cindy Lou et Graham Hyde, qui m'ont toujours soutenu, de même que ma tante et mon oncle, Mark et Melissa Harsma, qui célèbrent leur 30<Sup>e</Sup> anniversaire de mariage cette semaine. </ParaText>
+              <ParaText id="5160864">D'abord, j'aimerais remercier ma famille de sa présence à mes côtés, de son amour et de son soutien pendant les six mois qu'a duré cette campagne électorale pour le siège de Sturgeon River—Parkland. Je tiens à mentionner ma mère, Rebecca Hyde, et mon beau-père, Doug Myshaniuk. J'aimerais également mentionner mes grands-parents maternels, Cindy Lou et Graham Hyde, qui m'ont toujours soutenu, de même que ma tante et mon oncle, Mark et Melissa Haarsma, qui célèbrent leur 30<Sup>e</Sup> anniversaire de mariage cette semaine. </ParaText>
               <ParaText id="5160865">Une campagne électorale fructueuse repose forcément sur toute une équipe. Chef, député ou aspirant député, nous ne pouvons atteindre notre but qu'en ayant les bonnes personnes pour nous épauler. </ParaText>
-              <ParaText id="5160866">Je tiens à remercier quelques acteurs principaux de mon équipe de campagne, pour ainsi dire, ma famille élargie. Je tiens à remercier Murray et Susie Houlak, de Stony Plain, du fort soutien qu'ils m'ont apporté. Je tiens à remercier Fran et Andrew Wolthiness, Tim et Julie Milligan, ainsi que Bill et Deeny Prinze. Deeny a reçu sa citoyenneté canadienne il y a à peine deux ans. De la Hollande, elle est arrivée ici à l'âge de 4 ans. Elle a élevé sa famille sur une ferme tout près d'Edmonton. Deeny est vraiment très fière d'être Canadienne.</ParaText>
+              <ParaText id="5160866">Je tiens à remercier quelques acteurs principaux de mon équipe de campagne, pour ainsi dire, ma famille élargie. Je tiens à remercier Murray et Susie Kulak, de Stony Plain, du fort soutien qu'ils m'ont apporté. Je tiens à remercier Fran et Andrew Wolthuis, Tim et Julie Milligan, ainsi que Bill et Deeny Prinze. Deeny a reçu sa citoyenneté canadienne il y a à peine deux ans. De la Hollande, elle est arrivée ici à l'âge de 4 ans. Elle a élevé sa famille sur une ferme tout près d'Edmonton. Dinie est vraiment très fière d'être Canadienne.</ParaText>
               <ParaText id="5160867">Je tiens à exprimer ma reconnaissance à Phil Jouanyou, mon directeur de campagne, qui a commencé à travailler avec moi peu avant ma nomination et qui est resté avec moi pour diriger ma campagne. Il a accompli un excellent travail en me permettant d'obtenir 78 % des voix — un résultat fantastique — pour les conservateurs dans Sturgeon River—Parkland.</ParaText>
               <ParaText id="5160868">Je ne me serais pas présenté si je ne n'avais pas eu l'appui de mes mentors, le député d'<Affiliation DbId="214072" Type="2">Abbotsford</Affiliation> — l'ancien ministre du Commerce international —, avec qui j'ai eu le plaisir et l'honneur de travailler pendant deux ans, et le député de <Affiliation DbId="213892" Type="2">St. Albert—Edmonton</Affiliation>, qui m'a aussi fortement appuyé et exhorté à me porter candidat. Je tiens aussi à remercier John Williams, l'ancien député de St. Albert—Edmonton, d'avoir été un mentor influent et de m'avoir appuyé tout au long de la campagne.</ParaText>
-              <ParaText id="5160869">Je veux aussi remercier quelques autres membres de cette équipe: Imelda McLaren, pour avoir été la coordonnatrice des bénévoles, Scott Merrifield et Andrew Bankovitch, qui ont participé à l'installation des pancartes qui étaient nécessaires pour gagner la campagne.</ParaText>
-              <ParaText id="5160870">Je souhaite aussi remercier ma chère conseillère, Yvonne Brochu, une légende de Spruce Grove, qui fait partie des vieux de la vieille de l'époque de Don Getty, en Alberta, et qui a été là pour me donner de sages conseils, utiles pour gagner une campagne. </ParaText>
+              <ParaText id="5160869">Je veux aussi remercier quelques autres membres de cette équipe: Imelda McLaren, pour avoir été la coordonnatrice des bénévoles, Scott Merrifield et Andrew Benkovitch, qui ont participé à l'installation des pancartes qui étaient nécessaires pour gagner la campagne.</ParaText>
+              <ParaText id="5160870">Je souhaite aussi remercier mon cher conseiller, Yvon Brochu, une légende de Spruce Grove, qui fait partie des vieux de la vieille de l'époque de Don Getty, en Alberta, et qui a été là pour me donner de sages conseils, utiles pour gagner une campagne. </ParaText>
               <ParaText id="5160871">Finalement, je veux raconter à la Chambre la petite histoire de ma candidature à l'élection. Je voulais me faire élire pour Sturgeon River—Parkland, mais j'ignorais à quel moment la députée précédente allait démissionner. Malheureusement, je participais à un exercice militaire à Gagetown, au Nouveau-Brunswick, et pendant deux semaines, je n'ai pas eu accès à un téléphone. Caché dans un sac de couchage, j'ai finalement réussi à sortir mon téléphone à 4 heures du matin, le 13 juillet. Je me souviens très bien de ce jour. J'ai vu un gazouillis confirmant que la députée précédente de Sturgeon River—Parkland avait effectivement démissionné.</ParaText>
-              <ParaText id="5160872">Le lendemain matin, j'ai parlé à mon adjudant, que j'aimerais saluer aujourd'hui, Matt Christenson. Je lui ai dit que je voulais me présenter comme candidat aux élections et — c'est tout à son honneur — il m'a pris très au sérieux et a fait remonter le message dans la chaîne de commandement. J'ai bénéficié d'un soutien sans réserve de mon commandant, mon capitaine Hugh Purdon, mon commandant ici au sein des Governor General's Foot Guards, le lieutenant-colonel Lynham et mon mentor, le major Gray Shanahan. Sans leur soutien moral, je ne pense pas que j'y serais arrivé.</ParaText>
+              <ParaText id="5160872">Le lendemain matin, j'ai parlé à mon adjudant, que j'aimerais saluer aujourd'hui, Matt Christenson. Je lui ai dit que je voulais me présenter comme candidat aux élections et — c'est tout à son honneur — il m'a pris très au sérieux et a fait remonter le message dans la chaîne de commandement. J'ai bénéficié d'un soutien sans réserve de mon commandant, mon capitaine Hugh Purdon, mon commandant ici au sein des Governor General's Foot Guards, le lieutenant-colonel Chris Lynam et mon mentor, le major Gray Shanahan. Sans leur soutien moral, je ne pense pas que j'y serais arrivé.</ParaText>
               <ParaText id="5160873">Cela étant dit, j'aimerais passer à mes observations sur le projet de loi en question.</ParaText>
               <ParaText id="5160874">Trop souvent, nous entendons parler aux nouvelles d'un accident ou d'une personne qui est morte parce qu'un automobiliste a pris la terrible décision de récupérer son téléphone ou un autre appareil au lieu de rester concentré sur la route. La distraction au volant est un grave problème dans ma circonscription et dans tout le Canada. Selon la GRC, la distraction au volant est « une forme de conduite avec facultés affaiblies étant donné que le jugement du conducteur est compromis et qu'il n'accorde pas toute son attention à la route ». Parler au téléphoner, texter, lire, regarder une vidéo et conduire en état de fatigue sont autant de formes de distractions au volant.</ParaText>
               <ParaText id="5160875">La discussion à ce sujet tombe particulièrement à point puisque la semaine dernière était la Semaine nationale de la prévention de la conduite avec les facultés affaiblies.</ParaText>

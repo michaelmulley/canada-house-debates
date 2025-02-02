@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9420048">
-  <StartPageNumber>9567</StartPageNumber>
+  <StartPageNumber>9563</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -39,7 +21,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number  (Official Version)</ExtractedItem>
     <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number  (Official Version)</ExtractedItem>
     <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro  (Version officielle)</ExtractedItem>
-    <ExtractedItem Name="MetaVolumeNumber" />
+    <ExtractedItem Name="MetaVolumeNumber">
+    </ExtractedItem>
     <ExtractedItem Name="MetaNumberNumber">151</ExtractedItem>
     <ExtractedItem Name="MetaDateNumDay">09</ExtractedItem>
     <ExtractedItem Name="MetaDateNumMonth">03</ExtractedItem>
@@ -64,7 +47,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9420745">
+          <Intervention Type="Interjection" ToC="No" id="9420745">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -74,7 +57,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9420065">
-        <SubjectOfBusinessTitle>Plans de dépenses des ministères de 2017-2018</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les Plans de dépenses des ministères de 2017-2018</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brison" id="9420066">
             <PersonSpeaking>
@@ -84,7 +67,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4791565">J'ai l'honneur de déposer, dans les deux langues officielles, au nom de 83 ministères et organismes, les plans de dépenses des ministères pour l'exercice 2017-2018. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9420070">
+          <Intervention Type="Interjection" ToC="No" id="9420070">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -133,7 +116,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9420435">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Les anciens combattants</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>anciens combattants</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ellis" id="9420099">
             <PersonSpeaking>
@@ -176,7 +159,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9420131">
+          <Intervention Type="Interjection" ToC="No" id="9420131">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -209,7 +192,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="10">(1010)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9420140">
+          <Intervention Type="Interjection" ToC="No" id="9420140">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -271,7 +254,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9420159">
+          <Intervention Type="Interjection" ToC="No" id="9420159">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -376,7 +359,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4791610">Monsieur le Président, je demande que toutes les questions restent au <I>Feuilleton</I>.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9420229">
+          <Intervention Type="Interjection" ToC="No" id="9420229">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -483,7 +466,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4791645">Monsieur le Président, je tiens tout d'abord à remercier mon collègue de <Affiliation DbId="214380" Type="2">Selkirk—Interlake—Eastman</Affiliation>, qui est non seulement un expert sur les questions de défense, mais aussi une référence en matière de procédures parlementaires pour les députés plus nouveaux, comme moi. C'est également un collègue pour qui j'ai la plus grande admiration.</ParaText>
+              <ParaText id="4791645">Madame la Présidente, je tiens tout d'abord à remercier mon collègue de <Affiliation DbId="214380" Type="2">Selkirk—Interlake—Eastman</Affiliation>, qui est non seulement un expert sur les questions de défense, mais aussi une référence en matière de procédures parlementaires pour les députés plus nouveaux, comme moi. C'est également un collègue pour qui j'ai la plus grande admiration.</ParaText>
               <ParaText id="4791646">Je rappelle à ceux qui ne le savent pas encore que j'ai passé la majeure partie de ma vie active dans les Forces canadiennes. En effet, j'ai servi dans la réserve pendant 22 ans. J'ai commandé le Régiment de la Chaudière. J'ai aussi été déployé à Chypre sous les Nations unies, j'ai également participé à une mission de l'OTAN, en plus d'avoir enseigné à l'École militaire de Paris. Le monde des Forces canadiennes est un monde que je connais bien; j'y ai grandi.</ParaText>
               <ParaText id="4791647">J'ai aussi vu le sacrifice d'hommes et de femmes, des soldats, qui ont le coeur à la bonne place et qui mettent leur vie au service du Canada pour nous protéger et défendre nos valeurs. Je suis un des leurs. Je suis aussi un ancien combattant.</ParaText>
               <ParaText id="4791648">Un autre élément qui est souvent méconnu des gens à l'extérieur des forces, c'est que les soldats n'ont pas grand-chose à dire dans le processus décisionnel. Une fois que l'ordre arrive, on n'a pas le choix de l'écouter. On ne peut rien dire. Un militaire n'est pas syndiqué et il n'a pas un droit de réplique. C'est à prendre ou à laisser. C'est tout ou pantoute, comme on le dit chez nous.</ParaText>
@@ -754,7 +737,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4791772"> Voilà pourquoi je pense que le ministre est sérieux quand il dit vouloir renforcer, clarifier et mettre en place cette politique avant d’envoyer d’autres Canadiens à l’étranger afin que ces personnes soient au courant de la rémunération qu’elles devraient espérer recevoir pour accepter ce travail difficile et dangereux. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9420878">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9420878">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -789,7 +772,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney (North Island—Powell River)" id="9421081">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney  (North Island—Powell River)" id="9421081">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney</Affiliation>: </PersonSpeaking>
             <Content>
@@ -808,7 +791,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4791799">La députée ne convient-elle pas que, durant le débat d'aujourd'hui, nous devrions faire montre de franchise et — loin de moi l'idée d'employer un langage non parlementaire — de nous en tenir à des observations strictement véridiques en ce qui concerne les mesures prises par le gouvernement pour les militaires et les anciens combattants?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney (North Island—Powell River)" id="9421122">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Blaney  (North Island—Powell River)" id="9421122">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1485,7 +1468,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Wilson-Raybould" id="9422231">
             <PersonSpeaking>
-              <Affiliation DbId="214903" Type="96">L’hon. Jody Wilson-Raybould</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214903" Type="96">Hon. Jody Wilson-Raybould</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4792087">Monsieur le Président, j'invoque le Règlement. Je crois que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante. Je propose que la Chambre accepte la recommandation du Conseil canadien de la magistrature de démettre de ses fonctions le juge Robin Camp, de la Cour fédérale du Canada, et appuie le gouvernement dans son intention de mettre en oeuvre cette recommandation. </ParaText>
             </Content>
@@ -1684,7 +1667,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9422301">
         <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
-        <SubjectOfBusinessTitle>L'État islamique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le groupe État islamique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Genuis" id="9422353">
             <PersonSpeaking>
@@ -1741,7 +1724,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4792149">Monsieur le Président, laissez-moi vous parler aujourd'hui d'un athlète québécois extraordinaire, Alex Harvey. </ParaText>
               <ParaText id="4792150">Ce fondeur de Saint-Ferréol-les-Neiges a fait vibrer le Canada entier dimanche dernier, alors qu'il a décroché la médaille d'or aux Championnats du monde de ski de fond, en Finlande. </ParaText>
-              <ParaText id="4792151">L'épreuve du 50 kilomètres style libre est la plus exigeante de toutes les épreuves, et Alex a répondu avec brio à ce défi physique et mental en inscrivant un chrono de 1 h 46 minutes et 28 secondes, six dixièmes de seconde devant le Russe Sergey Ustiugov. </ParaText>
+              <ParaText id="4792151">L'épreuve du 50 kilomètres style libre est la plus exigeante de toutes les épreuves, et Alex a répondu avec brio à ce défi physique et mental en inscrivant un chrono de 1 h 46 minutes et 28 secondes, six dixièmes de seconde devant le Russe Sergueï Ustiugov. </ParaText>
               <ParaText id="4792152">C'était la première fois dans l'histoire des mondiaux qu'un Canadien remportait une médaille au 50 kilomètres style libre. On pouvait entendre les encouragements de la foule qui étaient destinés à Alex, un petit gars de chez nous qui est devenu rien de moins que champion du monde. </ParaText>
               <ParaText id="4792153">En réalisant un tel exploit, Alex Harvey a rendu fiers ses parents, ses entraîneurs, sa famille et ses commanditaires, mais surtout, il a montré au reste du monde que le ski de fond, ce n'est pas juste l'histoire des Scandinaves, c'est également l'affaire des Canadiens. </ParaText>
               <ParaText id="4792154">Bravo Alex, on est tous fiers de toi et on te souhaite bon succès pour le reste de la saison.</ParaText>
@@ -1780,7 +1763,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792160">Monsieur le Président, cette année, on fête un grand anniversaire à Chambly. Le restaurant Tre Colori célèbre ses 50 ans d'existence. Fondé en 1967 par Joseph Petrozza, le restaurant est maintenant géré avec amour et passion par ses fils Joey, Roberto et Tony.</ParaText>
               <ParaText id="4792161">Que ce soit pour une bonne pizza livrée un vendredi soir ou pour un repas frais sur place, avec un bon verre de vin, bien sûr, le Tre Colori est une véritable institution à Chambly.</ParaText>
               <ParaText id="4792162">De plus, les frères Petrozza ont reçu le prix Choix du consommateur pour la Rive-Sud de Montréal dans la catégorie restauration, un honneur bien mérité.</ParaText>
-              <ParaText id="4792163">Toutefois, il ne s'agit pas seulement de l'excellente bouffe; c'est une aussi une famille qui s'implique dans la région. Que ce soit au Festival multiculturel de Chambly ou encore au souper annuel au profit du Centre d'écoute Montérégie, la famille Petrozza n'hésite jamais à s'investir à son tour dans sa communauté.</ParaText>
+              <ParaText id="4792163">Toutefois, il ne s'agit pas seulement de l'excellente bouffe; c'est aussi une famille qui s'implique dans la région. Que ce soit au Festival multiculturel de Chambly ou encore au souper annuel au profit du Centre d'écoute Montérégie, la famille Petrozza n'hésite jamais à s'investir à son tour dans sa communauté.</ParaText>
               <ParaText id="4792164">C'est avec plaisir que je leur souhaite un bon 50<Sup>e</Sup> anniversaire et, surtout, 50 ans de plus de bonne bouffe et de bonne humeur.</ParaText>
               <ParaText id="4792165">
                 <I>Grazie</I>!</ParaText>
@@ -1857,6 +1840,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792177">Monsieur le Président, la députée d'en face veut parler d'emplois. C'est donc ce que nous ferons. Depuis l'arrivée au pouvoir du gouvernement libéral, 286 000 emplois ont été créés partout au pays. Je vais donner quelques exemples clés d'emplois créés grâce à nos politiques. Nous avons travaillé avec Bell Helicopter afin de protéger 900 emplois et, plus important encore, d'en créer 100 autres. La société GE a fait des investissements à Welland afin de créer 220 emplois. Thomson Reuters créera jusqu'à 1 500 emplois. Finalement, GM Canada a embauché 1 000 nouveaux ingénieurs. D'autres emplois seront également créés.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9422545">
+        <SubjectOfBusinessTitle>La petite entreprise</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ambrose" id="9422346">
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
@@ -1885,7 +1873,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4792182">Monsieur le Président, l'équilibre budgétaire ne se fera pas avant 2055. </ParaText>
               <ParaText id="4792183">Cela veut dire que ma fille de 15 ans, qui nous écoute sur le Web aujourd'hui, aura 53 ans quand le gouvernement reprendra le contrôle des finances publiques. Cela veut dire que le déficit des libéraux se fait sur le dos de nos enfants. Cela veut dire que, si rien ne change, ma fille devra payer pendant 38 ans des taxes et des impôts supplémentaires pour l'irresponsabilité du gouvernement libéral.</ParaText>
-              <ParaText id="4792184">Qu'a à dire le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> à ma fille qui l'écoute présentement?</ParaText>
+              <ParaText id="4792184">Qu'a à dire le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> à ma fille, qui l'écoute présentement?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brison" id="9422356">
@@ -1989,7 +1977,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Freeland" id="9422411">
             <PersonSpeaking>
-              <Affiliation DbId="229209" Type="4">L’hon. Chrystia Freeland (ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229209" Type="4">Hon. Chrystia Freeland (Minister of Foreign Affairs, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4792207">Monsieur le Président, je souhaite rappeler à la députée d'en face et à tout le monde à la Chambre que les négociations entourant l'ALENA n'ont pas été amorcées et qu'il serait prématuré de montrer notre jeu.</ParaText>
               <ParaText id="4792208">Je tiens à assurer à tous que nous obtiendrons une bonne entente pour les Canadiens. D'ailleurs, notre bilan est là pour le prouver et j'ai d'excellentes nouvelles à vous annoncer. En janvier, le Canada a enregistré son troisième excédent commercial de suite. Le fort rendement des exportations a notamment été nourri par le secteur automobile dont les exportations ont connu une hausse de 7,7 %.</ParaText>
@@ -2087,7 +2075,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="35">(1435)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9422470">
+          <Intervention Type="Interjection" ToC="No" id="9422470">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2224,7 +2212,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792261">Quand le ministre va-t-il faire abstraction de l'amitié qui le lie à la première ministre Notley? Quand va-t-il défendre les Albertains? Quand va-t-il exiger que l'argent provenant du plan Chantiers Canada soit versé directement aux municipalités pour que celles-ci puissent maximiser l'argent des contribuables?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller (Ville-Marie—Le Sud-Ouest—Île-des-Soeurs)" id="9422529">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller  (Ville-Marie—Le Sud-Ouest—Île-des-Soeurs)" id="9422529">
             <PersonSpeaking>
               <Affiliation DbId="229483" Type="18">M. Marc Miller (secrétaire parlementaire du ministre de l’Infrastructure et des Collectivités, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2239,7 +2227,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792264">Les Albertains ont besoin d'infrastructures et d'emplois. Ils ont besoin d'un ministre qui cesse de les trahir. Quand le ministre arrêtera-t-il de défendre le NPD de l'Alberta? Quand demandera-t-il à la première ministre Notley d'affecter l'argent du Fonds Chantiers Canada uniquement à des projets d'infrastructures communautaires?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller (Ville-Marie—Le Sud-Ouest—Île-des-Soeurs)" id="9422533">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Miller  (Ville-Marie—Le Sud-Ouest—Île-des-Soeurs)" id="9422533">
             <PersonSpeaking>
               <Affiliation DbId="229483" Type="18">M. Marc Miller (secrétaire parlementaire du ministre de l’Infrastructure et des Collectivités, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2268,7 +2256,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214329" Type="4">L’hon. Diane Lebouthillier (ministre du Revenu national, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4792270">Monsieur le Président, l'Agence du revenu du Canada dispose des politiques les plus rigoureuses en matière de conditions d'emploi concernant l'après-mandat au sein du gouvernement du Canada. </ParaText>
-              <ParaText id="4792271">Lorsqu'ils quittent leur emploi, les anciens employés de l'agence sont tenus de respecter de strictes conditions. La divulgation de renseignements est interdite par loi, et cette interdiction est d'une durée indéterminée. Les employés de l'agence peuvent s'exposer à des sanctions qui comprennent des amendes et des peines d'emprisonnement.</ParaText>
+              <ParaText id="4792271">Lorsqu'ils quittent leur emploi, les anciens employés de l'agence sont tenus de respecter de strictes conditions. La divulgation de renseignements est interdite par la loi, et cette interdiction est d'une durée indéterminée. Les employés de l'Agence peuvent s'exposer à des sanctions qui comprennent des amendes et des peines d'emprisonnement.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2368,7 +2356,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792292">Je suis toujours fière de prendre la parole dans cette enceinte pour rappeler aux Canadiens et à tous les députés que nous nous sommes dotés d'un nouveau mécanisme pangouvernemental de nomination qui est ouvert, transparent et fondé sur le mérite. Grâce à notre approche, des candidats hautement qualifiés nous seront recommandés de manière à atteindre les objectifs de parité hommes-femmes et de représentation de la diversité canadienne. Le nouveau mécanisme reflète le rôle fondamental que de nombreux Canadiens jouent...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9422567">
+          <Intervention Type="Interjection" ToC="No" id="9422567">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2438,7 +2426,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792307">Aux dires de tous les médecins et de tous les organismes de réglementation de la profession médicale, le système fonctionne bien. Nous continuons à en faire le suivi. Nous avons également entrepris un examen pour répondre à certaines questions qui ont été soulevées à la Chambre pendant ces consultations, et nous sommes impatients de...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9422585">
+          <Intervention Type="Interjection" ToC="No" id="9422585">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2555,7 +2543,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9422653">
         <SubjectOfBusinessTitle>Les pêches et les océans</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9422652">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9422652">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2603,7 +2591,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4792341">Monsieur le Président, il faut créer des emplois permanents.</ParaText>
               <ParaText id="4792342">Ce gouvernement ne fait rien de concret pour aider l'économie de nos régions. Il y a son inaction dans le dossier du bois d'oeuvre, et pire encore, en ce qui concerne l'entente sur l'ALENA, naïvement, notre <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> s'est mis à genoux devant le président des États-Unis. Ce gouvernement libéral doit soutenir nos régions et donner de l'espoir à ces gens qui ont grandement contribué à la prospérité de notre beau pays qu'est le Canada. </ParaText>
-              <ParaText id="4792343">Ce gouvernement veut-il fermer nos régions? Sinon, il doit agir maintenant. </ParaText>
+              <ParaText id="4792343">Ce gouvernement veut-il fermer nos régions? Si non, il doit agir maintenant. </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
@@ -2612,7 +2600,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="229209" Type="4">L’hon. Chrystia Freeland (ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4792344">Monsieur le Président, comme c'est ma première réponse aux conservateurs depuis quelques jours, j'aimerais d'abord remercier les députés de <Affiliation DbId="214192" Type="2">Thornhill</Affiliation> et de <Affiliation DbId="214103" Type="2">Parry Sound—Muskoka</Affiliation> des commentaires qu'ils ont faits cette semaine.</ParaText>
-              <ParaText id="4792345">Nous ne sommes pas toujours d'accord, mais je suis fière que le Canada ait une opposition officielle qui puisse s'élever au-dessus de la partisanerie pour défendre notre démocratie. Merci beaucoup. </ParaText>
+              <ParaText id="4792345">Nous ne sommes pas toujours d'accord, mais je suis fière que le Canada ait une opposition officielle qui puisse s'élever au-dessus de la partisanerie pour défendre notre démocratie. Je les remercie beaucoup. </ParaText>
               <ParaText id="4792346">En ce qui concerne l'ALENA, les négociations n'ont pas débuté, mais le Canada sera prêt quand elles auront lieu, si elles ont lieu.</ParaText>
             </Content>
           </Intervention>
@@ -2625,7 +2613,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214211" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4792347">Monsieur le Président, on savait qu'il y avait 92 millions de dollars en contrats et que le gouvernement est un bon partenaire de KPMG. </ParaText>
+              <ParaText id="4792347">Monsieur le Président, on savait qu'il y avait 92 millions de dollars en contrats et que le gouvernement était un bon partenaire de KPMG. </ParaText>
               <ParaText id="4792348">Toutefois, on apprend maintenant que le gouvernement ne donne pas juste de l'argent à KPMG, il lui donne aussi des employés. Pour le directeur général de l'Institut sur la gouvernance, cela peut créer des apparences de copinage. Franchement, lorsqu'on en est rendu là, ce ne sont plus des copains, c'est de la famille.</ParaText>
               <ParaText id="4792349">Comment la ministre ose-t-elle prétendre que le gouvernement part en guerre contre ceux qui fraudent l'impôt, alors que ce même gouvernement fournit à ceux qui encouragent la fraude et son argent et son expertise?</ParaText>
             </Content>
@@ -2657,7 +2645,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9422709">
+          <Intervention Type="Interjection" ToC="No" id="9422709">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2703,7 +2691,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792367">Je demande un peu d'ordre, s'il vous plaît.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9422719">
+          <Intervention Type="Interjection" ToC="No" id="9422719">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2724,7 +2712,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9422721">
+          <Intervention Type="Interjection" ToC="No" id="9422721">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2755,7 +2743,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4792377">Il restait trois minutes au député de Sherwood Park—Fort Saskatchewan pour les questions et observations.</ParaText>
+              <ParaText id="4792377">Il restait trois minutes au député de Sherwood Park—Fort Saskatchewan pour les questions et les observations.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9422727">
@@ -2844,9 +2832,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792416">Je tiens à rappeler au député d'adresser ses observations à la présidence et non pas aux autres députés.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Kitchen" id="9422847">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Kitchen" id="9422847">
             <PersonSpeaking>
-              <Affiliation DbId="214172" Type="2">M. Robert Kitchen (Souris—Moose Mountain, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214172" Type="2">M. Robert Kitchen</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4792417">Madame la Présidente, vous ne le saviez peut-être pas, mais la députée fera bientôt partie de la grande famille des militaires. Je me demande si elle peut nous dire quelles seraient selon elle les répercussions sur les familles d'une telle décision qu'on leur imposerait tout à coup.</ParaText>
             </Content>
@@ -2928,7 +2916,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213903" Type="2">L'hon. John McKay</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4792444">Madame la Présidente, les Forces armées canadiennes ont trois tâches principales : défendre le Canada, défendre l'Amérique du Nord et, de temps à autre, fournir des corps expéditionnaires. C’est de cette façon que nous protégeons notre propre souveraineté. Seule une nation insensée peut confier à d’autres la défense de sa souveraineté. D'où l'importance de nos militaires canadiens pour conserver et étendre notre souveraineté afin que les autres nations qui pourraient vouloir profiter du Canada ne puissent pas le faire. </ParaText>
+              <ParaText id="4792444">Madame la Présidente, les Forces armées canadiennes ont trois tâches principales: défendre le Canada, défendre l'Amérique du Nord et, de temps à autre, fournir des corps expéditionnaires. C’est de cette façon que nous protégeons notre propre souveraineté. Seule une nation insensée peut confier à d’autres la défense de sa souveraineté. D'où l'importance de nos militaires canadiens pour conserver et étendre notre souveraineté afin que les autres nations qui pourraient vouloir profiter du Canada ne puissent pas le faire. </ParaText>
               <ParaText id="4792445"> L'importance capitale de nos militaires réside dans le fait que nous projetons et protégeons notre propre souveraineté et ne confions pas sa défense à d'autres nations.</ParaText>
             </Content>
           </Intervention>
@@ -3081,7 +3069,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. McKay" id="9423844">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. McKay" id="9423844">
             <PersonSpeaking>
               <Affiliation DbId="213903" Type="2">L'hon. John McKay (Scarborough—Guildwood, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3438,7 +3426,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9424604">
+          <Intervention Type="Interjection" ToC="No" id="9424604">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3459,7 +3447,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9424631">
+          <Intervention Type="Interjection" ToC="No" id="9424631">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3474,7 +3462,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792657">Monsieur le Président, j'invoque le Règlement. Hélas, je ne suis pas le député de <Affiliation DbId="214466" Type="2">Calgary Forest Lawn</Affiliation>, mais je vais tout de même tenter de voyager dans le temps. Je crois que vous constaterez qu'il y a consentement unanime de la Chambre pour dire qu'il est 17 h 30.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9424636">
+          <Intervention Type="Interjection" ToC="No" id="9424636">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3653,7 +3641,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792767">Je n'ai pas terminé, mais mon temps de parole est écoulé. Les députés ont quand même une bonne idée de l'ampleur des appuis recueillis à la grandeur du pays, qu'il s'agisse de conseils municipaux ou des personnes à qui nous confions la tâche de veiller au quotidien à la bonne marche des municipalités et à l'entretien de leur patrimoine bâti et d'en faire des endroits où il fait bon vivre. Tous ces gens appuient le projet de loi à 100 %. J'invite donc tous les députés à faire de même.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9424820">
+          <Intervention Type="Interjection" ToC="No" id="9424820">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3850,11 +3838,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4792839">Actuellement, nous nous efforçons de remédier à la situation. Nous allons y arriver. Nous y mettons toutes les ressources que nous pouvons, de manière à pouvoir répondre aux demandes des fonctionnaires, résoudre les problèmes individuels et libérer les gens des tracasseries afin qu'ils puissent faire leur travail formidable pour les Canadiens. Je sais que le député voudra se joindre à moi pour que nous manifestions notre solidarité envers les fonctionnaires qui essaient de surmonter ces problèmes, dont nous verrons un jour la fin, j'en suis certain.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="9424860">
+          <Intervention Type="Interjection" ToC="No" id="9424860">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4792840">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à<?bk?> 10 heures,<?ek?> conformément au paragraphe<?bk?> 24(1)<?ek?> du Règlement.</ParaText>
+              <ParaText id="4792840">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à<?bk ?> 10 heures,<?ek ?> conformément au paragraphe<?bk ?> 24(1)<?ek ?> du Règlement.</ParaText>
               <ParaText id="4792841">(La séance est levée à 18 h 43.)</ParaText>
             </Content>
           </Intervention>

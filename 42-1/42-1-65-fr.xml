@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="8965936">
   <StartPageNumber>3995</StartPageNumber>
   <DocumentTitle>
@@ -60,22 +42,18 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <OrderOfBusiness id="8965962" Rubric="Other">
       <OrderOfBusinessTitle>Initiatives ministérielles</OrderOfBusinessTitle>
       <CatchLine>Initiatives ministérielles</CatchLine>
-      <SubjectOfBusiness id="8965970">
-        <SubjectOfBusinessQualifier>Décision de la présidence</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
       <SubjectOfBusiness id="8965944">
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 1 d'exécution du budget de 2016</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="1">Projet de loi C-15. Étape du rapport</ProceduralText>
-          <ParaText id="4398796">La Chambre passe à l'étude du projet de loi <Document DbId="8196581" Type="3">C-15, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</Document>, dont le comité a fait rapport avec des propositions d'amendement.</ParaText>
+          <ParaText id="4398796">La Chambre passe à l'étude du projet de loi <Document DbId="8196581" Type="3">C-15, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</Document>, dont le comité a fait rapport avec une  proposition d'amendement.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le vice-président adjoint (M. Anthony Rota)" id="8965945">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4398797">Neuf motions d'amendement figurant au <I>Feuilleton des avis</I> pour l'étude à l'étape du rapport du projet de loi <Document DbId="8196581" Type="3">C-15</Document>. Les motions n<Sup>os</Sup> 1 à 9 seront groupées aux fins du débat et seront mises aux voix selon les modalités que l'on peut consulter au Bureau.</ParaText>
+              <ParaText id="4398797">Neuf motions d'amendement figurant au <I>Feuilleton des avis</I> pour l'étude à l'étape du rapport du projet de loi <Document DbId="8196581" Type="3">C-15</Document>. Les motions n<Sup>os</Sup> 1 à 9 seront groupées aux fins du débat et seront mises aux voix selon les modalités que l'on peut consulter au bureau.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4398798">Je vais maintenant soumettre les motions n<Sup>os</Sup> 1 à 9 à la Chambre.</ParaText>
             </Content>
@@ -94,32 +72,32 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ProceduralText TocType="TPC" id="2">Motions n<Sup>os</Sup> 1 à 3</ProceduralText>
               <ParaText id="4398800">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion n<Sup>o</Sup> 1</QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1" Align="Left">Motion n<Sup>o</Sup> 1</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398801">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1"> Que le projet de loi C-15 soit modifié par suppression de l'article 9.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1" Align="Left"> Que le projet de loi C-15 soit modifié par suppression de l'article 9.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398802">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion n<Sup>o</Sup> 2</QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1" Align="Left">Motion n<Sup>o</Sup> 2</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398803">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1">Que le projet de loi C-15 soit modifié par suppression de l'article 26.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1" Align="Left">Que le projet de loi C-15 soit modifié par suppression de l'article 26.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398804">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion n<Sup>o</Sup> 3</QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1" Align="Left">Motion n<Sup>o</Sup> 3</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398805">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1"> Que le projet de loi C-15 soit modifié par suppression de l'article 34.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1" Align="Left"> Que le projet de loi C-15 soit modifié par suppression de l'article 34.</QuotePara>
                 </Quote>
               </ParaText>
             </Content>
@@ -249,7 +227,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398838">Mon temps de parole est presque écoulé, mais je tiens à souligner que le Comité permanent des Finances ne semble pas comprendre le rôle névralgique qu'il doit jouer au sein de notre démocratie. Il ne tient pas compte de la contribution individuelle de ses membres, qui ont déployé de grands efforts et qui ont posé d'excellentes questions. Or, le comité des finances, à l'instar des autres comités, a pour tâche d'exiger que le gouvernement rende des comptes.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4398839">Le gouvernement propose de nouvelles législations ou en modifie. Malheureusement, comme on l'a déjà dit, ce gouvernement ne semble pas être à l'écoute de l'opposition. En déposant des projets de loi omnibus, il nous laisse très peu de temps pour étudier des mesures extrêmement complexes, et cela fait en sorte que nous ne pouvons pas jouer notre rôle de manière adéquate, ce qui semble faire l'affaire des députés du gouvernement.</ParaText>
-              <ParaText id="4398840">Je donnerai un exemple, celui de la recapitalisation des banques. Cette mesure est extrêmement importante. Honnêtement, de prime abord, j'y suis favorable. Or une partie de 20 à 25 pages du projet de loi est extrêmement technique, et elle modifie entièrement la manière dont nos banques, leurs actionnaires et les déposants sont protégées en cas de difficultés. Nous en avons à peine parlé. Aucun témoin n'est venu en parler. Il y a eu un fonctionnaire, M. Campbell, ce qui a été extrêmement utile, mais nous n'avons pas réussi à étudier à la loupe, à scruter et à analyser les tenants et aboutissants de cette portion du projet de loi extrêmement importante pour l'avenir du pays. </ParaText>
+              <ParaText id="4398840">Je donnerai un exemple, celui de la recapitalisation des banques. Cette mesure est extrêmement importante. Honnêtement, de prime abord, j'y suis favorable. Or une partie de 20 à 25 pages du projet de loi est extrêmement technique, et elle modifie entièrement la manière dont nos banques, leurs actionnaires et les déposants sont protégés en cas de difficultés. Nous en avons à peine parlé. Aucun témoin n'est venu en parler. Il y a eu un fonctionnaire, M. Campbell, ce qui a été extrêmement utile, mais nous n'avons pas réussi à étudier à la loupe, à scruter et à analyser les tenants et aboutissants de cette portion du projet de loi extrêmement importante pour l'avenir du pays. </ParaText>
               <ParaText id="4398841">Je pense que, en si peu de temps, nous n'avons pas réussi à faire un travail qui soit adéquat. Je sais que le projet de loi <Document DbId="8196581" Type="3">C-15</Document> sera adopté, même si nous allons nous y opposer, car le gouvernement a la majorité. Toutefois, j'aimerais en profiter pour tendre une perche au gouvernement: s'il veut réellement respecter son engagement électoral d'accroître la transparence, qu'il présente des projets de loi budgétaires qui portent réellement sur le budget et qui n'incluent pas de mesures d'une autre loi, comme le projet de loi C-15, et qui n'incluent pas des portions de 25 à 30 pages sur des éléments fondamentaux pour l'avenir du pays. En ce sens, nous espérons qu'il apprendra de ces erreurs.</ParaText>
             </Content>
           </Intervention>
@@ -271,11 +249,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214268" Type="2">M. Guy Caron</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4398848">Monsieur le Président, je remercie mon collègue de sa question.</ParaText>
-              <ParaText id="4398849">En tant que secrétaire parlementaire, il siège régulièrement aux rencontres du comité. À de multiple reprises, nous avons eu l'occasion d'échanger ensemble.</ParaText>
+              <ParaText id="4398849">En tant que secrétaire parlementaire, il siège régulièrement aux rencontres du comité. À de multiples reprises, nous avons eu l'occasion d'échanger ensemble.</ParaText>
               <ParaText id="4398850">Sa question est importante, et elle a été soulevée à de multiples reprises pendant les rencontres du comité. Lorsque j'ai parlé à mes concitoyens de la réduction d'impôt pour les PME, ils étaient entièrement favorables. Par contre, puisque cette mesure n'apparaît pas, les commentaires à l'endroit du gouvernement ne sont pas favorables.</ParaText>
               <ParaText id="4398851">On parle d'une réduction d'impôt pour la classe moyenne. On en a parlé à de multiples reprises. Évidemment, le gouvernement avance toujours le chiffre de 9 millions de contribuables qui en bénéficieront. C'est vrai, mais si on fait le calcul inverse, on s'aperçoit que 17 millions de contribuables n'en bénéficient aucunement.</ParaText>
               <ParaText id="4398852">Parlons maintenant de la Prestation fiscale canadienne pour enfants. Il s'agit d'une mesure intéressante pour plusieurs familles. Toutefois, la mesure n'aidera aucunement ceux et celles qui n'ont pas d'enfant.</ParaText>
-              <ParaText id="4398853">J'essaie de comprendre la logique du gouvernement de toujours associer la réduction d'impôt qui est soit disant pour la classe moyenne et les réductions d'impôt promises aux PME, qui ne seront pas mises en oeuvre.</ParaText>
+              <ParaText id="4398853">J'essaie de comprendre la logique du gouvernement de toujours associer la réduction d'impôt qui est soi-disant pour la classe moyenne et les réductions d'impôt promises aux PME, qui ne seront pas mises en oeuvre.</ParaText>
               <ParaText id="4398854">Ce que les libéraux disent, c'est qu'ils n'ont pas besoin de respecter une promesse clé de leur programme parce qu'ils en respectent une autre. Cela n'a aucun sens. Cela touche deux catégories différentes, soit les citoyens et les PME. J'aurais aimé que le gouvernement puisse en prendre acte et qu'il agisse en conséquence.</ParaText>
             </Content>
           </Intervention>
@@ -284,7 +262,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214056" Type="2">Mme Anne Minh-Thu Quach (Salaberry—Suroît, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4398855">Monsieur le Président, je remercie mon collègue de son discours très éclairant et très pointu sur plusieurs détails.</ParaText>
-              <ParaText id="4398856">Je voudrais lui poser une question par rapport aux réductions d'impôt pour les PME annulées par les libéraux dans le budget de 2016. Quelles seront les impacts négatifs et les répercussions pour les PME? Pendant la campagne électorale, les libéraux avaient promis d'offrir un crédit d'impôt pour l'embauche de jeunes employés. Cette mesure a été annulée, et ils n'en ont jamais parlé dans le budget. Pourtant, cela aurait encouragé plusieurs entreprises à embaucher des jeunes, en plus de permettre aux jeunes d'avoir un avenir, un emploi. Enfin, cela aurait permis de revitaliser nos régions. Il est difficile de retenir les jeunes en régions. Les PME sont les premières entreprises à pouvoir engager des gens pour occuper des postes de qualité.</ParaText>
+              <ParaText id="4398856">Je voudrais lui poser une question par rapport aux réductions d'impôt pour les PME annulées par les libéraux dans le budget de 2016. Quels seront les impacts négatifs et les répercussions pour les PME? Pendant la campagne électorale, les libéraux avaient promis d'offrir un crédit d'impôt pour l'embauche de jeunes employés. Cette mesure a été annulée, et ils n'en ont jamais parlé dans le budget. Pourtant, cela aurait encouragé plusieurs entreprises à embaucher des jeunes, en plus de permettre aux jeunes d'avoir un avenir, un emploi. Enfin, cela aurait permis de revitaliser nos régions. Il est difficile de retenir les jeunes en régions. Les PME sont les premières entreprises à pouvoir engager des gens pour occuper des postes de qualité.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Caron" id="8965981">
@@ -293,7 +271,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4398857">Monsieur le Président, il s'agit d'une question importante.</ParaText>
               <ParaText id="4398858">Bien que le gouvernement dise vouloir faire croître l'économie, c'est toujours un concept extrêmement abstrait. Auparavant, les conservateurs avaient leur façon d'essayer de faire croître l'économie, et les libéraux en essaient une autre présentement. Est-ce que cela fonctionnera, ou non? Je n'en suis pas certain. L'avenir le dira.</ParaText>
-              <ParaText id="4398859">Ce qui est important pour que les Canadiens fassent confiance à l'institution, au gouvernement, c'est le respect par ce dernier des engagements pris lors de la campagne électorale. La réduction d'impôt de 11 % à 9 % pour les PME est un engagement clé qui na pas été respecté par le gouvernement. La population en prend acte.</ParaText>
+              <ParaText id="4398859">Ce qui est important pour que les Canadiens fassent confiance à l'institution, au gouvernement, c'est le respect par ce dernier des engagements pris lors de la campagne électorale. La réduction d'impôt de 11 % à 9 % pour les PME est un engagement clé qui n'a pas été respecté par le gouvernement. La population en prend acte.</ParaText>
               <ParaText id="4398860"> Un autre engagement électoral qui n'a pas été respecté est celui du crédit aux PME pour l'embauche des jeunes. Peut-être le sera-t-il l'an prochain, ou dans deux ans ou trois ans. L'avenir le dira.</ParaText>
               <ParaText id="4398861">Ce qui est clair, c'est que le gouvernement semble présentement ouvert à briser ses engagements et à réparer les pots cassés en attirant l'attention sur d'autres éléments de son programme. Cela ne sera pas nécessairement utile et productif pour la croissance économique.</ParaText>
             </Content>
@@ -310,9 +288,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398865">Je dirai tout d'abord que nous comptons tirer parti d'une occasion unique. Grâce au leadership dont les gouvernements des années 1990 ont fait preuve, la dette du Canada est, de loin, la moins lourde des pays du G7. Comme les taux d'intérêt n'ont jamais été aussi bas, c'est le temps, actuellement, d'investir dans les gens et dans l'économie afin que l'avenir du Canada soit plus radieux. </ParaText>
               <ParaText id="4398866">Le budget de 2016 aidera les gens de la classe moyenne en mettant en oeuvre des mesures importantes et nécessaires de soutien aux familles. Il jettera aussi les bases d'une croissance économique durable à long terme. Le 7 décembre 2015, nous avons par exemple instauré la baisse d'impôt pour la classe moyenne. Désormais, près de 9 millions de Canadiens paient moins d'impôt à chacune de leurs paies. </ParaText>
               <ParaText id="4398867">Le budget de 2016 a ensuite instauré la nouvelle Allocation canadienne pour enfants. Par rapport au programme actuel, cette nouvelle allocation sera plus simple, plus généreuse et non imposable. Elle ciblera en outre les gens qui en ont le plus besoin. L'Allocation canadienne permettra de sortir quelque 300 000 enfants de la pauvreté. En fait, il s'agit de l'innovation sociale la plus importante depuis une génération. De l'aide concrète sera ainsi versée à de vraies personnes, à des mères et des pères de famille qui doivent payer une foule de choses, le camp de vacances, les nouveaux vêtements, et cetera.</ParaText>
-              <ParaText id="4398868">Ce n'est qu'une partie des dispositions du projet de loi  <Document DbId="8060929" Type="3">C-15</Document> qui viennent en aide directement aux familles. J'ai déjà parlé dans cette enceinte des mesures destinées à aider les personnes âgées, les anciens combattants et les étudiants. Grâce à leurs efforts, à leurs innovations et à leur intégrité, les Canadiens bâtissent une économie plus forte pour les générations actuelles et futures. Ils attendent à juste titre de leur gouvernement qu'il les aide dans leurs entreprises.</ParaText>
+              <ParaText id="4398868">Ce n'est qu'une partie des dispositions du projet de loi  <Document DbId="8196581" Type="3">C-15</Document> qui viennent en aide directement aux familles. J'ai déjà parlé dans cette enceinte des mesures destinées à aider les personnes âgées, les anciens combattants et les étudiants. Grâce à leurs efforts, à leurs innovations et à leur intégrité, les Canadiens bâtissent une économie plus forte pour les générations actuelles et futures. Ils attendent à juste titre de leur gouvernement qu'il les aide dans leurs entreprises.</ParaText>
               <ParaText id="4398869">Permettez-moi de souligner une partie du projet de loi dont j'ai rarement eu l'occasion de parler directement à la Chambre.</ParaText>
-              <ParaText id="4398870">Comme les députés le savent, en plus d'aider les familles et d'injecter des sommes importantes, le projet de loi <Document DbId="8060929" Type="3">C-15</Document> comprend des mesures rattachées à nos objectifs d'équité fiscale et d'intégrité de la fiscalité. Comme je l'ai indiqué à de nombreuses reprises, nous croyons que tous les Canadiens devraient payer leur juste part d'impôt.</ParaText>
+              <ParaText id="4398870">Comme les députés le savent, en plus d'aider les familles et d'injecter des sommes importantes, le projet de loi <Document DbId="8196581" Type="3">C-15</Document> comprend des mesures rattachées à nos objectifs d'équité fiscale et d'intégrité de la fiscalité. Comme je l'ai indiqué à de nombreuses reprises, nous croyons que tous les Canadiens devraient payer leur juste part d'impôt.</ParaText>
               <ParaText id="4398871">Le budget a été déposé avant que le dossier de l'évasion fiscale ne fasse les manchettes dans le monde entier, ce printemps. Mais, lorsque les médias ont commencé à en parler, j'ai pu déclarer fièrement que le Canada avait toutes les raisons d'être fier des mesures que nous venions d'annoncer afin de prévenir les activités économiques souterraines, l'évasion fiscale et la planification fiscale abusive.</ParaText>
               <ParaText id="4398872">L'une des pierres angulaires de nos mesures est l'enveloppe de 444 millions de dollars sur cinq ans destinée à l'Agence du revenu du Canada pour qu'elle puisse redoubler d'efforts en vue de réprimer l'évasion fiscale et de lutter contre l'évitement fiscal. Néanmoins, nous savons tous qu'il ne suffit pas de réévaluer le revenu imposable, et c'est la raison pour laquelle le budget de 2016 accorde une somme additionnelle de 351,6 millions de dollars sur cinq ans à l'ARC pour qu'elle ait les moyens de recouvrer l'impôt dû.</ParaText>
               <ParaText id="4398873">En outre, la fiscalité canadienne a besoin d'ajustements réguliers pour fonctionner comme elle le devrait et concourir à l'atteinte de l'objectif d'une économie profitable pour tous. Nous croyons qu'en augmentant l'assiette fiscale, nous pourrons mieux financer l'éducation, les projets d'infrastructure, la formation ainsi que les programmes visant à améliorer la qualité de vie des Autochtones du Canada et à bâtir un Canada plus fort, plus uni et plus prospère. Ce ne sont que quelques-unes des mesures contenues dans le projet de loi.</ParaText>
@@ -381,7 +359,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398901">Le gouvernement fait de grands discours sur l'importance d'une redistribution de la richesse. Je suis convaincu qu'il redistribuera beaucoup de richesse, en effet. Je crois aussi, à y regarder de plus près, que l'argent redistribué sera, en fait, enlevé aux personnes qui en ont le plus besoin et donné aux millionnaires copains du parti qui entretiennent des liens étroits avec le gouvernement actuel et ses décideurs.</ParaText>
               <ParaText id="4398902">Au cours des trois ans et demi qui viennent, j'aurai pour objectif — comme l'ensemble de l'opposition, je l'espère — de prendre la défense des défavorisés, qui gagnent eux-mêmes leur argent, plutôt que des personnes qui, fortes des privilèges et des pouvoirs dont elles bénéficient, profitent du labeur des autres. Les réels promoteurs de la justice sociale seront ceux qui défendent une économie de libre entreprise.</ParaText>
               <ParaText id="4398903">Au cours des 10 dernières années, alors que les conservateurs étaient au pouvoir, les 10 % de la population ayant les revenus les plus faibles ont vu leur revenu augmenter de 14 %. Il s'agit ici d'une hausse après impôts et compte tenu de l'inflation. Quant aux Canadiens de la classe moyenne, leur revenu a augmenté de 10 %, après impôts et compte tenu de l'inflation. Le pourcentage de la richesse détenue par la tranche de 1 % des personnes les plus riches a diminué au Canada, contrairement à la tendance constatée partout ailleurs. </ParaText>
-              <ParaText id="4398904">Pourquoi alors le budget libéral présente-t-il un graphique suggérant que la classe moyenne n'a pas connu de hausse de revenus depuis 40 ans? L'information provient du Ministère des Finances. Je me suis dit que le graphique devait être erroné puisque nous savons qu'au cours des 10 dernières années, le revenu de la classe moyenne a augmenté de 10 %, après impôt, en tenant compte de l'inflation. Comme est-ce possible?</ParaText>
+              <ParaText id="4398904">Pourquoi alors le budget libéral présente-t-il un graphique suggérant que la classe moyenne n'a pas connu de hausse de revenus depuis 40 ans? L'information provient du Ministère des Finances. Je me suis dit que le graphique devait être erroné puisque nous savons qu'au cours des 10 dernières années, le revenu de la classe moyenne a augmenté de 10 %, après impôt, en tenant compte de l'inflation. Comment est-ce possible?</ParaText>
               <ParaText id="4398905">J'ai étudié les données et constaté que le budget libéral est exact. Le revenu net des gens en 2015 n'est que légèrement supérieur à celui qu'ils gagnaient il y a 40 ans, compte tenu de l'inflation. Comment expliquer cela? Il nous a fallu 30 ans pour nous remettre des politiques économiques absolument dévastatrices de Pierre Elliot Trudeau. L'actuel <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a raison. Après le déclin funeste des revenus que la classe moyenne a connu sous le Programme énergétique national et le gouvernement omniprésent, socialiste et centralisateur des années 1970 et du début des années 1980, il a fallu trois décennies pour que reprenne la croissance des revenus des Canadiens. Trois décennies. Je suis fier de pouvoir dire, en m'appuyant sur les données du ministère des Finances présentées dans le budget libéral, que la plus forte croissance a eu lieu au cours des 10 dernières années, sous l'ancien gouvernement conservateur.</ParaText>
               <ParaText id="4398906">Il est vrai que la classe moyenne n'a pas connu de hausse de revenus effective depuis 40 ans mais, au cours des 10 dernières années, nous avons tenté de remédier à la situation. Le plus troublant dans tout cela, c'est que le gouvernement ne tire pas de leçons du graphique qu'il a inclus dans son propre budget. Il reprend maintenant les mêmes politiques qui ont entraîné la baisse catastrophique des revenus de la classe moyenne, soit l'expansion de la taille de l'État, des déficits impossibles à maîtriser et une multiplication des règlements qui empêchent les gens de prospérer et étouffent nos entrepreneurs.</ParaText>
               <ParaText id="4398907">Je demande au gouvernement de tirer des leçons de l'histoire au lieu de la répéter. Nous savons ce qui fonctionne. Nous savons ce qui a échoué. Examinons les faits et choisissons la bonne voie. Prenons le parti des défavorisés. Choisissons la voie où les Canadiens améliorent leur sort en fonction du mérite et non de leurs relations et où les gens qui travaillent fort, paient leurs impôts et respectent les règles peuvent réaliser de grandes choses pour eux-mêmes, leur famille et leur collectivité. Le moment est venu de couper court aux mesures économiques qui profitent aux proches du parti et d'ouvrir l'économie de libre marché, qui est le meilleur moyen qui soit de lutter contre la pauvreté. C'est seulement lorsque nous aurons agi de la sorte que nous pourrons affirmer être les défenseurs des défavorisés.</ParaText>
@@ -415,7 +393,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4398913">Monsieur le Président, je remercie mon collègue de <Affiliation DbId="214462" Type="2">Carleton</Affiliation> de son discours.</ParaText>
               <ParaText id="4398914"> Évidemment, il n'y a pas beaucoup de liens à faire entre le programme économique du NPD et celui des conservateurs, mais mon collègue sera d'accord avec moi pour dire que, s'il y avait un élément sur lequel les trois partis étaient d'accord, pendant la campagne électorale, c'était cette réduction du taux d'imposition des PME de 11 % à 9 %. </ParaText>
-              <ParaText id="4398915">Moi, quand je parle à mes concitoyens et concitoyennes, particulièrement aux petites et moyennes entreprises de ma circonscription, ils me disent qu'ils avaient planifié, pour les deux à quatre prochaines années, de nouveaux investissements, de nouvelles embauches et une augmentations du salaire de leurs employés. Présentement, ils se retrouvent démunis. Ils doivent changer leur plan à la hâte par rapport à leur croissance et à leur perspective.</ParaText>
+              <ParaText id="4398915">Moi, quand je parle à mes concitoyens et concitoyennes, particulièrement aux petites et moyennes entreprises de ma circonscription, ils me disent qu'ils avaient planifié, pour les deux à quatre prochaines années, de nouveaux investissements, de nouvelles embauches et une augmentation du salaire de leurs employés. Présentement, ils se retrouvent démunis. Ils doivent changer leur plan à la hâte par rapport à leur croissance et à leur perspective.</ParaText>
               <ParaText id="4398916">Alors, mon collègue peut-il parler de la réalité des PME de sa propre circonscription? De quelle manière ces entreprises devront-elles s'ajuster en raison de cette promesse brisée du gouvernement libéral?</ParaText>
             </Content>
           </Intervention>
@@ -434,7 +412,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4398921">Premièrement, monsieur le Président, c'est peut-être une bonne journée pour le député de Cambridge, qui célèbre son anniversaire, mais c'est une excellente journée pour les Canadiens. Ce sera une excellente année pour les Canadiens. C'est peut-être une bonne journée pour lui, mais c'est une excellente année pour les Canadiens.</ParaText>
+              <ParaText id="4398921">Monsieur le Président, c'est peut-être une bonne journée pour le député de Cambridge, qui célèbre son anniversaire, mais c'est une excellente journée pour les Canadiens. Ce sera une excellente année pour les Canadiens. C'est peut-être une bonne journée pour lui, mais c'est une excellente année pour les Canadiens.</ParaText>
               <ParaText id="4398922">J'ai été perturbé d'entendre le député de Cambridge dénoncer les industries canadiennes. Ce n'est pas la première fois que je l'entends dire de telles choses. Pas plus tard qu'hier, il a insulté l'industrie aérospatiale canadienne. Je l'entends parler de proches du parti, j'aurais bien aimé avoir l'occasion de lui demander qui donc, parmi les 9 millions de personnes dont nous avons réduit l'impôt au 1<Sup>er</Sup> janvier 2016, il considère comme étant des proches du parti. Parle-t-il des neuf familles canadiennes sur dix qui recevront une aide accrue sous la forme de l'Allocation canadienne pour enfants? Ou peut-être des 300 000 enfants qui seront sortis de la pauvreté. Peut-être parle-t-il des 250 000 étudiants qui bénéficieront de nos bourses. Ou encore, peut-être qu'il parle des 900 000 aînés dont la situation sera améliorée par notre budget.</ParaText>
               <ParaText id="4398923">J'ai un grand respect pour le député de Cambridge, mais il me rend perplexe lorsqu'il parle des proches du parti. C'était peut-être la façon de gouverner des conservateurs, mais le gouvernement libéral est là pour la classe moyenne. Il est là pour les familles de la classe moyenne et veut aider les familles canadiennes, et tous les Canadiens.</ParaText>
               <ParaText id="4398924">J'ai eu le grand privilège de parcourir le pays avec le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>. Je me suis déplacé de Moncton à Yellowknife et j'ai parlé à des milliers de Canadiens de leurs rêves et de leurs préoccupations. Le ministre des Finances a fait de même. Il a voyagé d'Halifax à Vancouver. Nous avons parlé aux Canadiens. C'était sans précédent. Je crois que le député serait intéressé par ce que nous faisons. Nous gouvernons autrement; nous sommes ouverts et nous parlons aux Canadiens, ce que le gouvernement précédent n'a pas fait.</ParaText>
@@ -497,7 +475,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214015" Type="2">M. Marco Mendicino (Eglinton—Lawrence, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4398943">Monsieur le Président, je me lève aujourd'hui pour célébrer la fête de la République italienne pour commémorer l'indépendance de l'Italie.</ParaText>
+              <ParaText id="4398943">Monsieur le Président, je me lève aujourd'hui pour célébrer la fête de la République italienne qui  commémore l'indépendance de l'Italie.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4398944">Depuis plus d'un siècle, les Italiens immigrent au Canada en quête d'une nouvelle vie, et c'est ce qu'ils trouvent ici. Les Italo-Canadiens enrichissent la culture et contribuent à la prospérité de notre grand pays grâce à leurs compétences, leur intelligence, leur musique, leur nourriture et, bien sûr, leur vin.</ParaText>
               <ParaText id="4398945">C'est un privilège de suivre les traces des nombreux Italo-Canadiens qui ont siégé ici avant moi et de servir la population avec des collègues des deux côtés de la Chambre qui ont des origines italiennes.</ParaText>
@@ -533,8 +511,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398953">Lorsqu'il était maire, Alex a dirigé les efforts en vue de fusionner Korah à la Ville de Sault Ste. Marie. Il a ouvert la succursale Centennnial de la bibliothèque publique de Sault Ste. Marie et a piloté la création du Collège Algoma, qui est devenu l'Université Algoma.</ParaText>
               <ParaText id="4398954">Alex a été un mari dévoué pendant 60 ans auprès de Shirley, un fier père et grand-père, un bon ami et un libéral convaincu. Il a accompli beaucoup de grandes réalisations pour la collectivité. Il m'a donné un coup de main lorsque je me suis lancé en politique. Les résidants de ma circonscription ont parlé de lui comme d'un homme bon, intelligent, humble et dévoué. Toutefois, selon moi, la meilleure façon de décrire Alex, c'est de dire que c'était un vrai gentleman.</ParaText>
               <ParaText id="4398955">Mesdames et messieurs, je vous prie de vous joindre à moi et de célébrer la vie de ce grand homme aujourd'hui à la Chambre des communes.</ParaText>
-              <ParaText id="4398956">
-                <B>Des voix:</B> Bravo!</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -551,8 +527,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398958">Maria, qui est née sur le territoire de la nation Thunderchild, est une fière représentante des Cris-des-Plaines. Sa générosité, sa gentillesse et sa force n'ont pas d'égales. Le 27 mai dernier, Maria a remporté le prix Femmes de mérite 2016 du YWCA pour tout ce qu'elle fait pour renforcer l'esprit communautaire des gens de Saskatoon. Elle a aussi eu droit à une ovation debout bien méritée.</ParaText>
               <ParaText id="4398959">Maria a grandement contribué au développement et à l'épanouissement de l'ensemble de sa communauté, cela ne fait aucun doute. Elle a consacré une bonne partie de sa vie aux services d'aide à l'enfance. Elle s'est occupée personnellement de plus de 350 enfants placés en famille d'accueil. Elle leur a offert un milieu sûr où ils ont été entourés d'affection et où leur identité culturelle a été valorisée.</ParaText>
               <ParaText id="4398960">Son discours de remerciement se limitait à ceci: « Toutes les femmes sont des vainqueures », ce qui en dit long sur sa personnalité. J'invite tous les députés à se joindre à moi pour féliciter Maria.</ParaText>
-              <ParaText id="4398961">
-                <B>Des voix:</B> Bravo!</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -569,8 +543,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398963">En plus de connaître le succès sur la patinoire, Chris est devenu, avec sa femme Erin, un pilier de la communauté ottavienne en appuyant plus de 20 organismes caritatifs: les Éclaireurs, l'Hôpital pour enfants de l'Est de l'Ontario, Le hockey pour vaincre le cancer, Movember, le Festival de bateaux-dragons d'Ottawa, le Projet RÉPA, le Projet Nord, le Fonds Habineige, la Fondation de l'Hôpital Queensway Carleton et bien d'autres.</ParaText>
               <ParaText id="4398964">Il a également travaillé fort pour sensibiliser les gens et amasser des fonds afin de venir en aide à sa ville natale, Fort McMurray. </ParaText>
               <ParaText id="4398965">Je vous prie de vous joindre à moi pour remercier Chris Phillips de ce qu'il fait pour Ottawa et lui souhaiter, ainsi qu'à sa femme Erin et à leurs trois enfants, une belle retraite.</ParaText>
-              <ParaText id="4398966">
-                <B>Des voix:</B> Bravo!</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -600,7 +572,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214031" Type="2">M. Jean-Claude Poissant (La Prairie, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4398972">Monsieur le Président, j'aimerais aujourd'hui vous entretenir d'une femme exceptionnelle. Fille d'agriculteur et intervenante psychosociale, Maria Labrecque-Duchesneau a fondé, en l'an 2000, l'organisme Au coeur des familles agricoles, un regroupement unique au Québec, qui s'est donné comme mission de créer un réseau d'entraide au sein du milieu agricole. </ParaText>
-              <ParaText id="4398973">Ayant eu la chance de la côtoyer en tant que président de cet organisme, j'ai été à même de constater le travail qu'elle a accompli. Parmi ses nombreuses réalisations, notons le concept de travailleur de rang, la mise sur pied de l'association Fierté agricole, l'élaboration du premier <I>Guide du bon voisinage</I> dans les campagnes, et bien sûr, l'ouverture de la première maison de répit en agriculture. Somme toute, de belles réalisations qui démontrent à quel point son engagement a été bénéfique pour le monde agricole.</ParaText>
+              <ParaText id="4398973">Ayant eu la chance de la côtoyer en tant que président de cet organisme, j'ai été à même de constater le travail qu'elle a accompli. Parmi ses nombreuses réalisations, notons le concept de travailleur de rang, la mise sur pied de l'association Fierté agricole, l'élaboration du premier <I>Guide du bon voisinage</I> dans les campagnes, et bien sûr, l'ouverture de la première maison de répit en agriculture. Somme toute, ce sont de belles réalisations qui démontrent à quel point son engagement a été bénéfique pour le monde agricole.</ParaText>
               <ParaText id="4398974">Aujourd'hui, Maria recevra un doctorat honorifique de l'Université McGill pour souligner son oeuvre et son implication. C'est pourquoi je profite de ces quelques instants à la Chambre pour lui rendre hommage et lui exprimer toute ma gratitude.</ParaText>
             </Content>
           </Intervention>
@@ -619,7 +591,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4398976">Marie-Ève Gauthier, éducatrice de la petite enfance, a reçu le Prix du premier ministre pour l’excellence en éducation de la petite enfance 2015 au Centre de la petite enfance du Pic Bois. Le prix est remis en reconnaissance d'une contribution exceptionnelle à l'éducation des enfants de 0 à 5 ans.</ParaText>
               <ParaText id="4398977">Ensuite, Samuel San Vachon, jeune musicien de talent, a été sélectionné par l'Orchestre national des jeunes du Canada. Après des années de formation rigoureuse et de perfectionnement, il parcourra tout le pays et le monde entier pour jouer devant des milliers de personnes.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4398978">Je tiens à les féliciter de leurs réalisations et du niveau d’excellence qu’ils ont atteint dans leur vie personnelle et professionnelle. Ils sont une source d’inspiration pour nous tous.</ParaText>
+              <ParaText id="4398978">Je tiens à les féliciter pour leurs réalisations et du niveau d’excellence qu’ils ont atteint dans leur vie personnelle et professionnelle. Ils sont une source d’inspiration pour nous tous.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -695,7 +667,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4398994">Monsieur le Président, puisque nous célébrons le tourisme au Canada, c'est avec grand plaisir que j'invite tous les députés à visiter la magnifique circonscription de Châteauguay—Lacolle, qui est située à proximité de la Rive-Sud de Montréal et qui compte de nombreuses attractions touristiques.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4398995">On retrouve, par exemple, le Circuit du Paysan, un trajet serpentant la Montérégie à emprunter en voiture ou en vélo afin de découvrir des produits locaux uniques et des joyaux du patrimoine bâti.</ParaText>
+              <ParaText id="4398995">On retrouve, par exemple, le Circuit du Paysan, un trajet serpentant dans la Montérégie à emprunter en voiture ou en vélo afin de découvrir des produits locaux uniques et des joyaux du patrimoine bâti.</ParaText>
               <ParaText id="4398996">On peut notamment visiter St-Cyprien-de-Napierville, terre natale du mythique homme fort, Louis Cyr.</ParaText>
               <ParaText id="4398997">Il y a aussi la Fiesta des cultures de Saint-Rémi, un lieu d'échange culturel qui mise sur la présence de nos travailleurs étrangers pour faire découvrir l'Amérique latine aux festivaliers par l'histoire, la gastronomie et l'art.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -808,7 +780,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214691" Type="18">M. Mark Holland (secrétaire parlementaire de la ministre des Institutions démocratiques, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4399022">Aux yeux du député, une entente secrète consiste à tendre la main à tous les partis et à les inviter à nous faire part de leurs idées afin d'obtenir un consensus.</ParaText>
+              <ParaText id="4399022">Monsieur le Président, aux yeux du député, une entente secrète consiste à tendre la main à tous les partis et à les inviter à nous faire part de leurs idées afin d'obtenir un consensus.</ParaText>
               <ParaText id="4399023">La vérité, c'est que les conservateurs ont eu toutes les occasions possibles, hier, de présenter des amendements. En ont-ils présenté un seul? Non. Ils ont eu toutes les occasions aujourd'hui de parler des façons d'améliorer le processus au comité afin de mobiliser les Canadiens. Ont-ils saisi ces occasions? Non.</ParaText>
               <ParaText id="4399024">Dans l'amendement que nous avons présenté, nous leur avons laissé la chance de soulever ces questions. C'est devant le comité qu'il y a lieu de les aborder. Si les conservateurs souhaitent parler des façons de mobiliser et d'obtenir l'appui des Canadiens, ils n'ont qu'à participer au processus et ainsi contribuer à l'amélioration de notre démocratie.</ParaText>
             </Content>
@@ -837,7 +809,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214086" Type="2">M. Alain Rayes (Richmond—Arthabaska, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4399032">Monsieur le Président, je ne comprends par l'entêtement du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> à refuser un référendum.</ParaText>
+              <ParaText id="4399032">Monsieur le Président, je ne comprends pas l'entêtement du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> à refuser un référendum.</ParaText>
               <ParaText id="4399033">Hier, sa propre ministre n'a pas fermé la porte à un référendum. Avant-hier, le député de <Affiliation DbId="214027" Type="2">Mont-Royal</Affiliation> déclarait: « Je ne suis pas contre [...] le référendum c'est un outil qu'on pourrait utiliser. » Le mois dernier, le <Affiliation DbId="214317" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> a d'abord rejeté l'idée, puis s'est montré ouvert à un référendum.</ParaText>
               <ParaText id="4399034">Le gouvernement veut être ouvert et transparent et donner confiance aux citoyens et citoyennes. Alors pourquoi le gouvernement ne dit-il pas clairement à la population qu'à la fin de la consultation, il va lui donner le droit de parole final par un référendum?</ParaText>
             </Content>
@@ -846,7 +818,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214691" Type="18">M. Mark Holland (secrétaire parlementaire de la ministre des Institutions démocratiques, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4399035">Monsieur le Président, le Parti conservateur a dit sur Internet qu'il appuyait l'idée que tous les partis puissent travailler ensemble, sans une majorité du Parti libéral. Or, maintenant, les conservateurs sont contre cela. Il y là une occasion aussi, et j'espère que le Parti conservateur va travailler avec nous, discuter des enjeux au comité et améliorer notre système électoral. </ParaText>
+              <ParaText id="4399035">Monsieur le Président, le Parti conservateur a dit sur Internet qu'il appuyait l'idée que tous les partis puissent travailler ensemble, sans une majorité du Parti libéral. Or, maintenant, les conservateurs sont contre cela. Il y a là une occasion aussi, et j'espère que le Parti conservateur va travailler avec nous, discuter des enjeux au comité et améliorer notre système électoral. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -977,7 +949,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214691" Type="18">M. Mark Holland (secrétaire parlementaire de la ministre des Institutions démocratiques, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399068">Monsieur le Président, le député d'en face s'est lui-même déjà prononcé contre le système uninominal majoritaire à un tour. Le député et porte-parole du Parti conservateur a dit que nous pourrions faire les choses d'une meilleure façon. Je propose donc que nous nous mettions au travail pour créer un meilleur système qui conviendra mieux aux Canadiens. Par la suite, si le député juge que la collaboration et les efforts pour atteindre un consensus ne sont pas suffisants, nous discuterons des mesures à prendre pour que les Canadiens puissent participer davantage.</ParaText>
-              <ParaText id="4399069">Je refuse toutefois d'abandonner le processus avant qu'il ne soit commencé et de ne pas même pas discuter des façons dont nous pourrions améliorer la démocratie canadienne. Mettons-nous au travail. Soyons positifs.</ParaText>
+              <ParaText id="4399069">Je refuse toutefois d'abandonner le processus avant qu'il ne soit commencé et de ne même pas discuter des façons dont nous pourrions améliorer la démocratie canadienne. Mettons-nous au travail. Soyons positifs.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Harder" id="8966244">
@@ -1411,7 +1383,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214663" Type="18">Mme Pam Goldsmith-Jones (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399166">Monsieur le Président, nous croyons qu'entretenir des relations complètes avec la Chine est la meilleure option.</ParaText>
-              <ParaText id="4399167">Nous avons régulièrement des interactions haut niveau avec la Chine au sujet d'un éventail de dossiers qui nous permettent de demeurer francs et honnêtes sur des questions telles que les droits de la personne et la liberté de presse.</ParaText>
+              <ParaText id="4399167">Nous avons régulièrement des interactions de haut niveau avec la Chine au sujet d'un éventail de dossiers qui nous permettent de demeurer francs et honnêtes sur des questions telles que les droits de la personne et la liberté de presse.</ParaText>
               <ParaText id="4399168">Le Canada soulève constamment ses préoccupations au sujet des droits de la personne auprès du gouvernement chinois, comme l'a fait le <Affiliation DbId="214305" Type="4">ministre des Affaires étrangères</Affiliation> cette semaine auprès du ministre des Affaires étrangères de la Chine.</ParaText>
             </Content>
           </Intervention>
@@ -1425,7 +1397,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214358" Type="2">M. David Anderson (Cypress Hills—Grasslands, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399169">Monsieur le Président, le gouvernement chinois impose sa volonté au gouvernement libéral. Il dit à notre <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> quand il peut le rencontrer, et il réprimande des Canadiens sous les yeux passifs du <Affiliation DbId="214305" Type="4">ministre des Affaires étrangères</Affiliation>.</ParaText>
-              <ParaText id="4399170">Si les libéraux veulent défendre les Canadiens, ils pourraient commencer par Kevin et Julia Garratt. Cela fait presque deux ans qu'ils se font menacer, harceler et accuser faussement. Le moment est venu des les libérer. </ParaText>
+              <ParaText id="4399170">Si les libéraux veulent défendre les Canadiens, ils pourraient commencer par Kevin et Julia Garratt. Cela fait presque deux ans qu'ils se font menacer, harceler et accuser faussement. Le moment est venu de les libérer. </ParaText>
               <ParaText id="4399171">Quand les libéraux diront-ils au gouvernement chinois d'arrêter de jouer avec la vie de Kevin et Julia Garratt, et les rapatrieront-ils?</ParaText>
             </Content>
           </Intervention>
@@ -1501,7 +1473,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399185">Monsieur le Président, les Canadiens ayant des limitations fonctionnelles relèvent chaque jour des défis qui les empêchent de participer pleinement aux activités de leur collectivité et en milieu de travail.</ParaText>
-              <ParaText id="4399186"> Nous nous devons de réduire ces obstacles à l'accessibilité et d'assurer un accès égal et des chances égales pour tous. Tout le monde mérite de pouvoir participer sur des bases équitables.</ParaText>
+              <ParaText id="4399186"> Nous nous devons de réduire ces obstacles à l'accessibilité et d'assurer un accès égal et des chances égales pour tous. Tout le monde mérite de pouvoir apporter sa participation  sur des bases équitables.</ParaText>
               <ParaText id="4399187">La <Affiliation DbId="214318" Type="4">ministre</Affiliation> peut-elle informer les députés de la Chambre des mesures mises en place afin de réduire les obstacles à l'accessibilité?</ParaText>
             </Content>
           </Intervention>
@@ -1518,14 +1490,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8966455">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'infrastructure</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La santé</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Poilievre" id="8966452">
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre (Carleton, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399191">Monsieur le Président, la députée libérale d'<Affiliation DbId="214082" Type="2">Ottawa-Centre</Affiliation> a mis un frein au projet de remplacement de l'Hôpital d'Ottawa établi il y a 92 ans dans sa circonscription. Elle n'aime pas l'emplacement que le comité d'expert a choisi après avoir attentivement étudié 12 sites possibles. Si la députée a une meilleure proposition à faire ou si la CCN envisage d'autres emplacements, ils devraient nous en faire part. Après tout, cela fait six mois que le projet est sur la glace. </ParaText>
-              <ParaText id="4399192">Qui plus est, la ministre devrait dire aux habitants de sa circonscription et de la mienne quels autres sites sont envisagés. Pourquoi la ministre et la CCN ne veulent-ils pas nous tenir au courant?</ParaText>
+              <ParaText id="4399192">Qui plus est, la ministre devrait dire aux habitants de sa circonscription et de la mienne quels autres sites sont envisagés. Pourquoi la ministre et la CCN ne veulent-elles pas nous tenir au courant?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Boissonnault" id="8966457">
@@ -1558,7 +1530,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4399199">Monsieur le Président, cela peut prendre un bout de temps.</ParaText>
               <ParaText id="4399200">Je l'ai dit, le gouvernement reconnaît l'importance d'assurer la sécurité de notre système de transport ferroviaire et c'est pourquoi nous avons investi de façon importante; 143 millions de dollars ont été consacrés à l'amélioration de la sécurité ferroviaire et du transport de matières dangereuses.</ParaText>
-              <ParaText id="4399201">Évidemment, nous continuons à consulter et à discuter. Nous l'avons fait dans le cas de Lac-Mégantic et ailleurs. Il y a des études en cours. Nous prendrons les décisions qui s'imposent, toujours en ayant en tête la sécurité des Canadiens.</ParaText>
+              <ParaText id="4399201">Évidemment, nous continuons à mener des consultations et à discuter. Nous l'avons fait dans le cas de Lac-Mégantic et ailleurs. Il y a des études en cours. Nous prendrons les décisions qui s'imposent, toujours en ayant en tête la sécurité des Canadiens.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2016,7 +1988,7 @@ Le gouvernement fédéral a l’intention d'avoir des premières discussions ave
           <WrittenQuestionResponse>
             <QuestionID>Question n<Sup>o</Sup> 112 -- </QuestionID>
             <Questioner>
-              <Affiliation DbId="214495" Type="2">Mr. Wayne Stetski</Affiliation>:</Questioner>
+              <Affiliation DbId="214495" Type="2">M. Wayne Stetski</Affiliation>:</Questioner>
             <QuestionContent>
               <ParaText id="4399292">  En ce qui concerne les chemins de fer traversant des parcs nationaux du Canada: <I>a</I>) combien y a-t-il eu de déraillements de trains dans les parcs nationaux du Canada et dans un rayon de 5 km autour de ces parcs au cours des 15 dernières années, ventilé par année; <I>b</I>) parmi les déraillements en <I>a</I>), combien ont fait l’objet d’une enquête de la part du Bureau de la sécurité des transports, ventilé par année; <I>c</I>) dans quelle catégorie le Bureau de la sécurité des transports a-t-il classé chacun de les déraillements en <I>a</I>); <I>d</I>) dans combien de les déraillements en <I>a</I>) y a-t-il eu déversement de grains ou d’autres substances; <I>e</I>) quelles mesures le gouvernement a-t-il prises à l’égard des substances déversées, ventilé par déraillement, pour chacun des déraillements en <I>a</I>); <I>f</I>) quelles politiques le gouvernement a-t-il mises en place concernant les substances déversées par des trains traversant des parcs nationaux du Canada; <I>g</I>) quelle analyse le gouvernement a-t-il effectuée à l’égard des risques potentiels pour la faune du transport de marchandises par des chemins de fer traversant des parcs nationaux, et quels ont été les résultats de cette analyse; <I>h</I>) quelles politiques le gouvernement a-t-il adoptées pour atténuer les menaces qui pèsent sur les espèces en péril et les espèces en voie de disparition à cause du transport ferroviaire dans les parcs nationaux et à proximité de ces parcs; <I>i</I>) à quelle fréquence le gouvernement revoit-il ses politiques et procédures concernant les chemins de fer traversant des parcs nationaux du Canada?</ParaText>
             </QuestionContent>
@@ -2111,7 +2083,7 @@ Le gouvernement fédéral a l’intention d'avoir des premières discussions ave
               <ParaText id="4399329">Parlons un peu du comité. Le projet de loi vient de nous être renvoyé par le Comité permanent de la citoyenneté et de l'immigration. Nous croyons qu'il est de notre devoir de tendre la main aux députés d'en face. Au comité, nous n'avons pas hésité un seul instant à accepter les amendements sensés qui cadraient avec l'orientation stratégique que nous voulions donner à la mesure législative et en amélioraient le texte, car ils nous permettront de rendre le Canada plus diversifié et plus inclusif.</ParaText>
               <ParaText id="4399330">Grâce à l'un des amendements du NPD, le ministre a dorénavant le pouvoir discrétionnaire d'attribuer la citoyenneté à toute personne en situation d'apatridie. Toujours grâce au NPD, le ministre pourra également prendre en compte les mesures d'accommodement raisonnables pour répondre aux besoins de l'auteur d'une demande de citoyenneté qui est une personne handicapée. Ces deux amendements provenaient de l'opposition, et nous les avons intégrés avec plaisir au projet de loi parce qu'ils avaient leur raison d'être.</ParaText>
               <ParaText id="4399331">Je terminerai en revenant au début de mon intervention.</ParaText>
-              <ParaText id="4399332">Si j'ai fait la liste des 22 pays d'où sont originaires les différents députés, c'était pour donner aux gens une une idée de la diversité de notre cohorte parlementaire. La Chambre est le miroir du pays, et celui-ci compte des millions de citoyens provenant des quatre coins du monde. À tous ces gens, le projet de loi <Document DbId="8117654" Type="3">C-6</Document> envoie le message que leur citoyenneté n'est pas moins importante et ne mérite pas moins le respect que celle des gens qui sont nés ici.</ParaText>
+              <ParaText id="4399332">Si j'ai fait la liste des 22 pays d'où sont originaires les différents députés, c'était pour donner aux gens une idée de la diversité de notre cohorte parlementaire. La Chambre est le miroir du pays, et celui-ci compte des millions de citoyens provenant des quatre coins du monde. À tous ces gens, le projet de loi <Document DbId="8117654" Type="3">C-6</Document> envoie le message que leur citoyenneté n'est pas moins importante et ne mérite pas moins le respect que celle des gens qui sont nés ici.</ParaText>
               <ParaText id="4399333">On parle bien trop rarement de l'un des éléments marquants du projet de loi. En améliorant les voies d'accès à la citoyenneté, le projet de loi <Document DbId="8117654" Type="3">C-6</Document> stimule également la participation. Seuls les citoyens peuvent voter au Canada. Seuls les citoyens peuvent présenter leur candidature pour se faire élire à la Chambre. En éliminant les obstacles à la citoyenneté et en les remplaçant par des occasions d'obtenir et de conserver la citoyenneté, le projet de loi C-6 encourage la plus grande participation possible à notre processus démocratique.</ParaText>
               <ParaText id="4399334">La tâche ultime de tout gouvernement, quelle que soit son affiliation politique, est d'encourager la participation des citoyens. C'est précisément l'objet du projet de loi <Document DbId="8117654" Type="3">C-6</Document>. Je suis fier d'appuyer le projet de loi en ma qualité de <Affiliation DbId="214665" Type="18">secrétaire parlementaire du ministre de l'Immigration, des Réfugiés et de la Citoyenneté</Affiliation> et j'encourage tous mes collègues à en faire de même.</ParaText>
             </Content>
@@ -2154,7 +2126,7 @@ Le gouvernement fédéral a l’intention d'avoir des premières discussions ave
             <PersonSpeaking>
               <Affiliation DbId="214665" Type="18">M. Arif Virani</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4399349">Monsieur le Président, je remercie le député de promouvoir avec autant d’ardeur la diversité de sa circonscription.</ParaText>
+              <ParaText id="4399349">Madame la  Présidente, je remercie le député de promouvoir avec autant d’ardeur la diversité de sa circonscription.</ParaText>
               <ParaText id="4399350">La réaction des électeurs de ma circonscription a été très semblable à celle des électeurs des autres circonscriptions du Canada, qu’elles soient urbaines ou rurales. Les gens qui n'étaient pas nés dans ce pays, qui s'y étaient fait naturaliser ou qui avaient présenté une demande en ce sens se sont sentis mis à l’écart par cette loi. Ils ont eu l’impression d’être stigmatisés et dévalorisés, d’être soudain très vulnérables.</ParaText>
               <ParaText id="4399351">Ce sont des mots très forts, mais c’est ce que j’ai entendu à maintes reprises pendant la campagne électorale. J'entendais aussi la même chose lorsque j’étais avocat spécialisé dans les droits de la personne, avant d’être élu député.</ParaText>
               <ParaText id="4399352">C’est à cela que nous essayons de remédier en proposant ce projet de loi. Ce ne sont pas des mots accrocheurs ou des clichés de campagne électorale. L’objectif, c'est de donner aux gens le sentiment qu’ils ont le droit de voter, de présenter leur candidature à la Chambre des communes et de participer au processus électoral. Il faut qu’ils aient le sentiment que, même s’ils sont nés à l’étranger, leur citoyenneté a autant de valeur que celle des Canadiens qui vivent ici depuis plusieurs générations. C’est ce que nous essayons d'accomplir avec le projet de loi. </ParaText>
@@ -2241,7 +2213,7 @@ Le gouvernement fédéral a l’intention d'avoir des premières discussions ave
               <ParaText id="4399392">Il est important de réfuter certains arguments de mes amis d'en face. Les députés ministériels ont dit beaucoup de choses à ce sujet qui sont vraies en substance, mais qui ne s'appliquent pas vraiment à ce projet de loi. Mon ami le secrétaire parlementaire souligne l'importance d'offrir une voie pour accéder à la citoyenneté. Mais cette voie existe déjà au Canada. Personne n'a jamais proposé la création d'une citoyenneté du genre de celle des Émirats arabes unis, qui ne peut être acquise que par naissance. Nous sommes tout à fait pour l'existence d'une voie d'accès à la citoyenneté, et nous pouvons ne pas être d'accord concernant le nombre d'années, qui peut être une de plus ou de moins, selon les points de vue, sans pour tant que nous soyons en désaccord sur ce point fondamental.</ParaText>
               <ParaText id="4399393">Les immigrants qui adoptent vraiment le Canada comme nouvelle patrie n'ont pas réellement d'objection à attendre un an de plus, par exemple. Ceux qui ne sont pas aussi fortement engagés dans leur démarche de naturalisation canadienne ont toutefois peut-être un autre point de vue. Je ne sais pas exactement quel serait le seuil — un an de plus ou davantage — à partir duquel le délai serait trop long, même pour les gens qui sont sincèrement attachés au Canada. </ParaText>
               <ParaText id="4399394">Le gouvernement pense qu'il existe un problème important de citoyenneté à deux vitesses, et nous entendons les députés ministériels répéter constamment cet argument formaté. Alors, deux choses doivent être dites à ce sujet. Premièrement, le gouvernement dit clairement avoir l'intention de se réserver le droit de révoquer la citoyenneté si elle a été acquise de manière frauduleuse. Donc, des personnes qui ont acquis la citoyenneté pourraient en être dépouillées pour avoir commis une fraude.</ParaText>
-              <ParaText id="4399395">Or, une fraude me semble être un crime beaucoup moins grave que le terrorisme. Alors, il est tout simplement incohérent d'entendre le gouvernement dire d'une part que la citoyenneté est irrévocable dans le cas d'une personne qui est nettement en rupture avec les valeurs canadiennes, tandis que, d'autre part, la citoyenneté peut être perdue si une personne a menti en remplissant un formulaire.</ParaText>
+              <ParaText id="4399395">Or une fraude me semble être un crime beaucoup moins grave que le terrorisme. Alors, il est tout simplement incohérent d'entendre le gouvernement dire d'une part que la citoyenneté est irrévocable dans le cas d'une personne qui est nettement en rupture avec les valeurs canadiennes, tandis que, d'autre part, la citoyenneté peut être perdue si une personne a menti en remplissant un formulaire.</ParaText>
               <ParaText id="4399396">Il est vraiment difficile de suivre la logique du gouvernement lorsqu'il parle de l'irrévocabilité de la citoyenneté. C'est une logique qui m'apparaît extrême lorsqu'on sait qu'elle aurait comme conséquence que les cas les plus graves seraient traités au Canada, sans révocation, tandis qu'il pourrait y avoir révocation pour des infractions relativement moins graves.</ParaText>
               <ParaText id="4399397">Je veux ajouter ceci au sujet du régime que le gouvernement a mis en place. Le projet de loi du gouvernement instaurerait un régime de citoyenneté à deux vitesses qui n'existait pas auparavant. Dans ce régime, les gens qui obtiennent la citoyenneté canadienne pourraient se la voir retirer pour avoir présenté une demande frauduleuse. Dans notre système, n'importe qui pourrait perdre sa citoyenneté pour l'avoir obtenue frauduleusement ou avoir trempé dans des activités terroristes.</ParaText>
               <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
@@ -2513,7 +2485,7 @@ et autres substances (aide lors de surdose)</Document>, soit lu pour la deuxièm
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4399520">Comme il est 14 heures, la Chambre s'ajourne à lundi à 11 heures, conformément au paragraphe <?bk?>24(1)<?ek?> du Règlement.</ParaText>
+              <ParaText id="4399520">Comme il est 14 heures, la Chambre s'ajourne à lundi à 11 heures, conformément au paragraphe <?bk ?>24(1)<?ek ?> du Règlement.</ParaText>
               <ParaText id="4399521">(La séance est levée à 14 heures.)</ParaText>
             </Content>
           </Intervention>

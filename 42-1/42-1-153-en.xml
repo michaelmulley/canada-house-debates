@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9427527">
-  <StartPageNumber>9689</StartPageNumber>
+  <StartPageNumber>9685</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -58,26 +39,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <ParaText id="4806307">The House met at 11 a.m.</ParaText>
       <Prayer>Prayer</Prayer>
     </Intro>
-    <OrderOfBusiness id="9427528" Rubric="Other">
-      <CatchLine>Private Members' Business</CatchLine>
-      <SubjectOfBusiness>
-        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9427534">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4806308">It being 11:05 a.m., the House will now proceed to consideration of private members' business as listed on today's Order Paper.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-    </OrderOfBusiness>
     <OrderOfBusiness id="9427536" Rubric="PrivateMembersBusiness">
       <OrderOfBusinessTitle>PRIVATE MEMBERS' BUSINESS</OrderOfBusinessTitle>
       <CatchLine>Private Members' Business</CatchLine>
       <SubjectOfBusiness id="9427537">
+        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Railway Safety Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -252,7 +218,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4806384">To go back to Bill <Document DbId="8588471" Type="4">C-322</Document>, we have to look at the basic issue, the safety of Canadians and their families. At the moment, there are certain shortcomings in the bill. Clearly, we encourage people to comply with existing laws and regulations. Pedestrians must not cross railway tracks where they are not allowed to do so, because it is dangerous and puts not only their own lives but those of others at risk. Unfortunately, statistics show that level crossings are not risk free.</ParaText>
               <ParaText id="4806385">I really must provide my colleague with some recommendations. Statistics show that railway and road crossings are equally dangerous for Canadians. At the end of October 2016, data from the Transportation Safety Board of Canada indicated a total of 89 accidents at road crossings, including 16 fatalities and 20 severe injuries. Our colleague talked about the high number of accidents outside road crossings. In other words: Canada's entire railway system. These are not specific locations we are talking about, but about a very large area. It is impossible to put road crossings everywhere and anywhere in Canada where there are railway lines. </ParaText>
               <ParaText id="4806386">We do not see how Bill <Document DbId="8588471" Type="4">C-322</Document> in its current form could help to improve and solve the problem once and for all. In our view, a broader approach to road crossings is needed. I agree that specific measures must be taken to improve the situation in Montreal, and thus the safety of the people crossing railway lines illegally in Canada. We should come up with a framework within which the minister could use this new power to authorize new road crossings.</ParaText>
-              <ParaText id="4806387">I offer my colleague my cooperation in the coming weeks; let us keep discussing the bill and see whether it is possible to make any improvements that would result in our being able to support it. Unfortunately, at the moment, we cannot support Bill <Document DbId="8588471" Type="4">C-322</Document> in its current form.</ParaText>
+              <ParaText id="4806387">I offer my colleague my co-operation in the coming weeks; let us keep discussing the bill and see whether it is possible to make any improvements that would result in our being able to support it. Unfortunately, at the moment, we cannot support Bill <Document DbId="8588471" Type="4">C-322</Document> in its current form.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
@@ -574,7 +540,7 @@ Security and Intelligence Committee of Parliamentarians Act</SubjectOfBusinessTi
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806504">I want to clarify that I certainly have not broken any campaign promises. I would ask the member to address his comments to the chair.</ParaText>
+              <ParaText id="4806504">I want to clarify that I certainly have not broken any campaign promises. I would ask the member to address his comments to the Chair.</ParaText>
               <ParaText id="4806505">The hon. government House leader.</ParaText>
             </Content>
           </Intervention>
@@ -587,9 +553,9 @@ Security and Intelligence Committee of Parliamentarians Act</SubjectOfBusinessTi
               <ParaText id="4806508">When it comes to campaign commitments, we know that we need to have meaningful debate as well as advance legislation. We committed to lowering taxes for middle-class Canadians, and we delivered. We committed to increasing taxes for the wealthiest 1% of Canadians, and we delivered. What did the Conservatives do? They voted against it every time.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dubé" id="9427687">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Dubé" id="9427687">
             <PersonSpeaking>
-              <Affiliation DbId="214060" Type="2">Mr. Matthew Dubé (Beloeil—Chambly, NDP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214060" Type="2">Mr. Matthew Dubé</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806509">Madam Speaker, it is quite interesting to hear the <Affiliation DbId="229526" Type="18">parliamentary secretary to the government House leader</Affiliation> talk about how the House is obliged to pass government legislation. I guess the Liberal caucus members did not get the memo the last sitting week when they voted against the government, twice. I guess that is why they have to have two caucus meetings this week, because the caucus does not feel that cabinet is consulting it.</ParaText>
               <ParaText id="4806510">It is not just opposition members; it is the Liberal caucus as well that is fed up with the notion that the Liberals promised to do better and are well on their way, I would argue, to doing even worse at this point. While we knew where the Conservatives stood, I suppose the Liberals like to say they are going to do better and then stab us in the back with a knife on these issues, because that is exactly how we feel, having worked hard at committee.</ParaText>
@@ -649,9 +615,9 @@ Security and Intelligence Committee of Parliamentarians Act</SubjectOfBusinessTi
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Clement" id="9427719">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Clement" id="9427719">
             <PersonSpeaking>
-              <Affiliation DbId="214103" Type="2">Hon. Tony Clement (Parry Sound—Muskoka, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214103" Type="2">Hon. Tony Clement</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806533">Madam Speaker, how can the hon. <Affiliation DbId="224669" Type="4">government House leader</Affiliation> justify watering down the government's own bill when promising in an election to have a meaningful parliamentary oversight process?</ParaText>
             </Content>
@@ -1031,9 +997,9 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <ParaText id="4806554">Would my colleague not agree that the legislation before us today is one of the most robust pieces of legislation to ensure Canada has one of the best parliamentary oversight committees in the world?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Graham" id="9428033">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Graham" id="9428033">
             <PersonSpeaking>
-              <Affiliation DbId="214137" Type="2">Mr. David de Burgh Graham</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214137" Type="2">Mr. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806555">Madam Speaker, it is always a pleasure to take a question from the member for <Affiliation DbId="213924" Type="2">Winnipeg North</Affiliation>. I agree with him completely.</ParaText>
               <ParaText id="4806556"> It is very important to have a robust system. Bill <Document DbId="8364795" Type="3">C-22</Document> offers a very robust system. There are immense challenges. Our intelligence agencies do very interesting things all over the world and somebody needs to oversee them, see what they are doing, ensure they make sense, are within the rules, and have the power to do that without putting any of the operations into jeopardy. What they are doing is a very good, and I am very much supporting this.</ParaText>
@@ -1136,9 +1102,9 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4806588">The committee that will be created by this bill is key to our efforts in ensuring that our national security framework keeps us safe while protecting our rights and freedoms.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4806589">When the initial version of this legislation was introduced last June, experts such as Professor Craig Forcese from the University of Ottawa noted that it would put in place “a stronger body than the UK and Australian equivalents”, and that it would be “a dramatic change for Canadian national security accountability”. Since then, the public safety standing committee of this House has studied the bill extensively and proposed a number of amendments. I thank the committee for its work and support many of its amendments to help ensure that the mandate, authorities, and access of the new national security and intelligence committee of parliamentarians will be extensive, effective, and appropriate.</ParaText>
+              <ParaText id="4806589">When the initial version of this legislation was introduced last June, experts such as Professor Craig Forcese from the University of Ottawa noted that it would put in place “a stronger body than the UK and Australian equivalents”, and that it would be “a dramatic change for Canadian national security accountability.” Since then, the public safety standing committee of this House has studied the bill extensively and proposed a number of amendments. I thank the committee for its work and support many of its amendments to help ensure that the mandate, authorities, and access of the new national security and intelligence committee of parliamentarians will be extensive, effective, and appropriate.</ParaText>
               <ParaText id="4806590">Let me pause here to note that the title of this new entity is quite a mouthful, so during my remarks today, to save time, I may well use the acronym NSICOP.</ParaText>
-              <ParaText id="4806591">With respect to the amendments that have been proposed by members of Parliament, the government has agreed to add a whistle-blower clause in clause 31 of the bill, requiring the committee to inform the appropriate minister, as well as the attorney general, if it uncovers any activity that may not be in compliance with the law. We also agree on a change that would restrict the chair of the committee to voting only in the event of a tie rather than having the chair vote as a matter of course. </ParaText>
+              <ParaText id="4806591">With respect to the amendments that have been proposed by members of Parliament, the government has agreed to add a whistle-blower clause in clause 31 of the bill, requiring the committee to inform the appropriate minister, as well as the Attorney General, if it uncovers any activity that may not be in compliance with the law. We also agree on a change that would restrict the chair of the committee to voting only in the event of a tie rather than having the chair vote as a matter of course. </ParaText>
               <ParaText id="4806592">We agree on amendments that would deal with the NSICOP's annual reports. MPs on all sides of the House have concluded that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> should have the authority to redact certain sections of those annual reports if necessary, to safeguard vital national security interests or solicitor-client privilege. However, it would be mandatory for these reports to indicate the extent of and the reason for any such redactions. This is a reasonable and responsible approach, and I thank committee members for putting it forward. In essence, it mirrors the practice in the United Kingdom.</ParaText>
               <ParaText id="4806593">We are also agreed on amendments to the section dealing with NSICOP's mandate. Accordingly, the authority of a minister to determine that an examination would be injurious to national security and therefore fall outside the mandate of the committee would apply only to ongoing operations. What is more, the minister would have to explain that determination to the committee, and would be bound to alert the committee as soon as the determination changes or as soon as the operation is no longer ongoing.</ParaText>
               <ParaText id="4806594">We are also supporting several big amendments to clause 14, which is the section that lists the type of information to which the NSICOP would not have access. We have removed from this exclusions list, information about ongoing defence intelligence activities supporting military operations, privileged information under the Investment Canada Act, and information collected by the Financial Transactions and Reports Analysis Centre of Canada. All of these areas would have been excluded from NSICOP under the initial version of the bill. Those three blanket exclusions are now gone.</ParaText>
@@ -1221,7 +1187,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">on this issue also imperils non-partisan support for future national-security reforms and changes to other elements of the review system for national security.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4806628">When we hear that and with the majority of the amendments having been thrown out and a time allocation motion having been thrown in to boot, it is difficult to see a path forward that would allow the committee to have that credibility and non-partisan environment it so desperately needs. The committee needs that not only to do its work, but also, as I said and it is worth repeating, in order to gain the public's trust so the public can begin trusting the work that is being done by the national security agencies. This is a key element and the government is clearly failing on that front.</ParaText>
+              <ParaText id="4806628">When we hear that and with the majority of the amendments having been thrown out and a time allocation motion having been thrown in to boot, it is difficult to see a path forward that would allow the committee to have that credibility and non-partisan environment it so desperately needs. The committee needs that not only to do its work, but also--as I said, and it is worth repeating--in order to gain the public's trust so the public can begin trusting the work that is being done by the national security agencies. This is a key element, and the government is clearly failing on that front.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4806629">I want to come back to the two examples I mentioned in the questions I have asked the government since the debate began this morning, specifically regarding the time allocation motion and the bill itself. The issue of ongoing investigations has often been raised. That is one of the restrictions we tried to lift through our amendments.</ParaText>
               <ParaText id="4806630">Indeed, the two most striking examples of investigations into human rights violations that are worthy of examination by a body such as the one this bill proposes are the Air India inquiry and the Afghan detainees investigation.</ParaText>
@@ -1281,7 +1247,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214176" Type="2">Mr. Borys Wrzesnewskyj (Etobicoke Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806643">Mr. Speaker, a decade ago, Russian ambassador to Washington, Sergey Kislyak, visited Ottawa as Russian deputy foreign minister. Back then, I confronted Kislyak about Russia's cyber-attacks on Estonia and its use of gas supply cut-offs to intimidate Ukraine. Ten years of diplomatic resets and the result is Russia is exponentially more belligerent. Then, Russia's cyber-attacks shut down Estonia. Today, they undermine the integrity of the U.S. presidential elections. Then, Russia punished Ukraine for its pro-western policies with gas shut-offs. Today, in Russia's war against Ukraine, 10,000 have been killed and two million have been displaced.</ParaText>
+              <ParaText id="4806643">Mr. Speaker, a decade ago, Russian ambassador to Washington Sergey Kislyak visited Ottawa as Russian deputy foreign minister. Back then, I confronted Kislyak about Russia's cyber-attacks on Estonia and its use of gas supply cut-offs to intimidate Ukraine. Ten years of diplomatic resets and the result is Russia is exponentially more belligerent. Then, Russia's cyber-attacks shut down Estonia. Today, they undermine the integrity of the U.S. presidential elections. Then, Russia punished Ukraine for its pro-western policies with gas shut-offs. Today, in Russia's war against Ukraine, 10,000 have been killed and two million have been displaced.</ParaText>
               <ParaText id="4806644">Diplomatic engagement must include the strength of military conviction. Renewed Operation Unifier is a clear geopolitical deterrent to Russia's revanchist imperial intent.</ParaText>
               <ParaText id="4806645">We are proud of our 200 Canadian soldiers serving in Ukraine.</ParaText>
             </Content>
@@ -1314,7 +1280,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <Content>
               <ParaText id="4806652"> Mr. Speaker, today marks the Persian new year festival of Nowruz, which is celebrated by Persian, central Asian, Kurdish, and Ismaili Canadians. Nowruz has been celebrated since ancient times and serves as a testament to the longevity of the millennia-old Persian culture.</ParaText>
               <ParaText id="4806653">This is a wonderfully colourful occasion when community members come together to mark the first day of spring, an annual victory of the spirit of the sun over cold and darkness and a time when nature renews its vows with life.</ParaText>
-              <ParaText id="4806654">The ancient Persians saw this as a symbolic moment that in the constant struggle between good and evil in all dimensions, physical, emotional, moral, and spiritual, good will always prevail.</ParaText>
+              <ParaText id="4806654">The ancient Persians saw this as a symbolic moment that in the constant struggle between good and evil in all dimensions--physical, emotional, moral, and spiritual--good will always prevail.</ParaText>
               <ParaText id="4806655">I hope the community in <Affiliation DbId="213894" Type="2">Vancouver Quadra</Affiliation> and Canadians across the country enjoy their gatherings with family and friends around the haft seen and I wish them the greatest of blessings in the new year.</ParaText>
               <ParaText id="4806656">[<I>Member spoke in Persian as follows:</I>]</ParaText>
               <ParaText id="4806657">
@@ -1366,7 +1332,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214552" Type="2">Mr. John Barlow (Foothills, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806668">Mr. Speaker, I am proud to represent the riding of Foothills, the heart of cattle country where pioneers settled the west relying on work ethic, ingenuity, family, and horsemanship. I am proud to say that that character remains true in Alberta today. </ParaText>
+              <ParaText id="4806668">Mr. Speaker, I am proud to represent the riding of Foothills, the heart of cattle country where pioneers settled the west relying on work ethic, ingenuity, family, and horsemanship. I am proud to say that this character remains true in Alberta today. </ParaText>
               <ParaText id="4806669">Today I rise in the House to pay tribute to an incredible Albertan who epitomizes that character. A Foothills resident with determination and amazing skill has accomplished what no other Canadian has done before. Earlier this year, Millarville's John Swales made history when he was named the world’s greatest horseman.</ParaText>
               <ParaText id="4806670">Swales and his mount, Heza Diamond Spark, bested the top competitors on earth to earn the title of best in the world at the National Reined Cow Horse Association's Celebration of Champions in Fort Worth, Texas.</ParaText>
               <ParaText id="4806671">Albertans know what it takes to be a champion: heart, tenacity, and talent. John Swales is no exception. It is with great pride that I congratulate Alberta's renowned Swales family and, of course, John, on being the first Canadian ever to be named the greatest horseman in the world.</ParaText>
@@ -1418,8 +1384,8 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="213945" Type="2">Mr. Dean Allison (Niagara West, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806683">Mr. Speaker, I would like to bring the attention of the House and Canadians watching at home to the work of the GlobalMedic organization. GlobalMedic's mandate is to save lives by providing short-term, rapid response in the wake of disasters and crises both here at home and abroad. </ParaText>
-              <ParaText id="4806684">I actually participated in an event last December put on by GlobalMedic where we packed welcome to canada kits for newly arrived Syrian refugee families. I want to note that the executive director of GlobalMedic, Rahul Singh, also spent some time in Niagara working with our amazing EMS personnel. </ParaText>
+              <ParaText id="4806683">Mr. Speaker, I would like to bring the attention of the House and Canadians watching at home to the work of the GlobalMedic organization. GlobalMedic's mandate is to save lives by providing short-term, rapid response in the wake of disasters and crises, both here at home and abroad. </ParaText>
+              <ParaText id="4806684">I actually participated in an event last December put on by GlobalMedic where we packed “welcome to Canada” kits for newly arrived Syrian refugee families. I want to note that the executive director of GlobalMedic, Rahul Singh, also spent some time in Niagara working with our amazing EMS personnel. </ParaText>
               <ParaText id="4806685">GlobalMedic is now one of the top 10 finalists for Google.org's Impact Challenge contest. It is competing for a $750,000 Google grant. If successful, the GlobalMedic team would use the money to expand its innovative RescUAV program in disaster zones to help coordinate humanitarian responders and save lives. </ParaText>
               <ParaText id="4806686">I want to wish the GlobalMedic organization the best of luck in this challenge and great success in all of its future endeavours.</ParaText>
             </Content>
@@ -1434,7 +1400,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <Affiliation DbId="213948" Type="2">Mr. Ramesh Sangha (Brampton Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806687">Mr. Speaker, it gives me great pleasure to speak about the Holi festival. My colleagues and I recognize the importance of Holi every year on the Hill.</ParaText>
-              <ParaText id="4806688">Holi is a festival of colour and love. During the Holi festival, people are drenched in colours while playing Holi with each other. We will often hear the phrase, “Don't mind, because it is Holi”. Holi shows thanksgiving and the victory of good over evil. While some choose to worship for spiritual reasons, others have fun, loudly, through music, song, and dance. On that day, they forget their worries and pursue forgiveness. The end goal is sharing love and happiness with friends, family, and the community.</ParaText>
+              <ParaText id="4806688">Holi is a festival of colour and love. During the Holi festival, people are drenched in colours while playing Holi with each other. We will often hear the phrase, “Don't mind, because it is Holi.” Holi shows thanksgiving and the victory of good over evil. While some choose to worship for spiritual reasons, others have fun, loudly, through music, song, and dance. On that day, they forget their worries and pursue forgiveness. The end goal is sharing love and happiness with friends, family, and the community.</ParaText>
               <ParaText id="4806689">I wish my colleagues, family, and the community a colourful Holi.</ParaText>
             </Content>
           </Intervention>
@@ -1529,7 +1495,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <Affiliation DbId="214076" Type="2">Hon. Denis Paradis (Brome—Missisquoi, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806708">Mr. Speaker, as the chair of the Standing Committee on Official Languages, I wish everyone a wonderful International Day of La Francophonie.</ParaText>
-              <ParaText id="4806709">I would like to point out the importance of the Francophonie in Canada and the world. Canada is the second largest French-speaking member of the international Francophonie with almost 10 million Canadians who speak our beautiful and rich language in every province.</ParaText>
+              <ParaText id="4806709">I would like to point out the importance of the Francophonie in Canada and the world. Canada is the second-largest French-speaking member of the international Francophonie with almost 10 million Canadians who speak our beautiful and rich language in every province.</ParaText>
               <ParaText id="4806710">Yves Duteil said it so well in his song <I>La langue de chez nous</I>: </ParaText>
               <ParaText id="4806711">
                 <Poetry OriginalReceived="True">
@@ -1565,7 +1531,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
       <SubjectOfBusiness id="9428306">
         <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Budget</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="9428307">
             <PersonSpeaking>
@@ -1623,7 +1589,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428325">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Government Accountability</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Standing Orders of the House of Commons</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Bergen" id="9428324">
             <PersonSpeaking>
@@ -1806,7 +1772,12 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <ParaText id="4806770">People looking to invest in Canada also benefit from a very skilled and well-educated population. We will continue with our plan to invest in skills, innovation, and productivity in order to ensure that we can preserve and develop these advantages here in Canada. </ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9428533">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albas" id="9428380">
             <PersonSpeaking>
               <Affiliation DbId="214473" Type="2">Mr. Dan Albas (Central Okanagan—Similkameen—Nicola, CPC)</Affiliation>: </PersonSpeaking>
@@ -1844,6 +1815,11 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <ParaText id="4806777"> This government will continue to take a whole-of-government approach to ensure that we open up markets for 99% of businesses, which are small businesses. We will continue to work very hard for them. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9431567">
+        <SubjectOfBusinessTitle>Ethics</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Poilievre" id="9428391">
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
@@ -1864,6 +1840,11 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <ParaText id="4806785">Our focus is on middle-class Canadians, and we will continue to work for them.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9428623">
+        <SubjectOfBusinessTitle>Social Development</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Poilievre" id="9428395">
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
@@ -1923,7 +1904,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9429667">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Democratic Reform</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Standing Orders of the House of Commons</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Strahl" id="9428410">
             <PersonSpeaking>
@@ -1977,7 +1958,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214290" Type="2">Mr. Scott Reid (Lanark—Frontenac—Kingston, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806808">Mr. Speaker, less than two hours after the proposals and Standing Orders were made public, a Liberal MP put forward a motion to, one, force the Standing Committee on Procedure and House Affairs to treat the proposals as a single omnibus measure, and two, impose draconian deadlines in reporting back to the House, in other words, to impose closure.</ParaText>
+              <ParaText id="4806808">Mr. Speaker, less than two hours after the proposals and Standing Orders were made public, a Liberal MP put forward a motion to, one, force the Standing Committee on Procedure and House Affairs to treat the proposals as a single omnibus measure, and two, impose draconian deadlines in reporting back to the House--in other words, to impose closure.</ParaText>
               <ParaText id="4806809">It appears the Liberals are trying to ram through this motion at a secret in camera meeting planned for 11 a.m. tomorrow. My question is for the chair of the committee. Will the closure motion be scheduled for discussion at tomorrow's meeting, and will that meeting be held in camera or in public?</ParaText>
               <ParaText id="4806810">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
@@ -1996,7 +1977,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214491" Type="2">Hon. Larry Bagnell (Yukon, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806813">Mr. Speaker, the member is very experienced in committee operations and he knows that the committee itself makes those decisions.</ParaText>
+              <ParaText id="4806813">Mr. Speaker, the member is very experienced in committee operations and  knows that the committee itself makes those decisions.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2041,7 +2022,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214312" Type="4">Hon. Carolyn Bennett (Minister of Indigenous and Northern Affairs, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806821">Mr. Speaker, in fact, we are absolutely not blocking anything. We will be doing everything in our power to get it the information. The Native Women's Association, the AFN, ITK, and all of the organizations, are working in close collaboration with the commission, and the families will be heard.</ParaText>
+              <ParaText id="4806821">Mr. Speaker, in fact, we are absolutely not blocking anything. We will be doing everything in our power to get it the information. The Native Women's Association, the AFN, ITK, and all of the organizations are working in close collaboration with the commission, and the families will be heard.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2054,7 +2035,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214108" Type="2">Mr. Rémi Massé (Avignon—La Mitis—Matane—Matapédia, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806822">Mr. Speaker, since the start of 2017 our government has announced many drinking water and wastewater treatment projects.</ParaText>
+              <ParaText id="4806822">Mr. Speaker, since the start of 2017 our government has announced many drinking water and waste water treatment projects.</ParaText>
               <ParaText id="4806823">As a result of the bilateral agreement signed with Quebec last summer, I have announced 12 different projects in 10 municipalities in the Lower St. Lawrence worth more than $20 million. </ParaText>
               <ParaText id="4806824">Can the <Affiliation DbId="214314" Type="4">Minister of Infrastructure</Affiliation> provide us with details of the program?</ParaText>
             </Content>
@@ -2076,7 +2057,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel (Calgary Nose Hill, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806826">Mr. Speaker, we now know just how disastrous the Liberals' decision to cave to pressure from their corporate friends and lift the Mexican visa requirement actually was. Last month saw a 2500% increase in refugee claims from Mexico. The cost to taxpayers of false refugee claims from Mexico was why our Conservative government implemented the visa requirement in the first place. With so many people out of work, when will the Liberals reinstate the visa requirement?</ParaText>
+              <ParaText id="4806826">Mr. Speaker, we now know just how disastrous the Liberals' decision to cave to pressure from their corporate friends and lift the Mexican visa requirement actually was. Last month saw a 2500% increase in refugee claims from Mexico. The cost to taxpayers of false refugee claims from Mexico was  the reason our Conservative government implemented the visa requirement in the first place. With so many people out of work, when will the Liberals reinstate the visa requirement?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Hussen" id="9428449">
@@ -2091,7 +2072,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel (Calgary Nose Hill, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806828">Mr. Speaker, our government responsibly prevented taxpayers from paying a quarter of a billion dollars in false refugee claims. Therefore, with taxpayers on the hook for this giant increase in refugee claims and a flood of illegal migrants at the American border, the <Affiliation DbId="214300" Type="4">public safety minister</Affiliation>'s response last week was, “maybe we should line up the RCMP at the border, they should all link arms and shoo people away, or maybe [use] fire hoses or whatever..”. I am serious. When are the Liberals going to stop treating this like a joke?</ParaText>
+              <ParaText id="4806828">Mr. Speaker, our government responsibly prevented taxpayers from paying a quarter of a billion dollars in false refugee claims. Therefore, with taxpayers on the hook for this giant increase in refugee claims and a flood of illegal migrants at the American border, the <Affiliation DbId="214300" Type="4">public safety minister</Affiliation>'s response last week was, “Maybe we should line up the RCMP at the border, they should all link arms and shoo people away, or maybe [use] fire hoses or whatever...” I am serious. When are the Liberals going to stop treating this like a joke?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Hussen" id="9428454">
@@ -2099,7 +2080,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <Affiliation DbId="229219" Type="4">Hon. Ahmed Hussen (Minister of Immigration, Refugees and Citizenship, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806829">Mr. Speaker, if the member opposite and the party opposite are against a threefold increase in legitimate Mexican travellers to Canada, then they are welcome to express that sentiment.</ParaText>
-              <ParaText id="4806830">We are working very hard to strengthen and continue to expand on the strong bilateral relationship with Mexico, which was damaged considerably by the party opposite when it was in government. We have mechanisms in place, and we are working very closely with Mexican officials to address any risks related to the visa lift. We have already witnessed lasting economic benefits from the visa lift.</ParaText>
+              <ParaText id="4806830">We are working very hard to strengthen and continue to expand on the strong bilateral relationship with Mexico, which was damaged considerably by the party opposite when it was in government. We have mechanisms in place and we are working very closely with Mexican officials to address any risks related to the visa lift. We have already witnessed lasting economic benefits from the visa lift.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2111,7 +2092,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214192" Type="2">Hon. Peter Kent (Thornhill, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806831">Mr. Speaker, Canadians are still waiting for answers on the logic and manner of Stéphane Dion's extraordinarily clumsy diplomatic appointments. Canada's professional diplomats, past and present, at headquarters and abroad, are dismayed and discouraged. Mr. Dion's status in Brussels will diminish the rank and the authority of the ambassador in place. Mr. Dion's status with Germany, as a still uninvited special advisor, is a diplomatic faux pas. For a ministerial housecleaning so long in the works, why this diplomatic train wreck?</ParaText>
+              <ParaText id="4806831">Mr. Speaker, Canadians are still waiting for answers on the logic and manner of Stéphane Dion's extraordinarily clumsy diplomatic appointments. Canada's professional diplomats, past and present, at headquarters and abroad, are dismayed and discouraged. Mr. Dion's status in Brussels will diminish the rank and the authority of the ambassador in place. Mr. Dion's status with Germany, as a still uninvited special adviser, is a diplomatic faux pas. For a ministerial housecleaning so long in the works, why this diplomatic train wreck?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Freeland" id="9428458">
@@ -2127,7 +2108,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214192" Type="2">Hon. Peter Kent (Thornhill, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806835">Mr. Speaker, the bungling of Mr. Dion's diplomatic consolation prizes reflects badly, not only on the Liberal government, not only with the offended EU and German host countries, but the broader international community.</ParaText>
+              <ParaText id="4806835">Mr. Speaker, the bungling of Mr. Dion's diplomatic consolation prizes reflects badly not only on the Liberal government, not only with the offended EU and German host countries, but the broader international community.</ParaText>
               <ParaText id="4806836">What else have the Liberals forgotten to do? Are there loose ends as well with regard to Mr. Dion's dual citizenship?</ParaText>
             </Content>
           </Intervention>
@@ -2155,7 +2136,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214325" Type="4">Hon. Jim Carr (Minister of Natural Resources, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806840">Mr. Speaker, we realize how important the forestry sector is to Canada, all regions of the country. We have begun to have very good conversations with our counterparts in the provinces that might be affected by American action. We are certain that we will offer a coordinated way of protecting the jobs that are of interest not only to us but to the entire country.</ParaText>
+              <ParaText id="4806840">Mr. Speaker, we realize how important the forestry sector is to Canada, to all regions of the country. We have begun to have very good conversations with our counterparts in the provinces that might be affected by American action. We are certain that we will offer a coordinated way of protecting the jobs that are of interest not only to us but to the entire country.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2169,7 +2150,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214284" Type="2">Mr. Pierre Nantel (Longueuil—Saint-Hubert, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806841">Mr. Speaker, last week, the closure of the HMV stores led to the bankruptcy of the distributor DEP, which has put an abrupt stop to the marketing of Quebec artists. </ParaText>
+              <ParaText id="4806841">Mr. Speaker, last week the closure of the HMV stores led to the bankruptcy of the distributor DEP, which has put an abrupt stop to the marketing of Quebec artists. </ParaText>
               <ParaText id="4806842">From Vincent Vallières to the Montreal Symphony Orchestra and Florence K, DEP's bankruptcy seems to be the latest sign of the collapse of Quebec's recording industry and a new source of worry about Canadian content. </ParaText>
               <ParaText id="4806843">Canada must move swiftly to regulate all the new online providers, whether they are based in Montreal, Los Angeles, or some other tax haven.</ParaText>
               <ParaText id="4806844">Can the minister tell us what she has done to ensure that these new players contribute to our ecosystem and to the same tax system as everyone else?</ParaText>
@@ -2188,7 +2169,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428478">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Government Spending</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Gladu" id="9428477">
             <PersonSpeaking>
@@ -2206,14 +2187,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
               <ParaText id="4806851">This government has had unprecedented levels of public consultation to ensure that Canadians can interact and communicate with it. We will continue to listen to them and to respond to the very real challenges they are facing.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9428623">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>
-      
-    Government Spending</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="9428482">
             <PersonSpeaking>
               <Affiliation DbId="213974" Type="2">Mr. Jacques Gourde (Lévis—Lotbinière, CPC)</Affiliation>: </PersonSpeaking>
@@ -2234,7 +2208,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428544">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Democratic Reform</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Privy Council Office </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Motz" id="9428486">
             <PersonSpeaking>
@@ -2344,7 +2318,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428515">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>National Defence</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Public Services and Procurement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Paul-Hus" id="9428514">
             <PersonSpeaking>
@@ -2417,7 +2391,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214211" Type="2">Mr. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806893">Mr. Speaker, after shutting Quebec out by negotiating with the small provinces one at a time—the night of the long scalpels—and after resorting to predatory federalism, the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation> and her colleagues are patting each other on the back and saying, “Way to go, man, we got Quebec”.</ParaText>
+              <ParaText id="4806893">Mr. Speaker, after shutting Quebec out by negotiating with the small provinces one at a time—the night of the long scalpels—and after resorting to predatory federalism, the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation> and her colleagues are patting each other on the back and saying, “Way to go, man, we got Quebec.”</ParaText>
               <ParaText id="4806894">Instead of arrogantly giving high-fives, will the minister apologize to the patients of Quebec, who will be the first victims of the cuts to federal contributions?</ParaText>
             </Content>
           </Intervention>
@@ -2687,7 +2661,7 @@ The House resumed from March 10 consideration of Bill <Document DbId="8364795" T
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806936">Mr. Speaker, the following questions will be answered today: No. 797, 805, 812, 813, 819, 823, 826, and 828 to 830.</ParaText>
+              <ParaText id="4806936">Mr. Speaker, the following questions will be answered today: No. 797, 805, 812, 813, 819, 823 to 826, and 828 to 830.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
@@ -2818,6 +2792,47 @@ http://www.infrastructure.gc.ca/pd-dp/dthe-dfva/minister-ministre-eng.html.
               <ParaText id="4806973">he government is also establishing an interim board of directors to make recommendations on the creation of a national council for reconciliation consistent with call to action no. 53. The interim board will begin an engagement process to develop recommendations on the scope and mandate of the national council. The council will play an important role in advancing progress on the calls to action. </ParaText>
               <ParaText id="4806974">Timing for implementation will be determined through discussions with those impacted by each particular call to action.</ParaText>
               <ParaText id="4806975">More remains to be done, but the government is making real progress towards renewing our relationship with indigenous peoples.</ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <WrittenQuestionResponse>
+            <QuestionID>Question No. 824--</QuestionID>
+            <Questioner>
+              <Affiliation DbId="214534" Type="2">Mr. John Brassard</Affiliation>:</Questioner>
+            <QuestionContent>
+              <ParaText id="4824051"> With regard to Canada’s Innovation Agenda as published by the Minister of Innovation, Science and Economic Development and “innovation leaders” titled “Innovation for a Better Canada: What We Heard”: (<I>a</I>) what was the total cost incurred by the government for the production of this document; (<I>b</I>) what are the details of the compensation for each of the ten innovation leaders; and (<I>c</I>) what are the costs of the consultation process with the innovation leaders broken down by (i) travel, (ii) hospitality, (iii) meals and incidentals, (iv) lodging, (v) per diems, (vi) rental space for stake holder consultations?</ParaText>
+            </QuestionContent>
+            <Responder>
+              <Affiliation DbId="214319" Type="4">Hon. Navdeep Bains (Minister of Innovation, Science and Economic Development, Lib.)</Affiliation>: </Responder>
+            <ResponseContent>
+              <ParaText id="4824052">Mr. Speaker, the Government of Canada believes that Canada needs a bold, coordinated strategy on innovation that delivers results for all Canadians. As such, an engagement process that reflects the commitment to mobilize all Canadians to action and to foster innovation as a Canadian value was launched.</ParaText>
+              <ParaText id="4824053">The government invited all Canadians to share their ideas on cultivating a confident nation of innovators, one that is globally competitive in promoting research, accelerating business growth, and propelling entrepreneurs from the commercialization and start-up stages to international success.
+
+</ParaText>
+              <ParaText id="4824054">The government also brought together 10 innovation leaders from all walks of life. These are experienced and distinguished individuals who are acknowledged as innovators in their own right. They represented the private sector, universities and colleges, the not-for-profit sector, and included social entrepreneurs and businesses owned and operated by indigenous people.</ParaText>
+              <ParaText id="4824055">Over the summer, these innovation leaders hosted 28 round tables across Canada with key stakeholders,  as well as in Boston, United States, and Cambridge, United Kingdom, on the six action areas. These round tables brought stakeholders from a range of backgrounds, including academia, industry associations, not-for-profits, indigenous groups, youth organizations, and other levels of government.
+
+</ParaText>
+              <ParaText id="4824056">With regard to Canada’s innovation agenda as published by the Minister of Innovation, Science and Economic Development and innovation leaders entitled, “Innovation for a Better Canada: What We Heard”, please see the response below.</ParaText>
+              <ParaText id="4824057">With regard to part (a), the document was developed internally by Innovation, Science and Economic Development Canada. The total cost of $1,990.21 incurred by the government was for its translation. 
+</ParaText>
+              <ParaText id="4824058">With regard to part (b), the 10 innovation leaders were not compensated for this work. However, they were reimbursed for certain expenses.</ParaText>
+              <ParaText id="4824059">With regard to part (c)(i), the travel cost for the 10 innovation leaders for 26 round tables across Canada and the one round table in the United States was $10,613.99. There was one round table in the United Kingdom, but no cost was incurred. With regard to (c)(ii), the hospitality cost for 28 round tables was $10,391.64. With regard to (c)(iii), the meals and transportation cost for the 10 innovation leaders for 28 round tables was $306.22. With regard to (c)(iv), the lodging cost for the 10 innovation leaders for 28 round tables was $2,933.72. With regard to (c)(v), no additional per diems were provided to the 10 innovation leaders.With regard to (c)(vi), the total cost for rental spaces for 28 round tables was $6,185.35.
+</ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <WrittenQuestionResponse>
+            <QuestionID>Question No. 825--</QuestionID>
+            <Questioner>
+              <Affiliation DbId="214534" Type="2">Mr. John Brassard</Affiliation>:</Questioner>
+            <QuestionContent>
+              <ParaText id="4824060">  With regard to the Prime Minister and his conflict of interest screens: (<I>a</I>) what are the names of the businesses and organizations which are managed or run by friends or relatives of the Prime Minister, as described in Section 4 of the Conflict of Interest Act; (<I>b</I>) what are the names of businesses and organizations for which a screen involving the Prime Minister recusing himself from any related decisions have been established; (<I>c</I>) broken down by business or organization, when was any such screen established; and (<I>d</I>) who in the Prime Minister’s Office or the Privy Council Office is responsible for enforcing or implementing any such screens?</ParaText>
+            </QuestionContent>
+            <Responder>
+              <Affiliation DbId="229521" Type="18">Mr. Peter Schiefke (Parliamentary Secretary to the Prime Minister (Youth), Lib.)</Affiliation>: </Responder>
+            <ResponseContent>
+              <ParaText id="4824061">Mr. Speaker, with regard to the Prime Minister and his conflict of interest screens, the Prime Minister has demonstrated an unprecedented level of disclosure since becoming the leader of the Liberal Party and has filed all necessary disclosures with the Office of the Conflict of Interest and Ethics Commissioner and will always follow the commissioner’s guidance.
+
+</ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
           <WrittenQuestionResponse>
@@ -3312,7 +3327,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">If the appropriate Minister determines that a review would be injurious to national security, he or she must inform the Committee of his or her determination and the reasons for it.</QuotePara>
                 </LegislationQuote>
               </ParaText>
-              <ParaText id="4807104">In language that everyone can understand, that means that a minister can decide what the committee will study. I am not sure that that is what voters voted for on October 19, 2015.</ParaText>
+              <ParaText id="4807104">In language that everyone can understand, that means that a minister can decide what the committee will study. I am not sure that is what voters voted for on October 19, 2015.</ParaText>
               <ParaText id="4807105">In conclusion, I invite my Liberal colleagues and all members to assert their independence with respect to the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s cabinet and his staff. They already did so in the not too distant past when voting on Bill <Document DbId="8063160" Type="4">S-201</Document>. I believe that the members opposite are capable of doing it again if they can muster the courage.</ParaText>
               <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
               <ParaText id="4807106">I invite them to vote against Bill <Document DbId="8364795" Type="3">C-22</Document> and not to renege on the promise they made to their respective constituents in the last election campaign.</ParaText>
@@ -3386,8 +3401,8 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807124">Right now, the parliamentary committee, in an all-party way, is very effectively looking at our national security framework. A piece of the answer that we have seen in other jurisdictions and that has been talked about in many of the recommendations I spoke to earlier is the need to have a parliamentary committee made up of members of the House that would be able to follow information no matter where it goes. There may be a single incident involving intelligence that moves from the RCMP to the Canada Border Services Agency and that is also involved with immigration and many other agencies.</ParaText>
               <ParaText id="4807125">This new committee would have the power to look into all corners of security and intelligence. From the government's perspective, it was incredibly important to bring it in early and set it up. I am very encouraged that the bill is before the House, and I am anxious for this new committee to get to work.</ParaText>
               <ParaText id="4807126">Even before the committee saw this, experts rang in on the efficacy of what was proposed. Of course, we improved it, but it is a good idea to take a look at what some experts were saying about the state of the bill in its improvement, the leap forward that we made even prior to the amendments made at committee stage.</ParaText>
-              <ParaText id="4807127">Craig Forcese, a professor of law at the University of Ottawa and a renowned expert in this area, said, “this will be a stronger body than the U.K. and Australian equivalents, and a dramatic change for Canadian national-security accountability”. He went on to call it “a good bill” and gave it “a high pass”.</ParaText>
-              <ParaText id="4807128">His colleague Wesley Wark said, “I fully support Bill C-22”. He noted some improvements, but he basically issued a warning not to let perfect be the enemy of the good.</ParaText>
+              <ParaText id="4807127">Craig Forcese, a professor of law at the University of Ottawa and a renowned expert in this area, said this will be “a stronger body than the UK and Australian equivalents” and “a dramatic change for Canadian national-security accountability”. He went on to call it “a good bill” and gave it “a high pass.”</ParaText>
+              <ParaText id="4807128">His colleague Wesley Wark said, “I fully support Bill C-22.” He noted some improvements, but he basically issued a warning not to let perfect be the enemy of the good.</ParaText>
               <ParaText id="4807129">The Canadian Civil Liberties Association supported the bill, saying, “This new accountability mechanism is crucial”.</ParaText>
               <ParaText id="4807130">In the media, there were many positive comments. The <I>Toronto Star</I> said that this is “an important first step toward accountability” and that it “would provide an essential check” on the security establishment. That was before the committee made its recommendations.</ParaText>
               <ParaText id="4807131">In the Commonwealth, we have gone much further. This is particularly noteworthy given the fact that the testimony the committee heard from the United Kingdom, for example, was to go slowly at the beginning because the committee, as it establishes itself and its work, needs to earn the trust of both the Canadian public and the institutions it is reviewing.</ParaText>
@@ -3454,7 +3469,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807157">As the legislation stands now, the committee will meet the dual objectives we set long ago, which is to ensure our national security apparatus is working to keep Canadians safe and secure, while protecting the rights and freedoms of Canadians.</ParaText>
               <ParaText id="4807158"> When the bill was first introduced, it proposed a stronger committee than those that existed with many of our international allies. With amendments, the scope, authorities, and access we are proposing for the committee will be broadened even further. The government has indicated that it will accept most of these amendments.</ParaText>
               <ParaText id="4807159">With respect to scope, for example, we agreed with the committee that the committee must be empowered to review national security and intelligence operations. As amended, that will include the operation of crown corporations. Further, as amended, if the minister determines that the examination will be against national security, his or her power to delay it will be limited to the period of time during which the operation is under way. Afterward, the committee can review the operation.</ParaText>
-              <ParaText id="4807160">Another important amendment is whistle-blower protection that will require the committee to inform a minister and the attorney general about any national security or intelligence activity undertaken by a department that may not comply with the law. Like my colleagues, I was pleased that this amendment was widely endorsed. I also agree that the chair of the committee should be given a vote only in the case of a tie. I also agree with many of the changes regarding access to information exemptions for the bill initially proposed.</ParaText>
+              <ParaText id="4807160">Another important amendment is whistle-blower protection that will require the committee to inform a minister and the Attorney General about any national security or intelligence activity undertaken by a department that may not comply with the law. Like my colleagues, I was pleased that this amendment was widely endorsed. I also agree that the chair of the committee should be given a vote only in the case of a tie. I also agree with many of the changes regarding access to information exemptions for the bill initially proposed.</ParaText>
               <ParaText id="4807161">With the recent amendments, for example, the committee will now be able to receive information about ongoing defence intelligence activities that support military operations. It will also have access to relevant information collected by the Financial Transactions and Reports Analysis Centre of Canada and to privileged information under the Investment Canada Act.</ParaText>
               <ParaText id="4807162"> The government has also agreed to amend the legislation so that reasons must be given for any redaction. Indeed, the government has been open to reasonable amendments throughout the parliamentary process. </ParaText>
               <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
@@ -3596,7 +3611,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807213">Mr. Speaker, I am honoured to speak to Bill <Document DbId="8364795" Type="3">C-22</Document>, which is legislation that would establish a committee of parliamentarians to review our national security and intelligence activities.</ParaText>
               <ParaText id="4807214">This bill engages two areas of extraordinary importance to all Canadians: freedom and security. My constituents in Mississauga East—Cooksville, like all Canadians, are vitally concerned about their liberties and freedoms. They are also very conscious of the need for their security and the security of their fellow Canadians. </ParaText>
               <ParaText id="4807215">The debate in these areas is often set out in terms of a zero-sum game. Supposedly, increasing security means less freedom, or that as security decreases, freedom increases. Simply put, this is not true. While on some few occasions a trade-off or balance may be necessary, in reality, most of the time, freedom and security are entirely complementary ideals. There is no real long-term freedom without security. There is no real stable security without freedom. Freedom without security is a charade. Such freedom in a security vacuum is an empty concept. It is life inside a compound or a gated community living in constant fear. Likewise, security without freedom is life in a real or virtual prison cell. This is one of the reasons that I support this bill. It advances the mutually reinforcing goals of liberty and safety. </ParaText>
-              <ParaText id="4807216">The need for review in the areas of national security and intelligence is now broadly recognized. Sadly, one can see many examples of failures to provide security and failure to protect liberties both abroad and in Canada. Such reviews involving classified information are particularly challenging. The U.S. 9/11 Commission found, “Secrecy stifles oversight, accountability, and information sharing”. Challenging or not, effective reviews must be done. Literally, it is a matter of life and death. </ParaText>
+              <ParaText id="4807216">The need for review in the areas of national security and intelligence is now broadly recognized. Sadly, one can see many examples of failures to provide security and failure to protect liberties both abroad and in Canada. Such reviews involving classified information are particularly challenging. The U.S. 9/11 Commission found, “Secrecy stifles oversight, accountability, and information sharing.” Challenging or not, effective reviews must be done. Literally, it is a matter of life and death. </ParaText>
               <ParaText id="4807217">Accepting the need for such reviews, the real and productive debate is about the appropriate mechanisms for review. When we consider the appropriate mechanisms, we must recognize that this is a marked departure from our parliamentary system of government. National security and intelligence have traditionally been the exclusive preserve of the executive branch. A review system that works within our parliamentary form of government is required. </ParaText>
               <ParaText id="4807218">The first matter in this regard that one must consider is the very real problem of who is best placed to oversee these intelligence and security matters. It is the classic dilemma of who watches the watchers. Should the reviewers be experts? They have the experience and knowledge in such matters. Should the reviewers be independent outsiders, like parliamentarians? There are arguments supporting both positions. </ParaText>
               <ParaText id="4807219">Certainly, experts are used in Canada's other review bodies, being the Civilian Review and Complaints Commission for the RCMP, the Communications Security Establishment commissioner, and the Security Intelligence Review Committee. Parliamentarians are obviously independent. They do not necessarily start with the required expertise. However, if one uses experts, particularly in this somewhat closed subject area, one tends to get those who, through long association, might be considered too close to the agencies under review. This closeness can develop in complete good faith and despite genuine efforts to resist it. </ParaText>
@@ -3607,7 +3622,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807223">I note the review committee's mandate is not limited to simply protecting rights and ensuring legal compliance. The committee would be free to consider all matters, including those of effectiveness of subject organizations and even value for money, i.e., are we getting the security that we need commensurate with the resources we are expending. </ParaText>
               <ParaText id="4807224">I strongly support the composition of the committee as set out in clause 5. It nicely balances the interests of all major parties within this House and within the Senate. The inclusion of senators would provide for the possibility of some beneficial continuity for the committee. </ParaText>
               <ParaText id="4807225">This legislation in clause 8 would restrict the committee from reviewing ongoing matters if the relevant minister determines the review would be injurious to national security. This is an appropriate restriction recognizing the established responsibilities of the executive branch in our parliamentary form of democratic government. It is not hard to imagine the impracticalities and problems associated with such a review in the midst of an ongoing sensitive matter. The interference, distraction, and diversion of limited resources are only some of those potential problems. </ParaText>
-              <ParaText id="4807226">Some members might note that the provisions make clear that committee members must honour their commitment to confidentiality. These matters are dealt with in clauses 10 through 12. Sadly, parliamentarians have not been above the breach of these rules. In this regard, I remind the House that one of our colleagues, Fred Rose, a former member for Montreal—Cartier, was convicted in 1946 for conspiracy to pass on official secrets to a foreign power,<?bk?> i.e.,<?ek?> the Soviet Union. He was sentenced to six years in prison.</ParaText>
+              <ParaText id="4807226">Some members might note that the provisions make clear that committee members must honour their commitment to confidentiality. These matters are dealt with in clauses 10 through 12. Sadly, parliamentarians have not been above the breach of these rules. In this regard, I remind the House that one of our colleagues, Fred Rose, a former member for Montreal—Cartier, was convicted in 1946 for conspiracy to pass on official secrets to a foreign power,<?bk ?> i.e.,<?ek ?> the Soviet Union. He was sentenced to six years in prison.</ParaText>
               <ParaText id="4807227"> This legislation in clause 9 recognizes that there are other review bodies, albeit non-parliamentary, engaged in potentially related matters. Co-operation and de-conflicting are mandated and only sensible.</ParaText>
               <ParaText id="4807228"> This bill would provide the committee the broadest powers. Clause 13 says that the committee is “entitled to send for persons, papers and records, and to have access to any information”. Please note the words “any information”. The only information excluded is cabinet documents being confidences of the Queen's Privy Council. This slight restriction is entirely consistent with our parliamentary system of government. </ParaText>
               <ParaText id="4807229">We must recognize that this legislation is a novel approach for Canada. National security and intelligence have traditionally been matters strictly of the purview of the executive, of the cabinet. The proposed review committee would be the legislative branch's first foray into these two sensitive areas. This lack of precedent is not a reason not to proceed, but a reason to recognize the limits of what we can sensibly do, predict, and provide for. This is another reason to tread carefully. Most important, to provide a mechanism to make sure that we have acted appropriately, that mechanism is the five-year review mandated by clause 34.</ParaText>
@@ -3677,7 +3692,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807258">When the committee of parliamentarians tables its annual report to Parliament, it will be able to cite any instances where this authority has been used. In this way, we assure a degree of transparency that will enable Parliament and the Canadian public to hold the minister and the government to account. </ParaText>
               <ParaText id="4807259">One important aspect of the proposed committee of parliamentarians would be that the government would not have a majority of members on the committee. Indeed, as now agreed and amended, the chair would have a vote only in the case of a tie. By limiting the voting powers of the chair, we further ensure that the committee's work and findings will not be controlled by the government. </ParaText>
               <ParaText id="4807260">The amendments to clause 21 provide a further example of how the Standing Committee on Public Safety and National Security has ensured greater accountability in the legislation. Should the prime minister redact information contained in NSICOP's report, the new version of the report must be clearly identified as a revised version. On top of that, the extent of the revisions must be indicated, as well as the reasons for them.</ParaText>
-              <ParaText id="4807261">A new clause 31 requires NSICOP to inform the appropriate minister or the attorney general if, in its opinion, it finds any activity related to national security or intelligence carried out by a department that may not be in compliance with the law. This whistle-blower provision is a significant addition to the bill before us. I congratulate the standing committee for championing this provision. </ParaText>
+              <ParaText id="4807261">A new clause 31 requires NSICOP to inform the appropriate minister or the Attorney General if, in its opinion, it finds any activity related to national security or intelligence carried out by a department that may not be in compliance with the law. This whistle-blower provision is a significant addition to the bill before us. I congratulate the standing committee for championing this provision. </ParaText>
               <ParaText id="4807262">During committee stage, a wide range of witnesses shared the benefit of their experience and advice. The amendments before us today demonstrate that the committee listened to them and that the government also listened to the committee. Committee witnesses included leading professionals and academic experts, human rights advocates, and the heads of our existing national security and intelligence agencies. I thank them for their input.</ParaText>
               <ParaText id="4807263">There has been a consensus, I believe, that the bill would improve the accountability and effectiveness of Canada's national security and intelligence system. I urge all members to join me in supporting the bill. I am pleased that the government is supporting a majority of amendments that have come back from the standing committee.</ParaText>
             </Content>
@@ -3698,7 +3713,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <Content>
               <ParaText id="4807267">Mr. Speaker, I am sure the member knows this, and just misstated it. When Bill <Document DbId="6842344" Type="3">C-51</Document> was adopted, the Liberal Party was not in government. We were in opposition. It was a Conservative bill. </ParaText>
               <ParaText id="4807268">With respect to why subpoena powers are not being granted to the committee today, I can see pros and cons in both directions. It is always a balance between achieving national security and fundamental transparency and balancing fundamental freedoms. </ParaText>
-              <ParaText id="4807269">This is the first time in Canadian experience that we will have such a parliamentary committee, and we should all support it. It is a step forward. There will be a review within five years and we will can learn from the committee's experience during those five years. Perhaps subpoena power will be something that in the future, in that five year review, may indeed be introduced. I do not believe it is critical at this juncture. </ParaText>
+              <ParaText id="4807269">This is the first time in Canadian experience that we will have such a parliamentary committee, and we should all support it. It is a step forward. There will be a review within five years and we will can learn from the committee's experience during those five years. Perhaps subpoena power will be something that in the future, in that five-year review, may indeed be introduced. I do not believe it is critical at this juncture. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9430557">
@@ -3796,7 +3811,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807307">Mr. Speaker, I am pleased to rise during this report stage to continue our review of Bill <Document DbId="8364795" Type="3">C-22</Document>, which would create a committee of parliamentarians on national security matters.</ParaText>
               <ParaText id="4807308"> I am pleased to see that today this bill has not only been through committee scrutiny, but thanks to all of that work, the advice of experts, many stakeholders, and the voices of Canadians, we have landed on a version that balances all those concerns. We have agreed to an expanded mandate. We have agreed to remove certain exclusions to the unprecedented level of classified information that this committee will be able to access, and we have balanced concerns about ministerial powers of redaction and national security limitations with reasonable compromises. </ParaText>
               <ParaText id="4807309">As we have moved this significant legislation forward, much has been made about how Canada's committee will compare with counterparts in other Five Eyes countries. Indeed, Bill <Document DbId="8364795" Type="3">C-22</Document> would have favourably compared to them as initially introduced. However, this amended version will make it even stronger. If we look closely at another country with a Westminster system comparable to Canada's, for example, the United Kingdom, we see very interesting comparisons with parliamentary review of national security and intelligence. There, in particular, the balance between access to highly sensitive information and protection of national security is reflected in the U.K. Intelligence and Security Committee of Parliament.</ParaText>
-              <ParaText id="4807310">In the U.K. model, ministers may choose to withhold certain types of sensitive information, as long as the disclosure would be counter to the interests of national security. Specifically in the U.K., its Justice and Security Act states that if asked to disclose information, the government can withhold the information because it is “sensitive information” and that “in the interests of national security, should not be disclosed..”. </ParaText>
+              <ParaText id="4807310">In the U.K. model, ministers may choose to withhold certain types of sensitive information, as long as the disclosure would be counter to the interests of national security. Specifically in the U.K., its Justice and Security Act states that if asked to disclose information, the government can withhold the information because it is “sensitive information” and that “in the interests of national security, should not be disclosed..”</ParaText>
               <ParaText id="4807311">If we look to the Australian model, similarly, the government cannot be compelled to provide operationally sensitive information, including intelligence sources, operational methods, or foreign intelligence, if that information is deemed injurious to either national security or foreign relations. All international partners agree that access to information must be balanced with the need for safety of sources and the integrity of the national security framework, and that ongoing investigations should be free of political interference.</ParaText>
               <ParaText id="4807312">Under Bill <Document DbId="8364795" Type="3">C-22</Document>, Canada's committee would have a statutory right to access highly classified information in any department, any agency, and now, thanks to an amendment adopted by the Standing Committee on Public Safety and National Security, any crown corporation, making our committee an international leader in terms of information access. </ParaText>
               <ParaText id="4807313">To continue with comparisons, Canada's committee would also be in line administratively with other Westminster systems, for example, on security clearances. However, Canada's committee would go further still in the scope of its mandate, as its jurisdiction would not be limited to the main national security agencies. </ParaText>
@@ -4010,7 +4025,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <PersonSpeaking>
               <Affiliation DbId="214403" Type="2">Mrs. Alexandra Mendès</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4807397">Mr. Speaker, the member on this side has a good memory and recalls very clearly the ten years of Conservative government during which the infamous gag order was imposed on us at nearly every turn, and during which that committee never had a chance to see the light of day because the government refused to allow it. </ParaText>
+              <ParaText id="4807397">Mr. Speaker, the member on this side has a good memory and recalls very clearly the 10 years of Conservative government during which the infamous gag order was imposed on us at nearly every turn, and during which that committee never had a chance to see the light of day because the government refused to allow it. </ParaText>
               <ParaText id="4807398"> I really do not need any lectures from my opposition colleagues.</ParaText>
             </Content>
           </Intervention>
@@ -4084,7 +4099,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <PersonSpeaking>
               <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4807425">Mr. Speaker, I thank my hon. colleague from Saanich—Gulf Islands for that part. I am still examining her proposed deletion of clause 12, because I think that in our system of checks and balances, in order to afford parliamentarians that privilege of accessing this information, there do need to be some checks. However, I do not think that the government would accept that in any case. Therefore, one of the important amendments that my colleague from Victoria has moved is the deletion of clause 31. If the government rejects everything else, we hope at least that by deleting clause 31 in this bill we can allow that accountability to a Federal Court, because we know that certain federal judges are sworn to secrecy. They deal with very sensitive information on an ongoing operational basis, and sometimes they have to issue warrants with very sensitive information. We hope that, at the very least, by eliminating clause 31, we have that recourse for the courts to actually enforce some of the things the committee is trying to do.</ParaText>
+              <ParaText id="4807425">Mr. Speaker, I thank my hon. colleague from Saanich—Gulf Islands for that part. I am still examining her proposed deletion of clause 12, because I think that in our system of checks and balances, in order to afford parliamentarians that privilege of accessing this information, there do need to be some checks. However, I do not think that the government would accept that in any case. Therefore, one of the important amendments that my colleague from Victoria has moved is the deletion of clause 31. If the government rejects everything else, we hope at least that by deleting clause 31 in this bill we can allow that accountability to a federal court, because we know that certain federal judges are sworn to secrecy. They deal with very sensitive information on an ongoing operational basis, and sometimes they have to issue warrants with very sensitive information. We hope that, at the very least, by eliminating clause 31, we have that recourse for the courts to actually enforce some of the things the committee is trying to do.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. O'Connell" id="9431399">
@@ -4159,8 +4174,8 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807457">This committee will be a very important addition to our parliamentary landscape and will allow the following: extraordinary access to classified information in order to closely examine intelligence and security operations; increased scrutiny of national security and intelligence activities; a broader mandate than that of corresponding committees in other modern democracies; the ability to develop its own agenda completely independent from government; the duty to be accountable to Canadians by reporting annually to Parliament; and the power to examine activities across the entire federal government, including ongoing operations.</ParaText>
               <ParaText id="4807458">Under the current version of this legislation, the committee must meet the dual objectives we set in that regard at the outset: ensuring that our national security apparatus works properly in order to keep Canadians safe, while also protecting Canadians' rights and freedoms.</ParaText>
               <ParaText id="4807459">When this bill was first introduced, it proposed a more robust committee than those of many of our international allies. The amendments would further broaden the scope, powers, and access we are proposing for the committee, and the government indicated that it would accept most of those amendments.</ParaText>
-              <ParaText id="4807460">With respect to the scope, for example, we all agree that the committee must have the authority to examine all operations related to national security and intelligence. As amended, this would now include the activities of crown corporations. Furthermore, according to the amendments, if the minister were to determine that a study would be injurious to national security, his power to delay would be limited to the time during which the activity is underway. The committee could examine the activity afterwards.</ParaText>
-              <ParaText id="4807461">The provision concerning whistleblowers is another important amendment that would require the committee to inform a minister and the attorney general of any activity related to national security or intelligence undertaken by a department that may not be in accordance with the law. Like my colleagues, I am pleased to see that this amendment received broad support.</ParaText>
+              <ParaText id="4807460">With respect to the scope, for example, we all agree that the committee must have the authority to examine all operations related to national security and intelligence. As amended, this would now include the activities of crown corporations. Furthermore, according to the amendments, if the minister were to determine that a study would be injurious to national security, his power to delay would be limited to the time during which the activity is under way. The committee could examine the activity afterwards.</ParaText>
+              <ParaText id="4807461">The provision concerning whistle-blowers is another important amendment that would require the committee to inform a minister and the Attorney General of any activity related to national security or intelligence undertaken by a department that may not be in accordance with the law. Like my colleagues, I am pleased to see that this amendment received broad support.</ParaText>
               <ParaText id="4807462">I also agree that the committee chair should have a vote in the event of a tie. I also agree with the many changes regarding exemptions to access to information that the bill initially proposed. The recent amendments, for example, will allow the committee to receive information about activities under way, related to defence intelligence, in support of military activities.</ParaText>
               <ParaText id="4807463">The Committee will also have access to pertinent information collected by the Financial Transactions and Reports Analysis Centre of Canada and the information protected by the Investment Canada Act. The government also agreed to amend the bill so that the reason for any redaction is provided.</ParaText>
               <ParaText id="4807464">The government was open to reasonable amendments throughout the parliamentary process. Not only did we carry out a careful study of this vital bill, but we also benefited from many years of reflection on the creation of a committee, and a long collaboration with international partners.</ParaText>
@@ -4292,13 +4307,13 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
                 <B>The Deputy Speaker:</B> The recorded division on the motion stands deferred.</ParaText>
               <ProceduralText TocType="TPC" id="11">Division on Motion No. 2 deferred</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4807518">The question is on Motion No. 3. Is it the pleasure of the House to adopt the motion? </ParaText>
+              <ParaText id="4807518">The question is on the amendment to Motion No. 3. Is it the pleasure of the House to adopt the amendment? </ParaText>
               <ParaText id="4807519">
                 <B>Some hon. members:</B> Agreed. </ParaText>
               <ParaText id="4807520">
                 <B>Some hon. members:</B> No. </ParaText>
               <ParaText id="4807521">
-                <B>The Deputy Speaker:</B> All those in favour of the motion will please say yea. </ParaText>
+                <B>The Deputy Speaker:</B> All those in favour of the amendment will please say yea. </ParaText>
               <ParaText id="4807522">
                 <B>Some hon. members:</B> Yea. </ParaText>
               <ParaText id="4807523">
@@ -4312,7 +4327,8 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               </ParaText>
               <ProceduralText TocType="TPC" id="12">Division on Motion No. 3 deferred</ProceduralText>
               <ParaText id="4807527">
-                <B>The Deputy Speaker:</B> The recorded division on the motion stands deferred. </ParaText>
+                <B>The Deputy Speaker:</B> The recorded division on the amendment  stands deferred. </ParaText>
+              <ProceduralText TocType="TPC" id="13">Division on the amendment of Motion No. 3 deferred</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4807528">The question is on Motion No. 4. Is it the pleasure of the House to adopt the motion?</ParaText>
               <ParaText id="4807529">
@@ -4334,7 +4350,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               </ParaText>
               <ParaText id="4807537">
                 <B>The Deputy Speaker:</B> The division on Motion No. 4 stands deferred.</ParaText>
-              <ProceduralText TocType="TPC" id="13">Division on Motion No. 4 deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Division on Motion No. 4 deferred</ProceduralText>
               <Timestamp Hr="18" Mn="50">(1850)</Timestamp>
               <ParaText id="4807538">The question is on Motion No. 5. Is it the pleasure of the House to adopt the motion?</ParaText>
               <ParaText id="4807539">
@@ -4356,7 +4372,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               </ParaText>
               <ParaText id="4807547">
                 <B>The Deputy Speaker:</B> The recorded division on Motion No. 5 is stands deferred.</ParaText>
-              <ProceduralText TocType="TPC" id="14">Division on Motion No. 5 deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Division on Motion No. 5 deferred</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4807548">The question is on Motion No. 7. </ParaText>
               <ParaText id="4807549"> Is it the pleasure of the House to adopt the motion? </ParaText>
@@ -4379,7 +4395,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               </ParaText>
               <ParaText id="4807558">
                 <B>The Deputy Speaker:</B> The recorded division on the motion stands deferred.</ParaText>
-              <ProceduralText TocType="TPC" id="15">Division on Motion No. 7 deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="16">Division on Motion No. 7 deferred</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4807559">The House will now proceed to the taking of the deferred divisions at the report stage of this bill.</ParaText>
               <ParaText id="4807560">Call in the members.</ParaText>
@@ -4709,7 +4725,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807562">I declare Motion No. 1 carried.</ParaText>
-              <ProceduralText TocType="TPC" id="16">Motion No. 1 agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Motion No. 1 agreed to</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4807563">The next question is on Motion No. 2.</ParaText>
             </Content>
@@ -5039,7 +5055,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807565">I declare Motion No. 2 lost.</ParaText>
-              <ProceduralText TocType="TPC" id="17">Motion No. 2 negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="18">Motion No. 2 negatived</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4807566">The question is on the amendment to Motion No. 3.</ParaText>
             </Content>
@@ -5370,7 +5386,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807568">I declare the amendment to Motion No. 3 lost.</ParaText>
-              <ProceduralText TocType="TPC" id="18">Amendment to Motion No. 3 negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="19">Amendment to Motion No. 3 negatived</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4807569">The question is on Motion No. 3. A vote on this motion also applies to Motion No. 6. </ParaText>
               <ParaText id="4807570">Is it the pleasure of the House to adopt the motion? </ParaText>
@@ -5718,7 +5734,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807580">I declare Motion No. 3 carried. I therefore declare Motion No. 6 carried.</ParaText>
-              <ProceduralText TocType="TPC" id="19">Motion No. 3 agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Motion No. 3 agreed to</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4807581">The next question is on Motion No. 4.</ParaText>
             </Content>
@@ -6048,7 +6064,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807583">I declare Motion No. 4 carried.</ParaText>
-              <ProceduralText TocType="TPC" id="20">Motion No. 4 agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="21">Motion No. 4 agreed to</ProceduralText>
               <ParaText id="4807584">The next question is on Motion No. 5.<Sup /></ParaText>
             </Content>
           </Intervention>
@@ -6378,7 +6394,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807586">I declare Motion No. 5 carried.</ParaText>
-              <ProceduralText TocType="TPC" id="21">Motion No. 5 agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Motion No. 5 agreed to</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4807587">The next question is on Motion No. 7.</ParaText>
             </Content>
@@ -6708,7 +6724,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807589">I declare Motion No. 7 lost.</ParaText>
-              <ProceduralText TocType="TPC" id="22">Motion No. 7 negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="23">Motion No. 7 negatived</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -6717,7 +6733,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="224672" Type="96">Hon. Bardish Chagger (Leader of the Government in the House of Commons and Minister of Small Business and Tourism, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="23">Bill C-22. Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="24">Bill C-22. Motion for concurrence</ProceduralText>
               <ParaText id="4807590"> moved that bill, as amended, be concurred in at report stage with further amendments.</ParaText>
             </Content>
           </Intervention>
@@ -6752,7 +6768,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
       <SubjectOfBusiness id="9431598">
         <Timestamp Hr="20" Mn="15">(2015)</Timestamp>
         <SubjectOfBusinessContent>
-          <ParaText id="4807601">(The House divided on the Motion, which was agreed to on the following division:)</ParaText>
+          <ParaText id="4807601">(The House divided on the motion, which was agreed to on the following division:)</ParaText>
           <Division id="9428112" DivisionNumber="221">
             <DivisionNumber>(Division No. 221)</DivisionNumber>
             <DivisionType vote-type="Yeas">
@@ -7071,7 +7087,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="24">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="25">Motion agreed to</ProceduralText>
               <ParaText id="4807602">I declare the motion carried.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4807603">Pursuant to order made on Thursday, March 9, 2017, the House shall now resolve itself into committee of the whole to consider Motion No. 12 under Government Business.<Sup /></ParaText>
@@ -7090,7 +7106,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Operation UNIFIER</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" id="25">(House in committee of the whole on Government Business No. 12, Mr. Anthony Rota in the chair) <Sup /></ProceduralText>
+          <ProceduralText TocType="TCC" id="26">(House in committee of the whole on Government Business No. 12, Mr. Anthony Rota in the chair) <Sup /></ProceduralText>
           <Intervention Type="Interjection" ToC="No" id="9431586" ToCText="Mr. Rota">
             <PersonSpeaking>
               <Affiliation DbId="214970" Type="96">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
@@ -7108,7 +7124,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="224669" Type="4">Hon. Bardish Chagger (Leader of the Government in the House of Commons, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="26">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="27">Motion</ProceduralText>
               <ParaText id="4807608"> moved: </ParaText>
               <ParaText id="4807609">
                 <Quote>
@@ -7194,9 +7210,9 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             </Content>
           </Intervention>
           <Timestamp Hr="20" Mn="40">(2040)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Rota" id="9431607">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Rota" id="9431607">
             <PersonSpeaking>
-              <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214972" Type="96">The Assistant Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807651">We have time for a brief question. </ParaText>
               <ParaText id="4807652">The hon. member for Saanich—Gulf Islands.</ParaText>
@@ -7214,7 +7230,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Rota" id="9431609">
             <PersonSpeaking>
-              <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214972" Type="96">The Assistant Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807657">In 45 seconds or less, if possible, the hon. <Affiliation DbId="229209" Type="4">Minister of Foreign Affairs</Affiliation>.</ParaText>
             </Content>
@@ -7450,7 +7466,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807734">Support for Ukraine is important to Canadians and in particular the Ukrainian Canadian community.</ParaText>
               <ParaText id="4807735"> On Thursday and Friday of last week, I took part in town hall meeting with the Ukrainian Canadian communities in Regina and in Winnipeg, hosted by the Ukrainian Canadian Congress. Leaving Ottawa to meet and speak with Ukrainian Canadians was very important to me. They follow and feel more than anyone else in our country the horrible conflict to which Ukraine is being subjected. During these community meetings, I spoke at length about Operation Unifier and Canada's unwavering support for Ukraine.</ParaText>
               <ParaText id="4807736">I also had the opportunity to respond to a wide range of questions, and one point I made clear was that this was not a partisan issue. All parties in the House agree that Canada will always stand shoulder to shoulder with Ukraine in the face of Russian aggression.</ParaText>
-              <ParaText id="4807737"> I heard first hand the gratitude that Ukrainian Canadians felt for the tremendous work of our troops on Operation Unifier.</ParaText>
+              <ParaText id="4807737"> I heard first-hand the gratitude that Ukrainian Canadians felt for the tremendous work of our troops on Operation Unifier.</ParaText>
               <ParaText id="4807738"> This time last year, I spent several days with our troops serving on Operation Unifier. I observed first hand the skills and determination our soldiers brought to this mission. I was extremely impressed with the level of training they were providing the Ukrainian armed forces. I was equally heartened by the passion the Ukrainian soldiers demonstrated in their training, and their appreciation for the experience and expertise our military trainers provided. All Canadians can be extremely proud of the work of our soldiers to defend our allies to help secure Ukraine, protect its sovereignty, and contribute to global stability.</ParaText>
               <ParaText id="4807739">Since the summer of 2015, 200 Canadian women and men stationed in Ukraine have trained more than 3,200 Ukrainian soldiers. The Canadian Armed Forces delivered over 90 training programs in that time. Their courses have covered everything from infantry to small team training to more specialized capabilities, such as explosive ordinance disposal, military policing, medical training, and modernized logistics. This invaluable training is building a knowledge base within the Ukrainian military, knowledge that is enabling the Ukrainian soldiers to take on greater responsibility for their country's sovereignty, security, and stability. The critical skills they have gained are strengthening the Ukrainian armed forces and reinforcing the strong bond that unites our countries.</ParaText>
               <ParaText id="4807740">I conveyed the pride of Canadians in these achievements to our service members during a town hall while I was in Ukraine last year. I thanked them for their professionalism and determination to advance democracy, human rights, and the rule of law. That appreciation was echoed by the Ukrainian leaders I met during my visit, the mayor and governor of Lviv as well as the Ukrainian defence minister, General Poltorak.</ParaText>
@@ -7473,7 +7489,8 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807756">Deepening our engagement with Canada's international partners and allies is important to this government. It was top of mind for Canadians during our defence policy consultations last year. As a result, we will see this important theme reflected throughout the forthcoming new defence policy. </ParaText>
               <ParaText id="4807757">I now welcome further discussion and debate on today's take note debate topic from all my hon. colleagues on both sides of the aisle.</ParaText>
               <Timestamp Hr="21" Mn="30">(2130)</Timestamp>
-              <ParaText />
+              <ParaText>
+              </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Bezan" id="9431672">
@@ -7482,7 +7499,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <Content>
               <ParaText id="4807758">Madam Chair, I congratulate the minister on extending the Conservative-initiated mission, Operation Unifier. </ParaText>
               <ParaText id="4807759">I know that the minister visited the troops last year. He invited me to accompany him, but unfortunately, I was ill and was not able to be there. It is something I hope he and I can do again in the near future.</ParaText>
-              <ParaText id="4807760">As everyone in this House always recognizes, our troops are second to none. Their skills and abilities, as the minister knows first hand, are easily transferrable, and our Canadian Armed Forces are always up to the job of helping those who want to better themselves and defend themselves, and in the case of Ukraine, who want to train to NATO standards. I thank the minister for extending this mission for the next two years.</ParaText>
+              <ParaText id="4807760">As everyone in this House always recognizes, our troops are second to none. Their skills and abilities, as the minister knows first-hand, are easily transferrable, and our Canadian Armed Forces are always up to the job of helping those who want to better themselves and defend themselves, and in the case of Ukraine, who want to train to NATO standards. I thank the minister for extending this mission for the next two years.</ParaText>
               <ParaText id="4807761">Ukraine has been asking the minister, as well as the government, to sign the Canada-Ukraine defence co-operation agreement so that we can take this relationship even beyond what it is in Operation Unifier by expanding exchanges of officers and bringing their trainers here so they can get even more involved in the Canadian institution and the military culture we have here, which really is, in my opinion, the leader in the NATO nations. Something Ukraine, of course, aspires to is having NATO membership at some point in the future. Of course, they have to train to the standard. They have to make sure that they have that ability.</ParaText>
               <ParaText id="4807762">Will the minister commit to signing that agreement? Will he also take a serious look at providing lethal weapons to the Ukrainian military to defend Ukrainian territory, as the government has done with the Kurdish Peshmerga in fighting ISIS?</ParaText>
             </Content>
@@ -7560,9 +7577,9 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="9431691" ToCText="Mrs. Hughes">
             <PersonSpeaking>
-              <Affiliation DbId="214906" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214906" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4807782">I just want to remind the member to address the questions to the chair and not to the speaker.</ParaText>
+              <ParaText id="4807782">I just want to remind the member to address the questions to the Chair and not to the speaker.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Ms. May (Saanich—Gulf Islands)" id="9431692">
@@ -7695,7 +7712,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807826">Madam Chair, I will be sharing my time with the member for <Affiliation DbId="213947" Type="2">Kildonan—St. Paul</Affiliation>.</ParaText>
               <ParaText id="4807827">Tonight we have heard in detail about Operation Unifier in support of our ally Ukraine. However, in my limited time, I would like to provide an historical and geopolitical context as to how this effort is the hard military front line of a global hybrid war against liberal democracy launched by President Putin.</ParaText>
               <ParaText id="4807828">Over 25 years ago, the Soviet totalitarian empire collapsed, and leading political thinkers declared that liberal democracy and free markets had won the Cold War. They pronounced the end of history and a great peace dividend to come. </ParaText>
-              <ParaText id="4807829">Meanwhile, in East Germany, KGB officer Vladimir Putin watched the collapse of the Berlin Wall and the expulsion of the Soviet army and KGB bases from East Germany and the Warsaw Pact countries with personal fury. Later, President Putin called the collapse of the Soviet Union the greatest calamity of the 20th century, not the Holocaust, the Holodomor, nor the two world wars, which cost 100 million lives.</ParaText>
+              <ParaText id="4807829">Meanwhile, in East Germany, KGB officer Vladimir Putin watched the collapse of the Berlin Wall and the expulsion of the Soviet army and KGB bases from East Germany and the Warsaw Pact countries with personal fury. Later, President Putin called the collapse of the Soviet Union the greatest calamity of the 20th century--not the Holocaust, the Holodomor, or the two world wars, which cost 100 million lives.</ParaText>
               <ParaText id="4807830"> Inside the KGB mind of Putin, World War II was a great victory, with the Kremlin's armies stationed on East German borders less than 600 kilometres from France. For agent Putin, the loss of this empire was an historic humiliation.</ParaText>
               <ParaText id="4807831">During the February 23, 2014 closing ceremonies of the Sochi Olympic Games in Russia, the world watched the pageantry in the stadium, including the ominous coming together of a giant hammer and sickle. In the west, most did not notice. As the son and grandson of refugees who escaped the horrors of the Soviet Union, I felt a foreboding. I called family in Ukraine. The symbolism was not lost on anyone in central and eastern Europe. Four days later, on February 27, an unprepared west witnessed a geopolitical event in Crimea that changed our world order. Putin ordered the military invasion and annexation of Ukraine's Crimean peninsula on the false pretext of Russian ethnic grievances. This had not been seen in Europe since the 1930s and Sudetenland. It was the first act in Putin's plan to dismember and collapse the Ukrainian state, its revolution of dignity and democracy. This Russian military annexation violated the letter and spirit of every post-World War II treaty and agreement guaranteeing the integrity of international borders. Our rules-based international order, which has largely prevented territorial wars of expansion, has been jeopardized. Today no small state bordering Russia can feel secure.</ParaText>
               <ParaText id="4807832">Soon after the Russian invasion and annexation of Crimea, and the west's initially confused response, Russia invaded Donbass. Today, three years hence, the result is that there are over 10,000 dead, approximately two million internally displaced, and a frozen hot conflict within Europe. Weekly, we receive reports of more Russian tanks and artillery systems being moved into Ukraine. Daily, we read the front-line casualty figures. In fact, in the last 24 hours, four Ukrainian soldiers have been killed in action. </ParaText>
@@ -7708,7 +7725,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
           <Timestamp Hr="22" Mn="05">(2205)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9431723">
             <PersonSpeaking>
-              <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214906" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807837">I am sorry, the time is up. The member may be able to finish in questions and comments.</ParaText>
               <ParaText id="4807838">Questions and comments, the hon. member for Thornhill.</ParaText>
@@ -7757,7 +7774,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807850">I have had the fortunate experience to visit Ukraine three times: first, with my family, as our place of heritage on my maternal and paternal sides; second, as a business owner and scientist; and finally, last November, as Canada's minister of labour, to provide assistance in workplace safety, especially in the heavy industrial sector of mineral exploration. In addition, I took a tour of Chernobyl, the world's largest single nuclear disaster. </ParaText>
               <ParaText id="4807851">We are continuing to build our connections with Ukraine, not only military ones, but also economic and cultural ones. Today, we are talking about that military stand with the renewal of Operation Unifier. Very significantly on the other front is the fact that we have signed the Canada-Ukraine free trade agreement. It represents an important milestone in the Canada-Ukraine relationship and will bring greater prosperity, economic security, and economic independence to the Ukrainian people.</ParaText>
               <ParaText id="4807852">It has been three years since Russia's illegal annexation and invasion of Crimea. Ukraine's sovereignty and territorial integrity were violated. We were right to condemn it then, and we are right to continue to condemn it now. The occupation has led to distress, economic instability, and severe suppression of human rights. Canada has called on Russia to reverse this illegal and immoral decision. Ukrainians are tough and steadfast in their desire for a free, independent, democratic country.</ParaText>
-              <ParaText id="4807853"> My grandfathers and father emigrated from the villages of Senkiw and Bridok in Ukraine, and settled in southern Manitoba, in Arbakka and a little village called Senkiw after the one in the homeland with the first wave in 1896. For me as a second generation Canadian, my connection to Ukraine is strong. There are over 1.25 million Canadians who, like me, call themselves Ukrainian Canadians. We recognize the importance of continuing to partner with Ukraine and keeping our connection to the homeland alive generations down the road. This is why it gives me a great deal of pride to have had the opportunity to participate in sending 10 Canadian ambulances, five from my home province of Manitoba, to Ukraine. This was thanks to the Ukrainian Canadian Congress whose hard work keeps the connection between our two countries alive. </ParaText>
+              <ParaText id="4807853"> My grandfathers and father emigrated from the villages of Senkiw and Bridok in Ukraine, and settled in southern Manitoba, in Arbakka and a little village called Senkiw after the one in the homeland with the first wave in 1896. For me as a second-generation Canadian, my connection to Ukraine is strong. There are over 1.25 million Canadians who, like me, call themselves Ukrainian Canadians. We recognize the importance of continuing to partner with Ukraine and keeping our connection to the homeland alive generations down the road. This is why it gives me a great deal of pride to have had the opportunity to participate in sending 10 Canadian ambulances, five from my home province of Manitoba, to Ukraine. This was thanks to the Ukrainian Canadian Congress whose hard work keeps the connection between our two countries alive. </ParaText>
               <ParaText id="4807854">I must thank John Holuk and Myroslava Pidhirnyj of the UCC whose hard work brought the ambulances and medical kits to the people who need it most at the front line and in health service centres. These ambulances are a reminder that Ukrainians are still working hard to reach the same freedoms and standard of living that we enjoy in Canada, but they cannot do it alone. Sometimes they need ambulances; other times they need training and supplies. This is why we are proud to continue Operation Unifier standing at the forefront of the international community's response to the crisis. Operation Unifier gives us the chance to partner our military expertise, delivering military training and capacity building. </ParaText>
               <ParaText id="4807855">Canada's continued engagement in Ukraine demonstrates our reliability as a defence partner and our commitment to European security while we are enabling Ukrainian forces to defend their country's sovereignty and contribute to regional international stability. Canada's support is not limited only to the military assistance. It is much broader and includes policing, financial, developmental, and humanitarian supports.</ParaText>
               <ParaText id="4807856">We look forward to working with our partner, Ukraine, in the future.</ParaText>
@@ -7833,7 +7850,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="213940" Type="2">Mrs. Cheryl Gallant</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807883">Madam Chair, it is really important to have a seamless transition so that when military personnel are injured, be it in training at home or in helping in training train overseas, they know that if something happens to them, they will be taken care of, and if they cannot meet the universality of service, they will have the proper pension in place without having to fight another fight for it.</ParaText>
-              <ParaText id="4807884">My colleague mentioned earlier what is needed over there. In June 2014, there was a Canadian NATO Parliamentary Association meeting in Vilnius. Soldiers from the front were parliamentarians. Olekas was leading the delegation. He was on crutches, because he had been injured. I still have his list today, and it sounds like he is still asking for more of the same. He says they do not need advice. What they need are helmets and body armour. Our troops have the wonderful Pacific Safety Products fragmentation protective vests, but they are using pieces of tin. I hope we will provide them with what is needed where we can.</ParaText>
+              <ParaText id="4807884">My colleague mentioned earlier what is needed over there. In June 2014, there was a Canadian NATO Parliamentary Association meeting in Vilnius. Soldiers from the front were parliamentarians. Oleh Osukhvskyi was leading the delegation. He was on crutches, because he had been injured. I still have his list today, and it sounds like he is still asking for more of the same. He says they do not need advice. What they need are helmets and body armour. Our troops have the wonderful Pacific Safety Products fragmentation protective vests, but they are using pieces of tin. I hope we will provide them with what is needed where we can.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="22" Mn="30">(2230)</Timestamp>
@@ -8010,7 +8027,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4807937">To assist Ukraine in driving its ambitious reform efforts forward, Canada helped the Government of Ukraine develop key reform plans, following the revolution of dignity, including constitutional, electoral, judicial, social policy, and health plans, under the rubric of the multinational joint commission. In addition, Canada deployed 80 technical experts to key government ministries to support the implementation of these reforms, and is continuing to provide this technical assistance as specific needs are identified.</ParaText>
               <ParaText id="4807938"> For example, recognizing the risk that corruption poses to the overall progress of reforms, economic growth, and security in the country, Canada played a key role in advancing political finance legislation, which contributed to the establishment of the national agency for the prevention of corruption and the national anti-corruption bureau of Ukraine, two critical anti-corruption institutions. </ParaText>
               <ParaText id="4807939">Now, let us talk about media. Given the critical importance of independent and quality media for a successful democratic society, Canada supported the development of investigative journalism, which has already resulted in the dismissal of a dozen high-level bureaucrats involved in cases of alleged corruption. We also continue to build the capacity of media to resolve important policy issues, particularly related to Ukraine's conflict-affected population, promoting social cohesion, and tolerance. Canada has also helped institutionalize gender policies in targeted media outlets, which directly correlates to 100% of content being free of gender stereotypes and discrimination. </ParaText>
-              <ParaText id="4807940">Having witnessed a significant surge in women's activism and civic movement during the revolution of dignity and women's response to the conflict in the east, including in volunteer combat roles, Canada emphasizes the importance of gender equality and women's empowerment for Ukraine's economic and social development. For instance, a past report from the Organisation for Economic Cooperation and Development in Europe listed Canada as the fourth largest donor to gender equality and women's empowerment, with Ukraine being one of the top 10 recipients of Canada's gender equality focused aid.</ParaText>
+              <ParaText id="4807940">Having witnessed a significant surge in women's activism and civic movement during the revolution of dignity and women's response to the conflict in the east, including in volunteer combat roles, Canada emphasizes the importance of gender equality and women's empowerment for Ukraine's economic and social development. For instance, a past report from the Organisation for Economic Co-operation and Development in Europe listed Canada as the fourth largest donor to gender equality and women's empowerment, with Ukraine being one of the top 10 recipients of Canada's gender equality focused aid.</ParaText>
               <ParaText id="4807941"> Canada has also strengthened women's political participation by improving the electoral environment and political party development, including through the women's leadership academy. </ParaText>
               <ParaText id="4807942">More than 65% of the participants trained by Canada applied its newly acquired knowledge during the October 2015 local elections, by running for local office or by working on local election campaigns. </ParaText>
               <ParaText id="4807943">Canada also promotes the growth of small and medium-sized enterprises, including through the Canada-Ukraine free trade agreement, ratified by the Ukrainian parliament in March of 2017. Canada's development assistance strengthens the capacity of small and medium-sized enterprises in Ukraine to be able to take advantage of increased trade flows between Canada and Ukraine, and the European Union. Small and medium-sized enterprises were severely affected by the war with Russia. They are less resilient than larger companies and therefore are in need of assistance to transition to the European and Canadian markets. </ParaText>
@@ -8295,7 +8312,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <Content>
               <ParaText id="4808038">Mr. Chair, we have been discussing Operation UNIFIER for more than three hours. The government has not yet brought anything new to the table. It merely repeats what was put in place from the beginning of the mission by the Conservative government. The $600 million or $700 million was allocated by the former government.</ParaText>
               <ParaText id="4808039">On February 23, my colleagues, the Conservative opposition critics for national defence and foreign affairs, issued a statement with eight very legitimate demands about strengthening Operation UNIFIER. We have been discussing them for three hours and presenting various elements. However, the members opposite have provided no response other than their government will continue with the same mission without an additional force.</ParaText>
-              <ParaText id="4808040">Could my colleague tell me what he thinks of the Conservative opposition's demands? Is the call to again provide RADARSAT imagery useless? I heard one member say that Ukraine is saying that it is totally useless even though we know that that is not true. For example, does he agree that we should toughen our stance on the Minsk agreement because we know that there have been 3,099 violations? I want to know what he thinks of the opposition's demands. </ParaText>
+              <ParaText id="4808040">Could my colleague tell me what he thinks of the Conservative opposition's demands? Is the call to again provide RADARSAT imagery useless? I heard one member say that Ukraine is saying that it is totally useless even though we know that is not true. For example, does he agree that we should toughen our stance on the Minsk agreement because we know that there have been 3,099 violations? I want to know what he thinks of the opposition's demands. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -8476,7 +8493,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <ParaText id="4808114">Fourth, our military police trained more than 240 of their Ukrainian counterparts in basic investigative techniques and the use of force.</ParaText>
               <ParaText id="4808115">Using both classroom theory and practical exercises, participants covered all the duties and responsibilities typically assigned to a field military police platoon, from controlling traffic and handling detainees, to policing in failed and failing states.</ParaText>
               <ParaText id="4808116">Our women and men in uniform are helping the Ukrainian Armed Forces better defend their borders. I am proud the government has ensured that Canada will continue this critical work. As part of our whole-of-government support to our trainers and the people of Ukraine, Canada will provide up to $7.25 million in non-lethal equipment assistance, as well.</ParaText>
-              <ParaText id="4808117"> Since the crisis began, Canada has unequivocally condemned the Russian Federation’s clear violation of the territorial integrity of Ukraine. We have been clear, principled, and resolute in our response. And we will continue on that path. We will continue to stand by our Ukrainian allies as they work toward their goal of interoperability with NATO by 2020.</ParaText>
+              <ParaText id="4808117"> Since the crisis began, Canada has unequivocally condemned the Russian Federation’s clear violation of the territorial integrity of Ukraine. We have been clear, principled, and resolute in our respons, and we will continue on that path. We will continue to stand by our Ukrainian allies as they work toward their goal of interoperability with NATO by 2020.</ParaText>
               <ParaText id="4808118"> As we have heard tonight, the ongoing unrest in Ukraine has created instability in the region. It has raised concerns from many of our European allies. That is why, in the spirit of collective defence, we have taken measured and concrete steps to demonstrate our commitment to the defence of our allies.</ParaText>
               <Timestamp Hr="24" Mn="15">(2415)</Timestamp>
               <ParaText id="4808119"> Operation Unifier is just part of what we have done, and what we are doing, to support our allies and partners in eastern Europe. Over and above our activities in Ukraine, we are also having a direct impact in central and eastern Europe in support of our NATO allies.</ParaText>
@@ -8497,7 +8514,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="229484" Type="18">Mr. Jean Rioux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4808124">Mr. Chair, I am surprised by the question because until now, when we talked about RADARSAT-2 people wanted to know why it is no longer being used.</ParaText>
-              <ParaText id="4808125">I do not think it is an issue of capacity. It has more to do with need. First, the Government of Canada, through Global Affairs Canada, is engaged in ongoing secure discussions with the Government of Ukraine regarding Ukraine's security and defence needs. For a one year period ending in May 2016 and as a result of a request from the Ukrainian President, Canada shared satellite imagery products with Ukrainian authorities. </ParaText>
+              <ParaText id="4808125">I do not think it is an issue of capacity. It has more to do with need. First, the Government of Canada, through Global Affairs Canada, is engaged in ongoing secure discussions with the Government of Ukraine regarding Ukraine's security and defence needs. For a one-year period ending in May 2016 and as a result of a request from the Ukrainian President, Canada shared satellite imagery products with Ukrainian authorities. </ParaText>
               <ParaText id="4808126">Before doing so, Canada and Ukraine agreed on how the imagery would be used, namely to strengthen Ukraine’s awareness of threats to its sovereignty, stability and territorial integrity. After consideration on how best to address Ukraine’s evolving security assistance needs, and this is the answer to the question, it was decided that resources could be re-directed to other areas and the supply of satellite imagery ended. </ParaText>
               <ParaText id="4808127">Military assistance is one component of Canada’s support to Ukraine across development, security, democracy, and humanitarian aid. </ParaText>
             </Content>
@@ -8544,7 +8561,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
               <Affiliation DbId="214865" Type="96">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4808138">It being 12:22 a.m., pursuant to Standing Order 53.1, the committee will rise and I will leave the chair.</ParaText>
-              <ProceduralText TocType="TCC" id="27">(Government Business No. 12 reported)</ProceduralText>
+              <ProceduralText TocType="TCC" id="28">(Government Business No. 12 reported)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -8552,7 +8569,7 @@ The House resumed consideration of Bill <Document DbId="8364795" Type="3">C-22, 
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4808139">Accordingly, this House stands adjourned until later this day at <?bk?>10 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4808139">Accordingly, this House stands adjourned until later this day at <?bk ?>10 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4808140">(The House adjourned at 12:22 a.m.)</ParaText>
             </Content>
           </Intervention>

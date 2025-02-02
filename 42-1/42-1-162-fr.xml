@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9470715">
-  <StartPageNumber>10311</StartPageNumber>
+  <StartPageNumber>10309</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -128,7 +110,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828202">Monsieur le Président, je comprends parfaitement la préoccupation exprimée par le député d'en face dans sa question de privilège. Même si je suis sensible aux arguments présentés, sincèrement, je ne pense pas que le député soulève là une question de privilège et j'aimerais en dire plus sur ce qui me fait penser cela.</ParaText>
-              <ParaText id="4828203">Dans l'ouvrage <I>La Procédure et les usages de la Chambre des communes</I>, il est dit à la page 149:</ParaText>
+              <ParaText id="4828203">Dans l'ouvrage <I>La procédure et les usages de la Chambre des communes</I>, il est dit à la page 149:</ParaText>
               <ParaText id="4828204">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Si l’on adopte une motion portant ajournement du débat ou de la Chambre, le débat sur la motion de privilège reprend à la séance suivante. Toutefois, en cas de rejet de la question préalable ou d’adoption d’une motion demandant le retour à l’Ordre du jour, la motion de privilège est remplacée et rayée du <I>Feuilleton</I>.</QuotePara>
@@ -165,7 +147,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214060" Type="2">M. Matthew Dubé (Beloeil—Chambly, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828222">Monsieur le Président, j'invoque le règlement par rapport à la question de privilège.</ParaText>
+              <ParaText id="4828222">Monsieur le Président, j'invoque le Règlement par rapport à la question de privilège.</ParaText>
               <ParaText id="4828223">Je voudrais d'abord remercier mon...</ParaText>
             </Content>
           </Intervention>
@@ -270,7 +252,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828264">J'invite le député d'en face à consulter son bureau pour vérifier s'il y a effectivement une entente, car nous attendons de voir s'il y a un sentiment de coopération à l'égard de la question.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9470925">
+          <Intervention Type="Interjection" ToC="No" id="9470925">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -289,7 +271,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828269">Je crois qu'il est important de reconnaître qu'il existe une entente et je n'apprécie pas la remise en question des intentions des députés qui se trouvent de ce côté-ci de la Chambre par le <Affiliation DbId="229526" Type="18">secrétaire parlementaire de la leader du gouvernement à la Chambre des communes</Affiliation>, même si nous sommes à débattre de cette importante question. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9470928">
+          <Intervention Type="Interjection" ToC="No" id="9470928">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -300,12 +282,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214460" Type="2">L’hon. Candice Bergen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828271">Oui, monsieur le Président, à ce sujet, je veux simplement m'assurer de vous rappeler, ainsi qu'à tous les députés, que nous étions absolument d'accord, comme le mentionnait mon collègue du NPD, pour accorder notre consentement dès 10 heures pour que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> fasse une déclaration sur des questions de grande importance aujourd'hui. </ParaText>
+              <ParaText id="4828271">Monsieur le Président, à ce sujet, je veux simplement m'assurer de vous rappeler, ainsi qu'à tous les députés, que nous étions absolument d'accord, comme le mentionnait mon collègue du NPD, pour accorder notre consentement dès 10 heures pour que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> fasse une déclaration sur des questions de grande importance aujourd'hui. </ParaText>
               <ParaText id="4828272">Nous avons été très surpris de constater que le gouvernement ne présentait pas la motion. Nous croyions qu'il y avait consensus. Nous, les conservateurs, sommes prêts à appuyer cette motion. </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="50">(1050)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9470931">
+          <Intervention Type="Interjection" ToC="No" id="9470931">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -374,14 +356,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <CatchLine>Déclarations de députés</CatchLine>
       <SubjectOfBusiness id="9470981">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>
-      La galerie d'art, le musée et les archives de Peel</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La galerie d'art, le musée et les archives de Peel</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sidhu (Brampton-Sud)" id="9470982">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sidhu  (Brampton-Sud)" id="9470982">
             <PersonSpeaking>
               <Affiliation DbId="214161" Type="2">Mme Sonia Sidhu (Brampton-Sud, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828301">Monsieur le Président, je souhaite vous parler d'un endroit magnifique dans ma circonscription, Brampton-Sud. La galerie d'art, le musée et les archives de Peel, qu'on surnomme PAMA, est un endroit qui nous unit tous. J'ai pris part à des douzaines d'événements de la PAMA au fil des ans et je suis fière de la diversité qu'on y retrouve. </ParaText>
+              <ParaText id="4828301">Monsieur le Président, je souhaite vous parler d'un endroit magnifique dans ma circonscription, Brampton-Sud. La galerie d'art, le musée et les archives de Peel, qu'on surnomme la PAMA, est un endroit qui nous unit tous. J'ai pris part à des douzaines d'événements de la PAMA au fil des ans et je suis fière de la diversité qu'on y retrouve. </ParaText>
               <ParaText id="4828302">La PAMA organise un certain nombre d'événements qui rassemblent les gens de ma circonscription. Par exemple, elle a récemment présenté une exposition qui explorait la vie sur l'île de la Tortue. Chaque année, elle organise des événements dans le cadre du Mois de l'histoire des Noirs. Ce mois-ci, elle souligne le mois du patrimoine sikh avec des expositions historiques, dont une sur le voyage du <I>Komagata Maru</I> et la riche histoire des sikhs.</ParaText>
               <ParaText id="4828303">Je veux remercier l'équipe dévouée de la PAMA: Marty, Annemarie, Maureen, Chuck, le conseil consultatif, tous les artistes et tous les autres intervenants qui participent à ce beau travail. J'invite tout le monde dans ma circonscription pour visiter la PAMA et découvrir la magie de l'art et de l'histoire qui nous rassemble. </ParaText>
             </Content>
@@ -399,7 +380,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4828304">Monsieur le Président, c'est avec beaucoup de fierté que je félicite le président du Groupe Biscuits Leclerc, M. Denis Leclerc, pour l'acquisition d'une deuxième usine au Tennessee. Cet achat représente un investissement de plus de 50 millions de dollars. </ParaText>
               <ParaText id="4828305">La nouvelle acquisition permettra à cette entreprise familiale plus que centenaire, dont le siège social est à Saint-Augustin, dans Portneuf—Jacques-Cartier, d'augmenter son chiffre d'affaires de plus de 20 %. Le Groupe Biscuits Leclerc, qui a à coeur la santé des consommateurs, pourra, avec cette septième usine, continuer de produire d'excellents biscuits et barres collation. </ParaText>
-              <ParaText id="4828306">Un leader dans la production alimentaire en Amérique du Nord, le Groupe Biscuits Leclerc figure au palmarès des 50 compagnies les mieux gérées au Canada. Elle compte plus de 650 employés et ses produits sont distribués dans plus de 20 pays. Je souligne l'excellent travail de M. Denis Leclerc, de la quatrième génération et de toute son équipe, qui perpétuent les valeurs humaines du fondateur.</ParaText>
+              <ParaText id="4828306">Un leader dans la production alimentaire en Amérique du Nord, le Groupe Biscuits Leclerc figure au palmarès des 50 compagnies les mieux gérées au Canada. Elle compte plus de 650 employés et ses produits sont distribués dans plus de 20 pays. Je souligne l'excellent travail de M. Denis Leclerc, de la quatrième génération, et de toute son équipe, qui perpétuent les valeurs humaines du fondateur.</ParaText>
               <ParaText id="4828307">J'aimerais profiter de l'occasion pour féliciter le père de Denis, M. Jean-Robert Leclerc, soit le petit-fils du fondateur, et sa mère, Mme Suzanne Lajeunesse, qui fêtent cette année leur 60<Sup>e</Sup> anniversaire de mariage. Je leur offre mes plus sincères félicitations. Bravo! Cette entreprise fait la fierté des citoyens de Portneuf—Jacques-Cartier, des Québecois et de tous les Canadiens.</ParaText>
             </Content>
           </Intervention>
@@ -422,9 +403,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9470998">
-        <SubjectOfBusinessTitle>La crête de Vimy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La bataille de la crête de Vimy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9470999">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9470999">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -436,7 +417,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471003">
-        <SubjectOfBusinessTitle>PEI Burger Love</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La fête du hamburger à l'Île-du-Prince-Édouard</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Casey  (Charlottetown)" id="9471004">
             <PersonSpeaking>
@@ -466,7 +447,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471012">
-        <SubjectOfBusinessTitle>La crête de Vimy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La bataille de la crête de Vimy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Hardie" id="9471013">
             <PersonSpeaking>
@@ -504,7 +485,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4828329">Monsieur le Président, j'aimerais souligner les efforts colossaux des Canadiens qui ont participé à cette importante bataille de la Première Guerre mondiale et qui ont gravé à jamais la mémoire collective du pays, en plus de laisser un héritage inestimable pour le Canada.</ParaText>
               <ParaText id="4828330">En ces jours difficiles d'avril 1917, on se souviendra que la bataille de la crête de Vimy a débuté à 5 h 30, le lundi de Pâques 9 avril. Nous avons connu un succès inestimable, mais la victoire nous a coûté très cher avec un lourd bilan final de victimes pour notre pays. Sans eux, notre pays n'aurait pu se définir une nouvelle identité nationale et obtenir un plus grand poids sur l'échiquier international en apposant sa signature sur le traité de Versailles, qui a officiellement mis fin à la Première Guerre mondiale.</ParaText>
-              <ParaText id="4828331">Maintenant, le Mémorial national du Canada à Vimy surplombe le paysage champêtre maintenant paisible, et nous remercions les anciens combattants pour les sacrifices et les réalisations de tous ceux et celles qui ont servi et continuent de servir leur pays en temps de guerre et en temps de paix. </ParaText>
+              <ParaText id="4828331">Maintenant, le Mémorial national du Canada à Vimy surplombe le paysage champêtre maintenant paisible, et nous remercions les anciens combattants des sacrifices et des réalisations de tous ceux et celles qui ont servi et continuent de servir leur pays en temps de guerre et en temps de paix. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -516,7 +497,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828332">Monsieur le Président, du 23 au 29 avril, ce sera la Semaine de l'action bénévole. Des milliers de citoyens se dévouent dans ma région et je veux les remercier pour leur don de soi et leur altruisme dans le milieu.</ParaText>
+              <ParaText id="4828332">Monsieur le Président, du 23 au 29 avril, ce sera la Semaine de l'action bénévole. Des milliers de citoyens se dévouent dans ma région et je veux les remercier de leur don de soi et leur altruisme dans le milieu.</ParaText>
               <ParaText id="4828333">Samedi dernier, le lieutenant-gouverneur du Québec a procédé à la remise de médailles à 15 récipiendiaires de ma circonscription. J'étais présent pour témoigner ma reconnaissance envers ces jeunes et ces aînés qui font preuve d'un engagement communautaire soutenu.</ParaText>
               <ParaText id="4828334"> Au nom de tous mes concitoyens, je félicite Jacques Larivière et Thérèse Gobeil, de Nominingue; Marie-Andrée Clermont et Gilles Pilon, de Sainte-Anne-des-Lacs; Carmelle Huppé et Marguerite Paquette, de Saint-Sauveur; Lucie Lanthier, de ma ville natale, Sainte-Lucie; Viviane Courte-Rathwell, d'Arundel; Renée Deschênes-Dubé, de Mont-Laurier; Émilie Gauthier, de Mont-Tremblant; Simon Gratton-Laplante, de Mont-Laurier; Laurence Latour-Laitre, de Sainte-Marguerite-du-Lac-Masson; Catherine Mainville, de Lac-Saguay; Nicolas Gaudreau, de Saint-Sauveur; et Guiliana Desrochers, de Sainte-Anne-des-Lacs. </ParaText>
               <ParaText id="4828335">Les bénévoles sont indispensables au développement de nos communautés et on ne pourra jamais assez les remercier. </ParaText>
@@ -537,7 +518,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828337"> Jim Myles, qui a enseigné pendant plus de 30 ans à l'école secondaire de Fredericton, a reçu le Prix du premier ministre pour l'excellence dans l'enseignement en 1999.</ParaText>
               <ParaText id="4828338">Jim a dirigé les productions musicales de l'école secondaire de Fredericton pendant plus de 20 ans. Ses productions étaient réputées pour leur qualité exceptionnelle, leur inclusivité et l'esprit de camaraderie qu'elles suscitaient. Nombre de diplômés de l'école secondaire de Fredericton, moi y compris, citeront leur participation à ces productions comme l'événement le plus marquant de leurs études secondaires.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4828339">Jim a encadré de nombreux acteurs de Broadway et vedettes de la scène canadienne, notamment David Myles, son fils, et Measha Brueggergosman, gagnants du prix Juno. Jim organisait des voyages étudiants partout dans le monde. Il continuait à diriger des tournées internationales à sa retraite.</ParaText>
+              <ParaText id="4828339">Jim a encadré de nombreux acteurs de Broadway et des vedettes de la scène canadienne, notamment David Myles, son fils, et Measha Brueggergosman, gagnants d'un prix Juno. Jim organisait des voyages étudiants partout dans le monde. Il continuait à diriger des tournées internationales à sa retraite.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4828340">Nos pensées accompagnent son épouse, Carmel, sa soeur, Jane, ses frères, John et David, ses fils, Andrew, Jeremy, Sean et David, ainsi que ses nombreux petits-enfants, ses amis et les résidants de sa ville qu'il a profondément touchés.</ParaText>
             </Content>
@@ -606,7 +587,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828357">Monsieur le Président, il y a 100 ans, on était à la veille de l'offensive de la crête de Vimy. Afin de ne pas attirer l'attention de l'armée du Kaiser, des milliers de Canadiens s'étaient cachés dans des galeries souterraines avant le déclenchement de l'offensive. La préparation, la minutie et le courage des Canadiens ont permis le succès là où 100 000 Français avaient laissé leur vie, sans aucun résultat.</ParaText>
+              <ParaText id="4828357">Monsieur le Président, il y a 100 ans, on était à la veille de l'offensive de la crête de Vimy. Afin de ne pas attirer l'attention de l'armée du Kaiser, des milliers de Canadiens s'étaient cachés dans des galeries souterraines avant le déclenchement de l'offensive. La préparation, la minutie et le courage des Canadiens ont permis le succès là où 100 000 Français avaient laissé leur vie sans aucun résultat.</ParaText>
               <ParaText id="4828358">C'était la première fois que les quatre divisions canadiennes combattaient ensemble. Tout le pays était uni dans cette offensive. Le 22<Sup>e</Sup> Bataillon, du Québec, a participé à cette charge historique en nettoyant à la baïonnette les tranchées allemandes. Le Bataillon a capturé plus de 500 prisonniers et cinq mitrailleuses.</ParaText>
               <ParaText id="4828359">Si cette bataille fut historique pour le Canada, elle fut aussi un sacrifice ultime pour des milliers de familles. Des 100 000 Canadiens ayant participé à l'assaut, 10 600 furent blessés ou tués.</ParaText>
               <ParaText id="4828360">Nous avons un devoir de mémoire envers ces hommes qui ont tout sacrifié pour défendre la liberté. Ce dimanche, pensons un moment à ces héros. N'oublions jamais.</ParaText>
@@ -656,7 +637,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre (Carleton, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828367">Le Parti conservateur soutient, lui aussi, le geste des États-Unis, qui ont lancé des missiles contre le régime syrien à la suite des attaques chimiques que celui-ci avait menées contre ses propres citoyens, monsieur le Président.</ParaText>
+              <ParaText id="4828367">Monsieur le Président, le Parti conservateur soutient, lui aussi, le geste des États-Unis, qui ont lancé des missiles contre le régime syrien à la suite des attaques chimiques que celui-ci avait menées contre ses propres citoyens. </ParaText>
               <ParaText id="4828368">Signalons que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> affichait une position différente hier. Il a alors dit qu'on ne savait pas vraiment qui était responsable des attaques chimiques contres les civils syriens et que le Conseil de sécurité des Nations unies devait tenir une autre rencontre, pendant laquelle la fédération russe aurait un droit de veto. Quand le premier ministre abandonnera-t-il sa dangereuse naïveté et quand se décidera-t-il à confronter ce dictateur, ce tyran?</ParaText>
             </Content>
           </Intervention>
@@ -742,7 +723,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4828383">À l'ordre.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4828384">Je tiens à indiquer aux députés que, encore une fois, j'ai très bien entendu la question, mais j'ai eu du mal à entendre la réponse. Si vous le voulez bien, j'aimerais pouvoir entendre tout ce qui se dit.</ParaText>
+              <ParaText id="4828384">Je tiens à indiquer aux députés que, encore une fois, j'ai très bien entendu la question, mais que j'ai eu du mal à entendre la réponse. Si les députés le veulent bien, j'aimerais pouvoir entendre tout ce qui se dit.</ParaText>
               <ParaText id="4828385">Le député de Victoria a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -789,7 +770,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9471208">
         <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La justice</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La condition féminine</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Brosseau" id="9471089">
             <PersonSpeaking>
@@ -872,8 +853,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213937" Type="2">Mme Sylvie Boucher (Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828411">Monsieur le Président, quand le copinage des libéraux devient la norme, on peut se demander quand cela va arrêter. </ParaText>
-              <ParaText id="4828412">Nous avons appris dernièrement que l'ancien conseiller de la <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation>,  Peter Cleary, travaille maintenant pour Santis Health qui fait du lobbying auprès de la ministre. </ParaText>
-              <ParaText id="4828413">La ministre est-elle consciente qu'il y a conflit d'intérêts et peut-elle rassurer la Chambre que ses employés et elle-même ne seront pas rencontrés par Peter Cleary?</ParaText>
+              <ParaText id="4828412">Nous avons appris dernièrement que l'ancien conseiller de la <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation>,  Peter Cleary, travaille maintenant pour Santis Health, qui fait du lobbying auprès de la ministre. </ParaText>
+              <ParaText id="4828413">La ministre est-elle consciente qu'il y a conflit d'intérêts et peut-elle assurer la Chambre que ses employés et elle-même ne seront pas rencontrés par Peter Cleary?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lightbound" id="9471112">
@@ -967,7 +948,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214060" Type="2">M. Matthew Dubé (Beloeil—Chambly, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828428">Monsieur le Président, à la suite des révélations concernant des capteurs de données cellulaires cachés à Ottawa et à l'aéroport de Montréal, notamment, la GRC a admis utiliser ce genre d'appareils de surveillance de cellulaires. </ParaText>
-              <ParaText id="4828429">La GRC insiste sur le fait que toutes leurs activités d'espionnage sont entièrement conformes aux lois canadiennes. Pourtant, on entend parler de scandales liés aux journaliste mis sous écoute, de poursuites pour obtenir les sources et de surveillance de militants autochtones. </ParaText>
+              <ParaText id="4828429">La GRC insiste sur le fait que toutes leurs activités d'espionnage sont entièrement conformes aux lois canadiennes. Pourtant, on entend parler de scandales liés aux journalistes mis sous écoute, de poursuites pour obtenir les sources et de surveillance de militants autochtones. </ParaText>
               <ParaText id="4828430">Le gouvernement va-t-il assurer un véritable encadrement légal pour l'utilisation de ce genre d'appareils afin de protéger la vie privée des Canadiens?</ParaText>
             </Content>
           </Intervention>
@@ -1090,7 +1071,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471166">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les affaires autochtones</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Saganash" id="9471165">
             <PersonSpeaking>
@@ -1098,7 +1079,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4828455">Monsieur le Président, il y a près d'un mois, la sénatrice Beyak a tenu des propos ignobles au sujet des pensionnats autochtones. Maintenant, elle se plaint que sa liberté d'expression est menacée parce qu'elle fait des commentaires qui ne font pas l'unanimité. </ParaText>
               <ParaText id="4828456">Elle avait dit que les pensionnats étaient quelque chose de bien. Un génocide, ce ne sera jamais quelque chose de bien. Cette sénatrice a démontré qu'elle n'était pas digne de son siège au Sénat.</ParaText>
-              <ParaText id="4828457"> Est-ce que ce gouvernement se joint à moi pour demander la démission de la sénatrice Beyak ?</ParaText>
+              <ParaText id="4828457"> Est-ce que ce gouvernement se joint à moi pour demander la démission de la sénatrice Beyak?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bennett" id="9471168">
@@ -1106,15 +1087,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214312" Type="4">L'hon. Carolyn Bennett (ministre des Affaires autochtones et du Nord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828458">Monsieur le Président, les commentaires récurrents de la sénatrice concernant les pensionnats indiens sont mal informés, blessants et tout simplement faux. </ParaText>
-              <ParaText id="4828459">Ce qui est encore plus troublant est le fait qu'elle affirme n'avoir plus rien à apprendre. Son expulsion du Comité sénatorial permanent des peuples autochtones était la bonne chose à faire. Cependant, le leadership du Parti conservateur devrait démontrer son engagement par rapport à la réconciliation en excluant la sénatrice de son caucus.</ParaText>
+              <ParaText id="4828459">Ce qui est encore plus troublant est le fait qu'elle affirme n'avoir plus rien à apprendre. Son expulsion du Comité sénatorial permanent des peuples autochtones était la chose à faire. Cependant, le leadership du Parti conservateur devrait démontrer son engagement par rapport à la réconciliation en excluant la sénatrice de son caucus.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9471415">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cullen" id="9471170">
             <PersonSpeaking>
               <Affiliation DbId="214590" Type="2">M. Nathan Cullen (Skeena—Bulkley Valley, NPD)</Affiliation>: </PersonSpeaking>
@@ -1158,7 +1134,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471180">
-        <SubjectOfBusinessTitle>L'industrie de la pêche</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les pêches et les océans</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Doherty" id="9471179">
             <PersonSpeaking>
@@ -1177,7 +1153,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471343">
-        <SubjectOfBusinessTitle>L'industrie forestière</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le bois d'oeuvre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Doherty" id="9471185">
             <PersonSpeaking>
@@ -1248,7 +1224,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La défense nationale</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9471202">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9471202">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1287,7 +1263,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471366">
-        <SubjectOfBusinessTitle>La nomination des juges</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La justice</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cooper" id="9471213">
             <PersonSpeaking>
@@ -1309,8 +1285,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214472" Type="2">M. Bernard Généreux (Montmagny—L'Islet—Kamouraska—Rivière-du-Loup, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828497">Monsieur le Président, cette semaine, Me Clément Massé, bâtonnier du Barreau du Bas-Saint-Laurent-Gaspésie-Îles-de-la-Madeleine, a exprimé ses inquiétudes par rapport au manque d'effectifs à la Cour supérieure du Québec. Cette situation risque de s'aggraver au cours des prochaines semaines puisque le juge Landry, de la Gaspésie, va prendre sa retraite.</ParaText>
-              <ParaText id="4828498">Avec des délais judiciaires déjà inacceptables, la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation> peut-elle sortir de sa bulle d'Ottawa et de Vancouver et vite revoir son processus de sélection pour combler le vide dans nos régions, ou bien préfère-t-elle voir des criminels dangereux relâchés en raison de son incapacité d'agir, comme on l'a vu hier au Québec?</ParaText>
+              <ParaText id="4828497">Monsieur le Président, cette semaine, Me Clément Massé, bâtonnier du Barreau du Bas-Saint-Laurent-Gaspésie-Îles-de-la-Madeleine, a exprimé ses inquiétudes par rapport au manque d'effectifs à la Cour supérieure du Québec. Cette situation risque de s'aggraver au cours des prochaines semaines puisque le jug<Sup>e</Sup> Landry, de la Gaspésie, va prendre sa retraite.</ParaText>
+              <ParaText id="4828498">Ayant des délais judiciaires déjà inacceptables, la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation> peut-elle sortir de sa bulle d'Ottawa et de Vancouver et vite revoir son processus de sélection pour combler le vide dans nos régions, ou bien préfère-t-elle voir des criminels dangereux relâchés en raison de son incapacité d'agir, comme on l'a vu hier au Québec?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
@@ -1343,7 +1319,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4828502">Monsieur le Président, le gouvernement libéral ne peut plus se cacher derrière ses hauts fonctionnaires en ce qui concerne le fiasco du système de paie Phénix. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> lui-même a répété à plusieurs reprises qu'il voulait mettre fin aux problèmes du système dans les plus brefs délais. </ParaText>
               <ParaText id="4828503">Au nom de toutes les familles lésées par les ratés du système de paie, je demande que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> annule immédiatement l'octroi de bonis aux fonctionnaires qui se sont occupés de Phénix. </ParaText>
-              <ParaText id="4828504">Quand les libéraux vont-ils enfin assumer leurs responsabilités d'avoir mis en marche un système de paie qui n'était pas prêt? Quand vont-ils s'excuser auprès des contribuables et des familles canadiennes lésés par cette décision prise en février 2016?</ParaText>
+              <ParaText id="4828504">Quand les libéraux vont-ils enfin assumer leur responsabilité d'avoir mis en marche un système de paie qui n'était pas prêt? Quand vont-ils s'excuser auprès des contribuables et des familles canadiennes lésés par cette décision prise en février 2016?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. MacKinnon" id="9471228">
@@ -1354,13 +1330,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4828506">Je voudrais dire que nos pensées accompagnent la <Affiliation DbId="214324" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation>. Elle a fait de l'excellent travail dans ce dossier et a beaucoup aidé le gouvernement à mettre en oeuvre son programme. Je me joins à mes collègues pour lui faire nos meilleurs voeux. Nous avons hâte qu'elle soit de retour à sa place, dans cette enceinte, où elle mérite d'être.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4828507">Pour ce qui est de la question de l'honorable député, il sait que notre plus grande priorité est de faire en sorte d'avoir un système de paie à la hauteur de nos attentes, malgré le legs du parti d'en face. Nous avons fait en sorte que les hauts fonctionnaires responsables du système n'ont pas reçu de primes au rendement. </ParaText>
+              <ParaText id="4828507">Pour ce qui est de la question de l'honorable député, il sait que notre plus grande priorité est de faire en sorte d'avoir un système de paie à la hauteur de nos attentes, malgré le legs du parti d'en face. Nous avons fait en sorte que les hauts fonctionnaires responsables du système ne reçoivent pas de primes au rendement. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471255">
-        <SubjectOfBusinessTitle>L'industrie de la pêche</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les pêches et les océans</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Massé (Avignon—La Mitis—Matane—Matapédia)" id="9471253">
             <PersonSpeaking>
@@ -1453,7 +1429,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471277">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La société Marine Atlantique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le développement économique régional</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Pauzé" id="9471276">
             <PersonSpeaking>
@@ -1505,7 +1481,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214054" Type="2">Mme Monique Pauzé (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828538">Monsieur le Président, enfin, je vais revenir sur <I>The Story of Us</I>. Le « <I>Us</I> » ne représente clairement ni les Québécois, ni les Acadiens, ni les Premières Nations. </ParaText>
+              <ParaText id="4828538">Monsieur le Président, enfin, je vais revenir sur <I>Canada: The Story of Us</I>. Le « <I>Us</I> » ne représente clairement ni les Québécois, ni les Acadiens, ni les Premières Nations. </ParaText>
               <ParaText id="4828539">Deux des trois peuples fondateurs sont ignorés. Ce sont des acteurs mineurs dans ce documentaire ridicule et insultant qui s'adresse au Canada anglais et qui en fait le seul héros d'une histoire partiale et révisionniste.</ParaText>
               <ParaText id="4828540"> Est-ce que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va s'excuser de s'être associé à une série qui passe sous silence la déportation des Acadiens et qui fait des Français et des Premières Nations des acteurs mineurs de l'histoire que les anglophones préfèrent se raconter entre eux autres?</ParaText>
             </Content>
@@ -1587,7 +1563,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Les voies et moyens</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Avis de motion</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Etobicoke-Nord)" id="9471310">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Etobicoke-Nord)" id="9471310">
             <PersonSpeaking>
               <Affiliation DbId="214338" Type="4">L’hon. Kirsty Duncan (ministre des Sciences, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1642,12 +1618,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828571">En toute déférence, Monsieur le Président, je crois que l'importance de cette affaire le justifie.</ParaText>
+              <ParaText id="4828571">En toute déférence, monsieur le Président, je crois que l'importance de cette affaire le justifie.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Van Loan" id="9471322">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Loan" id="9471322">
             <PersonSpeaking>
-              <Affiliation DbId="213990" Type="2">L'hon. Peter Van Loan</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213990" Type="2">L'hon. Peter Van Loan (York—Simcoe, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828572">Monsieur le Président, très brièvement, j'invoque le Règlement. Vous avez raison. Cependant, le principe selon lequel une réponse doit être de la même longueur que le discours du ministre repose sur le principe que le gouvernement doit fournir d'avance aux membres de l'opposition qui prennent la parole une copie de son texte afin que ceux-ci puissent ajuster leur réponse en conséquence.</ParaText>
               <ParaText id="4828573">Bien que des notes aient été fournies, elles n'indiquaient que les sujets devant être abordés. Il manquait tout le texte en tant que tel. Je crois qu'il serait juste d'accorder une marge de manoeuvre au député compte tenu des circonstances difficiles dans lesquelles il a dû préparer sa réponse. </ParaText>
@@ -1657,7 +1633,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828574">Vous faites valoir un bon point. Le député a eu droit à quatre fois plus de temps que le ministre, mais je vais tout de même lui permettre de terminer sa réponse.</ParaText>
+              <ParaText id="4828574">Le député  fait valoir un bon point. Le député a eu droit à quatre fois plus de temps que le ministre, mais je vais tout de même lui permettre de terminer sa réponse.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -1685,7 +1661,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Rota" id="9471387">
             <PersonSpeaking>
-              <Affiliation DbId="214970" Type="96">M. Anthony Rota (Le vice-président adjoint, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828578">Le député a-t-il le consentement unanime de la Chambre pour continuer à parler?</ParaText>
               <ParaText id="4828579">
@@ -1762,7 +1738,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9471345">
         <SubjectOfBusinessTitle>Pétitions</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Le camionnage et les camionneurs</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le transport routier</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Brosseau" id="9471342">
             <PersonSpeaking>
@@ -1872,7 +1848,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828636">
                 <B>Une voix:</B> Cinq minutes? Cinq heures?</ParaText>
               <ParaText id="4828637">
-                <B>M. Scott Reid: </B> Non, ce ne serait vraiment pas aussi long.</ParaText>
+                <B>M. Scott Reid: </B> Non, ce ne serait vraiment pas aussi long, monsieur le Président.</ParaText>
               <ParaText id="4828638">En fait, j'ai déjà décrit le contexte. Je suis prêt à passer directement à la question de privilège. Je souhaitais présenter d'abord le contexte afin d'expliquer la pertinence de tout cela, un élément central dans les observations que nous avons entendues plus tôt.</ParaText>
               <ParaText id="4828639">Bref, voilà de quoi il sera question. Vous constaterez tout de suite que je ne donne qu'un survol rapide des renseignements à ma disposition.</ParaText>
               <ParaText id="4828640">Puis-je continuer et présenter mes principales observations, ou devons-nous d'abord traiter le recours au Règlement?</ParaText>
@@ -1940,7 +1916,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
               <ParaText id="4828661">C'est une règle de la Chambre, et celle-ci a fait ce qu'elle devait faire. Si le Règlement ne le leur permet pas explicitement, les comités ne peuvent pas contourner les pratiques établies. Le comité de la procédure et des affaires de la Chambre, dont je suis le membre le plus ancien, suit cette pratique depuis longtemps. Je suis membre du comité depuis plus d'une décennie, autant à titre de député de l'opposition que du gouvernement. Les questions de privilège ne sont jamais reléguées au second plan. On leur accorde toujours la priorité, ce qui s'avère parfois assez frustrant. Le comité n'a pas toujours le temps d'en terminer l'étude. Il y a actuellement une question de privilège en suspens; le comité s'y est intéressé et il a essentiellement décidé de ne pas poursuivre son étude. Quoi qu'il en soit, il est immédiatement saisi des questions de privilège.</ParaText>
               <ParaText id="4828662">L'amendement avait simplement pour but d'obliger le comité à accorder à cette question la priorité sur tous les autres travaux, selon les pratiques établies depuis longtemps. </ParaText>
-              <ParaText id="4828663">Pour étayer mon argument, voici ce qu'on peut lire à la page 175 du <I>Règlement annotée de la Chambre des communes</I>, dans le commentaire de l'article 48(1), qui porte sur les cas où il y a, à première vue, atteinte au privilège. Je cite:</ParaText>
+              <ParaText id="4828663">Pour étayer mon argument, voici ce qu'on peut lire à la page 175 du <I>Règlement annoté de la Chambre des communes</I>, dans le commentaire du paragraphe 48(1), qui porte sur les cas où il y a, à première vue, atteinte au privilège. Je cite:</ParaText>
               <ParaText id="4828664">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Si le Président estime que toutes les conditions sont réunies, il permet au député de présenter sa motion immédiatement (ou à la première occasion, lorsque la Chambre est déjà saisie d'une question); cette motion prévoit habituellement — mais pas toujours — que la question soit renvoyée pour étude et rapport au Comité permanent de la procédure et des affaires de la Chambre [...].</QuotePara>
@@ -1950,7 +1926,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828666">Toujours dans le Règlement annoté, on peut lire « après quoi le débat peut avoir lieu. Comme toute autre motion de fond, cette motion peut être modifiée ». Par conséquent, d'après ce passage, on peut juger acceptable, sur le plan de la procédure, l'amendement proposé par le député de Beauce, tout comme l'amendement ultérieur de reporter la question à plus tard. Dans cette mesure, ces deux amendements sont admissibles. Le Règlement annoté poursuit: « et elle reste prioritaire tant que la Chambre ne s'est pas prononcée ». La dernière partie est très importante.</ParaText>
               <ParaText id="4828667">Par conséquent, c'est la préséance de la motion de privilège qui est contestée dans la motion de la députée de <Affiliation DbId="214403" Type="2">Brossard—Saint-Lambert</Affiliation>.</ParaText>
               <ParaText id="4828668"> Dans les faits, le gouvernement a coupé court au débat précisément pour s'assurer que la priorité habituellement donnée aux questions de privilège en vertu du Règlement et du commentaire sur le Règlement que je viens de mentionner... Il ne fait aucun doute que cela a été fait expressément et délibérément.</ParaText>
-              <ParaText id="4828669">En guise de preuve, je vais citer le commentaire qu'a fait la députée de <Affiliation DbId="214403" Type="2">Brossard—Saint-Lambert</Affiliation> en présentant sa motion. Elle a dit: « [...] vous avez décidé ce matin qu'il y avait des motifs suffisants pour conclure qu'il y a de prime abord matière à question de privilège, et nous » — et je présume qu'elle veut dire le gouvernement — «  appuyons votre décision. » Puis, elle a ajouté:</ParaText>
+              <ParaText id="4828669">En guise de preuve, je vais citer le commentaire qu'a fait la députée de <Affiliation DbId="214403" Type="2">Brossard—Saint-Lambert</Affiliation> en présentant sa motion. Elle a dit: « vous avez décidé ce matin qu'il y avait des motifs suffisants pour conclure qu'il y a de prime abord matière à question de privilège, et nous » — et je présume qu'elle veut dire le gouvernement — «  appuyons votre décision. » Puis, elle a ajouté:</ParaText>
               <ParaText id="4828670">
                 <Quote>
                   <QuotePara IndentFirst="2" IndentRest="1">La Chambre a débattu de cette importante question aujourd'hui, et j'aimerais remercier tous les députés pour leurs importantes contributions à ce débat. J'aimerais toutefois attirer leur attention sur les conséquences de ce qu'ont fait les conservateurs en proposant cet amendement à leur propre motion. L'amendement vise essentiellement à demander au comité de la procédure et des affaires de la Chambre d'abandonner tous les autres dossiers actuellement à l'étude. Cet amendement est très inhabituel et vise un seul objectif, soit celui d'empêcher le comité de la procédure et des affaires de la Chambre de poursuivre le débat sur l'importante question de savoir comment nous pouvons moderniser la Chambre des communes. Les membres du comité espéraient pouvoir discuter de ces idées, et l'amendement proposé par les conservateurs vise à bloquer ces importants travaux.</QuotePara>
@@ -1994,7 +1970,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Reid" id="9471409">
             <PersonSpeaking>
-              <Affiliation DbId="214290" Type="2">M. Scott Reid</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214290" Type="2">Mr. Scott Reid</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828685">Monsieur le Président, vous pouvez voir que j'essaie sincèrement d'être bref au fait que je bondis sur mes pieds en même temps que vous dans l'espoir de pouvoir poursuivre, mais que je me rassieds aussitôt par respect pour la fonction que vous occupez.</ParaText>
               <ParaText id="4828686">Le <Affiliation DbId="229526" Type="18">secrétaire parlementaire de la leader du gouvernement à la Chambre</Affiliation> vient d'essayer de s'immiscer dans la discussion et de faire valoir un argument qui ressemble...</ParaText>
@@ -2053,9 +2029,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828704">Je voudrais confirmer que je comprends bien. La question de privilège porte sur le fait que deux députés n'ont pas pu se rendre à la Chambre à temps. Or, il est maintenant de nouveau question, si je ne m'abuse, du déroulement des travaux du comité de la procédure et des affaires de la Chambre. Est-ce exact? Je tente seulement de clarifier la situation.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Van Loan" id="9471418">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Loan" id="9471418">
             <PersonSpeaking>
-              <Affiliation DbId="213990" Type="2">L'hon. Peter Van Loan</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213990" Type="2">L'hon. Peter Van Loan (York—Simcoe, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4828705">Monsieur le Président, il est troublant que vous tiriez une telle conclusion après mon discours et celui du député de <Affiliation DbId="214434" Type="2">Perth—Wellington</Affiliation>.</ParaText>
               <ParaText id="4828706">Il a été clairement expliqué que le problème concerne le traitement réservé à la question de privilège en cause et le fait que le gouvernement tente maintenant de réécrire les règles relatives aux privilèges des députés, au moyen d'une motion présentée au comité. Le gouvernement a dit qu'il reconnaissait que la question de privilège doit être étudiée et que la décision du Président, hier, selon laquelle cette question paraissait fondée à première vue, serait traitée en conséquence, qu'elle serait respectée. C'est ce qui explique que le gouvernement a voté pour que la Chambre passe aux initiatives ministérielles: pour se débarrasser de la décision de la présidence d'hier. Voilà la question de privilège qui est en jeu. Nous sommes en présence d'une tentative de réécrire le Règlement et des traditions séculaires.</ParaText>
@@ -2297,7 +2273,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <ParaText id="4828792">La Chambre reprend l'étude, interrompue le 16 février, de la motion.</ParaText>
           <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney (North Island—Powell River)" id="9471474">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney  (North Island—Powell River)" id="9471474">
             <PersonSpeaking>
               <Affiliation DbId="214470" Type="2">Mme Rachel Blaney (North Island—Powell River, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2392,7 +2368,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214107" Type="2">M. Joël Godin (Portneuf—Jacques-Cartier, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828844">Monsieur le Président, en ce vendredi après-midi, il me fait plaisir d'être ici et de prendre la parole pour mentionner à mon collègue d'<Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation> que nous allons appuyer la motion <?bk?>M-102,<?ek?> qui se lit ainsi:</ParaText>
+              <ParaText id="4828844">Monsieur le Président, en ce vendredi après-midi, il me fait plaisir d'être ici et de prendre la parole pour mentionner à mon collègue d'<Affiliation DbId="214108" Type="2">Avignon—La Mitis—Matane—Matapédia</Affiliation> que nous allons appuyer la motion <?bk ?>M-102,<?ek ?> qui se lit ainsi:</ParaText>
               <ParaText id="4828845">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, de l’avis de la Chambre, le gouvernement devrait: <I>a</I>) adopter une réglementation en matière d’émissions de formaldéhyde provenant de produits composites à base de bois, à usage intérieur, vendus, offerts ou fournis pour la vente au Canada; <I>b</I>) faire en sorte que cette réglementation soit similaire à celle de la U.S. Environmental Protection Agency [l'agence américaine pour la protection de l'environnement], qui vise à assurer le respect des normes d’émission de formaldéhyde de la Toxic Substances Control Act Title VI [la loi américaine réglementant les substances toxiques], et ce, afin de protéger la santé des Canadiens qui utilisent ces produits.</QuotePara>
@@ -2441,7 +2417,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4828874">Cette réglementation, comme on le souhaite, doit s'aligner sur celle de la US Environnemental Protection Agency qui assure le respect des normes d'émission de formaldéhyde de la Toxic Substances Control Act Title VI, par le biais d'un processus de certification qui va établir des limites sur le taux de formaldéhyde contenu dans les produits composites à base de bois, vendus ou fournis pour la vente au Canada. Comme on le sait maintenant, la réglementation américaine entrera en vigueur à compter du 12 décembre 2017. </ParaText>
               <ParaText id="4828875">Le formaldéhyde est un gaz incolore qui s'infiltre dans l'air par émission gazeuse. Comme mon collègue le mentionnait tout à l'heure, les effets du formaldéhyde sur la santé sont connus et étudiés depuis de nombreuses années par Santé Canada qui les documente.</ParaText>
               <ParaText id="4828876"> Des concentrations élevées de formaldéhyde peuvent causer des irritations aux yeux, au nez, à la gorge et des problèmes respiratoires. Elles peuvent aussi aggraver les symptômes de l'asthme chez les enfants et les nourrissons et peuvent même causer le cancer. C'est pourquoi ce gaz a été déclaré comme toxique dans la Loi canadienne sur la protection de l'environnement en 1999. Le formaldéhyde est présent dans un très grand nombre de matériaux de construction fabriqués à base de panneaux composites, de plus en plus présents dans le quotidien des Canadiens. Le formaldéhyde provient principalement de la résine utilisée comme adhésif dans la fabrication de ces panneaux composites de bois et contreplaqués. </ParaText>
-              <ParaText id="4828877">Comme on le sait, Santé Canada a établi une ligne directrice générale sur la qualité de l'air intérieur dans les maisons. Bien qu'il existe aussi une norme sur les émissions de formaldéhyde provenant des panneaux composites et contreplaqués, la norme <?bk?>CAN/CSA-0160<?ek?> est à caractère volontaire. Par conséquent, son application n'est pas normalisée. Il n'est évidemment pas nécessaire et impératif de la respecter, contrairement à des lois ou à des règlements. </ParaText>
+              <ParaText id="4828877">Comme on le sait, Santé Canada a établi une ligne directrice générale sur la qualité de l'air intérieur dans les maisons. Bien qu'il existe aussi une norme sur les émissions de formaldéhyde provenant des panneaux composites et contreplaqués, la norme <?bk ?>CAN/CSA-0160<?ek ?> est à caractère volontaire. Par conséquent, son application n'est pas normalisée. Il n'est évidemment pas nécessaire et impératif de la respecter, contrairement à des lois ou à des règlements. </ParaText>
               <ParaText id="4828878">Par conséquent, la motion débattue aujourd'hui est essentielle et elle traite de problèmes qui ne sont pas résolus et qui ne feront qu'empirer, lorsque la réglementation américaine entrera en vigueur en décembre 2017. Cette motion vise non seulement à protéger la santé des Canadiens et des Canadiennes qui achètent et utilisent ces produits, mais elle nous permettra également de s'assurer que l'industrie de fabrication de panneaux composites demeure concurrentielle, et que les consommateurs qui achètent ces produits au Canada jouissent de la même qualité que ce qui est acheté présentement par les consommateurs américains.</ParaText>
               <ParaText id="4828879">Tout fabricant de composites de bois, qu'il soit américain ou étranger, qui désire vendre et offrir ses produits aux consommateurs américains aura jusqu'au 12 décembre 2017 pour se conformer à un programme de certification et aux exigences environnementales américaines. Avec cette réglementation, les Américains ont indiqué clairement aux fabricants de panneaux composites que la santé des Américains est leur priorité. Comme la majorité des fabricants canadiens de panneaux composites ont déjà investi dans leurs opérations, afin de se moderniser et de se préparer à l'entrée en vigueur des nouveaux standards américains, ils pourront continuer d'exporter leurs produits aux États-Unis et leurs opérations n'en subiront aucune conséquence. Par contre, certains fabricants étrangers, qui n'ont pas fait les investissements nécessaires, pourront chercher à liquider leurs produits au Canada, par exemple. </ParaText>
               <ParaText id="4828880">Avoir au Canada un processus de certification, similaire à celui des États-Unis, assurera une protection aux consommateurs canadiens en leur garantissant que les produits qu'ils achètent possèdent les plus hauts standards de qualité.</ParaText>
@@ -2455,11 +2431,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4828884">La Chambre est-elle prête à se prononcer?</ParaText>
-              <ParaText id="4828885">
-                <B>Des voix</B>: Le vote</ParaText>
-              <ParaText id="4828886">
-                <B>Le vice-président adjoint (M. Anthony Rota)</B>: Le vote porte sur la motion. Plaît-il à la Chambre d'adopter cette motion?</ParaText>
+              <ParaText id="4828886"> Le vote porte sur la motion. Plaît-il à la Chambre d'adopter cette motion?</ParaText>
               <ParaText id="4828887">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4828888">

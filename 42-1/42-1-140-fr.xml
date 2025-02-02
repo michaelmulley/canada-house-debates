@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9371114">
-  <StartPageNumber>8883</StartPageNumber>
+  <StartPageNumber>8879</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -571,9 +553,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Carrie" id="9371574">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Carrie" id="9371574">
             <PersonSpeaking>
-              <Affiliation DbId="214088" Type="2">M. Colin Carrie</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214088" Type="2">M. Colin Carrie (Oshawa, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4746816">Monsieur le Président, lorsque j'ai eu l'occasion d'intervenir au sujet du projet de loi <Document DbId="8689350" Type="3">C-37</Document>, j'ai clairement exprimé mon appui et celui des députés de ce côté-ci de la Chambre envers la plus grande partie du projet de loi. Sauver des vies et s'attaquer aux problèmes de la production, de l'importation et de la consommation de drogues dangereuses et mortelles doivent devenir une priorité.</ParaText>
               <ParaText id="4746817">Le projet de loi autorise l'Agence des services frontaliers du Canada, l'ASFC, à confisquer les presses à comprimés non enregistrées et à ouvrir les paquets suspects de moins de 30 grammes. Le projet de loi accorde également des pouvoirs accrus au <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation> pour assurer rapidement l'ajout temporaire de dangereuses drogues synthétiques à une annexe de la loi. Le projet de loi vise aussi à affaiblir gravement la Loi sur le respect des collectivités, dont on a dit qu'elle imposait aux demandeurs un fardeau ardu et des critères impossibles à satisfaire. Pourtant, pas plus tard que la semaine dernière, l'ouverture de trois centres d'injection à Montréal  — je répète, trois centres — a été approuvée sous l'ancienne loi. Je ne suis donc pas certain que les qualificatifs « ardu » et « impossible » soient les bons.</ParaText>
@@ -669,7 +651,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="229488" Type="18">M. Joël Lightbound (secrétaire parlementaire de la ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4746866">Monsieur le Président, j'aimerais remercier la députée de <Affiliation DbId="214382" Type="2">Saanich—Gulf Islands</Affiliation> pour son appui au projet de loi <Document DbId="8689350" Type="3">C-37</Document>, ainsi que pour ses efforts inlassables et ses activités de sensibilisation pour répondre à la crise des opioïdes au Canada.</ParaText>
+              <ParaText id="4746866">Monsieur le Président, j'aimerais remercier la députée de <Affiliation DbId="214382" Type="2">Saanich—Gulf Islands</Affiliation> de son appui au projet de loi <Document DbId="8689350" Type="3">C-37</Document>, ainsi que pour ses efforts inlassables et ses activités de sensibilisation pour répondre à la crise des opioïdes au Canada.</ParaText>
               <ParaText id="4746867">Elle soulève un argument intéressant. Notre but, bien sûr, est de trouver l'équilibre entre respecter la vie privée et réagir à la crise. J'aimerais souligner que la disposition, telle qu'énoncée dans le projet de loi C-37, permettrait aux agents des douanes d'ouvrir seulement le courrier international. Cette disposition se justifie par le fait que 2 milligrammes de fentanyl peuvent suffire à causer une surdose. Ainsi, un colis de 30 grammes pourrait contenir jusqu'à 15 000 doses fatales. C'est pourquoi nous avons ajouté cette disposition au projet de loi. Le but est de trouver l'équilibre, mais nous croyons qu'un colis de 30 grammes qui peut causer 15 000 surdoses représente un danger disproportionné. C'est pourquoi cette disposition existe.</ParaText>
             </Content>
           </Intervention>
@@ -795,7 +777,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4746923"> Curieusement, l’intervenant précédent a dit qu’il avait fallu 16 mois pour faire approuver trois centres d’injection supervisée à Montréal, et que c’était la faute du gouvernement conservateur précédent. Il est vrai que la demande en question a été traitée dans le cadre de la loi adoptée par les conservateurs en 2015, mais cela fait aussi à peu près 16 mois que le gouvernement libéral est au pouvoir. Il est donc mal placé pour mettre cette situation sur le dos du gouvernement précédent.</ParaText>
               <ParaText id="4746924"> Il y a précisément un an, les néo-démocrates ont demandé au gouvernement, ici même à la Chambre, de présenter sans tarder un projet de loi visant à abroger ou à modifier le projet de loi <Document DbId="6254806" Type="3">C-2</Document>, lequel rend pratiquement impossible l’ouverture de nouveaux centre de consommation supervisée. Qu’a répondu le gouvernement à ce moment-là ? Que cela ne lui semblait pas nécessaire.</ParaText>
               <ParaText id="4746925">La <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation> a déclaré publiquement que la loi en vigueur ne lui posait pas de problème, mais que, le cas échéant, elle prendrait des mesures. Elle a dit que les problèmes suscités par le projet de loi <Document DbId="6254806" Type="3">C-2</Document> étaient de nature administrative. Elle ne semblait pas comprendre que le problème fondamental de ce projet de loi, ce sont les 26 critères qui y sont énoncés. C’est curieux parce que la députée de <Affiliation DbId="214125" Type="2">Vancouver-Centre</Affiliation>, qui était la porte-parole libérale en matière de santé à l’époque où les conservateurs ont fait adopter leur projet de loi en 2015, l’avait pourtant bien démontré, tout comme les néo-démocrates. Elle avait dit clairement que le projet de loi C-2 qui avait été présenté par les conservateurs visait à interdire l’ouverture de nouveaux centres de consommation supervisée. Or, lorsque les libéraux sont arrivés au pouvoir, comme par enchantement, cette loi ne leur posait plus de problème.</ParaText>
-              <ParaText id="4746926">Pendant les 12 mois qui se sont écoulés avant qu’on décide de prendre le taureau par les cornes et de présenter le projet de loi <Document DbId="6254806" Type="3">C-37</Document>, qui simplifie la loi en vigueur, combien de Canadiens ont perdu la vie? Environ 2 000. Certes, tous ces décès n’auraient pas pu être évités, mais quand on sait que les centres de consommation supervisée contribuent à sauver des vies, il est évident qu’il vaut mieux les ouvrir le plus rapidement possible. Nous savons donc — c’est un fait avéré — que des Canadiens sont morts parce que le gouvernement a tardé à prendre les mesures qui s’imposaient.</ParaText>
+              <ParaText id="4746926">Pendant les 12 mois qui se sont écoulés avant qu’on décide de prendre le taureau par les cornes et de présenter le projet de loi <Document DbId="8689350" Type="3">C-37</Document>, qui simplifie la loi en vigueur, combien de Canadiens ont perdu la vie? Environ 2 000. Certes, tous ces décès n’auraient pas pu être évités, mais quand on sait que les centres de consommation supervisée contribuent à sauver des vies, il est évident qu’il vaut mieux les ouvrir le plus rapidement possible. Nous savons donc — c’est un fait avéré — que des Canadiens sont morts parce que le gouvernement a tardé à prendre les mesures qui s’imposaient.</ParaText>
               <ParaText id="4746927"> Le problème que posent les amendements des conservateurs, c'est que ceux-ci, malgré tout le respect que je leur dois, campent sur leur position idéologique et cherchent encore à faire retarder l’ouverture de nouveaux centres de consommation supervisée.</ParaText>
               <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
               <ParaText id="4746928">Je sais que la grande majorité des conservateurs sont contre les centres de consommation supervisée. S’ils ont présenté un projet de loi, c’est uniquement parce qu’ils se sont opposés au centre InSite jusqu’à la Cour suprême du Canada, mais que celle-ci a finalement statué, compte tenu de la preuve, que le gouvernement devait prévoir une exemption en vertu de l’article 56. C’est donc à contrecœur que les conservateurs ont présenté un projet de loi à cet effet, mais ils l’ont truffé de pilules empoisonnées, 26 très exactement. De cette façon, ils ont obtenu le résultat qu’ils recherchaient. À partir du moment où le projet de loi <Document DbId="6254806" Type="3">C-2</Document> a été présenté à la Chambre, aucun nouveau centre de consommation supervisée n’a été autorisé au Canada. Ce n’est donc pas une coïncidence.</ParaText>
@@ -1325,7 +1307,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4747156">Je veux parler brièvement de la chronologie du projet de loi <Document DbId="8689350" Type="3">C-37</Document>. </ParaText>
               <ParaText id="4747157">En avril dernier, le responsable de la santé publique de la Colombie-Britannique, le Dr Perry Kendall, a déclaré une urgence de santé publique. Le 12 décembre, soit deux jours avant l'ajournement pour le congé de Noël, le gouvernement a déposé le projet de loi <Document DbId="8689350" Type="3">C-37</Document> à la Chambre. Le premier débat s'est tenu le 31 janvier et le deuxième, le 1<Sup>er</Sup> février. Ensuite, le gouvernement a imposé l'attribution de temps pour mettre fin au débat. Le 9 février, le comité de la santé n'a entendu aucun témoin et est passé directement à l'étude article par article du projet de loi. </ParaText>
               <ParaText id="4747158">La seule chose que je reproche au projet de loi, c'est qu'il ne prévoit pas de processus ou de critères concernant la consultation du public avant l'ouverture d'un centre d'injection. Nous avons entendu que le processus de consultation publique du gouvernement conservateur était trop fastidieux. Le gouvernement actuel a décidé de régler ce problème en faisant tout le contraire: il n'en établit aucun. </ParaText>
-              <ParaText id="4747159"> Notre porte-parole en matière de santé a proposé un amendement qui exigeait que les demandes soient accompagnées de lettres d'appui ou d'opposition de la municipalité ou du chef du corps de police. L'amendement a été rejeté par les libéraux.</ParaText>
+              <ParaText id="4747159"> Notre porte-parole en matière de santé a proposé un amendement qui exigeait que les demandes soient accompagnées de lettres d'appui ou d'opposition de la municipalité et du chef du corps de police. L'amendement a été rejeté par les libéraux.</ParaText>
               <ParaText id="4747160">Nous avons proposé un amendement exigeant que tous les ménages situés dans un rayon de deux kilomètres soient avisés qu'ils peuvent exprimer leur appui ou leur opposition. L'amendement a été rejeté par les libéraux.</ParaText>
               <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
               <ParaText id="4747161">Nous avons proposé un amendement exigeant que de l'information concernant les écoles, les hôpitaux, les entreprises, y compris les garderies, et les centres de loisirs situés dans ce rayon de deux kilomètres soit fournie avec les demandes. Les libéraux l'ont rejeté. Nous avons proposé un amendement exigeant qu'au moins 45 jours, mais tout au plus 90 jours, soient prévus pour permettre la participation et la consultation de la population. Le gouvernement libéral l'a rejeté.</ParaText>
@@ -1614,7 +1596,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. MacKinnon" id="9373373">
             <PersonSpeaking>
-              <Affiliation DbId="229485" Type="18">M. Steven MacKinnon (secrétaire parlementaire de la ministre des Services publics et de l’Approvisionnement, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213954" Type="2">M. Steven MacKinnon (Gatineau, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4747271">Monsieur le Président, voici une autre bonne nouvelle: la semaine dernière, la <Affiliation DbId="214324" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation> a redonné au Bureau de la traduction ses lettres de noblesse. </ParaText>
               <ParaText id="4747272">À la suite de cette annonce, Mme Emmanuelle Tremblay, présidente de l'Association canadienne des employés professionnels, a déclaré: « En gros, la ministre répond à nos attentes. »</ParaText>
@@ -1717,7 +1699,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4747299">Je suis tellement fier de la générosité des résidants d'Eglinton—Lawrence et particulièrement de celle de la St. Clement’s Church. Nous partageons la responsabilité d'aider les personnes qui sont déplacées et persécutées et qui ont le plus besoin de protection. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4747300">Aux membres de la famille Brimo, je vous souhaite la bienvenue chez vous.</ParaText>
+              <ParaText id="4747300">Aux membres de la famille Brimo, je leur souhaite la bienvenue chez eux.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1731,7 +1713,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214403" Type="2">Mme Alexandra Mendès (Brossard—Saint-Lambert, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4747301">Monsieur le Président, j'aimerais prendre un moment aujourd'hui pour souligner le Mois de l'histoire des Noirs et honorer les réalisations et les apports multiples de Canadiens et Canadiennes de race noire qui ont contribué à faire du Canada la nation multiculturelle, généreuse et prospère dans laquelle nous vivons aujourd'hui. </ParaText>
+              <ParaText id="4747301">Monsieur le Président, j'aimerais prendre un moment aujourd'hui pour souligner le Mois de l'histoire des Noirs et honorer les réalisations et les apports multiples de Canadiens et Canadiennes de race noire qui ont contribué à faire du Canada la nation multiculturelle, généreuse et prospère dans laquelle nous formons aujourd'hui. </ParaText>
               <ParaText id="4747302">Depuis déjà quatre siècles, les communautés noires du Canada sont un élément indissociable du tissu humain que nous partageons tous.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4747303">Je tiens à remercier l'Association de la communauté noire de la Rive-Sud et à souligner son travail exceptionnel dans Brossard—Saint-Lambert. Il s'agit d'un organisme né du besoin d'une approche rationnelle pour régler les problèmes touchant le bien-être des résidants noirs de la Rive-Sud de Montréal. </ParaText>
@@ -1858,8 +1840,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4747332">Non, il n'y a rien de gratuit ici.</ParaText>
-              <ParaText id="4747333">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a trahi la classe moyenne. Pendant la première année de son mandat, il a imposé de nouvelles taxes sur les épargnes, la masse salariale, le carbone, les cours d'art et de conditionnement physique pour enfants, les frais de scolarité, les manuels scolaires et les revenus de ceux qui travaillent à leur compte. En faisant un simple calcul, il est clair que le montant versé en impôt par les gens ordinaires a augmenté.</ParaText>
+              <ParaText id="4747332">Non monsieur le Président, il n'y a rien de gratuit ici.</ParaText>
+              <ParaText id="4747333">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a trahi la classe moyenne. Pendant la première année de son mandat, il a imposé de nouvelles taxes sur les épargnes, la masse salariale, le carbone, les cours d'art et de conditionnement physique pour enfants, les frais de scolarité, les manuels scolaires et les revenus de ceux qui travaillent à leur compte. En faisant un simple calcul, il est clair que le montant versé en impôt par les gens ordinaires a augmenté.</ParaText>
               <ParaText id="4747334"> Pourquoi le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> est-il déterminé à faire payer ses dépenses inconsidérées par la classe moyenne?</ParaText>
             </Content>
           </Intervention>
@@ -1989,7 +1971,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4747362">Monsieur le Président, le premier ministre est constant. Il ne dit rien où qu'il aille.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4747363">En jetant à la poubelle sa promesse de réforme électorale et en se moquant des milliers de personnes qui avaient cru en lui de bonne foi, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> vient d'alimenter le cynisme. Je l'ai constaté encore vendredi dernier avec des étudiants universitaires à Rimouski. Ces jeunes allumés sont maintenant déçus et méfiants. Ils se demandent quand ils pourront encore croire des hommes et des femmes politiques. Ils se demandent même s'ils vont de nouveau aller voter. Quel gâchis! De la manière dont j'ai été élevé, quand on ne respecte pas sa parole, on s'excuse.</ParaText>
+              <ParaText id="4747363">En jetant à la poubelle sa promesse de réforme électorale et en se moquant des milliers de personnes qui avaient cru en lui de bonne foi, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> vient d'alimenter le cynisme. Je l'ai constaté encore vendredi dernier chez des étudiants universitaires à Rimouski. Ces jeunes allumés sont maintenant déçus et méfiants. Ils se demandent quand ils pourront encore croire des hommes et des femmes politiques. Ils se demandent même s'ils vont de nouveau aller voter. Quel gâchis! De la manière dont j'ai été élevé, quand on ne respecte pas sa parole, on s'excuse.</ParaText>
               <ParaText id="4747364">Est-ce que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va s'excuser d'avoir trompé les gens?</ParaText>
             </Content>
           </Intervention>
@@ -2023,7 +2005,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9373525">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9373523">
             <PersonSpeaking>
@@ -2042,17 +2024,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4747376">C'est pourquoi nous avons décidé de faire des investissements dans l'avenir, c'est-à-dire dans l'infrastructure et dans la classe moyenne, afin d'aider les familles dès maintenant. Grâce à notre plan, nous allons avoir un niveau de croissance plus élevé dans l'avenir et il y aura plus de perspectives pour les familles et la prochaine génération de Canadiens.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9373795">
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9373529">
             <PersonSpeaking>
               <Affiliation DbId="214127" Type="2">L'hon. Denis Lebel (Lac-Saint-Jean, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4747377">Monsieur le Président, l'ancien gouvernement a dû faire face à la pire crise économique depuis la Seconde Guerre mondiale. Voilà ce à quoi nous avons dû faire face, et pourtant, nous avons dégagé un surplus d'opération et nous avons été capables d'équilibrer le budget.</ParaText>
-              <ParaText id="4747378">On parle de la taxe sur le carbone. Pourquoi les libéraux ne parlent pas des répercussions de celle-ci? Ils nous cachent les chiffres. Cela aura un impact sur les familles canadiennes. Les chiffres ont été caviardés lorsqu'on a remis des informations à notre parti. </ParaText>
+              <ParaText id="4747378">On parle de la taxe sur le carbone. Pourquoi les libéraux ne parlent-ils pas des répercussions de celle-ci? Ils nous cachent les chiffres. Cela aura un impact sur les familles canadiennes. Les chiffres ont été caviardés lorsqu'on a remis des informations à notre parti. </ParaText>
               <ParaText id="4747379">Pourquoi est-ce comme ça? Quel sera l'impact de cette taxe sur le carbone sur une famille moyenne?</ParaText>
             </Content>
           </Intervention>
@@ -2069,7 +2046,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9373537">
         <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les services gouvernementaux</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La reddition de comptes par le gouvernement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brassard" id="9373534">
             <PersonSpeaking>
@@ -2142,7 +2119,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9373580">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le lobbying</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Blaikie" id="9373578">
             <PersonSpeaking>
@@ -2208,7 +2185,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214472" Type="2">M. Bernard Généreux (Montmagny—L'Islet—Kamouraska—Rivière-du-Loup, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4747405">Monsieur le Président, les chiffres du Recensement de 2016 font état d'une situation préoccupante dans l'Est du Québec. Alors que la population au pays a augmenté de 5 % au cours des cinq dernières années, la population du Bas-Saint-Laurent a diminué de 1,3 % et celle de la Gaspésie, de 4 %. Le <Affiliation DbId="214319" Type="4">ministre de l'Innovation, des Sciences et du Développement économique</Affiliation> peut-il s'engager à mettre fin aux politiques désastreuses qui empêchent nos entreprises de maintenir des emplois en région ou préfère-t-il voir nos jeunes continuer à quitter vers les grands centres?</ParaText>
+              <ParaText id="4747405">Monsieur le Président, les chiffres du Recensement de 2016 font état d'une situation préoccupante dans l'Est du Québec. Alors que la population au pays a augmenté de 5 % au cours des cinq dernières années, la population du Bas-Saint-Laurent a diminué de 1,3 % et celle de la Gaspésie, de 4 %. Le <Affiliation DbId="214319" Type="4">ministre de l'Innovation, des Sciences et du Développement économique</Affiliation> peut-il s'engager à mettre fin aux politiques désastreuses qui empêchent nos entreprises de maintenir des emplois en région ou préfère-t-il voir nos jeunes continuer à partir vers les grands centres?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Bains" id="9373596">
@@ -2317,7 +2294,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214314" Type="4">L’hon. Amarjeet Sohi (ministre de l'Infrastructure et des Collectivités, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4747429">Monsieur le Président, ayant moi-même été chauffeur d'autobus, je souhaite faire savoir au chauffeur d'autobus du service de transport en commun de Winnipeg qui a été poignardé hier soir dans l'exercice de ses fonctions que nos pensées et nos prières l'accompagnent. </ParaText>
+              <ParaText id="4747429">Monsieur le Président, j'ai moi-même été chauffeur d'autobus.</ParaText>
+              <ParaText id="4747429">
+                <B>Des voix:</B> Oh, oh!</ParaText>
+              <ParaText id="4747429">
+                <B>L'hon. Amarjeet Sohi:</B> Je souhaite faire savoir au chauffeur d'autobus du service de transport en commun de Winnipeg qui a été poignardé hier soir dans l'exercice de ses fonctions que nos pensées et nos prières l'accompagnent. </ParaText>
               <ParaText id="4747430">Je remercie le député pour sa question et son travail. Vendredi dernier, nous avons annoncé 79 projets de transport en commun dans 29 municipalités, en partenariat avec les municipalités et la province de l'Ontario. Il y aura de nouveaux autobus à Milton, à Renfrew et à Orillia, de nouveaux abribus à Huntsville... </ParaText>
             </Content>
           </Intervention>
@@ -2379,7 +2360,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4747442">×Monsieur le Président, notre gouvernement est ici pour travailler très fort pour les Canadiens et pour répondre aux vrais défis auxquels ils font face. Comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a dit, et comme nous l'avons dit plusieurs fois, nous allons répondre à toutes les questions de la commissaire. </ParaText>
+              <ParaText id="4747442">Monsieur le Président, notre gouvernement est ici pour travailler très fort pour les Canadiens et pour répondre aux vrais défis auxquels ils font face. Comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a dit, et comme nous l'avons dit plusieurs fois, nous allons répondre à toutes les questions de la commissaire. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2654,7 +2635,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214530" Type="2">Mme Marilène Gill (Manicouagan, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4747505">Monsieur le Président, pour le Québec, la gestion de l'offre, la question du lait diafiltré, les poules de réforme et l'accord sur le bois d'oeuvre ne nécessitent pas seulement des ajustements dits « mineurs ». Si le mot « exceptionnel » est important, le mot « mineurs » l'est également. Au contraire, c'est majeur pour des milliers de travailleurs québécois, pour leurs familles et pour nos régions.</ParaText>
-              <ParaText id="4747506"> À part pleurer et verser des larmes de crocodiles, si les négociations ne vont pas à son goût, quel est le plan du gouvernement fédéral pour s'assurer que les intérêts des travailleurs québécois de toutes nos régions ne seront pas évacués dans les ajustements dits « mineurs » des négociateurs américains?</ParaText>
+              <ParaText id="4747506"> À part pleurer et verser des larmes de crocodiles si les négociations ne vont pas à son goût, quel est le plan du gouvernement fédéral pour s'assurer que les intérêts des travailleurs québécois de toutes nos régions ne seront pas évacués dans les ajustements dits « mineurs » des négociateurs américains?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Freeland" id="9373815">
@@ -4086,7 +4067,7 @@ La Chambre reprend l'étude du projet de loi <Document DbId="8689350" Type="3">C
                 </Quote>
               </ParaText>
               <ParaText id="4747667"> On peut donc se demander pourquoi les libéraux ne font pas assez confiance aux Canadiens pour leur donner voix au chapitre lorsqu'il s'agit de déterminer l'emplacement d'un centre de consommation supervisée. Aux termes de la version actuelle du projet de loi <Document DbId="8689350" Type="3">C-37</Document>, le ministre n'est pas obligé d'aviser la population lorsqu'on envisage d'établir un centre d'injection supervisé dans une collectivité. Par ailleurs, l'organisme qui demande l'autorisation est le seul intervenant qui doit démontrer que des consultations locales ont vraiment eu lieu. Cela compromet indéniablement l'impartialité de ces consultations, puisque l'organisme qui a fait la demande peut tout simplement choisir les intervenants qu'il préfère consulter.</ParaText>
-              <ParaText id="4747668">Imaginons que cela se produise dans un autre contexte, par exemple, dans le cas d'un projet de construction d'oléoduc. Personne n'aimerait que l'on décide d'autoriser un tel projet en se fondant seulement sur le rapport que la société pétrolière aurait fourni au sujet de ses consultations auprès des représentants des groupes environnementalistes et des Autochtones de la région. Par ailleurs, personne ne s'attendrait à ce qu'un ministre fédéral, à Ottawa, dispose de toutes les données nécessaires pour déterminer où l'oléoduc devrait passer, du moins, pas avant d'obtenir les résultats d'une étude approfondie menée par des spécialistes impartiaux et d'une vaste consultation auprès des personnes qui seraient les plus touchées par la décision. Dans ce cas-ci, pourquoi l'actuel gouvernement libéral juge-t-il acceptable de s'en remettre uniquement à l'organisme qui a fait la demande lorsqu'il s'agit de déterminer si une consultation exhaustive a vraiment eu lieu avant l'établissement d'un centre d'injection supervisée?</ParaText>
+              <ParaText id="4747668">Imaginons que cela se produise dans un autre contexte, par exemple, dans le cas d'un projet de construction d'oléoduc. Personne n'aimerait que l'on décide d'autoriser un tel projet en se fondant seulement sur le rapport que la société pétrolière aurait fourni au sujet de ses consultations auprès des représentants des groupes environnementalistes et des Autochtones de la région. Par ailleurs, personne n'accepterait à ce qu'un ministre fédéral, à Ottawa, dispose de toutes les données nécessaires pour déterminer où l'oléoduc devrait passer, du moins, pas avant d'obtenir les résultats d'une étude approfondie menée par des spécialistes impartiaux et d'une vaste consultation auprès des personnes qui seraient les plus touchées par la décision. Dans ce cas-ci, pourquoi l'actuel gouvernement libéral juge-t-il acceptable de s'en remettre uniquement à l'organisme qui a fait la demande lorsqu'il s'agit de déterminer si une consultation exhaustive a vraiment eu lieu avant l'établissement d'un centre d'injection supervisée?</ParaText>
               <ParaText id="4747669">Je dois dire que je suis très impressionnée des efforts faits dans ma circonscription, Lethbridge, en Alberta, pour collaborer et consulter. L'organisme qui a pris l'initiative d'étudier les besoins et de déterminer la faisabilité d'un centre de consommation supervisée est allé au-delà des exigences de ce projet de loi pour s'assurer que la population locale soit respectée, qu'elle puisse se faire entendre et que tous les pouvoirs publics soient consultés. Cet organisme tient à nouer des partenariats locaux et à ce que des services complets soient offerts, ce qui doit inclure un modèle de traitement.</ParaText>
               <ParaText id="4747670">Pourquoi l'organisme fait-il tout ce travail? C'est qu'il comprend l'importance de l'acceptabilité sociale, un terme que les libéraux emploient comme un concept à la mode, mais dont ils ne comprennent pas vraiment le sens. L'organisme de ma circonscription sait que sa demande pourrait être acceptée sans qu'il procède à une vaste consultation, mais que la suspicion et l'animosité qui en résulteraient, dans notre circonscription, iraient à l'encontre de la nature et de la raison d'être du centre que l'on souhaite établir.</ParaText>
               <ParaText id="4747671">Je crois que l'éducation, la consultation et la collaboration sont essentielles pour résoudre la crise qui sévit. C'est pourquoi, en tant que membre du comité de la santé, j'ai essayé d'amender ce projet de loi. Mon amendement prévoyait que la ministre communique un avis à la population locale 45 jours à l'avance, lorsqu'une demande est à l'étude, et que les points de vue recueillis soient mis à la disposition du public. Les consultations de cette nature organisées par les gouvernements durent habituellement entre 30 et 90 jours. Pour me remercier de mes efforts au sein du comité, mes collègues libéraux et néo-démocrates m'ont accusée de vouloir tuer les toxicomanes qui mourraient d'une surdose pendant les consultations. Apparemment, ils pensent qu'une demande pourra être traitée en moins de 45 jours, ce qui est rarissime. </ParaText>
@@ -4337,7 +4318,6 @@ La Chambre reprend l'étude du projet de loi <Document DbId="8689350" Type="3">C
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4747767">La toxicomanie et la dépendance posent d'importants risques pour les personnes, les familles et les collectivités. Notre gouvernement est résolu à s'attaquer à cet enjeu complexe lié à la santé publique en adoptant une approche qui protège la santé publique et qui maintient la sécurité publique à l'aide d'une politique sur les drogues exhaustive et axée sur la collaboration, la compassion et les données probantes.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4747768">La toxicomanie pose des risques significatifs pour les personnes, les familles et les collectivités. Le gouvernement est engagé à résoudre ce problème complexe de santé publique en utilisant une approche qui protège la santé et la sécurité du public grâce à une politique sur les drogues qui est globale, collaborative, humaniste et surtout, fondée sur des données probantes. </ParaText>
               <ParaText id="4747769">Une approche de santé publique globale à l'égard de cette crise doit inclure la réduction des méfaits, au même titre que la prévention, le traitement et l'application de la loi. La réduction des méfaits reconnaît que ce ne sont pas tous les toxicomanes qui sont prêts et disposés à se faire traiter, ou qui sont même en mesure de le faire. Ceux et celles qui, pour diverses raisons, ne suivent pas de traitement méritent aussi d'être traités avec dignité et respect. Comme tous les Canadiens, leur vie est précieuse et mérite d'être sauvée. </ParaText>
               <ParaText id="4747770">Les centres de consommation supervisée et les autres mesures de réduction des méfaits fondées sur des données probantes aident les toxicomanes à protéger leur santé et à réduire les risques liés à la consommation de drogue, y compris les risques de décès. Certains députés ont parlé de la controverse entourant les centres de consommation supervisée et disent avoir des préoccupations légitimes au sujet de cette partie du projet de loi <Document DbId="8689350" Type="3">C-37</Document>. Aujourd'hui, je répondrai à ces préoccupations en parlant des données probantes sur les centres de consommation supervisée. Ces données ont été publiées dans plusieurs revues avec comité de lecture, dont certaines des revues médicales les plus respectées du monde. Nous vivons à une époque où les opinions peuvent être prises pour des faits simplement parce qu'elles ont été publiées sur une tribune publique. Je trouve cela inquiétant, et tous les députés devraient aussi s'inquiéter. </ParaText>
               <ParaText id="4747771">Nous sommes très chanceux au Canada d'avoir accès, chez nous, à InSite, le centre de consommation supervisée qui a été le plus étudié au monde. Des centres de consommation supervisée existent en Europe depuis les années 1980, mais les études menées sur InSite ont produit des données spécifiques et mesurables sur les retombées qu'a eues ce centre de consommation supervisée sur les toxicomanes et la population du secteur. InSite était d'abord un projet pilote et il a fait l'objet d'une importante évaluation scientifique. Plus de 30 articles de revues scientifiques à comité de lecture ont été fondés sur cette évaluation et tous ont montré qu'InSite atteignait ses objectifs sans avoir d'effets négatifs sur la population du secteur. Il serait trop long de dresser la liste de tous ces articles, mais j'en mentionnerai quelques-uns. </ParaText>
@@ -4553,7 +4533,7 @@ La Chambre reprend l'étude du projet de loi <Document DbId="8689350" Type="3">C
               <ParaText id="4747858">Je déclare la motion rejetée. </ParaText>
               <ProceduralText TocType="TCC" TocText="Rejet de la motion no 2" id="16">(La motion n<Sup>o</Sup> 2 est rejetée.)</ProceduralText>
               <ParaText id="4747859">
-                <B>Le vice-président adjoint (M. Anthony Rota):</B> La Chambre passe maintenant au vote par appel nominal différé, à l'étape du rapport du projet de loi. </ParaText>
+                <B>Le vice-président adjoint (M. Anthony Rota):</B> La Chambre passe maintenant au vote par appel nominal différé, à l'étape du rapport du projet de loi. La motion porte sur la motion n<Sup>o</Sup> 1.</ParaText>
               <ParaText id="4747860">Convoquez les députés.</ParaText>
             </Content>
           </Intervention>
@@ -4923,15 +4903,11 @@ La Chambre reprend l'étude du projet de loi <Document DbId="8689350" Type="3">C
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9375673">
-        <SubjectOfBusinessContent>
-          <ParaText id="4747873">(La motion, mise aux voix, est adoptée par le vote suivant:)</ParaText>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9375674">
         <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
         <SubjectOfBusinessContent>
+          <ParaText id="4747873">(La motion, mise aux voix, est adoptée par le vote suivant:)</ParaText>
           <Division id="9373908" DivisionNumber="198">
-            <DivisionNumber>(Vote n<Sup>o</Sup> 198)</DivisionNumber>
+            <DivisionNumber>(Vote n<Sup>o</Sup> 198)</DivisionNumber>
             <DivisionType vote-type="Yeas">
               <Type>POUR</Type>
               <Title>Députés</Title>

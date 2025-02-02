@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9380627">
-  <StartPageNumber>9011</StartPageNumber>
+  <StartPageNumber>9007</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -1651,7 +1633,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9384409">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le système de paye Phénix</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le système de paie Phénix</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Richards" id="9384410">
             <PersonSpeaking>
@@ -1959,7 +1941,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9384503">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le commerce international</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'industrie laitière</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9384502">
             <PersonSpeaking>
@@ -2034,7 +2016,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9384740">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le financement des partis politiques</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Mulcair" id="9384556">
             <PersonSpeaking>
@@ -2050,11 +2032,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4754035">Monsieur le Président, le Canada s'est doté de règles strictes en ce qui a trait aux collectes de fonds et au financement politique. En fait, c'est en vertu de ces règles que les partis sont tenus de faire rapport des dons reçus à Élections Canada. Cette année, tous les partis représentés à la Chambre ont dépassé la limite permise, tout comme ce fut le cas lors d'années précédentes, de sorte que tous les partis ont dû rembourser le montant des dons reçus en trop. Il me tarde de présenter un projet de loi pour améliorer les choses de manière continue, notamment sur le plan de l'ouverture et de la transparence en matière de financement.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9385839">
-        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Mulcair" id="9384562">
             <PersonSpeaking>
               <Affiliation DbId="213985" Type="2">L'hon. Thomas Mulcair (Outremont, NPD)</Affiliation>: </PersonSpeaking>
@@ -2135,6 +2112,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4754052">Le député de Parry Sound—Muskoka a la parole.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9385839">
+        <SubjectOfBusinessTitle>La petite entreprise</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Clement" id="9384581">
             <PersonSpeaking>
               <Affiliation DbId="214103" Type="2">L'hon. Tony Clement (Parry Sound—Muskoka, PCC)</Affiliation>: </PersonSpeaking>
@@ -2151,6 +2133,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4754056">Ce qu'il est important de noter, c'est que nous investissons dans l'économie pour assurer sa croissance future, ce qui aidera les petites, les moyennes et les grandes entreprises à prospérer et à soutenir l'économie. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9376752">
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Van Kesteren" id="9384586">
             <PersonSpeaking>
               <Affiliation DbId="214430" Type="2">M. Dave Van Kesteren (Chatham-Kent—Leamington, PCC)</Affiliation>: </PersonSpeaking>
@@ -2175,7 +2162,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214421" Type="2">Mme Dianne L. Watts (Surrey-Sud—White Rock, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4754060">Monsieur le Président, près d'un milliard de dollars en financement réservé aux infrastructures ne seront pas utilisés cette année. Voici ce que disait la plateforme électorale des libéraux: « Nous nous assurerons qu’aucune somme engagée pour des investissements dans les communautés ne reste inutilisée. » </ParaText>
+              <ParaText id="4754060">Monsieur le Président, près de 1 milliard de dollars en financement réservé aux infrastructures ne seront pas utilisés cette année. Voici ce que disait la plateforme électorale des libéraux: « Nous nous assurerons qu’aucune somme engagée pour des investissements dans les communautés ne reste inutilisée. » </ParaText>
               <ParaText id="4754061">Les libéraux ont promis que toute somme inutilisée serait versée directement aux collectivités par l'intermédiaire du Fonds de la taxe sur l'essence. Cependant, seulement 4 % des 800 millions de dollars sera transféré au fonds. Les libéraux s'engageront-ils à verser la totalité du montant de 800 millions de dollars en financement inutilisé aux collectivités ou s'agit-il d'une autre promesse que les libéraux ne tiendront pas? </ParaText>
             </Content>
           </Intervention>
@@ -2241,7 +2228,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4754074">Monsieur le Président, je suis très fière de me lever à la Chambre aujourd'hui pour souligner le premier Jour de l'agriculture canadienne.</ParaText>
               <ParaText id="4754075">Cependant, les libéraux ont des raisons d'être un peu mal à l'aise compte tenu de l'entrée de plus de 17 700 tonnes de fromages fins venant de l'Europe, des compensations complètement insuffisantes et des signes très inquiétants concernant notre système de gestion de l'offre. C'est une journée extraordinaire et spéciale pour nos agriculteurs.</ParaText>
-              <ParaText id="4754076">Le ministre va-t-il encore nous répéter sa petite cassette ou va-t-il annoncer un plan extraordinaire et bon pour les producteurs laitiers?</ParaText>
+              <ParaText id="4754076">Le ministre va-t-il encore nous remettre sa petite cassette ou va-t-il annoncer un plan extraordinaire et bon pour les producteurs laitiers?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2733,7 +2720,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214530" Type="2">Mme Marilène Gill (Manicouagan, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4754170">Monsieur le Président, les Québécois débattent depuis 10 ans la laïcité et l'intégration et sur comment faire pour assurer la paix sociale dans une société en pleine transformation, en tenant compte de la diversité, des croyances et des non-croyances dans le Québec d'aujourd'hui. C'est légitime, c'est même sain pour une société d'avoir des débats. Cela s'appelle réfléchir, dialoguer, chercher des solutions et vouloir améliorer la qualité de vie de la population. Cela s'appelle se remettre en question. Je le répète, c'est sain pour un peuple.</ParaText>
+              <ParaText id="4754170">Monsieur le Président, les Québécois débattent depuis 10 ans la laïcité et l'intégration et la façon de faire pour assurer la paix sociale dans une société en pleine transformation, en tenant compte de la diversité, des croyances et des non-croyances dans le Québec d'aujourd'hui. C'est légitime, c'est même sain pour une société d'avoir des débats. Cela s'appelle réfléchir, dialoguer, chercher des solutions et vouloir améliorer la qualité de vie de la population. Cela s'appelle se remettre en question. Je le répète, c'est sain pour un peuple.</ParaText>
               <ParaText id="4754171">Maintenant, peut-on savoir en quoi précisément, sans électoralisme, selon la ministre...</ParaText>
             </Content>
           </Intervention>
@@ -2757,9 +2744,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9384986">
         <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
-        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Les petits immigrants britanniques</SubjectOfBusinessQualifier>
-        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessTitle>Les petits immigrants britanniques</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Thériault" id="9384838">
             <PersonSpeaking>
@@ -2791,7 +2776,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9384841">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Questions orales</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Doherty" id="9384845">
             <PersonSpeaking>
@@ -3765,7 +3752,7 @@ La Chambre reprend l'étude de la motion.</ParaText>
               <ParaText id="4754505">Dans la foulée de cette pétition, l'excellent chef du NPD a demandé le consentement unanime pour une motion. Il a demandé que la Chambre se joigne aux 69 742 Canadiens et Canadiennes qui ont appuyé la pétition électronique e-411 de la Chambre des communes condamnant toute forme d'islamophobie. Il a demandé à la Chambre qu'il y ait consentement unanime pour condamner toute forme d'islamophobie.</ParaText>
               <ParaText id="4754506">Les députés imaginent-ils ce qui s'est passé? La Chambre a accepté que nous condamnions toute forme d'islamophobie. Les députés de ce côté-ci de la Chambre l'ont dit et les députés de l'autre côté de la Chambre l'ont dit. L'opposition l'a dit et le gouvernement l'a dit. C'était unanime.</ParaText>
               <ParaText id="4754507">Qu'est-il advenu de tout cela? La députée de <Affiliation DbId="213901" Type="2">Mississauga—Erin Mills</Affiliation> a dit qu'elle allait présenter une motion demandant qu'on étudie la façon de procéder pour s'attaquer à ce problème. Je vais lire ce qu'elle a dit: </ParaText>
-              <ParaText id="4754508"> La motion dit que le gouvernement devrait « prendre acte de la pétition e-411 à la Chambre des communes, ainsi que des problèmes qu'elle a soulevés; demander que le Comité permanent du patrimoine canadien entreprenne une étude », seulement une étude, « sur la façon dont le gouvernement pourrait établir une approche pangouvernementale pour la réduction », et ce qui suit est très important, <?bk?>« ou <?ek?> l'élimination » et, à ce stade-ci, elle n'a pas voulu la limiter à l'islamophobie, « du racisme et de la discrimination religieuse systémiques, dont l'islamophobie », mais elle ne couvrirait pas que l'islamophobie.</ParaText>
+              <ParaText id="4754508"> La motion dit que le gouvernement devrait « prendre acte de la pétition e-411 à la Chambre des communes, ainsi que des problèmes qu'elle a soulevés; demander que le Comité permanent du patrimoine canadien entreprenne une étude », seulement une étude, « sur la façon dont le gouvernement pourrait établir une approche pangouvernementale pour la réduction », et ce qui suit est très important, <?bk ?>« ou <?ek ?> l'élimination » et, à ce stade-ci, elle n'a pas voulu la limiter à l'islamophobie, « du racisme et de la discrimination religieuse systémiques, dont l'islamophobie », mais elle ne couvrirait pas que l'islamophobie.</ParaText>
               <ParaText id="4754509">Une pétition, une motion avec un consentement unanime et une étude. La seule chose dont elle est coupable est d'en avoir étendu la portée.</ParaText>
               <ParaText id="4754510">Aujourd'hui, nous débattons une autre motion qui a été présentée parce que le mot « islamophobie » figurait dans la motion de la députée de <Affiliation DbId="213901" Type="2">Mississauga—Erin Mills</Affiliation>. Aujourd'hui, ce mot doit être retiré en raison de jeux politiques parce qu'on refuse catégoriquement qu'il y figure.</ParaText>
               <ParaText id="4754511">Durant les quatre mois écoulés depuis que les députés se sont entendus pour condamner l'islamophobie, je n'ai pas entendu un seul député dire que ce mot était terrible.</ParaText>
@@ -4027,7 +4014,8 @@ La Chambre reprend l'étude de la motion.</ParaText>
               <ParaText id="4754639">Cela me rappelle lorsque je conduisais dans la Nouvelle-Orléans, peu de temps après <I>Katrina</I>, pendant que ma femme était à une conférence. J'avais vu les caravanes du gouvernement qui contenaient du formaldéhyde. C'était terrible. De pauvres gens s'étaient retrouvés sans domicile et avaient été relogés dans ces caravanes qui dégageaient du formaldéhyde. Ce n'est qu'en 2012 que l'affaire a été résolue. Je ne veux pas qu'une situation semblable se produise au Canada. </ParaText>
               <ParaText id="4754640">En outre, la motion contribuerait à protéger des emplois canadiens, car permettre que des produits soient bradés ici entraînerait des pertes d'emploi au Canada. Par conséquent, je prie les députés de bien vouloir appuyer la motion, et je félicite mon collègue pour celle-ci. </ParaText>
               <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
-              <ParaText />
+              <ParaText>
+              </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -4250,7 +4238,7 @@ La Chambre reprend l'étude de la motion.</ParaText>
             <PersonSpeaking>
               <Affiliation DbId="229506" Type="18">Mme Karen McCrimmon (secrétaire parlementaire du ministre des Transports, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4754726">Madame la Présidente, je voudrais remercier le député de <Affiliation DbId="214489" Type="2">Courtenay—Alberni</Affiliation> pour l'intérêt qu'il porte aux écosystèmes sensibles, qui ont une grande importance pour nous tous, ainsi que pour son travail de défense de ces écosystèmes.</ParaText>
+              <ParaText id="4754726">Madame la Présidente, je voudrais remercier le député de <Affiliation DbId="214489" Type="2">Courtenay—Alberni</Affiliation> de l'intérêt qu'il porte aux écosystèmes sensibles, qui ont une grande importance pour nous tous, ainsi que pour son travail de défense de ces écosystèmes.</ParaText>
               <ParaText id="4754727">Nous disons clairement que la protection du public et de l'environnement fait partie des principales préoccupations du gouvernement. Le député a raison. Le Canada exporte par bateau une quantité importante de matières premières et de produits transformés. Ces activités de transport fournissent des emplois à quelque 250 000 Canadiens et injectent plus de 25 milliards de dollars dans l'économie du Canada.</ParaText>
               <ParaText id="4754728">Cela dit, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a annoncé un plan sans précédent de protection des océans d'une valeur de 1,5 milliard de dollars le 7 novembre 2016. J'aborderai dans un instant les détails de ce plan. Nous savions qu'une consultation serait nécessaire pour bien cerner la situation propre à chaque région côtière. C'était important. Le Plan de protection des océans a été conçu grâce à un travail de collaboration entre, d'une part, les populations autochtones et côtières et, d'autre part, les responsables de divers programmes gouvernementaux.</ParaText>
               <ParaText id="4754729">Ce plan sans précédent, que nous allons commencer à mettre en oeuvre cette année, prévoit le dépôt d'un projet de loi pour résoudre le problème des bateaux abandonnés, désertés ou ayant fait naufrage. La loi proposée exigerait aussi des propriétaires de bateau qu'ils marquent et qu'ils enlèvent toute épave dangereuse issue d'un accident, y compris les objets issus d'un bateau qui se seraient échoués sur la terre ferme. Une fois en vigueur, les nouvelles dispositions législatives constitueraient un moyen additionnel de protéger les populations locales et les contribuables.</ParaText>

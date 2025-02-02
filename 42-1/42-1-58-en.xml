@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8933539">
   <StartPageNumber>3519</StartPageNumber>
   <DocumentTitle>
@@ -119,7 +100,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4359340">Mr. Speaker, the vast majority of Canadians have in some way been affected by cancer and that is why I rise today to highlight that May is bladder cancer awareness month. </ParaText>
               <ParaText id="4359341">Bladder cancer is the fifth most common cancer in Canada. There are roughly 8,300 Canadians who are diagnosed with this potentially deadly disease each year. Due to the extremely high recurrence rate on a per-patient basis, bladder cancer is noted as the most expensive cancer to treat. </ParaText>
               <ParaText id="4359342">It is essential to know that there are treatments to slow and perhaps even stop the spread of this kind of cancer. However, like most forms of cancer, early detection is key. For those suffering, Bladder Cancer Canada is there. It provides various patient educational services, support groups, and allows patients to connect with others who are in a similar situation.</ParaText>
-              <ParaText id="4359343">I encourage all Canadians to become aware of the symptoms and risks off bladder cancer and to consult a medical expert should they exhibit such symptoms.</ParaText>
+              <ParaText id="4359343">I encourage all Canadians to become aware of the symptoms and risks of bladder cancer and to consult a medical expert should they exhibit such symptoms.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -350,6 +331,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4359404">
                 <I>Map di tout Ayisyen mèsi ampil pou kontribution yo. Avew Map Maché.</I>
               </ParaText>
+              <ParaText id="4451482">[<I>Translation</I>]</ParaText>
               <ParaText id="4359405">Happy flag day.</ParaText>
             </Content>
           </Intervention>
@@ -361,7 +343,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <CatchLine>Oral Questions</CatchLine>
       <SubjectOfBusiness id="8933655">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>House of Commons</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Business of the House</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="8933656">
             <PersonSpeaking>
@@ -386,7 +368,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4359410">Mr. Speaker, we knew that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> admired basic Chinese dictatorship, but we did not think he would actually emulate it.</ParaText>
               <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="4359411">This week, we are discovering the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s true nature. Parliamentary democracy is just a joke to him. Instead of having a government and an opposition, the Liberals have created a government and an audience</ParaText>
+              <ParaText id="4359411">This week, we are discovering the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s true nature. Parliamentary democracy is just a joke to him. Instead of having a government and an opposition, the Liberals have created a government and an audience.</ParaText>
               <ParaText id="4359412">How can the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> justify this lack of respect for Parliament?</ParaText>
             </Content>
           </Intervention>
@@ -417,7 +399,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4359417">Again, Mr. Speaker, I am always bemused to hear the members opposite talk about how important it is to engage and consult Canadians when they brought in the unfair elections act, ramming it through to try to help them get re-elected.</ParaText>
-              <ParaText id="4359418"> The fact is that we committed to making this past election the last one in our country under first past the post. We committed to consult broadly with Canadians and pay particular attention to minority groups and under-represented groups, which would be allowed to weigh-in on how to make our electoral system and indeed our governance better. That is exactly what we will do.</ParaText>
+              <ParaText id="4359418"> The fact is that we committed to making this past election the last one in our country under first past the post. We committed to consult broadly with Canadians and pay particular attention to minority groups and under-represented groups, which would be allowed to weigh in on how to make our electoral system and indeed our governance better. That is exactly what we will do.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -426,7 +408,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4359419">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> mentioned the Liberal platform. What did he say? He said, “We will not resort to legislative tricks...”.</ParaText>
-              <ParaText id="4359420">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has failed, because is already breaking his campaign promises. He does not like answering to a strong opposition. We are going to continue asking questions. He said he wanted to give parliamentarians more power and muscle, but instead he is muzzling them.</ParaText>
+              <ParaText id="4359420">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has failed, because he is already breaking his campaign promises. He does not like answering to a strong opposition. We are going to continue asking questions. He said he wanted to give parliamentarians more power and muscle, but instead he is muzzling them.</ParaText>
               <ParaText id="4359421">Can the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> tell Canadians and Quebeckers why he is doing the opposite of what he said he would do during the election campaign?</ParaText>
             </Content>
           </Intervention>
@@ -759,7 +741,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4359507">Mr. Speaker, let us talk about inclusiveness. </ParaText>
               <ParaText id="4359508">We have a parliamentary committee that meets with, say, 1,000 people over the next six months, which would be quite an accomplishment: inclusive. Then as the minister said, it goes off to the cabinet for a final decision: not inclusive. Then, if she takes the advice we are giving here, it goes to 35 million Canadians for ratification or rejection. That is inclusive.</ParaText>
-              <ParaText id="4359509">Why is the minister opposed to inclusiveness? Why does she think that only her cabinet colleagues get to decide whether or not we<?bk?> get—<?ek?></ParaText>
+              <ParaText id="4359509">Why is the minister opposed to inclusiveness? Why does she think that only her cabinet colleagues get to decide whether or not we<?bk ?> get—<?ek ?></ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8933793">
@@ -946,7 +928,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214663" Type="18">Ms. Pam Goldsmith-Jones (Parliamentary Secretary to the Minister of Foreign Affairs, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4359551">Mr. Speaker, we are proud to announce the office of human rights, freedoms, and inclusion, which reflects our ongoing commitment to advancing human rights at home and abroad. It is a comprehensive vision that includes all human rights, of course including religion. I would like assure the House that the expanded office builds on the work of the previous office. For example, the external advisory committee on religious freedom will stay. To support our enhanced approach, we are significantly increasing the budget. The office of human rights, freedoms, and inclusion reflects the fact that human rights are universal, indivisible, and interdependent.</ParaText>
+              <ParaText id="4359551">Mr. Speaker, we are proud to announce the office of human rights, freedoms, and inclusion, which reflects our ongoing commitment to advancing human rights at home and abroad. It is a comprehensive vision that includes all human rights, of course including religion. I would like to assure the House that the expanded office builds on the work of the previous office. For example, the external advisory committee on religious freedom will stay. To support our enhanced approach, we are significantly increasing the budget. The office of human rights, freedoms, and inclusion reflects the fact that human rights are universal, indivisible, and interdependent.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1238,20 +1220,17 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention ToC="No" id="8933918" Type="Statement" ToCText="Mr. Trudeau">
-            <PersonSpeaking />
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">
+              </Affiliation>
+            </PersonSpeaking>
             <Content>
               <ParaText id="4359612"> They were rejected because, at the time, the Government of Canada had passed the Continuous Passage Act. In accordance with this act, only passengers arriving on a continuous journey were authorized to disembark in Canada. This measure would have prevented immigrants coming from far-off lands, such as India, to enter Canada, because at the time it was impossible to travel such a distance without making a stop along the way. When the <I>Komagata Maru</I> arrived in Canada, just a few passengers were authorized to disembark.</ParaText>
               <ParaText id="4359613">Under this act, the ship and those on board were forced to turn around. Members of the local Sikh community tried to convince the authorities to reconsider their decision, but they stood firm.</ParaText>
               <ParaText id="4359614"> On July 23, 1914, two months after their arrival, the <I>Komagata Maru</I> and its passengers were escorted out of the port by the Canadian Army. They were forced to return to India. Nineteen passengers were killed, and many others were imprisoned.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4359615">Canada does not bear alone the responsibility for every tragic mistake that occurred with the <I>Komagata Maru</I> and its passengers, but Canada's government was, without question, responsible for the laws that prevented these passengers from immigrating peacefully and securely.</ParaText>
-            </Content>
-          </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="8933921">
-            <PersonSpeaking>
-              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4359616"> For that, and for every regrettable consequence that followed, we are truly sorry.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4359617">We apologize, first and foremost, to the victims of the incident. No words can erase the pain and suffering they experienced. Regrettably, the passage of time means that none are alive to hear our apology today. Still, we offer it, fully and sincerely, for our indifference to your plight, for our failure to recognize all that you had to offer, for the laws that discriminated against you so senselessly, and for not apologizing sooner. For all these things, we are truly sorry.</ParaText>
@@ -1283,7 +1262,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4359631">We have to reflect on and learn from times in which Canada acted unjustly.</ParaText>
               <ParaText id="4359632">The tragic events that we are gathered here today to remember was one of those lapses. </ParaText>
-              <ParaText id="4359633">When the vessel <I>Komagata Maru</I> arrived in Vancouver, on May 23, 1914, most of the nearly 400 passengers onboard were immigrants from Punjab. They were Sikhs, Hindus, and Muslims, and all British subjects, just like Canadians at the time. They were simply seeking a better life in Canada. Twenty-four were allowed in and the rest were not. The ship and its passengers were detained in a harbour for two months, until they were escorted out on July 23 and sent back to India. When they arrived in Calcutta, a disturbance broke out in which 19 passengers were shot and killed and dozens more were arrested.</ParaText>
+              <ParaText id="4359633">When the vessel <I>Komagata Maru</I> arrived in Vancouver, on May 23, 1914, most of the nearly 400 passengers on board were immigrants from Punjab. They were Sikhs, Hindus, and Muslims, and all British subjects, just like Canadians at the time. They were simply seeking a better life in Canada. Twenty-four were allowed in and the rest were not. The ship and its passengers were detained in a harbour for two months, until they were escorted out on July 23 and sent back to India. When they arrived in Calcutta, a disturbance broke out in which 19 passengers were shot and killed and dozens more were arrested.</ParaText>
               <ParaText id="4359634">This journey resulted from Canada's refusal to welcome them. It ended in terrible tragedy and great hardship for those aboard the <I>Komagata Maru</I>.</ParaText>
               <ParaText id="4359635">It is for that refusal that the Canadian government, and all of us here, stand today to recognize the terrible events that occurred when Canada failed to accept those seeking shelter in a new home.</ParaText>
               <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
@@ -1307,7 +1286,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention ToC="No" id="8933976" Type="Statement" ToCText="Ms. Ambrose">
-            <PersonSpeaking />
+            <PersonSpeaking>
+              <Affiliation DbId="214611" Type="96">
+              </Affiliation>
+            </PersonSpeaking>
             <Content>
               <ParaText id="4359647">These examples of dedication, selflessness and community spirit are evidence of the values that we all share as Canadians.</ParaText>
               <ParaText id="4359648">The apology today is an opportunity to reaffirm our commitment to those values.</ParaText>
@@ -1347,7 +1329,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4359665">I believe the hon. member for <Affiliation DbId="214145" Type="2">Rivière-du-Nord</Affiliation> is seeking the unanimous consent of the House to add his voice. Does he have unanimous consent?</ParaText>
               <ParaText id="4359666">
-                <B>Hon. members:</B> Agreed.</ParaText>
+                <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="4359667">
                 <B>The Speaker:</B> The hon. member for Rivière-du-Nord.</ParaText>
             </Content>
@@ -1864,7 +1846,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8934112">
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>House of Commons</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Government Business Motion No. 6</SubjectOfBusinessQualifier>
         <CatchLine>Privilege</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Julian" id="8934113">
@@ -1886,7 +1868,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4359720">I am wondering how the <Affiliation DbId="214317" Type="4">Leader of the Government in the House of Commons</Affiliation> was able to justify this type of undemocratic motion to his caucus this morning or whether he told his party's backbenchers about it at all.</ParaText>
               <ParaText id="4359721">From what we heard in question period today, it seems that even the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> does not really understand what this motion does.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4359722">Motion No. 6 does not merely, as the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claims, allow for more debate. It gives cabinet ministers unilateral control over when the House adjourns. If he or she is not happy with how a debate is unfolding, the minister can simply stand up at 8 p.m., at <?bk?>9 p.m., <?ek?>at 10 p.m., at midnight, at 3 a.m., whenever, and adjourn the House or keep it going until the next morning. It invests the power of a dictatorship in the heart of our democracy.</ParaText>
+              <ParaText id="4359722">Motion No. 6 does not merely, as the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claims, allow for more debate. It gives cabinet ministers unilateral control over when the House adjourns. If he or she is not happy with how a debate is unfolding, the minister can simply stand up at 8 p.m., at <?bk ?>9 p.m., <?ek ?>at 10 p.m., at midnight, at 3 a.m., whenever, and adjourn the House or keep it going until the next morning. It invests the power of a dictatorship in the heart of our democracy.</ParaText>
               <ParaText id="4359723">
                 <I>Erskine May's Treatise on the Law, Privileges, Proceedings and Usage of Parliament</I> defines privilege in the following way on page 75:</ParaText>
               <ParaText id="4359724">
@@ -1927,7 +1909,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4359738"> Parliament is fundamentally about debate. It is also about the right to dissent in a civilized manner. Genuine political opposition is a necessary attribute of democracy, tolerance, and trust, and the ability of citizens to resolve differences by a peaceful means. The existence and tolerance of an opposing view is essential to the functioning of government.</ParaText>
               <ParaText id="4359739">I have more to say on this, but I would like to reserve the right to come back at a later time when the House is not up against the clock on such an important bill as Bill <Document DbId="8177165" Type="3">C-14</Document>. </ParaText>
               <ParaText id="4359740">However, Mr. Speaker, I do ask you to consider that Motion No. 6 is a completely unprovoked response to a situation that simply did not exist. I would invite the government to show me one example of a dilatory motion being moved by either opposition party when it came to the legislative agenda that the government is currently putting forward. </ParaText>
-              <ParaText id="4359741">The Liberals are unilaterally withdrawing every single tool that the opposition has to propose alternate subjects of debate, they are ignoring the good work of committees, they are preventing members fo Parliament from debating such things as motions to instruct a committee, and they are completely changing the rules around the clock and the calendar. </ParaText>
+              <ParaText id="4359741">The Liberals are unilaterally withdrawing every single tool that the opposition has to propose alternate subjects of debate, they are ignoring the good work of committees, they are preventing members of Parliament from debating such things as motions to instruct a committee, and they are completely changing the rules around the clock and the calendar. </ParaText>
               <ParaText id="4359742">Therefore, I would like to come back to the House at a later time, but being cognizant of what little time left the House has to debate Bill <Document DbId="8177165" Type="3">C-14</Document>, because of the tactics of the government, I will yield the floor at this time. </ParaText>
             </Content>
           </Intervention>
@@ -2024,7 +2006,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4359761">Pursuant to Standing Order 67(1), there will now be a 30-minute question period.</ParaText>
+              <ParaText id="4359761">Pursuant to Standing Order 67.1, there will now be a 30-minute question period.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4359762">I invite hon. members who wish to ask questions to rise in their place so the Chair has some idea of the number of members who wish to participate in this question period.</ParaText>
               <ParaText id="4359763">The hon. member for <Affiliation DbId="213922" Type="2">Calgary Midnapore</Affiliation>.</ParaText>
@@ -2097,7 +2079,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4359789">I ask both the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation> and the <Affiliation DbId="214321" Type="4">Minister of Justice</Affiliation>, recognizing that we have had time allocations, because this is such an important bill to so many Canadians, why could they not voice their opinions when we were debating Bill <Document DbId="8117654" Type="3">C-6</Document> and Bill <Document DbId="8164424" Type="3">C-11</Document>, so that members on this side of the House, including members from their own side, could debate something that is so sensitive?</ParaText>
               <ParaText id="4359790">I, myself, hosted town halls, took letters out to constituents, and spoke to a variety of different physicians and stakeholders throughout this country. Our voices, I feel, are not being heard, regardless of whether we are for or against the bill.</ParaText>
               <ParaText id="4359791">Similar to our member down the aisle, I, too, voted for this to go to committee. I am proud of that because I believe we need to have this open discussion. However, the opportunity for this open discussion has been closed in our faces and I find that extremely frustrating, especially when I am trying to honour my constituents' wants and needs.</ParaText>
-              <ParaText id="4359792">Why have the members on the other side not stepped forward to the fact that Bill <Document DbId="8177165" Type="3">C-14</Document> is important to Canadians. They should have fought for Canadians when discussing the bill.</ParaText>
+              <ParaText id="4359792">Why have the members on the other side not stepped forward to the fact that Bill <Document DbId="8177165" Type="3">C-14</Document> is important to Canadians? They should have fought for Canadians when discussing the bill.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mrs. Philpott" id="8934216">
@@ -2761,7 +2743,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4359895">Mr. Speaker, I too witnessed this event. I would not like to try to take this any further than what has been described, which frankly I think might have been exaggerated, but what I would like to say is that I did see the hon. member—</ParaText>
               <ParaText id="4359896">
-                <B>Some hon. members:</B> Oh, oh.</ParaText>
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="8934452">
@@ -2851,7 +2833,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the matter of the physical molestation of the hon. member for Berthier—Maskinongé be referred to the Standing Committee on Procedure and House Affairs.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4359915">He said: Mr. Speaker, I believe we have seen and heard evidence from everybody here that makes it apparent that such an occurrence took place and that the member's privileges were violated, as you found, Mr. Speaker, in your preliminary finding.</ParaText>
+              <ParaText id="4359915"> Mr. Speaker, I believe we have seen and heard evidence from everybody here that makes it apparent that such an occurrence took place and that the member's privileges were violated, as you found, Mr. Speaker, in your preliminary finding.</ParaText>
               <ParaText id="4359916">This is a very serious matter. It is not something that can be cured by a simple apology. We have seen that the member's privileges were offended to such a degree that her vote was lost, the most fundamental and basic right of representation in our Westminster parliamentary system. </ParaText>
               <ParaText id="4359917">Even the most heartfelt apology, and I am not sure we had that, is not sufficient to compensate for such a violation of one's privileges. When one combines it with the physical nature of the violation that took place, this is a very significant matter. I have read about this stuff in history books from the 19th century. I have never seen such a thing in my lifetime. </ParaText>
               <ParaText id="4359918">As a result, it is very clear that the House should move quickly to vote on that matter and have the matter referred to the committee for the appropriate study, appropriate recommendations, and to examine how we can avoid such an unfortunate occurrence in the future.</ParaText>
@@ -3263,7 +3245,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214689" Type="18">Mr. Rodger Cuzner (Parliamentary Secretary to the Minister of Employment, Workforce Development and Labour, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4360039">Mr. Speaker, I appreciate the question from the member.</ParaText>
+              <ParaText id="4360039">Madam Speaker, I appreciate the question from the member.</ParaText>
               <ParaText id="4360040">Obviously, having been the critic over the last four years, many of the concerns that she has raised since coming to the House were issues I have been fighting for in my past role.</ParaText>
               <ParaText id="4360041">That is why I am so pleased that, as one of the priorities that has been identified by the government, and indeed by the current minister responsible for the employment insurance program, the announcement in the budget was for $2.5 billion in additional benefits for the employment insurance program.</ParaText>
               <ParaText id="4360042">The member should know that the people she represents will all benefit from some of the changes that we have made to the employment insurance program. When we look at going from a two-week waiting period to a one-week waiting period, that is going to benefit 90% of the people who receive EI benefits.</ParaText>
@@ -3284,7 +3266,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4360050">Madam Speaker, I took up the cause of employment insurance when I decided to become a member of the board of directors of Saint-Hyacinthe's Mouvement action chômage in 1996. I found the Liberals' employment insurance reform completely appalling.</ParaText>
               <ParaText id="4360051">The problem is that fewer than four out of 10 workers have access to employment insurance. What am I supposed to say to the six out of 10 workers who are not getting anything and who spent their whole lives paying into EI? What am I supposed to tell those families? When a worker does not have any income, the whole family does not have any income. Those who happen to be entitled to EI benefits wait for weeks to get their first cheque, but six out of 10 workers will not even get one. That does not make any sense.</ParaText>
-              <ParaText id="4360052">We need to do something. Workers do not chose to become unemployed. They do not choose not to work. That is not true. What people want is to support their families. It does not make any sense to tell workers that we are going to take the time to look into this. No. We need to do something and we need to do it now.</ParaText>
+              <ParaText id="4360052">We need to do something. Workers do not choose to become unemployed. They do not choose not to work. That is not true. What people want is to support their families. It does not make any sense to tell workers that we are going to take the time to look into this. No. We need to do something and we need to do it now.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3344,7 +3326,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214380" Type="2">Mr. James Bezan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4360072">Madam Speaker, I am not questioning the minister's character. I, too, like the minister. He is a gentleman, a lawyer, and as a veteran of the Canadian Armed Forces, I have nothing but the utmost respect for the service that he has provided Canada.</ParaText>
+              <ParaText id="4360072">Madam Speaker, I am not questioning the minister's character. I, too, like the minister. He is a gentleman, a leader, and as a veteran of the Canadian Armed Forces, I have nothing but the utmost respect for the service that he has provided Canada.</ParaText>
               <ParaText id="4360073">What I am questioning are the words he used to describe the Afghanistan mission as “mistakes of the past”. </ParaText>
               <ParaText id="4360074">I want to draw light to what General Tom Lawson, the former chief of the defence staff, said when he was in Afghanistan to close our mission there. He said, “As our flag comes down today, we look back on our mission with pride, knowing that through our efforts we have helped Afghans to gain the hope of a brighter and more secure future”. </ParaText>
               <ParaText id="4360075"> Lieutenant General Stuart Beare, the former commander of the Canadian Joint Operations Command, said, “At the end of the day, the question is: have we made and have we seen real progress in Afghanistan?...The answer...is absolutely and undeniably yes”. </ParaText>
@@ -3356,8 +3338,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4360076">Madam Speaker, we can all look back on the Afghanistan mission with pride. Our people were exemplary and the sacrifices we like to believe were not in vain. But, did we do it perfectly? Of course not, and that is exactly what the minister is concerned about. </ParaText>
               <ParaText id="4360077">In another article, the <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation> said, “A surge of U.S. troops in Afghanistan could have been unnecessary if action had been taken at the first 'clues of corruption'”. </ParaText>
-              <ParaText id="4360078">The minister recounted what a ground forces commander in Iraq once told him to illustrate why the West must avoid repeating mistakes of the past. He said, “Today, we are dealing with the son of al-Qaeda. If we don't get the next piece right, and the next piece is not the military piece, it's that political piece, we will be dealing with the grandson of al-Qaeda”.</ParaText>
-              <ParaText id="4360079">That is exactly ISIS. It is the son of al-Qaeda and the minister is very concerned that--</ParaText>
+              <ParaText id="4360078">The minister recounted what a ground forces commander in Iraq once told him to illustrate why the West must avoid repeating mistakes of the past. He said, “Today, we are dealing with the son of al Qaeda. If we don't get the next piece right, and the next piece is not the military piece, it's that political piece, we will be dealing with the grandson of al Qaeda”.</ParaText>
+              <ParaText id="4360079">That is exactly ISIS. It is the son of al Qaeda and the minister is very concerned that—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="8934594">
@@ -3445,7 +3427,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4360115">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk?>10 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4360115">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk ?>10 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4360116">(The House adjourned at 7:32 p.m.) </ParaText>
             </Content>
           </Intervention>

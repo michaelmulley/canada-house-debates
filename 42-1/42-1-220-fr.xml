@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9724684">
-  <StartPageNumber>14385</StartPageNumber>
+  <StartPageNumber>14363</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -207,7 +207,7 @@
                 <I>Et cinq députés ou plus s'étant levés:</I>
               </ParaText>
               <ParaText id="5069066">
-                <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Conformément à l'article 93 du Règlement, le vote par appel nominal est différé jusqu'au mercredi 25 octobre 2017, juste avant la période prévue pour les affaires émanant des députés.</ParaText>
+                <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Conformément à l'article 93 du Règlement, le vote par appel nominal est différé jusqu'au mercredi 25 octobre, juste avant la période prévue pour les affaires émanant des députés.</ParaText>
               <ProceduralText TocType="TPC" id="2">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
@@ -221,13 +221,14 @@
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069067">La séance est suspendue jusqu'à midi. </ParaText>
+              <ParaText id="5094029">La séance est suspendue jusqu'à midi. </ParaText>
               <ProceduralText TocType="TCC" TocText="Suspension de la séance à 11 h 54" id="3">(La séance est suspendue à 11 h 54.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9727361">
+        <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
         <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
         <ProceduralText TocType="TCC" TocText="Reprise de la séance à midi" id="4">(La séance reprend à midi.)</ProceduralText>
         <SubjectOfBusinessContent>
@@ -237,6 +238,9 @@
               </Affiliation>
             </PersonSpeaking>
             <Content>
+              <ParaText>
+                <Affiliation DbId="214904" Type="92" />
+              </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -246,63 +250,62 @@
       <OrderOfBusinessTitle>INITIATIVES MINISTÉRIELLES</OrderOfBusinessTitle>
       <CatchLine>Travaux des subsides</CatchLine>
       <SubjectOfBusiness id="9724829">
-        <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Travaux des subsides</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Motion de l'opposition — Le ministre des Finances et la Loi sur les conflits d'intérêts</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Cullen" id="9727364">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Cullen" id="9727364">
             <PersonSpeaking>
               <Affiliation DbId="214590" Type="2">M. Nathan Cullen (Skeena—Bulkley Valley, NPD) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ParaText id="5069068"> propose</ParaText>
+              <ParaText id="5094030"> propose:</ParaText>
               <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
-              <ParaText id="5069069">
+              <ParaText id="5094031">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, compte tenu que le ministre des Finances:</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069070">
+              <ParaText id="5094032">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">a) après avoir été élu au Parlement en 2015, a laissé croire aux Canadiens qu’il avait placé ses actions de Morneau Shepell dans une fiducie sans droit de regard, alors qu’il ne l’avait jamais réellement fait;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069071">
+              <ParaText id="5094033">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">b) s’est servi d’une échappatoire dans la Loi sur les conflits d’intérêts pour placer ses actions dans une société à numéro privée, plutôt que de s’en départir ou de les placer dans une fiducie sans droit de regard;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069072">
+              <ParaText id="5094034">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">c) a parrainé, le 19 octobre 2016, le projet de loi C-27, Loi modifiant la Loi de 1985 sur les normes de prestation de pension, qui profiterait vraisemblablement à Morneau Shepell et au ministre des Finances, étant donné qu’à ce moment il continue de posséder des actions de Morneau Shepell par l’entremise d’une compagnie qu’il contrôle;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069073">
+              <ParaText id="5094035">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">d) était et est toujours responsable de réglementer le secteur des pensions, dans lequel il a eu un intérêt économique personnel;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069074">
+              <ParaText id="5094036">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">e) n’a pas été à la hauteur des normes d’éthique établies par le premier ministre dans sa lettre de mandat au ministre;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069075">
+              <ParaText id="5094037">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">la Chambre demande au ministre des Finances de présenter ses excuses à la Chambre et aux Canadiens pour avoir perdu leur confiance, et la Chambre demande au gouvernement d’éliminer immédiatement l’échappatoire dans la Loi sur les conflits d’intérêts, tel que l’a recommandé la commissaire aux conflits d’intérêts et à l’éthique, afin d’empêcher un ministre de la Couronne de profiter personnellement de sa position ou de donner la perception qu’il le fait.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="5069076">— Monsieur le Président, je vais d'abord faire la brillante suggestion de partager mon temps de parole avec mon ami le député de <Affiliation DbId="214268" Type="2">Rimouski-Neigette—Témiscouata—Les Basques</Affiliation>. Ce doit être la meilleure idée que j'aie eue cette semaine. </ParaText>
-              <ParaText id="5069077">La très importante motion présentée par les néo-démocrates aujourd'hui porte sur une question très grave. Certains ont dit qu'il s'agissait d'une motion de censure. Présenter une telle motion ne se fait pas à la légère. Si nous le faisons, c'est en raison du respect que nous vouons à cette assemblée, de l'appréciation que nous avons du rôle des ministres et du rôle important qu'ils occupent dans la vie des Canadiens. Afin de remplir ce rôle, les ministres doivent avoir la confiance des Canadiens et ils doivent se soumettre aux normes les plus élevées en matière d'éthique. </ParaText>
-              <ParaText id="5069078">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a demandé explicitement à ses ministres de ne pas se contenter de respecter à la lettre la législation en matière de comportement éthique et d'aller encore plus loin afin de bien incarner l'esprit de la loi en matière de conflits d'intérêts. Il a également ordonné à ses ministres de divulguer l'existence de l'ensemble de leurs actifs personnels et participations majoritaires afin de demeurer au-dessus de tout soupçon. Ce n'est vraiment pas le cas. </ParaText>
-              <ParaText id="5069079">Commençons par les faits. En effet, quand on formule un argument, il est toujours important d'énoncer les faits. Après avoir été élu au Parlement en 2015, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a laissé croire aux Canadiens qu'il avait placé ses actions de Morneau Shepell dans une fiducie sans droit de regard. C'est ce qu'il a dit à CBC/Radio-Canada, et c'est ce qu'il a indiqué à son ancienne entreprise Morneau Shepell et à ses collègues libéraux. Par ailleurs, pendant deux ans, il n'a rien fait pour corriger cette contre-vérité quand elle était répétée publiquement sur les médias sociaux par les libéraux et d'autres personnes. Il s'agit là du premier fait.</ParaText>
-              <ParaText id="5069080">Le deuxième, c'est que le ministre a exploité une échappatoire dans la Loi sur les conflits d’intérêts pour placer ses actions dans une société à numéro privée, plutôt que de s’en départir ou de les placer dans une fiducie sans droit de regard. Ce fait a été établi. C'est uniquement grâce aux recherches des médias que nous avons découvert la vérité. </ParaText>
-              <ParaText id="5069081">Troisièmement, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a parrainé un projet de loi le 19 octobre 2016. Il s'agit du projet de loi <Document DbId="8502232" Type="3">C-27</Document>, Loi modifiant la Loi de 1985 sur les normes de prestation de pension, qui profiterait vraisemblablement à Morneau Shepell, une société dont le ministre était encore actionnaire et qui lui remettait chaque mois des dividendes dont la valeur dépassait presque son salaire de député pour toute une année. Morneau Shepell est active dans le domaine des pensions, où elle récolte de gros profits. Soit dit en passant, le projet de loi nuirait énormément à la sécurité des pensions des Canadiens, car le risque qui était partagé entre l'employeur et l'employé serait désormais entièrement supporté par l'employé. Donc, le ministre a parrainé un projet de loi qui serait directement avantageux pour une société dans laquelle il avait encore des actions.</ParaText>
-              <ParaText id="5069082">Quatrièmement, le ministre est encore aujourd'hui responsable de réglementer l'industrie des fonds de pension alors qu'il avait personnellement des intérêts dans cette industrie et qu'il en a toujours. Comme nous l'indiquons dans notre motion, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a demandé au <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> de respecter des normes d'éthique très élevées, et non de se contenter de faire le minimum. Le premier ministre a indiqué explicitement aux ministres qu'ils devaient dévoiler publiquement la totalité de leurs avoirs personnels. Le ministre des Finances ne s'est pas acquitté de ces deux obligations.</ParaText>
-              <ParaText id="5069083">Nous demandons deux choses bien précises, car notre but ne se résume pas à énoncer les faits en question; nous voulons, aussi, améliorer les choses.</ParaText>
-              <ParaText id="5069084"> D'abord, si le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> — et le gouvernement par la même occasion — souhaite sincèrement tenter de rétablir la confiance du milieu des affaires et de la population en général à son égard, à l'égard de sa fonction, il me semble que des excuses s'imposent. L'une des choses les plus difficiles à faire en politique est probablement de dire: « J'ai eu tort et de le regrette. J'ai eu tort de tirer parti de cette échappatoire. Je m'excuse de l'avoir fait. Voici ce que je vais faire pour me racheter. » </ParaText>
-              <ParaText id="5069085">J'ai été étonné, tout comme bien des Canadiens d'après ce que j'ai pu comprendre cette fin de semaine, par l'attitude adoptée par le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> la semaine dernière: « Ne suis-je pas extraordinaire? Je songe, peut-être à un moment donné, à me départir de ma participation dans un secteur que je vais continuer de réglementer. Ne suis-je pas extraordinaire d'avoir laissé la population croire ce mensonge pendant deux ans, de ne l'avoir jamais corrigé et de ne pas encore m'en excuser? Ne suis-je pas extraordinaire quand je dis aux médias que ce n'est pas à eux que je dois rendre des comptes quand ils demandent à avoir plus de renseignements? » </ParaText>
+              <ParaText id="5094038">— Madame la Présidente, je vais d'abord faire la brillante suggestion de partager mon temps de parole avec mon ami le député de <Affiliation DbId="214268" Type="2">Rimouski-Neigette—Témiscouata—Les Basques</Affiliation>. Ce doit être la meilleure idée que j'aie eue cette semaine. </ParaText>
+              <ParaText id="5094039">La très importante motion présentée par les néo-démocrates aujourd'hui porte sur une question très grave. Certains ont dit qu'il s'agissait d'une motion de censure. Présenter une telle motion ne se fait pas à la légère. Si nous le faisons, c'est en raison du respect que nous vouons à cette assemblée, de l'appréciation que nous avons du rôle des ministres et du rôle important qu'ils occupent dans la vie des Canadiens. Afin de remplir ce rôle, les ministres doivent avoir la confiance des Canadiens et ils doivent se soumettre aux normes les plus élevées en matière d'éthique. </ParaText>
+              <ParaText id="5094040">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a demandé explicitement à ses ministres de ne pas se contenter de respecter à la lettre la législation en matière de comportement éthique et d'aller encore plus loin afin de bien incarner l'esprit de la loi en matière de conflits d'intérêts. Il a également ordonné à ses ministres de divulguer l'existence de l'ensemble de leurs actifs personnels et participations majoritaires afin de demeurer au-dessus de tout soupçon. Ce n'est vraiment pas le cas. </ParaText>
+              <ParaText id="5094041">Commençons par les faits. En effet, quand on formule un argument, il est toujours important d'énoncer les faits. Après avoir été élu au Parlement en 2015, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a laissé croire aux Canadiens qu'il avait placé ses actions de Morneau Shepell dans une fiducie sans droit de regard. C'est ce qu'il a dit à CBC/Radio-Canada, et c'est ce qu'il a indiqué à son ancienne entreprise Morneau Shepell et à ses collègues libéraux. Par ailleurs, pendant deux ans, il n'a rien fait pour corriger cette contre-vérité quand elle était répétée publiquement sur les médias sociaux par les libéraux et d'autres personnes. Il s'agit là du premier fait.</ParaText>
+              <ParaText id="5094042">Le deuxième, c'est que le ministre a exploité une échappatoire dans la Loi sur les conflits d’intérêts pour placer ses actions dans une société à numéro privée, plutôt que de s’en départir ou de les placer dans une fiducie sans droit de regard. Ce fait a été établi. C'est uniquement grâce aux recherches des médias que nous avons découvert la vérité. </ParaText>
+              <ParaText id="5094043">Troisièmement, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a parrainé un projet de loi le 19 octobre 2016. Il s'agit du projet de loi <Document DbId="8502232" Type="3">C-27</Document>, Loi modifiant la Loi de 1985 sur les normes de prestation de pension, qui profiterait vraisemblablement à Morneau Shepell, une société dont le ministre était encore actionnaire et qui lui remettait chaque mois des dividendes dont la valeur dépassait presque son salaire de député pour toute une année. Morneau Shepell est active dans le domaine des pensions, où elle récolte de gros profits. Soit dit en passant, le projet de loi nuirait énormément à la sécurité des pensions des Canadiens, car le risque qui était partagé entre l'employeur et l'employé serait désormais entièrement supporté par l'employé. Donc, le ministre a parrainé un projet de loi qui serait directement avantageux pour une société dans laquelle il avait encore des actions.</ParaText>
+              <ParaText id="5094044">Quatrièmement, le ministre est encore aujourd'hui responsable de réglementer l'industrie des fonds de pension alors qu'il avait personnellement des intérêts dans cette industrie et qu'il en a toujours. Comme nous l'indiquons dans notre motion, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a demandé au <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> de respecter des normes d'éthique très élevées, et non de se contenter de faire le minimum. Le premier ministre a indiqué explicitement aux ministres qu'ils devaient dévoiler publiquement la totalité de leurs avoirs personnels. Le ministre des Finances ne s'est pas acquitté de ces deux obligations.</ParaText>
+              <ParaText id="5094045">Nous demandons deux choses bien précises, car notre but ne se résume pas à énoncer les faits en question; nous voulons, aussi, améliorer les choses.</ParaText>
+              <ParaText id="5094046"> D'abord, si le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> — et le gouvernement par la même occasion — souhaite sincèrement tenter de rétablir la confiance du milieu des affaires et de la population en général à son égard, à l'égard de sa fonction, il me semble que des excuses s'imposent. L'une des choses les plus difficiles à faire en politique est probablement de dire: « J'ai eu tort et de le regrette. J'ai eu tort de tirer parti de cette échappatoire. Je m'excuse de l'avoir fait. Voici ce que je vais faire pour me racheter. » </ParaText>
+              <ParaText id="5094047">J'ai été étonné, tout comme bien des Canadiens d'après ce que j'ai pu comprendre cette fin de semaine, par l'attitude adoptée par le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> la semaine dernière: « Ne suis-je pas extraordinaire? Je songe, peut-être à un moment donné, à me départir de ma participation dans un secteur que je vais continuer de réglementer. Ne suis-je pas extraordinaire d'avoir laissé la population croire ce mensonge pendant deux ans, de ne l'avoir jamais corrigé et de ne pas encore m'en excuser? Ne suis-je pas extraordinaire quand je dis aux médias que ce n'est pas à eux que je dois rendre des comptes quand ils demandent à avoir plus de renseignements? » </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
@@ -428,7 +431,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214107" Type="2">M. Joël Godin</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069129">Madame la Présidente, j'aimerais que le député me dise qu'est-ce que cette attitude du <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> peut laisser présager.</ParaText>
+              <ParaText id="5069129">Madame la Présidente, j'aimerais que le député me dise ce que cette attitude du <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> peut laisser présager.</ParaText>
               <ParaText id="5069130">Comment le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> peut-il défendre les actions indéfendables de son ministre des Finances? Comme le député l'a si bien mentionné, dans le passé, des parlementaires ont fait des choses beaucoup moins graves qui, malheureusement, les ont forcé à quitter leur fonction.</ParaText>
               <ParaText id="5069131">Qu'est-ce que cette attitude du ministre des Finances peut cacher?</ParaText>
             </Content>
@@ -502,7 +505,7 @@
             <Content>
               <ParaText id="5069162">Je remercie le député. Comme il l'a souligné, nous avons beaucoup de marge de manoeuvre dans nos débats. Il faut cependant que le député tienne compte de l'objet de la motion.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="5069163">Je vais demander au député de s'assurer qu'il parle concernant la motion, même s'il y a un peu de latitude pour la discussion.</ParaText>
+              <ParaText id="5069163">Je vais demander au député de s'assurer qu'il parle de la motion, même s'il y a un peu de latitude pour la discussion.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Lightbound" id="9724896">
@@ -543,9 +546,9 @@
               <ParaText id="5069179">Le secrétaire parlementaire a la parole.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Lightbound" id="9724904">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lightbound" id="9724904">
             <PersonSpeaking>
-              <Affiliation DbId="234563" Type="18">M. Joël Lightbound (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="234563" Type="18">M. Joël Lightbound</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069180">Madame la Présidente, je vais rappeler au député en anglais ce que j'ai dit en français, c'est-à-dire que le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>, dès le début, avant même son entrée en fonction, s'est réuni avec la commissaire à l'éthique et son personnel. C'est la façon de procéder pour tous les parlementaires, y compris tous les secrétaires parlementaires, les ministres et les députés, pour faire en sorte que chaque député, selon sa situation, respecte la ligne de conduite établie par la commissaire, ainsi que ses lignes directrices et ses recommandations. </ParaText>
               <ParaText id="5069181">L'une des recommandations à l'intention du ministre des Finances, c'était de mettre en place un écran, qui serait rendu public, pour prévenir les conflits d'intérêts. C'est ce que le ministre a fait. Il a toujours suivi les recommandations de la commissaire à l'éthique et, comme toujours, a collaboré avec elle et continuera de le faire. Il est même allé au-delà...</ParaText>
@@ -562,7 +565,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214428" Type="2">M. Pierre-Luc Dusseault (Sherbrooke, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069186">Madame la Présidente, c'est une déception d'entendre mon collègue réciter les actions de son gouvernement, alors qu'on a une motion qui est pourtant très claire. Je n'ai pas l'impression qu'il l'a lue.</ParaText>
+              <ParaText id="5069186">Madame la Présidente, c'est décevant d'entendre mon collègue réciter les actions de son gouvernement, alors qu'on a une motion qui est pourtant très claire. Je n'ai pas l'impression qu'il l'a lue.</ParaText>
               <ParaText id="5069187">Je vais quand même poser une question à mon collègue reliée à la motion pour peut-être finalement avoir un peu plus d'information sur cela. Ma question concerne le fait que plusieurs de ses collègues ont mentionné avoir été induits en erreur par le ministre. Un de ses collègues de la région de Toronto avait dit qu'il était sûr que le ministre avait placé ses actifs dans une fiducie sans droit de regard pas plus tard que la veille, avant qu'on apprenne que ce n'était finalement pas le cas.</ParaText>
               <ParaText id="5069188">Je me demandais donc si mon collègue avait lui-même été berné par le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>? Quelle était sa compréhension de la question avant d'apprendre que le ministre des Finances n'avait pas placé ses actifs dans une fiducie sans droit de regard? À quel moment mon collègue a-t-il appris qu'il s'était fait berné par le ministre des Finances?</ParaText>
               <ParaText id="5069189">Il peut peut-être nous donner un peu plus d'éclairage sur la façon dont son caucus a appris la nouvelle que tout le monde pensait déjà vraie, c'est-à-dire que le ministre avait déjà placé ses actifs dans une fiducie sans droit de regard.</ParaText>
@@ -748,7 +751,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069254"> Madame la Présidente, merci à mon collègue que je salue pour son canadianisme de bon aloi.</ParaText>
+              <ParaText id="5069254"> Madame la Présidente, je remercie mon collègue, que je salue pour son canadianisme de bon aloi.</ParaText>
               <ParaText id="5069255">Il est certain que lorsqu'on est le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>, il faut être au-dessus de la mêlée et il ne faut surtout pas être en conflit d'intérêts. Si par bonheur, en d'autres temps, le ministre des Finances, alors qu'il était dans le secteur privé, a fait fructifier une entreprise, il était de son devoir de mettre cela de côté dans une fiducie sans droit de regard ou de vendre toutes ses actions pour agir en pleine liberté.</ParaText>
               <ParaText id="5069256">Cependant, non, il a conçu, déposé et débattu à la Chambre le projet de loi <Document DbId="8502232" Type="3">C-27</Document> qui touche directement les pensions et qui est directement relié avec ce que fait l'entreprise avec laquelle il a travaillé. C'est exactement ce que nous disions; il n'a malheureusement pas mis la distance nécessaire entre sa fonction d'aujourd'hui, celle de ministre des Finances, et son expérience passée.</ParaText>
             </Content>
@@ -771,7 +774,7 @@
               <ParaText id="5069262">Dois-je rappeler que notre gouvernement avait dit, par le biais d'une loi, qu'il fallait baisser à 9 % le taux d'imposition des entreprises. Cependant, le premier budget du gouvernement actuel comportait une clause qui disait qu'on allait abolir la loi qui permet aux entreprises de payer moins de taxes et d'impôt. C'est de l'inédit. Les libéraux s'étaient engagés en campagne électorale en faisant une promesse, ils l'ont brisée en déposant leur budget, et là, ils annoncent qu'ils vont la tenir.</ParaText>
               <ParaText id="5069263">C'est pas pire, c'est la première fois qu'ils font une annonce pour dire qu'ils brisent une promesse, qu'ils ont eux-mêmes brisée. Bravo champions, c'est extraordinaire! C'est cela le Parti libéral.</ParaText>
               <ParaText id="5069264">
-                <B>Des voix: </B>Ah, ah!</ParaText>
+                <B>Des voix: </B>Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -812,7 +815,12 @@
               <ParaText id="5069282"> « Nous avons promis aux Canadiens un gouvernement qui amènera de réels changements, tant en ce qui a trait à nos actions qu’à la manière dont nous les accomplirons. »</ParaText>
               <ParaText id="5069283">« Nous nous sommes également engagés à relever la barre en matière d’ouverture et de transparence au sein du gouvernement. »</ParaText>
               <ParaText id="5069284">« Si nous faisons des erreurs, nous devons les reconnaître sur-le-champ. »</ParaText>
-              <ParaText id="5069285">Enfin, la phrase la plus pertinente pour le débat d'aujourd'hui: « [...] vous devez observer les normes les plus élevées en matière d’honnêteté et d’impartialité, et l’accomplissement de vos tâches dans le cadre de vos fonctions officielles de même que l’organisation de vos affaires privées devraient pouvoir faire l’objet d’un examen scrupuleux du public. On ne s’acquitte pas de cette obligation simplement en se contentant de respecter la loi. »</ParaText>
+              <ParaText id="5069285">Enfin, la phrase la plus pertinente pour le débat d'aujourd'hui:</ParaText>
+              <ParaText id="5069285">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">[...] vous devez observer les normes les plus élevées en matière d’honnêteté et d’impartialité, et l’accomplissement de vos tâches dans le cadre de vos fonctions officielles de même que l’organisation de vos affaires privées devraient pouvoir faire l’objet d’un examen scrupuleux du public. On ne s’acquitte pas de cette obligation simplement en se contentant de respecter la loi.</QuotePara>
+                </Quote>
+              </ParaText>
               <Timestamp Hr="13" Mn="30">(1330)</Timestamp>
               <ParaText id="5069286">En raison des pressions exercées par l’opposition et de l’enquête menée par des journalistes, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a fait la semaine dernière ce qu’il fallait faire et, après deux ans au poste de <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>, s’est départi, ainsi que sa famille, de toutes les actions qu’ils détenaient dans Morneau Shepell. C’était la chose à faire.</ParaText>
               <ParaText id="5069287">Madame la Présidente, je dirais que le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a encore des mesures à prendre pour se conformer aux attentes énoncées dans la lettre de mandat du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. Mais voyons cela de plus près en regard du projet de loi<Document DbId="8502232" Type="3">C-27</Document>.</ParaText>
@@ -892,10 +900,7 @@
                 <B>M. Alexandre Boulerice:</B> Oui. Le hasard fait bien les choses parfois. Le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> n'a peut-être qu'un million d'actions. Nous pouvons débattre cela. Il a probablement 2 millions d'actions de Morneau Shepell, et il dépose le projet de loi C-27, qui, je m'excuse de l'expression, amènerait de la <I>business</I> à sa propre entreprise, dont il tire profit personnellement. </ParaText>
               <ParaText id="5069324">Le projet de loi C-27 viendrait changer les prestations déterminées par des prestations cibles. Ces prestations, conceptuellement, sont comme du Jell-O. C'est comme un régime de retraite Jell-O qui ne donne aucune idée du montant qu'on aura à la retraite. Il y a une cible, un objectif. On aimerait avoir 1 000 $ par mois, par exemple. Or il n'y a aucune garantie que cela se produira, et c'est un régime extrêmement complexe à gérer. Ce sont des compagnies comme Morneau Shepell qui le font. </ParaText>
               <ParaText id="5069325">Le ministre des Finances a-t-il placé tous ses actifs et ses actions dans une fiducie sans droit de regard, tel qu'il l'avait laissé entendre au départ quand il a été élu?</ParaText>
-              <ParaText id="5069326">
-                <B>Une voix:</B> Bien oui. Je l'espère bien.</ParaText>
-              <ParaText id="5069327">
-                <B>M. Alexandre Boulerice:</B> Surprise, madame la Présidente, on apprend que non. Je sens la déception. </ParaText>
+              <ParaText id="5069327"> Surprise, madame la Présidente, on apprend que non. Je sens la déception. </ParaText>
               <ParaText id="5069328">Le ministre des Finances, qui est un homme brillant mais parfois un peu ratoureux, a justement utilisé une échappatoire pour ne pas placer ses actions et ses actifs dans une fiducie sans droit de regard. Il les a placés dans une compagnie à numéro. Il a pensé qu'on ne s'en rendrait pas compte, alors que le projet de loi C-27, qu'il pilote lui-même, viendrait profiter à sa compagnie, donc, à son propre portefeuille. </ParaText>
               <ParaText id="5069329">Le ministre des Finances vient de se placer dans une situation de conflit d'intérêts qui est flagrante. Dès que le projet de loi <Document DbId="8502232" Type="3">C-27</Document> a été déposé, il y a eu un effet sur les marchés. Quel effet cela a eu sur les actions de Morneau Shepell? Elles ont monté.</ParaText>
               <ParaText id="5069330">
@@ -909,7 +914,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069332">L'honorable secrétaire parlementaire de la ministre des Services publics et de l’Approvisionnement a la parole pour les questions et commentaires.</ParaText>
+              <ParaText id="5069332">L'honorable secrétaire parlementaire de la ministre des Services publics et de l’Approvisionnement a la parole. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. MacKinnon" id="9725106">
@@ -1157,7 +1162,7 @@
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069395">Monsieur le Président, les citoyens de Laurentides—Labelle sont fébriles, puisqu'une nouvelle saison de ski débutera dans quelques semaines.</ParaText>
-              <ParaText id="5069396">Les Laurentides sont le berceau du ski au Canada, et c'est grâce à nos pionniers, comme « Jackrabbit » Johannsen, Emile Coshand, Lucile Wheeler et même ma grand-mère, Pat Paré, que le ski est devenu une véritable industrie.</ParaText>
+              <ParaText id="5069396">Les Laurentides sont le berceau du ski au Canada, et c'est grâce à nos pionniers, comme « Jackrabbit » Johannsen, Émile Cochand, Lucile Wheeler et même ma grand-mère, Pat Paré, que le ski est devenu une véritable industrie.</ParaText>
               <ParaText id="5069397">La pratique du ski alpin, de la planche à neige, du télémark ou du ski de fond est rendue possible grâce aux milliers de femmes et d'hommes qui s'activent d'un bout à l'autre de ma circonscription, et c'est à eux que je veux rendre hommage aujourd'hui.</ParaText>
               <ParaText id="5069398">Je félicite tous ceux qui oeuvrent, lors de chaque saison hivernale, à faire de notre région la destination de ski par excellence: les moniteurs, les entraîneurs, les responsables du service à la clientèle, le personnel administratif, les cuisiniers, les patrouilleurs, les traceurs de pistes, les employés d'entretien, les mécaniciens et les techniciens, les responsables des remontées et des stationnements, les conseillers à la location, ainsi que les travailleurs de la restauration et de l'hébergement. </ParaText>
               <ParaText id="5069399">Je les remercie et je leur souhaite une excellente saison de ski.</ParaText>
@@ -1334,7 +1339,7 @@
             <Content>
               <ParaText id="5069435">Monsieur le Président, le moins que l'on puisse dire, c'est que le gouvernement a complètement perdu le contrôle des finances publiques. </ParaText>
               <ParaText id="5069436">Là, vraiment, nous aurons tout vu. Pour éponger sa mauvaise gestion et après avoir attaqué les PME, le gouvernement libéral attaque les gens qui sont malades et qui souffrent du diabète. C'est de l'inédit, c'est du jamais vu et c'est tout à fait inacceptable.</ParaText>
-              <ParaText id="5069437">Le gouvernement a décidé d'abolir un crédit d'impôt pour ces gens qui souffrent énormément, et pendant ce temps, le ministre des Finances profite de certains oublis qu'il a fait pour payer ses impôts et surtout gérer convenablement l'État. </ParaText>
+              <ParaText id="5069437">Le gouvernement a décidé d'abolir un crédit d'impôt pour ces gens qui souffrent énormément, et pendant ce temps, le ministre des Finances profite de certains oublis qu'il a faits pour payer ses impôts et surtout gérer convenablement l'État. </ParaText>
               <ParaText id="5069438">Pourquoi le ministre a-t-il deux poids deux mesures? Pourquoi attaque-t-il les gens qui souffrent de diabète?</ParaText>
             </Content>
           </Intervention>
@@ -1362,7 +1367,7 @@
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069446">Monsieur le Président, pendant que l'opposition se préoccupe de mes finances, je me préoccupe des finances des Canadiens et des familles canadiennes. C'est cela qui est important.</ParaText>
-              <ParaText id="5069447"> Nous avons présentement le taux de croissance économique le plus haut depuis une décennie. C'est très important pour les familles canadiennes. Au cours de la dernière année, nous avons créé plus de 400 000 nouveaux emplois. C'est une très bonne situation pour les familles canadiennes, et c'est cela qui me préoccupe.</ParaText>
+              <ParaText id="5069447"> Nous avons présentement le taux de croissance économique le plus haut depuis une décennie. C'est très important pour les familles canadiennes. Au cours de la dernière année, nous avons créé plus de 400 000 nouveaux emplois. C'est une très bonne situation pour les familles canadiennes, et c'est cela qui m'occupe.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Caron" id="9725285">
@@ -1432,7 +1437,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069466">Monsieur le Président, je sais que l'opposition veut parler de mes finances. Je veux parler des finances des Canadiens. Ce sont des choses très importantes. C'était notre but au départ. Nous continuons avec notre politique et notre programme pour améliorer la situation des familles canadiennes. Nous aurons encore plus à dire demain, mais ce que je peux dire aujourd'hui, c'est que c'est une très bonne situation pour notre économie et une très bonne situation pour les familles canadiennes.</ParaText>
+              <ParaText id="5069466">Monsieur le Président, je sais que l'opposition veut parler de mes finances. Je veux parler des finances des Canadiens. Ce sont des choses très importantes. C'était notre but au départ. Nous poursuivons avec notre politique et notre programme pour améliorer la situation des familles canadiennes. Nous aurons encore plus à dire demain, mais ce que je peux dire aujourd'hui, c'est que c'est une très bonne situation pour notre économie et une très bonne situation pour les familles canadiennes.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1470,7 +1475,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213862" Type="2">L'hon. Maxime Bernier (Beauce, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069471">Monsieur le Président, en 2013, l'actuel <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> était un cadre supérieur dans sa propre compagnie, Morneau Shepell. À ce moment-là, il parlait de la nécessité de déposer un projet de loi au Canada, qui allait justement faire en sorte de changer les régimes de pensions privés. C'est ce qu'il a fait dès qu'il a été élu. En plus, il continue à recevoir des sommes de Morneau Shepell. Il s'est placé directement en conflit d'intérêts. </ParaText>
+              <ParaText id="5069471">Monsieur le Président, en 2013, l'actuel <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> était un cadre supérieur dans sa propre compagnie, Morneau Shepell. À ce moment-là, il parlait de la nécessité de déposer un projet de loi au Canada qui allait justement faire en sorte de changer les régimes de pensions privés. C'est ce qu'il a fait dès qu'il a été élu. En plus, il continue à recevoir des sommes de Morneau Shepell. Il s'est placé directement en conflit d'intérêts. </ParaText>
               <ParaText id="5069472">Ma question au ministre des Finances est simple: s'est-il adressé à la commissaire aux conflits d'intérêts et à l'éthique pour s'assurer que son comportement respecte toute l'éthique?</ParaText>
             </Content>
           </Intervention>
@@ -1478,7 +1483,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069473">Monsieur le Président, l'opposition veut continuer de parler de mes finances, mais je vais continuer à être préoccupé par la retraite des Canadiens. C'est quelque chose de très important. Comme je l'ai dit, c'est très important pour eux d'avoir une meilleure situation avec le Supplément de revenu garanti. De plus, c'est très important qu'une personne puisse prendre sa retraite à 65 ans avec la Pension de la Sécurité de la vieillesse. Finalement, nous avons amélioré le programme de retraite pour les Canadiens pour l'avenir, et c'est très important. Nous sommes préoccupés par les retraites au Canada. Cela va être...</ParaText>
+              <ParaText id="5069473">Monsieur le Président, l'opposition veut continuer de parler de mes finances, mais je vais continuer à être préoccupé par la retraite des Canadiens. C'est quelque chose de très important. Comme je l'ai dit, c'est très important pour eux d'avoir une meilleure situation avec le Supplément de revenu garanti. De plus, c'est très important qu'une personne puisse prendre sa retraite à 65 ans avec la pension de la Sécurité de la vieillesse. Finalement, nous avons amélioré le programme de retraite pour les Canadiens pour l'avenir, et c'est très important. Nous sommes préoccupés par les retraites au Canada. Cela va être...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9725351">
@@ -1666,9 +1671,9 @@
             <PersonSpeaking>
               <Affiliation DbId="214432" Type="2">Mme Christine Moore (Abitibi—Témiscamingue, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069513">Monsieur le Président, CBC/Radio-Canada rapporte aujourd'hui que le taux de condamnation pour des accusations d'agression sexuelle est beaucoup plus faible dans le système de justice militaire que civil.</ParaText>
-              <ParaText id="5069514">De plus, les victimes ne bénéficient pas des mêmes droits ou protections juridiques. Plus souvent qu'autrement, les accusés reçoivent une tape sur les doigts, avant de continuer à travailler au même endroit que les victimes. Les conséquences sont administratives, pas criminelles. Ce n'est pas comme au tribunal.</ParaText>
-              <ParaText id="5069515">Est-ce que les libéraux vont comprendre l'impact sur les victimes au sein des forces armées et leur offrir un meilleur soutien?</ParaText>
+              <ParaText id="5069513">Monsieur le Président, CBC/Radio-Canada rapporte aujourd'hui que le taux de condamnation pour des accusations d'agression sexuelle est beaucoup plus faible dans le système de justice militaire qu'au civil.</ParaText>
+              <ParaText id="5069514">De plus, les victimes ne bénéficient pas des mêmes droits ou protections juridiques. Plus souvent qu'autrement, les accusés reçoivent une tape sur les doigts avant de continuer à travailler au même endroit que les victimes. Les conséquences sont administratives, pas criminelles. Ce n'est pas comme au tribunal.</ParaText>
+              <ParaText id="5069515">Est-ce que les libéraux vont comprendre l'impact que cela a sur les victimes au sein des forces armées et leur offrir un meilleur soutien?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1728,14 +1733,14 @@
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069526">Monsieur le Président, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> possède des actions de Morneau Shepell qui le placent en conflit d'intérêts avec la fonction qu'il occupe. Nous savons également qu'il possède des actions dans plusieurs autres sociétés de portefeuille.</ParaText>
-              <ParaText id="5069527">Quand le ministre des Finances va-t-il rencontrer la commissaire aux conflits d'intérêts et à l'éthique tel que promis, et divulguera-t-il enfin tous ses autres investissements à la Chambre, afin que les Canadiens sachent si le ministre est encore en conflit d'intérêts?</ParaText>
+              <ParaText id="5069527">Quand le ministre des Finances va-t-il rencontrer la commissaire aux conflits d'intérêts et à l'éthique, tel que promis, et divulguera-t-il enfin tous ses autres investissements à la Chambre, afin que les Canadiens sachent si le ministre est encore en conflit d'intérêts?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Morneau" id="9725461">
             <PersonSpeaking>
               <Affiliation DbId="214320" Type="4">L’hon. Bill Morneau (ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069528">Monsieur le Président, pendant que l'opposition se soucie de mes finances, je me soucie des finances des Canadiens et des Canadiennes. C'est très important. Nous continuerons avec notre programme visant à améliorer la situation des familles canadiennes et ce que je peux dire, c'est que cela fonctionne. Nous avons maintenant le plus haut niveau de croissance depuis une décennie et, l'année dernière, nous avons eu presque 400 000 nouveaux emplois au pays. C'est une très bonne situation. Demain, nous parlerons un peu plus de la bonne situation économique.</ParaText>
+              <ParaText id="5069528">Monsieur le Président, pendant que l'opposition se soucie de mes finances, je me soucie des finances des Canadiens et des Canadiennes. C'est très important. Nous poursuivons notre programme visant à améliorer la situation des familles canadiennes, et ce que je peux dire, c'est que cela fonctionne. Nous avons maintenant le plus haut niveau de croissance depuis une décennie et, l'année dernière, nous avons eu presque 400 000 nouveaux emplois au pays. C'est une très bonne situation. Demain, nous parlerons un peu plus de la bonne situation économique.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1822,8 +1827,8 @@
             <PersonSpeaking>
               <Affiliation DbId="214428" Type="2">M. Pierre-Luc Dusseault (Sherbrooke, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069548">Monsieur le Président, le problème du système de paie Phénix continue de hanter des milliers d'employés, et même leurs familles.</ParaText>
-              <ParaText id="5069549">À Sherbrooke, un frère et une soeur aux études vivent avec les conséquences de Phénix chaque jour depuis le décès de leur père, un ancien fonctionnaire fédéral. Depuis un an et demi, les enfants de M. Fortin et leur notaire sont confrontés aux problèmes de Phénix qui les empêchent de régler la succession et de passer à travers leur deuil. C'est tout à fait inacceptable et inhumain que des familles se retrouvent dans ce genre de situation à cause du gouvernement fédéral et, surtout, à cause de son incompétence.</ParaText>
+              <ParaText id="5069548">Monsieur le Président, le problème du système de paie Phénix continue de hanter des milliers d'employés et même leurs familles.</ParaText>
+              <ParaText id="5069549">À Sherbrooke, un frère et une soeur aux études vivent avec les conséquences de Phénix chaque jour depuis le décès de leur père, un ancien fonctionnaire fédéral. Depuis un an et demi, les enfants de M. Fortin et leur notaire sont confrontés aux problèmes de Phénix qui les empêchent de régler la succession et de traverser leur deuil. C'est tout à fait inacceptable et inhumain que des familles se retrouvent dans ce genre de situation à cause du gouvernement fédéral et, surtout, à cause de son incompétence.</ParaText>
               <ParaText id="5069550">Combien de temps les enfants de M. Fortin devront-ils encore attendre avant de pouvoir régler la succession de leur père et enfin tourner la page? J'en appelle à la compassion de la ministre.</ParaText>
             </Content>
           </Intervention>
@@ -1909,13 +1914,16 @@
             <Content>
               <ParaText id="5069568">Monsieur le Président, je veux rappeler à mes collègues d'en face que la loi n'a pas du tout été changée. Il n'y a aucune interprétation de la loi qui a été modifiée. </ParaText>
               <ParaText id="5069569">Je rappelle que ce sont les conservateurs qui ont supprimé des services à l'Agence du revenu du Canada, et que nous sommes actuellement en train d'embaucher des infirmières pour évaluer les demandes de ce crédit, durant la première étape du processus.</ParaText>
+              <ParaText id="5149846">
+                <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9725502">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069570">À l'ordre. L'honorable députée de <Affiliation DbId="213937" Type="2">Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix</Affiliation> devrait se calmer. La parole est à l'honorable député de Saint-Léonard—Saint-Michel.</ParaText>
+              <ParaText id="5069570">À l'ordre. L'honorable députée de <Affiliation DbId="213937" Type="2">Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix</Affiliation> devrait se calmer. </ParaText>
+              <ParaText id="5069570">La parole est à l'honorable député de Saint-Léonard—Saint-Michel.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1927,7 +1935,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214195" Type="2">M. Nicola Di Iorio (Saint-Léonard—Saint-Michel, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069571">Monsieur le Président, les nouvelles venant du Myanmar et du Bangladesh sur la situation des Rohingyas sont particulièrement alarmantes. Les médias relaient d'horribles témoignages de meurtres et de viols de femmes et de filles, tandis que des milliers d'enfants qui se retrouvent parfois seuls, après avoir vécu des scènes inouïes, tentent de survivre à un chaos où les épidémies menacent. </ParaText>
+              <ParaText id="5069571">Monsieur le Président, les nouvelles venant du Myanmar et du Bangladesh sur la situation des Rohingyas sont particulièrement alarmantes. Les médias relaient d'horribles témoignages de meurtres et de viols de femmes et de filles, tandis que des milliers d'enfants qui se retrouvent parfois seuls, après avoir vécu des scènes inouïes, tentent de survivre à un chaos où il y a menace d'épidémies.</ParaText>
               <ParaText id="5069572">La <Affiliation DbId="214322" Type="4">ministre du Développement international et de la Francophonie</Affiliation> peut-elle informer la Chambre des dernières mesures prises par le gouvernement dans le domaine humanitaire pour aider les Rohingyas?</ParaText>
             </Content>
           </Intervention>
@@ -1972,7 +1980,7 @@
               <Affiliation DbId="214056" Type="2">Mme Anne Minh-Thu Quach (Salaberry—Suroît, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069578">Monsieur le Président, avec mon entreprise, j'apporte une épave à Shediac sans avoir les autorisations ni l'expertise nécessaires. À la suite de pressions populaires, je vends l'épave à une compagnie louche et je continue à gagner de l'argent. Pendant six ans, le gouvernement ne fait rien, ou presque, puis l'épave est sur le point de se désagréger.</ParaText>
-              <ParaText id="5069579">Est-ce que le <Affiliation DbId="223727" Type="4">ministre des Pêches et des Océans</Affiliation> me donnerait 19 millions de dollars pour sécuriser et démanteler l'épave que j'ai moi-même amenée dans sa cour?</ParaText>
+              <ParaText id="5069579">Est-ce que le <Affiliation DbId="223727" Type="4">ministre des Pêches et des Océans</Affiliation> me donnerait 19 millions de dollars pour sécuriser et démanteler l'épave que j'aurais moi-même apportée dans sa cour?</ParaText>
               <ParaText id="5069580">Sinon, pourquoi fait-il ce coup tordu aux citoyens de Beauharnois en ce qui concerne le <I>Kathryn Spirit</I>, octroyant le contrat à la compagnie qui l'a apporté là?</ParaText>
               <ParaText id="5069581">Est-ce que c'est cela, respecter le principe du pollueur-payeur?</ParaText>
             </Content>
@@ -1982,8 +1990,8 @@
               <Affiliation DbId="214333" Type="4">L’hon. Marc Garneau (ministre des Transports, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069582">Monsieur le Président, cela me donne l'occasion de dire que notre gouvernement est déterminé à protéger la santé et la sécurité des Canadiens ainsi que nos eaux.</ParaText>
-              <ParaText id="5069583">Nous prenons les mesures nécessaires pour nous assurer que le déplacement permanent du navire <I>Kathryn Spirit </I> est effectué de façon sûre et efficace, ce que l'ancien gouvernement n'a pas fait.</ParaText>
-              <ParaText id="5069584">Entre juillet 2016 et juillet 2017, Services publics et Approvisionnement Canada a réalisé plusieurs évaluations et études environnementales nécessaires au démantèlement du navire. Nous allons faire ce que nous avons promis.</ParaText>
+              <ParaText id="5069583">Nous prenons les mesures nécessaires pour nous assurer que le déplacement permanent du navire <I>Kathryn Spirit</I> est effectué de façon sûre et efficace, ce que l'ancien gouvernement n'a pas fait.</ParaText>
+              <ParaText id="5069584">Entre juillet 2016 et juillet 2017, Services publics et Approvisionnement Canada a réalisé plusieurs évaluations et études environnementales nécessaires au démantèlement du navire. Nous allons faire ce que nous avons promis de faire.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2048,14 +2056,14 @@
             <PersonSpeaking>
               <Affiliation DbId="214327" Type="4">L’hon. Mélanie Joly (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069595">Monsieur le Président, au Canada, nous savons que la diversité fait notre force et voilà pourquoi les Canadiens s'attendent à ce que nous défendions la Charte canadienne des droits et libertés. Nous allons toujours le faire. Comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a dit à plusieurs reprises, ce n'est pas à l'État de dicter aux gens ce qu'ils peuvent ou ne peuvent pas porter. Nous allons suivre, bien entendu, les discussions qui ont cours sur ce sujet présentement et nous étudierons attentivement les applications de la loi.</ParaText>
+              <ParaText id="5069595">Monsieur le Président, au Canada, nous savons que la diversité fait notre force et voilà pourquoi les Canadiens s'attendent à ce que nous défendions la Charte canadienne des droits et libertés. Nous le ferons toujours. Comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a dit à plusieurs reprises, ce n'est pas à l'État de dicter aux gens ce qu'ils peuvent ou ne peuvent pas porter. Nous allons suivre, bien entendu, les discussions qui ont cours sur ce sujet présentement et nous étudierons attentivement les applications de la loi.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Fortin" id="9725535">
             <PersonSpeaking>
               <Affiliation DbId="214145" Type="2">M. Rhéal Fortin (Rivière-du-Nord, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5069596">Monsieur le Président, nous avons des députés à l'Assemblée nationale à Québec qui votent des lois dans leur champ de compétence et les Québécois les paient pour cela. En même temps, ici à Ottawa, il y en a qui voudraient contester ces lois, encore une fois avec l'argent des contribuables québécois. C'est un autre bel exemple du fédéralisme qui ne fonctionne pas. </ParaText>
+              <ParaText id="5069596">Monsieur le Président, nous avons des députés à l'Assemblée nationale à Québec qui votent des lois dans leurs champs de compétence et les Québécois les paient pour cela. En même temps, ici à Ottawa, il y en a qui voudraient contester ces lois, encore une fois avec l'argent des contribuables québécois. C'est un autre bel exemple du fédéralisme qui ne fonctionne pas. </ParaText>
               <ParaText id="5069597">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> va-t-il s'engager à ne pas utiliser l'argent des Québécois pour contester la loi 62, une loi du gouvernement du Québec?</ParaText>
             </Content>
           </Intervention>
@@ -2104,7 +2112,7 @@
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069606">Monsieur le Président, je tiens à remercier le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> et demande à certains députés de faire preuve de maturité.</ParaText>
-              <ParaText id="5069607">Vingt-quatre heures de vote ininterrompu témoignent d’une ferme position de principe, ce qui ne devrait pas faire l’objet du genre de moqueries que l’on entend dans les cours d’école.</ParaText>
+              <ParaText id="5069607">Vingt-quatre heures de votes ininterrompus témoignent d’une ferme position de principe, ce qui ne devrait pas faire l’objet du genre de moqueries que l’on entend dans les cours d’école.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9725550">
@@ -2502,6 +2510,8 @@
               <ParaText id="5069695">Monsieur le Président, il s'agit des mêmes règles qui étaient en vigueur lorsque le parti du député, dirigé par Stephen Harper, était au pouvoir. Comme par hasard, les conservateurs omettent de le dire. </ParaText>
               <ParaText id="5069696">Le député a parlé des petites entreprises. Les consultations que le gouvernement et tous les députés ont menées au cours des derniers mois sont tout simplement extraordinaires. Les députés ont pu recueillir un ensemble de propositions qu'ils prennent au sérieux, du moins, en ce qui concerne les libéraux. Tout cela donne un formidable programme de réforme qui permettra de rendre le régime fiscal encore plus équitable et plus avantageux pour les gens de la classe moyenne et ceux qui aspirent à en faire partie.</ParaText>
               <ParaText id="5069697">Le député a parlé plus particulièrement des petites entreprises. La semaine dernière, nous avons fait passer le taux d'imposition des petites entreprises de 10,5 à 9 %. C'est ce que nous avions promis pendant la campagne électorale et...</ParaText>
+              <ParaText id="5149847">
+                <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9725736">
@@ -3038,9 +3048,9 @@
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Rankin" id="9726923">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Rankin" id="9726923">
             <PersonSpeaking>
-              <Affiliation DbId="214384" Type="2">M. Murray Rankin (Victoria, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214384" Type="2">M. Murray Rankin</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5069900">Monsieur le Président, je remercie le député de <Affiliation DbId="213918" Type="2">Winnipeg-Centre</Affiliation> de ses efforts pour changer de sujet. Cependant, comme je ne cesse de le répéter, ce n'est pas l'individu qui est en cause, mais l'apparence raisonnable d'un conflit d'intérêts. Il ne s'agit pas nécessairement d'un procès d'intention. Les questions sont simples: « Comment cette situation est-elle survenue? Comment le ministre a-t-il pu se permettre de prendre une décision qui permet à une société qui relève de son portefeuille de tirer un profit immédiat de quelque 2 millions de dollars? »</ParaText>
               <ParaText id="5069901">C'est cette apparence de conflit d'intérêts qui donne une mauvaise réputation aux politiciens. Nous voulons donc modifier la loi de façon à éliminer cette perception et créer une norme qui donnera à la commissaire les outils dont elle a besoin pour accomplir son travail. Elle n'a pas accès à ces outils. Elle a formulé 100 recommandations, qui n'ont pas été acceptées. Le comité de l'éthique a fait une recommandation. En 2010, la Commission Oliphant, qui a enquêté sur la relation entre M. Mulroney et Karlheinz Schreiber, a recommandé pour la première fois que les conflits d'intérêts apparents soient ajoutés à la loi. </ParaText>
@@ -3475,9 +3485,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Boutin-Sweet" id="9727187">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Boutin-Sweet" id="9727187">
             <PersonSpeaking>
-              <Affiliation DbId="214571" Type="2">Mme Marjolaine Boutin-Sweet (Hochelaga, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214571" Type="2">Mme Marjolaine Boutin-Sweet</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5070060">Monsieur le Président, nous demandons à ce que ce vote soit différé jusqu'à demain, le mardi 24 octobre 2017, à la fin de la période prévue pour les questions orales.</ParaText>
             </Content>

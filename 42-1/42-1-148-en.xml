@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9405822">
-  <StartPageNumber>9365</StartPageNumber>
+  <StartPageNumber>9361</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -57,20 +38,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     <Intro>
       <ParaText id="4787552">The House met at 11 a.m.</ParaText>
       <Prayer>Prayer</Prayer>
-      <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
-      <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-      <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9405829">
-        <PersonSpeaking>
-          <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-        <Content>
-          <ParaText id="4787553">It being 11:04 a.m., the House will now proceed to the consideration of private members' business as listed on today's Order Paper.</ParaText>
-        </Content>
-      </Intervention>
     </Intro>
     <OrderOfBusiness id="9405831" Rubric="PrivateMembersBusiness">
       <OrderOfBusinessTitle>Private Members' Business</OrderOfBusinessTitle>
       <CatchLine>Private Members' Business</CatchLine>
       <SubjectOfBusiness id="9405832">
+        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Federal Framework on Post-Traumatic Stress Disorder Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -259,8 +232,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4787638">Our committee called on the government to create a Canadian institute for public safety officer health research to “enhance the mental health and wellness of our Canadian public safety officers through evidence-based research, practices, policies and programs”.</ParaText>
               <ParaText id="4787639">I was pleased to read the <Affiliation DbId="214300" Type="4">Minister of Public Safety</Affiliation>'s response to our report, in which he said that the government recognized the need for many of our recommendations. I know that the Minister of Public Safety shares my concerns about the mental wellness of our public safety officers. After all, we need to take care of our public safety officers, because they take care of us. We have a responsibility to return our military personnel and public safety officers to their families as we received them, mentally well.</ParaText>
               <ParaText id="4787640">Caring for the health of our public safety officers, both mentally and physically, is not only important to their well-being but ensures that our communities are safe. RCMP, police, firefighters, corrections officers, paramedics, aboriginal firefighters, parole officers, and those who work alongside them told the committee that their members can suffer greatly from mental health illnesses because of their jobs.</ParaText>
-              <ParaText id="4787641">I also have concerns about the terminology used in Bill <Document DbId="8072201" Type="4">C-211</Document>. Mental health issues faced by our veterans and public safety officers are much braoder than just post-traumatic stress disorder alone.</ParaText>
-              <ParaText id="4787642">Since the public safety committee tabled our report, I have also heard from a number of nurses who have experienced operational stress inuries. One in particular stands out. An Oakville resident who had a long career as a nurse recently shared a personal story about a house fire that occurred more than 20 years ago, where a woman and her two children perished. The nurses who worked on the case faced severe psychological trauma. To those nurses, I want to recognize their injuries in this House and admit that we know very little about the impact of their jobs on their mental health, and we must do better.</ParaText>
+              <ParaText id="4787641">I also have concerns about the terminology used in Bill <Document DbId="8072201" Type="4">C-211</Document>. Mental health issues faced by our veterans and public safety officers are much broader than just post-traumatic stress disorder alone.</ParaText>
+              <ParaText id="4787642">Since the public safety committee tabled our report, I have also heard from a number of nurses who have experienced operational stress injuries. One in particular stands out. An Oakville resident who had a long career as a nurse recently shared a personal story about a house fire that occurred more than 20 years ago, where a woman and her two children perished. The nurses who worked on the case faced severe psychological trauma. To those nurses, I want to recognize their injuries in this House and admit that we know very little about the impact of their jobs on their mental health, and we must do better.</ParaText>
               <ParaText id="4787643">I believe that a national strategy and the sharing of best practices by the federal government could benefit many employee groups who are suffering while recognizing the distinct differences in their work.</ParaText>
               <ParaText id="4787644">I know that the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation> is aware of the effects traumatic events can have on our nurses. Recently, she wrote a letter outlining that she understands that caregivers and emergency staff who provide treatment are often dealing with difficult situations that may affect their own mental health and that there is a need to provide mental health support to our health care providers.</ParaText>
               <ParaText id="4787645">Finally, I believe that any conversation about this issue needs to include those stakeholders who have faced these issues, and they should be at the table as part of the discussion.</ParaText>
@@ -288,7 +261,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
               <ParaText id="4787660">I had a very good friend who I will call Mr. T. He was a lot like the guy on TV, but he suffered for many years with PTSD. He could not pull those hidden demons from within himself. As his commander, he came to me and talked about suicide. He received help and I worked with him closely over the next decade and even after we both left our careers in the RCMP. He could not get rid of the ugliness with which he had to deal.</ParaText>
               <ParaText id="4787661">As I am saying this, I thinking of Mr. T, as he is not here anymore. He committed suicide two years ago. I wish he had called me as I would have gone wherever he was to help. </ParaText>
-              <ParaText id="4787662">I can think of a number of my colleagues who which I worked. A number of them drank too much, but were they doing this due to PTSD? Yes, they were. However, in all honesty, we did not know what it was. We did not know what to call it years ago.</ParaText>
+              <ParaText id="4787662">I can think of a number of my colleagues with whom I worked. A number of them drank too much, but were they doing this due to PTSD? Yes, they were. However, in all honesty, we did not know what it was. We did not know what to call it years ago.</ParaText>
               <ParaText id="4787663">I have to thank those members who have come forward in the last number of years, whether military, RCMP, paramedics, who were proud and strong enough to make public their problems and seek help. </ParaText>
               <ParaText id="4787664">It is out there among our first responders. As government we must work with provincial, territorial, and municipal governments to ensure that help is there for all first responders.</ParaText>
               <ParaText id="4787665">Unfortunately, there is a stigma around mental health issues, including PTSD. Those who are affected hate to admitting they need need assistance is showing weakness to their peers. Instead, they keep it to themselves, hidden, silently carrying a heavy weight until they can no longer bear it.</ParaText>
@@ -359,7 +332,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 <I>And five or more members having risen:</I>
               </ParaText>
               <ParaText id="4787702">
-                <B>The Deputy Speaker:</B> Pursuant to Standing Order 93, the recorded division stands deferred until Wednesday, March 8, 2017, immediately before the time provided for private members' business.</ParaText>
+                <B>The Deputy Speaker:</B> Pursuant to Standing Order 93, the recorded division stands deferred until Wednesday, March 8,  immediately before the time provided for private members' business.</ParaText>
               <ProceduralText TocType="TPC" id="3">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
@@ -678,8 +651,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214396" Type="2">Mr. Garnett Genuis</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787782">Mr. Speaker, I have a brief follow-up to my previous question. I asked the minister what is the operating principle for distinguishing between the kind of time allocation that he thinks is acceptable and the kind that he thinks is not, and effectively he said it is a subjective evaluation of reasonableness under the circumstances. </ParaText>
-              <ParaText id="4787783">The way that this process normally works is that the House leaders discuss the time required for the debate. That evaluation of reasonableness is subjective, depending on the circumstances and the issues. However, that happens through a conversation among the parties. It is not just one party, the government alone deciding what it thinks is reasonable, probably much of the time being what is in its interest.</ParaText>
-              <ParaText id="4787784"> I want to ask the minister if it is about this genuine evaluation of what makes sense under the circumstances, why not work collaboratively with the other House leaders rather than imposing this? Does this not seem a lot like what the Liberals railed against, which was the government making determinations on its own about how much time should be allowed for debate?</ParaText>
+              <ParaText id="4787783">The way that this process normally works is that the House leaders discuss the time required for the debate. That evaluation of reasonableness is subjective; it is dependent on the circumstances and the issues. However, that happens through a conversation among the parties. It is not just one party, the government alone deciding what it thinks is reasonable, probably much of the time being what is in its interest.</ParaText>
+              <ParaText id="4787784"> I want to ask the minister if it is about this genuine evaluation of what makes sense under the circumstances, why not work collaboratively with the other House leaders rather than imposing this? Does this not seem a lot like what they railed against, which was the government making determinations on its own about how much time should be allowed for debate?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Goodale" id="9405953">
@@ -1176,7 +1149,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214396" Type="2">Mr. Garnett Genuis (Sherwood Park—Fort Saskatchewan, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4787850">Mr. Speaker, Conservatives agree on the substance of this legislation, but I want to take this opportunity to ask the member about the use of time allocation. Members of the government lit their hair on fire every time this was used previously, and now we see the increasing use of time allocation by the government. I know that the member was not a member in any previous Parliament, but does she not see some irony in the repeated use of time allocation by the same people who used to decry it as sort of marking the end of democracy as we know it?</ParaText>
+              <ParaText id="4787850">Mr. Speaker,we  agree on the substance of this legislation, but I want to take this opportunity to ask the member about the use of time allocation. Members of the government lit their hair on fire every time this was used previously, and now we see the increasing use of time allocation by the government. I know that the member was not a member in any previous Parliament, but does she not see some irony in the repeated use of time allocation by the same people who used to decry it as sort of marking the end of democracy as we know it?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Ms. Damoff" id="9406049">
@@ -1311,7 +1284,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4787891">That said, let us explore the context of the legislation. Every day, more than $2 billion of goods and services cross the U.S.-Canada border, and across the Canadian economy, one in five jobs is directly linked to international exports. The United States is Canada's largest export market, and Canada is the biggest purchaser of American goods. We make excellent trade partners, and it is important for us to put agreements in place that will continue to protect this. Ensuring the free flow of goods and services across this border is vital to the economic interests of both countries. With the uncertainty around American trade policy at this moment in time, and concerns about American protectionism on economic and security files, legislation like this would protect the Canadian economy and the millions of Canadian jobs that rely on trade with the United States each and every day.</ParaText>
               <ParaText id="4787892">Ironically, the United States Congress, a place not known for its efficiency, has already passed the enabling legislation to authorize pre-clearance facilities on their side of the border. Now they await Canada to take leadership on this issue. When the United States Congress and Senate can pass an important piece of legislation like this faster than Canada, it makes one wonder about the priority of the Liberal government and whether or not it is about promoting trade with our borders. </ParaText>
               <ParaText id="4787893">The use of pre-clearance is not new to Canada. Let us be very clear about that. Canada first allowed American border agents to pre-clear passengers starting with a pilot project in 1952. A formal pre-clearance arrangement for airline passengers was then signed in 1974, with further implementing legislation in the 1999 Preclearance Act. Since that time, pilot projects were pre-clearing ferry passengers and cruise ship passengers. Also, truck cargo has been implemented at high-volume border crossings. If anyone has flown to the United States from airports like Edmonton, Calgary, Halifax, Montreal, Ottawa, Pearson airport, Vancouver, or Winnipeg, they already know there is this pre-clearance option available. </ParaText>
-              <ParaText id="4787894">Twelve million passengers at these eight airports went through <?bk?>U.S.<?ek?> pre-clearance in the year 2016, so we can tell that this is of great advantage to Canadian passengers and the flow of goods and services. Without these pre-clearance operations, Canadians would not be able to take advantage of nearly half of the direct flights that presently exist between Canadian and United States destinations. Instead, they would need to fly to a major hub in the U.S., go through customs screening there, and then move onward, which of course is very cumbersome for the traveller.</ParaText>
+              <ParaText id="4787894">Twelve million passengers at these eight airports went through <?bk ?>U.S.<?ek ?> pre-clearance in the year 2016, so we can tell that this is of great advantage to Canadian passengers and the flow of goods and services. Without these pre-clearance operations, Canadians would not be able to take advantage of nearly half of the direct flights that presently exist between Canadian and United States destinations. Instead, they would need to fly to a major hub in the U.S., go through customs screening there, and then move onward, which of course is very cumbersome for the traveller.</ParaText>
               <ParaText id="4787895">I am confident when I say that most members of the House have heard concerns from their constituents with regard to this piece of legislation. Nevertheless, these concerns are rooted in an incorrect belief that American border agents would be operating under American law on Canadian soil. The concern is that Canada would be giving up its sovereignty on our very own territory. However, this is actually a false assumption and I wish to clear the record today.</ParaText>
               <ParaText id="4787896">The legislation says, “For greater certainty Canadian law applies and may be administered and enforced in preclearance areas and preclearance perimeters.” </ParaText>
               <Timestamp Hr="13" Mn="55">(1355)</Timestamp>
@@ -1601,7 +1574,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <CatchLine>Oral Questions</CatchLine>
       <SubjectOfBusiness id="9406142">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Seniors</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="9406143">
             <PersonSpeaking>
@@ -1617,9 +1590,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787968">Mr. Speaker, again, the Conservatives are fearmongering to try to scare seniors. However, as Hazel McCallion said, the Conservatives do not scare seniors.</ParaText>
-              <ParaText id="4787969">The reality is that we are lowering taxes for the middle class and increasing taxes for the wealthiest 1%. We have helped 9 in 10 families with the Canada child benefit. We have increased the guaranteed income supplement by 10% for the most vulnerable seniors. That is just a small example of what we are doing to help vulnerable Canadians.</ParaText>
+              <ParaText id="4787969">The reality is that we are lowering taxes for the middle class and increasing taxes for the wealthiest 1%. We have helped nine  in 10 families with the Canada child benefit. We have increased the guaranteed income supplement by 10% for the most vulnerable seniors. That is just a small example of what we are doing to help vulnerable Canadians.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9412897">
+        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="9406147">
             <PersonSpeaking>
               <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
@@ -1642,8 +1620,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787975">Mr. Speaker, in the last election campaign, Canadians were promised a $10-billion deficit and a return to balance within a few years. There was talk of 2019.</ParaText>
-              <ParaText id="4787976">An election is coming. Canadians will surely remember that promise and small business owners will remember the promise to lower their taxes. It seems that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is going to break that promise as well.</ParaText>
-              <ParaText id="4787977">Will they cut small business taxes in order to create jobs?</ParaText>
+              <ParaText id="4787976">An election is coming. Canadians will surely remember that promise and small-business owners will remember the promise to lower their taxes. It seems that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is going to break that promise as well.</ParaText>
+              <ParaText id="4787977">Will they cut small-business taxes in order to create jobs?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
@@ -1652,7 +1630,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4787978">Mr. Speaker, we recognize the contribution of small businesses to job creation and economic growth in communities across Canada. For that reason we are putting more money in the pockets of the middle class so they can spend more and buy goods from our small businesses.</ParaText>
-              <ParaText id="4787979">Families will have more money to raise their children. In fact, 9 in 10 families receive more money with our new Canada child benefit. This benefit will lift 300,000 children out of poverty across the country. We know that investing in economic growth is good for our small businesses and for Canada's economy.</ParaText>
+              <ParaText id="4787979">Families will have more money to raise their children. In fact, nine in 10 families receive more money with our new Canada child benefit. This benefit will lift 300,000 children out of poverty across the country. We know that investing in economic growth is good for our small businesses and for Canada's economy.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1735,7 +1713,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9406289">
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canada Revenue Agency</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Mulcair" id="9406186">
             <PersonSpeaking>
@@ -1860,7 +1838,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214687" Type="18">Mr. Jonathan Wilkinson (Parliamentary Secretary to the Minister of Environment and Climate Change, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788022">Mr. Speaker, this government remains focused on and committed to creating and generating innovation and reducing our emissions concurrently. Pricing of carbon pollution will provide certainty and predictability to businesses. Pricing pollution will also drive innovation in the country.</ParaText>
-              <ParaText id="4788023"> After 10 years of a government doing nothing, this government is focused on ensuring we both reduce emissions, we drive innovation, and we create good middle-class jobs.</ParaText>
+              <ParaText id="4788023"> After 10 years of a government doing nothing, this government is focused on ensuring we reduce emissions, we drive innovation, and we create good middle-class jobs.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Stubbs" id="9406218">
@@ -1918,7 +1896,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788035">Mr. Speaker, the KPMG affair is again haunting the <Affiliation DbId="214329" Type="4">Minister of National Revenue</Affiliation> as a result of the airing of the most recent episode of <I>Enquête</I>. </ParaText>
               <ParaText id="4788036">The KPMG scheme was used in the early 2000s and no criminal charges have yet been laid against the thieves.</ParaText>
               <ParaText id="4788037">The minister has been on the job for 18 months and we have yet to see any action. The problem is that the minister does not walk the talk. Words are no longer enough.</ParaText>
-              <ParaText id="4788038">Will the minister undertake to launch a full inquiry into the secret agreements signed with these white collar criminals? In particular, will she promise today to file criminal charges against these thieves, not just against the KPMG accountants but also against the fraudsters themselves? </ParaText>
+              <ParaText id="4788038">Will the minister undertake to launch a full inquiry into the secret agreements signed with these white-collar criminals? In particular, will she promise today to file criminal charges against these thieves, not just against the KPMG accountants but also against the fraudsters themselves? </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Lebouthillier" id="9406227">
@@ -1934,7 +1912,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214102" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788041">Mr. Speaker, $444 million has been invested, yet no charges have been laid. White collar criminals must be shaking in their boots.</ParaText>
+              <ParaText id="4788041">Mr. Speaker, $444 million has been invested, yet no charges have been laid. White-collar criminals must be shaking in their boots.</ParaText>
               <ParaText id="4788042">People who go to work every day pay their taxes. They do not have a choice. However, if they are late to file their tax return, the CRA cracks down on them right away and charges them interest. It is funny how the same rules do not apply to millionaires. Millionaires can hide their money in the shade of the palm trees of some tax haven, and that is fine. If they are caught, they can enter into secret agreements so that they do not have to pay any fines.</ParaText>
               <ParaText id="4788043">When will the Liberal government stop being so spineless? When will it stand up? When will it do away with tax loopholes? When will it renegotiate the bilateral conventions? When will it punish fraudsters?</ParaText>
             </Content>
@@ -1967,14 +1945,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4788048">Mr. Speaker, we think investment is a good thing. Global investment into Canada is good for our economy. It will create opportunities. It will create jobs. </ParaText>
               <ParaText id="4788049">On this specific transaction under the Investment Canada Act, we made sure that we put forward a proposal that focuses on growth and opportunities for seniors, as well. </ParaText>
-              <ParaText id="4788050">With regard to Retirement Concepts that are managed and operated by Canadians, they have now the ability to expand, which will provide better services for seniors and more job opportunities, and that is good for the economy.</ParaText>
+              <ParaText id="4788050">With regard to Retirement Concepts, managed and operated by Canadians, they have now the ability to expand, which will provide better services for seniors and more job opportunities, and that is good for the economy.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. McLeod (Kamloops—Thompson—Cariboo)" id="9406239">
             <PersonSpeaking>
               <Affiliation DbId="214386" Type="2">Mrs. Cathy McLeod (Kamloops—Thompson—Cariboo, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788051">Mr. Speaker, we have no faith in the minister at all. He said he did his due diligence, but he did not even know who owned the company that is going to be taking care of our seniors. We want to know who owns Anbang Insurance. Two weeks ago, he said it was Canadians. Who owns it? Will he put the sale on hold until he assures people throughout Canada that he has done his due diligence and this is not a hasty political sellout.</ParaText>
+              <ParaText id="4788051">Mr. Speaker, we have no faith in the minister at all. He said he did his due diligence, but he did not even know who owned the company that is going to be taking care of our seniors. We want to know who owns Anbang Insurance. Two weeks ago, he said it was Canadians. Who owns it? Will he put the sale on hold until he assures people throughout Canada that he has done his due diligence and this is not a hasty political sellout?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Bains" id="9406241">
@@ -2070,7 +2048,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214176" Type="2">Mr. Borys Wrzesnewskyj (Etobicoke Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788070">Mr. Speaker, Operation Unifier is critically important for our ally, Ukraine, whose territory has been militarily invaded and annexed. </ParaText>
-              <ParaText id="4788071">Two hundred highly respected and talented Canadian Armed Forces are providing invaluable military and medical training to Ukrainian soldiers and institutional capacity building through key defence reforms. It is a part of the west's stabilization and development of Ukraine.</ParaText>
+              <ParaText id="4788071">Two hundred highly respected and talented Canadian Armed Forces members are providing invaluable military and medical training to Ukrainian soldiers and institutional capacity building through key defence reforms. It is a part of the west's stabilization and development of Ukraine.</ParaText>
               <ParaText id="4788072"> Unifier is set to end this month. Will the Minister of Foreign Affairs and the Minister of Defence renew this critical program?</ParaText>
             </Content>
           </Intervention>
@@ -2430,7 +2408,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214017" Type="2">Mr. Simon Marcil (Mirabel, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788147">Mr. Speaker, the Liberal government's inaction and grovelling before the U.S. government has cost Quebeckers dearly, as we have seen with softwood lumber, diafiltered milk, and spent fowl. We have seen it over and over again.</ParaText>
-              <ParaText id="4788148">Now, the harmful cuts proposed by the U.S. president are threatening the quality of the water consumed by the vast majority of Quebeckers. A tweet from the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is not going to solve the problem.</ParaText>
+              <ParaText id="4788148">Now, the harmful cuts proposed by the U.S. President are threatening the quality of the water consumed by the vast majority of Quebeckers. A tweet from the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is not going to solve the problem.</ParaText>
               <ParaText id="4788149">What real action will the Liberal government take to prevent Quebec's main source of drinking water from being compromised?</ParaText>
             </Content>
           </Intervention>
@@ -2454,7 +2432,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle> Interparliamentary Delegations  </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="9406373">
+          <Intervention Type="Interjection" ToC="No" id="9406373">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2690,7 +2668,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214396" Type="2">Mr. Garnett Genuis (Sherwood Park—Fort Saskatchewan, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788206">Mr. Speaker, we agree with the general position on the bill, although it was interesting that the member chose to spend a substantial amount of time refuting a specific NDP candidate's comments in a by-election as opposed to focusing on debate among members here. Of course, I would have thought he would have been more worried about the Conservative candidate in that by-election, but perhaps there are other places to make those points.</ParaText>
+              <ParaText id="4788206">Mr. Speaker, of course we agree with the general position on the bill, although it was interesting that the member chose to spend a substantial amount of time refuting a specific NDP candidate's comments in a by-election as opposed to focusing on debate among members here. Of course, I would have thought he would have been more worried about the Conservative candidate in that by-election, but perhaps there are other places to make those points.</ParaText>
               <ParaText id="4788207">With respect to the issue itself, the bill deals with pre-clearance of individuals. It does not speak to the issue of pre-clearance of goods. He spoke about this, so I wonder if he could talk about the importance of moving on that front and share what the government's timetable might be for moving forward on pre-clearance of goods as well.</ParaText>
             </Content>
           </Intervention>
@@ -2825,8 +2803,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788261">First, on rights, we all know that both Canada and the U.S. set and enforce their own rules with respect to who or what enters their countries. However, for Canadians undergoing U.S. customs and immigration procedures while still in Canada, Bill <Document DbId="8362244" Type="3">C-23</Document> would ensure that Canadian legal and charter standards would apply to that process. This is a distinct advantage over entering the United States at a border through a regular port of entry inside U.S. territory, where Canadian charter standards do not apply to the conduct of U.S. officers.</ParaText>
               <ParaText id="4788262"> Let us take the example of withdrawal. If travellers wanted to withdraw from a pre-clearance site in Canada and not continue on to the U.S., they would be able to do so under Bill C-23, just as they can under the current pre-clearance agreement. The only adjustment here is that American officials could ask travellers to identify themselves and give their reasons for withdrawing. This is to avoid illicit probing of pre-clearance sites. The alternative would be to go to the United States and submit to examination by the U.S. authorities on U.S. soil. At that point, it would not be possible to withdraw from the process at all, because the person would already be in the United States. </ParaText>
               <ParaText id="4788263">I have heard some members argue that travellers are already protected under the current pre-clearance arrangement, and so no change is needed. The problem is that we have pre-clearance right now at only eight airports in Canada. If people are travelling from anywhere else, the protection of undergoing U.S. border procedures in Canada and therefore having the right to withdraw is not available to these people. With Bill <Document DbId="8362244" Type="3">C-23</Document>, we could begin expanding pre-clearance so that more Canadian travellers could enjoy the benefits and protections.</ParaText>
-              <ParaText />
-              <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
               <ParaText id="4788264">Another point that needs to be clarified regarding travellers' rights is that U.S. pre-clearance officers would not have the authority to enforce U.S. criminal law or make arrests in Canada. If U.S. pre-clearance officers have reasonable grounds to believe that a traveller has committed an offence under Canadian law, they can detain that traveller without making an arrest, but only in order to transfer the person to Canadian authorities right away. This is not new. Rather, it is part of the existing pre-clearance framework that has been in place since 1999. </ParaText>
               <ParaText id="4788265">In other words, contrary to what has been speculated, there is no compromise here on rights and values. On the contrary, Bill <Document DbId="8362244" Type="3">C-23</Document> would expand the protective umbrella of the Canadian Charter of Rights and Freedoms so that it can apply to Canadians flying out of airports such as Billy Bishop and the Jean Lesage airport in Quebec City. They are not currently covered. It would also be applicable for the first time to Canadians travelling using other modes of transportation, beginning with train routes in Montreal and British Columbia.</ParaText>
               <ParaText id="4788266">Canadians expect us to make sure that their rights and values, and the protections afforded by the charter, our Bill of Rights, and the Canadian Human Rights Act, are front and centre in all legislation we consider in this House. By making charter protections more widely available, Bill <Document DbId="8362244" Type="3">C-23</Document> is a step forward for the rights of Canadian travellers.</ParaText>
@@ -2914,7 +2890,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor (Cowichan—Malahat—Langford, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788297">Mr. Speaker, it is true that political parties and the NDP sometimes change their position. It sometimes takes decades. That stands in stark contrast to the Liberal Party, which changes its direction from one election to when it turns into government. </ParaText>
-              <ParaText id="4788298">That aside, I would be curious to hear about the hon. member's views on a particular section of the bill which gives the powers of <?bk?>U.S.<?ek?> agents on Canadian soil the right to carry firearms. I do not see why this is necessary on Canadian soil. Is it the fact that the Liberal government has so little faith in our own police forces that it is willing to cede our sovereignty in this area? I have yet to hear a plausible explanation as to why this particular provision in the bill is necessary. I would be eternally grateful to the member if he could shed some light on that.</ParaText>
+              <ParaText id="4788298">That aside, I would be curious to hear about the hon. member's views on a particular section of the bill which gives the powers of <?bk ?>U.S.<?ek ?> agents on Canadian soil the right to carry firearms. I do not see why this is necessary on Canadian soil. Is it the fact that the Liberal government has so little faith in our own police forces that it is willing to cede our sovereignty in this area? I have yet to hear a plausible explanation as to why this particular provision in the bill is necessary. I would be eternally grateful to the member if he could shed some light on that.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
@@ -3036,7 +3012,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788339">I do not want to mix up the two files. There is the issue of people arriving from the United States. However, today, we are debating Bill <Document DbId="8362244" Type="3">C-23</Document>, which seeks to make improvements and to increase the number of pre-clearance stations. I have confidence in the committee that will be studying Bill C-23 and making recommendations.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Rota" id="9407197">
+          <Intervention Type="Interjection" ToC="No" id="9407197">
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3151,7 +3127,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4788389">Mr. Speaker, my colleague highlights a very important fact. We have two airports, one in Quebec and one in Ontario, that would be getting pre-clearance and the economic benefits and the convenience of Canadians and permanent residents being able to use pre-clearance is of critical importance.</ParaText>
-              <ParaText id="4788390">I like to use the comparison of the Toronto Pearson International Airport, where because of pre-clearance, they are able to fly to something like 20 destinations in the U.S. today that do not have <?bk?>U.S. <?ek?>customs located there. If they did not have the pre-clearance, they would not be able to fly into those destinations.</ParaText>
+              <ParaText id="4788390">I like to use the comparison of the Toronto Pearson International Airport, where because of pre-clearance, they are able to fly to something like 20 destinations in the U.S. today that do not have <?bk ?>U.S. <?ek ?>customs located there. If they did not have the pre-clearance, they would not be able to fly into those destinations.</ParaText>
               <ParaText id="4788391">When we look at the bill and the agenda of the government, would the member not agree that there is immense economic and social value to see pre-clearance expanded here in Canada, not only by plane, but also by train?</ParaText>
             </Content>
           </Intervention>
@@ -3287,7 +3263,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788434"> I also want to note that it is very unfortunate we are conducting this debate today under a time allocation passed by the Liberal government earlier today. </ParaText>
               <ParaText id="4788435">The tone of this debate on the legislation has heated up considerably over the past few days during which it has been debated. In particular, there have been some misleading and grossly exaggerated statements from Liberal members of Parliament. There has been a general mischaracterization of the NDP's concerns, combined with over-the-top and fiercely partisan attacks, which have at times sunk this debate to a new low.</ParaText>
               <ParaText id="4788436">I hope to raise the tone of this debate with reasoned arguments against letting Bill <Document DbId="8362244" Type="3">C-23</Document> pass at second reading.</ParaText>
-              <ParaText id="4788437"> Let me make one point perfectly clear. The New Democrats are in favour of measures that will facilitate fluid movement across the<?bk?> U.S.<?ek?> border, but not at the expense of human rights, respect for privacy of Canadians, and Canada's sovereignty.</ParaText>
+              <ParaText id="4788437"> Let me make one point perfectly clear. The New Democrats are in favour of measures that will facilitate fluid movement across the<?bk ?> U.S.<?ek ?> border, but not at the expense of human rights, respect for privacy of Canadians, and Canada's sovereignty.</ParaText>
               <ParaText id="4788438">I support pre-clearance as it currently operates. In fact, I have used the service several times in my life at the Vancouver International Airport when travelling to the United States, and it certainly works well as it currently exists.</ParaText>
               <ParaText id="4788439">I understand that pre-clearance is an important part of the Canada-U.S. relationship and to the free flow of trade and travellers between our two countries, but the provisions contained in Bill <Document DbId="8362244" Type="3">C-23</Document> are too problematic for me to give my support.</ParaText>
               <ParaText id="4788440">Bill <Document DbId="8362244" Type="3">C-23</Document> neglects to take into account the climate of uncertainty at the border following the discriminatory policies and executive orders of the Trump administration. Canada and the United States signed the agreement on land, rail, marine, and air transport preclearance on March 16, 2015, under the previous Harper government.</ParaText>
@@ -3296,7 +3272,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788443">The legislation was problematic before the inauguration of President Trump, but recent discriminatory orders and invasions of privacy now leave no doubt about the potential dangers and abuses that will result from the agreement. This is a president who excels at making statements with no empirical evidence to back them up. The most recent example is his shocking allegation that former President Obama ordered wiretaps on his phone during the election.</ParaText>
               <ParaText id="4788444"> This man has little understanding of what a warrant is, of the checks and balances of the United States system, the constitution, and he has undermined the judiciary of the United States on repeated occurrences.</ParaText>
               <ParaText id="4788445"> The U.S. customs and border protection agency is the largest federal law enforcement agency of the United States Department of Homeland Security. It is an extremely powerful arm of the executive branch of government, but it is now headed by someone who I do not think is fit for that office.</ParaText>
-              <ParaText id="4788446">Agencies take their cue from the people at the top. This is a fact. Bill <Document DbId="8362244" Type="3">C-23</Document> is proposing to give more power to foreign agents that are lead by an administration that routinely uses fear, lies, and personal attacks on its political opponents to advance its agenda. I cannot, in good conscience, support such a bill.</ParaText>
+              <ParaText id="4788446">Agencies take their cue from the people at the top. This is a fact. Bill <Document DbId="8362244" Type="3">C-23</Document> is proposing to give more power to foreign agents that are led by an administration that routinely uses fear, lies, and personal attacks on its political opponents to advance its agenda. I cannot, in good conscience, support such a bill.</ParaText>
               <ParaText id="4788447">The third point I wish to address are the increased powers that Bill <Document DbId="8362244" Type="3">C-23</Document> would provide for U.S. officers on Canadian soil, provisions regarding carrying of firearms, the power to conduct strip searches, detention, and interrogation.</ParaText>
               <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
               <ParaText id="4788448">In particular, I feel strongly that it is unacceptable to see officers of a foreign country who are in a position of authority bear and ultimately use firearms in the performance of their duties on Canadian soil. As is provided for in the summary of the bill, part 3 of the enactment makes related amendments to the Criminal Code to provide the United States pre-clearance officers with an exemption from criminal liability under the Criminal Code and the Firearms Act with respect to carriage of firearms and other regulated items. Bill <Document DbId="8362244" Type="3">C-23</Document> would violate our precious Canadian sovereignty by increasing the powers of American pre-clearance officers on Canadian soil with respect to carrying firearms and by not properly defining a criminal liability framework.</ParaText>
@@ -3395,7 +3371,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788476">Border management is a top priority for our government, with officials from Public Safety Canada and its portfolio agencies working closely with their counterparts in the U.S. on a wide range of issues that ensure we keep our borders effective and functional. This includes putting in place the best frameworks and policies that allow for the smooth flow of people and goods while securing our borders from shared threats. </ParaText>
               <ParaText id="4788477">It should therefore come as no surprise that we have been especially enthusiastic to make further bilateral progress on the pre-clearance initiative. As members know, pre-clearance has long been a part of our strong border relationship, and it will be key to our future relationship. With Bill C-23, we have an opportunity to usher in even greater security and economic benefits when it comes to Canada-U.S. cross-border travel. </ParaText>
               <ParaText id="4788478">Let me highlight the key elements of the bill and why it is so important that members join me in supporting its passage. Once passed, the bill will essentially open the door for us to move ahead with ratification and implementation of the land, rail, marine, and air transport preclearance agreement, which was signed by Canada and the United States in 2015. That door, once opened, offers tremendous economic and security benefits for both nations. It does this in two key areas. One is by setting out the legislative authorities governing pre-clearance operations conducted by the United States and Canada, including possible future expansion to additional sites and modes of travel. Two is by providing the authorities and enacting the provisions necessary for Canada to eventually conduct pre-clearance in the United States, as the U.S. has long done in Canada. Indeed, the United States has conducted pre-clearance at Canadian airports for many decades. From its early days at Toronto Pearson International Airport, to its current presence in eight major Canadian airports and five pre-inspection sites in B.C. for rail and marine, pre-clearance has been a boon for business and leisure travel for both nations.</ParaText>
-              <ParaText id="4788479">The first part of the bill would allow for potential expansion of <?bk?>U.S.<?ek?> pre-clearance to other forms of transport in Canada, defining important aspects, such as where and when these new sites can operate, who would have access to the pre-clearance areas, what<?bk?> U.S.<?ek?> pre-clearance officers can and cannot do while working on Canadian soil, and how Canadian police and CBSA officers would work with these U.S. officers. As has been clearly stated, all pre-clearance operations in Canada must be conducted in accordance with Canadian law, including the Canadian Charter of Rights and Freedoms. There is no compromise on this. Canadians expect us to keep their rights and values top of mind in all of our work, and this is no exception. On this point, the <Affiliation DbId="214300" Type="4">Minister of Public Safety and Emergency Preparedness</Affiliation> has been abundantly clear.</ParaText>
+              <ParaText id="4788479">The first part of the bill would allow for potential expansion of <?bk ?>U.S.<?ek ?> pre-clearance to other forms of transport in Canada, defining important aspects, such as where and when these new sites can operate, who would have access to the pre-clearance areas, what<?bk ?> U.S.<?ek ?> pre-clearance officers can and cannot do while working on Canadian soil, and how Canadian police and CBSA officers would work with these U.S. officers. As has been clearly stated, all pre-clearance operations in Canada must be conducted in accordance with Canadian law, including the Canadian Charter of Rights and Freedoms. There is no compromise on this. Canadians expect us to keep their rights and values top of mind in all of our work, and this is no exception. On this point, the <Affiliation DbId="214300" Type="4">Minister of Public Safety and Emergency Preparedness</Affiliation> has been abundantly clear.</ParaText>
               <ParaText id="4788480">The second part of the bill is where we see the reciprocal element come into play. Along with enforcement authorities that would be provided under U.S. law, it would give the Canada Border Services Agency the authority to conduct pre-clearance in the U.S. in all modes of transport: land, air, rail, and marine. CBSA officers and other Canadian public officers, as appropriate, would have the authority to administer, at designated sites in the United States, the Canadian laws that they regularly use at ports of entry in Canada, including the Customs Act. </ParaText>
               <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
               <ParaText id="4788481">The bill also clarifies how the Immigration and Refugee Protection Act applies in the pre-clearance context.</ParaText>
@@ -3541,7 +3517,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
               <ParaText id="4788538">On top of that, they could now be armed on our soil. People say, “That is not too bad, they would have to go under these rules, terms, and conditions; they are really good fellows and there is no problem there, it is fine”, but what have we done in this act? We have not done any oversight as in making sure that we are actually going to screen and have accountability there. It is very weak. Who are we talking to? </ParaText>
               <ParaText id="4788539">We are talking about a problem that they have in the United States, that the customs and border protection system right now has a corruption issue. The Americans have a serious corruption issue that has been growing in the United States. Those recent problems that they have faced involved everything including drug trafficking, bribery, human smuggling, false statements, and breaking of personal privacy. These are real things that are actually happening. These are real men and women who have done those wrong things in the hire of the U.S. government for many different reasons that I do not know, but they are real cases. I am going to talk about a couple of those cases because it is important that we know the type of people who could be on our soil doing our yeoman's work that should be done by Canadians, and without the proper checks and balances. The Liberals know because they are getting squeamish about this. There is no doubt about it. When they allow another country to come in with arms and put their beachhead down here, then they ultimately have to be overseeing this properly, which the Liberals have not done. </ParaText>
-              <ParaText id="4788540">Hence, there is the rush to put this through. At a time when the <?bk?>U.S.<?ek?> is basically tearing up agreements that we have had and denying people entry into the United States for reasons that the Americans describe as normal cause and at a time when we have more people from the United States coming to Canada as refugees, the Liberals want to rush this out the door. It does not make any sense, aside from political pressure and political damage, as opposed to doing the right thing and going through this every single step and every single way to make sure every voice is heard. In watching the debates today, it might be one of the reasons Liberals often do not take their full allotted time. That is the reason to shorten their time in the House.</ParaText>
+              <ParaText id="4788540">Hence, there is the rush to put this through. At a time when the <?bk ?>U.S.<?ek ?> is basically tearing up agreements that we have had and denying people entry into the United States for reasons that the Americans describe as normal cause and at a time when we have more people from the United States coming to Canada as refugees, the Liberals want to rush this out the door. It does not make any sense, aside from political pressure and political damage, as opposed to doing the right thing and going through this every single step and every single way to make sure every voice is heard. In watching the debates today, it might be one of the reasons Liberals often do not take their full allotted time. That is the reason to shorten their time in the House.</ParaText>
               <ParaText id="4788541">I want to talk about a few of the cases because they are important. Manuel Eduardo Pena, customs and border protection officer, was convicted by a federal grand jury in Brownsville. Special agents witnessed Pena take the firearm from the store and deliver it to another person in exchange for money. He was sentenced to five years' probation. Adam Bender, from my neck of the woods, worked on the Windsor-Detroit border crossing at the tunnel, minutes from my home. He admitted that he used his position to allow illegal immigrants to enter through his lane at the Detroit-Windsor tunnel and the Ambassador Bridge. For human smuggling, he got 24 months in prison. John Ajello is another customs and border protection officer. He got a misdemeanour of supplementing federal salary. He was accepting payments during an operation related to information sharing that he should not have done. He was making money during an investigation. Luis Alarid got seven years in prison for trafficking and bribery, conspiracy to smuggle more than 100 kilograms of marijuana into the United States, and receiving more than $200,000 in bribe money. They were all convicted. Noe Aleman Jr.'s crime was encouraging and inducing illegal immigrants to stay in the country. He was a veteran of six to 10 years. A lot of them, well over half, are veterans of the service. It goes to show us that the danger is not just with the new people who are hired, but it actually can be corruption through the system that the Americans have.</ParaText>
               <ParaText id="4788542">There are many good officers out there. I deal with this. I travel. I have season's tickets to sporting events in the United States. I go through all the time. There are wonderful people there, but there is also this shadow of conspiracy, conviction, and unauthorized behaviour that now we are actually empowering at a time when there is investigation.</ParaText>
             </Content>
@@ -3620,7 +3596,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4788576">Mr. Speaker, I have a question for my colleague.</ParaText>
               <ParaText id="4788577">He just said that Bill <Document DbId="8362244" Type="3">C-23</Document> changes almost nothing in terms of the current situation, but what about the fact that the current law does not allow a U.S. customs officer to conduct a strip search without a Canadian officer of the same gender present? This has been changed, which is rather troubling, considering the eagerness of U.S. personnel. Earlier my colleague from Windsor said he was very familiar with borders. In fact, people from Detroit and Windsor spend much of their lives going through customs.</ParaText>
-              <ParaText id="4788578">The fact that a stip search could be conducted from now on by a U.S. officer without a Canadian officer of the same gender present is a huge change.</ParaText>
+              <ParaText id="4788578">The fact that a strip search could be conducted from now on by a U.S. officer without a Canadian officer of the same gender present is a huge change.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Graham" id="9408364">
@@ -3644,7 +3620,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214137" Type="2">Mr. David de Burgh Graham</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788584">Mr. Speaker, I understand the question. To me, this is not a major departure from what is currently happening. If someone currently travelling to the United States gets off the plane and changes their mind, what are they going to do? Get back on the plane and leave? That does not work. Clearing customs in Canada is more efficient. Rights are protected under the Canadian Charter of Rights and Freedoms, but nothing really changes. When someone arrives in the United states, they will be subject to the same restrictions as they are right now. </ParaText>
+              <ParaText id="4788584">Mr. Speaker, I understand the question. To me, this is not a major departure from what is currently happening. If someone currently travelling to the United States gets off the plane and changes their mind, what are they going to do? Get back on the plane and leave? That does not work. Clearing customs in Canada is more efficient. Rights are protected under the Canadian Charter of Rights and Freedoms, but nothing really changes. When someone arrives in the United States, they will be subject to the same restrictions as they are right now. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -4138,7 +4114,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Total> -- 2</Total>
             </DivisionType>
           </Division>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9408436">
+          <Intervention Type="Interjection" ToC="No" id="9408436">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4580,7 +4556,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4788706">To respond to the member opposite's question, let me just talk a little about some of the actions we are taking and why.</ParaText>
               <ParaText id="4788707">Climate change is not a distant threat. It requires action now. Unlike the party opposite, which did virtually nothing for 10 years, effectively pushing the bill for future generations to worry about, our government intends to act. </ParaText>
               <ParaText id="4788708">Annual insurance claims for severe storms are up from $300 million in the year 2000 to an average of $1 billion today. The National Roundtable on the Environment and the Economy estimated that total costs associated with climate change could reach $43 billion a year by 2050. </ParaText>
-              <ParaText id="4788709">There are real and significant costs to not acting, but there is also a significant opportunity if we do act. As someone who was a senior executive in the clean technology space for 20 years, it is something I have seen first hand. In 2015, there was nearly $350 billion of investment in the global clean energy sector, almost a sixfold increase since 2004. </ParaText>
+              <ParaText id="4788709">There are real and significant costs to not acting, but there is also a significant opportunity if we do act. As someone who was a senior executive in the clean technology space for 20 years, it is something I have seen first-hand. In 2015, there was nearly $350 billion of investment in the global clean energy sector, almost a sixfold increase since 2004. </ParaText>
               <ParaText id="4788710">To make the transition envisaged under the Paris agreement, it is estimated that a further investment of $13.5 trillion in low carbon and energy efficiency technologies will be required between 2015 and 2030. However, in Canada, our share of global clean tech exports has shrunk during the past decade by half, due to Conservative inaction. Our government, by contrast, knows that we must take advantage of this economic opportunity. </ParaText>
               <ParaText id="4788711">A key part of driving innovation and clean growth will be putting a price on what we do not want, pollution, in order to foster things that we do want, clean growth, innovation, and middle-class jobs. </ParaText>
               <ParaText id="4788712">British Columbia's introduction of a carbon price demonstrates well that we can reduce emissions while growing our economy. Not only that, but British Columbia used its revenue-neutral carbon price to cut taxes by 5% for the middle class and to provide rebates. British Columbia now has the lowest overall personal income taxes in Canada thanks to its carbon pricing system.</ParaText>
@@ -4660,11 +4636,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="9408498">
+          <Intervention Type="Interjection" ToC="No" id="9408498">
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4788742">The motion to adjourn the House is now deemed to have been adopted. Accordingly the House stands adjourned until tomorrow at <?bk?>10 a.m.<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4788742">The motion to adjourn the House is now deemed to have been adopted. Accordingly the House stands adjourned until tomorrow at <?bk ?>10 a.m.<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4788743">(The House adjourned at 7:53 p.m.)</ParaText>
             </Content>
           </Intervention>

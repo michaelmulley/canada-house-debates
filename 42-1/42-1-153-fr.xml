@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9427527">
-  <StartPageNumber>9689</StartPageNumber>
+  <StartPageNumber>9685</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -57,26 +39,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <ParaText id="4806307">La séance est ouverte à 11 heures.</ParaText>
       <Prayer>Prière</Prayer>
     </Intro>
-    <OrderOfBusiness id="9427528" Rubric="Other">
-      <CatchLine>Initiatives parlementaires</CatchLine>
-      <SubjectOfBusiness>
-        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9427534">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4806308">Comme il est 11 h 5, la Chambre abordera maintenant l'étude des affaires émanant des députés, selon l'ordre indiqué au <I>Feuilleton</I> d'aujourd'hui.</ParaText>
-            </Content>
-          </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-    </OrderOfBusiness>
     <OrderOfBusiness id="9427536" Rubric="PrivateMembersBusiness">
       <OrderOfBusinessTitle>INITIATIVES PARLEMENTAIRES</OrderOfBusinessTitle>
       <CatchLine>Initiatives parlementaires</CatchLine>
       <SubjectOfBusiness id="9427537">
+        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La Loi sur la sécurité ferroviaire</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -587,9 +554,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806508">En ce qui concerne les engagements électoraux, nous savons qu'il est nécessaire d'avoir des débats constructifs et de faire adopter des projets de loi. Nous nous étions engagés à diminuer les impôts des Canadiens de la classe moyenne, et nous l'avons fait. Nous avions promis d'augmenter les impôts du 1 % des Canadiens les mieux nantis, et nous l'avons fait. Qu'est-ce que les conservateurs ont fait? Ils s'y sont chaque fois opposés.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Dubé" id="9427687">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Dubé" id="9427687">
             <PersonSpeaking>
-              <Affiliation DbId="214060" Type="2">M. Matthew Dubé (Beloeil—Chambly, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214060" Type="2">M. Matthew Dubé</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806509">Madame la Présidente, il est très intéressant d'entendre le <Affiliation DbId="229526" Type="18">secrétaire parlementaire de la leader du gouvernement à la Chambre des communes</Affiliation> expliquer pourquoi la Chambre se doit d'adopter le projet de loi d'initiative ministérielle. Je suppose que les membres du caucus libéral n'ont pas reçu la note de service au cours de la dernière semaine de séance, lorsqu'ils ont voté contre le gouvernement à deux reprises. Je présume que c'est la raison pour laquelle ils doivent organiser deux réunions de caucus cette semaine, parce qu'ils estiment que le Cabinet ne les a pas consultés. </ParaText>
               <ParaText id="4806510">Il ne s'agit pas seulement des députés de l'opposition; le caucus libéral en a, lui aussi, assez de la promesse des libéraux de faire mieux, car je dirais qu'ils vont de mal en pis à ce stade-ci. Au moins, nous savions quelle était la position des conservateurs. Je suppose que les libéraux se plaisent à dire qu'ils vont faire mieux, avant de nous planter un couteau dans le dos à ce sujet. Voilà exactement ce que nous ressentons, parce que nous avons travaillé fort au comité. </ParaText>
@@ -649,9 +616,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Clement" id="9427719">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Clement" id="9427719">
             <PersonSpeaking>
-              <Affiliation DbId="214103" Type="2">L'hon. Tony Clement (Parry Sound—Muskoka, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214103" Type="2">L'hon. Tony Clement</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806533">Madame la Présidente, comment la <Affiliation DbId="224669" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> peut-elle justifier d'affaiblir ainsi le projet de loi du gouvernement alors que les libéraux avaient promis, en campagne électorale, de mettre en place un processus de surveillance parlementaire sérieux?</ParaText>
             </Content>
@@ -1029,9 +996,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806554">Mon collègue est-il d'accord pour dire que le projet de loi qui nous est soumis aujourd'hui est parmi les plus solides et qu'il permettra au Canada de se doter de l'un des meilleurs comités parlementaires de surveillance au monde?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Graham" id="9428033">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Graham" id="9428033">
             <PersonSpeaking>
-              <Affiliation DbId="214137" Type="2">M. David de Burgh Graham</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806555">Madame la Présidente, je réponds toujours avec plaisir aux questions du député de <Affiliation DbId="213924" Type="2">Winnipeg-Nord</Affiliation>. Je suis tout à fait d'accord avec lui.</ParaText>
               <ParaText id="4806556"> Il est essentiel de pouvoir compter sur un système robuste. Le projet de loi <Document DbId="8364795" Type="3">C-22</Document> propose un système d'une grande robustesse. Les défis sont considérables. Les agences canadiennes du renseignement font un travail très intéressant partout sur la planète. Quelqu'un doit les superviser, regarder ce qu'elles font et s'assurer que les gestes qu'elles posent sont logiques et respectent les règles; il doit avoir le pouvoir d'assurer cette supervision sans mettre aucune activité en péril. Tout cela est très important et a tout mon appui. </ParaText>
@@ -1514,7 +1481,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4806704">Monsieur le Président, aujourd'hui, c'est la Journée internationale de la Francophonie. Au cours de la semaine du 6 au 12 mars, à l'Assemblée nationale du Québec, j'ai participé à un atelier de leadership et à des rencontres de l'Association parlementaire de la Francophonie avec des femmes parlementaires francophones de partout au monde. Ce fut aussi l'occasion de mesurer combien la langue française est notre trait d'union sur les cinq continents.</ParaText>
               <ParaText id="4806705">Plusieurs francophones de chez nous, comme Céline Dion et Xavier Dolan, nous ont prouvé qu'il est possible de réussir internationalement en français, tout comme Alain Bouchard, fondateur des dépanneurs Couche Tard, l'a fait dans le monde des affaires.</ParaText>
-              <ParaText id="4806706">Le respect et le maintien de la langue française est un devoir pour tous les parlementaires. Celle-ci doit être continuellement défendue, et nous devons tous et toutes nous élever au-delà de la partisanerie.</ParaText>
+              <ParaText id="4806706">Le respect et le maintien de la langue française est un devoir pour tous les parlementaires. Celle-ci doit être continuellement défendue, et nous devons tous et toutes nous élever au-dessus de la partisanerie.</ParaText>
               <ParaText id="4806707">Aux francophones du Québec, du Canada et du monde entier, ainsi qu'à ceux et celles qui ont adopté la langue française, bonne Journée internationale de la Francophonie!</ParaText>
             </Content>
           </Intervention>
@@ -1571,7 +1538,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214127" Type="2">L'hon. Denis Lebel (Lac-Saint-Jean, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806712">Monsieur le Président, dans les deux langues officielles du Canada, quand on dépense plus d'argent qu'on n'en reçoit, on se retrouve en déficit, et ce, peu importe la langue qu'on parle.</ParaText>
-              <ParaText id="4806713">Ce gouvernement a perdu le contrôle des dépenses. On se doit de créer de nouvelles sources de revenus ou d'éliminer des crédits pour les familles. J'ai hâte de voir ce qu'il y aura dans le budget qui sera annoncé mercredi pour savoir quelles coupes les familles du Canada vont encore devoir subir, après avoir perdu leurs crédits pour le sport et la culture. </ParaText>
+              <ParaText id="4806713">Ce gouvernement a perdu le contrôle des dépenses. On se doit de créer de nouvelles sources de revenu ou d'éliminer des crédits pour les familles. J'ai hâte de voir ce qu'il y aura dans le budget qui sera annoncé mercredi pour savoir quelles coupes les familles du Canada vont encore devoir subir, après avoir perdu leurs crédits pour le sport et la culture. </ParaText>
               <ParaText id="4806714">Quelles seront les nouvelles coupes? Quel sera le cadeau offert à ces familles quand elles vont se lever jeudi prochain, après le dépôt du budget?</ParaText>
             </Content>
           </Intervention>
@@ -1622,7 +1589,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428325">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La reddition de comptes par le gouvernement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Règlement de la Chambre des communes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9428324">
             <PersonSpeaking>
@@ -1751,8 +1718,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806756">Monsieur le Président, notre premier geste en tant que gouvernement a été de baisser les impôts pour la classe moyenne et de les augmenter pour le 1 % le mieux nanti. </ParaText>
-              <ParaText id="4806757">L'honorable député et son parti ont voté contre cette initiative visant à baisser les impôts pour la classe moyenne. La réalité, c'est que mercredi, tout le monde va voir un budget axé sur la croissance de la classe moyenne et sur l'aide dont les Canadiens ont tant besoin après 10 ans de gouvernement conservateur.</ParaText>
+              <ParaText id="4806756">Monsieur le Président, notre premier geste en tant que gouvernement a été de baisser les impôts de  la classe moyenne et d'augmenter ceux du  1 % le mieux nanti. </ParaText>
+              <ParaText id="4806757">L'honorable député et son parti ont voté contre cette initiative visant à baisser les impôts de  la classe moyenne. La réalité, c'est que mercredi, tout le monde va voir un budget axé sur la croissance de la classe moyenne et sur l'aide dont les Canadiens ont tant besoin après 10 ans de gouvernement conservateur.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1764,7 +1731,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806758">Monsieur le Président, c'est 10 ans de gouvernement conservateur qui s'est soldé par un surplus budgétaire de 2,9 milliards de dollars. Je remercie le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> de me donner la chance de rappeler cette vérité si chère aux Canadiens.</ParaText>
+              <ParaText id="4806758">Monsieur le Président, c'est 10 ans de gouvernement conservateur qui se sont  soldés par un surplus budgétaire de 2,9 milliards de dollars. Je remercie le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> de me donner la chance de rappeler cette vérité si chère aux Canadiens.</ParaText>
               <ParaText id="4806759">En parlant de chiffres, dans 50 heures, le gouvernement va déposer son budget. Les gens sont inquiets, car ils ne font pas confiance au gouvernement, et particulièrement au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. Nous avons questionné sans arrêt le premier ministre pour savoir s'il allait, oui ou non, augmenter les taxes concernant les régimes d'assurance santé et d'assurance dentaire. Il avait finalement dit non, et six jours plus tard, il a voté de façon contraire à ses propres paroles. </ParaText>
               <ParaText id="4806760">Est-ce que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> pourrait assurer aux Canadiens qu'ils n'auront pas à payer...</ParaText>
             </Content>
@@ -1782,7 +1749,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="229486" Type="18">L’hon. Ginette Petitpas Taylor (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806763">Monsieur le Président, je tiens à remercier mon collègue de sa question.</ParaText>
-              <ParaText id="4806764"> Notre gouvernement s'est engagé à investir dans la classe moyenne, dans les gens et dans l'économie. C'est ce gouvernement qui a baissé les impôts pour les gens de la classe moyenne. C'est la première chose que nous avons faite lorsque nous avons pris le pouvoir. C'est aussi nous qui avons augmenté les impôts pour les mieux nantis. </ParaText>
+              <ParaText id="4806764"> Notre gouvernement s'est engagé à investir dans la classe moyenne, dans les gens et dans l'économie. C'est ce gouvernement qui a baissé les impôts des gens de la classe moyenne. C'est la première chose que nous avons faite lorsque nous avons pris le pouvoir. C'est aussi nous qui avons augmenté les impôts des mieux nantis. </ParaText>
               <ParaText id="4806765">En outre, nous avons créé l'Allocation canadienne pour enfants, qui a aidé neuf familles sur dix à élever leurs enfants. Nous avons un plan et nous allons continuer à aller de l'avant. Nous sommes contents.</ParaText>
             </Content>
           </Intervention>
@@ -1803,7 +1770,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806770"> Les gens qui cherchent à investir au Canada bénéficient aussi d'une population très compétente et très bien éduquée. Nous allons continuer notre plan visant à investir dans les compétences, l'innovation et la productivité, afin de nous assurer que nous pourrons garder et développer ces avantages ici, au Canada.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9428533">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les Finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Albas" id="9428380">
             <PersonSpeaking>
               <Affiliation DbId="214473" Type="2">M. Dan Albas (Central Okanagan—Similkameen—Nicola, PCC)</Affiliation>: </PersonSpeaking>
@@ -1841,6 +1813,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806777">Le gouvernement continuera à adopter une approche pangouvernementale pour assurer l'ouverture des marchés aux petites entreprises qui représentant 99 % du secteur commercial. Nous continuerons à travailler très fort pour elles.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9431567">
+        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Poilievre" id="9428391">
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre (Carleton, PCC)</Affiliation>: </PersonSpeaking>
@@ -1861,6 +1838,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806785">Notre priorité va aux Canadiens de la classe moyenne, pour qui nous allons continuer de travailler.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9428623">
+        <SubjectOfBusinessTitle>Le développement social</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Poilievre" id="9428395">
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre (Carleton, PCC)</Affiliation>: </PersonSpeaking>
@@ -1913,14 +1895,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="229486" Type="18">L’hon. Ginette Petitpas Taylor (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4806796">Monsieur le Président, je tiens à remercier mon collègue de sa question. </ParaText>
-              <ParaText id="4806797">Les Canadiens méritent des normes de protection du consommateur des plus fortes, ainsi que des plans financiers. Notre gouvernement s'attend à ce que toutes les institutions financières respectent les standards les plus élevés. L'Agence de la consommation en matière financière du Canada lance un examen de l'industrie concernant les pratiques de vente des banques. J'ai pleine confiance que l'Agence utilisera ses outils pour s'attaquer à cette situation. </ParaText>
+              <ParaText id="4806797">Les Canadiens méritent des normes de protection du consommateur des plus fortes, ainsi que des plans financiers. Notre gouvernement s'attend à ce que toutes les institutions financières respectent les standards les plus élevés. L'Agence de la consommation en matière financière du Canada lance un examen de l'industrie concernant les pratiques de vente des banques. Je suis convaincue  que l'Agence utilisera ses outils pour s'attaquer à cette situation. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9429667">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La réforme démocratique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Règlement de la Chambre des communes </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Strahl" id="9428410">
             <PersonSpeaking>
@@ -2168,7 +2150,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806841">Monsieur le Président, la semaine dernière, la fermeture des magasins HMV a entraîné la faillite du distributeur DEP, arrêtant net la mise en marché d'artistes québécois.</ParaText>
               <ParaText id="4806842">De Vincent Vallières à l'Orchestre symphonique de Montréal, en passant par Florence K, la faillite de DEP s'avère être le dernier signe de l'effondrement de l'industrie du disque au Québec et représente une nouvelle source d'inquiétude quant au contenu canadien.</ParaText>
               <ParaText id="4806843"> Le Canada doit se positionner dès maintenant pour encadrer tous les nouveaux fournisseurs en ligne, qu'ils soient basés à Montréal, à Los Angeles ou dans un autre paradis fiscal.</ParaText>
-              <ParaText id="4806844">La ministre peut-elle nous dire ce qu'elle a fait pour s'assurer que ces nouveaux joueurs contribuent à notre écosystème et au même cadre fiscal que tous les autres?</ParaText>
+              <ParaText id="4806844">La ministre peut-elle nous dire ce qu'elle a fait pour s'assurer que ces nouveaux acteurs contribuent à notre écosystème et au même cadre fiscal que tous les autres?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Joly" id="9428474">
@@ -2184,7 +2166,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428478">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les dépenses gouvernementales</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gladu" id="9428477">
             <PersonSpeaking>
@@ -2202,12 +2184,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806851">Le gouvernement actuel consulte les Canadiens plus que tout autre avant lui afin de favoriser leur participation et de communiquer avec eux. Il continuera de les écouter et de s'attaquer aux problèmes concrets avec lesquels ils sont aux prises.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9428623">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les dépenses gouvernementales</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Gourde" id="9428482">
             <PersonSpeaking>
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
@@ -2228,7 +2205,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428544">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La réforme démocratique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L e Bureau du Conseil privé</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Motz" id="9428486">
             <PersonSpeaking>
@@ -2338,7 +2315,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428515">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La défense nationale</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les services publics et l'approvisionnement </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Paul-Hus" id="9428514">
             <PersonSpeaking>
@@ -2369,7 +2346,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4806882">Monsieur le Président, aujourd'hui commence à la Cour supérieure du Québec la contestation judiciaire de la loi 99, la loi qui reconnaît au peuple québécois son droit à l'indépendance. </ParaText>
               <ParaText id="4806883">Obliger le Québec à défendre un principe élémentaire de démocratie, c'est là que nous conduit le fédéralisme d'Ottawa. Le gouvernement fédéral, sous Stephen Harper, a décidé d'être partie prenante dans ce procès. </ParaText>
-              <ParaText id="4806884">Est-ce que le gouvernement va se retirer de ce procès-là et enfin reconnaître le droit du Québec à l'autodétermination?</ParaText>
+              <ParaText id="4806884">Est-ce que le gouvernement va se retirer de ce procès et enfin reconnaître le droit du Québec à l'autodétermination?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2501,7 +2478,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428707">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>La condition féminine</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Condition féminine</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gladu" id="9428570">
             <PersonSpeaking>
@@ -2523,7 +2500,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9428709">
         <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
-        <SubjectOfBusinessQualifier>Les pêches et les océans</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Pêches et les océans</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Simms" id="9428576">
             <PersonSpeaking>
@@ -2681,7 +2658,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4806936">Monsieur le Président, on répondra aujourd'hui aux questions n<Sup>os</Sup> 797, 805, 812, 813, 819, 823, 826, et de 828 à 830. </ParaText>
+              <ParaText id="4806936">Monsieur le Président, on répondra aujourd'hui aux questions n<Sup>os</Sup> 797, 805, 812, 813, 819, de 823 à 826, et de 828 à 830. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="Text">[<I>Texte</I>]</FloorLanguage>
@@ -2812,6 +2789,43 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4806973">Le gouvernement cherche également à créer un conseil d’administration provisoire qui formulera des recommandations sur la création d’un conseil national de réconciliation, conformément à l’appel à l’action no 53. Le conseil provisoire entamera un processus de mobilisation afin de rédiger des recommandations sur la portée et le mandat du conseil national. Ce conseil jouera un rôle majeur dans la mise en œuvre des appels à l’action. </ParaText>
               <ParaText id="4806974">Le calendrier associé à la mise en œuvre sera également établi lors de discussions avec les intervenants touchés par chacun des appels à l’action.</ParaText>
               <ParaText id="4806975">Le travail n’est pas terminé, mais le gouvernement réalise de véritables progrès dans le renouvellement de sa relation avec les Autochtones. </ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <WrittenQuestionResponse>
+            <QuestionID>Question n<Sup>o</Sup> 824 -- </QuestionID>
+            <Questioner>
+              <Affiliation DbId="214534" Type="2">M. John Brassard</Affiliation>:</Questioner>
+            <QuestionContent>
+              <ParaText id="4824051"> En ce qui concerne le Programme d’innovation du Canada, tel que publié par le ministre de l’Innovation, des Sciences et du Développement économiques et les « leaders en innovation » et intitulé « Innover pour un meilleur Canada : Ce que vous nous avez dit »: <I>a</I>) combien ce document a-t-il coûté au gouvernement; <I>b</I>) quels sont les détails de la rémunération pour chacun des dix leaders en innovation; <I>c</I>) combien la consultation des leaders en innovation a-t-elle coûté, ventilé par (i) déplacement, (ii) accueil, (iii) repas et faux frais, (iv) logement, (v) indemnités, (vi) location de bureaux pour la consultation des intervenants? </ParaText>
+            </QuestionContent>
+            <Responder>
+              <Affiliation DbId="214319" Type="4">L'hon. Navdeep Bains (ministre de l'Innovation, des Sciences et du Développement économique, Lib.)</Affiliation>: </Responder>
+            <ResponseContent>
+              <ParaText id="4824052">Monsieur le Président, le gouvernement du Canada croit que le Canada a besoin d’une stratégie d’innovation audacieuse et coordonnée qui produit des résultats avantageux pour l’ensemble des Canadiens. À ce titre, une démarche de mobilisation qui reflète l’engagement de lancer un appel à tous les Canadiens et de favoriser l’adoption de l’innovation en tant que valeur canadienne a été entreprise.
+ 
+</ParaText>
+              <ParaText id="4824053">Le gouvernement a invité tous les Canadiens à présenter leurs idées pour faire du Canada une nation d’innovateurs confiants en leurs capacités. L’objectif est de faire du Canada un pays qui n’a rien à envier aux autres pour ce qui est de promouvoir la recherche, d’accélérer la croissance des entreprises et de propulser les entrepreneurs, des étapes du démarrage et de la commercialisation à celle de la réussite sur le marché international.</ParaText>
+              <ParaText id="4824054">Le gouvernement a également rassemblé 10 leaders en innovation provenant de tous les milieux. Ces personnes expérimentées et distinguées sont elles-mêmes des innovateurs. Ces derniers représentaient le secteur privé, le milieu universitaire et collégial, des organismes sans but lucratif, des entrepreneurs sociaux ainsi que des entreprises détenues et exploitées par des Autochtones.</ParaText>
+              <ParaText id="4824055">Au cours de l’été, ces leaders ont tenu 28 tables rondes au Canada avec des intervenants clés, ainsi qu’à Boston, aux États-Unis, et à Cambridge, au Royaume-Uni, sur les six domaines d’action. Ces séances ont réuni divers intervenants, notamment des représentants du milieu universitaire, d’associations de l’industrie, d’organisations sans but lucratif, de groupes autochtones, d’organismes jeunesse et d’autres ordres de gouvernement.</ParaText>
+              <ParaText id="4824056">À l’égard des questions sur le Programme d’innovation du Canada, tel que publié par les leaders en innovation et moi-même et intitulé « Innover pour un meilleur Canada : Ce que vous nous avez dit », voici les réponses.
+
+</ParaText>
+              <ParaText id="4824057">En réponse à la partie a) de la question, le document a été préparé à l’interne par Innovation, Sciences et du Développent économique Canada. Le coût total de 1 990,21 $ encouru par le gouvernement couvrait les frais de traduction.</ParaText>
+              <ParaText id="4824058">Pour ce qui est de la partie b) de la question, les 10 leaders en innovation n’ont pas été rémunérés pour ce travail. Toutefois, certaines dépenses ont été remboursées.</ParaText>
+              <ParaText id="4824059">En ce qui concerne la partie c) de la question, le coût total des déplacements des 10 leaders en innovation pour 26 tables rondes aux quatre coins du Canada et une table ronde aux États-Unis était de 10 613,99 $; il y avait une table ronde au Royaume-Uni, mais aucun coût n'a été engagé. Le coût total de l’accueil pour 28 tables rondes a été de 10 391,64 $. Le coût total des repas et du transport des 10 leaders en innovation pour 28 tables rondes a été  de 306,22 $. Le coût total pour l’hébergement des 10 leaders en innovation pour 28 tables rondes a été de 2 933,72 $. Aucune indemnité quotidienne supplémentaire n’a été fournie aux 10 leaders en innovation. Enfin, le coût total des locaux loués pour les 28 tables rondes a été de 6 185,35 $.</ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <WrittenQuestionResponse>
+            <QuestionID>Question n<Sup>o</Sup> 825 -- </QuestionID>
+            <Questioner>
+              <Affiliation DbId="214534" Type="2">M. John Brassard</Affiliation>:</Questioner>
+            <QuestionContent>
+              <ParaText id="4824060"> En ce qui concerne le premier ministre et ses filtres anti-conflits d’intérêts: <I>a</I>) quels sont les noms des entreprises et des organismes qui sont gérés ou dirigés par des amis ou des parents du premier ministre, au sens de l’article 4 de la Loi sur les conflits d’intérêts; <I>b</I>) quels sont les noms des entreprises et des organismes pour lesquels on a établi un filtre et où le premier ministre s’est récusé concernant une décision; <I>c</I>) ventilé par entreprise ou organisation, quand ces filtres ont-ils été établis; <I>d</I>) qui, au Cabinet du premier ministre ou au Bureau du Conseil privé, est chargé de faire appliquer ou de mettre en œuvre ces filtres?</ParaText>
+            </QuestionContent>
+            <Responder>
+              <Affiliation DbId="229521" Type="18">M. Peter Schiefke (secrétaire parlementaire du premier ministre (Jeunesse), Lib.)</Affiliation>: </Responder>
+            <ResponseContent>
+              <ParaText id="4824061">Monsieur le Président, en ce qui concerne le premier ministre et ses filtres anti-conflits d’intérêts, le premier ministre a fait preuve d’un niveau de divulgation sans précédent depuis qu’il dirige le Parti libéral. Il a fait toutes les divulgations nécessaires au Commissariat aux conflits d'intérêts et à l'éthique et il suivra toujours les conseils de la commissaire.</ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
           <WrittenQuestionResponse>
@@ -4295,13 +4309,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Le vice-président:</B> Le vote par appel nominal sur la motion est différé.</ParaText>
               <ProceduralText TocType="TPC" id="11">Report du vote sur la motion n<Sup>o</Sup> 2</ProceduralText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4807518">Le vote porte sur la motion n<Sup>o</Sup> 3. Plaît-il à la Chambre d'adopter la motion?</ParaText>
+              <ParaText id="4807518">Le vote porte sur l'amendement à la motion n<Sup>o</Sup> 3. Plaît-il à la Chambre d'adopter l'amendement?</ParaText>
               <ParaText id="4807519">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4807520">
                 <B>Des voix:</B> Non.</ParaText>
               <ParaText id="4807521">
-                <B>Le vice-président:</B> Que tous ceux qui sont en faveur de la motion veuillent bien dire oui.</ParaText>
+                <B>Le vice-président:</B> Que tous ceux qui sont en faveur de l'amendement à la motion veuillent bien dire oui.</ParaText>
               <ParaText id="4807522">
                 <B>Des voix:</B> Oui.</ParaText>
               <ParaText id="4807523">
@@ -4315,7 +4329,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ProceduralText TocType="TPC" id="12">Report du vote sur la motion n<Sup>o</Sup> 3</ProceduralText>
               <ParaText id="4807527">
-                <B>Le vice-président:</B> Le vote par appel nominal sur la motion est reporté.</ParaText>
+                <B>Le vice-président:</B> Le vote par appel nominal sur l'amendement à la motion est reporté.</ParaText>
+              <ProceduralText TocType="TPC" id="13">Report du vote sur l'amendement à la motion n<Sup>o</Sup> 3</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4807528"> La question porte sur la motion n<Sup>o</Sup> 4. Plaît-il à la Chambre d'adopter la motion? </ParaText>
               <ParaText id="4807529">
@@ -4337,7 +4352,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ParaText id="4807537">
                 <B>Le vice-président:</B> Le vote sur la motion n<Sup>o</Sup> 4 est différé.</ParaText>
-              <ProceduralText TocType="TPC" id="13">Report du vote sur la motion n<Sup>o</Sup> 4</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Report du vote sur la motion n<Sup>o</Sup> 4</ProceduralText>
               <Timestamp Hr="18" Mn="50">(1850)</Timestamp>
               <ParaText id="4807538">La question porte sur la motion n<Sup>o</Sup> 5. Plaît-il à la Chambre d'adopter cette motion? </ParaText>
               <ParaText id="4807539">
@@ -4359,7 +4374,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ParaText id="4807547">
                 <B> Le vice-président:</B> Le vote par appel nominal sur la motion n<Sup>o</Sup> 5 est différé. </ParaText>
-              <ProceduralText TocType="TPC" id="14">Report du vote sur la motion n<Sup>o</Sup> 5</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Report du vote sur la motion n<Sup>o</Sup> 5</ProceduralText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4807548">Le vote porte sur la motion n<Sup>o</Sup> 7.</ParaText>
               <ParaText id="4807549">Plaît-il à la Chambre d'adopter la motion?</ParaText>
@@ -4382,7 +4397,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ParaText id="4807558">
                 <B>Le vice-président:</B> Le vote par appel nominal sur la motion est reporté.</ParaText>
-              <ProceduralText TocType="TPC" id="15">Report du vote sur la motion n<Sup>o</Sup> 7</ProceduralText>
+              <ProceduralText TocType="TPC" id="16">Report du vote sur la motion n<Sup>o</Sup> 7</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4807559"> La Chambre abordera maintenant les votes par appel nominal différés, à l'étape du rapport du projet de loi.</ParaText>
               <ParaText id="4807560">Convoquez les députés. </ParaText>
@@ -4712,7 +4727,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807562">Je déclare la motion n<Sup>o</Sup> 1 adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="16">Adoption de la motion n<Sup>o</Sup> 1</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Adoption de la motion n<Sup>o</Sup> 1</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4807563">Le prochain vote porte sur la motion n<Sup>o</Sup> 2. </ParaText>
             </Content>
@@ -5042,7 +5057,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807565">Je déclare la motion n<Sup>o</Sup> 2 rejetée.</ParaText>
-              <ProceduralText TocType="TPC" id="17">Rejet de la motion n<Sup>o</Sup> 2</ProceduralText>
+              <ProceduralText TocType="TPC" id="18">Rejet de la motion n<Sup>o</Sup> 2</ProceduralText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4807566">Le vote porte sur l'amendement à la motion n<Sup>o</Sup> 3.</ParaText>
             </Content>
@@ -5373,7 +5388,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807568">Je déclare l'amendement à la motion n<Sup>o</Sup> 3 rejeté. </ParaText>
-              <ProceduralText TocType="TPC" id="18">Rejet de l'amendement à la motion n<Sup>o</Sup> 3</ProceduralText>
+              <ProceduralText TocType="TPC" id="19">Rejet de l'amendement à la motion n<Sup>o</Sup> 3</ProceduralText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4807569">Le vote porte sur la motion n<Sup>o</Sup> 3. Le résultat du vote sur cette motion s'appliquera également à la motion n<Sup>o</Sup> 6.</ParaText>
               <ParaText id="4807570">Plaît-il à la Chambre d'adopter la motion?</ParaText>
@@ -5721,7 +5736,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807580">Je déclare la motion n<Sup>o</Sup> 3 adoptée. Je déclare donc la motion n<Sup>o</Sup> 6 adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="19">Adoption de la motion n<Sup>o</Sup> 3</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Adoption de la motion n<Sup>o</Sup> 3</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4807581">Le vote suivant porte sur la motion n<Sup>o</Sup> 4.</ParaText>
             </Content>
@@ -6051,7 +6066,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807583">Je déclare la motion n<Sup>o</Sup> 4 adoptée. </ParaText>
-              <ProceduralText TocType="TPC" id="20">Adoption de la motion n<Sup>o</Sup> 4</ProceduralText>
+              <ProceduralText TocType="TPC" id="21">Adoption de la motion n<Sup>o</Sup> 4</ProceduralText>
               <ParaText id="4807584">Le prochain vote porte sur la motion n<Sup>o</Sup> 5.</ParaText>
             </Content>
           </Intervention>
@@ -6381,7 +6396,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807586">Je déclare la motion n<Sup>o</Sup> 5 adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="21">Adoption de la motion n<Sup>o</Sup> 5</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Adoption de la motion n<Sup>o</Sup> 5</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4807587">Le vote suivant porte sur la motion n<Sup>o</Sup> 7.</ParaText>
             </Content>
@@ -6711,7 +6726,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807589">Je déclare la motion n<Sup>o</Sup> 7 rejetée. </ParaText>
-              <ProceduralText TocType="TPC" id="22">Rejet de la motion n<Sup>o</Sup> 7</ProceduralText>
+              <ProceduralText TocType="TPC" id="23">Rejet de la motion n<Sup>o</Sup> 7</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -6720,7 +6735,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="23">Projet de loi C-22. Motion d'adoption</ProceduralText>
+              <ProceduralText TocType="TPC" id="24">Projet de loi C-22. Motion d'adoption</ProceduralText>
               <ParaText id="4807590"> propose que le projet de loi, modifié, soit agréé à l'étape du rapport avec d'autres amendements.</ParaText>
             </Content>
           </Intervention>
@@ -7074,7 +7089,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="24">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="25">Adoption de la motion</ProceduralText>
               <ParaText id="4807602">Je déclare la motion adoptée.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4807603">Conformément à l'ordre adopté le jeudi 9 mars 2017, la Chambre se forme maintenant en comité plénier pour étudier la motion n<Sup>o</Sup> 12, sous la rubrique des affaires émanant du gouvernement.</ParaText>
@@ -7093,7 +7108,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>L'opération Unifier</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" TocText="Étude de l'initiative ministérielle no 12 par la Chambre, en comité plénier, sous la présidence de M. Rota" id="25">(La Chambre se forme en comité plénier sous la présidence de M. Anthony Rota, pour étudier l'initiative ministérielle n<Sup>o</Sup> 12.)</ProceduralText>
+          <ProceduralText TocType="TCC" TocText="Étude de l'initiative ministérielle no 12 par la Chambre, en comité plénier, sous la présidence de M. Rota" id="26">(La Chambre se forme en comité plénier, sous la présidence de M. Anthony Rota, pour étudier l'initiative ministérielle n<Sup>o</Sup> 12.)</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9431586">
             <PersonSpeaking>
               <Affiliation DbId="214970" Type="96">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
@@ -7111,7 +7126,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="224669" Type="4">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="26">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="27">Motion</ProceduralText>
               <ParaText id="4807608"> propose:</ParaText>
               <ParaText id="4807609">
                 <Quote>
@@ -7158,7 +7173,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214103" Type="2">L'hon. Tony Clement (Parry Sound—Muskoka, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4807634">Monsieur le Président, je remercie la ministre de ses observations, qui donnent  un aperçu du soutien offert par le gouvernement précédent et, bien évidemment, du soutien offert par la ministre et le gouvernement.</ParaText>
+              <ParaText id="4807634">Monsieur le président, je remercie la ministre de ses observations, qui donnent  un aperçu du soutien offert par le gouvernement précédent et, bien évidemment, du soutien offert par la ministre et le gouvernement.</ParaText>
               <ParaText id="4807635">J'étais en Ukraine, comme le sait la ministre, du 28 février au 3 mars dans le cadre d'une mission humanitaire avec l'organisme One Free World International. Il y a plus d'un million de personnes déplacées en Ukraine actuellement. Ces personnes ont été déplacées en raison de l'horrible guerre qui sévit toujours là-bas. Ce n'est pas une guerre froide, mais bien une guerre chaude dans la région du Donbass. Je me suis rendu à l'hôpital militaire. De nombreux médecins canadiens s'y trouvent et travaillent même la nuit parce qu'il y a de jeunes hommes qui ont besoin de leur aide après être allés dans la zone de guerre. </ParaText>
               <ParaText id="4807636">J'ai également rencontré un certain nombre de hauts fonctionnaires ukrainiens. Ils s'inquiètent toujours de la corruption au sein de leur société et se demandent comment le Canada peut les aider. </ParaText>
               <ParaText id="4807637"> J'ai une question en trois volets à poser à la ministre. Il y a l'opération Unifier, qui est exceptionnelle et que l'on doit poursuivre, mais comment pouvons-nous aider l'Ukraine à lutter contre la corruption? Comment pouvons-nous faire en sorte que les soldats ukrainiens soient mieux en mesure de défendre leur patrie? Comment pouvons-nous venir en aide aux personnes déplacées qui ont besoin de notre aide?</ParaText>
@@ -7199,9 +7214,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="20" Mn="40">(2040)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9431607">
             <PersonSpeaking>
-              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4807651">Nous avons du temps pour une brève question.</ParaText>
+              <ParaText id="4807651"> Nous avons du temps pour une brève question.</ParaText>
               <ParaText id="4807652">La députée de Saanich—Gulf Islands a la parole. </ParaText>
             </Content>
           </Intervention>
@@ -7217,7 +7232,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9431609">
             <PersonSpeaking>
-              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807657">La parole est à l'honorable <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation>, qui dispose de 45 secondes ou moins, si possible. </ParaText>
             </Content>
@@ -7327,7 +7342,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4807702">Par ailleurs, il ne faut pas oublier non plus que la situation en matière de droits de la personne laisse souvent beaucoup à désirer, et ce, des deux côtés du conflit. Les rapports sur les civils en détention révèlent de graves violations à cet égard, tant en Russie qu'en Ukraine. Nous avons assurément une plus grande influence sur ce qui se passe en Ukraine. C'est là une situation où le Canada doit collaborer avec les autorités pour faire en sorte que les policiers et les responsables des établissements pénitentiaires soient mieux formés et aient l'exemple du grand professionnalisme canadien. Ceci dit, nous allons aussi devoir continuer d'exercer des pressions diplomatiques sur l'Ukraine pour l'inciter à améliorer son bilan en matière de droits de la personne et de démocratie. Favoriser la démocratie en Ukraine demeure la façon la plus efficace et la plus sûre d'empêcher la Russie d'arriver à ses fins dans l'Est de Ukraine. </ParaText>
               <ParaText id="4807703">La violence soutenue par la Russie en Ukraine et la violation constante des accords de cessez-le-feu restent des sujets de préoccupation pour le NPD. C'est pour cette raison que nous appuyons la mission de formation et pour cette raison que nous sommes d'accord pour maintenir l'offre d'une aide militaire non létale à l'Ukraine. </ParaText>
               <Timestamp Hr="21" Mn="05">(2105)</Timestamp>
-              <ParaText id="4807704"> Nous n'irons pas aussi loin que l'ont fait les conservateurs ce soir, car, à notre avis, il n'est pas aisé de surveiller le commerce des armes légères. Il est difficile de s'assurer que les armes expédiées à l'Ukraine restent bien entre les mains de ceux à qui elles sont destinées — </ParaText>
+              <ParaText id="4807704"> Nous n'irons pas aussi loin que l'ont fait les conservateurs ce soir, car, à notre avis, il n'est pas aisé de surveiller le commerce des armes légères. Il est difficile de s'assurer que les armes expédiées à l'Ukraine restent bien entre les mains de ceux à qui elles sont destinées ...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9431635">
@@ -7476,7 +7491,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4807756">Il est important pour le gouvernement d'approfondir les relations du Canada avec ses partenaires internationaux et ses alliés. C'était d'ailleurs l'une des priorités principales soulevées par les Canadiens lors des consultations que nous avons tenues l'année dernière sur notre politique de défense. Ainsi, c'est un thème qui reviendra souvent dans la prochaine politique de défense.</ParaText>
               <ParaText id="4807757">J'ai hâte d'entendre ce qu'auront à dire mes collègues des deux côtés de la Chambre au sujet du débat exploratoire d'aujourd'hui. </ParaText>
               <Timestamp Hr="21" Mn="30">(2130)</Timestamp>
-              <ParaText />
+              <ParaText>
+              </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Bezan" id="9431672">
@@ -7563,7 +7579,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9431691">
             <PersonSpeaking>
-              <Affiliation DbId="214906" Type="96">La présidente suppléante (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214906" Type="96">La vice-présidente</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807782">Je voudrais simplement rappeler à la députée qu'elle doit adresser ses questions à la présidence et non à ses collègues.</ParaText>
             </Content>
@@ -7711,7 +7727,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="22" Mn="05">(2205)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="9431723">
             <PersonSpeaking>
-              <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214906" Type="96">La vice-présidente</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807837">Je suis désolée, mais le temps de parole est écoulé. Le député pourra peut-être terminer durant les questions et les observations.</ParaText>
               <ParaText id="4807838">Nous passons maintenant aux questions et observations. Le député de Thornhill a la parole.</ParaText>
@@ -7721,7 +7737,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214192" Type="2">L'hon. Peter Kent (Thornhill, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4807839">Madame la présidente, oui, je donnerai au député la chance de poursuivre son propos dans sa réponse à ma question.</ParaText>
+              <ParaText id="4807839">Madame la présidente, je donnerai au député la chance de poursuivre son propos dans sa réponse à ma question.</ParaText>
               <ParaText id="4807840"> Lorsqu'il décrit la récente poussée meurtrière et destructrice menée par les Russes dans l'Est de l'Ukraine, le député semble proposer les mêmes arguments que mes collègues de ce côté-ci de la Chambre en ce qui concerne la réponse du Canada à la demande de l'Ukraine, qui souhaite un élargissement de l'opération Unifier et aimerait obtenir, pour sa défense, des armes meurtrières, des images satellites et de l'artillerie mobile antichars et anti véhicules blindés, choses que le gouvernement de Kiev réclame avec passion, mais aussi avec discrétion, étant donné la portée diplomatique de l'opération Unifier. Le député semble penser, comme mes collègues de ce côté-ci de la Chambre, que le Canada devrait faire beaucoup plus pour répondre à la demande du gouvernement de l'Ukraine.</ParaText>
             </Content>
           </Intervention>
@@ -7836,7 +7852,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213940" Type="2">Mme Cheryl Gallant</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4807883">Madame la présidente, il faut absolument que la transition se fasse rondement afin que, lorsque les militaires se blessent, que ce soit en s'entraînant ici ou en entraînant d'autres soldats à l'étranger, ils sachent qu'on prendra soin d'eux et que, s'ils ne répondent plus aux exigences en matière d'universalité du service, ils auront droit à une pension adéquate sans avoir à se battre pour l'obtenir.</ParaText>
-              <ParaText id="4807884">Mon collègue parlait des besoins là-bas. En juin 2014, l'Association parlementaire canadienne de l'OTAN s'est réunie à Vilnius, et ce sont des soldats qui avaient été au front qui faisaient office de parlementaires. M. Olekas était à la tête de sa délégation. Il marchait avec des béquilles, parce qu'il avait été blessé. J'ai encore avec moi la liste qu'il nous avait remise, et on dirait que rien n'a vraiment changé. Il affirme que ce n'est pas de conseils qu'il a besoin, mais de casques et d'armures. Nos soldats sont équipés de l'extraordinaire gilet pare-éclats de Pacific Safety Products, mais les leurs doivent encore utiliser des plaques de tôle. Espérons que, si c'est dans nos moyens de le faire, nous leur fournirons ce dont ils ont besoin.</ParaText>
+              <ParaText id="4807884">Mon collègue parlait des besoins là-bas. En juin 2014, l'Association parlementaire canadienne de l'OTAN s'est réunie à Vilnius, et ce sont des soldats qui avaient été au front qui faisaient office de parlementaires. M. Oleh Osukhvskyi était à la tête de sa délégation. Il marchait avec des béquilles, parce qu'il avait été blessé. J'ai encore avec moi la liste qu'il nous avait remise, et on dirait que rien n'a vraiment changé. Il affirme que ce n'est pas de conseils qu'il a besoin, mais de casques et d'armures. Nos soldats sont équipés de l'extraordinaire gilet pare-éclats de Pacific Safety Products, mais les leurs doivent encore utiliser des plaques de tôle. Espérons que, si c'est dans nos moyens de le faire, nous leur fournirons ce dont ils ont besoin.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="22" Mn="30">(2230)</Timestamp>
@@ -8547,7 +8563,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214865" Type="96">Le président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4808138">Comme il est 0 h 22, conformément à l'article 53.1 du Règlement, le comité s'ajourne et je quitte le fauteuil.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Rapport de l'initiative ministérielle no 12" id="27"> (Rapport est fait de l'initiative ministérielle n<Sup>o</Sup> 12.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Rapport de l'initiative ministérielle no 12" id="28"> (Rapport est fait de l'initiative ministérielle n<Sup>o</Sup> 12.)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>

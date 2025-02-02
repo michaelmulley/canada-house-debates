@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="10450744">
-  <StartPageNumber>24887</StartPageNumber>
+  <StartPageNumber>24849</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -39,18 +39,23 @@
     <Intro>
       <ParaText id="5752187">The House met at 11 a.m.</ParaText>
       <Prayer>Prayer</Prayer>
-      <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
-      <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-      <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10450751">
-        <PersonSpeaking>
-          <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-        <Content>
-          <ParaText id="5752188">My dear colleagues, I would like to begin by acknowledging that we are gathered on the traditional territory of the Algonquin people.</ParaText>
-          <ParaText id="5752189">Today, members of the 42nd Parliament gather for the first time in this magnificent interim chamber. This space is a unique marriage of tradition and modernity, of the familiar and the new. Our parliamentary work resumes this morning without interruption, which is no small feat when we consider the scale of effort required to move many of the occupants and contents of the Parliament buildings into West Block.</ParaText>
-          <ParaText id="5752190">The employees of the House administration, the Library of Parliament, the Parliamentary Protective Service and Public Services and Procurement Canada have moved mountains, almost literally, to be ready for us today. While there will inevitably be growing pains as we settle into our new space, I know that we will soon make ourselves at home and continue the important work of representing the people of Canada.</ParaText>
-          <ParaText id="5752191">Therefore, on behalf of the exceptional team that made this restored West Block a reality, welcome to the new House.</ParaText>
-        </Content>
-      </Intervention>
+      <SubjectOfBusiness id="9993117">
+        <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>House of Commons</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10450751">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="5752188">My dear colleagues, I would like to begin by acknowledging that we are gathered on the traditional territory of the Algonquin people.</ParaText>
+              <ParaText id="5752189">Today, members of the 42nd Parliament gather for the first time in this magnificent interim chamber. This space is a unique marriage of tradition and modernity, of the familiar and the new. Our parliamentary work resumes this morning without interruption, which is no small feat when we consider the scale of effort required to move many of the occupants and contents of the Parliament buildings into West Block.</ParaText>
+              <ParaText id="5752190">The employees of the House administration, the Library of Parliament, the Parliamentary Protective Service and Public Services and Procurement Canada have moved mountains, almost literally, to be ready for us today. While there will inevitably be growing pains as we settle into our new space, I know that we will soon make ourselves at home and continue the important work of representing the people of Canada.</ParaText>
+              <ParaText id="5752191">Therefore, on behalf of the exceptional team that made this restored West Block a reality, welcome to the new House.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
       <SubjectOfBusiness id="10450875">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Vacancy</SubjectOfBusinessTitle>
@@ -107,7 +112,7 @@
               <ParaText id="5752212">In appreciation, the Dutch began to send tens of thousands of tulip bulbs every year, the Dutch national flower, followed by thousands more by the Dutch royal family. The donations became an annual tradition, resulting in the Canadian Tulip Festival here in Ottawa.</ParaText>
               <ParaText id="5752213">Each year, Canadian Veterans make a pilgrimage to the Netherlands and lay poppies at the graves of their fallen comrades. Each year, Dutch children along with their parents lay flowers and tend the graves of the cemeteries and memorials like Bergen-op-Zoom Canadian War Cemetery, Groesbeek Memorial, Arnhem Oosterbeek War Cemetery, Groesbeek Canadian War Cemetery, Holten Canadian War Cemetery, Jonkerbos War Cemetery, Liberation Forest, Kamp Westerbork, The Man with Two Hats, and Uden War Cemetery.</ParaText>
               <ParaText id="5752214">Today, as then, “Thank you, Canada” is heard both in the Netherlands and by the many Dutch immigrants who have made this country their home.</ParaText>
-              <ParaText id="5752215">On Oct 25, Prime Minister Mark Rutte addressed the Canadian Parliament, the first Dutch prime minister to do so. At the beginning of his speech he honoured World War II veteran Mr. Don White, a member of the Royal Canadian Dragoons, who helped liberate the Netherlands from Nazi occupation.</ParaText>
+              <ParaText id="5752215">On October 25, Prime Minister Mark Rutte addressed the Canadian Parliament, the first Dutch prime minister to do so. At the beginning of his speech he honoured World War II veteran Mr. Don White, a member of the Royal Canadian Dragoons, who helped liberate the Netherlands from Nazi occupation.</ParaText>
               <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
               <ParaText id="5752216">The prime minister said that this is what Don wrote to his parents on April 17, 1945: </ParaText>
               <ParaText id="5752217">
@@ -143,7 +148,7 @@
               <ParaText id="5752231">[<I>Member spoke in Dutch and provided the following translation:</I>]</ParaText>
               <ParaText id="5752232"> We are now in Canada.</ParaText>
               <ParaText id="5752233">[<I>English</I>]</ParaText>
-              <ParaText id="5752234"> Dutch Canadians love this country and consider it their home. They came from a country that loves this country and considers Canadians their greatest friends. On May 5th this year, and from this year on, let us celebrate this unique bond. </ParaText>
+              <ParaText id="5752234"> Dutch Canadians love this country and consider it their home. They came from a country that loves this country and considers Canadians their greatest friends. On May 5 this year, and from this year on, let us celebrate this unique bond. </ParaText>
               <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
               <ParaText id="5752235">It is my hope that, in the establishment of Dutch heritage day, Canada recognizes the voice of a grateful nation that says, “Thank you, Canada” and in response Canadians recognize what the Netherlands has given to us and say, “Thank you, Holland”. </ParaText>
             </Content>
@@ -185,17 +190,76 @@
             <Content>
               <ParaText>
               </ParaText>
-              <ParaText id="5752242">[<I>Member spoke in Cree, interpreted as follows:</I>]</ParaText>
+              <ParaText id="5947057">[<I>Member spoke in Cree as follows:</I>]</ParaText>
+              <ParaText>ᑭᓇᓈᐢᑰᒥᑎᐣ, ᐅᓃᑳᓂ ᐲᑭᐢᑫᐧᐤ᙮ ᒥᐢᑕᐦᐃ ᓂᓇᓈᐢᑰᒧᐣ ᑕ ᐊᔮᔮᐣ ᐆᒪ
+ᑕ ᐲᑭᐢᑳᐧᑕᒫᐣ ᐃᔨᑯᕁ ᑳ ᑮ ᐃᓯ ᐯ ᒥᓯ ᒣᑭᒋᐠ ᐆᑕ ᐆᒪ ᑳ ᑲᓈᑕᕁ
+ᐊᐢᑭᕀ ᑳ ᑮ ᑲᑫᐧ ᑫᐧᐢᑭᓇᐦᑭᐠ Netherlands ᑫ ᐃᑕᒥᐦᐠ᙮ ᑭᑳ ᑮ ᑯᐢᑯᐦᐅᐊᐧᐠ
+ᐊᔨᓯᔨᓂᐊᐧᐠ, ᐊᓂᒪ ᑖᐯᐧᐃᐧᐣ ᒥᐢᑕᐦᐃ ᐁᓴ ᐆᑭ ᓂᐢᑕᒼ ᐃᔨᓂᐊᐧᐠ ᒥᐢᑕᐦᐃ
+ᐄᐧᐢᑕᐋᐧᐤ ᒣᑭᐊᐧᐠ ᐆᒪ ᑫᐧᐢᑭᓂᑫᐃᐧᐣ᙮ ᒨᓯᒋ ᐊᐃᐧᔭᐠ ᒨᕀ ᑫ ᐃᑌᔨᐦᑕᒼ ᐁ
+ᐋᑳᐧᐱᐟᓱᒋᐠ ᓂᐢᑕᒼ ᐃᔨᓂᐊᐧᐠ ᐁᑲᐧ ᒥᐢᑎᑲᐧᐢᑭᓯᓇᐠ, ᒫᑲ ᐊᐢᑌᐤ ᐊᓂᒪ
+ᐋᑳᐧᐱᓱᐃᐧᐣ᙮</ParaText>
+              <ParaText>ᓃᓵᐧᐤ ᑳ ᑮ ᐃᓯ ᓅᑎᓂᑐᕁ ᑳᐦᑭᔭᐤ ᐃᓯ, ᐊᔨᐋᐧᐠ ᐃᓯ ᓃᓱᒥᑕᓇᐤ
+ᓂᐢᑕᒼ ᐃᔨᓂᐊᐧᐠ ᐊᐧᓂᐦᑖᐤ ᐅᐱᒫᑎᓯᐃᐧᓂᐋᐧᐤ᙮</ParaText>
+              <ParaText>ᓂᐢᑕᒼ ᐃᔨᓂᐊᐧᐠ ᐅᓅᑎᓂᑫᐃᐧᔨᓂᐊᐧᐠ ᑲᐢᑭᐦᑕᒫᓱᐊᐧᐠ ᑫᔨᐁᐧᕁ
+ᐊᔨᓈᓀᐅᐧᓵᑊ ᐊᐧᐁᐧᓰᐦᐃᐁᐧᐃᐧᐣ ᐅᓵᒼ ᐁ ᑮ ᐯ ᐃᓯ ᐅᓈᐯᑳᓱᒋᐠ ᑳ ᒣᑳᐧ
+ᓅᑎᓂᑫᒋᐠ᙮ ᑮ ᐄᐧᒋᐦᐃᐁᐧᐊᐧᐠ ᑳᐦᑭᔭᐤ ᐃᑕ ᑳ ᑮ ᓅᑎᓂᑐᕁ ᐁᑲᐧ ᑳ ᐃᓯ
+ᐃᐧᔭᓯᐋᐧᒋᑳᑌᐠ, ᐃᑕ ᐅᐦᒋ ᐊᓂᐦᐃ ᑳ ᑮ ᐯ ᒥᓯᐊᐧᓈᒋᐦᐃᐦᒋᐠ Dieppe
+ᐊᐢᑮᐋᐧᐊᐧ, ᑳ ᐋᐧᓴᑫᐁᐧᒣᐸᔨᐠ Normandy ᑳ ᑮ ᐲᐦᑐᑫᐧᒋᐠ ᐁᑲᐧ ᒦᓇ ᑳ
+ᑮ ᓅᑎᓂᑐᕁ ᐃᑕ Battle of Hong Kong ᑫ ᐃᒋᑳᑌᐠ ᐃᑕ ᑫᑳᐨ ᓃᓵᐧᐤ
+ᑭᐦᒋ ᒥᑖᑕᑐᒥᐟᓇᐤ ᐊᔨᓯᔨᓂᐊᐧᐠ ᐅᐦᒋ Winnipeg Grenadiers ᑳ ᐃᑎᐦᒋᐠ
+ᐁᑲᐧ ᐊᓂᑭ Royal Rifles of ᒐᓇdᐊ ᑳ ᐃᑎᐦᒋᐠ ᑮ ᑭᐸᐦᐋᐧᐊᐧᐠ ᐃᑕ
+ᐊᓂᑭ ᐅᐦᒋ ᓭᑭᐸᒑᐧᓴᐠ᙮ ᑫᑳᐨ ᓂᑯᑖᐧᓱᓵᑊ ᐆᑭ ᑭᐸᐦᐋᐧᐊᐧᐠ ᑮ ᐯ ᓂᐢᑕᒼ
+ᐃᔨᓂᐄᐧᐊᐧᐠ ᐋᐦᐳ ᑮ ᐯ ᐋᐱᐦᑕᐃᐧ ᑯᓯᓵᓃᐊᐧᐠ᙮</ParaText>
+              <ParaText>ᐃᐢᐲᕁ ᓅᒋᐦᐃᑐᐃᐧᐲᓯᒼ ᑳ ᑮ ᐊᑭᒥᐦᐟ 1944, ᓂᐢᑐ ᐲᓯᒪᐧ ᑊᑯ ᑳ ᑮ
+ᑮᓯᐸᔨᐠ D-Day, ᐁᑯᓂᐠ ᐆᑭ ᐊᔨᓯᔨᓂᐊᐧᐠ ᐅᐦᒋ ᐆᑕ ᑳ ᑲᓈᑕᕁ ᑮ
+ᒫᒋᐁᐧᐱᓂᑫᐊᐧᐠ ᑕ ᑲᑫᐧ ᑳᐃᐧ ᐋᑳᐧᐱᑕᐦᑭᐠ ᐊᓂᒪ Netherlands ᐅᑕᐢᑮᐋᐧᐤ
+ᐅᐦᒋ ᐊᓂᑭ Nazi ᑳ ᐃᑎᐦᒋᐠ ᑕ ᓵᐴ ᐅᑎᓇᐦᑭᐠ᙮ ᑳ ᑮ ᐃᓯ ᐃᑌᐧᔮᐣ ᓂᐢᑕᒼ,
+ᐋᑎᐦᐟ ᐆᑭ ᐅᓅᑎᓂᑫᐃᐧᔨᓂᐊᐧᐠ ᑮ ᐯ ᓂᐢᑕᒼ ᐃᔨᓃᐊᐧᐠ ᐁᑲᐧ ᒥᐢᑕᐦᐃ ᑮ
+ᒣᑭᐊᐧᐠ ᑳ ᐸᐢᐱᐦᐄᐦᒋᐠ ᐆᑭ ᒥᐢᑎᑲᐧᐢᑭᓯᓇᐠ᙮</ParaText>
+              <ParaText>ᓂᓄᐦᑌ ᑭᐦᒉᔨᐦᑕᒥᐦᐋᐤ ᒥᐢᑕᐦᐃ ᑭᓯᐢᑳᒋᐊᐧᓂᕁ ᑎᐸᐦᐋᐢᑳᐣ ᐊᐊᐧ David
+Greyeyes ᑳ ᑮ ᐃᑎᐦᐟ᙮ ᓂᐢᑕᒼ ᑮ ᑭᐢᑎᑳᓃᐃᐧᐤ ᒼuᐢᑫᑯᐃᐧᔨᓃᓈᕁ
+ᐃᐢᑯᓂᑲᐣ ᐅᐦᒋ, ᑮ ᒫᒋ ᓅᑎᓂᑫᐃᐧᔨᓃᐃᐧᐤ ᐃᑕ Great Britain ᑳ ᐋᓱ
+ᒥᔮᐟ ᓂᐢᑕᒼ ᐹᐢᑭᓯᑫᐃᐧᓇ ᑯᒋᐦᑖᐃᐧᐣ ᑯᑕᑲᐠ ᐁᓴ ᑳ ᒫᒋᐦᑖᒋᐠ, ᑮ
+ᐄᐧᒋᐦᐃᐁᐧᐤ ᐃᑕ Italy, France, Belgium ᐁᑲᐧ ᐅᐦᒋ ᒦᓇ, ᐃᑕ
+Netherlands</ParaText>
+              <ParaText>ᑯᑕᐠ ᐊᓇ ᑕ ᐄᐧᐦᐃᐦᐟ ᐅᓅᑎᓂᑫᐃᐧᔨᓂᐤ Charles Byce ᑳ ᑮ ᐃᑎᐦᐟ,
+ᑮ ᐯᔭᑯᑳᐸᐃᐧᐤ ᐃᑐᐋᐧᕁ ᓯᒫᑲᓂᓰᑕᑐᐢᑫᐃᐧᐣ – Lake Superior Regiment
+– ᑕ ᑲᐦᑎᓇᕁ ᓃᓴᐧᔭ Distinguished Conduct Medal ᑳ ᐃᑕᒥᕁ ᐁᑲᐧ
+ᐊᓂᒪ Military Medal Louisa Saylors ᐅᑯᓯᓴ, ᑮ ᓀᐦᐃᔭᐤ ᐃᐢᑫᐧᐃᐧᐤ ᐃᑕ
+ᐅᐦᒋ Moose Factory ᐃᐢᑯᓂᑲᐣ, ᐅᐣᑕᕒᐃᐅ ᐃᑕ ᑎᐸᐦᐋᐢᑳᐣ, Byce ᑮ
+ᑲᐦᑎᓇᒼ ᓂᐢᑕᒼ ᐁ ᒥᔭᐋᐧᐦᑕᒫᐦᐟ ᐅᑭᐦᒋ ᓃᑳᓃᐃᐧᐣ ᐅᐦᒋ – ᑳ MM –
+ᐃᑕ ᐊᓂᒪ Netherlands ᐃᐢᐲᕁ ᑳ ᑮ ᑭᓭ ᐲᓯᒧᕁ 1945 ᐃᐢᐲᐦᐠ᙮ ᑳ
+ᐅᐦᒋ ᐋᒋᒧᕁ ᐆᒪ ᒥᐢᑕᐦᐃ ᒪᒫᐢᑌᔨᐦᑖᑲᐧᐣ᙮</ParaText>
+              <ParaText>ᐁᑯᓂᐠ ᐆᑭ ᐅᑭᐦᒋᐦᑖᐊᐧᐠ ᑮ ᐯ ᓲᐦᑫᐃᐧᔨᓃᐊᐧᐠ ᑳᐦᑭᔭᐤ ᐅᐦᒋ
+ᐊᔨᓯᔨᓂᐊᐧᐠ ᐆᑕ ᑳ ᑲᓈᑕᐦᐠ᙮ ᒨᕀ ᓂᑮ ᓇᓈᐢᑯᒫᐊᐧᐠ ᐃᔨᑯᕁ ᑳ ᑮ ᐃᓯ ᐯ
+ᓲᐦᑭ ᐊᑐᐢᑫᒋᐠ ᑲᐧᔭᐢᐠ ᑕ ᑲᓇᐁᐧᔨᐦᑕᐦᑭᐠ ᑭᑕᐢᑮᓇᐤ ᑲᐧᔭᐢᐠ᙮ ᑳ ᐃᓯ
+ᐄᐧᑖᐱᓲᒥᑐᒋᐠ ᐊᓂᑭ ᐊᔨᓯᔨᓂᐊᐧᐠ ᐅᐦᒋ ᑳ ᑲᓈᑕᕁ ᐁᑲᐧ ᐊᓂᑭ
+ᒥᐢᑎᑲᐧᐢᑭᓯᓇᐠ ᑳ ᐅᐦᒌᒋᐠ ᑮ ᐊᔨᐋᐧᑭ ᐄᐧᑖᐱᓲᒥᑐᐊᐧᐠ, ᐁᑳᕀ ᐊᐧᓂᑭᐢᑭᓯᑖᐣ ᑳ
+ᑮ ᐃᓯ ᐯ ᒣᑭᒋᐠ ᓂᐢᑕᒼ ᐃᔨᓂᐊᐧᐠ ᐊᓂᑭ ᐅᐦᒋ ᑳ ᐅᐦᒌᒋᐠ ᐊᔨᓯᔨᓂᐊᐧᐠ
+Netherlands ᐅᐦᒋ᙮ ᓂᑭᐦᒉᔨᐦᑌᐣ ᑕ ᐲᑭᐢᑳᐧᑕᒫᐣ ᐆᑕ
+ᓃᑳᓇᐲᐢᑕᒫᑫᐃᐧᑲᒥᑯᕁ ᑕ ᓰᐦᑐᐢᑲᒫᐣ ᑕ ᓂᓯᑕᐃᐧᓇᒥᕁ ᐃᑕᐦᑐ ᐃᐢᐸᔨᑭ
+ᓵᑭᐸᑳᐃᐧᐲᓯᒼ ᓂᔮᓇᐣ ᑳ ᐊᑭᒥᐦᐟ ᑕ ᐄᐧᐦᑕᒥᕁ ᒥᐢᑎᑲᐧᐢᑭᓯᓇᐠ
+ᓇᓈᑐᐦᑰᐢᑳᓀᓯᐃᐧ ᑮᓯᑳᐤ ᑕ ᑭᐦᒉᔨᐦᑕᒥᐦᐃᐦᒋᐠ ᑳ ᑮ ᐯ ᐃᓯ ᓃᓱᑳᐸᐄᐧᐢᑖᑐᒋᐠ
+ᐁᑯᓂᐠ ᐆᑭ ᒥᐢᑎᑲᐧᐢᑭᓯᓇᐠ, ᐊᔨᓯᔨᓂᐊᐧᐠ ᐅᐦᒋ ᐆᒪ ᑲ ᑲᓈᑕᐦᐠ, ᐁᑲᐧ
+ᓂᐢᑕᒼ ᐃᔨᓂᐊᐧᐠ᙮ ᑭᐄᐧᒉᐋᐧᑲᓇᐊᐧᐠ ᐆᒪ ᒥᐢᑎᑲᐧᐢᑭᓯᓇᐠ ᑳ ᐅᐦᒌᒋᐠ,
+ᑭᓇᓈᐢᑰᒥᑎᓈᐣ ᒥᐢᑕᐦᐃ ᑳ ᑮ ᐃᓯ ᐯ ᒣᑭᔦᐠ ᐆᑕ ᓂᑕᐢᑮᓈᐦᐠ, ᐁᑲᐧ ᒦᓇ
+ᐆᑭ ᑳ ᐃᓯ ᓃᑳᓃᒋᐠ ᐅᓅᑎᓂᑫᐃᐧᔨᓂᐊᐧᐠ ᑳ ᑮ ᐃᓯ ᐯ ᐊᐢᑖᒋᐠ
+ᐅᐱᒫᑎᓯᐃᐧᓂᐋᐧᐤ ᑕ ᓂᑕᐃᐧ ᓅᑎᓂᑫᒋᐠ ᑕ ᐸᐢᐱᐦᐃᐦᒋᐠ ᒥᐢᑕᑲᐧᐢᑭᓯᓇᐠ ᐁᑲᐧ
+ᐊᔨᓯᔨᓂᐊᐧᐠ ᐅᐦᒋ ᑳ ᑲᓈᑕᕁ ᑕᐢᑲᒥ ᑭᑕᐢᑮᓈᐦᐠ, ᒥᐢᑕᐦᐃ ᑲᐯᔨ
+ᓂᑭᐦᒉᔨᐦᑌᓈᐣ᙮ ᒥᐢᑕᐦᐃ ᑭᓇᓈᐢᑰᒥᑎᓈᐣ᙮</ParaText>
+              <ParaText id="5947058">[<I>Cree text interpreted as follows:</I>]</ParaText>
               <ParaText id="5752243">Mr. Speaker, I am very thankful to have the opportunity to speak about the tremendous contributions made to Canada by those of Dutch heritage and the incredible sacrifices made by Canadians in the liberation of the Netherlands. What might surprise people is the fact that many indigenous people contributed to this liberation. One might not think that there is much of a link between indigenous people and Dutch people, but there definitely is.</ParaText>
-              <ParaText id="5752244">In the Second World War as a whole, more than 200 indigenous soldiers lost their lives. Indigenous soldiers earned a minimum of 18 decorations for bravery in action. They participated in every major battle and campaign, from the disastrous Dieppe landings to the pivotal Normandy invasion and the Battle of Hong Kong, where 2,000 members of the Winnipeg Grenadiers and the Royal Rifles of Canada became prisoners of war of the Japanese. At least 16 of those prisoners were first nations people and Métis. In September 1944, only three months after D-Day, Canadians began the campaign that would liberate the Netherlands from Nazi occupation. </ParaText>
-              <ParaText id="5752245">As I mentioned previously, some of these brave soldiers were indigenous and gave their all for the freedom that Dutch people deserved. I would like to highlight Saskatchewan's David Greyeyes, originally a grain farmer from the Muskeg Lake Cree band. He began his service in Great Britain, giving advanced weaponry training to reinforcements. He served in Italy, France, Belgium and, of course, the Netherlands.</ParaText>
+              <ParaText id="5752244">In the Second World War as a whole, more than 200 indigenous soldiers lost their lives. </ParaText>
+              <ParaText id="5752244"> Indigenous soldiers earned a minimum of 18 decorations for bravery in action. They participated in every major battle and campaign, from the disastrous Dieppe landings to the pivotal Normandy invasion and the Battle of Hong Kong, where 2,000 members of the Winnipeg Grenadiers and the Royal Rifles of Canada became prisoners of war of the Japanese. At least 16 of those prisoners were first nations people and Métis.</ParaText>
+              <ParaText id="5752244">In September 1944, only three months after D-Day, Canadians began the campaign that would liberate the Netherlands from Nazi occupation. As I mentioned previously, some of these brave soldiers were indigenous and gave their all for the freedom that Dutch people deserved.</ParaText>
+              <ParaText id="5752245"> I would like to highlight Saskatchewan's David Greyeyes, originally a grain farmer from the Muskeg Lake Cree band. He began his service in Great Britain, giving advanced weaponry training to reinforcements. He served in Italy, France, Belgium and, of course, the Netherlands.</ParaText>
               <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
               <ParaText id="5752246">Another noteworthy soldier was Charles Byce, who was the only member of his regiment, the Lake Superior Regiment, to earn both the Distinguished Conduct Medal and the Military Medal. He was the son of Louisa Saylors, a Cree from Moose Factory, Ontario. Byce earned his first decoration for valour, the MM, in the Netherlands in January 1945. The story behind this award is quite amazing.</ParaText>
-              <ParaText id="5752247">These brave men are all heroes to all Canadians. I cannot thank them enough for their hard work in keeping our country safe. As the relationship between Canadians and those of Dutch heritage grows deeper, let us not forget the contributions indigenous people made as well for the people of the Netherlands. </ParaText>
-              <ParaText id="5752248">I am honoured to speak in the House in support of recognizing every May 5 as Dutch heritage day to honour this unique bond between the Dutch, Canadians and indigenous people. We thank our friends of Dutch heritage for their tremendous contributions to our country. To our incredible soldiers who put their lives on the line for the freedom of the Dutch people and Canadians across the country, we are forever grateful. Again, I am thankful.</ParaText>
+              <ParaText id="5752247">These brave men are all heroes to all Canadians. I cannot thank them enough for their hard work in keeping our country safe. As the relationship between Canadians and those of Dutch heritage grows deeper, let us not forget the contributions indigenous people made as well for the people of the Netherlands. I am honoured to speak in the House in support of recognizing every May 5 as Dutch heritage day to honour this unique bond between the Dutch, Canadians and indigenous people. We thank our friends of Dutch heritage for their tremendous contributions to our country. To our incredible soldiers who put their lives on the line for the freedom of the Dutch people and Canadians across the country, we are forever grateful. Again, I am thankful.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+		  <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Kwan" id="10450829">
             <PersonSpeaking>
               <Affiliation DbId="214258" Type="2">Ms. Jenny Kwan (Vancouver East, NDP)</Affiliation>: </PersonSpeaking>
@@ -272,7 +336,7 @@
               <ParaText id="5752301">I was over there for the 70th anniversary of the liberation and it was tremendous. Over 70 years later, the Dutch people continue to honour the sacrifices of those Canadian soldiers. It was an honour to have the Dutch prime minister address the House. He was the first Dutch prime minister to address Parliament. We were also honoured to have World War II veteran Don White in the House that day. </ParaText>
               <ParaText id="5752302">As I said, I had the great honour of visiting the Netherlands for the 70th anniversary of the liberation and the whole country was moved, especially when the Canadian soldiers in the parade passed by. The big parade in Apeldoorn is unbelievable. When I go back to my riding and visit one of the legions, I see pictures of those who were there during the liberation. </ParaText>
               <ParaText id="5752303">One of the most visible symbols of the bond between our two countries is the tulip. In 1945, the Dutch royal family sent 100,000 tulip bulbs to Canada as a mark of their gratitude for Canada providing them refuge during the Nazi occupation of their country in the Second World War. Also, Canada temporarily designated a spot, I believe, at the Ottawa General Hospital, as Dutch soil, so a Dutch princess could be born there. However, the tulip tradition has continued. Each year, the Dutch royal family and government send thousands of tulip bulbs, which we see all around Ottawa, in remembrance. It has become Ottawa's celebrated tulip festival. People from all over North America and the world come here for that festival, and we enjoy it immensely.</ParaText>
-              <ParaText id="5752304">We also have influences, such as trade, which tie the knot of friendship between Canada and the Netherlands even tighter. The Netherlands is Canada's third largest export market in Europe and 10th globally. It is Canada's second largest source of foreign investment, after the United States. We are also like-minded in our social values and peacekeeping. </ParaText>
+              <ParaText id="5752304">We also have influences, such as trade, which tie the knot of friendship between Canada and the Netherlands even tighter. The Netherlands is Canada's third-largest export market in Europe and 10th globally. It is Canada's second-largest source of foreign investment, after the United States. We are also like-minded in our social values and peacekeeping. </ParaText>
               <ParaText id="5752305">It is important for us to reflect on the tremendous contributions of Canada's Dutch communities to our society. For example, we can look at General Roméo Dallaire's great contribution to our society and the world. His father was Canadian and his mother was Dutch. He is recognized for his human rights advocacy and his distinguished military career. My riding had the pleasure of hosting him as a keynote speaker for Sydney's 2017 Remembrance Day ceremony. He not only spoke about the special bond between Canada and the Netherlands, but how it was more important than ever that we continued to strengthen our relationship and the accomplishments that we believed could be done internationally.</ParaText>
               <ParaText id="5752306">Another very successful Dutch Canadian is a lady from my riding, Annette Verschuren. She grew up on a farm just down the road from me. She became president of Home Depot for Canada and Asia, and is the chancellor of Cape Breton University.</ParaText>
               <ParaText id="5752307">Dutch heritage day will provide all Canadians with an opportunity to recognize the great things that we have between our countries. With the intolerance seen around the world, it is more important than ever for a bond between our countries. I noticed first-hand when our <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and the Prime Minister of the Netherlands were sitting together talking, as well as in their addresses to the House. They believed that we could connect and help with peace and tolerance on the world scene, and help make things better for all around the world. </ParaText>
@@ -298,7 +362,7 @@
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Federal Sustainable Development Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="2">Bill C-57:  Motion</ProceduralText>
+          <ProceduralText TocType="TPC" id="2">Bill C-57.  Motion</ProceduralText>
           <ParaText id="5752310">The House resumed from December 6 consideration of the motion in relation to the amendments made by the Senate to Bill <Document DbId="9057534" Type="3">C-57, An Act to amend the Federal Sustainable Development Act</Document>.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Genuis" id="10450852">
             <PersonSpeaking>
@@ -651,7 +715,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5752529">The hon. member can resume his speech following Question Period.</ParaText>
+              <ParaText id="5752529">The hon. member can resume his speech following question period.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -704,9 +768,9 @@
             <PersonSpeaking>
               <Affiliation DbId="214094" Type="2">Mr. Ben Lobb (Huron—Bruce, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5752542">Mr. Speaker, it is an honour to rise today to recognize one of Huron—Bruce's most beloved sons and one of the most iconic Canadian hockey players of all time, Paul Henderson. Paul played 19 seasons in the NHL and the WHA with over 1,000 games, for the Red Wings, the Leafs, the Toronto Toros, the Birmingham Bulls and the Atlanta Flames.</ParaText>
+              <ParaText id="5752542">Mr. Speaker, it is an honour to rise today to recognize one of Huron—Bruce's most beloved sons and one of the most iconic Canadian hockey players of all time, Paul Henderson. Paul played 19 seasons in the NHL and the WHA, with over 1,000 games for the Red Wings, the Leafs, the Toronto Toros, the Birmingham Bulls and the Atlanta Flames.</ParaText>
               <ParaText id="5752543">Paul was inducted into the International Ice Hockey Hall of Fame and the Ontario Hall of Fame. He is in the Order of Canada and Order of Ontario. Members might even remember three great goals he scored in the '72 Summit Series in games six, seven and eight. True Huron—Bruce clutch hockey, to say the least. </ParaText>
-              <ParaText id="5752544">The Canadian Press named Henderson's goal the “sports moment of the century”. One thing missing is Paul's induction into the Hockey Hall of Fame. Don Cherry says that he should be inducted. That is good enough for me. I humbly request and ask the Hockey Hall of Fame selection committee to once again examine Paul's application and do the right thing. Let us get Paul Henderson in the Hockey Hall of Fame. I am backing Paul Henderson.</ParaText>
+              <ParaText id="5752544">The Canadian Press named Henderson's goal the “sports moment of the century”. One thing missing is Paul's induction into the Hockey Hall of Fame. Don Cherry says that he should be inducted. That is good enough for me. I humbly request and ask the Hockey Hall of Fame selection committee to once again examine Paul's application and do the right thing. Let us have Paul Henderson in the Hockey Hall of Fame. I am backing Paul Henderson.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -801,7 +865,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10450953">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>International       Holocaust Remembrance Day</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>International Holocaust Remembrance Day</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kent" id="10450954">
             <PersonSpeaking>
@@ -872,14 +936,14 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10450971">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Hockey</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Hockey Hall of Fame</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Masse (Windsor West)" id="10450972">
             <PersonSpeaking>
               <Affiliation DbId="214230" Type="2">Mr. Brian Masse (Windsor West, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5752575">Mr. Speaker, Paul Henderson was born January 28, 1943, near Kincardine, Ontario. His first experience with hockey came in the basement of a Chinese restaurant operated by Charlie Chin, an immigrant who settled in Lucknow. Henderson played with Chin's sons. They bought him his first set of hockey equipment. </ParaText>
-              <ParaText id="5752576">Paul Henderson played 13 NHL seasons with the Red Wings, Maple Leafs and Flames and five more with the World Hockey Association, scoring 376 goals and 758 points in 1,000 games. He is best known for leading Team Canada to victory at the 1972 summit series against the Soviet Union. It was a battle for hockey and cultural supremacy. He scored the game-winning goal in the sixth, seventh and eighth games, the last of which has become legendary, making him a national hero, and voted the sports moment of the century. </ParaText>
+              <ParaText id="5752576">Paul Henderson played 13 NHL seasons with the Red Wings, Maple Leafs and Flames and five more with the World Hockey Association, scoring 376 goals and 758 points in 1,000 games. He is best known for leading Team Canada to victory at the 1972 Summit Series against the Soviet Union. It was a battle for hockey and cultural supremacy. He scored the game-winning goal in the sixth, seventh and eighth games, the last of which has become legendary, making him a national hero. It was voted the sports moment of the century. </ParaText>
               <ParaText id="5752577">Henderson is a member of the Order of Ontario and the Order of Canada and is in Canada's Sports Hall of Fame and in the International Ice Hockey Federation Hall of Fame. </ParaText>
               <ParaText id="5752578">Speaking for all goalies, I urge the Hockey Hall of Fame to complete this wonderful story by giving us relief by getting him out of our crease and into the hall where he belongs.</ParaText>
             </Content>
@@ -901,7 +965,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10450978">
         <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
-        <SubjectOfBusinessTitle>Hockey</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Hockey Hall of Fame</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Maloney" id="10450979">
             <PersonSpeaking>
@@ -988,6 +1052,11 @@
               <ParaText id="5752595">At the same time, we want to ensure that we always stand up for the rule of law and the independence of our judicial system and that we continue engaging with our allies around the world, to send a clear message that Canada will always defend the rule of law.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="10201083">
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Scheer" id="10451004">
             <PersonSpeaking>
               <Affiliation DbId="232947" Type="96">Hon. Andrew Scheer (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
@@ -1123,7 +1192,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10451037">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>The Economy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rayes" id="10451036">
             <PersonSpeaking>
@@ -1162,12 +1231,7 @@
               <ParaText id="5752640">Our approach is much better for Canadians, and we have been able to do all this while maintaining a debt-to-GDP ratio that works for the future of our country.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="10452183">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Raitt" id="10451046">
             <PersonSpeaking>
               <Affiliation DbId="214228" Type="2">Hon. Lisa Raitt (Milton, CPC)</Affiliation>: </PersonSpeaking>
@@ -1322,7 +1386,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5752674">Mr, Speaker, the Liberals targeted soccer moms with tax increases when they took away the children's fitness tax credit. They targeted students with tax increases when they cancelled the education and textbook tax credits. They targeted passengers with tax increases when they took away the transit tax credit. That does not even include the carbon tax on heat, groceries and gas, nor does it include higher payroll taxes. It will only get worse. </ParaText>
+              <ParaText id="5752674">Mr. Speaker, the Liberals targeted soccer moms with tax increases when they took away the children's fitness tax credit. They targeted students with tax increases when they cancelled the education and textbook tax credits. They targeted passengers with tax increases when they took away the transit tax credit. That does not even include the carbon tax on heat, groceries and gas, nor does it include higher payroll taxes. It will only get worse. </ParaText>
               <ParaText id="5752675">This massive Liberal deficit will lead to higher taxes for Canadians. Why will they not tell people that before the election?</ParaText>
             </Content>
           </Intervention>
@@ -1505,7 +1569,7 @@
               <Affiliation DbId="214495" Type="2">Mr. Wayne Stetski (Kootenay—Columbia, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5752711">Mr. Speaker, last year, when Greyhound announced it was ceasing operations, constituents in my riding were rightfully worried about how they would get from town to town. Without reliable transit, people cannot access crucial services like health care, shelters for women fleeing violence or urgently needed addiction treatment. In rural areas, people relied on Greyhound to travel to these services. </ParaText>
-              <ParaText id="5752712">The Liberal government said it would provide funding, though we have not seen it, and people are still unable to travel. When will the government provide safe, affordable and accessible transit for rural and remote communities?</ParaText>
+              <ParaText id="5752712">The Liberal government said it would provide funding, but we have not seen it, and people are still unable to travel. When will the government provide safe, affordable and accessible transit for rural and remote communities?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Garneau" id="10451134">
@@ -1515,7 +1579,12 @@
               <ParaText id="5752713">Mr. Speaker, we fully recognize that, when Greyhound departed at the end of October last year, it would leave an absence of public transportation in the western provinces, and we immediately started working on a solution. We are working with the provinces, including British Columbia, my colleague's home province. We will be there if they request us to help them on a cost-sharing basis. We have given that undertaking.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="10452183">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Infrastructure</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Sansoucy" id="10451136">
             <PersonSpeaking>
               <Affiliation DbId="214064" Type="2">Ms. Brigitte Sansoucy (Saint-Hyacinthe—Bagot, NDP)</Affiliation>: </PersonSpeaking>
@@ -1621,7 +1690,12 @@
             <Content>
               <ParaText>
               </ParaText>
-              <ParaText id="5752735">[<I>Member spoke in Cree, interpreted as follows:</I>] </ParaText>
+              <ParaText id="5947059">[<I>Member spoke in Cree as follows:</I>]</ParaText>
+              <ParaText>ᓃᐸᐄᐧᐢᑕᒫᑫᐤ Minister of Canadian Heritage and Multiculturalism ᑲ
+ᑮ ᐋᒋᒧᐢᑑᐏᓈᐣ ᒌ ᑖᓂᑌ ᐃᓯ ᑳᐳᐏᔭᕁ ᐆᑕ ᑳᓇᑕ ᐁᑲᐧ ᒦᓇ ᐊᓱᑕᒫᐠ ᐆᐦᐃ
+ᒥᓯᐁᐧ ᐃᔩᓇᕁ ᐲᑭᐢᑫᐧᐃᐧᓇ ᐆᑕ ᑳᓇᑕ. ᓂ ᒥᔦᐧᔨᐦᑕᐁᐢ ᐆᒪ ᑳ ᐋᒋᒨᑕᑕᑰᐠ
+ᐅᐦᒋ United Nations ᑳ ᓰᑐᐢᑳ ᒥᓯᐁᐧ ᐃᔩᓇᕁ ᐲᑭᐢᑫᐧᐃᐧᓇ 2019 ᑳ ᐊᔭᒥᐟ.</ParaText>
+              <ParaText id="5947060">[<I>Cree text interpreted as follows:</I>]</ParaText>
               <ParaText id="5752736">Mr. Speaker, could the <Affiliation DbId="241629" Type="4">Minister of Canadian Heritage and Multiculturalism</Affiliation> please update the House on Canada's role in the initiative and work being done to protect and revitalize indigenous languages in Canada? I am proud to say that the United Nations has declared 2019 the International Year of Indigenous Languages. </ParaText>
             </Content>
           </Intervention>
@@ -1886,7 +1960,8 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10452358">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Official Languages</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Official Languages</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Plamondon" id="10451239">
             <PersonSpeaking>
@@ -1936,7 +2011,8 @@
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5752800">Pursuant to section 79.2(2) of the Parliament of Canada Act, it is my duty to present the House two reports from the Parliamentary Budget Officer.</ParaText>
-              <ParaText id="5752801">The first is entitled, “PBO and Finance Canada Long-term Projection Comparison”. The second is entitled, “Costing 2018 Fall Economic Statement and Off-Cycle Measures”.</ParaText>
+              <ParaText id="5752801">The first is entitled, “PBO and Finance Canada Long-term Projection Comparison”. </ParaText>
+              <ParaText id="5752801">The second is entitled, “Costing 2018 Fall Economic Statement and Off-Cycle Measures”.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1948,7 +2024,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10452596">
-        <SubjectOfBusinessTitle>Interim Estimates 2019-20</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Interim Estimates, 2019-20</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="5752803">A message from Her Excellency the Governor General transmitting Interim Estimates for the fiscal year ending March 31, 2020, was presented by the President of the Treasury Board and read by the Speaker to the House.</ParaText>
         </SubjectOfBusinessContent>
@@ -2208,11 +2284,6 @@
               <ParaText id="5752831">The first petition deals with the challenges faced by Pakistani asylum seekers who are currently in Thailand. It is a major priority that has been brought to my attention by the community. It notes that the recent crackdown on asylum seekers in Thailand has shaken and deeply affected the Canadian Christian community of Pakistani origin. Pakistani asylum seekers fled their homes with hopes of resettling in countries where they could freely practice their religion without fear of being victimized under blasphemy laws. The petition urges the Government of Canada to take up this matter with the Government of Thailand, and urges the proper protection of Pakistani asylum seekers who are there. It asks that they be provided with refugee status by the UNHCR and support for resettlement.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="10452110">
-        <SubjectOfBusinessQualifier>Human Rights</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Genuis" id="10452105">
             <PersonSpeaking>
               <Affiliation DbId="214396" Type="2">Mr. Garnett Genuis (Sherwood Park—Fort Saskatchewan, CPC)</Affiliation>: </PersonSpeaking>
@@ -2272,7 +2343,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10451694">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Trafficking in Human Organs and Tissue</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Human Organ Trafficking</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Deltell" id="10451349">
             <PersonSpeaking>
@@ -3971,7 +4042,7 @@
               <ParaText id="5753227">Jagmeet Singh is coming here, Madam Speaker. That is one thing I know.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="5753228">I thank the parliamentary secretary for his question.</ParaText>
-              <ParaText id="5753229">The New Democrats have always strongly supported workers, while still being environmentally and ecologically responsible. The Liberals get all worked up and cry about how we need to save the planet and how it would be catastrophic to do nothing, but they do nothing. All they have done is invest more in the oil and gas sector, buy an old pipeline and triple oil production. They managed this file so poorly that the the courts quashed the project. They are not able to move forward, primarily because they did not respect indigenous communities and their rights. It is ironic that the parliamentary secretary brought this up, since they have been so incompetent with Trans Mountain that the courts stopped the project. </ParaText>
+              <ParaText id="5753229">The New Democrats have always strongly supported workers, while still being environmentally and ecologically responsible. The Liberals get all worked up and cry about how we need to save the planet and how it would be catastrophic to do nothing, but they do nothing. All they have done is invest more in the oil and gas sector, buy an old pipeline and triple oil production. They managed this file so poorly that the courts quashed the project. They are not able to move forward, primarily because they did not respect indigenous communities and their rights. It is ironic that the parliamentary secretary brought this up, since they have been so incompetent with Trans Mountain that the courts stopped the project. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -4101,7 +4172,7 @@ The House resumed consideration of the motion in relation to the amendments made
             <PersonSpeaking>
               <Affiliation DbId="214354" Type="2">Ms. Linda Lapointe (Rivière-des-Mille-Îles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5753271">Madam Speaker, hon. colleagues, I am delighted to be back in the House of Commons. I am especially pleased to have the privilege of speaking in this new chamber.</ParaText>
+              <ParaText id="5753271">Madam Speaker, I am delighted to be back in the House of Commons. I am especially pleased to have the privilege of speaking in this new chamber.</ParaText>
               <ParaText id="5753272">I rise today to speak to the Senate's amendments to Bill <Document DbId="9057534" Type="3">C-57</Document>, an act to amend the Federal Sustainable Development Act. I want to thank the hon. senators for their time and efforts in reviewing this bill.</ParaText>
               <ParaText id="5753273"> I would like to take this opportunity to provide a brief overview of how this bill aligns with the government’s commitments around delivering real results, pursuing goals with a renewed sense of collaboration, and setting a higher bar for transparency. I will continue with a discussion of the amendments adopted by the Senate.</ParaText>
               <ParaText id="5753274">This bill is a reflection of the Government of Canada’s commitment to sustainable development and safeguarding the interests of future generations. We all want a sustainable future for Canada, for our children and for our grandchildren. This bill clearly shows that sustainable development and the environment are at the forefront of government decision making.</ParaText>
@@ -4222,7 +4293,7 @@ The House resumed consideration of the motion in relation to the amendments made
               <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
               <ParaText id="5753323">Canadians do not see anything for these deficits, but they will see increased taxes. Canadians are tired of paying for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s ego, his love for himself and his failed policies. That is why we cannot trust Liberals on any sort of policy related to sustainable development, but I want to build on that case.</ParaText>
               <ParaText id="5753324">We know the carbon tax is a failure, but there is something even bigger in terms of hypocrisy. The government has done everything possible to undermine the workers in the energy sector and the industries that are part of the energy sector across this country. It has done everything possible to call their jobs dirty. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> even said in Paris that he wished they could phase out the energy sector faster. </ParaText>
-              <ParaText id="5753325">The people on this side of the aisle support transporting Canada's energy products in the most environmentally responsible way, which is pipelines. The Liberals across the aisle are content to let our energy products be transported by rail, which has both environmental implications and implications on our agriculture sector. They are saying they should use rail and and not pipelines or they should shut the energy sector down, but at the same time, what are they doing? </ParaText>
+              <ParaText id="5753325">The people on this side of the aisle support transporting Canada's energy products in the most environmentally responsible way, which is pipelines. The Liberals across the aisle are content to let our energy products be transported by rail, which has both environmental implications and implications on our agriculture sector. They are saying they should use rail and not pipelines or they should shut the energy sector down, but at the same time, what are they doing? </ParaText>
               <ParaText id="5753326">Let us talk about a pipeline, one of the few pipelines that the Liberal Party loves, and that is a pipeline of fecal matter. That is right. The same Liberal government that says it does not like pipelines got behind the former mayor of Quebec and approved the City of Montreal dumping billions of litres of raw sewage into the St. Lawrence River. </ParaText>
               <ParaText id="5753327">People in the energy sector are told on a daily basis that their jobs are dirty and that pipelines are not environmentally sustainable. One has to appreciate the level of frustration and anger at the hypocrisy of the <Affiliation DbId="214310" Type="4">environment minister</Affiliation> telling them their jobs are dirty and the government is working against pipelines. I believe her chief of staff made an entire career out of fighting pipelines. It is “no pipelines for the energy sector”, but what did the Liberals do in their first months in office? On the minister's sixth day in office, when a top priority was to turn the lights on in the office, the environment minister approved a plan for the City of Montreal to dump billions of litres of raw sewage into the St. Lawrence River. There are concerns about pipelines in Quebec, but not about fecal matter pipelines. Fecal matter pipelines are okay. Job-creating energy pipelines are not okay. That is sustainable development under the Liberal government.</ParaText>
               <ParaText id="5753328">It gets worse. I am not sure what other word I can use for “fecal matter” in the House that is parliamentary, but viewers at home can imagine and insert the word appropriately here. The Conservative government said we should not be developing a pipeline of fecal matter since there were a lot of concerns about fish habitat and the terrible precedent that this decision would create for the future. We wanted to ensure that all of the appropriate actions and research had been done and we actually named a panel to review the plan. In October of 2015, the former Conservative government mandated an independent science review panel to review the proposed discharge of the raw sewage of Montreal. This was a very important step. </ParaText>
@@ -4710,7 +4781,7 @@ The House resumed consideration of the motion in relation to the amendments made
             <PersonSpeaking>
               <Affiliation DbId="214064" Type="2">Ms. Brigitte Sansoucy (Saint-Hyacinthe—Bagot, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5753526">Mr. Speaker, in negotiating the United States-Mexico-Canada agreement, NAFTA 2.0, the Liberals failed a lot of people, including our dairy farmers, our chicken farmers, our egg farmers and our turkey farmers. However, they also failed millions of sick people, who will have to pay more for treatment under this bad deal.</ParaText>
+              <ParaText id="5753526">Mr. Speaker, in negotiating the Canada-United States-Mexico agreement, NAFTA 2.0, the Liberals failed a lot of people, including our dairy farmers, our chicken farmers, our egg farmers and our turkey farmers. However, they also failed millions of sick people, who will have to pay more for treatment under this bad deal.</ParaText>
               <ParaText id="5753527">This deal raises the price of drugs for certain diseases, and the public is finding that a very hard pill to swallow. Canada gave in to the U.S. and agreed to extend market protection on pharmaceutical patents for an additional two years. This market protection covers important drugs, including drugs used to treat cancer, arthritis and Crohn's disease. The agreement extends the term of pharmaceutical patents from eight years to ten. In practical terms, that means Canadians will have to wait two more years before they can get cheaper generic versions of the drugs they need.</ParaText>
               <ParaText id="5753528">Does anyone really believe that people living with these diseases can wait two years for affordable medication?</ParaText>
               <ParaText id="5753529">This bad deal directly affects millions of Canadians across the country, including millions of seniors. Ironically, the Liberals are constantly boasting about standing up for our seniors. The reality is that seniors often struggle to afford medication, and this bad deal just adds one more burden.</ParaText>
@@ -4736,7 +4807,7 @@ The House resumed consideration of the motion in relation to the amendments made
               <ParaText id="5753541">Our government has also worked to lower drug costs through the pan-Canadian pharmaceutical alliance. By combining the bargaining power of federal, provincial and territorial governments, the pan-Canadian Pharmaceutical Alliance saved over $1.3 billion in 2017 through price reductions for patented and generic drugs. </ParaText>
               <ParaText id="5753542">We have worked to improve access to orphan drugs by launching the regulatory review of drugs and devices initiative. This is a major effort to improve the availability of prescription drugs, including drugs for rare diseases. </ParaText>
               <ParaText id="5753543">Our government also recognizes inappropriate prescribing of medications creates risks and unnecessary waste in the health care system. To remedy this, we are working with partners to promote best practices in prescribing and use of drugs.</ParaText>
-              <ParaText id="5753544">Finally, budget 2018 announced the creation of the advisory council on the implementation of national pharmacare. Chaired by Dr. Eric Hoskins, this council will evaluate a range of options and provide recommendations on how to implement national pharmacare in a manner that is affordable for Canadians and their families, employers and governments. lt will report to the federal ministers of health and finance and is expected to deliver its advice in the spring of 2019. </ParaText>
+              <ParaText id="5753544">Finally, budget 2018 announced the creation of the advisory council on the implementation of national pharmacare. Chaired by Dr. Eric Hoskins, this council will evaluate a range of options and provide recommendations on how to implement national pharmacare in a manner that is affordable for Canadians and their families, employers and governments. It will report to the federal ministers of health and finance and is expected to deliver its advice in the spring of 2019. </ParaText>
               <ParaText id="5753545">The measures I have outlined here today in regard to the council and improving affordability, accessibility and appropriate prescribing are significant. They have the potential to move Canada toward a more sustainable and responsive pharmaceutical management system, no matter what form it takes in the end.</ParaText>
             </Content>
           </Intervention>
@@ -4814,12 +4885,7 @@ The House resumed consideration of the motion in relation to the amendments made
               <ParaText id="5753570">The government has established working groups with dairy, egg and poultry producers to develop strategies to help them adapt, innovate and remain competitive. These working groups meet regularly and are making good progress.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="10452694">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>International Trade</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ramsey" id="10452679">
             <PersonSpeaking>
               <Affiliation DbId="214139" Type="2">Ms. Tracey Ramsey (Essex, NDP)</Affiliation>: </PersonSpeaking>

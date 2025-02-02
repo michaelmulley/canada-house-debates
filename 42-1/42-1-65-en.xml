@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8965936">
   <StartPageNumber>3995</StartPageNumber>
   <DocumentTitle>
@@ -61,10 +42,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
     <OrderOfBusiness id="8965962" Rubric="Other">
       <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
       <CatchLine>Government Orders</CatchLine>
-      <SubjectOfBusiness id="8965970">
-        <SubjectOfBusinessQualifier>Speaker's Ruling</SubjectOfBusinessQualifier>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
       <SubjectOfBusiness id="8965944">
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -95,32 +72,32 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ProceduralText TocType="TPC" id="2">Motions Nos. 1 to 3</ProceduralText>
               <ParaText id="4398800">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion No. 1</QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1" Align="Left">Motion No. 1</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398801">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1"> That Bill C-15 be amended by deleting Clause 9.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1" Align="Left"> That Bill C-15 be amended by deleting Clause 9.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398802">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion No. 2</QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1" Align="Left">Motion No. 2</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398803">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1"> That Bill C-15 be amended by deleting Clause 26.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1" Align="Left"> That Bill C-15 be amended by deleting Clause 26.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398804">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion No. 3</QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1" Align="Left">Motion No. 3</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398805">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1"> That Bill C-15 be amended by deleting Clause 34.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1" Align="Left"> That Bill C-15 be amended by deleting Clause 34.</QuotePara>
                 </Quote>
               </ParaText>
             </Content>
@@ -134,7 +111,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4398806"> moved:</ParaText>
               <ParaText id="4398807">
                 <Quote>
-                  <QuotePara IndentFirst="1" IndentRest="1">Motion No.4 </QuotePara>
+                  <QuotePara IndentFirst="1" IndentRest="1">Motion No. 4 </QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4398808">
@@ -285,7 +262,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214056" Type="2">Ms. Anne Minh-Thu Quach (Salaberry—Suroît, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4398855">Mr. Speaker, I thank my colleague for his very informative speech, which really clarified a number of details.</ParaText>
-              <ParaText id="4398856">I have a question for the member regarding the tax cuts for small businesses that the Liberals cancelled in budget 2016. What kind of negative impact or repercussions will this have on small businesses? During the election campaign, the Liberals promised a tax credit for hiring young employees. That measure was cancelled, and there was no mention of it in the budget. Yet, this could have encouraged many businesses to hire young people, which would have given more young people jobs and ensured their future. Finally, this also could have helped revitalize our regions. It is hard to keep young people in the regions. Small businesses are often the most likely to be able to hire people and offer high quality jobs. </ParaText>
+              <ParaText id="4398856">I have a question for the member regarding the tax cuts for small businesses that the Liberals cancelled in budget 2016. What kind of negative impact or repercussions will this have on small businesses? During the election campaign, the Liberals promised a tax credit for hiring young employees. That measure was cancelled, and there was no mention of it in the budget. Yet, this could have encouraged many businesses to hire young people, which would have given more young people jobs and ensured their future. Finally, this also could have helped revitalize our regions. It is hard to keep young people in the regions. Small businesses are often the most likely to be able to hire people and offer high-quality jobs. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Caron" id="8965981">
@@ -310,10 +287,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4398865">Let me begin by emphasizing that we intend to take advantage of a historic opportunity. Thanks to the leadership of governments in the 1990s, Canada's debt position is by far the best in the G7. With interest rates at record lows, now is the time to invest in people and the economy to prepare Canada for a brighter future.</ParaText>
               <ParaText id="4398866">Budget 2016 will support the middle class now by helping Canadian families with important and necessary measures, and it lays the foundation for sustainable, long-term economic growth. In particular, on December 7, 2015, we introduced the middle-class tax cut. Nearly nine million Canadians are now benefiting from lower taxes on every paycheque. </ParaText>
-              <ParaText id="4398867">As a second step, budget 2016 introduced the new Canada child benefit. Compared with the existing system, the new Canada child benefit will be simpler, more generous, and tax free. It will also be targeted to those who need it most. With the introduction of the Canada child benefit, about 300,000 fewer children will be living in poverty. In fact, the CCB represents the most significant social policy innovation in a generation. It means real help for real people, and putting more money in the pockets of moms and dads to pay for everything from summer camp to new clothes. </ParaText>
-              <ParaText id="4398868">This is only part of what Bill <Document DbId="8060929" Type="3">C-15</Document> does to help families directly. In the past, I have spoken in the House about measures that will also help seniors, veterans, and students. Through their efforts, their innovation, and their integrity, Canadians are building a stronger economy for today and for future generations. They rightfully expect their government to work with them in support of those initiatives.</ParaText>
+              <ParaText id="4398867">As a second step, budget 2016 introduced the new Canada child benefit. Compared with the existing system, the new Canada child benefit will be simpler, more generous, and tax-free. It will also be targeted to those who need it most. With the introduction of the Canada child benefit, about 300,000 fewer children will be living in poverty. In fact, the CCB represents the most significant social policy innovation in a generation. It means real help for real people, and putting more money in the pockets of moms and dads to pay for everything from summer camp to new clothes. </ParaText>
+              <ParaText id="4398868">This is only part of what Bill <Document DbId="8196581" Type="3">C-15</Document> does to help families directly. In the past, I have spoken in the House about measures that will also help seniors, veterans, and students. Through their efforts, their innovation, and their integrity, Canadians are building a stronger economy for today and for future generations. They rightfully expect their government to work with them in support of those initiatives.</ParaText>
               <ParaText id="4398869">Allow me to highlight a portion of the bill which I have seldom had the chance to address directly in the House.</ParaText>
-              <ParaText id="4398870">As members will know, in addition to helping families and making important investments, Bill <Document DbId="8060929" Type="3">C-15</Document> also introduces a number of measures in support of our plan to ensure tax fairness and maintain the integrity of the tax system. As we have said many times, we believe all Canadians should be paying their fair share of taxes.</ParaText>
+              <ParaText id="4398870">As members will know, in addition to helping families and making important investments, Bill <Document DbId="8196581" Type="3">C-15</Document> also introduces a number of measures in support of our plan to ensure tax fairness and maintain the integrity of the tax system. As we have said many times, we believe all Canadians should be paying their fair share of taxes.</ParaText>
               <ParaText id="4398871">The budget was tabled before this issue dominated the international headlines this spring, but when it did, I am proud to say that Canada was able to stand proud and highlight the action we had just announced in our plan to prevent underground economic activity and tax evasion, as well as aggressive tax planning.</ParaText>
               <ParaText id="4398872">A cornerstone of our action is a $444-million investment over five years for the Canada Revenue Agency to enhance its efforts to crack down on tax evasion and combat tax avoidance. However, we all recognize that assessing tax revenues alone is not enough, and that is why budget 2016 invests an additional $351.6 million over five years to improve the CRA's ability to go after and collect those outstanding tax debts.</ParaText>
               <ParaText id="4398873">In addition, Canada's tax system needs ongoing adjustment to ensure that it is functioning as intended and contributing to the objective of an economy that works for everyone. We believe a stronger revenue base will help support our new investments in education, infrastructure, training, and other programs that will help to secure a better quality of life for Canada's indigenous people, building a stronger, more unified, more prosperous Canada. These are just a few of the measures in the bill.</ParaText>
@@ -426,7 +403,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4398917">Mr. Speaker, it is interesting that all of the parties agreed to lower taxes for our small and medium-sized businesses. That is why we included that measure in our 2015 budget. In their election platform, the Liberals promised to lower our entrepreneurs' taxes.</ParaText>
               <ParaText id="4398918">Because of their broken promise, the Liberals are going to take $2 billion away from our SMEs over the next five years. Meanwhile, the Liberal governments of Quebec and Canada are going to give that $2 billion to Bombardier, a company controlled by millionaires.</ParaText>
-              <ParaText id="4398919">We would rather leave money in the pockets of the entrepreneurs who earned it instead of giving it, in the form of a subsidy, to a company that is far too cosy with the Liberal government. That is the difference in our approach.</ParaText>
+              <ParaText id="4398919">We would rather leave money in the pockets of the entrepreneurs who earned it instead of giving it, in the form of a subsidy, to a company that is far too cozy with the Liberal government. That is the difference in our approach.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4398920">We would leave the money in the pockets of small business people who earned it, rather than giving it to the billionaires who did not.</ParaText>
             </Content>
@@ -443,7 +420,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4398926">People said two simple things: they asked us to help them and their families, and help them to grow the economy. When people asked for help for themselves and their families, we responded. </ParaText>
               <ParaText id="4398927">I would like to apologize. I was referring to the member for <Affiliation DbId="214462" Type="2">Carleton</Affiliation>, not to the member for <Affiliation DbId="214372" Type="2">Cambridge</Affiliation>. He is listening carefully and he knows what I meant. If it is the only mistake I have made, I will take it. When I listen to the mistakes my colleagues on the other side have made, I would not be boasting in the House.</ParaText>
               <ParaText id="4398928">However, Canadians asked us to help them and their families. The first thing the government did was to reduce taxes for Canadians, nine million Canadians, the insiders who the member for <Affiliation DbId="214462" Type="2">Carleton</Affiliation> is talking about, the nine million Canadians who are paying less taxes since January 1, 2016.</ParaText>
-              <ParaText id="4398929">These people wanted help because they were hurting. They said that they had not seen growth in their in their income for the last 10 years of Conservative government. They had nothing to show for it. We therefore reduced taxes for them.</ParaText>
+              <ParaText id="4398929">These people wanted help because they were hurting. They said that they had not seen growth in their income for the last 10 years of Conservative government. They had nothing to show for it. We therefore reduced taxes for them.</ParaText>
               <ParaText id="4398930">After that, we did something for families. The Canada child benefit is one of the most progressive policies since universal health care in our country. This policy is about helping the insiders, those who the member for <Affiliation DbId="214462" Type="2">Carleton</Affiliation> talked about, the nine out of ten families. These insiders will benefit from a much simpler allocation to help raise children, buy clothes, and send the children to camp this summer. This allocation will even be non-taxable. We are talking about $2,300 more, on average, in the pockets for Canadian families.</ParaText>
               <ParaText id="4398931">Let us get back to what it means for people. If we look at a riding like mine, <Affiliation DbId="213878" Type="2">Saint-Maurice—Champlain</Affiliation> where the average income is probably one of the lowest in the country, that may give families 10% of additional disposable income, and that is significant. I am very proud to be on this side of the House because those measures will help families. These measures are meaningful for people. This is not about talk; this is about action. </ParaText>
               <ParaText id="4398932">We promised during the campaign that we would be there for families for once. This is a government of families. This is a government of middle-class Canadians and those who are working hard to join it, not a government of insiders to which the previous government liked to refer.</ParaText>
@@ -534,10 +511,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4398951">Mr. Speaker, today I rise in the House to pay honour and tribute to former Sault Ste. Marie mayor, Alex Harry, who passed away recently.</ParaText>
               <ParaText id="4398952">Mr. Harry was a great advocate for our community. He served as mayor and as an alderman. He was a successful lawyer, the area director for legal aid, and served on the boards of Sault College, St. Mary's River bridge company, Algoma Public Health, and others. </ParaText>
               <ParaText id="4398953">While mayor, he led the charge to amalgamate Korah to the City of Sault Ste. Marie. He opened the Centennial branch of the Sault public library and spearheaded the creation of Algoma College, which is now Algoma University. </ParaText>
-              <ParaText id="4398954">He was a devoted husband of 60 years to his wife Shirley, a proud father, a proud grandfather, a good friend, and a staunch Liberal. He did many great things for the community. He helped me out when I started my political career. The people of the riding have described him as kind, intelligent, humble, devote, but the best way to describe Alex is as a perfect gentleman.</ParaText>
+              <ParaText id="4398954">He was a devoted husband of 60 years to his wife Shirley, a proud father, a proud grandfather, a good friend, and a staunch Liberal. He did many great things for the community. He helped me out when I started my political career. The people of the riding have described him as kind, intelligent, humble, devoted, but the best way to describe Alex is as a perfect gentleman.</ParaText>
               <ParaText id="4398955">Ladies and gentlemen, please join me in celebrating his life today in the House of Commons.</ParaText>
-              <ParaText id="4398956">
-                <B>Some hon. members:</B> Hear, hear!</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -553,8 +528,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4398958">Maria was born on Thunderchild First Nation, is proudly Plains Cree, and is unmatched in her capacity for generosity, kindness, and strength. On May 27th, Maria won the 2016 YWCA Women of Distinction award for community building in Saskatoon, and duly received a standing ovation.</ParaText>
               <ParaText id="4398959">By almost any definition, Maria has raised and guided an entire community. Much of her life has been dedicated to child welfare. She has personally cared for over 350 foster children, each time providing these children with a safe and loving environment, while encouraging pride in their cultural identity. </ParaText>
               <ParaText id="4398960">As testament to her character, her acceptance speech consisted of the words, “All women are winners.” I encourage members to join me in congratulating Maria on this honour. </ParaText>
-              <ParaText id="4398961">
-                <B>Some hon. members:</B> Hear, hear!</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -571,8 +544,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4398963">In addition to his on-ice success, Chris and his wife Erin have become pillars in the Ottawa community, lending support to over 20 charities: Candlelighters, CHEO, Hockey Fights Cancer, Movember, Ottawa Dragon Boat Festival, Project Step, Project North, The Snowsuit Fund, the Queensway Carleton Hospital Foundation, and so many more. </ParaText>
               <ParaText id="4398964">He has also worked hard to raise awareness and funds for his hometown of Fort McMurray.</ParaText>
               <ParaText id="4398965">Please join me in thanking Chris Phillips for his service to Ottawa, and in wishing him, his wife Erin, and their three children, a happy retirement. </ParaText>
-              <ParaText id="4398966">
-                <B>Some hon. members:</B> Hear, hear!</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -658,7 +629,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8966153">
-        <SubjectOfBusinessTitle>Republic Day Italy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Republic Day in Italy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Levitt" id="8966154">
             <PersonSpeaking>
@@ -1323,7 +1294,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214386" Type="2">Mrs. Cathy McLeod (Kamloops—Thompson—Cariboo, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399146">Mr. Speaker, the Liberals are a lot of talk, but they are no action. Friendship centres provide vital services to urban first nations, including counselling and suicide prevention support programs.</ParaText>
-              <ParaText id="4399147">Our House of Commons committee was told yesterday that promised base funding is delayed, facing layer after layer of new Liberal red tape: two months, no money, laying off staff, and shrinking necessary programs. What is the hold up? Why is funding for vital, life-saving programs being delayed?</ParaText>
+              <ParaText id="4399147">Our House of Commons committee was told yesterday that promised base funding is delayed, facing layer after layer of new Liberal red tape: two months, no money, laying off staff, and shrinking necessary programs. What is the holdup? Why is funding for vital, life-saving programs being delayed?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="8966401">
@@ -1466,7 +1437,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214320" Type="4">Hon. Bill Morneau (Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4399178">Mr. Speaker, I would like to start by recognizing the important work of the parliamentary budget office.</ParaText>
-              <ParaText id="4399179">We were so pleased to see that its report confirmed that millions of Canadians would be helped through the Canada child benefit, which will implemented in budget 2016. It has said that this is the case. We know that 300,000 children will be lifted out of poverty, and 9 out of 10 families with children will be better off.</ParaText>
+              <ParaText id="4399179">We were so pleased to see that its report confirmed that millions of Canadians would be helped through the Canada child benefit, which will be implemented in budget 2016. It has said that this is the case. We know that 300,000 children will be lifted out of poverty, and 9 out of 10 families with children will be better off.</ParaText>
               <ParaText id="4399180"> The new Canada child benefit will make a real and measurable difference in the lives of so many Canadians, and we are very pleased to have that as part of budget 2016.</ParaText>
             </Content>
           </Intervention>
@@ -1520,7 +1491,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8966455">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Infrastructure</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Poilievre" id="8966452">
             <PersonSpeaking>
@@ -2237,7 +2208,7 @@ On December 15, 2015 the Prime Minister accepted the final report of the Truth a
               <ParaText id="4399374">The advantage we have in Canada is in building substantive community between different people of different backgrounds. </ParaText>
               <ParaText id="4399375">I thought about that experience later when, at the time I think it was the British prime minister, similar comments were made by French and German leaders, talking about the alleged failure of multiculturalism in the European context. As much as I would regard that as not correct, even in the context of Europe, it is worth understanding that there is a different experience of multiculturalism in Europe compared to the Canadian experience.</ParaText>
               <ParaText id="4399376">Canada, from the moment of its founding, was a country founded on shared values and on ethnic, religious, and linguistic diversity. We can compare that to many European states, which obviously emphasized elements of shared values, but also have measures of ethnic nationalism built into their founding as well.</ParaText>
-              <ParaText id="4399377">We have to welcome newcomers in a way that understands that background without compromising what George Cartier called our concept of one political nation. I will read from a book called <I>Straight Talk</I>, which is a book on federalism that I captures this well.</ParaText>
+              <ParaText id="4399377">We have to welcome newcomers in a way that understands that background without compromising what George Cartier called our concept of one political nation. I will read from a book called <I>Straight Talk</I>, which is a book on federalism that captures this well.</ParaText>
               <ParaText id="4399378">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That dual quest for the universal and for cultural diversity has been with us since the birth of our Confederation. We have often strayed from it since then, and committed grave mistakes and injustices, but the result is this admirable human achievement that is Canada.</QuotePara>
@@ -2252,17 +2223,17 @@ On December 15, 2015 the Prime Minister accepted the final report of the Truth a
               <ParaText id="4399381">
                 <I>Straight Talk</I> was written by the <Affiliation DbId="214305" Type="4">Minister of Foreign Affairs</Affiliation>. I think he has had some very good things to say in the past about the importance of common values in the context of this diversity.</ParaText>
               <ParaText id="4399382">Where are we going from here then? What is the philosophy which underlines this legislation advanced by the government?</ParaText>
-              <ParaText id="4399383">Early in the new government's term, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> was talking to the <I>The New York Times</I> about aspects of Canadian identity. Here is what he said, which is something very different than the words I just quoted from the <Affiliation DbId="214305" Type="4">Minister of Foreign Affairs</Affiliation>. He said, “There is no core identity, no mainstream in Canada...Those qualities are what make us the first postnational state.”</ParaText>
+              <ParaText id="4399383">Early in the new government's term, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> was talking to  <I>The New York Times</I> about aspects of Canadian identity. Here is what he said, which is something very different than the words I just quoted from the <Affiliation DbId="214305" Type="4">Minister of Foreign Affairs</Affiliation>. He said, “There is no core identity, no mainstream in Canada...Those qualities are what make us the first postnational state.”</ParaText>
               <ParaText id="4399384">Therefore, we have in the House, at least between our side and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, very different visions of what the Canadian nation is supposed to be. </ParaText>
               <ParaText id="4399385">Ours is one of unity around shared values in the context of ethnic, linguistic, religious, and other forms of diversity. However, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s concept is one that goes beyond or outside of this idea of shared values and emphasizes the diversity, but at the same time wants to perceive Canada as a postnational state, not as a political nation. </ParaText>
               <ParaText id="4399386">It is with that in mind that we come to legislation put forward by the government, which would allow convicted terrorists to retain their Canadian citizenship. I think we can understand what the Liberals' thinking is on this bill in light of the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s comments to <I>The New York Times</I> and in light of that underlying philosophy.</ParaText>
               <ParaText id="4399387"> It is clearly a problem to our historic concepts of Canada as a political nation to say that convicted terrorists should be able to retain their citizenship. A terrorist is not just someone who wants to do violence and mayhem. Terrorists are people, in our current conception of it, who disconnect themselves from our Canadian values, who embrace a wholly distinct set of values than the ones I have outlined, gender quality, universal human dignity, human rights, democracy, and the rule of law, and instead commit themselves to fighting for the destruction of those very values. A terrorist is not someone who is pushed outside of the fold of Canadian values. A terrorist is someone who chooses to leave the fold of Canadian values, and that is very clear.</ParaText>
               <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
               <ParaText id="4399388">Our concept of diversity that emphasizes shared values says that diversity does not extend to those who wish to destroy us. There have to be parameters or limits ensuring that we remain the country we have always been, a country of unity in the context of our diversity.</ParaText>
-              <ParaText id="4399389">The Liberals view of diversity in many ways bends over on itself. It permits those who are deeply at odds with things in which the Liberals themselves clearly believe, gender equality, human rights, the rule of law, democracy. Yet it allows people who reject those things, who want to fight against those things, to remain in the Canadian family and to use the advantages of their membership in the Canadian family, of their Canadian passport, for example, to then wreck havoc against the very values that we espouse.</ParaText>
+              <ParaText id="4399389">The Liberals' view of diversity in many ways bends over on itself. It permits those who are deeply at odds with things in which the Liberals themselves clearly believe, gender equality, human rights, the rule of law, democracy. Yet it allows people who reject those things, who want to fight against those things, to remain in the Canadian family and to use the advantages of their membership in the Canadian family, of their Canadian passport, for example, to then wreak havoc against the very values that we espouse.</ParaText>
               <ParaText id="4399390">I think all of us in all corners of the House deeply believe in the idea of diversity, but we also believe the diversity is necessarily bounded as a practical matter, as a matter of our own survival. There are certain things we must agree are simply not welcome here and they include the desire to destroy our way of life.</ParaText>
               <ParaText id="4399391">I ask Canadians who are watching this to reflect on these differences of vision, the one espoused by the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and the one espoused by George Cartier, the question of Canada as a postnational state or of Canada as being part of a common political nation.</ParaText>
-              <ParaText id="4399392">It is important to specifically counter some of the arguments that were made by my friends across the way. Members of the government have said many things on this that are substantially true but do not really apply to this legislation. My friend, the parliamentary secretary, praised the importance of having a path to citizenship. We have always had a path to citizenship in our country. Nobody is proposing, or has seriously ever proposed, the creation of a sort of UAE-style of citizenship where an individual would have to be born here. We believe very much in a path to citizenship, and we can disagree over the difference of one year here or there in terms of being in a country without disagreeing on that fundamental point.</ParaText>
+              <ParaText id="4399392">It is important to specifically counter some of the arguments that were made by my friends across the way. Members of the government have said many things on this that are substantially true but do not really apply to this legislation. My friend, the parliamentary secretary, praised the importance of having a path to citizenship. We have always had a path to citizenship in our country. Nobody is proposing, or has seriously ever proposed, the creation of a sort of UAE style of citizenship where an individual would have to be born here. We believe very much in a path to citizenship, and we can disagree over the difference of one year here or there in terms of being in a country without disagreeing on that fundamental point.</ParaText>
               <ParaText id="4399393">For those who have a commitment to Canada, there is no substantial problem with saying let us wait another year. Those who do not have a commitment to Canada will perhaps have a different perspective. All of those who have a commitment to Canada, whether it is an additional year, it is not clear to me what the breaking point is about those changes.</ParaText>
               <ParaText id="4399394">There is an important issue alleged by the government, and we hear this talking point many times, of two-tiered citizenship. There are two things that need to be said about this. First, the government has been clear that its intention is to retain the ability to revoke citizenship that was acquired on the basis of fraud. This means that people who acquired their citizenship could have it stripped from them on the basis of fraud.</ParaText>
               <ParaText id="4399395">Fraud is in my mind a much lesser crime than terrorism. For the government to say that on the one hand citizenship is irrevocable for someone who clearly parts ways with Canadian values and then say on the other hand, citizenship can be lost if someone cheated on a form is just not consistent. </ParaText>
@@ -2274,11 +2245,11 @@ On December 15, 2015 the Prime Minister accepted the final report of the Truth a
               <ParaText id="4399400">Of course, as a practical matter, we cannot strip the citizenship of someone who only has one citizenship, and that is true whether individuals obtained their citizenship by a fraud or whether they obtained their citizenship in spite of then going on to commit or be involved in some form of terrorism.</ParaText>
               <ParaText id="4399401">That is a practical matter, and obviously we are limited in the House by certain features of the practical world in what we can do and cannot do. However, as much as possible, we should hold fast to that principle, that Canadian citizenship has value. It expresses the substance of who we are as a country, a country that has unity around shared values in the context of our diversity, and this, unfortunately, is simply not appreciated by the arguments made on behalf of the bill.</ParaText>
               <ParaText id="4399402">Some more clarifications need to be made about the original system we had in place. It is a bit perverse, frankly, that members of the government talk about new Canadians being worried about the provisions of the bill because of misinformation about them, and then go on to continually imply things about the bill that are incorrect. If some Canadians were worried about the provisions of the bill and did not have a proper understanding of what the original bill would do, I would hope the members of the government, who were maybe talking to these Canadians in the context of a campaign, would have provided correct information about the bill. </ParaText>
-              <ParaText id="4399403">They might have clarified that actually there is no restriction whatsoever in the original Bill <Document DbId="6401990" Type="3">C-24</Document> on mobility rights. There is no possibility whatsoever that people could lose their citizenships for a minor crime. In fact, people who commit a major crime, a violent crime, still could not have their citizenships revoked, regardless of where they were born, regardless of whether they were duel citizens. It is only in the case of terrorism.</ParaText>
+              <ParaText id="4399403">They might have clarified that actually there is no restriction whatsoever in the original Bill <Document DbId="6401990" Type="3">C-24</Document> on mobility rights. There is no possibility whatsoever that people could lose their citizenships for a minor crime. In fact, people who commit a major crime, a violent crime, still could not have their citizenships revoked, regardless of where they were born, regardless of whether they were dual citizens. It is only in the case of terrorism.</ParaText>
               <ParaText id="4399404">The crucial point with respect to terrorism is that this is where individuals have stepped fully outside the parameters of Canadian values. They have said that they have no interest in being part of the Canadian family. They have acted in a way that put themselves fundamentally at odds with it in terms of their values. </ParaText>
               <ParaText id="4399405">One of the arguments we have heard as well from my friends across the way is the assertion that putting them in jail is enough, that someone should not face both imprisonment and then the loss of citizenship. However, these are two completely different kinds of sanctions to deal with different kinds of issues. Of course, somebody who is involved in violent crime or terrorism should be punished through incarceration, but there is also the issue of whether this person has retained his or her commitment to be part of the Canadian family or not. These are different issues that should be both dealt with and certainly both considered.</ParaText>
               <ParaText id="4399406">However, there is another practical matter that I think the government ignores in its reasoning. It is the fact that individuals could well be outside of the country and become very involved in terrorism, be fighting for Daesh, perhaps, or another terrorist group, and clearly, in the process of their actions and their involvement in that, take themselves outside the Canadian family. Those people, as long as they retain their Canadian citizenship, have the benefits of Canadian citizenship, can ask for assistance by diplomatic staff and Canadians would be on the hook to bail that sort of an active terrorist out.</ParaText>
-              <ParaText id="4399407"> Of course, we do not have the ability to incarcerate people if they are abroad fighting on behalf of another terrorist organization. This is perhaps a context in which this would have to be considered, and it do not think is properly considered by the government's arguments.</ParaText>
+              <ParaText id="4399407"> Of course, we do not have the ability to incarcerate people if they are abroad fighting on behalf of another terrorist organization. This is perhaps a context in which this would have to be considered, and I do not think it is properly considered by the government's arguments.</ParaText>
               <ParaText id="4399408"> It is important to underline in that context at the same time that it is not the conviction in a foreign court that would lead to these considerations. It would only be a decision of the Canadian courts or an adjudication on the basis of equivalency, an evaluation that was done based on Canadian law with respect to terrorism. It still would not require someone to be in the country. </ParaText>
               <Timestamp Hr="13" Mn="05">(1305)</Timestamp>
               <ParaText id="4399409">In terms of the underlying philosophy, Canadians should go with George Cartier, not the postnational anti-identity fantasies of the Prime Minister. It is also important to dig into the substantive provisions of the bill and realize that it does not fix problems that were real, that we were addressing significant problems. Terrorists should not— </ParaText>
@@ -2370,7 +2341,7 @@ On December 15, 2015 the Prime Minister accepted the final report of the Truth a
             <Content>
               <ParaText id="4399432">Madam Speaker, it gives me great pleasure to stand and speak on behalf of the New Democratic Party to this important piece of legislation.</ParaText>
               <ParaText id="4399433">During the 41st Parliament, the previous Conservative government brought in Bill <Document DbId="6401990" Type="3">C-24</Document> that made a number of changes to the Citizenship Act. The most controversial of those changes, Canadians are well aware, was the change that effectively created two classes of citizens. There was one in which naturalized Canadians, or Canadians who were born abroad but became a Canadian citizen here, were treated differently than a Canadian citizen who is born in Canada. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> expressed it quite eloquently when during the campaign he talked about a Canadian being a Canadian being a Canadian. That resonated with Canadians as well. However there are many other parts of that bill that also were seriously flawed and problematic. Many experts pointed out that the bill was in a number of ways unconstitutional and/or did not respect international law. </ParaText>
-              <ParaText id="4399434">From a political point of view, the bill was ill conceived. It was conducted in haste, and in many ways proposed changes to the law where there had been no demonstrated problem. It was a repeated attribute of the previous Conservative government to make decisions not based on evidence but based on ideology. Bill <Document DbId="6401990" Type="3">C-24</Document> was a classic example of that. The bill turned out to be very unfair, divisive, was ideologically driven, and most important it was unfair.</ParaText>
+              <ParaText id="4399434">From a political point of view, the bill was ill-conceived. It was conducted in haste, and in many ways proposed changes to the law where there had been no demonstrated problem. It was a repeated attribute of the previous Conservative government to make decisions not based on evidence but based on ideology. Bill <Document DbId="6401990" Type="3">C-24</Document> was a classic example of that. The bill turned out to be very unfair, divisive, was ideologically driven, and most important it was unfair.</ParaText>
               <ParaText id="4399435">The NDP opposed Bill <Document DbId="6401990" Type="3">C-24</Document> from the very beginning, and we called for it to be withdrawn and amended. We proposed dozens of amendments, all of which were rejected by the previous Conservative government. The bill before us today, Bill <Document DbId="8117654" Type="3">C-6</Document>, would amend that flawed and very damaging piece of legislation, so the New Democrats are very happy to support this bill at third reading.</ParaText>
               <ParaText id="4399436">Bill <Document DbId="8117654" Type="3">C-6</Document> will amend Bill <Document DbId="6401990" Type="3">C-24</Document> in a number of ways, but not in all of the ways that we think it ought to be amended. I will cover both of those.</ParaText>
               <ParaText id="4399437"> I will start with where it would amend Bill C-24 in a positive fashion.</ParaText>
@@ -2457,10 +2428,10 @@ On December 15, 2015 the Prime Minister accepted the final report of the Truth a
               <ParaText id="4399479">What would this legislation mean? The research the proponent of the bill shared was that sometimes there is a barrier to getting help quickly and that barrier is because the people who are with their friends or their classmates or their mothers and fathers are worried that there will be some consequences in terms of the substances. The research is clear that at times there has been a barrier because of possession. We also just heard from a doctor across the aisle who, in his own experience, found that there was a barrier for people in terms of self-interest or many reasons in terms of getting help quickly.</ParaText>
               <ParaText id="4399480">In the case of opioids, what does getting help quickly mean? I am a nurse by background. I can remember in the hospital there was a case, and this was a legitimate use of a narcotic for pain control. We had given a woman some pain medication post-surgery and just a couple of minutes later I happened to go into the room and she had stopped breathing as the result of an allergic reaction to the pain medication.</ParaText>
               <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
-              <ParaText id="4399481">It was absolutely shocking to see someone who had stopped breathing and who was on the brink of death. The hospitals have something called Narcan or naloxone. We injected the naloxone, or Narcan as it was called, into her and she started breathing again. She opened her eyes and wondered what had happened. For someone who has never seen this, Narcan can reverse the effects an allergy to medicaitons.</ParaText>
+              <ParaText id="4399481">It was absolutely shocking to see someone who had stopped breathing and who was on the brink of death. The hospitals have something called Narcan or naloxone. We injected the naloxone, or Narcan as it was called, into her and she started breathing again. She opened her eyes and wondered what had happened. For someone who has never seen this, Narcan can reverse the effects an allergy to medications.</ParaText>
               <ParaText id="4399482"> This is a multi-issue and this is one piece of the puzzle that our colleague has introduced in getting help for people quickly. Removing barriers for them to seek help is a really important piece of the puzzle.</ParaText>
               <ParaText id="4399483">British Columbia has a take-home naloxone program to make it readily available. Health Canada worked rapidly, going through a process to make naloxone available, not a prescription. It is cheaper for patients who have a bee allergy. We will often see their kits and learn how to do an injection to reverse the effects of the allergy to the bee. This particular injection can be easily learned and is truly life-saving.</ParaText>
-              <ParaText id="4399484">The other important feature is that lay people can learn how to deliver naloxone. It is absolutely life-saving and there is very minimal adverse effects.</ParaText>
+              <ParaText id="4399484">The other important feature is that lay people can learn how to deliver naloxone. It is absolutely life-saving and there are very minimal adverse effects.</ParaText>
               <ParaText id="4399485">I noted that some people have said that we perhaps should be criticizing this because we are endorsing drug use. That is not actually what is happening. It has been very clear that what is happening is life-saving, whether it is someone who is suffering from an addiction who has taken an overdose, or whether it is a young person who has been at a party and who has made perhaps a foolish decision.</ParaText>
               <ParaText id="4399486">If we put this bill into the context of what is a dramatically escalating situation in British Columbia and across Canada and provide some basic life-saving tools, then we have a good bill. I too hope all members in the House will support the bill. Again, even if it saves one life, it is a bill well done.</ParaText>
             </Content>
@@ -2535,7 +2506,7 @@ On December 15, 2015 the Prime Minister accepted the final report of the Truth a
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4399520">It being two o'clock, the House stands adjourned until Monday at <?bk?>11 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4399520">It being two o'clock, the House stands adjourned until Monday at <?bk ?>11 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4399521">(The House adjourned at 2 p.m.) </ParaText>
             </Content>
           </Intervention>

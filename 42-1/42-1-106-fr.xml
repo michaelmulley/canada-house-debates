@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9225628">
   <StartPageNumber>6641</StartPageNumber>
   <DocumentTitle>
@@ -172,7 +154,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214481" Type="2">M. Arnold Viersen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634319">Parce qu'il s'agit d'un enjeu important qui doit retenir l'attention de tous les Canadiens, madame la Présidente.</ParaText>
+              <ParaText id="4634319">C'est parce qu'il s'agit d'un enjeu important qui doit retenir l'attention de tous les Canadiens, madame la Présidente.</ParaText>
               <ParaText id="4634320">Pour que la population en prenne conscience, nous cherchons notamment à lancer un dialogue d'envergure nationale, et c'est ce que la motion permettrait de faire. Si nous nous étions adressés directement au comité de la santé, il n'y aurait pas eu de discussion nationale. Alors voilà, c'est pour cela.</ParaText>
             </Content>
           </Intervention>
@@ -763,7 +745,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4634576">C’est un interlocuteur du futur qui appelle, madame la Présidente, et qui demande pourquoi les conservateurs ne nous ont pas appuyés lorsque nous avons bonifié le Régime de pensions du Canada.</ParaText>
-              <ParaText id="4634577">Ma question est très simple. Est-ce que le député estime que le régime doit être bonifié pour préparer l'avenir ou bien qu’il doit être aboli? Ou encore pense-t-il vraiment que la façon dont il fonctionne aujourd’hui va nous permettre de faire des économies à long terme?</ParaText>
+              <ParaText id="4634577">Ma question est très simple. Est-ce que le député estime que le régime doit être bonifié pour préparer l'avenir ou bien qu’il doit être aboli? Ou encore pense-t-il vraiment que la façon dont il fonctionne aujourd’hui est durable et à long terme?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" id="9226652" ToCText="Mme Hughes">
@@ -848,7 +830,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4634610">Madame la Présidente, les libéraux croient bel et bien que les Canadiens sont en mesure d'agir dans leur intérêt. Les Canadiens ont d'ailleurs agi dans leur intérêt en élisant un gouvernement libéral qui aidera le pays à se préparer pour l'avenir.</ParaText>
-              <ParaText id="4634611">À long terme — soit d'ici 40 ans, s'il le faut, plutôt que simplement au cours du prochain cycle électoral —, le gouvernement fera cela notamment en bonifiant le RPC et le SRG et en ramenant à 65 ans l'âge d'admissibilité à la Sécurité de la vieillesse. Les Canadiens n'ont pas tous les moyens d'épargner en vue de la retraite et ils ne sont pas déconnectés de la réalité au point de penser qu'il leur suffira d'entretenir l'espoir d'avoir assez d'argent pour pouvoir en mettre de côté. Les Canadiens n'ont pas tous assez d'argent pour avoir une marge de manoeuvre. En tant que membres de la société, nous avons la responsabilité de tout mettre en oeuvre pour venir en aide à nos concitoyens, et c'est en plein ce que nous sommes en train de faire.</ParaText>
+              <ParaText id="4634611">À long terme — soit d'ici 40 ans, s'il le faut, plutôt que simplement au cours du prochain cycle électoral —, le gouvernement fera cela notamment en bonifiant le RPC et le SRG et en ramenant à 65 ans l'âge d'admissibilité à la Sécurité de la vieillesse. Les Canadiens n'ont pas tous les moyens d'épargner en vue de la retraite et nous ne sommes pas déconnectés de la réalité au point de penser qu'il leur suffira d'entretenir l'espoir d'avoir assez d'argent pour pouvoir en mettre de côté. Les Canadiens n'ont pas tous assez d'argent pour avoir une marge de manoeuvre. En tant que membres de la société, nous avons la responsabilité de tout mettre en oeuvre pour venir en aide à nos concitoyens, et c'est en plein ce que nous sommes en train de faire.</ParaText>
               <ParaText id="4634612">J'aimerais poser une question au député d'<Affiliation DbId="214274" Type="2">Edmonton Manning</Affiliation>. Pense-t-il que le RPC a sa raison d'être? Si oui, comment peut-il justifier son opposition au projet de loi, ce qui constitue une véritable dissonance cognitive? Si non, va-t-il dire aux Canadiens que, selon lui, nous devrions abolir le RPC?</ParaText>
             </Content>
           </Intervention>
@@ -1107,7 +1089,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ProceduralText TocType="TPC" id="3">Report du vote sur le sous-amendement</ProceduralText>
               <ParaText id="4634698">Le vote est donc reporté à demain, à la fin de la période réservée aux initiatives ministérielles.</ParaText>
-              <ParaText id="4634699">Nous passons maintenant aux déclarations de députés. Le député de Montcalm a la parole.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1381,10 +1362,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213957" Type="2">M. Bob Saroya (Markham—Unionville, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634766">Monsieur le Président, <I>Vaha Guru Ji Ka Khalsa.</I></ParaText>
-              <ParaText id="4634767">
-                <I>Vahu Guru Ji Ki Fathe.</I>
-              </ParaText>
+              <ParaText id="4634766">Monsieur le Président, <I>Vaha Guru Ji Ka Khalsa.</I><I>Vahu Guru Ji Ki Fathe.</I></ParaText>
               <ParaText id="4634768">Le 14 novembre 1469 est le jour de la naissance du gourou Nanak. L'éclat de la connaissance a dès lors éclairé le monde. Nanak, le fondateur du sikhisme, a dit que la vérité était une bonne chose, mais qu'une vie dans la vérité était encore mieux.</ParaText>
               <ParaText id="4634769">Au XV<Sup>e</Sup> siècle, il a demandé comment on pouvait manquer de respect envers les femmes, qui avaient même enfanté les rois, revendiquant ainsi des droits égaux pour les femmes. Grâce à ses connaissances divines, il a appris au monde à accepter la diversité et à voir au-delà des différences. Il s'est opposé au système de castes et à d'autres divisions qui existaient au sein de la société. Il a lancé la tradition de la cuisine communautaire, ou Langar, qui repose entièrement sur des contributions et permet de servir chaque jour plus de 1 million de repas gratuits, uniquement en Inde.</ParaText>
               <ParaText id="4634770">Les enseignements du gourou Nanak demeurent accessibles à la communauté mondiale grâce à l'éternel livre saint, <I>Sri Guru Granth Sahib</I>.</ParaText>
@@ -1423,7 +1401,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634776">Monsieur le Président, la décision du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> d'imposer une taxe sur le carbone qui entraînera l'augmentation des coûts de chauffage, de l'essence à la pompe, et même de l'épicerie, est une mauvaise idée depuis le début, mais elle est encore pire maintenant. Les Américains ont maintenant retiré la taxe sur le carbone de la table, ce qui leur donnera un avantage considérable sur les entreprises canadiennes qui oeuvrent à l'étranger. Pourquoi le premier ministre ne comprend-il pas que sa taxe sur le carbone nous condamne à l'échec et qu'elle entraînera la perte d'emplois canadiens?</ParaText>
+              <ParaText id="4634776">Monsieur le Président, la décision du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> d'imposer une taxe sur le carbone qui entraînera l'augmentation des coûts de chauffage, de l'essence à la pompe, et même de l'épicerie, est une mauvaise idée depuis le début, mais elle est encore pire maintenant. Les Américains ont maintenant retiré la taxe sur le carbone de la table, ce qui leur donnera un avantage considérable sur les entreprises canadiennes qui oeuvrent à l'étranger. </ParaText>
+              <ParaText id="4634776">Pourquoi le premier ministre ne comprend-il pas que sa taxe sur le carbone nous condamne à l'échec et qu'elle entraînera la perte d'emplois canadiens?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. LeBlanc" id="9226659">
@@ -1437,7 +1416,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634778">Monsieur le Président, les États-Unis sont non seulement notre plus grand allié et notre plus gros client, mais ils sont aussi notre principal concurrent. Maintenant que les Américains ont décidé de ne pas imposer de taxe sur le carbone, la taxe sur le carbone du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> devient un handicap pour les entreprises canadiennes. Le premier ministre doit accepter que la réalité économique de l'Amérique du Nord a changé. Renoncera-t-il à sa taxe sur le carbone ou est-il à l'aise avec l'idée de voir des emplois canadiens délocalisés aux États-Unis?</ParaText>
+              <ParaText id="4634778">Monsieur le Président, les États-Unis sont non seulement notre plus grand allié et notre plus gros client, mais ils sont aussi notre principal concurrent. Maintenant que les Américains ont décidé de ne pas imposer de taxe sur le carbone, la taxe sur le carbone du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> devient un handicap pour les entreprises canadiennes. Le premier ministre doit accepter que la réalité économique de l'Amérique du Nord a changé. </ParaText>
+              <ParaText id="4634778">Renoncera-t-il à sa taxe sur le carbone ou est-il à l'aise avec l'idée de voir des emplois canadiens délocalisés aux États-Unis?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. LeBlanc" id="9226663">
@@ -1456,7 +1436,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634780">Monsieur le Président, avant de se faire élire, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> s'est prononcé en faveur du pipeline Keystone XL. Pour sa part, le nouveau président élu des États-Unis a aussi manifesté son appui à l'égard de ce projet. Le premier ministre peut-il assurer aux Canadiens, et particulièrement à ceux auxquels ce projet pourrait donner du travail, qu'il s'emploie à faire avancer aussi rapidement que possible le dossier du pipeline Keystone?</ParaText>
+              <ParaText id="4634780">Monsieur le Président, avant de se faire élire, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> s'est prononcé en faveur du pipeline Keystone XL. Pour sa part, le nouveau président élu des États-Unis a aussi manifesté son appui à l'égard de ce projet.</ParaText>
+              <ParaText id="4634780"> Le premier ministre peut-il assurer aux Canadiens, et particulièrement à ceux auxquels ce projet pourrait donner du travail, qu'il s'emploie à faire avancer aussi rapidement que possible le dossier du pipeline Keystone?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. LeBlanc" id="9226669">
@@ -1479,7 +1460,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634784">Monsieur le Président, depuis son arrivée au pouvoir, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne tient pas compte des chômeurs du secteur de l'énergie. Or, voilà qu'une occasion se présente. S'il se fait le champion du pipeline Keystone XL, qu'il a dit appuyer avant l'élection, cela pourrait créer des milliers d'emplois. Le premier ministre agira-t-il rapidement pour donner son soutien public à ce pipeline ou va-t-il continuer de laisser les chômeurs du secteur de l'énergie dans l'inquiétude concernant leurs emplois?</ParaText>
+              <ParaText id="4634784">Monsieur le Président, depuis son arrivée au pouvoir, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne tient pas compte des chômeurs du secteur de l'énergie. Or, voilà qu'une occasion se présente. S'il se fait le champion du pipeline Keystone XL, qu'il a dit appuyer avant l'élection, cela pourrait créer des milliers d'emplois. </ParaText>
+              <ParaText id="4634784">Le premier ministre agira-t-il rapidement pour donner son soutien public à ce pipeline ou va-t-il continuer de laisser les chômeurs du secteur de l'énergie dans l'inquiétude concernant leurs emplois?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. LeBlanc" id="9226674">
@@ -1498,7 +1480,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634786">Monsieur le Président, l’ALÉNA est notre plus important accord commercial. Il représente des milliers d’emplois et des milliards d’investissements pour le Canada. Nous savons que l’accord inquiète le nouveau président élu, mais son inquiétude concerne le Mexique et non le Canada. Toutefois, avant même qu’on le lui ait demandé, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a proposé de renégocier l’accord, mettant ainsi en péril notre plus important accord commercial. Le Canada a désormais affaibli sa position, créant ainsi des incertitudes.</ParaText>
+              <ParaText id="4634786">Monsieur le Président, l’ALENA est notre plus important accord commercial. Il représente des milliers d’emplois et des milliards d’investissements pour le Canada. Nous savons que l’accord inquiète le nouveau président élu, mais son inquiétude concerne le Mexique et non le Canada. Toutefois, avant même qu’on le lui ait demandé, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a proposé de renégocier l’accord, mettant ainsi en péril notre plus important accord commercial. Le Canada a désormais affaibli sa position, créant ainsi des incertitudes.</ParaText>
               <ParaText id="4634787">Pourquoi le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a-t-il réagi prématurément en proposant de reprendre les négociations de l’accord avec les Américains?</ParaText>
             </Content>
           </Intervention>
@@ -1570,14 +1552,19 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4634801">Je suis fier du travail que nous accomplissons, sous la direction de la <Affiliation DbId="214326" Type="4">ministre du Commerce international</Affiliation>, et du fait que nous écoutons ce que les Canadiens ont à dire sur ce sujet important.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9226718">
+        <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Le bois d'oeuvre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Trudel" id="9226717">
             <PersonSpeaking>
               <Affiliation DbId="214168" Type="2">Mme Karine Trudel (Jonquière, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4634802">Monsieur le Président, il ne faut pas se tromper, l'élection américaine apporte son lot d'incertitudes. </ParaText>
-              <ParaText id="4634803">Dans ma circonscription et partout au pays, des travailleurs et des familles craignent l'absence d'un accord sur le bois d'oeuvre avec les États-Unis. On parle de pertes d'emplois et de fermeture d'usines. Ce gouvernement n'a pas conclu d'accord ni préparé de plan B, et il n'a pas proposé de garantie de prêt pour l'industrie. </ParaText>
+              <ParaText id="4634803">Dans ma circonscription et partout au pays, des travailleurs et des familles craignent l'absence d'un accord sur le bois d'oeuvre avec les États-Unis. On parle de pertes d'emplois et de fermeture d'usines. Ce gouvernement n'a pas conclu d'accord ni préparé de plan B, et il n'a pas proposé de garantie de prêts pour l'industrie. </ParaText>
               <ParaText id="4634804">Dans un contexte encore plus incertain, alors qu'il y a une nouvelle administration américaine et que les surtaxes arrivent à grands pas, peut-on s'attendre à des mesures concrètes du gouvernement d'ici là, oui ou non?</ParaText>
             </Content>
           </Intervention>
@@ -1609,7 +1596,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9226983">
-        <SubjectOfBusinessTitle>L'agriculture et l'agroalimentaire</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'industrie laitière</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Deltell" id="9226729">
             <PersonSpeaking>
@@ -2178,14 +2165,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214677" Type="18">Mme Kamal Khera (secrétaire parlementaire de la ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4634933">Monsieur le Président, le gouvernement est résolu à protéger la santé et la sécurité de tous les Canadiens au moyen de politiques fondées sur des données probantes. Dans ce cas, les données probantes montrent très clairement que la réduction des méfaits a un rôle important à jouer dans une stratégie antidrogue globale. Dans ses consignes au ministère, la <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation> a indiqué qu'aucun obstacle inutile ne devrait empêcher les collectivités qui le désirent d'ouvrir des centres de consommation supervisée. Elle a aussi ordonné au ministère d'examiner les diverses façons de contrer la crise des opioïdes, ce qui pourrait comprendre une modification du projet de loi <Document DbId="8062279" Type="3">C-2</Document>.</ParaText>
+              <ParaText id="4634933">Monsieur le Président, le gouvernement est résolu à protéger la santé et la sécurité de tous les Canadiens au moyen de politiques fondées sur des données probantes. Dans ce cas, les données probantes montrent très clairement que la réduction des méfaits a un rôle important à jouer dans une stratégie antidrogue globale. Dans ses consignes au ministère, la <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation> a indiqué qu'aucun obstacle inutile ne devrait empêcher les collectivités qui le désirent d'ouvrir des centres de consommation supervisée. Elle a aussi ordonné au ministère d'examiner les diverses façons de contrer la crise des opioïdes, ce qui pourrait comprendre une modification du projet de loi <Document DbId="6254806" Type="3">C-2</Document>.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9226973">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le commerce international</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'industrie laitière</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Fortin" id="9226972">
             <PersonSpeaking>
@@ -2323,7 +2310,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9227157">
-        <SubjectOfBusinessQualifier>La santé des anciens combattants</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les anciens combattants</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Oliphant" id="9227012">
             <PersonSpeaking>
@@ -2391,6 +2378,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4634966">Je ne parlerai pas ici des motifs de ces demandes. Il est cependant important, pour les questions de cruauté envers les animaux, de tenir compte du fait que les gens qui maltraitent les animaux sont susceptibles, selon les policiers, d'ensuite maltraiter des personnes.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9227432">
+        <SubjectOfBusinessQualifier>Les espèces en péril</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9227426">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
@@ -2469,7 +2461,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Responder>
               <Affiliation DbId="214302" Type="4">L'hon. Lawrence MacAulay (ministre de l'Agriculture et de l'Agroalimentaire, Lib.)</Affiliation>: </Responder>
             <ResponseContent>
-              <ParaText id="4634983"> Monsieur le Président, en réponse à la partie a) de la question, il y a eu deux rencontres. Pour ce qui est de la partie b) de la question, la première rencontre a eu lieu le 12 avril 2016, au 1341, chemin Baseline, à Ottawa. L’organisme présent, les Producteurs de poulet du Canada, était représenté par le directeur exécutif, le gestionnaire du commerce et des politiques et la conseillère en politiques du cabinet du ministre. Le sujet abordé était la volaille de réforme.</ParaText>
+              <ParaText id="4634983"> Monsieur le Président, en réponse à la partie a) de la question, il y a eu deux rencontres. </ParaText>
+              <ParaText id="4634983">Pour ce qui est de la partie b) de la question, la première rencontre a eu lieu le 12 avril 2016, au 1341, chemin Baseline, à Ottawa. L’organisme présent, les Producteurs de poulet du Canada, était représenté par le directeur exécutif, le gestionnaire du commerce et des politiques et la conseillère en politiques du cabinet du ministre. Le sujet abordé était la volaille de réforme.</ParaText>
               <ParaText id="4634984">La seconde rencontre a eu lieu le 22 avril dernier, et elle s’est faite par téléphone au 1341, chemin Baseline, à Ottawa. L’organisme présent, les Aliments Maple Leaf, était représenté par le vice-président principal, Relations avec le gouvernement et l’industrie. Les sujets abordés étaient l’agriculture et le commerce international.
 </ParaText>
             </ResponseContent>
@@ -3261,7 +3254,7 @@ Pour ce qui est des parties d) et e) de la question, de 2010-2011 à 2014-2015, 
             <Questioner>
               <Affiliation DbId="214456" Type="2">Mme Rachael Harder</Affiliation>:</Questioner>
             <QuestionContent>
-              <ParaText id="4635125"> En ce qui concerne les bureaux du ministre de la Petite Entreprise et du Tourisme et du ministre de l’Innovation, des Sciences et du Développement économique et de leurs personnels: a) quels sont les coûts associés à tout aménagement, rénovation, information, technologie ou achat de mobilier; b) quel est le coût total, assorti de la ventilation détaillée des coûts de tous les achats et travaux décrits dans les réponses ci-dessus des ministres à <?bk?>Q-295;<?ek?> c) quelle est la ventilation détaillée de tous les coûts associés aux articles décrits aux parties a) et b) de la réponse du gouvernement à <?bk?>Q-295<?ek?> des ministres suivants (i) ministre de la Justice, (ii) ministre de la Défense nationale, (iii) ministre de la Condition féminine? </ParaText>
+              <ParaText id="4635125"> En ce qui concerne les bureaux du ministre de la Petite Entreprise et du Tourisme et du ministre de l’Innovation, des Sciences et du Développement économique et de leurs personnels: a) quels sont les coûts associés à tout aménagement, rénovation, information, technologie ou achat de mobilier; b) quel est le coût total, assorti de la ventilation détaillée des coûts de tous les achats et travaux décrits dans les réponses ci-dessus des ministres à <?bk ?>Q-295;<?ek ?> c) quelle est la ventilation détaillée de tous les coûts associés aux articles décrits aux parties a) et b) de la réponse du gouvernement à <?bk ?>Q-295<?ek ?> des ministres suivants (i) ministre de la Justice, (ii) ministre de la Défense nationale, (iii) ministre de la Condition féminine? </ParaText>
             </QuestionContent>
             <ResponseContent>
               <ParaText id="4635126">(Le document est déposé)</ParaText>
@@ -4117,8 +4110,7 @@ Pour ce qui est des parties d) et e) de la question, de 2010-2011 à 2014-2015, 
             <PersonSpeaking>
               <Affiliation DbId="214366" Type="2">M. Phil McColeman</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4635472">Merci, madame la Présidente.</ParaText>
-              <ParaText id="4635473">Tout le monde sait qu'un fort pourcentage, environ 80 %, des nouveaux emplois et des emplois bien rémunérés viennent de l'expansion des petites entreprises. C'est évidemment à condition que le gouvernement leur offre l'allégement fiscal planifié et promis au cours de la dernière campagne électorale — une promesse non tenue — et que les petits entrepreneurs puissent planifier... Quand nous étions au pouvoir, nous nous apprêtions à aller dans cette voie. Les libéraux ont pris la relève en assurant que c'est ce qu'ils allaient faire, puis ils sont revenus sur leur promesse. Voilà qui enlève une possibilité de croissance à toutes les petites entreprises et peut-être, dans certains cas, élimine toute possibilité d'expansion — car, comme je l'ai mentionné dans mon allocution, pour les petites entreprises, la ligne est mince entre le succès et la marge de profit. En outre, les coûts supplémentaires ajoutés à tout cela par le gouvernement rendent les choses difficiles pour les petits entrepreneurs. Le gouvernement empêche la création de nombreux emplois bien rémunérés.</ParaText>
+              <ParaText id="4635472">Madame la Présidente, tout le monde sait qu'un fort pourcentage, environ 80 %, des nouveaux emplois et des emplois bien rémunérés viennent de l'expansion des petites entreprises. C'est évidemment à condition que le gouvernement leur offre l'allégement fiscal planifié et promis au cours de la dernière campagne électorale — une promesse non tenue — et que les petits entrepreneurs puissent planifier... Quand nous étions au pouvoir, nous nous apprêtions à aller dans cette voie. Les libéraux ont pris la relève en assurant que c'est ce qu'ils allaient faire, puis ils sont revenus sur leur promesse. Voilà qui enlève une possibilité de croissance à toutes les petites entreprises et peut-être, dans certains cas, élimine toute possibilité d'expansion — car, comme je l'ai mentionné dans mon allocution, pour les petites entreprises, la ligne est mince entre le succès et la marge de profit. En outre, les coûts supplémentaires ajoutés à tout cela par le gouvernement rendent les choses difficiles pour les petits entrepreneurs. Le gouvernement empêche la création de nombreux emplois bien rémunérés.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Long" id="9229253">

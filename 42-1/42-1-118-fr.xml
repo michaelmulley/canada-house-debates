@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9280812">
-  <StartPageNumber>7433</StartPageNumber>
+  <StartPageNumber>7431</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -115,9 +97,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4668071">Monsieur le Président, samedi dernier, à la coupe Vanier, le Rouge et Or a brillé de tous ses feux. Dans un match âprement disputé, les représentants de l'Université Laval ont triomphé par la marque de 31-26.</ParaText>
-              <ParaText id="4668072">Dirigés de main de maître par les Constantin, Ethier, Fortier, Brennan et Bertrand, les étudiants athlètes du Rouge et Or ont su surmonter l'adversité et des Dinos qui ont chèrement vendu leur peau, pour remporter leur neuvième coupe Vanier de leur histoire, un record national.</ParaText>
-              <ParaText id="4668073">Ce fut une victoire typiquement lavalloise. Tous les athlètes ont fourni leur 100 % pour contribuer à cette victoire. Des joueurs de premier plan aux réservistes, tout le monde a contribué. C'est cela force, travail et fierté. Personne n'est plus gros que l'équipe. </ParaText>
+              <ParaText id="4668071">Monsieur le Président, samedi dernier, à la Coupe Vanier, le Rouge et Or a brillé de tous ses feux. Dans un match âprement disputé, les représentants de l'Université Laval ont triomphé par la marque de 31-26.</ParaText>
+              <ParaText id="4668072">Dirigés de main de maître par les Constantin, Ethier, Fortier, Brennan et Bertrand, les étudiants athlètes du Rouge et Or ont su surmonter l'adversité et des Dinos qui ont chèrement vendu leur peau, pour remporter leur neuvième Coupe Vanier de leur histoire, un record national.</ParaText>
+              <ParaText id="4668073">Ce fut une victoire typiquement lavalloise. Tous les athlètes se sont donnés à 100 % pour contribuer à cette victoire. Des joueurs de premier plan aux réservistes, tout le monde y a contribué. C'est cela, force, travail et fierté. Personne n'est plus grand que l'équipe. </ParaText>
               <ParaText id="4668074">Je lève mon chapeau à Hugo Richard, quart-arrière et joueur du match pour une performance incroyable, à Cédric Lussier-Roy, joueur défensif du match et à Raphaël Robidoux-Bouchard pour son gros botté bloqué en fin de match.</ParaText>
               <ParaText id="4668075"> Go Laval go!</ParaText>
             </Content>
@@ -140,7 +122,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9280836">
-        <SubjectOfBusinessTitle>Les oléoducs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les ressources naturelles</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Rankin" id="9280837">
             <PersonSpeaking>
@@ -197,7 +179,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4668093">De l'Opera York et de la Basilicata Cultural Society à la chambre de commerce italienne, en passant par le club social Lucania et la fondation Vitanova, de nombreux organismes doivent leur succès à Angelo et à Grace.</ParaText>
               <ParaText id="4668094">Plus récemment, Angelo a reçu une mention élogieuse en reconnaissance de sa générosité. Pour cette raison et beaucoup d'autres, je le remercie personnellement.</ParaText>
               <ParaText id="4668095">[<I>La députée s'exprime en italien</I>:]</ParaText>
-              <ParaText id="4668096">Grazie mille. Sei molto speciale per me.</ParaText>
+              <ParaText id="4668096">
+                <I>Grazie mille. Sei molto speciale per me</I>.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -220,7 +203,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9280856">
         <Timestamp Hr="14" Mn="15">(1415)</Timestamp>
-        <SubjectOfBusinessTitle>Le Prix littéraire du Gouverneur général</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Un Prix littéraire du Gouverneur général</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Waugh" id="9280857">
             <PersonSpeaking>
@@ -432,7 +415,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4668145">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne devrait pas crier victoire trop tôt. </ParaText>
-              <ParaText id="4668146">CBC/Radio-Canada reçoit plus d'un milliard de dollars de fonds publics chaque année. Elle souhaite maintenant ajouter 400 millions de dollars à cette somme annuelle, ce qui représenterait un coût additionnel de 46 $ pour chaque homme, femme et enfant au pays, une dépense que les Canadiens ne peuvent pas se permettre. Le Canada a déjà un déficit de 30 milliards de dollars; il faut mettre un frein aux dépenses. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> est-il prêt à garantir aux familles canadiennes qu'elles n'auront pas à assumer ces coûts? Est-il prêt à dire non, comme il se doit?</ParaText>
+              <ParaText id="4668146">CBC/Radio-Canada reçoit plus de 1 milliard de dollars de fonds publics chaque année. Elle souhaite maintenant ajouter 400 millions de dollars à cette somme annuelle, ce qui représenterait un coût additionnel de 46 $ pour chaque homme, femme et enfant au pays, une dépense que les Canadiens ne peuvent pas se permettre. Le Canada a déjà un déficit de 30 milliards de dollars; il faut mettre un frein aux dépenses. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> est-il prêt à garantir aux familles canadiennes qu'elles n'auront pas à assumer ces coûts? Est-il prêt à dire non, comme il se doit?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="9280912">
@@ -470,7 +453,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213985" Type="2">L'hon. Thomas Mulcair (Outremont, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4668152">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a mené de nombreuses personnes à croire qu'il prendrait un chemin différent de celui que préconisait Stephen Harper. Il a mené de nombreuses personnes à croire qu'il n'approuverait jamais un projet énergétique en utilisant le même processus d'examen défaillant que Stephen Harper. De nombreux Canadiens se sentent trahis et bernés aujourd'hui.</ParaText>
-              <ParaText id="4668153">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> peut-il leur dire honnêtement que les choses auraient été différentes si Stephen Harper était toujours au pouvoir?</ParaText>
+              <ParaText id="4668153">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> peut-il leur dire honnêtement que les choses seraient différentes si Stephen Harper était toujours au pouvoir?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="9280922">
@@ -535,9 +518,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214127" Type="2">L'hon. Denis Lebel (Lac-Saint-Jean, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4668164">Monsieur le Président, les consultations des partenaires américains confirment deux choses importantes.</ParaText>
-              <ParaText id="4668165">En 2006, il y a eu un accord sur le bois d'oeuvre grâce à la volonté politique très ferme du premier ministre Harper afin de régler le dossier.</ParaText>
-              <ParaText id="4668166">Toutefois, le gouvernement du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'a pas eu la volonté très ferme de renouveler l'accord sur le bois d'oeuvre, ce qui nous a placé dans une position de faiblesse.</ParaText>
-              <ParaText id="4668167">Même si le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'a pas respecté sa parole pour régler le dossier de l'accord sur le bois d'oeuvre dans les 100 jours suivant la visite du président Obama, peut-il le régler aujourd'hui?</ParaText>
+              <ParaText id="4668165">En 2006, il y a eu un accord sur le bois d'oeuvre grâce à la volonté politique très ferme du premier ministre Harper de régler le dossier.</ParaText>
+              <ParaText id="4668166">Toutefois, le gouvernement du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'a pas eu la volonté très ferme de renouveler l'accord sur le bois d'oeuvre, ce qui nous a placés dans une position de faiblesse.</ParaText>
+              <ParaText id="4668167">Même si le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'a pas respecté sa parole et réglé le dossier de l'accord sur le bois d'oeuvre dans les 100 jours suivant la visite du président Obama, peut-il le régler aujourd'hui?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Freeland" id="9280936">
@@ -850,7 +833,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9281004">
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme O'Connell" id="9281003">
             <PersonSpeaking>
@@ -894,7 +877,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214025" Type="2">M. Alupa Clarke (Beauport—Limoilou, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4668253">Monsieur le Président, hier, j'ai posé une question très simple à la <Affiliation DbId="214324" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation>. Elle ne m'a pas répondu et je vais donc réitérer ma question. </ParaText>
-              <ParaText id="4668254">Son gouvernement a pris la décision controversée d'acheter 18 avions de chasse Super Hornet désuets. Le mandat de la ministre est de faire en sorte que les contrats scellés par le gouvernement canadien soient le plus rentables possible et au meilleur prix pour l'ensemble des contribuables.</ParaText>
+              <ParaText id="4668254">Son gouvernement a pris la décision controversée d'acheter 18 avions de chasse Super Hornet désuets. Le mandat de la ministre est de faire en sorte que les contrats scellés par le gouvernement canadien soient les plus rentables possible et au meilleur prix pour l'ensemble des contribuables.</ParaText>
               <ParaText id="4668255">La ministre peut-elle enfin nous confirmer quel est le prix unitaire des Super Hornet? Si elle ne peut pas le faire, on doit conclure qu'elle est allée de l'avant sans connaissance de cause.</ParaText>
             </Content>
           </Intervention>
@@ -1172,7 +1155,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214326" Type="4">L’hon. Chrystia Freeland (ministre du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4668320">Monsieur le Président, nous défendrons les intérêts de notre industrie avec vigueur et fierté. </ParaText>
-              <ParaText id="4668321">La semaine passée, André Tremblay, le président-directeur général du Conseil de l'industrie forestière du Québec, a dit que notre gouvernement faisait, et je cite, « un excellent travail ».</ParaText>
+              <ParaText id="4668321">La semaine passée, André Tremblay, le président-directeur général du Conseil de l'industrie forestière du Québec, a dit que notre gouvernement faisait « un excellent travail ».</ParaText>
               <ParaText id="4668322">Les premiers ministres des provinces et territoires ont aussi, et je cite, « salué le travail accompli par le gouvernement fédéral pour tenter de conclure une nouvelle entente sur le bois d'oeuvre ».</ParaText>
               <ParaText id="4668323">Nous cherchons un bon accord pour le Canada, mais pas n'importe lequel.</ParaText>
             </Content>
@@ -1290,13 +1273,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4668344">Je vois que la leader parlementaire de l'opposition invoque le Règlement.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9281098">
-        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Les travaux de la Chambre</SubjectOfBusinessQualifier>
-        <CatchLine>Recours au Règlement</CatchLine>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9281099">
             <PersonSpeaking>
               <Affiliation DbId="214460" Type="2">L’hon. Candice Bergen (Portage—Lisgar, PCC)</Affiliation>: </PersonSpeaking>
@@ -2767,7 +2743,7 @@ La Chambre reprend l'étude, interrompue le
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4668729">Malheureusement, il vous reste environ une minute et 12 secondes, puis ce sera la fin du débat. </ParaText>
+              <ParaText id="4668729">Malheureusement, il reste environ une minute et 12 secondes au député, puis ce sera la fin du débat. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Duguid" id="9283175">

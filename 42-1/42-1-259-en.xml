@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9955817">
-  <StartPageNumber>1</StartPageNumber>
+  <StartPageNumber>16871</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -435,9 +435,9 @@
               <ParaText id="5251118">The hon. Minister of National Defence has the floor. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Sajjan" id="9955924">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Sajjan" id="9955924">
             <PersonSpeaking>
-              <Affiliation DbId="214311" Type="4">Hon. Harjit S. Sajjan (Minister of National Defence, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214311" Type="4">Hon. Harjit S. Sajjan</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5251119">Mr. Speaker, let me be extremely clear. We have absolute zero tolerance for any type of behaviour like this, and that is exactly what we are going to do. We have committed to this in our defence policy, and we are going to get the job done. </ParaText>
             </Content>
@@ -828,7 +828,7 @@
               <Affiliation DbId="233812" Type="4">Hon. Seamus O'Regan (Minister of Veterans Affairs, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5251207">Mr. Speaker, we are committed to the well-being of veterans and their families. We have kept our promise.</ParaText>
-              <ParaText id="5251208">The new lifetime pension option is a monthly non-taxable benefit for life that recognizes pay and suffering and provides income replacement up to 90% of a soldier's pre-release salary indexed annually for life for those who need it. </ParaText>
+              <ParaText id="5251208">The new lifetime pension option is a monthly non-taxable benefit for life that recognizes pain and suffering and provides income replacement up to 90% of a soldier's pre-release salary indexed annually for life for those who need it. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Paul-Hus" id="9956066">
@@ -1042,7 +1042,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9956131">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canada Revenue Agency</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Arseneault" id="9956130">
             <PersonSpeaking>
@@ -1065,7 +1065,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9956138">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Fisheries and Oceans</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canadian Coast Guard</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Gladu" id="9956137">
             <PersonSpeaking>
@@ -1092,9 +1092,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214600" Type="2">Hon. Hunter Tootoo (Nunavut, Ind.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5251258">Mr. Speaker, </ParaText>
-              <ParaText id="5251259">[<I>Member spoke in Inuktitut .</I>]</ParaText>
-              <ParaText id="5251260">[<I>English</I>]</ParaText>
+              <ParaText id="5251258">Mr. Speaker, <I>qujannamiik</I>.</ParaText>
               <ParaText id="5251261">My question is for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. Round table meetings are currently taking place to discuss Canada's new Arctic policy framework. I believe that this new policy will have a huge effect on the Government of Nunavut and will influence our capabilities for years to come. It is for this reason that the Government of Nunavut must be considered a true partner. Unilateral decisions like last year's moratorium on Arctic oil and gas are not acceptable and cannot be how Arctic policy unfolds. </ParaText>
               <ParaText id="5251262">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> ensure that the Government of Nunavut is at the forefront of any policy decisions?</ParaText>
             </Content>
@@ -1108,9 +1106,12 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9958358">
-        <SubjectOfBusinessTitle>Royal Assent</SubjectOfBusinessTitle>
-        <CatchLine>Royal Assent</CatchLine>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="9956309" Rubric="OralQuestionPeriod">
+      <OrderOfBusinessTitle>ROYAL ASSENT</OrderOfBusinessTitle>
+      <CatchLine>Royal Assent</CatchLine>
+      <SubjectOfBusiness>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="9956149">
             <PersonSpeaking>
@@ -1165,9 +1166,9 @@
       <SubjectOfBusiness id="9956151">
         <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Point of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Oral Questions</SubjectOfBusinessQualifier>
-        <CatchLine>Point of Order</CatchLine>
+        <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Marcil" id="9956152">
             <PersonSpeaking>
@@ -1180,7 +1181,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5251275">I thank the hon. member for his apology, and I believe he has another point of order.</ParaText>
+              <ParaText id="5251275">I thank the hon. member for his apology.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1394,7 +1395,11 @@
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5251312">Mr. Speaker, I ask that all questions be allowed to stand. <I /></ParaText>
+              <ParaText id="5251312">Mr. Speaker, I ask that all questions be allowed to stand. </ParaText>
+              <ParaText id="5309378">
+                <B>The Speaker:</B> Is that agreed?</ParaText>
+              <ParaText id="5309379">
+                <B>Des voix:</B> Agreed.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1765,7 +1770,7 @@
               <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
               <ParaText id="5251448">When it comes to publishing the details of a fundraising event five days in advance, the lack of that information is not what has been driving Canadians away from the political process progressively more and more over the last 30 to 40 years. It was not that they did not get the five-day notice on the fundraiser. It was not that it did not apply to the leaders of political parties that are not currently in government. That is not what Canadians were calling for when they said that they wanted meaningful change in order to feel that the political process was working for them. However, that is all that is offered in the bill. That is fine. It is a step in the right direction. I do not have a problem supporting it. It is not that it is a bad measure because it is not enough, but it really does not meet the expectation that was set in the minds of Canadian voters for improving the electoral system.</ParaText>
               <ParaText id="5251449">Where are we four years from now regardless of who is elected as government in the next election? Well, we are in the same bloody place we were over two years ago when Canadians were dissatisfied and electoral reform was an election issue. How is it that we went through a whole election where that was a key election issue and there were key promises made on the part of the now governing party, and we end up in the same place with the same complaints and the same feelings of dissatisfaction? That is the problem with the bill. It is not a reason not to vote for it, but it is a real problem with the bill and it is a problem for Canadians who were rightly fed up with the status quo.</ParaText>
-              <ParaText id="5251450">To some extent this does not just defend the status quo, but it actually legitimizes some of the worst aspects of the status quo that the Liberals have professionalized to an extent that no one foresaw or expected in terms of cash for access fundraising. Politicians of all stripes have always done fundraising and members of the governing party have always done fundraising. However, it was not until this Parliament that it became and issue. Believe me, it is not because we had more charitable opposition parties in former Parliaments that cash for access was not an issue; it is because there was not the same evidence of the professionalization by government of selling access to their ministers. </ParaText>
+              <ParaText id="5251450">To some extent this does not just defend the status quo, but it actually legitimizes some of the worst aspects of the status quo that the Liberals have professionalized to an extent that no one foresaw or expected in terms of cash for access fundraising. Politicians of all stripes have always done fundraising and members of the governing party have always done fundraising. However, it was not until this Parliament that it became an issue. Believe me, it is not because we had more charitable opposition parties in former Parliaments that cash for access was not an issue; it is because there was not the same evidence of the professionalization by government of selling access to their ministers. </ParaText>
               <ParaText id="5251451">That is why we did not hear about the term “cash for access” even under the Harper Conservatives. It was not because there was a benevolent opposition party that was willing to let the Conservatives get away with that. Believe me, if they had been doing that, the NDP as the official opposition would have been calling attention to it and the Liberals as the third party would have been calling attention to it too. I disagree with my Conservative colleagues on many things, but I am not going to make up that they were doing something that they were not doing.</ParaText>
               <ParaText id="5251452">Cash for access was not a theme of the Canadian political discourse until these particular Liberals came to power. There is a reason for it. Nobody was as organized in seeking out members of the Canadian business community or different communities that would have an interest in getting the ear of a minister until the current government was elected and members made a science of it. They recruited those people and offered them special time in smaller venues at a high price in order to get the ear of ministers. That is wrong. I do not care what the law says, that is wrong.</ParaText>
               <ParaText id="5251453">To be going through the motions of passing a bill on electoral financing and fundraising and not address that issue, not by making that practice, which is a repugnant practice, more transparent is not what we need to do. It is a practice we need to put an end to. To the extent that we do not see any sign from the government benches that the repugnant practice of selling access to ministers is not going to end as a result of Bill <Document DbId="8978368" Type="3">C-50</Document>, there are serious problems with the bill. </ParaText>
@@ -2036,7 +2041,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214436" Type="2">Mr. Scott Simms (Coast of Bays—Central—Notre Dame, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5251575">Madam Speaker, the member quoted quite a bit in his speech, and I have one for him as well. However, I want to touch on the fact that the transparency issue is one that is brought froward in Bill <Document DbId="8978368" Type="3">C-50</Document>, and whether one calls it a positive first step or a step in the direction, it is simply just that. It baffles me that the member would not vote for this.</ParaText>
+              <ParaText id="5251575">Madam Speaker, the member quoted quite a bit in his speech, and I have one for him as well. However, I want to touch on the fact that the transparency issue is one that is brought forward in Bill <Document DbId="8978368" Type="3">C-50</Document>, and whether one calls it a positive first step or a step in the direction, it is simply just that. It baffles me that the member would not vote for this.</ParaText>
               <ParaText id="5251576">I mentioned before in this debate how Conservative ministers used to have fundraisers as well. I mean, that is politics 101 in this country. The executive sits within the House of Commons. Therefore, they have to get elected just like the rest of us.</ParaText>
               <ParaText id="5251577">The Conservatives also claim that when they found out or when it was reported in the media that stakeholders were at some of the ministers' fundraisers, they decided to back away. It is almost like they were saying one's hand was caught in the cookie jar, when in fact they were caught reaching for that very same cookie jar. I find that baffling.</ParaText>
               <ParaText id="5251578">The member mentioned the success of Conservative money raising as opposed to Liberal money raising. Here is what was said by a Conservative member during this debate:</ParaText>
@@ -2070,7 +2075,7 @@
               <Affiliation DbId="231675" Type="2">Mr. Bob Benzen</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5251585">Madam Speaker, I think that there are different ways to get donations. Yes, every Canadian citizen could write a cheque for $50 and send it in, no problem, but if the way a party is getting money is by giving personal time with the Prime Minister or a cabinet minister for 10 minutes or half an hour, then that is special access. This is not sending in a cheque for $100.</ParaText>
-              <ParaText id="5251586">The governing party could easily get tons of money just in simple cheques. Nobody asks questions and there is no personal time with these people. However, when one has access to the most powerful person in Canada, the Prime Minister, because one is a wealthy citizen and has given cash, it can create issues that we have to be very concerned about, because it is unequal access. It is extra access, and one could easily influence the Prime Minster's decisions with that. </ParaText>
+              <ParaText id="5251586">The governing party could easily get tons of money just in simple cheques. Nobody asks questions and there is no personal time with these people. However, when one has access to the most powerful person in Canada, the Prime Minister, because one is a wealthy citizen and has given cash, it can create issues that we have to be very concerned about, because it is unequal access. It is extra access, and one could easily influence the Prime Minister's decisions with that. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Diotte" id="9957838">
@@ -3177,7 +3182,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5251622">The House will now proceed to the taking of the deferred recorded division on Motion No. 148 under private members' business, in the name of Mr. Di Iorio.</ParaText>
+              <ParaText id="5251622">The House will now proceed to the taking of the deferred recorded division on Motion No. 148 under private members' business.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

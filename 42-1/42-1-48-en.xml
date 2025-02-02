@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="8893829">
   <StartPageNumber>2853</StartPageNumber>
   <DocumentTitle>
@@ -205,7 +186,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214480" Type="2">Mr. Rodger Cuzner (Cape Breton—Canso, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4320634">Mr. Speaker, like all other members in this House, I continue to watch the events unfold in Fort McMurray. I had the great pleasure to make McMurray my home for almost 10 years. I have always bristled at the impression some Canadians have of the Fort, seeing it as a little more than a national ATM. </ParaText>
+              <ParaText id="4320634">Mr. Speaker, like all other members in this House, I continue to watch the events unfold in Fort McMurray. I had the great pleasure to make McMurray my home for almost 10 years. I have always bristled at the impression some Canadians have of the Fort, seeing it as little more than a national ATM. </ParaText>
               <ParaText id="4320635">Canadians who have had the chance to spend time there know it is an absolutely fabulous community. It is a community that has welcomed people from across this country and from all corners of the world. It has built a progressive, dynamic city, with amenities that are envied by cities much larger. It is a community that has been built with a pioneer spirit by caring, compassionate people, making it a great place to live and a wonderful place to raise a family.</ParaText>
               <ParaText id="4320636">I spoke with a number of friends last night who were fleeing the city. The tension and fear in their voices was obvious and understandable. For decades, the community of Fort McMurray has been there for thousands of Canadians.</ParaText>
               <ParaText id="4320637">Whenever this ordeal ends, the people of Fort Mac have to know that this government, and indeed this Parliament, will stand with them as they rebuild this great community.</ParaText>
@@ -269,7 +250,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8893911">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Fire in Fort McMurray</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Fort McMurray Fire</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Berthold" id="8893912">
             <PersonSpeaking>
@@ -294,7 +275,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4320659">Mr. Speaker, tonight, sundown marks the beginning of Yom HaShoah, Holocaust Remembrance Day, marked by Jews around the world. </ParaText>
               <ParaText id="4320660">In York Centre, which has one of the largest populations of Holocaust survivors in Canada, remembrance ceremonies will be held in schools, synagogues, and community centres. Every year, we must continue to remember and reflect on one of history's darkest periods: the systematic, state-sponsored murder of six million Jews during the Second World War. </ParaText>
-              <ParaText id="4320661">Each and every one of us must consider the unfathomable suffering and loss of life, the deep-seeded hatred from which it took root, and the incredible strength, courage, and resilience of those who survived.</ParaText>
+              <ParaText id="4320661">Each and every one of us must consider the unfathomable suffering and loss of life, the deep-seated hatred from which it took root, and the incredible strength, courage, and resilience of those who survived.</ParaText>
               <ParaText id="4320662">Our remembrance is an act of rejection of the evil that fuelled an attempt to extinguish an entire people, an evil we all bear a collective responsibility to ensure is never forgotten.</ParaText>
             </Content>
           </Intervention>
@@ -426,7 +407,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4320691"> The fact is that Canadians chose an option that would invest in our future as opposed to make cuts to balance the budget at all costs, and that is what we are doing. We are investing in the future of Canada, investing in growth to help the middle class.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="8893983">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="8893944">
             <PersonSpeaking>
               <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
@@ -1047,7 +1033,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214305" Type="4">Hon. Stéphane Dion (Minister of Foreign Affairs, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4320847">Mr. Speaker, absolutely not, on the contrary. We are taking a very different approach.</ParaText>
-              <ParaText id="4320848">We will be frank with the governments with whom we disagree. We are also not going to practice empty-chair politics. We must get involved in the world if we hope to make progress. The world we are living in is not very nice and Canada has to help make it a better place.</ParaText>
+              <ParaText id="4320848">We will be frank with the governments with whom we disagree. We are also not going to practise empty-chair politics. We must get involved in the world if we hope to make progress. The world we are living in is not very nice and Canada has to help make it a better place.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -1675,7 +1661,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That, in relation to Bill <Document DbId="8177165" Type="3">C-14, An Act to amend the Criminal Code and to make related amendments to other Acts (medical assistance in dying)</Document>, not more than one further sitting day shall be allotted to the consideration at second reading stage of the Bill;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4320911">
+              <ParaText id="4320910">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> and</QuotePara>
                 </Quote>
@@ -1700,7 +1686,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214501" Type="2">Mr. Andrew Scheer (Regina—Qu'Appelle, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4320915">Mr. Speaker, I want to pre-emptively address what I anticipate might be coming from the government side about the use of this procedural tactic, and I hope we can get down to the actual substance of the bill, debate on which is now being shut down. </ParaText>
-              <ParaText id="4320916">What ever merit there may be for a government at some point or another to try to allocate time, this bill is of such an important nature. It is such a monumental shift for Canadian society. Many members wanted to speak to the bill. We had tried to find ways that we could accommodate that, while at the same time not unduly delaying a response to a court decision.</ParaText>
+              <ParaText id="4320916">Whatever merit there may be for a government at some point or another to try to allocate time, this bill is of such an important nature. It is such a monumental shift for Canadian society. Many members wanted to speak to the bill. We had tried to find ways that we could accommodate that, while at the same time not unduly delaying a response to a court decision.</ParaText>
               <ParaText id="4320917">I know there are many different views on all sides of the House on this. I would like to ask the minister why she felt it was necessary, after only two complete days of debate, that we would now find ourselves shutting down debate, preventing members of Parliament to express the views of their constituents or their own conscience on this very important bill. </ParaText>
             </Content>
           </Intervention>
@@ -1795,7 +1781,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4320945">Mr. Speaker, my question is to the Minister of Justice. </ParaText>
               <ParaText id="4320946">I have heard the official opposition suggest that the deadline of June 6 imposed by the Supreme Court is an arbitrary one and is wondering why the government has not gone back to seek a further extension. </ParaText>
-              <ParaText id="4320947">Of course, the government originally sought a six month extension of the suspension of the offending sections of the Criminal Code but was only granted a four month extension.</ParaText>
+              <ParaText id="4320947">Of course, the government originally sought a six-month extension of the suspension of the offending sections of the Criminal Code but was only granted a four-month extension.</ParaText>
               <ParaText id="4320948">Does the minister believe that there is actually any substantive merit to the new legal issues that would actually allow the Supreme Court to revisit this particular issue?</ParaText>
             </Content>
           </Intervention>
@@ -1975,9 +1961,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321000">If the minister is going to base her arguments by spewing lies in this House of Commons, then she should absolutely be very careful in ensuring she has the facts before she makes assertions that are untrue.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. LeBlanc" id="8894397">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. LeBlanc" id="8894397">
             <PersonSpeaking>
-              <Affiliation DbId="214317" Type="4">Hon. Dominic LeBlanc (Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214348" Type="2">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4321001">Mr. Speaker, I look to your direction, but my colleague from <Affiliation DbId="214228" Type="2">Milton</Affiliation> just accused an hon. member of this House of spewing lies in the House. If somebody should apologize, it is that member, for such an untrue statement.</ParaText>
             </Content>
@@ -2010,7 +1996,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214264" Type="2">Mr. Peter Julian (New Westminster—Burnaby, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4321007">Mr. Speaker, I just want to quote both the member for <Affiliation DbId="213924" Type="2">Winnipeg North</Affiliation> and of course the<Affiliation DbId="214673" Type="18">Parliamentary Secretary to the Minister of Justice and Attorney General of Canada</Affiliation>, because they revealed what their actual feelings are about what the government is in the process of doing.</ParaText>
+              <ParaText id="4321007">Mr. Speaker, I just want to quote both the member for <Affiliation DbId="213924" Type="2">Winnipeg North</Affiliation> and of course the <Affiliation DbId="214673" Type="18">Parliamentary Secretary to the Minister of Justice and Attorney General of Canada</Affiliation>, because they revealed what their actual feelings are about what the government is in the process of doing.</ParaText>
               <ParaText id="4321008">Just last year, the member for <Affiliation DbId="213924" Type="2">Winnipeg North</Affiliation> said:</ParaText>
               <ParaText id="4321009">
                 <Quote>
@@ -2502,7 +2488,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321059">I strongly believe that this legislation provides an opportunity for the federal government to facilitate a collaborative approach, which includes provincial and territorial consultation. Specifically, the bill's own preamble clearly states that the law must apply consistently across all of Canada. As such, this bill advocates for a national framework in order to avoid variations from province to province.</ParaText>
               <ParaText id="4321060">As we all know, the Quebec government has in many ways laid the groundwork for medical assistance in dying with their own provincial legislation. However, while provinces will continue to act as key legislative and administrative partners in medical assistance in dying, I think we can all agree that establishing a pan-Canadian, national approach was crucial.</ParaText>
               <ParaText id="4321061">We should continue to work with the provinces and territories to explore mechanisms to coordinate end-of-life care for patients who want access to medical assistance in dying, thus avoiding crucial gaps in access and delivery.</ParaText>
-              <ParaText id="4321062"> Furthermore, in keeping with our government's commitment to evidence-based decision making, we will engage with the provinces and territories to support the development of a pan-Canadian monitoring system to collect and analyze data, monitor trends, and publicly report on medical assistance in dying.</ParaText>
+              <ParaText id="4321062"> Furthermore, in keeping with our government's commitment to evidence-based decision-making, we will engage with the provinces and territories to support the development of a pan-Canadian monitoring system to collect and analyze data, monitor trends, and publicly report on medical assistance in dying.</ParaText>
               <ParaText id="4321063">This two-way relationship is important. In other words, Bill <Document DbId="8177165" Type="3">C-14</Document> represents the beginning of a partnership on medical assistance in dying. Our provincial colleagues, informed by the framework we have provided, can now begin the process of implementing their own medical assistance in dying regimes. Quebec, of course, has already done so, while Ontario and most other provinces have begun the process through the creation of a PT advisory groups on physician-assisted dying.</ParaText>
               <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
               <ParaText id="4321064">Allow me now to shift to the second element I would like to address today, the topic of the safeguards included within Bill <Document DbId="8177165" Type="3">C-14</Document>.</ParaText>
@@ -2562,7 +2548,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214007" Type="2">Mr. Ali Ehsassi</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4321086">Mr. Speaker, I fully agree with the member that this a very complex issue. What we do see in the legislation is a very balanced approach. Of course, every single individual in the House understands that certain issues that may have been of concern to them were not fully addressed. However, that is what a national legislation is all about.</ParaText>
+              <ParaText id="4321086">Mr. Speaker, I fully agree with the member that this is a very complex issue. What we do see in the legislation is a very balanced approach. Of course, every single individual in the House understands that certain issues that may have been of concern to them were not fully addressed. However, that is what a national legislation is all about.</ParaText>
               <ParaText id="4321087">On the issue of having a sensible approach to debating this very complex and important issue in the House, I have heard for several days that every single member who would like to speak has been afforded that opportunity. In fact, it would appear to me, since I was watching this debate very closely, that there were numerous members who had more than one occasion to address issues that were of concern to them.</ParaText>
               <ParaText id="4321088">Lastly, allow me to inform you that of course this will now be the subject of input as it goes before committee, and it will be returning to the House. </ParaText>
             </Content>
@@ -2669,7 +2655,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
               <ParaText id="4321138">The Special Joint Committee on Physician-Assisted Dying spent considerable time listening to expert testimony and brought forward 21 recommendations in a legislative response to the Carter decision.</ParaText>
               <ParaText id="4321139"> The very first question that needs to be answered on Bill <Document DbId="8177165" Type="3">C-14</Document> is this: Does this legislation comply with the Carter decision? The special joint committee heard from some advocates and experts who stated that the bill would fall short. This could result in more lengthy court challenges, and more importantly, individuals, families, and medical professionals left navigating incredibly difficult decisions while operating in a legal gray area. In my view, to allow this situation to occur would mean nothing less than a failure of Parliament.</ParaText>
-              <ParaText id="4321140">Kay Carter, one of the two women involved in the Supreme Court of Canada case, suffered excruciating and debilitating pain which left her wheelchair bound and unable to feed herself. Fully mentally and legally competent, and possessing a fierce independence, she sought the right to choose medical assistance in dying if her suffering became unbearable. However, her condition was not considered fatal, and because the final criteria in Bill <Document DbId="8177165" Type="3">C-14</Document> for undergoing physician-assisted death is “natural death has become reasonably foreseeable”, many experts have noted that Kay Carter would have been denied access under Bill C-14.</ParaText>
+              <ParaText id="4321140">Kay Carter, one of the two women involved in the Supreme Court of Canada case, suffered excruciating and debilitating pain which left her wheelchair-bound and unable to feed herself. Fully mentally and legally competent, and possessing a fierce independence, she sought the right to choose medical assistance in dying if her suffering became unbearable. However, her condition was not considered fatal, and because the final criteria in Bill <Document DbId="8177165" Type="3">C-14</Document> for undergoing physician-assisted death is “natural death has become reasonably foreseeable”, many experts have noted that Kay Carter would have been denied access under Bill C-14.</ParaText>
               <ParaText id="4321141">Surely we must question how it could be if Bill <Document DbId="8177165" Type="3">C-14</Document> was meant to address the Carter decision, that Kay Carter and others like her, who are legally competent and suffering from serious and incurable but non-fatal conditions, would not be granted that very right under this new law.</ParaText>
               <ParaText id="4321142">My question for the government is quite simple: What is behind the decision to use such different terminology than was used in the court ruling?</ParaText>
               <ParaText id="4321143">Bill <Document DbId="8177165" Type="3">C-14</Document> is also silent on a practitioner's right to conscientious objection. Presumably this means the government is leaving it up to the provinces to work that out. Respectfully, the Supreme Court of Canada has tasked the federal government with crafting these laws. Leaving out something as important as practitioners having the right to conscientious objection and failing to meet the test of the Carter ruling, in my view, is a failure of Parliament to live up to its responsibility.</ParaText>
@@ -3216,8 +3202,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321231">
                 <I>And five or more members having risen:</I>
               </ParaText>
-              <ParaText id="4321232">
-                <B>The Speaker:</B> Call in the members.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3559,7 +3543,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="7">Motion agreed to</ProceduralText>
-              <ParaText id="4321234">I declare the motion carried.</ParaText>
+              <ParaText id="4321234">I declare the motion carried. Accordingly, the bill is referred to the Standing Committee on Justice and Human Rights.</ParaText>
               <ProceduralText TocType="TCC" id="8">(Bill read the second time and referred to a committee) </ProceduralText>
               <ParaText id="4321235">
                 <B>The Speaker:</B> I remind hon. members that the Standing Orders provide that members are not to make noise during a vote.</ParaText>
@@ -3639,7 +3623,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321266">Madam Speaker, as my hon. colleague points out in his speech, it was the NDP that first introduced in the House a proposal to create a national strategy for dementia.</ParaText>
               <ParaText id="4321267">In 2012, former NDP MP <Affiliation DbId="128499" Type="2">Claude Gravelle</Affiliation>, the great member for Nickel Belt at that time, introduced Bill <Document DbId="6253710" Type="4">C-356</Document>, prescribing a national dementia strategy in Parliament. That bill provided a comprehensive and cutting-edge plan for a national strategy to deal with Alzheimer's and other dementia.</ParaText>
               <ParaText id="4321268">Unfortunately, that bill was defeated at second reading in May 2015 by a single vote; 140 to 139. The bill was opposed by a majority of Conservative MPs, Bloc MPs, and critically, as it turned out, a single Liberal MP who failed to stand for the vote.</ParaText>
-              <ParaText id="4321269">I must mention that, inexplicably, the member for <Affiliation DbId="214514" Type="2">Niagara Falls</Affiliation>, the sponsor of the bill before the House today, voted against the the NDP bill to establish a national plan for dementia. I wonder if the member could stand in the House and explain to Canadians why he opposed a bill that would have brought such a great plan to Canadians a year earlier than his bill.</ParaText>
+              <ParaText id="4321269">I must mention that, inexplicably, the member for <Affiliation DbId="214514" Type="2">Niagara Falls</Affiliation>, the sponsor of the bill before the House today, voted against the NDP bill to establish a national plan for dementia. I wonder if the member could stand in the House and explain to Canadians why he opposed a bill that would have brought such a great plan to Canadians a year earlier than his bill.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Nicholson" id="8895328">
@@ -3660,11 +3644,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321275">I would like to commend the hon. member for <Affiliation DbId="214514" Type="2">Niagara Falls</Affiliation>. We were speaking earlier today. He has not had opportunities to bring forward private members' bills as a member of government for many years. I am both pleased and proud to be part of this effort he has engaged in. Sometimes it is the right time to do the right bill, and I believe he has spotted that this is the right time to do the right bill.</ParaText>
               <ParaText id="4321276">As he did, I also want to acknowledge the tremendous work of the former member for Nickel Belt, Claude Gravelle. He had inspiration, tenacity and he did everything right in his bill for that time. However, it did not pass. We now have a chance to have a better bill to ensure that Canada has the appropriate strategy to deal with dementia and Alzheimer's.</ParaText>
               <ParaText id="4321277">I want to begin by talking very personally about my friend and my former administrator when I was a United Church minister at Eglinton St. George's United Church in Toronto. Her name is Marian Ritchie. While she was working with us in the Church, she recognized that there were many people either facing both dementia in their own lives or were caregivers for people who were suffering either early or even advanced signs of dementia.</ParaText>
-              <ParaText id="4321278"> Marian decided to chronicle the life she had with her husband Edwin and she wrote a book called <I>The Long Way Home</I>. Similar to the <I>The Long Goodbye</I>, <I>The Long Way Home</I> chronicles Edwin's decline from simple mistakes in grammar or vocabulary to eventually having a complete change in personality, not recognizing his family, his friends and not being able to engage in every day life.</ParaText>
+              <ParaText id="4321278"> Marian decided to chronicle the life she had with her husband Edwin and she wrote a book called <I>The Long Way Home</I>. Similar to the <I>The Long Goodbye</I>, <I>The Long Way Home</I> chronicles Edwin's decline from simple mistakes in grammar or vocabulary to eventually having a complete change in personality, not recognizing his family, his friends and not being able to engage in everyday life.</ParaText>
               <ParaText id="4321279">This book was profoundly moving for me as it was non-medical and it was not from a professional. It was a book simply written to inspire, to comfort and to encourage people who had family members suffering from Alzheimer's disease.</ParaText>
               <ParaText id="4321280">I have not had the opportunity to do something legislatively about Alzheimer's. I am so pleased the member for <Affiliation DbId="214514" Type="2">Niagara Falls</Affiliation> has given me and every member of the House the opportunity to come together to form a national strategy on dementia and Alzheimer's, to ensure that we have a unified approach to this disease and to begin to make important steps that make a difference in the lives of people like Edwin and Marian.</ParaText>
-              <ParaText id="4321281">There is a real cost to dementia, an individual cost to families as well as a cost to society. Right now it is estimated that over 700,000 people in Canada have dementia, including Alzheimer's. That is expected to double in the next 20 as our population ages. Even though age, in and of itself, is not the cause of dementia, it is part of it. There are other root causes for dementia, but we still have research that is absolutely necessary so we can begin to understand how we can address this problem. </ParaText>
-              <ParaText id="4321282">As everyone in this chamber knows, there is no cure for dementia. We continue to wait for new drugs, new treatment and new understanding of the brain itself. </ParaText>
+              <ParaText id="4321281">There is a real cost to dementia, an individual cost to families as well as a cost to society. Right now it is estimated that over 700,000 people in Canada have dementia, including Alzheimer's. That is expected to double in the next 20 years as our population ages. Even though age, in and of itself, is not the cause of dementia, it is part of it. There are other root causes for dementia, but we still have research that is absolutely necessary so we can begin to understand how we can address this problem. </ParaText>
+              <ParaText id="4321282">As everyone in this chamber knows, there is no cure for dementia. We continue to wait for new drugs, new treatments and new understandings of the brain itself. </ParaText>
               <ParaText id="4321283">I would also like to pay great tribute to the Alzheimer's Society of Canada. It is one of several patient organizations and health charities that is working on this important issue. I want to name two people, Mimi Lowi-Young, the CEO, and Debbie Benczkowski, the number two and the one who really runs the operation. These two women have been advocates for people with this disease for many years. I think tonight in the chamber we recognize that often people who work in health charities and work with patients are driving some of the things on which Parliament is often behind.</ParaText>
               <ParaText id="4321284">Last year, the World Health Organization declared that dementias were a public health priority requiring international action. This past October, health ministers at the Pan American Health Organization approved an action plan in response to the predicted rise in dementia cases across the hemisphere over the next 20 years. Among other actions, the Pan American plan encourages member countries, including Canada, to improve investment in treatment for dementias. </ParaText>
               <Timestamp Hr="18" Mn="55">(1855)</Timestamp>
@@ -3700,7 +3684,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">By implementing a strategy, we will be able to enhance research efforts, raise awareness about the disease, provide support for people with dementia and their care givers, identify best practices for care and improve surveillance of the disease.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4321306">Particularly as Canada's population ages, we must prepare our health care systems and our communities for the inevitable rise in the number of Canadians suffering from dementia. To paraphrase Tommy Douglas, the father of medicare and a New Democrat, “Only through the practice of preventative medicine will we keep health care costs from becoming..excessive..”, and the need is pressing.</ParaText>
+              <ParaText id="4321306">Particularly as Canada's population ages, we must prepare our health care systems and our communities for the inevitable rise in the number of Canadians suffering from dementia. To paraphrase Tommy Douglas, the father of medicare and a New Democrat, “Only through the practice of preventative medicine will we keep health care costs from becoming...excessive”, and the need is pressing.</ParaText>
               <ParaText id="4321307">Recently, the former head of the Canadian Medical Association, Dr. Chris Simpson said:</ParaText>
               <ParaText id="4321308">
                 <Quote>
@@ -3739,7 +3723,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321326">Currently, 747,000 Canadians have some form of dementia. This number is expected to nearly double, to 1.4 million in less than 20 years. Three out of four Canadians, being 74%, know someone living with dementia. As Canada's population ages, the number of Canadians who are diagnosed with these diseases is expected to double within a generation.</ParaText>
               <ParaText id="4321327"> Research, collaboration, and partnership remain the key to finding a cure. An early diagnosis and support for treatment can lead to positive health outcomes for people with any form of dementia. Early diagnosis also has a positive impact on the family and friends who provide care for them. The Government of Canada, in consultation with the ministers responsible for the delivery of health services in each province and territory, should encourage the development of a national strategy for the care of people living with Alzheimer's disease or other forms of dementia, as well as for their families and caregivers.</ParaText>
               <ParaText id="4321328">What is dementia? Dementia is a difficult disease, but it does not define the person who has it. People with dementia are people first. They can lead happy and vital lives for a long time, especially when the right care, support, and understanding are in place. Timely diagnosis is important. It opens the door to treatments, connects people with the disease, and connects their families with helpful resources like the Alzheimer Society. While there is no guarantee, Canadians can reduce their risk of dementia by eating a heart-healthy diet, doing more physical activity, trying and learning new things, staying social, quitting smoking, and watching their vitals.</ParaText>
-              <ParaText id="4321329">Who is at risk? The answer is largely seniors. While dementia is not a part of growing old, age is still the biggest risk factor. After 65 years of age, the risk doubles every 5 years. Seniors represent the fastest growing segment of the Canadian population. Today, one in six Canadians is a senior. In 14 years, one in four Canadians will be a senior. That has already happened in my own riding.</ParaText>
+              <ParaText id="4321329">Who is at risk? The answer is largely seniors. While dementia is not a part of growing old, age is still the biggest risk factor. After 65 years of age, the risk doubles every five years. Seniors represent the fastest-growing segment of the Canadian population. Today, one in six Canadians is a senior. In 14 years, one in four Canadians will be a senior. That has already happened in my own riding.</ParaText>
               <Timestamp Hr="19" Mn="15">(1915)</Timestamp>
               <ParaText id="4321330">Dementia also occurs in people in their forties and fifties, in their most productive years. As of 2008, there were 71,000 Canadians age 65 and younger and 50,000 Canadians age 50 and under living with dementia. </ParaText>
               <ParaText id="4321331">What is the impact on families and the economy? For every person with dementia, two or more family members provide direct care. The progression of dementia varies from person to person. In some cases, it can last up to 20 years. Because of its progression, caregivers will eventually provide 24/7 care. In 2011, family caregivers spent 444 million hours, representing $11 billion in lost income and about 230,000 full-time jobs. By 2040, caregivers will be providing 1.2 billion hours of care per year. </ParaText>
@@ -3866,7 +3850,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321410">I have spoken and met with Coquitlam firefighters; Port Moody mayor, Mike Clay; and Port Moody's police chief, Constable Chris Rattenbury, who in fact sent a video endorsement expressing his own support. Port Coquitlam's firefighters sent a letter of support. First responders agree that their first priority is to save lives, but they can only do that when they are called.</ParaText>
               <ParaText id="4321411">The Government of British Columbia's minister of health wrote to me expressing the importance of this legislation. These are among the growing number of Canadian jurisdictions that recognize that drug overdose deaths are becoming epidemic and need action now to start saving lives. </ParaText>
               <ParaText id="4321412">It is time we listen to Canadians and take our own advice. In a 2014 report on prescription drug abuse, the House Standing Committee on Health recommended considering good Samaritan drug overdose legislation. This bill is precisely that. It is simply about saving lives.</ParaText>
-              <ParaText id="4321413">This bill is about giving people the tools they need to make life saving decisions in a time of crisis. It would make it okay to call for help. Many members of this House recognize this. That is why the NDP member for <Affiliation DbId="214258" Type="2">Vancouver East</Affiliation> seconded the bill and many more members on both sides of the House have rallied behind it. I thank them all for their robust support. They are showing that they too want to stop the harm.</ParaText>
+              <ParaText id="4321413">This bill is about giving people the tools they need to make life-saving decisions in a time of crisis. It would make it okay to call for help. Many members of this House recognize this. That is why the NDP member for <Affiliation DbId="214258" Type="2">Vancouver East</Affiliation> seconded the bill and many more members on both sides of the House have rallied behind it. I thank them all for their robust support. They are showing that they too want to stop the harm.</ParaText>
               <ParaText id="4321414">I ask all members for their support to demonstrate to all Canadians that we know that lives are worth saving, to show that we value life over death, life over punishment, and support over fear.</ParaText>
               <Timestamp Hr="19" Mn="55">(1955)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -4207,7 +4191,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214380" Type="2">Mr. James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4321570">Mr. Speaker, after redistribution, many of our ridings changed. I picked up that third nomenclature in my riding name, which is now Selkirk—Interlake—Eastman. It is a riding that I am very proud to represent, including the new part of Eastman, which includes the communities of Pinawa, Powerview-Pine Falls, Lac du Bonnet, Great Falls, and others.</ParaText>
-              <ParaText id="4321571">I am glad to get up today to address a question I raised in the House some time ago about the national memorial for Canada's mission in Afghanistan to honour the 40,000 Canadians who served in the Afghanistan mission, and the 158 Canadians who paid the ultimate sacrifice in that mission against al Qaeda, against the Taliban, and against terrorism. </ParaText>
+              <ParaText id="4321571">I am glad to get up today to address a question I raised in the House some time ago about the national memorial for Canada's mission in Afghanistan to honour the 40,000 Canadians who served in the Afghanistan mission and the 158 Canadians who made the ultimate sacrifice in that mission against al Qaeda, against the Taliban, and against terrorism. </ParaText>
               <ParaText id="4321572">Unfortunately, we still have not heard from the government. We have not heard from the <Affiliation DbId="214308" Type="4">Minister of Veterans Affairs</Affiliation>, the <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation> nor the <Affiliation DbId="214336" Type="4">Associate Minister of National Defence</Affiliation> on what the plans are on whether or not we are going to have a national memorial to pay tribute to the longest mission in Canadian history. We are talking about a mission where Canadians went in with the right context and for the right reasons. </ParaText>
               <ParaText id="4321573">Unfortunately, in the answer to my question, the <Affiliation DbId="214308" Type="4">Minister of Veterans Affairs</Affiliation> said that his government will get it done since the Conservative government could not get it done in 10 years.</ParaText>
               <ParaText id="4321574">First and foremost, let us revisit the history here on the national memorial for the Afghanistan mission.</ParaText>
@@ -4224,10 +4208,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. McCrimmon" id="8895879">
             <PersonSpeaking>
-              <Affiliation DbId="214686" Type="18">Mrs. Karen McCrimmon (Parliamentary Secretary to the Minister of Veterans Affairs, Associate Minister of National Defence, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214686" Type="18">Mrs. Karen McCrimmon (Parliamentary Secretary to the Minister of Veterans Affairs and Associate Minister of National Defence, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4321580">Mr. Speaker, I am pleased to have the opportunity to answer the question from the hon. member.</ParaText>
-              <ParaText id="4321581">I know first hand, and I could not agree more. The men and women of the Canadian Forces quite simply did an extraordinary job in Afghanistan and their contribution deserves to be commemorated appropriately.</ParaText>
+              <ParaText id="4321581">I know first-hand, and I could not agree more. The men and women of the Canadian Forces quite simply did an extraordinary job in Afghanistan and their contribution deserves to be commemorated appropriately.</ParaText>
               <ParaText id="4321582">Commemoration is a key pillar of the mandate of Veterans Affairs Canada. As the member is well aware, Canadian veterans and those who died wearing Canada's uniform have made invaluable contributions to the development of our country as well as to our peace and security. Commemorative programs and events help to ensure that the memories of these achievements and sacrifices are preserved.</ParaText>
               <ParaText id="4321583">The minister has said in the House that he is committed to ensuring that the memorial to Canada's mission in Afghanistan gets built, but it will be done in a timely and respectful manner. The national memorial to Canada's mission in Afghanistan is indeed a priority in the department's plans and priorities.</ParaText>
               <ParaText id="4321584">More than 40,000 members of the Canadian Armed Forces who served in Afghanistan will be remembered in a meaningful way, as well as the hundreds of other Canadians who also bravely performed their duties in this theatre of war.</ParaText>
@@ -4287,7 +4271,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4321606">Many women and girls end up trapped in a cycle of violence, inequality, and victimization as a result of the combined effect of many factors such as poverty, lack of community support, and lack of affordable or supervised housing. This cycle can be passed on from one generation to the next and can be a source of ongoing suffering for Canadian women and their families. This situation is unacceptable. A life without violence is a fundamental human right. No woman should be deprived of that right.</ParaText>
               <ParaText id="4321607">Our government is determined to address this complicated problem, which will require a comprehensive action plan. As decision-makers, we have a responsibility to find and support innovate ways to address the root causes of violence against women and girls, as well as to come up with positive solutions to stop the cycle of violence from continuing from one generation to the next. </ParaText>
               <ParaText id="4321608">That is why the <Affiliation DbId="214339" Type="4">Minister of Status of Women</Affiliation> was mandated to develop and implement a comprehensive federal strategy to combat sexual violence. We are working on developing a strategy that will recognize the range of interventions required, including legislative measures to prevent violence, support survivors and improve the justice system; use federal programs already in place; align with the efforts already being carried out in provinces and territories, or expand them; and include an important monitoring component to enable us to monitor and evaluate progress.</ParaText>
-              <ParaText id="4321609">This work is already underway. The minister has started to meet with organizations, people working for the cause, her provincial and territorial counterparts, and international experts in order to discuss innovative ideas for our strategy to fight sexual violence.</ParaText>
+              <ParaText id="4321609">This work is already under way. The minister has started to meet with organizations, people working for the cause, her provincial and territorial counterparts, and international experts in order to discuss innovative ideas for our strategy to fight sexual violence.</ParaText>
               <ParaText id="4321610">These efforts will be augmented by a component of our infrastructure plan. In fact, our government has committed to maintaining and expanding the network of shelters and transition houses. We are taking these steps because when we ensure that women and girls do not experience violence, we eliminate a major obstacle to the realization of their full potential and we can move closer to our objective of gender parity.</ParaText>
             </Content>
           </Intervention>
@@ -4318,7 +4302,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4321620">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk?>10 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1). <?ek?></ParaText>
+              <ParaText id="4321620">The motion to adjourn the House is now deemed to have been adopted. Accordingly, this House stands adjourned until tomorrow at <?bk ?>10 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1). <?ek ?></ParaText>
               <ParaText id="4321621">(The House adjourned at 9:15 p.m.)</ParaText>
             </Content>
           </Intervention>

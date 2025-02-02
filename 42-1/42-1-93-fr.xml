@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9166198">
   <StartPageNumber>5829</StartPageNumber>
   <DocumentTitle>
@@ -73,11 +55,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9166438">
-        <SubjectOfBusinessTitle>Déclarations de députés</SubjectOfBusinessTitle>
-        <CatchLine>Déclarations de députés</CatchLine>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="9168492" Rubric="Other">
+      <OrderOfBusinessTitle>Déclarations de députés</OrderOfBusinessTitle>
+      <CatchLine>Déclarations de députés</CatchLine>
       <SubjectOfBusiness id="9166298">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Le Vieux-Port </SubjectOfBusinessTitle>
@@ -101,7 +82,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4556827">Monsieur le Président, la Ville de Laval est reconnue pour être un important incubateur de ressources et d'exemples de services offerts aux aînés. En 1993, la Ville de Laval a déployé une vision innovatrice en créant la première Place des aînés au Québec, un centre qui offre une multitude d'activités et de services et qui compte plus de 3 600 membres. </ParaText>
               <ParaText id="4556828">Dans le cadre de la Semaine lavalloise des aînés, qui se déroule du 12 au 23 octobre, je tiens à remercier les aînés de leur contribution à la vie communautaire et des heures de bénévolat qu'ils donnent, et qui sont un levier économique important souvent sous-estimé.</ParaText>
-              <ParaText id="4556829"> Merci de votre belle solidarité qui converge vers un point commun, celui de la reconnaissance de votre apport à la société lavalloise.</ParaText>
+              <ParaText id="4556829"> Je vous remercie de votre belle solidarité qui converge vers un point commun, celui de la reconnaissance de votre apport à la société lavalloise.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -164,7 +145,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4556842">Monsieur le Président, c'est avec grande tristesse et émotion que nous avons appris, le 29 septembre dernier, le décès de Mme Micheline Pelletier, mairesse de Sainte-Anne-des-Monts. La région a perdu une grande dame. </ParaText>
               <ParaText id="4556843">Entièrement dévouée à l'amélioration du sort de sa population, elle a défendu haut et fort la Haute-Gaspésie. Cette femme d'exception, de convictions et de coeur a travaillé sans relâche tout au long de sa vie au développement de son milieu. Dame de culture, Mme Pelletier croyait au pouvoir de l'éducation comme moteur de développement des collectivités.</ParaText>
               <ParaText id="4556844"> Cette femme, qui aura marqué positivement des milliers de personnes sur son passage, croyait dur comme fer au potentiel de sa région. Elle demeurera un exemple de persévérance, de courage et de combativité au service du développement de sa région, de notre région.</ParaText>
-              <ParaText id="4556845">Ma collègue la <Affiliation DbId="214329" Type="4">ministre du Revenu national</Affiliation> et moi souhaitons profiter de ce moment pour lui rendre hommage et la remercier de son dévouement. La population et sa communauté lui en seront toujours reconnaissants.</ParaText>
+              <ParaText id="4556845">Ma collègue la <Affiliation DbId="214329" Type="4">ministre du Revenu national</Affiliation> et moi souhaitons profiter de ce moment pour lui rendre hommage et la remercier de son dévouement. La population et sa communauté lui en seront toujours reconnaissantes.</ParaText>
               <ParaText id="4556846">Micheline, repose en paix.</ParaText>
             </Content>
           </Intervention>
@@ -206,7 +187,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166241">
         <Timestamp Hr="14" Mn="15">(1415)</Timestamp>
-        <SubjectOfBusinessTitle>La Semaine de la PME</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Tobique-Mactaquac</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Harvey" id="9166242">
             <PersonSpeaking>
@@ -749,7 +730,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166446">
-        <SubjectOfBusinessTitle>Les activités de financement politique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9166445">
             <PersonSpeaking>
@@ -962,7 +943,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214380" Type="2">M. James Bezan (Selkirk—Interlake—Eastman, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557028">Monsieur le Président, la bataille de Mossoul est en cours, mais nous ignorons totalement ce que font les militaires canadiens. Les commandants de l'armée ont confirmé que la mission était maintenant beaucoup plus dangereuse, mais les libéraux leur ont interdit d'en dire plus.</ParaText>
-              <ParaText id="4557029">Le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> a déjà déclaré ce qui suit: « [...] il est important que nous obtenions [...] le plus d'information possible sur ce qui peut survenir, et sur la façon dont cette mission peut évoluer » en Irak.</ParaText>
+              <ParaText id="4557029">Le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> a déjà déclaré ce qui suit: « il est important que nous obtenions [...] le plus d'information possible sur ce qui peut survenir, et sur la façon dont cette mission peut évoluer » en Irak.</ParaText>
               <ParaText id="4557030">Le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> ne trouve-t-il pas que les libéraux font preuve d'hypocrisie en se drapant maintenant dans le voile du secret alors qu'ils exigeaient que le gouvernement précédent fasse preuve de transparence au sujet de la lutte contre le groupe État islamique?</ParaText>
             </Content>
           </Intervention>
@@ -1115,7 +1096,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166570">
-        <SubjectOfBusinessTitle>Les transports</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les nominations gouvernementales</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Warkentin" id="9166568">
             <PersonSpeaking>
@@ -1144,14 +1125,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166581">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les intérêts du Québec</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les relations intergouvernementales</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Boulerice" id="9166578">
             <PersonSpeaking>
               <Affiliation DbId="214102" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557073">Monsieur le Président, après un an, les députés libéraux sont bien silencieux en ce qui concerne la défense des intérêts du Québec. </ParaText>
-              <ParaText id="4557074">Pas un mot pour les emplois de l'industrie forestière, qui est au bord d'une guerre commerciale; rien pour les producteurs laitiers. Ils n'ont pas levé le petit doigt pour les <I>jobs</I> de Bombardier, et ils ont trahi les employés d'Aveos. De plus, c'est silence radio sur les coupes en santé. Or le Québec mérite des députés qui se font entendre, et non une gang qui dort au gaz.</ParaText>
+              <ParaText id="4557074">Pas un mot pour les emplois de l'industrie forestière, qui est au bord d'une guerre commerciale; rien pour les producteurs laitiers. Ils n'ont pas levé le petit doigt pour les <I>jobs</I> de Bombardier, et ils ont trahi les employés d'Aveos. De plus, c'est silence radio sur les coupes en santé. Or le Québec mérite des députés qui se font entendre, et non une <I>gang</I> qui dort au gaz.</ParaText>
               <ParaText id="4557075"> Qu'on lance une enquête! On a perdu les députés libéraux du Québec...</ParaText>
             </Content>
           </Intervention>
@@ -1265,7 +1246,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4557099"> J'ai l'honneur d'informer la Chambre que M. Rankin, député de la circonscription de Victoria, a été nommé membre du Bureau de régie interne en remplacement de M. Julian, député de la circonscription de New Westminster—Burnaby, aux fins et en vertu des dispositions de l'article 50 de la Loi sur le Parlement du Canada.</ParaText>
+              <ParaText id="4557099"> J'ai l'honneur d'informer la Chambre que le député de la circonscription de Victoria a été nommé membre du Bureau de régie interne en remplacement du député de la circonscription de New Westminster—Burnaby, aux fins et en vertu des dispositions de l'article 50 de la Loi sur le Parlement du Canada.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1345,7 +1326,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557108">Conformément au paragraphe 91.1(2) du Règlement, le rapport est réputé adopté.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="3"> (La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1359,7 +1339,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214426" Type="2">M. Gordon Brown (Leeds—Grenville—Thousand Islands et Rideau Lakes, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557109">Monsieur le Président, les partis en ont discuté, et je crois que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante:</ParaText>
-              <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="4557110">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Que l'ordre adopté le jeudi 6 octobre 2016, conformément à l'article 97.1 du Règlement, relativement au report du vote par appel nominal sur la motion portant adoption du sixième rapport du Comité permanent de la sécurité publique et nationale, prévu pour plus tard aujourd'hui, soit révoqué et la motion soit réputée adoptée.</QuotePara>
@@ -1378,7 +1358,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Le Président:</B> La Chambre a entendu la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
               <ParaText id="4557114">
                 <B>Des voix:</B> D'accord.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="5">(La motion est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="4">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1410,7 +1390,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166762">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Les paradis fiscaux</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>L'évitement fiscal</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Choquette" id="9166649">
             <PersonSpeaking>
@@ -1488,7 +1468,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9166784">
-        <SubjectOfBusinessQualifier>La santé publique</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La santé</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Waugh" id="9166667">
             <PersonSpeaking>
@@ -1540,7 +1520,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214300" Type="4">L'hon. Ralph Goodale (ministre de la Sécurité publique et de la Protection civile, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557133">Monsieur le Président, je demande que cet avis de motion portant production de documents soit renvoyé pour débat ultérieur.</ParaText>
-              <ProceduralText TocType="TPC" id="6">Renvoi pour débat ultérieur</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Renvoi pour débat ultérieur</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9166681">
@@ -1570,7 +1550,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557137">La Chambre reprend l'étude, interrompue le 18 octobre, de la motion portant que le projet de loi <Document DbId="8073132" Type="3">C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</Document>, soit lu pour la troisième fois et adopté.</ParaText>
-          <ProceduralText TocType="TPC" id="7">Projet de loi C-4. Troisième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Projet de loi C-4. Troisième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Fonseca" id="9166689">
             <PersonSpeaking>
               <Affiliation DbId="214019" Type="2">M. Peter Fonseca (Mississauga-Est—Cooksville, Lib.)</Affiliation>: </PersonSpeaking>
@@ -1702,7 +1682,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4557197">Monsieur le Président, j'ai déjà occupé les fonctions de porte-parole de l'opposition en matière de travail à l'Assemblée législative du Manitoba. Je peux donc assurer aux députés que, dès qu'il était question d'adopter une mesure législative sur les relations de travail ou de changer une loi dans ce domaine, c'était toujours selon le principe général et fondamental voulant que l'on tente d'abord d'obtenir un consensus entre les syndicats et les patrons. Quand le gouvernement souhaite modifier la loi, il organise généralement des consultations pour en arriver à un consensus. Le Canada se porte mieux quand les relations de travail sont harmonieuses, c'est-à-dire quand les syndicats et les entreprises travaillent main dans la main.</ParaText>
               <ParaText id="4557198">Je risque de faire sourciller le député en disant cela, mais je peux lui garantir que les syndicats jouent un rôle important dans la société et que c'est grâce au mouvement syndical si nous avons tous les acquis que nous avons aujourd'hui.</ParaText>
-              <ParaText id="4557199">Dans la mesure où il a lui même présenté un projet de loi ayant froissé un grand nombre d'organisateurs syndicaux et — oui — de patrons, à cause de la manière dont le gouvernement Harper en a forcé l'adoption, le député pourrait-il à tout le moins reconnaître que, si nous voulons que les syndicats et les patrons s'entendent bien, nous devons chercher à obtenir un consensus avant de présenter une mesure législative?</ParaText>
+              <ParaText id="4557199">Dans la mesure où il a lui-même présenté un projet de loi ayant froissé un grand nombre d'organisateurs syndicaux et — oui — de patrons, à cause de la manière dont le gouvernement Harper en a forcé l'adoption, le député pourrait-il à tout le moins reconnaître que, si nous voulons que les syndicats et les patrons s'entendent bien, nous devons chercher à obtenir un consensus avant de présenter une mesure législative?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Calkins" id="9166978">
@@ -1759,7 +1739,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557216">Le vote est reporté. </ParaText>
-              <ProceduralText TocType="TPC" id="8">Report du vote sur la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1767,7 +1747,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9167211">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La Loi sur les traitements</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="9">Projet de loi C-24. Deuxième lecture</ProceduralText>
+        <ProceduralText TocType="TPC" id="8">Projet de loi C-24. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="4557217">La Chambre reprend l'étude, interrompue le 7 octobre, de la motion portant que le projet de loi <Document DbId="8374844" Type="3">C-24, Loi modifiant la Loi sur les traitements et apportant une modification corrélative à la Loi sur la gestion des finances publiques</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que de l'amendement.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Berthold" id="9167019">
@@ -1884,9 +1864,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="9167269">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Lamoureux" id="9167269">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557268">Monsieur le Président, ma question au député est assez simple. Trois agences de développement économique disposent d’un certain montant d’argent sur une base annuelle. Si nous examinons le Fonds de diversification de l’économie de l’Ouest, nous constatons que son budget, dont le ministre est responsable, n’a pas donné de bons résultats dans l’Ouest du Canada. Le ministre représentant l’Ouest canadien n’a pas obtenu de résultats pour l’Ouest du Canada. Mon argument est que chaque ministre est responsable de l’ensemble du pays, qu’il soit <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation>, <Affiliation DbId="214319" Type="4">ministre de l’Innovation, des Sciences et du Développement économique</Affiliation> ou <Affiliation DbId="214328" Type="4">ministre de la Santé</Affiliation>. Cette loi rend tous les ministres égaux. </ParaText>
               <ParaText id="4557269"> Du point de vue du Parti conservateur, y a-t-il quelque chose de mal à avoir un Cabinet égalitaire?</ParaText>
@@ -1908,11 +1888,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214137" Type="2">M. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557273">Monsieur le Président, je prends la parole pour prendre part au débat sur la deuxième lecture du projet de loi <Document DbId="8374844" Type="3">C-24</Document>, qui modifierait la Loi sur les traitements afin que celle-ci reflète mieux les réalités actuelles.</ParaText>
-              <ParaText id="4557274">Les priorités gouvernementales évoluent, et donc, les dossier assignés aux ministres qui forment le Cabinet évoluent aussi. À titre d'exemple, rappelons-nous les ministres de sir Wilfrid Laurier. Les honorables députés constateront que le nom de nombreux dossiers ainsi que les responsabilités qui en découlent ont évolué au fil du temps. Le gouvernement Laurier avait un ministre des Chemins de fer et des Canaux. Nous avons un ministre des Transports chargé de nombreux autres modes de transport. Le gouvernement Laurier avait un ministre des Postes, alors qu'aujourd'hui ces questions relèvent de la ministre des Services publics et de l'Approvisionnement. Le gouvernement Laurier avait un ministre de l'Intérieur et un surintendant général des affaires indiennes. Ce ministre était entre autres chargé de promouvoir l'immigration vers les Prairies. Les nombreuses responsabilités de ce ministre ont depuis été attribuées à d'autres portefeuilles, entre autres, au ministre de l'Immigration, des Réfugiés et de la Citoyenneté. </ParaText>
-              <ParaText id="4557275">En fait, pour répondre aux besoins changeants de l'époque, le gouvernement Laurier a nommé à son Cabinet le tout premier ministre du travail, un jeune William Lyon Mackenzie King. De plus, trois postes n'étaient pas considérés comme faisant partie intégrante du Cabinet: le solliciteur général, le contrôleur des douanes et le contrôleur du revenu intérieur. Nous constatons donc dans les faits à quel point les priorités évoluent. Un premier ministre doit disposer de la latitude nécessaire pour rester à l'affût de ces changements et modifier les ministères en conséquence. Lorsque les membres du Cabinet ont été assermentés, le 4 novembre 2015, cinq ministres ont été nommés conformément aux dispositions de la Loi sur les départements et ministres d'État. Néanmoins, ces ministres ont prêté le serment d'office en tant que ministres de plein exercice, avec tous les droits et tous les pouvoirs qui s'y rattachent, y compris le salaire, depuis la première journée de la formation du présent gouvernement.</ParaText>
+              <ParaText id="4557274">Les priorités gouvernementales évoluent, et donc, les dossiers assignés aux ministres qui forment le Cabinet évoluent aussi. À titre d'exemple, rappelons-nous les ministres de sir Wilfrid Laurier. Les honorables députés constateront que le nom de nombreux dossiers ainsi que les responsabilités qui en découlent ont évolué au fil du temps. Le gouvernement Laurier avait un ministre des Chemins de fer et des Canaux. Nous avons un ministre des Transports chargé de nombreux autres modes de transport. Le gouvernement Laurier avait un ministre des Postes, alors qu'aujourd'hui ces questions relèvent de la ministre des Services publics et de l'Approvisionnement. Le gouvernement Laurier avait un ministre de l'Intérieur et un surintendant général des affaires indiennes. Ce ministre était entre autres chargé de promouvoir l'immigration vers les Prairies. Les nombreuses responsabilités de ce ministre ont depuis été attribuées à d'autres portefeuilles, entre autres, au ministre de l'Immigration, des Réfugiés et de la Citoyenneté. </ParaText>
+              <ParaText id="4557275">En fait, pour répondre aux besoins changeants de l'époque, le gouvernement Laurier a nommé à son Cabinet le tout premier ministre du Travail, un jeune William Lyon Mackenzie King. De plus, trois postes n'étaient pas considérés comme faisant partie intégrante du Cabinet: le solliciteur général, le contrôleur des douanes et le contrôleur du revenu intérieur. Nous constatons donc dans les faits à quel point les priorités évoluent. Un premier ministre doit disposer de la latitude nécessaire pour rester à l'affût de ces changements et modifier les ministères en conséquence. Lorsque les membres du Cabinet ont été assermentés, le 4 novembre 2015, cinq ministres ont été nommés conformément aux dispositions de la Loi sur les départements et ministres d'État. Néanmoins, ces ministres ont prêté le serment d'office en tant que ministres de plein exercice, avec tous les droits et tous les pouvoirs qui s'y rattachent, y compris le salaire, depuis la première journée de la formation du présent gouvernement.</ParaText>
               <ParaText id="4557276">L'ajout de ces nouveaux titres à la Loi sur les traitements témoigne des priorités d'aujourd'hui, comme les ministres de Laurier témoignaient de la réalité de son époque. Laurier était le premier Canadien français à devenir premier ministre. Il a fait valoir que la dualité linguistique du Canada pouvait faire du pays un acteur clé sur la scène internationale. Aujourd'hui, nous sommes fiers de faire partie de l'Organisation internationale de la Francophonie. En plus de ses responsabilités en tant que ministre du Développement international, la ministre de la Francophonie s'emploie à affirmer l'engagement ferme et durable du Canada envers les 80 gouvernements et États membres de la Francophonie. Ensemble, nous représentons plus du tiers des États membres des Nations unies et une population totale de plus de 890 millions de personnes, dont 220 millions de francophones.</ParaText>
               <ParaText id="4557277">La ministre de la Petite Entreprise et du Tourisme représente aussi une priorité qui n'existait pas à l'époque de Laurier, lorsque le Canada était principalement un pays agricole. De nos jours, les petites entreprises constituent l'épine dorsale de l'économie canadienne. Elles créent des emplois, elles appuient les collectivités et elles servent de tremplin pour permettre aux plus beaux talents de créer des entreprises de calibre mondial. La ministre de la Petite Entreprise et du Tourisme aide ces gens à s'épanouir et à contribuer à l'essor de l'économie du Canada. Les efforts qu'elle déploie pour aider les petites entreprises à réussir et à croître contribuent à la prospérité de la classe moyenne au Canada.</ParaText>
-              <ParaText id="4557278">Comme la ministre de la Petite Entreprise et du Tourisme, le mandat de la ministre des Sciences est de contribuer à la compétitivité du Canada dans une économie mondiale axée sur le savoir. La science joue un rôle central pour fournir des éléments probants qui permettent de prendre des décisions stratégiques judicieuses. Il est essentiel d'appuyer la recherche de calibre mondial pour que l'innovation devienne une véritable priorité nationale. La ministre s'emploie à faire avancer la science qui assurera une économie prospère et durable sur la plan de l'environnement.</ParaText>
+              <ParaText id="4557278">Comme la ministre de la Petite Entreprise et du Tourisme, le mandat de la ministre des Sciences est de contribuer à la compétitivité du Canada dans une économie mondiale axée sur le savoir. La science joue un rôle central pour fournir des éléments probants qui permettent de prendre des décisions stratégiques judicieuses. Il est essentiel d'appuyer la recherche de calibre mondial pour que l'innovation devienne une véritable priorité nationale. La ministre s'emploie à faire avancer la science qui assurera une économie prospère et durable sur le plan de l'environnement.</ParaText>
               <ParaText id="4557279">Le gouvernement du Canada est le plus important investisseur dans le système sportif canadien. Les excellents résultats obtenus par les athlètes olympiques et paralympiques du Canada aux Jeux olympiques et paralympiques à Rio nous démontrent que ces investissements portent leurs fruits. Ces résultats encouragent tous les Canadiens, particulièrement les jeunes, à participer à des activités sportives et de loisirs. La ministre des Sports et des Personnes handicapées s'emploie à promouvoir la santé des Canadiens au moyen du sport et des loisirs et à offrir une meilleure accessibilité et de meilleures possibilités aux Canadiens vivant avec un handicap. Elle contribue notablement à atteindre l'objectif du gouvernement de favoriser et de célébrer la diversité du Canada et d'assurer l'égalité des chances pour tous les Canadiens.</ParaText>
               <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
               <ParaText id="4557280">La promotion de la diversité relève aussi des compétences de la ministre de la Condition féminine. Il y a 100 ans, les femmes ont obtenu le droit de vote au Canada, tout premièrement au Manitoba. L'année dernière, les Canadiens ont connu le premier Cabinet fédéral constitué équitablement de femmes et d'hommes, et pour la première fois, une ministre se consacrera pleinement au dossier de l'égalité entre les sexes. </ParaText>
@@ -1971,9 +1951,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Berthold" id="9167380">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Berthold" id="9167380">
             <PersonSpeaking>
-              <Affiliation DbId="214171" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214171" Type="2">M. Luc Berthold</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557295">Monsieur le Président, je suis content d'avoir la chance de poser une autre question, parce que j'ai entendu mon collègue dire quelque chose qui m'a fait dresser sur la tête le peu de cheveux qu'il me reste, et si je continue à l'écouter, je pense qu'ils vont tomber.</ParaText>
               <ParaText id="4557296">Mon collègue était-il vraiment conscient de ce qu'il disait quand il a dit que six ministres faisaient la même chose? Les six ministres d'agences de développement régional, dont un pour les provinces atlantiques, un pour l'Ontario, un pour le Québec, un pour l'Ouest et un pour le Nord, ont le même mandat pour développer la même chose? Les dossiers de développement de l'Ouest et ceux de l'Atlantique sont-ils les mêmes?</ParaText>
@@ -1989,9 +1969,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Blaikie" id="9167395">
+          <Intervention Type="Interjection" ToC="No" ToCText="M. Blaikie" id="9167395">
             <PersonSpeaking>
-              <Affiliation DbId="214129" Type="2">M. Daniel Blaikie (Elmwood—Transcona, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214129" Type="2">M. Daniel Blaikie</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557300">Monsieur le Président, je crains que le député se soit trompé dans sa réponse à ma question précédente, alors j'aimerais lui donner l'occasion de se reprendre.</ParaText>
               <ParaText id="4557301">Je crois qu'il parlait des ministres affectés à un ministère. Il a dit qu'ils travailleront ensemble, comme le veut le nouvel arrangement, mais il a dit « ministre d'État ». Son erreur en dit long, car il est effectivement difficile de faire la distinction entre ces postes, outre le fait qu'ils auront un titre légèrement différent. En pratique, il me semble que ces deux postes demeurent différents. Un premier type de ministre sera à la tête d'un ministère, et un deuxième l'assistera, essentiellement, avec les ressources de son ministère.</ParaText>
@@ -2183,7 +2163,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4557387">En fait, ce pourrait être gênant pour les deux raisons, ce qui est encore pire. C’est d’ailleurs ce que l'on lit entre les lignes du projet de loi dans sa version actuelle. Je m'explique.</ParaText>
               <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
               <ParaText id="4557388">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> aurait pu éviter cette situation embarrassante en se contentant d’ajouter ou de supprimer un poste de ministre d’État et en faisant en sorte que les postes soient répartis également entre les hommes et les femmes. Cela aurait réglé le problème de la proportion hommes-femmes au Cabinet.</ParaText>
-              <ParaText id="4557389">Il aurait pu éviter également cette situation gênante s'il avait été un peu plus au courant de ses options. Or, il semble qu’il l’était alors ou qu’il l’est aujourd’hui, car le projet de loi rend encore plus confuses les options possibles pour la mise sur pied d’un Cabinet. Il aurait pu établir, en vertu de l'actuelle Loi sur les départements et ministres d’État, des ministères d'État pour les cinq ministres d’État, qui auraient essentiellement fonctionné comme des petits ministères dont les ressources financières et humaines auraient provenu d’autres ministères.</ParaText>
+              <ParaText id="4557389">Il aurait pu éviter également cette situation gênante s'il avait été un peu plus au courant de ses options. Or, il semble qu’il l’était alors ou qu’il l’est aujourd’hui, car le projet de loi rend encore plus confuses les options possibles pour la mise sur pied d’un Cabinet. Il aurait pu établir, en vertu de l'actuelle Loi sur les départements et ministres d’État, des ministères d'État pour les cinq ministres d’État, qui auraient essentiellement fonctionné comme des petits ministères dont les ressources financières et humaines proviendraient d’autres ministères.</ParaText>
               <ParaText id="4557390">Un ministre d’État chargé d'un ministère d'État serait à la tête de ce ministère d'État et n’aurait pas à prêter son concours à un autre ministre. De plus, en vertu de la législation actuelle, les ministres d’État chargés d'un ministère d'État reçoivent le même salaire que les ministres ou les administrateurs de ministère. Voilà un autre moyen que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> aurait pu prendre pour éviter l’écart de rémunération et atténuer la différence des responsabilités entre les postes.</ParaText>
               <ParaText id="4557391">Je résume pour que tout le monde s'y retrouve. J’ai mentionné trois postes au sein du Cabinet. Il y a les ministres, les ministres d’État chargés d'un ministère d’État et les ministres d’État chargés de prêter leur concours à un ministre.</ParaText>
               <ParaText id="4557392">Le projet de loi propose de désigner autrement une catégorie de membres du Cabinet qui sont actuellement appelés « ministres » dans la loi. Si le projet de loi <Document DbId="8374844" Type="3">C-24</Document> est adopté, certains membres du Cabinet porteront le titre de ministres compétents d'un ministère, et une autre catégorie sera créée pour les ministres d'État actuels, qui deviendront des ministres pour qui un ministère est désigné. </ParaText>
@@ -2221,7 +2201,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4557415">Les libéraux sont en train d'éliminer la possibilité de faire marche arrière concernant un autre de leurs choix, à savoir de ne pas nommer de ministres chargés du développement économique de chaque région. Nous pourrions d'ailleurs aborder l'égalité sous cet autre angle: celui de l'égalité entre les régions.</ParaText>
               <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
               <ParaText id="4557416">En fait, le gouvernement officialise une mauvaise décision qui va de pair avec sa décision de confier à un seul ministre la gestion des diverses agences de développement économique régional. Cela signifie qu'une seule région du pays aura un ministre qui comprend ses besoins, vu que ce ministre viendra de cette région et qu'il la représentera. Les autres régions ne bénéficieront pas de cet avantage et ne seront donc pas traitées équitablement. </ParaText>
-              <ParaText id="4557417">J'admets que le gouvernement a la prérogative d'essayer de nouvelles façons de faire, mais je crois que c'est une mauvaise décision. Cette centralisation du processus décisionnel d'agences qui ont un mandat résolument régional est insensée et s'avérera inefficace. Le gouvernement veut essayer quelque chose de nouveau, et il le fait, mais je crois qu'il constatera que cela ne fonctionnera pas. Pourquoi les libéraux font-ils en sorte qu'il soit plus difficile de revenir à un modèle qui, je crois, est plus efficace et prévoit que chaque agence de développement économique régionales sera dirigée par un ministre qui provient de la région concernée? En cette période économique difficile, il serait particulièrement utile que le gouvernement constate qu'il vaut la peine d'affecter un ministre à cette tâche à temps plein. Le gouvernement manque le coche en agissant comme il le fait en ce moment, et cela n'a aucun sens. </ParaText>
+              <ParaText id="4557417">J'admets que le gouvernement a la prérogative d'essayer de nouvelles façons de faire, mais je crois que c'est une mauvaise décision. Cette centralisation du processus décisionnel d'agences qui ont un mandat résolument régional est insensée et s'avérera inefficace. Le gouvernement veut essayer quelque chose de nouveau, et il le fait, mais je crois qu'il constatera que cela ne fonctionnera pas. Pourquoi les libéraux font-ils en sorte qu'il soit plus difficile de revenir à un modèle qui, je crois, est plus efficace et prévoit que chaque agence de développement économique régionale sera dirigée par un ministre qui provient de la région concernée? En cette période économique difficile, il serait particulièrement utile que le gouvernement constate qu'il vaut la peine d'affecter un ministre à cette tâche à temps plein. Le gouvernement manque le coche en agissant comme il le fait en ce moment, et cela n'a aucun sens. </ParaText>
               <ParaText id="4557418">Les libéraux se donnent une marge de manoeuvre pour créer des ministères occultes ou de nouveaux ministères qui n'ont pas encore été désignés. Même s'ils disent que le fait de ne pas avoir de ministre d'État est une question de principe, ils se donnent quand même une marge de manoeuvre au cas où ils voudraient en nommer quand même. Les libéraux se sont lancés dans une expérience de centralisation en ce qui concerne le développement économique régional, mais ils ont plutôt menotté les intervenants concernés, ce qui me semble insensé. Les libéraux ne mettent pas leurs priorités à la bonne place.</ParaText>
               <ParaText id="4557419">Les gens d'Elmwood—Transcona préféreraient que ce soit un ministre responsable de l'Ouest canadien au fait de la situation économique de cette région qui prenne les décisions directement liées à la stratégie du gouvernement en matière de diversification de l'économie de l'Ouest canadien. Je crois que les gens des autres régions du pays sont du même avis en ce qui a trait à leur propre région. Au chapitre de la gestion du développement économique régional, le gouvernement devrait se donner plus d'options plutôt que moins. Si la décision de créer trois ministères dont la nature n'est pas encore définie est motivée par des impératifs de souplesse, pourquoi le gouvernement ne pas garde-t-il pas la marge de manoeuvre dont il dispose déjà en ce qui a trait au développement économique régional?</ParaText>
               <ParaText id="4557420">Que doit-on en conclure? J'ai bien l'impression que la rédaction du projet de loi a été confiée à l'équipe personnelle de communication de la ministre sans qu'on ne leur explique tous les tenants et aboutissants du processus législatif et parlementaire. Ce projet de loi ne vise pas vraiment l'égalité hommes-femmes. Quel que soit l'objectif d'égalité que le gouvernement souhaite atteindre avec le projet de loi <Document DbId="8374844" Type="3">C-24</Document> — et j'ai dressé une liste assez complète de ce que le terme « égalité » peut vouloir dire aux yeux du gouvernement —, soit il échoue complètement, soit ce qu'il propose est inutile.</ParaText>
@@ -2257,7 +2237,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4557431">Monsieur le Président, j’ai écouté attentivement le député d'<Affiliation DbId="214129" Type="2">Elmwood—Transcona</Affiliation> et je tiens à le remercier pour son brillant discours. C’était un excellent discours; d'ailleurs, tout discours où l’on fait une métaphore avec le mot « Snuggie » est spécial.</ParaText>
               <ParaText id="4557432">Je viens de Cariboo—Prince George, et au début des années 2000, la région — en fait toute la Colombie-Britannique — a été touchée par l’infestation de dendroctone du pin. À l’époque, le gouvernement avait détaché sur le terrain des ministres qui connaissaient bien les enjeux propres à la région. En cherchant à diversifier l’économie, non seulement dans la circonscription de Cariboo—Prince George, mais aussi à l’échelle de la province, nous avons examiné les atouts naturels qui étaient les nôtres.</ParaText>
               <ParaText id="4557433">On a fait des investissements dans le port de Prince Rupert, dans la gare intermodale du CN, dans l’administration aéroportuaire de Prince George, dans la porte de l’Asie-Pacifique, mais aussi dans la circonscription du député, à Winnipeg, dans CentrePort, qui a relié le Canada au monde. Tous ces investissements ont pu être faits parce que les ministres régionaux qui travaillaient sur le terrain pouvaient témoigner de leur importance.</ParaText>
-              <ParaText id="4557434">Les choix que le gouvernement a faits dans ce projet de loi témoignent davantage d’une volonté de centralisation du gouvernement que d’un souci d’égalité des sexes. Le député l’a d’ailleurs très bien fait ressortir lorsqu’il a parlé du sentiment de honte du<Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et de son lamentable échec lors de l’annonce initiale, sans parler du cafouillage de l’an dernier. Mon collègue aurait-il des commentaires à faire sur ces deux points?</ParaText>
+              <ParaText id="4557434">Les choix que le gouvernement a faits dans ce projet de loi témoignent davantage d’une volonté de centralisation du gouvernement que d’un souci d’égalité des sexes. Le député l’a d’ailleurs très bien fait ressortir lorsqu’il a parlé du sentiment de honte du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et de son lamentable échec lors de l’annonce initiale, sans parler du cafouillage de l’an dernier. Mon collègue aurait-il des commentaires à faire sur ces deux points?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
@@ -2305,7 +2285,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557446">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="8073132" Type="3">C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</Document>, soit lu pour la troisième fois et adopté.</ParaText>
-          <ProceduralText TocType="TPC" id="10">Projet de loi C-4. Troisième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="9">Projet de loi C-4. Troisième lecture</ProceduralText>
           <Intervention Type="Interjection" ToC="No" id="9167872" ToCText="Mme Hughes">
             <PersonSpeaking>
               <Affiliation DbId="214948" Type="96"> La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
@@ -2626,7 +2606,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557450">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="11">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">Adoption de la motion</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2677,7 +2657,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Le Code criminel</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557457">La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que le projet de loi <Document DbId="8111356" Type="4">C-230, Loi modifiant le Code criminel (arme à feu — définition de variante)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="12">Projet de loi C-230. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="11">Projet de loi C-230. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9167902">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -2995,7 +2975,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="13">Rejet de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Rejet de la motion</ProceduralText>
               <ParaText id="4557460">Je déclare la motion rejetée.</ParaText>
             </Content>
           </Intervention>
@@ -3006,7 +2986,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Loi relative à la stratégie nationale sur l’élimination sécuritaire des lampes contenant du mercure</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557461">La Chambre reprend l'étude, interrompue le 7 octobre, de la motion portant que le projet de loi <Document DbId="8118993" Type="4">C-238, Loi concernant l’élaboration d’une stratégie nationale sur l’élimination sécuritaire des lampes contenant du mercure</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="14">Projet de loi C-238. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="13">Projet de loi C-238. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9167954">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -3324,9 +3304,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="15">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Adoption de la motion</ProceduralText>
               <ParaText id="4557464">Je déclare la motion adoptée. En conséquence, ce projet de loi est renvoyé au Comité permanent de l'environnement et du développement durable.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi; renvoi à un comité" id="16"> (Le projet de loi, lu pour la deuxième fois, est renvoyé à un comité.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi; renvoi à un comité" id="15"> (Le projet de loi, lu pour la deuxième fois, est renvoyé à un comité.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3336,7 +3316,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>La Loi sur la taxe d'accise</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557465">La Chambre reprend l'étude, interrompue le 17 octobre, de la motion portant que le projet de loi <Document DbId="8111357" Type="4">C-241, Loi modifiant la Loi sur la taxe d’accise (administrations scolaires)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="17">Projet de loi C-241. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="16">Projet de loi C-241. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9167998">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -3659,7 +3639,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557468">Je déclare la motion rejetée.</ParaText>
-              <ProceduralText TocType="TPC" id="18">Rejet de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Rejet de la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3668,10 +3648,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Timestamp Hr="18" Mn="40">(1840)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi visant à protéger les femmes enceintes et leur enfant à naître (loi de Cassie et Molly)</SubjectOfBusinessTitle>
-        <ProceduralText id="19" />
+        <ProceduralText id="18" />
         <SubjectOfBusinessContent>
           <ParaText id="4557469">La Chambre reprend l'étude, interrompue le 17 octobre, de la motion portant que le projet de loi <Document DbId="8102335" Type="4">C-225, Loi modifiant le Code criminel (blesser un enfant à naître ou causer sa mort lors de la perpétration d’une infraction)</Document>, soit lu pour la deuxième fois et renvoyé à un comité. </ParaText>
-          <ProceduralText TocType="TPC" id="20">Projet de loi C-225. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="19">Projet de loi C-225. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9168040">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -3992,7 +3972,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557472">Je déclare la motion rejetée. </ParaText>
-              <ProceduralText TocType="TPC" id="21">Rejet de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Rejet de la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4002,7 +3982,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Loi sur l'équité hommes-femmes chez les candidats</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557473">La Chambre reprend l'étude, interrompue le 18 octobre, de la motion portant que le projet de loi <Document DbId="8118999" Type="4">C-237, Loi modifiant la Loi électorale du Canada (équité hommes-femmes)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="22">Projet de loi C-237. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="21">Projet de loi C-237. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9168150">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -4315,7 +4295,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4557476">Je déclare la motion rejetée.</ParaText>
-              <ProceduralText TocType="TPC" id="23">Rejet de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Rejet de la motion</ProceduralText>
               <ParaText id="4557477">
                 <B>Le Président:</B> Comme il est 18 h 55, la Chambre passe maintenant à l'étude des initiatives parlementaires inscrites au <I>Feuilleton</I> d'aujourd'hui.</ParaText>
             </Content>
@@ -4326,7 +4306,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Loi sur la stratégie relative au programme national d'aide à la maternité </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4557478">La Chambre reprend l’étude, interrompue le  17 mai, de la motion portant que le projet de loi <Document DbId="8122307" Type="4">C-243, Loi visant l’élaboration d’une stratégie relative au programme national d’aide à la maternité et modifiant la Loi sur l’assurance-emploi (prestations de maternité)</Document> soit lu pour la deuxième fois et renvoyé à un comité. </ParaText>
-          <ProceduralText TocType="TPC" id="24">Projet de loi C-243. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="23">Projet de loi C-243. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. May (Cambridge)" id="9168144">
             <PersonSpeaking>
               <Affiliation DbId="214372" Type="2">M. Bryan May (Cambridge, Lib.)</Affiliation>: </PersonSpeaking>
@@ -4364,11 +4344,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4557501">Madame la Présidente, je suis heureuse de prendre part à la discussion concernant le projet de loi <Document DbId="8122307" Type="4">C-243</Document>, qui fait référence à l'élaboration et à la mise en oeuvre d'une stratégie relative au programme national d'aide à la maternité et modifie la loi sur l'assurance-emploi, afin de permettre à la prestataire de commencer à réclamer des prestations de maternité 15 semaines avant la semaine présumée de son accouchement s'il est impossible pour son employeur de l'affecter à un emploi qui ne mettrait pas en péril sa santé et celle de l'enfant à naître.</ParaText>
               <ParaText id="4557502">Il est intéressant de pouvoir regarder de plus près ce projet de loi émanant d'un député. Comme nous avons bien pu le lire dans le préambule du projet de loi <Document DbId="8122307" Type="4">C-243</Document>, deux éléments m'apparaissent importants.</ParaText>
-              <ParaText id="4557503">Premièrement, les femmes représentaient, en 2014, 47,3 % de la main d'oeuvre, comparativement à 31 % en 1976. Cela représente donc une augmentation de plus de 10 %. Ce qui est le plus intéressant, c'est que dans cette augmentation, on retrouve plus de femmes embrassant des métiers spécialisés et non traditionnels qui étaient auparavant réservés aux hommes. </ParaText>
+              <ParaText id="4557503">Premièrement, les femmes représentaient, en 2014, 47,3 % de la main-d'oeuvre, comparativement à 31 % en 1976. Cela représente donc une augmentation de plus de 10 %. Ce qui est le plus intéressant, c'est que dans cette augmentation, on retrouve plus de femmes embrassant des métiers spécialisés et non traditionnels qui étaient auparavant réservés aux hommes. </ParaText>
               <ParaText id="4557504">Deuxièmement, la grossesse ne devrait pas: empêcher les femmes de participer pleinement au marché du travail; nuire à leur emploi; leur créer des difficultés financières; ou les empêcher de mener la carrière qu'elles souhaitent. À mon avis, les femmes devraient avoir la possibilité de choisir. Pour ma part, je n'ai jamais pris complètement les semaines de mes congés de maternité. C'était mon choix, mais là n'est pas la question. </ParaText>
               <ParaText id="4557505">Plusieurs éléments entrent en jeu. D'abord, il y a les restrictions déjà présentes dans le projet de loi. De mon côté, j'aimerais que les 15 semaines que l'on veut rajouter deviennent transférables et non ajoutées aux 35 semaines dont bénéficient déjà les femmes enceintes après l'accouchement. Comme nous le savons tous, ici à la Chambre, un projet de loi émanant d'un député ne peut pas engendrer de coûts supplémentaires pour les contribuables. Si ce projet de loi devait engendrer des coûts supplémentaires, il deviendrait aussitôt irrecevable.</ParaText>
               <ParaText id="4557506">L'aspect le plus important pour que j'appuie ce projet de loi, c'est que ces 15 semaines soient transférables et non additionnées aux 35 semaines déjà en place. Je m'explique. Si une femme enceinte se sent incapable de travailler à cause de sa grossesse et qu'elle décide de prendre son congé 15 semaines avant la date d'accouchement prévue par le médecin, cela ne me pose aucun problème tant et aussi longtemps qu'après l'accouchement, cette même femme ne prenne pas plus que 20 semaines de congé de maternité. Cela donnerait un total de 35 semaines de congé, comme l'indique présentement la loi. De la même façon, je suis d'accord pour qu'une femme enceinte prenne 10 semaines avant qu'elle accouche et 25 semaines après l'accouchement, ou encore 12 semaines avant et 23 semaines après. </ParaText>
-              <ParaText id="4557507">Bref, je vois cela comme un segment de 35 semaines que l'on peut déplacer aux alentours de la date de l'accouchement tant que le total ne dépasse pas 35 semaines. Une fois ces conditions remplies, je ne peux qu'être en accord sur ce projet de loi. Il est primordial de protéger la santé de la mère biologique, celle de la mère porteuse, ainsi que celle de l'enfant à naître. Les causes peuvent être diverses, par exemple, un métier qui nécessite un effort physique soutenu et qui peut présenter un danger pour la mère ou une déficience de la capacité physique de la mère qui l'empêche de fonctionner normalement. Ce sont des situations où celle-ci devrait pouvoir prendre son congé de maternité avant l'accouchement. De plus, le fait de quitter plus tôt pour son congé à cause d'un état de santé qui empêche d'accomplir diverses tâches permet à l'employée de revenir au travail avant la fin des 35 semaines prévues après l'accouchement. </ParaText>
+              <ParaText id="4557507">Bref, je vois cela comme un segment de 35 semaines que l'on peut déplacer aux alentours de la date de l'accouchement tant que le total ne dépasse pas 35 semaines. Une fois ces conditions remplies, je ne peux qu'être en accord sur ce projet de loi. Il est primordial de protéger la santé de la mère biologique, celle de la mère porteuse, ainsi que celle de l'enfant à naître. Les causes peuvent être diverses, par exemple, un métier qui nécessite un effort physique soutenu et qui peut présenter un danger pour la mère ou une déficience de la capacité physique de la mère qui l'empêche de fonctionner normalement. Ce sont des situations où celle-ci devrait pouvoir prendre son congé de maternité avant l'accouchement. De plus, le fait de partir plus tôt en congé à cause d'un état de santé qui empêche d'accomplir diverses tâches permet à l'employée de revenir au travail avant la fin des 35 semaines prévues après l'accouchement. </ParaText>
               <Timestamp Hr="19" Mn="10">(1910)</Timestamp>
               <ParaText id="4557508">Cela assure à l'employeur un taux plus élevé de rentabilité, et pour la femme, un meilleur rendement au travail. Ce qui est encore plus important, c'est qu'elle se sentira bien en exerçant son métier et qu'elle sera en mesure de le faire.</ParaText>
               <ParaText id="4557509">Si je me répète, c'est seulement parce que je veux vraiment qu'on comprenne pourquoi j'appuierai ce projet de loi. En fait, je l'appuierai seulement si on parle de transfert de semaines, et non d'un ajout de semaines. </ParaText>
@@ -4385,13 +4365,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4557514">J'aimerais tout d'abord souligner que les libéraux se sont engagés à mener des consultations publiques pour déterminer plus précisément les modalités de ce nouveau programme. Bien que nous apprécions ce travail de consultation avec les organismes et les personnes concernées, il aurait été opportun de les consulter plus tôt. En effet, le gouvernement nous demande de voter sur un projet de loi qui n'est pas totalement achevé. </ParaText>
               <ParaText id="4557515">La véritable conclusion repose donc sur l'aboutissement des consultations annoncées en préambule de ce projet de loi. Par contre, nous n'avons aucune information sur ces consultations ni sur les stratégies de la consultation. De plus, le député de <Affiliation DbId="213953" Type="2">Kingston et les Îles</Affiliation> a reconnu d'emblée que le projet de loi dont on discute aujourd'hui n'est pas suffisant pour atteindre l'objectif d'un programme complet. </ParaText>
               <ParaText id="4557516">J'aimerais rappeler que le prédécesseur du député de <Affiliation DbId="213953" Type="2">Kingston et les Îles</Affiliation> a voté contre le projet de loi du NPD, déposé lors de la dernière législature. Celui-ci aurait permis au programme provincial Pour une maternité sans danger, du Québec, de s'appliquer aux femmes québécoises travaillant sous juridiction fédérale. Ce faisant, une partie des travailleuses des milieux professionnels à risque du Québec n'a pas pu bénéficier d'un programme dont les mérites sont pourtant vantés par le projet de loi <Document DbId="8122307" Type="4">C-243</Document>. Le NPD demande donc au gouvernement de prendre les mesures nécessaires pour que le programme Pour une maternité sans danger s'applique aux Québécoises issues d'un milieu de travail fédéral. </ParaText>
-              <ParaText id="4557517">J'ai l'impression que les libéraux nous jettent de la poudre aux yeux dans ce dossier comme dans plusieurs autres. Ils ne proposent pas une stratégie globale afin de d'assurer des milieux de travail sans danger pour les femmes enceintes et celles qui allaitent. </ParaText>
+              <ParaText id="4557517">J'ai l'impression que les libéraux nous jettent de la poudre aux yeux dans ce dossier comme dans plusieurs autres. Ils ne proposent pas une stratégie globale afin d'assurer des milieux de travail sans danger pour les femmes enceintes et celles qui allaitent. </ParaText>
               <ParaText id="4557518">Derrière l'apparente amélioration des conditions de vie des futures mères, les femmes n'obtiennent pas de nouveaux avantages sociaux. Le nombre de semaines indemnisées n'augmente pas. Le projet de loi se cantonne à laisser le choix de leur répartition, choix qui n'appartient d'ailleurs pas ultimement aux femmes, mais plutôt aux médecins. </ParaText>
               <ParaText id="4557519">Une chose m'inquiète ici. Une femme enceinte n'ayant pas obtenu de réaffectation devra sacrifier le temps qu'elle passera avec son enfant. Il suffit que des complications aient lieu lors de l'accouchement pour que la santé de la mère et de l'enfant soit en jeu. On peut penser par exemple à une césarienne d'urgence ou un coeur qui bat moins vite. Plusieurs complications peuvent survenir. Si la femme prend son congé de maternité 15 semaines avant son accouchement, elle n'aura que 2 semaines pour se reposer, reprendre des forces, passer du temps avec son bébé et profiter de ses premiers instants de vie en famille. </ParaText>
               <ParaText id="4557520">En tant que jeune et récente mère, je peux assurer que cela ne suffit pas. Développer un lien affectif avec son enfant est essentiel. Toutes les études le disent. Pour plusieurs femmes, se remettre d'un accouchement peut s'échelonner sur plusieurs semaines également. S'adapter à la vie de parents, s'outiller efficacement, cela ne s'apprend pas non plus en claquant des doigts. Alors, plus les bébés peuvent passer du temps avec leur mère et avec leurs parents, mieux c'est pour toute la famille. </ParaText>
               <ParaText id="4557521">Les libéraux se gargarisent du concept d'égalité des sexes, mais l'intégration des femmes au marché du travail passe aussi par une adaptation des milieux professionnels à risque. Nous demandons au gouvernement de prendre les mesures nécessaires afin d'obtenir des engagements concrets de la part des employeurs. </ParaText>
               <ParaText id="4557522">Réaffecter des femmes enceintes est d'autant plus important qu'elles ne bénéficient pas de la totalité de leur rémunération lors de leur congé de maternité. La plupart du temps, les prestations parentales d'assurance-emploi représentent seulement 55 % du salaire moyen hebdomadaire. C'est à peine plus que la moitié. Leur imposer un arrêt de travail plutôt qu'une réaffectation, c'est les condamner à la précarité. </ParaText>
-              <ParaText id="4557523">Il est donc essentiel d'inciter les employeurs à affecter les femmes enceintes à des tâches sans danger pour elles ou pour leur foetus. La santé et la sécurité des femmes enceintes ou qui allaitent relève d'une responsabilité collective, et les chefs d'entreprises, comme les législateurs, ont un rôle actif à jouer à ce sujet. </ParaText>
+              <ParaText id="4557523">Il est donc essentiel d'inciter les employeurs à affecter les femmes enceintes à des tâches sans danger pour elles ou pour leur foetus. La santé et la sécurité des femmes enceintes ou qui allaitent relèvent d'une responsabilité collective, et les chefs d'entreprises, comme les législateurs, ont un rôle actif à jouer à ce sujet. </ParaText>
               <Timestamp Hr="19" Mn="15">(1915)</Timestamp>
               <ParaText id="4557524">Pour le moment, la loi stipule qu'il « incombe à l’employeur de prouver qu’il est difficilement réalisable de modifier les tâches de l’employée ou de la réaffecter de façon à éviter les activités ou les conditions mentionnées dans le certificat médical ». </ParaText>
               <ParaText id="4557525">Notons le flou entourant l'expression « difficilement réalisable ». C'est simple, l'employeur n'a qu'à dire qu'il n'a pas réussi à trouver des tâches sans danger pour que la femme enceinte se retrouve obligée d'arrêter son activité professionnelle. Elle doit alors choisir entre une grossesse en santé et le temps consacré à son enfant. Il me semble contradictoire d'obliger les femmes à faire un choix aussi difficile sans contraindre les employeurs à faire le maximum pour les affecter à un autre poste. Il faut arrêter de déresponsabiliser les chefs d'entreprises.</ParaText>
@@ -4431,7 +4411,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4557550">Il est donc de bon aloi que le Canada entreprenne une étude et présente une politique visant à mieux appuyer les femmes enceintes dont le milieu de travail présente un danger pour elles ou l'enfant qu'elles portent.</ParaText>
               <ParaText id="4557551">Même si le secteur privé et à but non lucratif fait un travail incroyable pour encourager plus de femmes à se diriger vers les métiers spécialisés, le gouvernement doit faire sa part pour appuyer celles qui choisissent de travailler dans des domaines traditionnellement dominés par les hommes. Les données montrent que, bien que la participation globale des femmes à la population active ait augmenté, passant de 37 % en 1976 à 47 % en 2014, celles-ci demeurent gravement sous-représentées dans de nombreuses occupations traditionnellement réservées aux hommes. Par exemple, en 2012, les femmes ne représentaient que 4 % des travailleurs de la construction.</ParaText>
               <ParaText id="4557552">Si nous voulons que le Canada prospère dans le marché mondial, nous devons améliorer la représentation des femmes au sein de la population active. L'équilibre hommes-femmes et la diversité ne sont que l'une des clés pour rendre l'économie du Canada plus forte et plus concurrentielle. Toutefois, nous ne pourrons les atteindre si nous n'élaborons pas les programmes nécessaires pour appuyer cette transition.</ParaText>
-              <ParaText id="4557553">Nous voyons une occasion d'améliorer les choses. J'invite tous les députés à appuyer ce pas dans la bonne direction vers l'égalité hommes-femmes et à faire en sorte qu'à l'avenir, les Melodie connaissent un meilleur sort, dans leur propre intérêt, celui de leur famille et celui du pays.</ParaText>
+              <ParaText id="4557553">Nous y voyons une occasion d'améliorer les choses. J'invite tous les députés à appuyer ce pas dans la bonne direction vers l'égalité hommes-femmes et à faire en sorte qu'à l'avenir, les Melodie connaissent un meilleur sort, dans leur propre intérêt, celui de leur famille et celui du pays.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="19" Mn="30">(1930)</Timestamp>
@@ -4447,9 +4427,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4557558"> Le projet de loi déposé par le député de <Affiliation DbId="213953" Type="2">Kingston et les Îles</Affiliation> démontre bien que ce combat pour l'équité entre les hommes et les femmes sur le marché du travail est un combat de longue haleine, qui n'est pas encore gagné, bien que certains avancements aient été gagnés au cours des années.</ParaText>
               <ParaText id="4557559">Malgré leurs qualifications, leur expérience et même leur expertise, plusieurs femmes travaillent toujours dans des conditions moins favorables, avec des salaires inférieurs à ceux que l'on consent aux hommes pour le même travail, ce qui est totalement inadmissible en 2016. Ce l'était bien avant, mais il faut bien qu'on règle la situation un jour.</ParaText>
               <ParaText id="4557560"> À titre d'exemple, j'ai fait une grande tournée du milieu communautaire dans ma circonscription où, il faut bien le dire, une majorité des emplois sont détenus par les femmes. </ParaText>
-              <ParaText id="4557561">Par exemple, le programme de réduction d'impôt qu'ont mis en place les libéraux ne touchent pas la majorité de ces femmes, parce que dans le milieu communautaire, des salaires de 45 000 $ et plus par année, c'est rarissime. Par conséquent, à chaque niveau, les femmes sont fréquemment pénalisées.</ParaText>
+              <ParaText id="4557561">Par exemple, le programme de réduction d'impôt qu'ont mis en place les libéraux ne touche pas la majorité de ces femmes, parce que dans le milieu communautaire, des salaires de 45 000 $ et plus par année, c'est rarissime. Par conséquent, à chaque niveau, les femmes sont fréquemment pénalisées.</ParaText>
               <ParaText id="4557562">Le projet de loi <Document DbId="8122307" Type="4">C-243</Document> soulève justement la question des conditions de travail des femmes et propose l'établissement d'une stratégie fédérale, afin de protéger la santé des travailleuses enceintes ou qui allaitent exerçant un métier à risque. En vertu de ce projet de loi, la <Affiliation DbId="214313" Type="4">ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail</Affiliation> serait chargée de mener une série de consultations avec ses collègues fédéraux et ses homologues provinciaux pour définir les paramètres d'un nouveau programme destiné aux femmes, une consultation supplémentaire provenant du même gouvernement qui, deux mois avant le mois d'octobre 2015, nous disait avoir un plan à peu près sur tout.</ParaText>
-              <ParaText id="4557563">À mon avis, le temps des consultations est révolu. Si les consultations avaient été préalables au dépôt de ce projet de loi, nous aurions pu bénéficier de ce que j'appelle les meilleures pratiques, le modèle québécois en étant une par excellence. </ParaText>
+              <ParaText id="4557563">À mon avis, le temps des consultations est révolu. Si les consultations avaient été préalables au dépôt de ce projet de loi, nous aurions pu bénéficier de ce que j'appelle les meilleures pratiques, le modèle québécois en étant un parfait exemple. </ParaText>
               <ParaText id="4557564">Il faut évidemment étudier l'esprit et la lettre du projet de loi, un peu comme on le fait quand on étudie n'importe quel texte de convention collective ou de loi. Pour ce qui est de l'esprit de ce projet de loi, il est bien sûr difficile d'être contre. Je dis souvent qu'il est difficile d'être contre la vertu et la tarte aux pommes. Cela fait normalement l'assentiment général. Toutefois, ce projet de loi comporte d'immenses faiblesses, que j'espère voir corrigées si jamais il était envoyé en comité.</ParaText>
               <ParaText id="4557565">En effet, le projet de loi ne fait pas que déplacer le congé de maternité qu'une femme peut prendre. La différence, c'est qu'au lieu d'avoir la possibilité de partir huit semaines avant la date prévue pour l'accouchement, elle pourrait partir 15 semaines avant. On prend donc exactement la même fenêtre et on donne la possibilité aux femmes de la déplacer. Soit! C'est un départ. </ParaText>
               <ParaText id="4557566">Cependant, cela ne donne pas grand-chose de plus et, surtout, comme on joue exactement avec le même nombre de semaines, si une femme était obligée de devancer son départ au travail pour des raisons de sécurité personnelle ou pour l'enfant à naître, cela voudrait dire qu'elle amputerait le temps qu'elle pourrait consacrer à cette nouvelle relation une fois que l'enfant serait au monde.</ParaText>
@@ -4557,7 +4537,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ParaText id="4557627">
                 <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Conformément à l'article 93 du Règlement, le vote par appel nominal est différé jusqu'au mercredi 26 octobre, juste avant la période prévue pour les affaires émanant des députés.</ParaText>
-              <ProceduralText TocType="TPC" id="25">Report de vote sur la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="24">Report de vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4581,11 +4561,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4557629">Madame la Présidente, j'ai le plaisir de revenir brièvement sur les services de garde dans la fonction publique fédérale.</ParaText>
               <ParaText id="4557630">Dans les années 1980, le syndicat a commencé à exercer des pressions sur le gouvernement, afin que des garderies soient offertes en milieu de travail au profit des fonctionnaires fédéraux.</ParaText>
-              <ParaText id="4557631"> En 1986, le Comité spécial sur la garde d'enfants de la Chambre des communes a présenté son rapport intitulé Des obligations partagées. On a recommandé l'établissement de garderies dans les immeubles fédéraux, et il s'en est suivie la politique fédérale pour les garderies dans les établissements fédéraux. On parle donc d'une politique qui est en place depuis 1986. Personnellement, je trouverais assez étrange que le gouvernement ne soit pas au courant qu'une telle politique soit en place depuis 1986 — cela fait quand même 30 ans.</ParaText>
+              <ParaText id="4557631"> En 1986, le Comité spécial sur la garde d'enfants de la Chambre des communes a présenté son rapport intitulé « Des obligations partagées ». On a recommandé l'établissement de garderies dans les immeubles fédéraux, et il s'en est suivi la politique fédérale pour les garderies dans les établissements fédéraux. On parle donc d'une politique qui est en place depuis 1986. Personnellement, je trouverais assez étrange que le gouvernement ne soit pas au courant qu'une telle politique soit en place depuis 1986 — cela fait quand même 30 ans.</ParaText>
               <ParaText id="4557632">L'objectif de la politique du gouvernement du Canada est d'aider les employés qui sont des parents ayant besoin d'un service de garderie à pouvoir poursuivre leur carrière dans la fonction publique. L'énoncé de la politique dit clairement que l'employeur a pour politique d'aménager des garderies en milieu de travail, lorsque ces projets sont réalisables sur les plans financier et opérationnel. Cette politique s'applique à tous les ministères.</ParaText>
               <ParaText id="4557633">À mon avis, les garderies en milieu de travail représentent une idée raisonnable. Selon moi, dans la plupart des endroits, c'est réalisable sur les plans financier et opérationnel. On devrait donc en avoir davantage, et on devrait protéger celles déjà en place.</ParaText>
               <ParaText id="4557634">Les avantages des garderies en milieu de travail sont énormes. Tout d'abord, cela permet de réduire l'absentéisme. En effet, c'est sans doute un peu gênant d'emmener son enfant à la garderie en milieu de travail et de ne pas aller travailler par la suite. De plus, la facilité d'accès fait en sorte que les gens sont beaucoup plus présents au travail. Cela augmente la productivité, parce qu'on n'a pas à se creuser la tête ou à penser à beaucoup de choses. On ne s'est pas levé une heure et demie à l'avance pour avoir le temps d'emmener son enfant à la garderie, se battre dans le trafic, arriver au travail, et refaire le chemin inverse à la fin de la journée. Le moral est meilleur. On se sent plus motivé, et on ressent moins de stress. Les relations de travail sont donc plus harmonieuses. Cela contribue aussi à attirer de nouveaux employés. Il y a même des gens qui sont prêts à accepter un salaire relativement moins élevé, parce que des services de qualité sont offerts — évidemment, on ne parle pas d'une réduction de 100 $ par jour. Cela fait aussi en sorte que les employés vont rester en emploi, car ils ont de bons services et leurs enfants aiment les petits amis de la garderie.</ParaText>
-              <ParaText id="4557635">Les garderies en milieu de travail ont un impact extrêmement positif. Lorsque la garderie est un peu plus loin, il y a plus de stress. Parfois, on reçoit un appel pour dire que l'enfant ne va pas bien. Il faut partir du bureau à la course, conduire pendant 30 minutes avant d'arriver à la garderie et faire un autre 30 minutes de voiture pour revenir. Finalement, la personne aura perdu environ 1,5 heure de sa journée juste pour voir ce qui se passe. Lorsqu'il y a une garderie en milieu de travail, il faut environ 15 minutes pour s'y rendre. On peut prendre une pause et aller voir ce qui se passe. Parfois l'enfant est bien et on découvre qu'elle avait juste un peu de peine. On peut donc retourner au travail. Les garderies en milieu de travail sont donc extrêmement utiles. C'est la raison pour laquelle il faut que le gouvernement croit aux garderies en milieu de travail, croit à la rétention des employés et croit à l'efficacité du gouvernement lorsque de bonnes politiques sont en place.</ParaText>
+              <ParaText id="4557635">Les garderies en milieu de travail ont un impact extrêmement positif. Lorsque la garderie est un peu plus loin, il y a plus de stress. Parfois, on reçoit un appel pour dire que l'enfant ne va pas bien. Il faut partir du bureau à la course, conduire pendant 30 minutes avant d'arriver à la garderie et faire un autre 30 minutes de voiture pour revenir. Finalement, la personne aura perdu environ 1,5 heure de sa journée juste pour voir ce qui se passe. Lorsqu'il y a une garderie en milieu de travail, il faut environ 15 minutes pour s'y rendre. On peut prendre une pause et aller voir ce qui se passe. Parfois l'enfant est bien et on découvre qu'elle avait juste un peu de peine. On peut donc retourner au travail. Les garderies en milieu de travail sont donc extrêmement utiles. C'est la raison pour laquelle il faut que le gouvernement croie aux garderies en milieu de travail, croie à la rétention des employés et croie à l'efficacité du gouvernement lorsque de bonnes politiques sont en place.</ParaText>
               <ParaText id="4557636">J'aimerais vraiment que le gouvernement comprenne l'importance des garderies en milieu de travail.</ParaText>
               <ParaText id="4557637">Je vais maintenant laisser la <Affiliation DbId="214675" Type="18">secrétaire parlementaire de la ministre des Services publics et de l’Approvisionnement</Affiliation> faire ses commentaires.</ParaText>
             </Content>

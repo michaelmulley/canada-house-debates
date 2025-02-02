@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9238850">
   <StartPageNumber>6831</StartPageNumber>
   <DocumentTitle>
@@ -461,10 +443,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
               <ParaText>
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="2" Align="Left" />
+                  <QuotePara IndentFirst="2" IndentRest="2" Align="Left">
+                  </QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4639327">
+              <ParaText id="4639326">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, 15 minutes avant l’expiration du temps prévu pour les Ordres émanant du gouvernement au cours du jour de séance attribué pour l’étude à l’étape de la deuxième lecture de ce projet de loi, toute délibération devant la Chambre soit interrompue, s’il y a lieu aux fins de cet ordre, et, par la suite, toute question nécessaire pour disposer de cette étape soit mise aux voix immédiatement et successivement, sans plus ample débat ni amendement. </QuotePara>
                 </Quote>
@@ -1691,7 +1674,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4639683">Avant de céder la parole au député de Brampton-Est, je vous rappelle qu’il y a actuellement un débat en cours. Les échanges amicaux sont bienvenus, mais dans la mesure où les interlocuteurs s’en tiennent aux chuchotements. Je vous demande de parler à voix basse, pour permettre à vos collègues de suivre ce très sérieux débat.</ParaText>
+              <ParaText id="4639683">Avant de céder la parole au député de Brampton-Est, je rappelle qu’il y a actuellement un débat en cours. Les échanges amicaux sont bienvenus, mais dans la mesure où les interlocuteurs s’en tiennent aux chuchotements. Je vous demande de parler à voix basse, pour permettre à vos collègues de suivre ce très sérieux débat.</ParaText>
               <ParaText id="4639684">Le député de Brampton Est a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -1736,7 +1719,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214213" Type="2">M. Paul Lefebvre (Sudbury, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4639694">Monsieur le Président, connaît-on une de ces perles rares qui transforme son milieu grâce à son leadership communautaire? Chez nous, à Sudbury, l'engagement de Gisèle Chrétien fait en sorte que notre communauté est un endroit où il fait bon vivre. </ParaText>
+              <ParaText id="4639694">Monsieur le Président, connaissez-vous une de ces perles rares qui transforme son milieu grâce à son leadership communautaire? Chez nous, à Sudbury, l'engagement de Gisèle Chrétien fait en sorte que notre communauté est un endroit où il fait bon vivre. </ParaText>
               <ParaText id="4639695">Bénévole omniprésente, Gisèle appuie des causes dans les domaines de la santé, de l'éducation, du développement économique et des services en français. Elle a mené la charge pour la création du Collège Boréal et elle en a été la présidente pendant près d'une décennie. Elle a aussi présidé le conseil d'administration de TFO et celui de Horizon Santé-Nord. Elle a fondé des groupes d'entraide pour les enfants aux prises avec le diabète, siégé au conseil de la Société d'aide à l'enfance et de la Chambre de commerce, et elle a même publié un livre sur le leadership.</ParaText>
               <ParaText id="4639696">Tout dernièrement, on reconnaissait son travail en lui remettant le Prix 2016 de la francophonie de l'ACFO du grand Sudbury. Gisèle est la preuve vivante que l'implication d'une seule personne peut enrichir toute une communauté.</ParaText>
               <ParaText id="4639697">Félicitations et merci, Gisèle!</ParaText>
@@ -1860,7 +1843,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9241109">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les attraits touristiques de Nouveau-Brunswick-Sud-Ouest</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Nouveau-Brunswick-Sud-Ouest</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ludwig" id="9241110">
             <PersonSpeaking>
@@ -1906,7 +1889,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214396" Type="2">M. Garnett Genuis (Sherwood Park—Fort Saskatchewan, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4639734">Madame la Présidente, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a refusé de répondre à une question pourtant très simple: les services des bonnes d'enfants qu'il a engagées aux frais du contribuable sont-ils considérés comme un avantage imposable? Le gouvernement nous a promis la transparence, mais c'est tout le contraire qui se produit. Les Canadiens ont le droit de connaître les avantages dont jouissent leurs élus. La question de savoir si ces avantages sont imposables ou non n'a rien à voir avec la vie privée; c'est la loi, et le premier ministre doit obéir à la loi, comme tout le monde. S'il reçoit un avantage imposable de son employeur — dans ce cas-ci les contribuables du pays —, il doit payer de l'impôt en conséquence.</ParaText>
+              <ParaText id="4639734">Monsieur  le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a refusé de répondre à une question pourtant très simple: les services des bonnes d'enfants qu'il a engagées aux frais du contribuable sont-ils considérés comme un avantage imposable? Le gouvernement nous a promis la transparence, mais c'est tout le contraire qui se produit. Les Canadiens ont le droit de connaître les avantages dont jouissent leurs élus. La question de savoir si ces avantages sont imposables ou non n'a rien à voir avec la vie privée; c'est la loi, et le premier ministre doit obéir à la loi, comme tout le monde. S'il reçoit un avantage imposable de son employeur — dans ce cas-ci les contribuables du pays —, il doit payer de l'impôt en conséquence.</ParaText>
               <ParaText id="4639735">Quand on les interroge sur ces bonnes d'enfants, les libéraux répètent invariablement que, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ayant une jeune famille, ses besoins ne sont pas les mêmes. Eh bien j'aimerais lui signaler qu'il n'est pas le seul ici présent ou au Canada à avoir une jeune famille. Quand la plupart des gens ont besoin d'engager quelqu'un pour garder leurs enfants, ils paient de leur poche.</ParaText>
               <ParaText id="4639736">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> devrait accepter de répondre aux questions les plus élémentaires quant aux avantages dont il jouit. Rien ne justifie que ses enfants se fassent garder exclusivement aux frais du contribuable. Le premier ministre doit obéir à la loi; le premier ministre doit payer ses impôts.</ParaText>
             </Content>
@@ -1953,7 +1936,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4639744">J'aimerais féliciter l'implication citoyenne de M. Éric Stejskal, directeur général de l'entreprise Boire et frères, qui assure la présidence d'honneur de cette édition 2016.</ParaText>
               <ParaText id="4639745">De plus, je félicite au passage Mme Julie Dubois, coordonnatrice de l'Opération Nez rouge Drummondville, et M. Dominic Villeneuve, responsable de la Fondation du Cégep de Drummondville.</ParaText>
               <ParaText id="4639746">Tous les profits seront versés à la Fondation du Cégep de Drummondville, afin de soutenir les étudiants-athlètes des équipes intercollégiales du Cégep de Drummondville, Les Voltigeurs.</ParaText>
-              <ParaText id="4639747">J'invite les citoyens du grand Drummond à s'impliquer activement dans cette 33<Sup>e</Sup> campagne de l'Opération Nez Rouge. Les gens ne doivent pas hésiter à faire appel à Nez Rouge s'ils ont pris un verre de trop.</ParaText>
+              <ParaText id="4639747">J'invite les citoyens du Grand Drummond à s'impliquer activement dans cette 33<Sup>e</Sup> campagne de l'Opération Nez Rouge. Les gens ne doivent pas hésiter à faire appel à Nez Rouge s'ils ont pris un verre de trop.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2106,7 +2089,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214316" Type="4">L’hon. Maryam Monsef (ministre des Institutions démocratiques, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4639784">Monsieur le Président, j'ai le grand privilège de me tenir, ici, sur ce territoire traditionnel algonquin.</ParaText>
+              <ParaText id="4639784">Monsieur le Président, j'ai le grand privilège de me tenir ici, sur ce territoire traditionnel algonquin.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4639785">Je tiens à remercier les membres du comité d'avoir travaillé si fort et si assidûment pour entendre ce que les Canadiens avaient à dire. Ils ont uni leurs efforts en vue de soumettre un rapport à la Chambre. J'ai hâte de recevoir le rapport le 1<Sup>er</Sup> décembre prochain et de revenir à la Chambre pour présenter un plan réfléchi.</ParaText>
             </Content>
@@ -2285,7 +2268,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4639826">Monsieur le Président, alors que 15 milliards de dollars dédiés aux villes seront investis dans cette nouvelle banque de l'infrastructure, on a appris, lors d'une séance du Comité permanent des finances, que ceux qui tirent les ficelles dans ce projet considèrent que des projets de plus de 100 millions de dollars ne sont pas assez payants pour eux et qu'ils souhaiteraient avoir des projets de 500 millions de dollars. C'est encore pire. </ParaText>
               <ParaText id="4639827">En allant dans cette direction, toutes les municipalités en région, petites et moyennes, ne verront jamais leurs projets se réaliser chez elles. </ParaText>
-              <ParaText id="4639828">J'invite les députés de l'autre côté de la Chambre, et particulièrement les 40 députés du Québec, à se lever et à être courageux pour parler au ministre et lui faire comprendre qu'on s'en va dans la mauvaise direction. </ParaText>
+              <ParaText id="4639828">J'invite les députés de l'autre côté de la Chambre, et particulièrement les 40 députés du Québec, à se lever, à être courageux, à parler au ministre et lui faire comprendre qu'on s'en va dans la mauvaise direction. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2646,7 +2629,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214688" Type="18">L'hon. John McKay (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4639913">Monsieur le Président, nous collaborons de près aux efforts que déploient nos alliés et les organismes multilatéraux pour lutter contre le terrorisme et relever les défis sécuritaires d'aujourd'hui.</ParaText>
-              <ParaText id="4639914">Le ministre, comme la députée le sait assurément, s'est rendu deux fois en Afrique. Il a demandé à deux spécialistes des conflits, le général Dallaire et la juge Louise Arbour, de l'accompagner. C'est fort de leurs conseils et les yeux grand ouverts qu'il s'embarque dans ces missions...</ParaText>
+              <ParaText id="4639914">Le ministre, comme la députée le sait assurément, s'est rendu deux fois en Afrique. Il a demandé à deux spécialistes des conflits, le général Dallaire et la juge Louise, de l'accompagner. C'est fort de leurs conseils et les yeux grand ouverts qu'il s'embarque dans ces missions...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9241468">
@@ -2973,7 +2956,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4639984">
                 <B>Une voix:</B> Huit motions.</ParaText>
               <ParaText id="4639985">
-                <B>M. Luc Berthold:</B> Huit motions, monsieur le Président.</ParaText>
+                <B>M. Luc Berthold:</B> Il y a eu huit motions, monsieur le Président.</ParaText>
               <ParaText id="4639986">J'ai commencé à parler anglais. Tout le monde m'entendra bientôt parler de plus en plus en anglais, mais pas maintenant. Je continue en français parce que mon discours est en français.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4639987">Le 27 octobre 2011, le député de <Affiliation DbId="213924" Type="2">Winnipeg-Nord </Affiliation> a dit:</ParaText>
@@ -3451,10 +3434,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4640186">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera à l'heure de l'ajournement ce soir, à savoir: l'honorable députée de <Affiliation DbId="214064" Type="2">Saint-Hyacinthe—Bagot</Affiliation>, La santé; l'honorable député d'<Affiliation DbId="214072" Type="2">Abbotsford</Affiliation>, L'environnement; l'honorable députée de <Affiliation DbId="214470" Type="2">North Island—Powell River</Affiliation>, Les services publics et l'approvisionnement.</ParaText>
-              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4640187"> Nous reprenons le débat. Le secrétaire parlementaire de la ministre du Patrimoine canadien a la parole.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Boissonnault" id="9242297">
             <PersonSpeaking>
               <Affiliation DbId="214682" Type="18">M. Randy Boissonnault (secrétaire parlementaire de la ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
@@ -4483,7 +4465,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4640396">Comme il est 18 h 33, la Chambre passe maintenant à l'étude des initiatives parlementaires inscrites au <I>Feuilleton</I> d'aujourd'hui.</ParaText>
+              <ParaText id="4640396">Comme il est 18 h 33, la Chambre passera maintenant à l'étude des initiatives parlementaires inscrites au <I>Feuilleton</I> d'aujourd'hui.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4740,7 +4722,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4640528"> propose que le projet de loi <Document DbId="8441519" Type="4">C-309, Loi instituant la Semaine de l'égalité des sexes</Document>, soit lu pour la deuxième fois et renvoyé à un comité. </ParaText>
               <ProceduralText TocType="TPC" id="11">Projet de loi C-309. Deuxième lecture</ProceduralText>
               <ParaText id="4640529">— Monsieur le Président, j'ai l'honneur et le plaisir de prendre la parole aujourd'hui au sujet de mon projet de loi d'initiative parlementaire, le projet de loi <Document DbId="8441519" Type="4">C-309, Loi instituant la Semaine de l'égalité des sexes</Document>.</ParaText>
-              <ParaText id="4640530">Je tiens tout d'abord à remercier mon équipe incroyable, particulièrement mon adjoint législatif, Adrian Zeta Bennett; l'équipe fantastique des rédacteurs législatifs parlementaires, particulièrement Wendy Gordon; et tous ceux qui ont fourni des idées, des commentaires et des opinions collectives au cours des derniers mois, et surtout les femmes de la circonscription de Mississauga—Lakeshore et de nombreuses autres régions du Canada qui ont encouragé Adrian et moi à aller de l'avant avec ce projet.</ParaText>
+              <ParaText id="4640530">Je tiens tout d'abord à remercier mon équipe incroyable, particulièrement mon adjoint législatif, Adrian Zita-Bennett; l'équipe fantastique des rédacteurs législatifs parlementaires, particulièrement Wendy Gordon; et tous ceux qui ont fourni des idées, des commentaires et des opinions collectives au cours des derniers mois, et surtout les femmes de la circonscription de Mississauga—Lakeshore et de nombreuses autres régions du Canada qui ont encouragé Adrian et moi à aller de l'avant avec ce projet.</ParaText>
               <ParaText id="4640531">Nous avons communiqué avec des gouvernements provinciaux, des administrations municipales, des ministres, des groupes de femmes autochtones, des organismes et refuges pour femmes locaux comme Armagh House et la division de Mississauga du Congrès des femmes noires du Canada, la communauté LGBTQ2, des universitaires, des comités consultatifs et de simples citoyens.</ParaText>
               <ParaText id="4640532">Le projet de loi <Document DbId="8441519" Type="4">C-309</Document> est sans contredit un travail d'équipe, et je suis très reconnaissant de toutes les idées, de toutes les questions et de toutes les suggestions qui ont mené à son élaboration. L'histoire commence au printemps dernier, lorsque mon amie et ancienne camarade de classe Rachelle Bergen se présente à mon bureau de circonscription. Rachelle est l'une des membres fondatrices de Strength in Stories, un organisme communautaire qui mise sur le puissant pouvoir évocateur de l'art de conter pour faire connaître les expériences de Canadiennes, y compris des Autochtones et des nouvelles arrivantes, au moyen de récits axés sur la résilience et le courage de surmonter les obstacles.</ParaText>
               <ParaText id="4640533">L'éducation et la sensibilisation sont au coeur de l'organisme.</ParaText>
@@ -4882,7 +4864,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4640611">Nous voulons qu'une stratégie plus complète soit mise en oeuvre pour que prenne fin la violence contre les femmes. Nous n'avons toujours pas de plan d'action national destiné à promouvoir la protection des femmes et des filles en dépit de l'engagement pris auprès des Nations unies en 1995. Depuis lors, de nombreux pays ont adopté un plan d'action national, y compris la Belgique, la Finlande, la France, et le Royaume-Uni. L'Australie en est à son quatrième plan, ce qui brise certains stéréotypes concernant la prétendue mentalité de cowboy dans ce pays. Au Canada, les taux de violence contre les femmes sont demeurés largement inchangés sur une période de 20 ans, et l'absence d'un plan d'action national donne lieu à des approches fragmentaires à l'échelon provincial et territorial. Nous souhaitons que le plan d'action dont la ministre entreprend la mise en oeuvre ait une portée plus large, de manière à inclure les services à fournir dans les domaines de compétence provinciale. C'est ce qui devrait caractériser un plan national. Il devrait englober l'éducation, les services de police et le système judiciaire, car ces services ont un rôle essentiel à jouer si l'on veut mettre fin à la violence contre les femmes.</ParaText>
               <ParaText id="4640612">Nous voulons que les refuges pour les femmes qui fuient la violence conjugale soient bien financés. Les refuges hébergent jour après jour plus de 4 000 femmes et plus de 2 000 enfants. Chaque jour, plus de 300 femmes et enfants figurent sur la liste des personnes qui auraient besoin d'être hébergées dans un refuge, mais qui n'y trouvent pas de place. Trois femmes sur quatre se heurtent à un refus et doivent chercher de l'aide ailleurs. Le nombre d'appels téléphoniques reçus par la société Haven, dans ma circonscription, Nanaimo—Ladysmith, a augmenté de 24 %. De plus en plus de femmes demandent de l'aide. Il nous faut une offre accrue de services pour pouvoir répondre à leurs besoins. Nous demandons instamment au gouvernement fédéral de prévoir un meilleur financement des refuges pour les femmes victimes de violence conjugale et nous rappelons qu'au milieu des années 1990, le gouvernement Chrétien a réduit le financement accordé pour le fonctionnement des refuges, dans le cadre de ce qui a été qualifié de compressions les plus draconiennes des dépenses fédérales de toute l'histoire du pays.</ParaText>
               <Timestamp Hr="20" Mn="10">(2010)</Timestamp>
-              <ParaText id="4640613">Les néo-démocrates veulent pour les Premières Nations, les Métis et les femmes inuites des refuges pour victimes de violence conjugale. D'après Amnistie internationale, compte tenu de son ampleur et de sa gravité, la violence faite aux femmes et aux filles autochtones au Canada équivaut à une crise nationale en matière de droits de la personne. Quelque 70 % des collectivités inuites n'ont accès à aucun refuge pour victimes de violence conjugale. </ParaText>
+              <ParaText id="4640613">Les néo-démocrates veulent pour les Premières Nations, les Métis et les femmes inuites des refuges pour victimes de violence conjugale. D'après Amnistie internationale: « De par son ampleur et sa gravité, la violence dont sont victimes les femmes et les filles autochtones du Canada [...] équivaut à une crise nationale sur le plan des droits de la personne. » Quelque 70 % des collectivités inuites n'ont accès à aucun refuge pour victimes de violence conjugale. </ParaText>
               <ParaText id="4640614">Le taux de violence à l'égard des femmes autochtones est trois fois plus élevé que le taux de violence à l'égard du reste de la population canadienne. Malgré cela, le budget libéral ne prévoit le financement que de cinq nouveaux refuges dans les réserves au cours des cinq prochaines années. Le nombre total de refuges pour femmes dans les réserves ne serait que de 46 pour l'ensemble du Canada d'ici 2022, bien après que sera terminé le mandat du gouvernement. Il faut aussi examiner plus en profondeur la question des refuges pour femmes victimes de violence à l'extérieur des réserves.</ParaText>
               <ParaText id="4640615">L'analyse comparative entre les sexes doit faire l'objet d'une mesure législative au Canada. La question de l'égalité entre les sexes pourrait être exacerbée par les politiques et les décisions en matière de dépenses si nous ne disposons pas d'une mesure législative nous permettant de prendre ce genre de décision. En juin dernier, le Comité permanent de la condition féminine a recommandé qu'un projet de loi soit présenté à la Chambre avant juin 2017. Les néo-démocrates ont recommandé qu'un tel projet de loi soit présenté le mois prochain, parce que nous devons avoir une longueur d'avance sur les changements d'orientation et les dépenses en infrastructure qui auront lieu sous peu. Cependant, la réponse du gouvernement ne prévoit aucun échéancier. Le gouvernement croit peut-être qu'en 2018 il déterminera si une mesure serait vraiment utile. En conséquence, aucun échéancier n'a été établi pour la présentation d'une mesure législative.</ParaText>
               <ParaText id="4640616">Nous avons besoin de services de garde d'enfants dans ce pays, des services de garde abordables et de grande qualité, qui permettront aux femmes de chercher de l'emploi, d'améliorer leurs compétences professionnelles et leur carrière et de diminuer les difficultés financières qu'éprouvent les familles. J'ai été ravie de constater cette semaine que la première ministre Notley, la nouvelle première ministre néo-démocrate de l'Alberta, va créer 1 000 nouvelles places en garderie et 230 nouveaux emplois dans les garderies. Comme l'a si bien dit Stephen Lewis, sans un programme national de garderie, le féminisme n'est qu'un concept vide de sens. </ParaText>

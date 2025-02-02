@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9356037">
-  <StartPageNumber>8623</StartPageNumber>
+  <StartPageNumber>8619</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -63,7 +45,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Timestamp Hr="14" Mn="00">(1400)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9356040">
+          <Intervention Type="Interjection" ToC="No" id="9356040">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -96,7 +78,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9356049">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le Mois de l'histoire des Noirs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Peel Memorial Hospital</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Oliver" id="9356050">
             <PersonSpeaking>
@@ -146,7 +128,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4735804">Les données recueillies grâce au recensement sont essentielles pour notre...</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9356058">
+          <Intervention Type="Interjection" ToC="No" id="9356058">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -223,9 +205,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9356076">
         <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les hôpitaux</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Peel Memorial Hospital</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sidhu (Brampton-Sud)" id="9356077">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sidhu  (Brampton-Sud)" id="9356077">
             <PersonSpeaking>
               <Affiliation DbId="214161" Type="2">Mme Sonia Sidhu (Brampton-Sud, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -306,7 +288,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9356175">
-        <SubjectOfBusinessTitle>L'honorable Lincoln Alexander</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Lincoln Alexander</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Bratina" id="9356348">
             <PersonSpeaking>
@@ -381,7 +363,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4735861">Monsieur le Président, en mars 2016, le vice-président du programme de la C Series, chez Bombardier, a qualifié une possible contribution fédérale de cette façon: ce serait un extra qui serait utile, mais qui n'est vraiment pas nécessaire.</ParaText>
-              <ParaText id="4735862">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> peut-il nous dire pourquoi son gouvernement va de l'avant avec ce prêt, alors que la compagnie a dit que ce n'était pas nécessaire?</ParaText>
+              <ParaText id="4735862">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> peut-il nous dire pourquoi son gouvernement met en avant ce prêt, alors que la compagnie a dit que ce n'était pas nécessaire?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="9356144">
@@ -434,7 +416,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9356156">
+          <Intervention Type="Interjection" ToC="No" id="9356156">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -495,7 +477,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4735889">Monsieur le Président, chaque jour, 400 000 Canadiens traversent cette frontière avec les États-Unis. Nous sommes en train de travailler avec l'administration américaine. Non seulement notre ambassadeur et les gens de mon bureau, mais plusieurs ministres, dont la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> qui est là aujourd'hui, discutent justement de comment nous allons pouvoir améliorer les processus entre nos deux pays, y compris défendre les droits des Canadiens. C'est un enjeu qui préoccupe tout le monde ici et nous nous en occupons. </ParaText>
+              <ParaText id="4735889">Monsieur le Président, chaque jour, 400 000 Canadiens traversent la frontière avec les États-Unis. Nous sommes en train de travailler avec l'administration américaine. Non seulement notre ambassadeur et les gens de mon bureau, mais plusieurs ministres dont la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> qui est là aujourd'hui, discutent justement de la façon dont nous allons pouvoir améliorer les processus entre nos deux pays, y compris défendre les droits des Canadiens. C'est un enjeu qui préoccupe tout le monde ici, et nous nous en occupons. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -509,8 +491,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213985" Type="2">L'hon. Thomas Mulcair (Outremont, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4735890">Monsieur le Président, nous savons que la <Affiliation DbId="229218" Type="4">ministre des Institutions démocratiques</Affiliation> a été informée que le gouvernement abandonnait sa promesse seulement une journée avant qu'elle soit forcée de l'annoncer. </ParaText>
-              <ParaText id="4735891">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'a pas fait l'annonce lui-même. Il s'est caché derrière sa nouvelle ministre. Il a refusé de prendre la responsabilité de sa tromperie.</ParaText>
-              <ParaText id="4735892">J'ai une question très précise pour le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>: à quelle date a-t-il décidé de renier sa promesse?</ParaText>
+              <ParaText id="4735891">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> n'en a pas fait l'annonce lui-même. Il s'est caché derrière sa nouvelle ministre. Il a refusé de prendre la responsabilité de sa tromperie.</ParaText>
+              <ParaText id="4735892">J'ai une question très précise à l'intention du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>: à quelle date a-t-il décidé de renier sa promesse?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="9356173">
@@ -542,7 +524,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9356181">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les affaires étrangères</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les relations canado-américianes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lebel" id="9356180">
             <PersonSpeaking>
@@ -556,7 +538,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="229507" Type="18">L’hon. Andrew Leslie (secrétaire parlementaire de la ministre des Affaires étrangères (Relations canado-américaines), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4735901">Monsieur le Président, la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> rencontrait aujourd'hui son homologue, le secrétaire d'État, Rex Tillerson. Les deux chefs politiques ont discuté des questions prioritaires et des domaines de collaboration entre le Canada et les États-Unis. Ils ont souligné l'importance des relations économiques entre les deux pays qui représentent des millions d'emplois pour la classe moyenne. Ils ont également discuté des relations commerciales équilibrées et mutuellement avantageuses entre le Canada et les États-Unis, de même que du bois d'oeuvre. Nous défendrons avec vigueur nos intérêts naturels. </ParaText>
+              <ParaText id="4735901">Monsieur le Président, la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> rencontrait aujourd'hui son homologue, le secrétaire d'État Rex Tillerson. Les deux chefs politiques ont discuté des questions prioritaires et des domaines de collaboration entre le Canada et les États-Unis. Ils ont souligné l'importance des relations économiques entre les deux pays qui représentent des millions d'emplois pour la classe moyenne. Ils ont également discuté des relations commerciales équilibrées et mutuellement avantageuses entre le Canada et les États-Unis, de même que du bois d'oeuvre. Nous défendrons avec vigueur nos intérêts naturels. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -570,7 +552,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4735902">Monsieur le Président, hier, avec plusieurs de mes confrères et consoeurs députés du Parlement, nous avons rencontré une délégation de maires de l'Union des municipalités du Québec.</ParaText>
               <ParaText id="4735903"> Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> vient de dire que les lettres de mandat des ministres sont leur bible. Or il n'est écrit dans aucune lettre de mandat qu'il faut régler le dossier du bois d'oeuvre. C'est très inquiétant.</ParaText>
-              <ParaText id="4735904">Comment ces politiciens qui croient à l'avenir de l'industrie forestière au Québec et partout au Canada peuvent-il espérer avoir du soutien, alors qu'on ne fait que parler et qu'il n'y a jamais de résultats? </ParaText>
+              <ParaText id="4735904">Comment ces politiciens qui croient en l'avenir de l'industrie forestière au Québec et partout au Canada peuvent-il espérer avoir du soutien, alors qu'on ne fait que parler et qu'il n'y a jamais de résultats? </ParaText>
               <ParaText id="4735905">Est-ce qu'il y aura enfin un résultat?</ParaText>
             </Content>
           </Intervention>
@@ -578,7 +560,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="229507" Type="18">L’hon. Andrew Leslie (secrétaire parlementaire de la ministre des Affaires étrangères (Relations canado-américaines), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4735906">Monsieur le Président, nous sommes toujours engagés à protéger le régime forestier québécois, et nous continuons de l'inclure dans toutes nos négociations. </ParaText>
+              <ParaText id="4735906">Monsieur le Président, nous sommes toujours occupés à protéger le régime forestier québécois, et nous continuons de l'inclure dans toutes nos négociations. </ParaText>
               <ParaText id="4735907">Nous continuons de collaborer étroitement avec les travailleurs et les producteurs du secteur du bois d'oeuvre, les provinces et les territoires, parce que nous cherchons un bon accord pour le Canada et le Québec, pas n'importe lequel. </ParaText>
             </Content>
           </Intervention>
@@ -629,7 +611,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4735918">Monsieur le Président, j'ai une question toute simple à vous poser: que vaut la parole du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>? Tout à l'heure, on a vu que le premier ministre est resté sans voix à la suite de la question de la <Affiliation DbId="214611" Type="96">chef de l’opposition</Affiliation>.</ParaText>
-              <ParaText id="4735919">La semaine dernière, presque exactement à la minute près, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a dit à la Chambre, et je cite: « Nous n'allons pas taxer l'assurance-santé et l'assurance-dentaire. »</ParaText>
+              <ParaText id="4735919">La semaine dernière, presque exactement à la minute près, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a dit à la Chambre, et je cite, nous n'allons pas taxer l'assurance-santé et l'assurance-dentaire.</ParaText>
               <ParaText id="4735920">Or, hier, nous avons déposé une motion qui reprenait exactement les mots du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, et ce dernier — quelle surprise — a voté contre la motion contenant ses propres mots. Ma question est fort simple.</ParaText>
               <ParaText id="4735921">Est-ce que le champion des promesses brisées est devenu le champion de la parole brisée?</ParaText>
             </Content>
@@ -639,15 +621,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="229486" Type="18">L’hon. Ginette Petitpas Taylor (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4735922">Monsieur le Président, notre gouvernement s'est engagé à investir dans la classe moyenne et ceux qui travaillent très fort pour en faire partie. </ParaText>
-              <ParaText id="4735923">Finalement, c'est notre parti qui a accordé une baisse d'impôt à la classe moyenne, et c'est le parti d'en face qui a voté contre cette motion. C'est aussi notre parti qui a mis sur pied l'Allocation canadienne pour enfants, qui est plus généreuse et qui va aider les Canadiens et Canadiennes à élever leurs enfants.</ParaText>
-              <ParaText id="4735924">Nous allons de l'avant avec notre plan pour soutenir la classe moyenne, et nous en sommes très fiers.</ParaText>
+              <ParaText id="4735923">Finalement, c'est notre parti qui a accordé une baisse d'impôt à la classe moyenne, et c'est le parti d'en face qui a voté contre cette motion. C'est aussi notre parti qui a mis sur pied l'Allocation canadienne pour enfants, qui est plus généreuse et qui va aider les Canadiens et les Canadiennes à élever leurs enfants.</ParaText>
+              <ParaText id="4735924">Nous mettons en avant notre plan pour soutenir la classe moyenne, et nous en sommes très fiers.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Deltell" id="9356237">
             <PersonSpeaking>
               <Affiliation DbId="213959" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4735925">Monsieur le Président, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> commence à avoir de la concurrence par rapport à la personne qui ne répond pas aux questions. La question était fort simple, et on constate encore une fois que ce gouvernement dit une chose et vote de façon contraire.</ParaText>
+              <ParaText id="4735925">Monsieur le Président, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> commence à avoir de la concurrence pour ce qui est de la personne qui ne répond pas aux questions. La question était fort simple, et on constate encore une fois que ce gouvernement dit une chose et vote de façon contraire.</ParaText>
               <ParaText id="4735926">Est-ce que le gouvernement pourrait s'engager maintenant en ce qui concerne la protection des crédits d'impôt qui touchent directement des milliers de Canadiens, soit ceux qui ont trait au transport en commun, aux pompiers volontaires et au régime enregistré d'épargne-études?</ParaText>
             </Content>
           </Intervention>
@@ -725,7 +707,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9356262">
+          <Intervention Type="Interjection" ToC="No" id="9356262">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -789,7 +771,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4735958">Le gouvernement rappelle aux Canadiens que le projet d'agrandissement du réseau de Nova Gas créera 3 000 emplois. Le remplacement de la canalisation 3 d'Enbridge créera 7 000 emplois. Quant à l'expansion du pipeline de Trans Mountain, elle créera 15 400 emplois. Ces projets seront le fondement à long terme de bons emplois qui permettront aux gens d'élever... </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9356310">
+          <Intervention Type="Interjection" ToC="No" id="9356310">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -846,8 +828,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214178" Type="2">M. Ramez Ayoub (Thérèse-De Blainville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4735969">Monsieur le Président, dans ma circonscription, Thérèse-De Blainville, beaucoup de citoyens travaillent directement dans l'industrie reliée au secteur aérospatial ou y sont associés. Plusieurs entreprises et familles ont des liens avec le secteur aérospatial. Nous avons également des institutions et organisations qui pilotent des études de recherche-développement pour le secteur aérospatial.</ParaText>
-              <ParaText id="4735970">Ma question s'adresse au <Affiliation DbId="214319" Type="4">ministre de l'Innovation, des Sciences et du Développement économique</Affiliation>. Est-ce que le ministre peut informer la Chambre sur la façon dont le gouvernement soutiendra notre secteur aérospatial?</ParaText>
+              <ParaText id="4735969">Monsieur le Président, dans ma circonscription, Thérèse-De Blainville, beaucoup de citoyens travaillent directement dans l'industrie reliée au secteur de l'aérospatiale ou y sont associés. Plusieurs entreprises et familles ont des liens avec le secteur de l'aérospatiale. Nous avons également des institutions et organisations qui pilotent des études de recherche-développement pour le secteur de l'aérospatiale.</ParaText>
+              <ParaText id="4735970">Ma question s'adresse au <Affiliation DbId="214319" Type="4">ministre de l'Innovation, des Sciences et du Développement économique</Affiliation>. Est-ce que le ministre peut informer la Chambre de la façon dont le gouvernement soutiendra notre secteur de l'aérospatiale?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -902,7 +884,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4735981">Monsieur le Président, ce n'est rien de nouveau: pour être dans les bonnes grâces du Parti libéral, il faut soit avoir de l'argent pour un accès privilégié, soit être lié d'amitié avec le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. En bon québécois, cela s'appelle un traitement de faveur pour les petits amis. Nous avons une longue liste à laquelle s'ajoute Canada 2020 et les nominations du <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation> et du <Affiliation DbId="214302" Type="4">ministre de l'Agriculture et de l'Agroalimentaire</Affiliation> qui ont récompensé un ancien chef de cabinet et un candidat libéral défait. </ParaText>
+              <ParaText id="4735981">Monsieur le Président, ce n'est rien de nouveau: pour être dans les bonnes grâces du Parti libéral, il faut soit avoir de l'argent pour un accès privilégié, soit être lié d'amitié avec le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. En bon québécois, cela s'appelle un traitement de faveur pour les petits amis. Nous avons une longue liste à laquelle s'ajoute Canada 2020 et les nominations de la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation> et du <Affiliation DbId="214302" Type="4">ministre de l'Agriculture et de l'Agroalimentaire</Affiliation> qui ont récompensé un ancien chef de cabinet et un candidat libéral défait. </ParaText>
               <ParaText id="4735982">Quand ce gouvernement va-t-il finalement arrêter de faire passer les intérêts du Parti libéral avant ceux de l'ensemble des Canadiens?</ParaText>
             </Content>
           </Intervention>
@@ -923,7 +905,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4735986"> Les Canadiens ne sont pas dupes et ils ne croient pas que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> devrait continuer d'être en mesure de détourner l'argent des contribuables pour garnir les poches de ses amis. Quand le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> mettra-t-il fin à cette pratique?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Etobicoke-Nord)" id="9356345">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Etobicoke-Nord)" id="9356345">
             <PersonSpeaking>
               <Affiliation DbId="214338" Type="4">L’hon. Kirsty Duncan (ministre des Sciences, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -992,7 +974,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. DeCourcey" id="9356360">
             <PersonSpeaking>
-              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire du ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229490" Type="18">M. Matt DeCourcey (secrétaire parlementaire de la ministre des Affaires étrangères, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736000">Monsieur le Président, le député devrait savoir que le Canada doit, plus que jamais, se faire entendre dans le monde et que l'obtention d'un siège au Conseil de sécurité contribuerait beaucoup à la réalisation des objectifs planétaires qu'il préconise. Parmi ces objectifs, mentionnons la gouvernance inclusive et responsable ainsi que le respect de la diversité, des droits de la personne et de la primauté du droit. Voilà le monde que nous voulons; un siège au Conseil de sécurité serait un outil précieux pour le bâtir. </ParaText>
             </Content>
@@ -1024,7 +1006,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214086" Type="2">M. Alain Rayes (Richmond—Arthabaska, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4736006">Monsieur le Président, l'Agence des services frontaliers du Canada a émis une alerte le 2 février dernier, il n'y a pas tellement longtemps, pour aviser qu'il y avait une augmentation significative d'immigrants illégaux chinois qui tentaient d'entrer au pays. Lorsqu'il a été questionné à ce propos, à la Chambre, le <Affiliation DbId="214300" Type="4">ministre de la Sécurité publique et de la Protection civile</Affiliation> a répondu qu'il était important que les agents frontaliers soient alertes face à ce risque et à ce danger. Je pense que tout le monde est d'accord pour dire que tous les agents doivent être alertes face à ce risque et à ce danger.</ParaText>
+              <ParaText id="4736006">Monsieur le Président, l'Agence des services frontaliers du Canada a émis une alerte le 2 février dernier, il n'y a pas tellement longtemps, pour aviser qu'il y avait une augmentation significative d'immigrants illégaux chinois qui tentaient d'entrer au pays. Lorsqu'il a été questionné à ce propos à la Chambre, le <Affiliation DbId="214300" Type="4">ministre de la Sécurité publique et de la Protection civile</Affiliation> a répondu qu'il était important que les agents frontaliers soient alertes face à ce risque et à ce danger. Je pense que tout le monde est d'accord pour dire que tous les agents doivent être alertes face à ce risque et à ce danger.</ParaText>
               <ParaText id="4736007">Le <Affiliation DbId="214300" Type="4">ministre de la Sécurité publique et de la Protection civile</Affiliation> peut-il nous dire aujourd'hui quelle mesure il a prise depuis le 2 février, afin de régler cette situation une fois pour toute?</ParaText>
             </Content>
           </Intervention>
@@ -1048,7 +1030,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214183" Type="2">Mme Anju Dhillon (Dorval—Lachine—LaSalle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736009">Monsieur le Président, le Canada vit une crise nationale de santé publique. Hier, l'Alberta a annoncé 343 décès dus à une surdose de fentanyl l'an dernier, comparativement à 257 l'année précédente. Cette crise tragique continue de se déplacer vers l'est du Canada. Les saisies de fentanyl et de carfentanil sont en hausse au pays.</ParaText>
-              <ParaText id="4736010">Chez moi, à Montréal, il a été décidé que les sites de consommation supervisée sont un outil approprié pour les réalités auxquelles elle fait face.</ParaText>
+              <ParaText id="4736010">Chez moi, à Montréal, il a été décidé que les centres de consommation supervisée sont un outil approprié pour les réalités auxquelles elle fait face.</ParaText>
               <ParaText id="4736011">Que fait le gouvernement pour endiguer cette crise nationale de santé publique?</ParaText>
             </Content>
           </Intervention>
@@ -1056,8 +1038,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214328" Type="4">L’hon. Jane Philpott (ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4736012">Monsieur le Président, je remercie la députée de <Affiliation DbId="214183" Type="2">Dorval—Lachine—LaSalle</Affiliation> de son importante question. Elle a raison, nous vivons une crise nationale de santé publique. Nous devons continuer à y répondre de manière globale, collaborative et humaniste, en se basant sur les données probantes. </ParaText>
-              <ParaText id="4736013">Les sites de consommation supervisée sont un outil important de réduction des méfaits, et ils sont au coeur de cette approche. Cette semaine, nous avons approuvé trois demandes de site, à Montréal. Nous continuerons à travailler pour sauver des vies.</ParaText>
+              <ParaText id="4736012">Monsieur le Président, je remercie la députée de <Affiliation DbId="214183" Type="2">Dorval—Lachine—LaSalle</Affiliation> de son importante question. Elle a raison, nous vivons une crise nationale de santé publique. Nous devons continuer à y répondre de manière globale, collaborative et humaniste, en nous basant sur les données probantes. </ParaText>
+              <ParaText id="4736013">Les centres de consommation supervisée sont un outil important de réduction des méfaits, et ils sont au coeur de cette approche. Cette semaine, nous avons approuvé trois demandes de centre à Montréal. Nous continuerons à travailler pour sauver des vies.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1069,7 +1051,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214025" Type="2">M. Alupa Clarke (Beauport—Limoilou, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4736014">Monsieur le Président, depuis plus d'un an, le fiasco du système de paie Phénix perdure, et il n'arrête pas d'empirer. Un jour, les fonctionnaires sont trop payés; l'autre jour, ils ne le sont pas assez. Le pire dans cette histoire c'est que le gouvernement libéral va perdre des centaines de millions de dollars durement gagnés par nos contribuables.</ParaText>
+              <ParaText id="4736014">Monsieur le Président, depuis plus d'un an, le fiasco du système de paie Phénix perdure, et il n'arrête pas d'empirer. Un jour, les fonctionnaires sont trop payés; l'autre jour, ils ne le sont pas assez. Le pire dans cette histoire, c'est que le gouvernement libéral va perdre des centaines de millions de dollars durement gagnés par nos contribuables.</ParaText>
               <ParaText id="4736015">Je serai très clair: la faute ne revient pas à un logiciel qui s'appelle Phénix. La faute revient à la ministre qui, depuis un an, a fait preuve de manque de jugement, de transparence et de responsabilité.</ParaText>
               <ParaText id="4736016">Quand la ministre prendra-t-elle le contrôle de son ministère et arrêtera-t-elle de se cacher derrière ses fonctionnaires?</ParaText>
             </Content>
@@ -1107,7 +1089,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9356399">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'accessibilité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les personnes handicapées</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Whalen" id="9356398">
             <PersonSpeaking>
@@ -1154,7 +1136,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="9356413">
         <SubjectOfBusinessTitle>L'immigration, les réfugiés et la citoyenneté</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="9356412">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May  (Saanich—Gulf Islands)" id="9356412">
             <PersonSpeaking>
               <Affiliation DbId="214382" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1176,7 +1158,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Lynn Legault</SubjectOfBusinessTitle>
         <CatchLine>Hommages</CatchLine>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="9356417">
+          <Intervention Type="Interjection" ToC="No" id="9356417">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1236,7 +1218,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9356441">
+          <Intervention Type="Interjection" ToC="No" id="9356441">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1256,7 +1238,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessTitle>Pétitions</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>La fiscalité</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Gallant" id="9356616">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gallant" id="9356616">
             <PersonSpeaking>
               <Affiliation DbId="213940" Type="2">Mme Cheryl Gallant (Renfrew—Nipissing—Pembroke, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1419,7 +1401,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4736079"> propose que le projet de loi <Document DbId="8549249" Type="3">C-30, Loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne et ses États membres et comportant d'autres mesures</Document>, soit lu pour la troisième fois et adopté.</ParaText>
               <ProceduralText TocType="TPC" id="3">Projet de loi C-30. Troisième lecture</ProceduralText>
-              <ParaText id="4736080">Monsieur le Président, je suis très heureux de prendre la parole aujourd'hui. Dans l'histoire du Canada, il n'a jamais été plus important de défendre le commerce. Je parlerai donc du projet de loi <Document DbId="8549249" Type="3">C-30</Document>. J'invite tous mes collègues des deux côtés à saisir cette occasion de relever le défi qui se présente devant nous.</ParaText>
+              <ParaText id="4736080">— Monsieur le Président, je suis très heureux de prendre la parole aujourd'hui. Dans l'histoire du Canada, il n'a jamais été plus important de défendre le commerce. Je parlerai donc du projet de loi <Document DbId="8549249" Type="3">C-30</Document>. J'invite tous mes collègues des deux côtés à saisir cette occasion de relever le défi qui se présente devant nous.</ParaText>
               <ParaText id="4736081">Dans 20 ans, nous nous souviendrons du moment précis où les parlementaires ont vraiment fait progresser le commerce. Le monde attend que notre pays ratifie cet accord. Il aura des retombées formidables pour le Canada et pour l'Europe. Il deviendra le modèle par excellence des accords internationaux.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4736082">Évidemment, je suis ravi de m'adresser à la Chambre aujourd'hui au sujet de l'important projet de loi C-30, la loi portant mise en oeuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne, ou l'AECG.</ParaText>
@@ -1495,9 +1477,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736135">Pour ce qui concerne Terre-Neuve-et-Labrador, je suis au courant de la situation. Nous respecterons notre engagement, parce que c’est dans l’intérêt supérieur de tous les Canadiens. Je veux m’assurer que tous les Canadiens, peu importe où ils vivent au Canada, voient les avantages de l’Accord pour eux-mêmes et leur famille.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ramsey" id="9356614">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Ramsey" id="9356614">
             <PersonSpeaking>
-              <Affiliation DbId="214139" Type="2">Mme Tracey Ramsey (Essex, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214139" Type="2">Mme Tracey Ramsey</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736136">Madame la Présidente, je remercie le ministre pour son discours passionné au sujet du commerce. Je partage sa passion pour le commerce en tant que porte-parole de notre parti. Nous sommes résolument favorables au commerce, mais au commerce équitable.</ParaText>
               <ParaText id="4736137">Nous avons besoin d’accords commerciaux qui traitent de tous les aspects. Malheureusement, je n’entends pas le ministre évoquer le problème très réel dans l’Accord du coût des médicaments. Vingt-cinq pour cent des dispositions législatives de mise en oeuvre dans l’Accord sont des modifications à la Loi sur les brevets qui augmenteront les coûts des produits pharmaceutiques pour tous les Canadiens.</ParaText>
@@ -2100,7 +2082,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <ProceduralText TocType="TPC" id="4">Projet de loi C-305. Deuxième lecture</ProceduralText>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Hughes" id="9358447">
             <PersonSpeaking>
-              <Affiliation DbId="214948" Type="96"> La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736394">Comme il est 17 h 30, la Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi <Document DbId="8426093" Type="4">C-305</Document>, sous la rubrique des affaires émanant des députés. </ParaText>
               <ParaText id="4736395">Convoquez les députés.</ParaText>
@@ -2111,7 +2093,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="9358460">
+          <Intervention Type="Interjection" ToC="No" id="9358460">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2468,7 +2450,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <ParaText id="4736405">La Chambre reprend  l'étude, interrompue le 6 février, de la motion portant que le projet de loi <Document DbId="8283999" Type="4">C-274, Loi modifiant la Loi de l’impôt sur le revenu (transfert d'une petite entreprise ou d’une société agricole ou de pêche familiale)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <ProceduralText TocType="TPC" id="7">Projet de loi C-274. Deuxième lecture</ProceduralText>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9358483">
+          <Intervention Type="Interjection" ToC="No" id="9358483">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2800,7 +2782,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Nil>Aucun</Nil>
             </DivisionType>
           </Division>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9358527">
+          <Intervention Type="Interjection" ToC="No" id="9358527">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -2839,7 +2821,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9358539">
             <PersonSpeaking>
-              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736424">J'interromps quelques instants le député. Je ne veux pas couper court à son intervention. Beaucoup d'autres députés parlent en même temps que lui, et j'ai du mal à entendre sa très intéressante allocution. J'aimerais que tout le monde écoute et s'y intéresse autant que moi. Je laisse le député poursuivre. </ParaText>
             </Content>
@@ -2914,7 +2896,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="18" Mn="50">(1850)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="M. Rota" id="9358565">
             <PersonSpeaking>
-              <Affiliation DbId="214969" Type="93">Le vice-président adjoint (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736471">Le vote porte sur la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
               <ParaText id="4736472">
@@ -2956,7 +2938,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Rota" id="9358571">
             <PersonSpeaking>
-              <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214970" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736483"> Avant d'entamer le débat de ce soir, je tiens à rappeler aux députés le déroulement des délibérations. Chaque député qui prendra la parole disposera de 10 minutes, suivies de 10 minutes pour les questions et observations.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -2965,7 +2947,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736485">Nous pouvons maintenant commencer le débat exploratoire.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Chagger" id="9358646">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Chagger" id="9358646">
             <PersonSpeaking>
               <Affiliation DbId="224669" Type="4">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes, Lib.) </Affiliation>
             </PersonSpeaking>
@@ -3102,7 +3084,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Des voix:</B> Bravo!</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Rota" id="9358664">
+          <Intervention Type="Interjection" ToC="No" id="9358664">
             <PersonSpeaking>
               <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3162,7 +3144,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736553">En 2016, la province a perdu presque 53 000 emplois. Cela représente 53 000 personnes. Ce qui est regrettable, c'est que 35,6 % de ces emplois ont été perdus par des personnes âgées de 34 ans ou moins. Ces personnes finiront par trouver un poste, mais ce ne sera pas au Canada et elles ne reviendront pas ici. Nous les avons perdues définitivement. Nous pouvons ressasser tous les lieux communs que nous voulons au sujet de la prestation pour la garde d'enfants, cela ne leur est d'aucune aide. Au bout du compte, le député a raconté de vraies histoires au sujet de vrais Albertains, et c'est pourquoi nous avons ce débat ce soir.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358676">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358676">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3322,7 +3304,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358713">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358713">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3350,7 +3332,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736632">J'aimerais connaître l'avis de la députée. Que pourrait faire le gouvernement du Canada pour inciter davantage le secteur privé à s'intéresser aux sources d'énergie renouvelable?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358732">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358732">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3370,7 +3352,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="19" Mn="50">(1950)</Timestamp>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358739">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358739">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3388,9 +3370,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736645">L'exemple de la Norvège est une source d'inspiration, tant du point de vue de la justice sociale que de l'environnement. Comment le Canada pourrait-il suivre cet exemple, d'après la députée?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358743">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358743">
             <PersonSpeaking>
-              <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736646">Monsieur le président, comme l'a souligné mon ancienne collègue, les néo-démocrates ont toujours eu pour politique d'insister sur l'importance de la valeur ajoutée dans tous les secteurs canadiens des ressources.</ParaText>
               <ParaText id="4736647">Il y a, entre ma ville et Red Deer, une industrie pétrochimique importante. Nous devons la soutenir. Des représentants de ce secteur se trouvaient d'ailleurs à la conférence où le <Affiliation DbId="214325" Type="4">ministre des Ressources naturelles</Affiliation> a pris la parole lundi.</ParaText>
@@ -3406,10 +3388,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736651">Le secteur des ressources énergétiques de l'Alberta fournit des emplois de grande qualité et bien rémunérés non seulement à de nombreux Albertains, mais aussi aux autres Canadiens qui ont déménagé en grand nombre dans notre province pour y vivre et y travailler. Ainsi, environ 190 000 emplois directs canadiens sont créés par l'industrie de l'énergie et un nombre incalculable d'emplois indirects en dépendent. Ces concitoyens albertains et canadiens doivent faire face à une précarité financière dès que les prix du pétrole chutent sur les marchés mondiaux.</ParaText>
               <ParaText id="4736652">Il ne faut pas oublier que le pétrole est un produit dont les prix sont déterminés sur les marchés internationaux. Lorsque les prix sont élevés, les Albertains et les Canadiens prospèrent. Toutefois, les fluctuations causées par la nature internationale des marchés peuvent entraîner des conséquences dévastatrices sur la vie des Albertains.</ParaText>
               <ParaText id="4736653">La première phase d'expansion a commencé en 1973, et les prix se sont envolés de 3 à 15 dollars américains le baril. Le secteur s'est révélé une excellente source d'emplois bien rémunérés, mais il a aussi montré son aspect très instable. Dans les années 1980, le prix du pétrole était bien au-dessus de 30 dollars américains. Encore une fois, les gens se sont précipités dans notre province pour tirer parti du boum, le taux de chômage a chuté, les prix des maisons ont monté en flèche et tout le monde tirait son épingle du jeu. </ParaText>
-              <ParaText id="4736654">
-                <B>Une voix:</B> N'oubliez pas l'année 1982.</ParaText>
-              <ParaText id="4736655">
-                <B>M. Darshan Singh Kang:</B> Le secteur de l’énergie de l'Alberta s’est effondré en 1982-1983. Les Albertains et les Canadiens en ont subi les conséquences. En Alberta, le taux de chômage est passé de 4 % à 10 %. J’ai investi dans l’immobilier pendant la période de prospérité, mais comme beaucoup d'autres Albertains, je l'ai chèrement payé par la suite.</ParaText>
+              <ParaText id="4736655"> Le secteur de l’énergie de l'Alberta s’est effondré en 1982-1983. Les Albertains et les Canadiens en ont subi les conséquences. En Alberta, le taux de chômage est passé de 4 % à 10 %. J’ai investi dans l’immobilier pendant la période de prospérité, mais comme beaucoup d'autres Albertains, je l'ai chèrement payé par la suite.</ParaText>
               <ParaText id="4736656">Je suis un soudeur certifié et j’ai perdu mon emploi à ce moment-là. Je ne pouvais plus payer mes factures. Ma famille et moi avons perdu notre maison. Nous avons tout perdu. J’ai travaillé par la suite comme chauffeur de taxi pour mettre du pain sur la table. Il a fallu dix ans pour que ma famille s’en remette.</ParaText>
               <ParaText id="4736657">Au début des années 2000, le prix du pétrole a recommencé à augmenter. Le cycle a continué. En 2008, le prix du baril est passé de 30 à 150 dollars américains. La même année, le prix du baril a chuté de 70 % et est repassé à 31 dollars américains. Après 2009, les prix ont recommencé à grimper, mais cela n’a pas duré.</ParaText>
               <ParaText id="4736658">En 2014, le secteur de l'énergie s'est de nouveau effondré. Le taux de chômage a grimpé à 10 %, mais, cette fois-ci, le gouvernement a fait des investissements records pour aider l'Alberta à se remettre sur pied. Le gouvernement a prolongé de 20 semaines, pour un total de 70 semaines, la durée des prestations d'assurance-emploi versées à des Albertains qui n'avaient jamais eu recours à l'assurance-emploi par le passé. Le gouvernement a prévu un fonds de stabilisation de plus de 250 millions de dollars, ainsi que 240 millions de dollars pour la recherche universitaire. De plus, il continue d'investir dans l'infrastructure. En effet, il a approuvé 127 projets d'une valeur de plus de 4,2 milliards de dollars en Alberta. Il y a eu plus d'argent investi dans l'infrastructure au cours de la dernière année qu'au cours des cinq années précédentes combinées. Nous avons approuvé deux nouveaux pipelines, ce qui créera environ 27 000 emplois en Alberta seulement en nous assurant de protéger l'environnement, tout en favorisant la croissance économique.</ParaText>
@@ -3478,7 +3457,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736677">Les investisseurs et les sociétés hésitent donc à investir au Canada et en Alberta tellement le processus d'approbation est opaque. Si l'Office national de l'énergie approuve le projet Énergie Est, emboîterez-vous le pas en l'approuvant à votre tour ou prendrez-vous encore une décision politique en le bloquant? </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Rota" id="9358838">
+          <Intervention Type="Interjection" ToC="No" id="9358838">
             <PersonSpeaking>
               <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3689,7 +3668,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736747">— qui, nous le savons, viennent de faire l'objet d'un gros renflouement —</ParaText>
               <ParaText id="4736748">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">[...] ou les agriculteurs de la Saskatchewan.</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">... ou les agriculteurs de la Saskatchewan.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="4736749">Il poursuit:</ParaText>
@@ -3728,7 +3707,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736764">Mon collègue de <Affiliation DbId="214388" Type="2">Calgary Shepard</Affiliation> cite souvent un proverbe yiddish, mais il n'a pas encore parlé. Je vais donc le faire: si sa parole était un pont, je craindrais de le traverser. J'aurais peur de traverser n'importe quel pont dont parlent les libéraux, car ce ne sont que des paroles sans structure. Ils ne font rien pour l'Alberta ou pour l'emploi au Canada.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358924">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358924">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3828,9 +3807,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           <Timestamp Hr="20" Mn="45">(2045)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Rota" id="9358954">
             <PersonSpeaking>
-              <Affiliation DbId="214972" Type="96">Le président suppléant (M. Anthony Rota)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4736811">Avant d'aller plus loin, c'est agréable de voir l'enthousiasme dans la salle. Je suis certain que le député est heureux de l'aide qu'il obtient de la part de l'opposition, mais je doute que crier fasse partie de la façon de travailler en comité plénier. Je tiens à rappeler aux députés qu'il faut respecter la personne qui parle, que celle-ci pose une question ou prononce un discours. J'aimerais que tout le monde baisse le ton.</ParaText>
+              <ParaText id="4736811">Avant d'aller plus loin, j'aimerais dire que c'est agréable de voir l'enthousiasme dans la salle. Je suis certain que le député est heureux de l'aide qu'il obtient de la part de l'opposition, mais je doute que crier fasse partie de la façon de travailler en comité plénier. Je tiens à rappeler aux députés qu'il faut respecter la personne qui parle, que celle-ci pose une question ou prononce un discours. J'aimerais que tout le monde baisse le ton.</ParaText>
               <ParaText id="4736812">Le député de St. Albert—Edmonton a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -3856,11 +3835,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214972" Type="96">Le vice-président adjoint</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4736818">Je tiens à rappeler aux députés que lorsque j'élève la voix pour vous rappeler « À l'ordre », cela ne vous autorise pas à agir à votre guise.</ParaText>
+              <ParaText id="4736818">Je tiens à rappeler aux députés que lorsque j'élève la voix pour les rappeler « À l'ordre », cela ne les autorise pas à agir à leur guise.</ParaText>
               <ParaText id="4736819">Nous reprenons les questions et les observations. La députée d'Edmonton Strathcona a la parole.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan (Edmonton Strathcona)" id="9358960">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Duncan  (Edmonton Strathcona)" id="9358960">
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
@@ -3926,7 +3905,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736847">La question est: comment les aider? Je pense que nous avons fait plusieurs choses comme gouvernement pour faire avancer ce dossier. J'aimerais entendre vos idées sur la façon dont nous, comme gouvernement, pouvons personnellement répondre à ces questions. Si vous nous en faisiez part, nous vous en serions reconnaissants.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9358973">
+          <Intervention Type="Interjection" ToC="No" id="9358973">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4006,7 +3985,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736875">Quelle stratégie le gouvernement conservateur avait-il adoptée pour obtenir de si piètres résultats? Que prévoyiez-vous faire, à l'époque, pour favoriser le marché du travail albertain et les travailleurs de l'Alberta malgré ce rendement économique médiocre?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9358988">
+          <Intervention Type="Interjection" ToC="No" id="9358988">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4033,9 +4012,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Richards" id="9358993">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Richards" id="9358993">
             <PersonSpeaking>
-              <Affiliation DbId="214548" Type="2">M. Blake Richards</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214548" Type="2">M. Blake Richards (Banff—Airdrie, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4736883">Monsieur le Président, le député a dit que je m'étais contenté de mentionner ce que nous n'aurions pas fait . Or, il est vrai que le gouvernement actuel prend des mesures que nous n'aurions pas prises. Il n'y a aucun doute là-dessus. Par exemple, nous n'aurions pas imposé une taxe carbone sur l'énergie. Je suis sûr que les contrecoups de cette initiative se font déjà ressentir. Je demande au député de bien vouloir tenir compte de la position de son parti à cet égard.</ParaText>
               <ParaText id="4736884">L'industrie énergétique est en difficulté, mais elle déploie chaque jour de grand efforts pour tenter d'améliorer son bilan et son rendement environnementaux. Cela dit, nous sommes déjà l'un des pays les plus respectueux de l'environnement. Si le parti du député et le gouvernement souhaitent entraver l'acheminement du pétrole et du gaz vers les marchés, cela nous forcera à importer du pétrole de pays qui sont beaucoup moins respectueux de l'environnement.</ParaText>
@@ -4060,7 +4039,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736895">Nous continuerons de travailler avec les gens de l'Alberta ainsi qu'avec la première ministre, le gouvernement et l'industrie de l'Alberta. La chute des prix des produits de base a eu un effet dévastateur. De surcroît, il y a aussi eu les incendies de Fort McMurray. Les gens ont beaucoup souffert. Le gouvernement comprend que les gens de Fort McMurray ont besoin de son aide et qu'ils la méritent. Nous serons là pour continuer de travailler avec eux et les aider. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9358998">
+          <Intervention Type="Interjection" ToC="No" id="9358998">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4178,7 +4157,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736940">Malheureusement, quand les investisseurs doutent de la possibilité d'une reprise à cause de mauvaises politiques du gouvernement, ils n'investissent pas, que le contexte soit propice ou pas. Les Albertains ont déjà traversé des périodes difficiles, mais ils subissent maintenant les effets des mauvaises politiques du gouvernement, qui font disparaître des emplois et découragent les investisseurs. Cette crise de l'emploi pouvait être évitée, et elle n'a pas à se prolonger.</ParaText>
               <ParaText id="4736941">J'aborderai maintenant huit décisions du gouvernement fédéral qui détruisent des emplois en Alberta. J'ai d'ailleurs une modeste proposition à ce sujet: les libéraux pourraient-ils renverser au moins une de ces décisions? Bref, voici les huit décisions en question. Il y en a peut-être plus, mais ce sont sont celles que j'ai repérées.</ParaText>
               <ParaText id="4736942">Dès leur arrivée au pouvoir, les libéraux ont interdit la circulation de pétroliers dans les eaux du Nord de la Colombie-Britannique. Cette décision a nui aux exportations. Apparemment, il n'y a aucun mal à ce que des pétroliers transportent du pétrole de l'Alaska, ni à ce qu'ils transportent du pétrole provenant de l'étranger dans le Saint-Laurent, mais il n'est pas question que des pétroliers transportent du pétrole canadien dans les eaux du Nord de la Colombie-Britannique. Cette décision a détruit des emplois en Alberta et partout au pays. </ParaText>
-              <ParaText id="4736943">Deuxièmement, les libéraux ont retiré leur appui à des infrastructures cruciales pour le secteur de l'énergie. Ils ont annulé le projet de pipeline Northern Gateway. Ils n'ont pas défendu les mérites du projet Keystone. Ils n'ont pas soutenu le projet Énergie Est. Ils ont détruit des emplois en Alberta et partout au pays.</ParaText>
+              <ParaText id="4736943">Deuxièmement, les libéraux ont retiré leur appui à des infrastructures cruciales pour le secteur de l'énergie. Ils ont annulé le projet de pipeline Northern Gateway. Ils n'ont pas défendu les mérites du projet Keystone, ils n'ont pas soutenu le projet Énergie Est, détruisant des emplois en Alberta et partout au pays.</ParaText>
               <ParaText id="4736944">Troisièmement, ils ont promis dans leur plate-forme électorale de réduire le taux d'imposition des petites entreprises, comme le proposaient tous les autres partis. Ils ont rompu cette promesse. Le ministre de l'époque avait dit que le budget fédéral contenait des surprises. En effet, c'était le cas. La décision d'augmenter le taux d'imposition des petites entreprises a entraîné des pertes d'emplois en Alberta et dans le reste du pays.</ParaText>
               <ParaText id="4736945">Quatrièmement, ils ont aboli le crédit à l'embauche pour les petites entreprises — une autre surprise du budget fédéral. Cette décision a compliqué les choses pour les chômeurs et a elle aussi entraîné des pertes d'emplois en Alberta et dans le reste du pays.</ParaText>
               <ParaText id="4736946">Cinquièmement, ils ont imposé une hausse des cotisations au Régime de pensions du Canada, qui est en fait une taxe sur l'emploi. Pour éliminer des emplois, on augmente la taxe sur l'emploi. Les politiques du gouvernement sont néfastes pour les emplois, tant en Alberta que dans le reste du pays. </ParaText>
@@ -4305,7 +4284,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4736994">J'invite le député à venir dans ma circonscription. Je vous ferai faire une visite guidée. Je vous donnerai à manger. J'invite tous les députés à venir parler aux gens de ma circonscription, où les sentiments sont à fleur de peau.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9359049">
+          <Intervention Type="Interjection" ToC="No" id="9359049">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4435,7 +4414,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214592" Type="2">Mme Niki Ashton (Churchill—Keewatinook Aski, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4737041">Monsieur le Président, je partagerai mon temps de parole avec mon collègue, le député de la circonscription d'<Affiliation DbId="214446" Type="2">Okanagan-Sud—Kootenay-Ouest</Affiliation>.</ParaText>
+              <ParaText id="4737041">Monsieur le Président, je partagerai mon temps de parole avec mon collègue le député de la circonscription d'<Affiliation DbId="214446" Type="2">Okanagan-Sud—Kootenay-Ouest</Affiliation>.</ParaText>
               <ParaText id="4737042">Je suis heureuse de prendre la parole à la Chambre ce soir pour participer au débat exploratoire. Comme porte-parole du NPD en matière d'emploi, je reconnais qu'il s'agit d'un débat sur les emplois au pays, notamment sur les pertes d'emplois dévastatrices dans le secteur de l'énergie et les effets catastrophiques que peuvent avoir les périodes successives d'expansion et de ralentissement économiques. Il souligne surtout le fait que le gouvernement fédéral doit défendre les travailleurs canadiens.</ParaText>
               <ParaText id="4737043">L'effondrement des prix du pétrole a eu des répercussions néfastes sur les travailleurs de l'Alberta. Les travailleurs de la Saskatchewan, de Terre-Neuve, de localités de ma province et de bien d'autres régions du pays ont également été grandement touchés.</ParaText>
               <ParaText id="4737044">Nous avons entendu de nombreux témoignages touchants aujourd'hui au sujet de la difficile réalité sur le terrain.</ParaText>
@@ -4462,7 +4441,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4737058">Laissez-vous entendre que le NPD n'est pas en faveur des 25 000 emplois qui seront créés pour les Canadiens?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9359077">
+          <Intervention Type="Interjection" ToC="No" id="9359077">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4600,7 +4579,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <Timestamp Hr="22" Mn="45">(2245)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9359107">
+          <Intervention Type="Interjection" ToC="No" id="9359107">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4664,7 +4643,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4737139">J'aimerais aborder certains des commentaires faits au sujet du projet de pipeline Northern Gateway. En effet, le tribunal a conclu que les peuples autochtones n'avaient pas été suffisamment consultés dans le cadre du processus et que c'est ce qui a mis fin au processus. Le calendrier a été clairement établi quant au projet de pipeline Énergie Est. Il s'agit d'un calendrier de 21 mois. Nous avons pris des mesures pour que tout soit le plus clair possible, tout en veillant à renforcer la confiance des Canadiens dans un processus d'examen, qui, dans un monde idéal, ne ferait pas l'objet de contestations judiciaires, jouirait de la confiance des Canadiens et franchirait toutes les étapes plus rapidement.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9359116">
+          <Intervention Type="Interjection" ToC="No" id="9359116">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -4672,7 +4651,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ProceduralText TocType="TCC" TocText="Rapport; initiative ministérielle no 11" id="13">(Rapport est fait de l'affaire du gouvernement n<Sup>o</Sup> 11.)</ProceduralText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9359118">
+          <Intervention Type="Interjection" ToC="No" id="9359118">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>

@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="8816940">
   <StartPageNumber>1433</StartPageNumber>
   <DocumentTitle>
@@ -39,7 +21,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number  (Official Version)</ExtractedItem>
     <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number  (Official Version)</ExtractedItem>
     <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro  (Version officielle)</ExtractedItem>
-    <ExtractedItem Name="MetaVolumeNumber" />
+    <ExtractedItem Name="MetaVolumeNumber">
+    </ExtractedItem>
     <ExtractedItem Name="MetaNumberNumber">026</ExtractedItem>
     <ExtractedItem Name="MetaDateNumDay">26</ExtractedItem>
     <ExtractedItem Name="MetaDateNumMonth">02</ExtractedItem>
@@ -91,7 +74,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4223181">Je demande aux députés de songer à ce que les syndicats font pour les Canadiens et de penser aux travailleurs qui veulent gagner leur vie et élever leur famille. Les députés croient-ils qu'on peut se passer de salaires décents et de milieux de travail sûrs? Les relations de travail positives entre employeurs et employés sont-elles importantes?</ParaText>
               <ParaText id="4223182">Je demande aux députés de penser au droit des travailleurs d'être représentés et protégés. Je leur demande de prendre la bonne décision, d'abroger les projets de loi <Document DbId="6251818" Type="4">C-377</Document> et <Document DbId="6251920" Type="4">C-525</Document>, et de rétablir une approche juste et équilibrée en matière de relations de travail au pays. </ParaText>
-              <ParaText id="4223183">Je suis fier de faire partie du gouvernement libéral qui abrogera les projets de loi <Document DbId="6251818" Type="4">C-377</Document> et <Document DbId="6251920" Type="4">C-525</Document>. Je reconnais l'importance des syndicats pour protéger les droits des travailleurs canadiens et aider la classe moyenne à croître et à prospérer</ParaText>
+              <ParaText id="4223183">Je suis fier de faire partie du gouvernement libéral qui abrogera les projets de loi <Document DbId="6251818" Type="4">C-377</Document> et <Document DbId="6251920" Type="4">C-525</Document>. Je reconnais l'importance des syndicats pour protéger les droits des travailleurs canadiens et aider la classe moyenne à croître et à prospérer.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme McLeod (Kamloops—Thompson—Cariboo)" id="8816963">
@@ -150,7 +133,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cuzner" id="8817008">
             <PersonSpeaking>
-              <Affiliation DbId="214689" Type="18">M. Rodger Cuzner (secrétaire parlementaire de la ministre de l'Emploi, du Développement de la main d'oeuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214689" Type="18">M. Rodger Cuzner (secrétaire parlementaire de la ministre de l'Emploi, du Développement de la main-d'oeuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223199">Monsieur le Président, je reviens à la question qu'a posée la députée de <Affiliation DbId="214386" Type="2">Kamloops—Thompson—Cariboo</Affiliation> à mon collègue de <Affiliation DbId="214158" Type="2">Nickel Belt</Affiliation>, dans laquelle elle voulait un exemple concernant les provinces. La province de Terre-Neuve est passée du scrutin secret au système de vérification des cartes. Tous les témoignages que nous avons entendus durant les audiences indiquaient que la vérification des cartes était la meilleure formule. C'est un système qui a bien servi notre pays. Il a toutefois été imposé sous le gouvernement précédent.</ParaText>
               <ParaText id="4223200">Nous savons que des constitutionnalistes ont affirmé que c'était inconstitutionnel. Des experts en matière de protection des renseignements personnels ont dit qu'il portait atteinte à la vie privée de millions de Canadiens, et l'épouse du Président a décrié ce système. Je le signale au passage.</ParaText>
@@ -191,7 +174,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4223211">Nous sommes en 2016, mais, contrairement à notre <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> actuel, je ne me contenterai pas de rappeler l'année où nous sommes — j'ai d'autres arguments en faveur du progrès social.</ParaText>
               <ParaText id="4223212">J'aimerais donner un aperçu du processus d'accréditation pour ensuite présenter des raisons fondamentales qui expliquent l'importance de la tenue d'un scrutin secret.</ParaText>
               <ParaText id="4223213">Il existe différents systèmes d'accréditation syndicale, et aujourd'hui, nous nous penchons évidemment sur la tenue d'un scrutin secret. Nous sommes en faveur de ce système d'accréditation, car nous croyons que les gens devraient pouvoir exprimer leurs opinions politiques en privé, sans être observé par d'autres personnes. Nous croyons que c'est un bon principe général dans une démocratie.</ParaText>
-              <ParaText id="4223214">Cependant, le gouvernement et nos collègues du NPD n'ont pas la même opinion, du moins, dans le cas qui nous occupe. Ils sont favorables à une accréditation selon le système de vérification des cartes, un processus qui se déroule en partie de façon publique. On demande aux gens de signer des cartes qui sont ensuite recueillies, et l'accréditation se fait automatiquement après la vérification de ces cartes. À mon avis, ce système ressemble beaucoup à un système de scrutin public du XIX<Sup>e</Sup> siècle, et il présente en grande partie les même lacunes.</ParaText>
+              <ParaText id="4223214">Cependant, le gouvernement et nos collègues du NPD n'ont pas la même opinion, du moins, dans le cas qui nous occupe. Ils sont favorables à une accréditation selon le système de vérification des cartes, un processus qui se déroule en partie de façon publique. On demande aux gens de signer des cartes qui sont ensuite recueillies, et l'accréditation se fait automatiquement après la vérification de ces cartes. À mon avis, ce système ressemble beaucoup à un système de scrutin public du XIX<Sup>e</Sup> siècle, et il présente en grande partie les mêmes lacunes.</ParaText>
               <ParaText id="4223215">Quelles sont les raisons fondamentales qui expliquent l'importance de la tenue d'un scrutin secret?</ParaText>
               <ParaText id="4223216">Je vais commencer par parler du droit à la vie privée. On devrait respecter le droit des gens à la vie privée lorsqu'il est question des opinions politiques, et on pourrait dire que cela s'applique également aux opinions religieuses et à tout autre renseignement qui, pour certaines personnes, sont très importants et personnels. Les gens devraient avoir le droit de ne pas avoir à exprimer leurs opinions en public.</ParaText>
               <ParaText id="4223217">Bien entendu, beaucoup de gens n'hésitent pas à exposer publiquement leur allégeance politique. Tout le monde sait pour quel parti j'ai voté lors de la dernière campagne électorale. Cela dit, ce n'est pas parce que certaines personnes choisissent de dévoiler publiquement leur allégeance que ceux qui désirent être plus discrets à cet égard ne devraient pas avoir le droit de l'être. Nous comprenons et nous respectons le droit à la vie privée dans de tels cas. Si on ne respecte pas le droit à la confidentialité dans cette situation, de nombreuses personnes pourraient éprouver un certain malaise ou craindre de subir des conséquences négatives lorsqu'elles exercent leur droit de vote.</ParaText>
@@ -207,7 +190,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4223226">L'adoption du scrutin secret a aussi contribué à régler un autre problème, celui de la corruption. En effet, il est plus facile d'acheter le vote d'une personne lorsqu'elle exprime son vote en public et qu'on peut voir si elle respecte l'entente conclue. Bien que le scrutin secret ne permette pas d'éliminer toute trace de corruption, il relègue aux oubliettes ce genre de comportement, puisqu'on ne peut pas savoir ce que la personne inscrit sur son bulletin de vote.</ParaText>
               <ParaText id="4223227">Le désir d'éliminer les représailles et la corruption ont pavé la voie à l'adoption du scrutin secret. Encore de nos jours, ce sont des arguments importants en faveur du maintien du scrutin secret dans tous les contextes.</ParaText>
               <ParaText id="4223228">Mon troisième argument en faveur du scrutin secret porte sur l'importance d'avoir, avant le vote, une période de discussion qui permet d'entendre les arguments pour et contre la proposition. Les deux parties devraient avoir l'occasion de présenter leurs arguments à propos de la question à l'étude, par exemple l'accréditation, avant la journée du vote.</ParaText>
-              <ParaText id="4223229">La méthode de vérification des cartes ne se prête pas à ce genre de discussions. En effet, quand on a recours à cette méthode, le processus d'accréditation et l'obtention des nombreuses signatures peut se dérouler à l'insu des gens qui n'appuieraient pas cette démarche. Cela va à l'encontre du principe selon lequel les deux parties doivent pouvoir s'exprimer dans le cadre de discussions et de débats substantiels. Le gouvernement semble comprendre ce principe dans certains contextes, du moins en partie.</ParaText>
+              <ParaText id="4223229">La méthode de vérification des cartes ne se prête pas à ce genre de discussions. En effet, quand on a recours à cette méthode, le processus d'accréditation et l'obtention des nombreuses signatures peuvent se dérouler à l'insu des gens qui n'appuieraient pas cette démarche. Cela va à l'encontre du principe selon lequel les deux parties doivent pouvoir s'exprimer dans le cadre de discussions et de débats substantiels. Le gouvernement semble comprendre ce principe dans certains contextes, du moins en partie.</ParaText>
               <ParaText id="4223230">Nous trouvons regrettable que le gouvernement hésite à tenir un référendum sur la réforme électorale. Il parle de l'importance de tenir, avant un vote éventuel, de longues discussions sur les avantages et inconvénients des différentes options. Pourquoi le gouvernement ne voit-il pas la certification du même oeil? La tenue d'un scrutin secret à un moment déterminé permettrait à un groupe de travailleurs de discuter sérieusement afin de déterminer s'ils gagneraient ou non à se syndiquer et à joindre tel ou tel syndicat.</ParaText>
               <ParaText id="4223231">Parmi les gens qui suivent le débat aujourd'hui, plusieurs s'étonneront peut-être qu'il soit nécessaire de faire valoir le vote secret à la Chambre, que deux des trois grands partis à la Chambre s'opposent au fait de permettre aux hommes et aux femmes de se prononcer par vote secret sur une chose aussi essentielle que l'accréditation syndicale. Il faut faire valoir ce genre d'arguments. Le gouvernement et le NPD ne semblent tout simplement pas comprendre à quel point le vote secret est fondamental et conforme au droit à la confidentialité, et qu'il constitue une protection contre les représailles et la corruption, en plus d'assurer la tenue préalable de mûres délibérations. </ParaText>
             </Content>
@@ -282,7 +265,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213965" Type="2">M. Pierre Breton (Shefford, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223263">Monsieur le Président, je félicite mon honorable collègue de son discours éclairant. </ParaText>
+              <ParaText id="4223263">Monsieur le Président, je félicite mon honorable collègue pour son discours éclairant. </ParaText>
               <ParaText id="4223264">La clé du développement de nos organisations, c'est la collaboration et le partenariat entre les syndicats et les employeurs. Comment ce nouveau projet de loi protégera-t-il de façon plus juste et équilibrée les relations de travail entre les employeurs et les syndicats?</ParaText>
             </Content>
           </Intervention>
@@ -318,7 +301,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214242" Type="2">M. Kevin Waugh (Saskatoon—Grasswood, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223273">Monsieur le Président, je vais rafraîchir la mémoire du député de <Affiliation DbId="214454" Type="2">Regina—Lewvan</Affiliation>. Par trois fois durant la campagne électorale fédérale, nous avons vu des syndiqués faire la file derrière le chef du Parti libéral pour prendre un égoportrait. Un grand nombre d'entre eux étaient payés...</ParaText>
+              <ParaText id="4223273">Monsieur le Président, je vais rafraîchir la mémoire du député de <Affiliation DbId="214454" Type="2">Regina—Lewvan</Affiliation>. Par trois fois, durant la campagne électorale fédérale, nous avons vu des syndiqués faire la file derrière le chef du Parti libéral pour prendre un égoportrait. Un grand nombre d'entre eux étaient payés...</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -349,7 +332,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214242" Type="2">M. Kevin Waugh</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223278">Monsieur le Président, je tiens à rappeler au député de <Affiliation DbId="214454" Type="2">Regina—Lewvan</Affiliation> que la Chambre a été informée qu'à trois reprises pendant la campagne électorale, le Parti libéral a aligné derrière le chef libéral des syndiqués qui ont reçu 100 $ chacun pour prendre un égoportrait avec le chef du Parti libéral. Cela ne s'est pas produit une ou deux fois, mais bien trois fois. Qu'est-ce que le député a à dire à ce sujet? Nous aimerions savoir ce que pense le député de l'utilisation de syndiqués au cours d'opérations politiques, comme ce qui s'est produit pendant la campagne électorale fédérale.</ParaText>
+              <ParaText id="4223278">Monsieur le Président, je tiens à rappeler au député de <Affiliation DbId="214454" Type="2">Regina—Lewvan</Affiliation> que la Chambre a été informée qu'à trois reprises pendant la campagne électorale le Parti libéral a aligné derrière le chef libéral des syndiqués qui ont reçu 100 $ chacun pour prendre un égoportrait avec le chef du Parti libéral. Cela ne s'est pas produit une ou deux fois, mais bien trois fois. Qu'est-ce que le député a à dire à ce sujet? Nous aimerions savoir ce que pense le député de l'utilisation de syndiqués au cours d'opérations politiques, comme ce qui s'est produit pendant la campagne électorale fédérale.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Weir" id="8817067">
@@ -379,8 +362,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4223292">Il est intéressant de noter que cinq provinces utilisent déjà le scrutin secret pour l'accréditation. Si le gouvernement libéral abroge la Loi sur le droit de vote des employés, les travailleurs sous réglementation fédérale auront encore une fois moins de droits démocratiques que leurs confrères sous réglementation provinciale. Qui est gagnant dans cette situation? Avant la mise en place de la Loi sur le droit de vote des employés, les organisateurs syndicaux et les employeurs avaient un avantage injuste par rapport aux travailleurs canadiens. Si cette loi est abrogée, le travailleur canadien en sortira perdant. Chaque fois qu'un droit démocratique est aboli, le pays tout entier est perdant.</ParaText>
               <Timestamp Hr="10" Mn="55">(1055)</Timestamp>
               <ParaText id="4223293">Le projet de loi <Document DbId="8073132" Type="3">C-4</Document> pose un autre problème. Il vise à éliminer des exigences qui obligent les organisations syndicales à faire preuve de transparence en matière financière, ce qui est à la base de la responsabilité financière. Pourquoi le gouvernement libéral cherche-t-il à porter atteinte au droit des travailleurs et des contribuables de s'attendre à ce que les syndicats fassent preuve de responsabilité financière? C'est une question d'intérêt public. Les cotisations syndicales réduisent les impôts et touchent donc tous les Canadiens.</ParaText>
-              <ParaText id="4223294">Les travailleurs syndiqués paient des cotisations syndicales, mais sans ces mesures législatives, les syndicats ne seront pas obligés de dire aux travailleurs où et comment cet argent a été dépensé. Avant et pendant la campagne électorale fédérale, des syndicats ont dépensés des millions de dollars pour lutter contre le Parti conservateur. L'élimination des exigences en matière de transparence financière n'est rien d'autre qu'une façon pour les libéraux de remercier les syndicats.</ParaText>
-              <ParaText id="4223295">Encore une fois, qui a le plus à perdre si cette loi est abrogée? Ce sont les travailleurs, les contribuables et notre pays. Notre nation demande à ce que les administrations fédérales, provinciales et municipales ainsi que les organismes de bienfaisance fassent preuve responsabilité financière. Les syndicats bénéficient d'une foule d'avantages fiscaux, et ce traitement spécial a une incidence sur tous les Canadiens.</ParaText>
+              <ParaText id="4223294">Les travailleurs syndiqués paient des cotisations syndicales, mais sans ces mesures législatives, les syndicats ne seront pas obligés de dire aux travailleurs où et comment cet argent a été dépensé. Avant et pendant la campagne électorale fédérale, des syndicats ont dépensé des millions de dollars pour lutter contre le Parti conservateur. L'élimination des exigences en matière de transparence financière n'est rien d'autre qu'une façon pour les libéraux de remercier les syndicats.</ParaText>
+              <ParaText id="4223295">Encore une fois, qui a le plus à perdre si cette loi est abrogée? Ce sont les travailleurs, les contribuables et notre pays. Notre nation demande à ce que les administrations fédérales, provinciales et municipales ainsi que les organismes de bienfaisance fassent preuve de responsabilité financière. Les syndicats bénéficient d'une foule d'avantages fiscaux, et ce traitement spécial a une incidence sur tous les Canadiens.</ParaText>
               <ParaText id="4223296">Je suis persuadé que tous les députés seraient prêts à déclarer qu'ils croient aux principes de la transparence, de la responsabilité et de la démocratie. Pourtant, avec son projet de loi, le Parti libéral irait complètement à l'encontre de ces principes.</ParaText>
               <ParaText id="4223297">Soyons clairs: cette loi ne régit pas les activités des syndicats, ni leurs dépenses. Elle n'enfreint pas les droits garantis par la Charte canadienne des droits et libertés. Elle demande simplement aux syndicats de divulguer quelques renseignements à propos des salaires, des avantages et du temps consacré à des activités politiques. Bref, elle se fait la voix des travailleurs qui veulent savoir comment leur syndicat dépense leur argent. </ParaText>
               <ParaText id="4223298">Ce n'est pas la première mesure législative sur la transparence financière des syndicats. De telles lois sont déjà en vigueur aux États-Unis, au Royaume-Uni, en Australie, en Allemagne et en France. Les organisations syndicales canadiennes dont le siège social est aux États-Unis doivent déjà divulguer des données financières au gouvernement américain. La transparence a un effet dissuasif. Elle sert à éviter les dérapages et la corruption. Franchement, quand je vois le Parti libéral et certains syndicats chercher à éliminer cette loi, je ne peux m'empêcher de me poser des questions. Qu'ont-ils à cacher?</ParaText>
@@ -412,7 +395,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214562" Type="2">M. Xavier Barsalou-Duval (Pierre-Boucher—Les Patriotes—Verchères, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223304">Monsieur le Président, il y a quelques semaines, le Syndicat de la fonction publique et parapublique du Québec a lancé un site Web faisant la promotion d'un rapport d'impôt unique au Québec. </ParaText>
-              <ParaText id="4223305">Alors qu'approche la période des impôts, il serait nécessaire et peut-être même de mise que le gouvernement fédéral se questionne sur la pertinence et la nécessité de maintenir le statu quo. La déclaration de revenu unique permettrait d'économiser un demi milliard de dollars par année. En plus, c'est déjà la solution qui est appliquée pour la perception des taxes à la consommation au Québec.</ParaText>
+              <ParaText id="4223305">Alors qu'approche la période des impôts, il serait nécessaire et peut-être même de mise que le gouvernement fédéral se questionne sur la pertinence et la nécessité de maintenir le <I>statu quo</I>. La déclaration de revenu unique permettrait d'économiser un demi-milliard de dollars par année. De  plus, c'est déjà la solution qui est appliquée pour la perception des taxes à la consommation au Québec.</ParaText>
               <ParaText id="4223306">Quel intérêt les Québécois ont-ils à remplir deux déclarations, à financer deux bureaucraties et à se battre avec deux systèmes fiscaux arides? Ils n'y ont aucun intérêt. </ParaText>
               <ParaText id="4223307">Le pouvoir de lever des taxes et des impôts constitue l'un des pouvoirs les plus importants pour une nation, et cela pourrait être la première étape vers l'indépendance du Québec.</ParaText>
             </Content>
@@ -429,7 +412,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4223308">Monsieur le Président, j'ai le plaisir de souligner aujourd'hui les relations toutes spéciales qu'entretiennent le Canada et les Philippines.</ParaText>
               <ParaText id="4223309">Depuis de nombreuses années maintenant, les Philippines sont le principal pays d'origine des immigrants qui viennent s'installer au Manitoba. L'incidence sur le reste du pays est extrêmement vaste. Depuis quelques années, un grand nombre de Philippins viennent en effet s'installer ou travailler au Canada. Bon nombre d'entre eux reviennent chaque année pour faire du tourisme, étudier, ce genre de chose.</ParaText>
-              <ParaText id="4223310">Je trouve encourageant que, depuis les élections, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> se soit déjà rendu aux Philippines, tout comme la ministre du Commerce international et divers autres représentants officiels du Canada.</ParaText>
+              <ParaText id="4223310">Je trouve encourageant que, depuis l'élection, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> se soit déjà rendu aux Philippines, tout comme la ministre du Commerce international et divers autres représentants officiels du Canada.</ParaText>
               <ParaText id="4223311">Je tiens à souligner à quel point il est important que nos deux magnifiques pays entretiennent une relation spéciale. Au fil des mois et des ans, nous espérons voir se resserrer encore davantage les liens qui nous unissent afin que la présence philippine au Canada s'intensifie et se consolide, car elle s'intègre de plus en plus rapidement à la culture canadienne, au point d'en faire partie intégrante.</ParaText>
             </Content>
           </Intervention>
@@ -459,7 +442,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214058" Type="2">M. Jean Rioux (Saint-Jean, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223316">Monsieur le Président, notre gouvernement reconnait que le succès économique du pays passe par l'innovation industrielle. Il devient essentiel de fournir aux industriels en devenir une plateforme avant-gardiste pour bien les préparer. </ParaText>
+              <ParaText id="4223316">Monsieur le Président, notre gouvernement reconnaît que le succès économique du pays passe par l'innovation industrielle. Il devient essentiel de fournir aux industriels en devenir une plateforme avant-gardiste pour bien les préparer. </ParaText>
               <ParaText id="4223317">J'ai eu le privilège de participer à la présentation de la Cuvée entrepreneuriale 2015 des nouvelles entreprises du Haut-Richelieu, qui ont bénéficié, pour une majeure partie, des services de l'incubateur opéré par le Centre d'aide aux entreprises Haute-Montérégie.</ParaText>
               <ParaText id="4223318">Notons que les incubateurs et accélérateurs d'entreprises sont déjà reconnus dans les pays industrialisés comme passage idéal entre les études et les affaires. Ils offrent un toit, une image crédible, du soutien technique, de l'aide à la recherche, un service de maillage continu et du mentorat structuré. </ParaText>
               <ParaText id="4223319">Je crois que les réseaux d'entreprises sont des outils essentiels à la réussite de la quatrième révolution industrielle au Canada et que nous devons investir...</ParaText>
@@ -469,7 +452,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223320">À l'ordre. L'honorable député de <Affiliation DbId="213967" Type="2">Drummond</Affiliation> a la parole.</ParaText>
+              <ParaText id="4223320">À l'ordre, s'il vous plaît. L'honorable député de <Affiliation DbId="213967" Type="2">Drummond</Affiliation> a la parole.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -482,9 +465,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="213967" Type="2">M. François Choquette (Drummond, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223321">Monsieur le Président, c'est avec fierté que je me lève aujourd'hui à la Chambre pour souligner le premier anniversaire d'existence du centre de pédiatrie sociale Les petits bonheurs de Drummondville.</ParaText>
-              <ParaText id="4223322">Les citoyens du grand Drummond peuvent être fiers du beau travail et du beau succès que représente ce centre de pédiatrie sociale inspiré des centres du Dr Julien. C'est grâce à la mobilisation du milieu drummondvillois que ce projet rassembleur a vu le jour dans le quartier Saint-Joseph. </ParaText>
+              <ParaText id="4223322">Les citoyens du Grand Drummond peuvent être fiers du beau travail et du beau succès que représente ce centre de pédiatrie sociale inspiré des centres du Dr Julien. C'est grâce à la mobilisation du milieu drummondvillois que ce projet rassembleur a vu le jour dans le quartier Saint-Joseph. </ParaText>
               <ParaText id="4223323">Ayant à coeur le développement des enfants de 0 à 14 ans en situation de vulnérabilité, l'équipe du centre se concentre sur les besoins et le respect des droits des enfants. L'intégration sociale et la justice sociale sont parmi les valeurs qui guident leurs actions auprès des enfants. Cet endroit améliore grandement la vie de plusieurs familles.</ParaText>
-              <ParaText id="4223324">Par le fait-même, j'en profite pour souligner l'excellent travail de toute l'équipe du centre de pédiatrie sociale, particulièrement celui de Luis Bérubé, directeur général, et celui d'Annie Clair, présidente. </ParaText>
+              <ParaText id="4223324">Par le fait même, j'en profite pour souligner l'excellent travail de toute l'équipe du centre de pédiatrie sociale, particulièrement celui de Luis Bérubé, directeur général, et celui d'Annie Clair, présidente. </ParaText>
               <ParaText id="4223325">Bravo pour votre implication sociale dans la collectivité du grand Drummond!</ParaText>
             </Content>
           </Intervention>
@@ -516,8 +499,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214100" Type="2">M. Jamie Schmale (Haliburton—Kawartha Lakes—Brock, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223331">Monsieur le Président, comme beaucoup de députés le savent, un terrible incident s'est produit mardi à l'école secondaire Dunbarton, à Pickering.</ParaText>
-              <ParaText id="4223332">Je tiens à saluer l'un de mes concitoyens, James Blair, un enseignant natif de Lindsay, qui est intervenu avec ses collègues pour mettre fin à l'incident. M. Blair enseigne à l'école Dunbarton, et c'est l'un des nombreux employés héroïques étant passés à l'action quand une assaillante armée — qui, on l'a appris par la suite, était une élève souffrant de stress psychologique — a blessé six élèves. Il est évident que ce drame aurait pu avoir des conséquences beaucoup plus graves n'eût été des efforts de M. Blair, ainsi que de ses collègues et des premiers intervenants.</ParaText>
-              <ParaText id="4223333">Cela montre l'excellence des gens qui éduquent nos enfants. Je tiens à remercier tous les éducateurs qui vont continuellement bien au-delà de leurs fonctions pour assurer la sécurité et le bien-être de leurs élèves en période de crise, et qui veillent à ce que nos jeunes soient prêts à relever les défis qui les attendent.</ParaText>
+              <ParaText id="4223332">Je tiens à saluer l'un de mes concitoyens, James Blair, un enseignant natif de Lindsay, qui est intervenu avec ses collègues pour mettre fin à l'incident. M. Blair enseigne à l'école Dunbarton, et c'est l'un des nombreux employés héroïques étant passés à l'action quand une assaillante armée — qui, on l'a appris par la suite, était une élève souffrant de stress psychologique — a blessé six élèves. Il est évident que ce drame aurait pu avoir des conséquences beaucoup plus graves n'eussent été les efforts de M. Blair, ainsi que de ses collègues et des premiers intervenants.</ParaText>
+              <ParaText id="4223333">Cela montre l'excellence des gens qui éduquent nos enfants. Je tiens à remercier tous les éducateurs qui vont continuellement bien au-delà de leurs fonctions pour assurer la sécurité et le bien-être de leurs élèves en période de crise et qui veillent à ce que nos jeunes soient prêts à relever les défis qui les attendent.</ParaText>
               <ParaText id="4223334">Au nom de la Chambre, je souhaite remercier M. Blair, le personnel et la direction de l'école Dunbarton, de même que les premiers intervenants, de leurs efforts.</ParaText>
               <ParaText id="4223335">J'espère aussi que les élèves, qui ont de la difficulté à accepter ce qui s'est passé, reçoivent l'aide et le soutien dont ils ont besoin.</ParaText>
             </Content>
@@ -534,7 +517,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4223336">Monsieur le Président, j'interviens en cette dernière semaine du Mois de l'histoire des Noirs pour souligner les contributions de Jean Augustine et de Garnett Manning. J'ai eu le privilège de rencontrer ces deux Canadiens remarquables ce mois-ci.</ParaText>
               <ParaText id="4223337">Jean Augustine a été non seulement la première directrice d'école noire au Canada, mais également la première Noire à siéger à la Chambre. Il y a 20 ans, le projet de loi qu'elle avait présenté pour faire de février le Mois de l'histoire des Noirs a été adopté à l'unanimité. Je suis fière d'annoncer qu'une nouvelle école secondaire nommée en son honneur ouvrira ses portes en septembre dans ma circonscription, Brampton-Ouest.</ParaText>
               <ParaText id="4223338">Quant à lui, M. Manning a été le premier Noir élu au conseil municipal de Brampton. C'est un motivateur dont le service a changé la vie de nombreux jeunes Noirs au Canada.</ParaText>
-              <ParaText id="4223339">Monsieur le Président, en cette célébration des réalisations, des contributions et des épreuves des Noirs au Canada, c'est un honneur pour moi de souligner l'oeuvre de ces deux remarquables Canadiens.</ParaText>
+              <ParaText id="4223339">En cette célébration des réalisations, des contributions et des épreuves des Noirs au Canada, c'est un honneur pour moi de souligner l'oeuvre de ces deux remarquables Canadiens.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -565,7 +548,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223346">Monsieur le Président, j'ai un immense respect pour le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> comme ancien combattant.</ParaText>
-              <ParaText id="4223347">Par contre, alors que personne ne comprend ce qu'ils font, les libéraux sont cohérents seulement entre eux. Cette semaine, j'ai posé la question au ministre à savoir si le Canada était en guerre. Il a répondu: « je ne comprends pas tout à fait la question du député. » </ParaText>
+              <ParaText id="4223347">Par contre, alors que personne ne comprend ce qu'ils font, les libéraux sont cohérents seulement entre eux. Cette semaine, j'ai demandé au ministre si le Canada était en guerre. Il a répondu: « je ne comprends pas tout à fait la question du député. » </ParaText>
               <ParaText id="4223348"> Par la suite, il fallait dire si nous étions au combat, oui ou non. À cela, il a répondu: « c'est une mission sans combat. Nous sommes toutefois dans une zone de conflit. [...] Je souligne également qu'ils ne sont pas les combattants principaux. » </ParaText>
               <ParaText id="4223349">De plus, après quatre longues journées de débat à la Chambre, il n'y a toujours pas de réponse intelligente concernant le retrait des CF-18. On veut nous envoyer dans une mission à haut risque pour nos soldats, tout en niant que nous sommes en guerre contre le groupe État islamique. La cerise sur le sundae, c'est que le ministre veut que nos troupes combattent en Libye, alors que nos alliés recommandent de ne pas y aller. </ParaText>
               <ParaText id="4223350">C'est le summum de la confusion, ici.</ParaText>
@@ -645,7 +628,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214258" Type="2">Mme Jenny Kwan (Vancouver-Est, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223367">Monsieur le Président, le collectif imagi'NATION est un des nombreux organismes fantastiques voués aux arts à Vancouver-Est.</ParaText>
-              <ParaText id="4223368">J'ai eu le plaisir d'assister à sa pièce de théâtre <I>Beneath the Surface</I>, à l'école secondaire Templeton, dans ma circonscription. La pièce s'inspire du suicide tragique d'une adolescente des Premières Nations dans Vancouver-Est. On y présente avec réalisme l'expérience que vivent de nombreux Autochtones et les conséquences des pensionnats indiens. La pièce aborde adroitement divers enjeux, comme la pauvreté, l'isolement, l'identité culturelle et sexuelle, l'intimidation et le suicide chez les adolescents. Elle s'ouvre sur des pratiques ancestrales et se conclue par un débat animé avec les acteurs.</ParaText>
+              <ParaText id="4223368">J'ai eu le plaisir d'assister à sa pièce de théâtre <I>Beneath the Surface</I>, à l'école secondaire Templeton, dans ma circonscription. La pièce s'inspire du suicide tragique d'une adolescente des Premières Nations dans Vancouver-Est. On y présente avec réalisme l'expérience que vivent de nombreux Autochtones et les conséquences des pensionnats indiens. La pièce aborde adroitement divers enjeux, comme la pauvreté, l'isolement, l'identité culturelle et sexuelle, l'intimidation et le suicide chez les adolescents. Elle s'ouvre sur des pratiques ancestrales et se conclut par un débat animé avec les acteurs.</ParaText>
               <ParaText id="4223369"> Ses metteurs en scène travaillent actuellement à en faire un programme de sensibilisation intitulé « Building Bridges ». Mélangeant théâtre et activités centrées sur le bien-être, ce programme formera des ambassadeurs auprès des jeunes et fera la promotion de la guérison, de la compassion et de la compréhension profonde. Tous les élèves devraient voir la pièce.</ParaText>
               <ParaText id="4223370">Je demande au gouvernement d'aider le collectif imagi'NATION et de faire jouer cette pièce dans toutes les écoles du pays.</ParaText>
             </Content>
@@ -716,7 +699,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223384">Monsieur le Président, tout d'abord, comme c'est vendredi, j'aimerais saluer les membres de la famille, qui se trouvent à la tribune aujourd'hui, et... </ParaText>
+              <ParaText id="4223384">Monsieur le Président, tout d'abord, comme c'est vendredi, j'aimerais saluer les membres de ma famille qui se trouvent à la tribune aujourd'hui, et... </ParaText>
               <ParaText id="4223385">
                 <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
@@ -753,7 +736,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4223393">Monsieur le Président, je remercie mon honorable collègue de sa question.</ParaText>
               <ParaText id="4223394">Les seuls qui ne comprennent pas que les conservateurs nous ont laissé un déficit, ce sont les conservateurs. Tout le monde au Canada le comprend. </ParaText>
-              <ParaText id="4223395">Nous avons un plan pour la croissance, et les Canadiens et les Canadiennes ont fait ce choix le 19 octobre. Nous allons continuer ce que nous avons commencé à faire en décembre en réduisant l'impôt pour la classe moyenne. Nous allons continuer dans le budget avec l'Allocation canadienne aux enfants, et nous allons mettre en place plan historique pour lnotre'infrastructure. Cela, c'est travailler pour les Canadiens.</ParaText>
+              <ParaText id="4223395">Nous avons un plan pour la croissance, et les Canadiens et les Canadiennes ont fait ce choix le 19 octobre. Nous allons continuer ce que nous avons commencé à faire en décembre en réduisant l'impôt pour la classe moyenne. Nous allons continuer dans le budget avec l'Allocation canadienne aux enfants, et nous allons mettre en place notre plan historique pour l'infrastructure. Cela, c'est travailler pour les Canadiens.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -795,7 +778,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223404">Monsieur le Président, je remercie mon honorable collègue de sa question.</ParaText>
-              <ParaText id="4223405">Nous avons réduit les taxes des Canadiens. Nous l'avons fait au mois de décembre pour 9 millions de Canadiens. Nous allons continuer avec un plan de croissance économique. C'est ce que les gens veulent au Canada. Nous allons continuer d'investir dans la productivité, dans l'innovation et dans les infrastructures. </ParaText>
+              <ParaText id="4223405">Nous avons réduit les impôts des Canadiens. Nous l'avons fait au mois de décembre pour 9 millions de Canadiens. Nous allons continuer avec un plan de croissance économique. C'est ce que les gens veulent au Canada. Nous allons continuer d'investir dans la productivité, dans l'innovation et dans les infrastructures. </ParaText>
               <ParaText id="4223406">À un moment où les conservateurs nous ont laissé une situation financière lamentable, c'est le temps d'investir, et c'est exactement ce que nous allons faire.</ParaText>
             </Content>
           </Intervention>
@@ -813,7 +796,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214672" Type="18">M. François-Philippe Champagne (secrétaire parlementaire du ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223410">Monsieur le Président, je remercie mon honorable collègue.</ParaText>
-              <ParaText id="4223411">C'est justement les conservateurs qui ont fait couler le bateau économique, mais grâce à un plan de croissance — je vais le répéter en français pour mon honorable collègue —, nous allons continuer d'investir dans l'économie et nous allons le faire de façon responsable. Nous allons continuer de réduire notre ratio de la dette sur le PIB durant notre mandat. Nous aurons toujours pour objectif d'équilibre le budget.</ParaText>
+              <ParaText id="4223411">C'est justement les conservateurs qui ont fait couler le bateau économique, mais grâce à un plan de croissance — je vais le répéter en français pour mon honorable collègue —, nous allons continuer d'investir dans l'économie et nous allons le faire de façon responsable. Nous allons continuer de réduire notre ratio de la dette sur le PIB durant notre mandat. Nous aurons toujours pour objectif d'équilibrer le budget.</ParaText>
               <ParaText id="4223412">Notre priorité, c'est la croissance. C'est le choix que les Canadiens ont fait, et c'est cela que nos amis de l'autre côté devraient apprendre.</ParaText>
             </Content>
           </Intervention>
@@ -834,7 +817,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Mihychuk" id="8817231">
             <PersonSpeaking>
-              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223416">Monsieur le Président, nous sommes en train de consulter les Canadiens.</ParaText>
               <ParaText id="4223417">Il est important de connaître le point de vue des gens de partout au pays avant d'annuler les changements mesquins apportés par le gouvernement précédent, changements qui avaient comme principale fonction de mettre le régime d'assurance-emploi au service des employeurs, et non des travailleurs, au Canada. Nous allons changer cela.</ParaText>
@@ -846,16 +829,16 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214064" Type="2">Mme Brigitte Sansoucy (Saint-Hyacinthe—Bagot, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223418">Monsieur le Président, les conservateurs ont causé d'énormes torts en coupant l'accès à l'assurance-emploi aux travailleurs qui en ont le plus besoin. Dans ma région et dans de nombreuses régions du pays, en Atlantique et en Gaspésie, nos industries saisonnières sont des moteurs essentiels de l'économie.</ParaText>
-              <ParaText id="4223419">Les libéraux ont dénoncé haut et fort les réformes conservatrices de l'assurance-emploi. Maintenant, au pouvoir, le gouvernement s'engage-t-il à restaurer les cinq semaines additionnelles pour les travailleurs saisonniers?</ParaText>
+              <ParaText id="4223419">Les libéraux ont dénoncé haut et fort les réformes conservatrices de l'assurance-emploi. Maintenant au pouvoir, le gouvernement s'engage-t-il à restaurer les cinq semaines additionnelles pour les travailleurs saisonniers?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Mihychuk" id="8817236">
             <PersonSpeaking>
-              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223420">Monsieur le Président, je répète que nous avons entamé un examen approfondi du régime d'assurance-emploi afin de le moderniser et faire en sorte qu'il réponde aux besoins des travailleurs saisonniers et des travailleurs vulnérables partout au Canada. </ParaText>
+              <ParaText id="4223420">Monsieur le Président, je répète que nous avons entamé un examen approfondi du régime d'assurance-emploi afin de le moderniser et de faire en sorte qu'il réponde aux besoins des travailleurs saisonniers et des travailleurs vulnérables partout au Canada. </ParaText>
               <ParaText id="4223421">Le processus a été entamé, alors je vous demande à tous de participer à cet examen du régime d'assurance-emploi.</ParaText>
             </Content>
           </Intervention>
@@ -872,14 +855,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214064" Type="2">Mme Brigitte Sansoucy (Saint-Hyacinthe—Bagot, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223424">Monsieur le Président, les gens ont besoin d'aide maintenant. Ils n'ont pas besoin de réponses évasives. Les travailleurs se souviennent encore aujourd'hui que les libéraux de Paul Martin et de Jean Chrétien ont pigé à deux mains, sans scrupule, dans la caisse de l'assurance-emploi, pour équilibrer leur budget. Plus de 50 milliards de dollars ont été pris à même les prestations auxquelles les travailleurs avaient droit.</ParaText>
-              <ParaText id="4223425">Nous connaissons tous l'ampleur des prochains déficits des libéraux. Peuvent-ils au moins répondre à une question très simple? Le gouvernement prévoie-t-il, oui ou non, de piger encore dans la caisse de l'assurance-emploi?</ParaText>
+              <ParaText id="4223424">Monsieur le Président, les gens ont besoin d'aide maintenant. Ils n'ont pas besoin de réponses évasives. Les travailleurs se souviennent encore aujourd'hui que les libéraux de Paul Martin et de Jean Chrétien ont pigé à deux mains, sans scrupule, dans la caisse de l'assurance-emploi pour équilibrer leur budget. Plus de 50 milliards de dollars ont été pris à même les prestations auxquelles les travailleurs avaient droit.</ParaText>
+              <ParaText id="4223425">Nous connaissons tous l'ampleur des prochains déficits des libéraux. Peuvent-ils au moins répondre à une question très simple? Le gouvernement prévoit-il, oui ou non, piger encore dans la caisse de l'assurance-emploi?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Mihychuk" id="8817243">
             <PersonSpeaking>
-              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223426">Monsieur le Président, cela me donne l'occasion de rappeler à la Chambre que le gouvernement a fait campagne en promettant de modifier le régime d'assurance-emploi, qui avait déjà fait l'objet de modifications mesquines par le gouvernement précédent. Ces modifications visaient à aider et à subventionner les entreprises plutôt qu'à répondre aux besoins des travailleurs canadiens.</ParaText>
               <ParaText id="4223427">Nous nous affairons en ce moment à moderniser le régime.</ParaText>
@@ -896,7 +879,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Mihychuk" id="8817249">
             <PersonSpeaking>
-              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214313" Type="4">L’hon. MaryAnn Mihychuk (ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223431">Monsieur le Président, je tiens à préciser à la Chambre des communes et aux citoyens du Canada que nous nous sommes engagés à améliorer le régime d'assurance-emploi, c'est-à-dire de le moderniser afin qu'il réponde aux besoins des entreprises et des travailleurs. Il s'agit d'une priorité dont le gouvernement précédent n'a pas tenu compte dans le cadre de son mandat.</ParaText>
             </Content>
@@ -994,7 +977,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214310" Type="4">L’hon. Catherine McKenna (ministre de l'Environnement et du Changement climatique, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223453">Monsieur le Président, le Nord est aussi confronté à la fonte du pergélisol, un autre enjeu important. Ce changement a des répercussions sur les résidants. Certains ne peuvent plus s'adonner à la chasse traditionnelle. Des écoles doivent fermer parce qu'elles sont situées sur un terrain instable.</ParaText>
-              <ParaText id="4223454">Nous devons agir pour contrer les changements climatiques. Nous agissons parce que c'est la voie à suivre, une voie qui nous mènera à un avenir à faibles émissions de carbone seront moindres, en plus de favoriser l'innovation et la création d'emplois. </ParaText>
+              <ParaText id="4223454">Nous devons agir pour contrer les changements climatiques. Nous agissons parce que c'est la voie à suivre, une voie qui nous mènera à un avenir à faibles émissions de carbone, en plus de favoriser l'innovation et la création d'emplois. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1006,7 +989,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214473" Type="2">M. Dan Albas (Central Okanagan—Similkameen—Nicola, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223455">Monsieur le Président, nous étions parvenus à établir un consensus à l'échelle du pays sur la nécessité d'un accord moderne et exhaustif sur le commerce intérieur. Nous savons que l'échéance pour la conclusion d'un nouvel accord approche à grands pas, et que le ministre actuel a rencontré récemment ses homologues provinciaux pour discuter de cette question. La seule chose que les libéraux ont faite depuis leur élection est de mener des consultations et encore plus de consultations.</ParaText>
+              <ParaText id="4223455">Monsieur le Président, nous étions parvenus à établir un consensus à l'échelle du pays sur la nécessité d'un accord moderne et exhaustif sur le commerce intérieur. Nous savons que l'échéance pour la conclusion d'un nouvel accord approche à grands pas et que le ministre actuel a rencontré récemment ses homologues provinciaux pour discuter de cette question. La seule chose que les libéraux ont faite depuis leur élection est de mener des consultations et encore plus de consultations.</ParaText>
               <ParaText id="4223456">Le ministre peut-il confirmer que les libéraux ne retardent pas la conclusion de cet accord en imposant de nouvelles demandes et des formalités administratives supplémentaires ou en réclamant trop de consultations?</ParaText>
             </Content>
           </Intervention>
@@ -1037,7 +1020,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214681" Type="18">Mme Kim Rudd (secrétaire parlementaire du ministre des Ressources naturelles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223461">Monsieur le Président, je remercie le député de sa question.</ParaText>
-              <ParaText id="4223462">Comme nous l'avons souvent déclaré à la Chambre, nous compatissons avec les familles des provinces productrices de ressources au pays, étant donné les temps difficiles qu'elles traversent. Il y a des choses hors de notre contrôle, au sujet desquelles d'autres pays prennent les décisions. Le cours des matières premières sur les marchés mondiaux nous touche tous.</ParaText>
+              <ParaText id="4223462">Comme nous l'avons souvent déclaré à la Chambre, nous compatissons avec les familles des provinces productrices de ressources au pays étant donné les temps difficiles qu'elles traversent. Il y a des choses hors de notre contrôle, au sujet desquelles d'autres pays prennent les décisions. Le cours des matières premières sur les marchés mondiaux nous touche tous.</ParaText>
               <ParaText id="4223463">Je le répète, nous allons laisser l'Office national de l'énergie terminer son processus, qui est très rigoureux. Nous serons heureux de tenir mon collègue au courant des progrès du processus. </ParaText>
             </Content>
           </Intervention>
@@ -1050,7 +1033,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213912" Type="2">M. Alistair MacGregor (Cowichan—Malahat—Langford, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223464">Monsieur le Président, hier, le député de <Affiliation DbId="214070" Type="2">Scarborough-Sud-Ouest</Affiliation> a fait une chose étrange: il a accusé les députés de l'opposition de semer la confusion au sujet de la légalité de la marijuana. Il en a même rajouté en disant que: « [...] le seul contrôle en place est la sanction criminelle pour la production et le trafic de marijuana ».</ParaText>
+              <ParaText id="4223464">Monsieur le Président, hier, le député de <Affiliation DbId="214070" Type="2">Scarborough-Sud-Ouest</Affiliation> a fait une chose étrange: il a accusé les députés de l'opposition de semer la confusion au sujet de la légalité de la marijuana. Il en a même rajouté en disant que: « le seul contrôle en place est la sanction criminelle pour la production et le trafic de marijuana ».</ParaText>
               <ParaText id="4223465">Le <Affiliation DbId="214674" Type="18">secrétaire parlementaire de la ministre de la Justice et procureure générale du Canada</Affiliation> semble donc dire aux Canadiens que la possession de marijuana est désormais légale. Rien d'étonnant à ce que les Canadiens et les forces de l'ordre ne s'y retrouvent plus.</ParaText>
               <ParaText id="4223466">Le secrétaire parlementaire peut-il mettre les choses au clair et expliquer précisément quelle est la position de son gouvernement au sujet de la marijuana?</ParaText>
             </Content>
@@ -1069,8 +1052,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214268" Type="2">M. Guy Caron (Rimouski-Neigette—Témiscouata—Les Basques, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223470">Monsieur le Président, cela fait juste confirmer que depuis le début, le gouvernement nage en pleine improvisation dans le dossier de la marijuana. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> dit que ce sera légal d'ici un an. Le secrétaire parlementaire, lui, doute que cela arrivera d'ici la fin du mandat. Pendant ce temps, les Canadiens continuent d'être victimes de lois dépassées comme ce citoyen de ma circonscription qui devra faire un an de prison pour avoir produit son propre cannabis.</ParaText>
-              <ParaText id="4223471">Si le gouvernement peut faire la distinction entre décriminalisation et légalisation, pourquoi ne fait-il pas la bonne chose en décriminalisant, dès maintenant, la possession de cannabis à des fins personnelles?</ParaText>
+              <ParaText id="4223470">Monsieur le Président, cela ne fait que confirmer que depuis le début, le gouvernement nage en pleine improvisation dans le dossier de la marijuana. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> dit que ce sera légal d'ici un an. Le secrétaire parlementaire, lui, doute que cela arrivera d'ici la fin du mandat. Pendant ce temps, les Canadiens continuent d'être victimes de lois dépassées, comme ce citoyen de ma circonscription qui devra faire un an de prison pour avoir produit son propre cannabis.</ParaText>
+              <ParaText id="4223471">Si le gouvernement peut faire la distinction entre décriminalisation et légalisation, pourquoi ne fait-il pas la bonne chose en décriminalisant dès maintenant la possession de cannabis à des fins personnelles?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1090,7 +1073,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214218" Type="2">M. Blaine Calkins (Red Deer—Lacombe, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223473">Monsieur le Président, le leader du gouvernement à la Chambre est intervenu à la Chambre hier au sujet du filtre anti-conflits mis en place pour la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation>. Ce filtre ne l'empêche ni de discuter au Cabinet des projets proposés par les clients de son mari, ni même de voter sur ces projets.</ParaText>
+              <ParaText id="4223473">Monsieur le Président, le leader du gouvernement à la Chambre est intervenu à la Chambre hier au sujet du filtre anti-conflits mis en place pour la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation>. Ce filtre ne l'empêche ni de discuter au Cabinet des projets proposés par les clients de son mari ni même de voter sur ces projets.</ParaText>
               <ParaText id="4223474">La <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation> admettra-t-elle enfin que son dénommé filtre anti-conflits est plein de trous et se retirera-t-elle des comités du Cabinet?</ParaText>
             </Content>
           </Intervention>
@@ -1114,7 +1097,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214317" Type="4">L'hon. Dominic LeBlanc (leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223479">Monsieur le Président, seul ce député-là trouverait un tel écran de fumée sur Internet.</ParaText>
+              <ParaText id="4223479">Monsieur le Président, seul ce député trouverait un tel écran de fumée sur Internet.</ParaText>
               <ParaText id="4223480">La commissaire à l'éthique a affiché que toutes les mesures de conformité ont été prises. La ministre les respectera toutes.</ParaText>
               <ParaText id="4223481">Soyons clairs: M. Raybould a 30 ans d'expérience...</ParaText>
               <ParaText id="4223482">
@@ -1277,7 +1260,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214548" Type="2">M. Blake Richards (Banff—Airdrie, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223509">Monsieur le Président, la <Affiliation DbId="214316" Type="4">ministre des Institutions démocratiques</Affiliation> ne semble pas prendre l'élément démocratique de son titre trop au sérieux. L'Alberta élit des sénateurs au moyen d'un processus de sélection de candidats, mais quand elle a comparu devant un comité du Sénat mercredi soir, la ministre a affirmé que les libéraux n'avaient pas l'intention de respecter ce processus démocratique. </ParaText>
+              <ParaText id="4223509">Monsieur le Président, la <Affiliation DbId="214316" Type="4">ministre des Institutions démocratiques</Affiliation> ne semble pas prendre l'élément démocratique de son titre trop au sérieux. L'Alberta élit des sénateurs au moyen d'un processus de sélection de candidats, mais quand elle a comparu devant un comité du Sénat, mercredi soir, la ministre a affirmé que les libéraux n'avaient pas l'intention de respecter ce processus démocratique. </ParaText>
               <ParaText id="4223510">Pourquoi le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> libéral n'accepte-t-il pas les résultats des élections de sénateurs en Alberta? Pourquoi fait-il un pied de nez aux Albertains?</ParaText>
             </Content>
           </Intervention>
@@ -1296,7 +1279,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Scheer" id="8817348">
             <PersonSpeaking>
-              <Affiliation DbId="214618" Type="7">M. Andrew Scheer (leader à la Chambre de l'Opposition officielle, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214501" Type="2">M. Andrew Scheer (Regina—Qu'Appelle, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223513">Monsieur le Président, nous venons d'entendre le <Affiliation DbId="214674" Type="18">secrétaire parlementaire de la ministre de la Justice</Affiliation> dire que la loi, c'est la loi, et que toutes les lois doivent être respectées au Canada.</ParaText>
               <ParaText id="4223514">De nombreux membres des Premières nations vivant dans des réserves nous ont dit qu'ils déploraient que le gouvernement ne fasse pas respecter la loi, la loi sur la responsabilité des Premières nations, qui permet aux membres des Premières nations de savoir comment leur bande dépense leur argent.</ParaText>
@@ -1329,7 +1312,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214309" Type="4">L'hon. John McCallum (ministre de l'Immigration, des Réfugiés et de la Citoyenneté, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223520">Monsieur le Président, je remercie la députée de sa question. Je suis tout à fait d'accord avec elle: la situation actuelle est un gâchis, car les délais d'attente des familles se sont considérablement allongés ces dix dernières années. Ma priorité absolue est de réduire radicalement ces délais de traitement au cours des prochaines années. Nous annoncerons à la Chambre et aux Canadiens que nous avons un plan concret et des objectifs précis pour le faire le plus rapidement possible.</ParaText>
+              <ParaText id="4223520">Monsieur le Président, je remercie la députée de sa question. Je suis tout à fait d'accord avec elle: la situation actuelle est un gâchis, car les délais d'attente des familles se sont considérablement allongés ces 10 dernières années. Ma priorité absolue est de réduire radicalement ces délais de traitement au cours des prochaines années. Nous annoncerons à la Chambre et aux Canadiens que nous avons un plan concret et des objectifs précis pour le faire le plus rapidement possible.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Kwan" id="8817392">
@@ -1337,7 +1320,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214258" Type="2">Mme Jenny Kwan (Vancouver-Est, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223521">Monsieur le Président, les paroles creuses ne peuvent remplacer l'action. En tant que fière immigrante canadienne, je sais qu'il est important d'avoir sa famille près de soi quand on se retrouve dans un nouveau pays. Les parents et les grands-parents sont des piliers de l'unité familiale.</ParaText>
-              <ParaText id="4223522">Or, certaines familles doivent attendre jusqu'à 10 ans avant d'être réunifiées, et seulement quand il leur est possible de soumettre une demande. Ce programme a besoin de plus qu'une simple hausse du contingent de demandes; il a besoin d'une transformation radicale. Le ministre corrigera-t-il le programme afin que les familles puissent être réunifiées rapidement?</ParaText>
+              <ParaText id="4223522">Or certaines familles doivent attendre jusqu'à 10 ans avant d'être réunifiées, et seulement quand il leur est possible de soumettre une demande. Ce programme a besoin de plus qu'une simple hausse du contingent de demandes; il a besoin d'une transformation radicale. Le ministre corrigera-t-il le programme afin que les familles puissent être réunifiées rapidement?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. McCallum" id="8817395">
@@ -1424,7 +1407,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214342" Type="2">M. Pat Finnigan (Miramichi—Grand Lake, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223542">Monsieur le Président, le <Affiliation DbId="214305" Type="4">ministre des Affaires étrangères</Affiliation> était à l'étranger cette semaine afin de discuter d'importants dossiers internationaux et de sécurité avec ses homologues.</ParaText>
-              <ParaText id="4223543"> La <Affiliation DbId="214663" Type="18">secrétaire parlementaire du ministre des Affaires étrangères</Affiliation> peut-elle informer la Chambre des différentes rencontres auxquelles elle a participé et la réaction de la communauté internationale en ce qui a trait à l'important travail qu'accomplit le Canada à l'étranger?</ParaText>
+              <ParaText id="4223543"> La <Affiliation DbId="214663" Type="18">secrétaire parlementaire du ministre des Affaires étrangères</Affiliation> peut-elle informer la Chambre des différentes rencontres auxquelles il a participé et la réaction de la communauté internationale en ce qui a trait à l'important travail qu'accomplit le Canada à l'étranger?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Goldsmith-Jones" id="8817417">
@@ -1505,7 +1488,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214677" Type="18">Mme Kamal Khera (secrétaire parlementaire de la ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223563">Monsieur le Président, le député sait fort bien que la décision rendue dans l'affaire Allard porte sur la marijuana destinée à des fins médicales, qui sera consommée par des gens malades, qui en ont besoin et qui doivent y avoir accès. La marijuana leur est prescrite par des professionnels de la santé.</ParaText>
-              <ParaText id="4223564">Le tribunal a rendu sa décision dans l'affaire Allard, et il est important que nous prenions les mesures nécessaires et le temps qu'il faut pour l'examiner. Nous consulterons ma collègue, la <Affiliation DbId="214903" Type="96">ministre de la Justice et procureure générale du Canada</Affiliation>, au sujet de la décision rendue par le tribunal. Lorsque le gouvernement aura eu l'occasion d'étudier les répercussions de cette décision, il se penchera sur les prochaines étapes. </ParaText>
+              <ParaText id="4223564">Le tribunal a rendu sa décision dans l'affaire Allard, et il est important que nous prenions les mesures nécessaires et le temps qu'il faut pour l'examiner. Nous consulterons ma collègue la <Affiliation DbId="214903" Type="96">ministre de la Justice et procureure générale du Canada</Affiliation> au sujet de la décision rendue par le tribunal. Lorsque le gouvernement aura eu l'occasion d'étudier les répercussions de cette décision, il se penchera sur les prochaines étapes. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1518,7 +1501,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214205" Type="2">M. Luc Thériault (Montcalm, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223565">Monsieur le Président, toute la semaine, le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> nous a répété qu'il était fier et très heureux que Air Canada n'ait pas à respecter la loi.</ParaText>
+              <ParaText id="4223565">Monsieur le Président, toute la semaine, le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> nous a répété qu'il était fier et très heureux qu'Air Canada n'ait pas à respecter la loi.</ParaText>
               <ParaText id="4223566"> Par conséquent, 1 800 travailleurs d'Aveos ayant perdu leur emploi n'ont plus de recours. Le ministre a fait le choix de plaire aux délinquants. Aujourd'hui, je laisse au gouvernement la chance de nous donner une réponse respectueuse des travailleurs et travailleuses et de leurs familles, plutôt que de nous servir la même cassette. </ParaText>
               <ParaText id="4223567">Pourquoi refuse-t-il d'appliquer sa propre loi?</ParaText>
             </Content>
@@ -1528,7 +1511,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214679" Type="18">Mme Kate Young (secrétaire parlementaire du ministre des Transports, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223568">Monsieur le Président, le gouvernement du Canada se réjouit de l'annonce faite par Air Canada, qui a signalé son intention d'acheter des appareils de la série C de Bombardier. Je suis convaincue que cet ajout à la flotte d'Air Canada apportera des avantages considérables non seulement à l'entreprise, mais aussi au secteur aérospatial du Canada.</ParaText>
+              <ParaText id="4223568">Monsieur le Président, le gouvernement du Canada se réjouit de l'annonce faite par Air Canada, qui a signalé son intention d'acheter des appareils de la C Series de Bombardier. Je suis convaincue que cet ajout à la flotte d'Air Canada apportera des avantages considérables non seulement à l'entreprise, mais aussi au secteur aérospatial du Canada.</ParaText>
               <ParaText id="4223569">Je félicite aussi Air Canada, qui a annoncé son intention de favoriser la création au Québec d'un centre d'excellence en entretien d'aéronefs, qui créera d'autres possibilités d'emploi dans ce secteur.</ParaText>
             </Content>
           </Intervention>
@@ -1537,7 +1520,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214054" Type="2">Mme Monique Pauzé (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223570">Monsieur le Président, en 2012, lors d'une manifestation à laquelle le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> actuel participait, celui-ci a donné sa parole aux travailleurs d'Aveos, et je cite: « C'est tellement de valeur qu'on est en train de devoir manifester pour demander à un gouvernement de loi et d'ordre de respecter la loi. »</ParaText>
+              <ParaText id="4223570">Monsieur le Président, en 2012, lors d'une manifestation à laquelle le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> actuel participait, celui-ci a donné sa parole aux travailleurs d'Aveos: « C'est tellement de valeur qu'on est en train de devoir manifester pour demander à un gouvernement de loi et d'ordre de respecter la loi. »</ParaText>
               <ParaText id="4223571">Plus récemment, il a dit: « C'est pas vrai que la meilleure ressource est dans la terre, à quelque part. Notre meilleure ressource, c'est la ressource humaine. »</ParaText>
               <ParaText id="4223572">Est-ce que c'est cela, la parole donnée d'un premier ministre?</ParaText>
             </Content>
@@ -1547,7 +1530,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214679" Type="18">Mme Kate Young (secrétaire parlementaire du ministre des Transports, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223573">Monsieur le Président, je répète que le gouvernement se réjouit de l'annonce faite par Air Canada, qui a signalé son intention d'acheter des appareils de la série C de Bombardier. C'est un grand pas en avant dans le secteur de l'aviation. Je suis convaincue que cet ajout à la flotte d'Air Canada apportera des avantages considérables non seulement à l'entreprise, mais aussi au secteur aérospatial du Canada, partout au pays.</ParaText>
+              <ParaText id="4223573">Monsieur le Président, je répète que le gouvernement se réjouit de l'annonce faite par Air Canada, qui a signalé son intention d'acheter des appareils de la C Series de Bombardier. C'est un grand pas en avant dans le secteur de l'aviation. Je suis convaincue que cet ajout à la flotte d'Air Canada apportera des avantages considérables non seulement à l'entreprise, mais aussi au secteur aérospatial du Canada, partout au pays.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1562,7 +1545,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4223574">Monsieur le Président, le groupe chargé de l'examen de la Loi sur les transports au Canada mis en place par les conservateurs a fait son rapport hier. </ParaText>
               <ParaText id="4223575">On y retrouve des recommandations loufoques comme celle de remplacer les pilotes du Saint-Laurent par des drones. À notre grand étonnamment, on n'y retrouve aucune proposition pour renforcer la sécurité ferroviaire. </ParaText>
-              <ParaText id="4223576">Plutôt que d'écouter les conservateurs, le gouvernement fédéral va-t-il enfin écouter les villes du Québec, en exigeant notamment que les compagnies ferroviaires les informent en temps réel de ce qui se passe chez nous, et va-t-il exiger le retrait des wagons DOT-111?</ParaText>
+              <ParaText id="4223576">Plutôt qu'écouter les conservateurs, le gouvernement fédéral va-t-il enfin écouter les villes du Québec, en exigeant notamment que les compagnies ferroviaires les informent en temps réel de ce qui se passe chez nous, et va-t-il exiger le retrait des wagons DOT-111?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
@@ -1583,13 +1566,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4223580">Je remercie les députés pour leur comportement généralement exemplaire aujourd'hui.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="8817456">
-        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Questions orales</SubjectOfBusinessQualifier>
-        <CatchLine>Recours au Règlement</CatchLine>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Calkins" id="8817457">
             <PersonSpeaking>
               <Affiliation DbId="214218" Type="2">M. Blaine Calkins (Red Deer—Lacombe, PCC)</Affiliation>: </PersonSpeaking>
@@ -1617,13 +1593,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <SubjectOfBusiness id="8817464">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Les finances</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Finances</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Easter" id="8817463">
             <PersonSpeaking>
               <Affiliation DbId="213979" Type="2">L'hon. Wayne Easter (Malpeque, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223585">Monsieur le Président, j'ai l'honneur de présenter, dans les deux langues officielles, le premier rapport du Comité permanent des finances, qui est intitulé<?bk?> «  Consultations<?ek?> préalables au budget de 2016: Rapport provisoire du Comité permanent des finances de la Chambre des communes ». Le dépôt d'un rapport provisoire à cette étape est plutôt inhabituel, mais le comité souhaitait informer dès que possible la Chambre et le ministre du large éventail de sujets abordés et leur fournir un lien vers les mémoires.</ParaText>
+              <ParaText id="4223585">Monsieur le Président, j'ai l'honneur de présenter, dans les deux langues officielles, le premier rapport du Comité permanent des finances, qui est intitulé<?bk ?> «  Consultations<?ek ?> préalables au budget de 2016: Rapport provisoire du Comité permanent des finances de la Chambre des communes ». Le dépôt d'un rapport provisoire à cette étape est plutôt inhabituel, mais le comité souhaitait informer dès que possible la Chambre et le ministre du large éventail de sujets abordés et leur fournir un lien vers les mémoires.</ParaText>
               <ParaText id="4223586">Nous savons que le budget sera présenté le 22 mars. Nous présenterons notre rapport définitif avant cette date, soit le 11 mars. Nous voulions, toutefois, que le ministre et la Chambre soient au courant des excellents exposés et mémoires qui ont été présentés au comité.</ParaText>
             </Content>
           </Intervention>
@@ -1680,7 +1656,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ProceduralText TocType="TPC" id="6">Projet de loi C-243. Présentation et première lecture</ProceduralText>
               <ParaText id="4223598"> demande à présenter le projet de loi <Document DbId="8122307" Type="4">C-243, Loi visant l’élaboration d’une stratégie relative au programme national d’aide à la maternité et modifiant la Loi sur l’assurance-emploi (prestations de maternité)</Document>.</ParaText>
               <ParaText id="4223599">— Monsieur le Président, j'interviens aujourd'hui pour présenter mon projet de loi d'initiative parlementaire. Il est composé de deux parties.</ParaText>
-              <ParaText id="4223600">La première propose des modifications à la Loi sur l'assurance-emploi de manière à donner une plus grande marge de manoeuvre aux femmes qui tombent enceinte et dont les conditions de travail sont dangereuses.</ParaText>
+              <ParaText id="4223600">La première propose des modifications à la Loi sur l'assurance-emploi de manière à donner une plus grande marge de manoeuvre aux femmes qui tombent enceintes et dont les conditions de travail sont dangereuses.</ParaText>
               <ParaText id="4223601">La deuxième demande au gouvernement de dresser une stratégie nationale d'aide à la maternité qui prend en compte le marché du travail d'aujourd'hui, un marché qui exige davantage que les femmes travaillent dans des conditions potentiellement dangereuses.</ParaText>
               <ParaText id="4223602">C'est Melodie Ballard, une électrice, qui m'a inspiré le projet de loi. Melodie est soudeuse. Lorsqu'elle est tombée enceinte, l'absence d'un régime d'assurance-emploi qui tient compte des conditions dangereuses de son travail a entraîné pour elle de graves problèmes financiers.</ParaText>
               <ParaText id="4223603">C'est un plaisir pour moi de présenter le projet de loi. J'estime qu'il aurait des répercussions à l'échelle du pays et qu'il nous aiderait à nous adapter à l'évolution du marché du travail au Canada.</ParaText>
@@ -1699,7 +1675,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ProceduralText TocType="TPC" id="8">Projet de loi C-244. Présentation et première lecture</ProceduralText>
               <ParaText id="4223604">demande à présenter le projet de loi <Document DbId="8082898" Type="4">C-244, Loi instituant la Journée Leif Erikson</Document>.</ParaText>
-              <ParaText id="4223605">-- Monsieur le Président, je suis heureux de présenter de nouveau ce projet de loi au nom de plus de 1 million de Canadiens d'origine scandinave en vue de désigner le 9 octobre comme étant la Journée Leif Erikson au Canada.</ParaText>
+              <ParaText id="4223605">— Monsieur le Président, je suis heureux de présenter de nouveau ce projet de loi au nom de plus de 1 million de Canadiens d'origine scandinave en vue de désigner le 9 octobre comme étant la Journée Leif Erikson au Canada.</ParaText>
               <ParaText id="4223606">Comme nous le savons, depuis 1964, les États-Unis célèbrent la Journée Leif Erikson le 9 octobre. Il est très important pour ceux d'entre nous qui sont d'ascendance scandinave, norvégienne, suédoise, finlandaise, danoise ou islandaise que le Canada reconnaisse nos contributions. Dans mon cas, la famille de ma mère est originaire de Fredrikstad, en Norvège.</ParaText>
               <ParaText id="4223607">Je suis heureux de dire que ce projet de loi a été appuyé par des organisations scandinaves de l'ensemble du pays, notamment par le centre scandinave de Burnaby, en Colombie-Britannique. J'espère que tous les députés appuieront le projet de loi et que nous célébrerons enfin la Journée Leif Erikson au Canada le 9 octobre.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="9">(Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.)</ProceduralText>
@@ -1740,7 +1716,7 @@ des animaux</SubjectOfBusinessTitle>
             <Content>
               <ProceduralText TocType="TPC" id="12">Projet de loi C-246. Présentation et première lecture</ProceduralText>
               <ParaText id="4223613"> demande à présenter le projet de loi <Document DbId="8122718" Type="4">C-246, Loi modifiant le Code criminel, la Loi sur les pêches, la Loi sur l'étiquetage des textiles, la Loi sur la protection d'espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial et la Loi canadienne sur la sécurité des produits de consommation (protection des animaux)</Document>.</ParaText>
-              <ParaText id="4223614"> -- Monsieur le Président, j'interviens aujourd'hui pour présenter la Loi sur la modernisation des mesures de protection des animaux, qui vise à faire entrer les lois canadiennes sur le bien-être des animaux dans le XXI<Sup>e</Sup> siècle. </ParaText>
+              <ParaText id="4223614">— Monsieur le Président, j'interviens aujourd'hui pour présenter la Loi sur la modernisation des mesures de protection des animaux, qui vise à faire entrer les lois canadiennes sur le bien-être des animaux dans le XXI<Sup>e</Sup> siècle. </ParaText>
               <ParaText id="4223615">Le projet de loi vise trois objectifs précis et réalisables. Premièrement, il cherche à mettre fin au prélèvement de nageoires de requin, qui est une pratique cruelle, en interdisant l'importation de ces nageoires. Deuxièmement, il tend à renforcer et à moderniser le Code criminel, notamment en éliminant les échappatoires relatives au combat d'animaux et en faisant en sorte que la cruauté envers les animaux soit considérée comme une négligence grave, comme l'avaient proposé d'anciens gouvernements libéraux par l'entremise d'Anne McLellan et d'Irwin Cotler. Troisièmement, il cherche à interdire la vente de fourrure de chat et de chien au Canada et à exiger l'apposition d'étiquettes indiquant la source des fourrures.</ParaText>
               <ParaText id="4223616">Tous les Canadiens, des agriculteurs aux propriétaires d'animaux de compagnie, ont à coeur le bien-être des animaux. Nous nous attendons à ce que nos dirigeants et nos législateurs protègent ceux qui ne peuvent se protéger eux-mêmes.</ParaText>
               <ParaText id="4223617">Le gouvernement libéral a fait campagne sur le thème de l'équité, et le projet de loi vise à assurer le traitement équitable des animaux dans notre société.</ParaText>
@@ -1944,7 +1920,7 @@ des animaux</SubjectOfBusinessTitle>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ParaText id="4223644">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="8073132" Type="3">C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
+          <ParaText id="4223644">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="8073132" Type="3">C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que de l'amendement.</ParaText>
           <ProceduralText TocType="TPC" id="16">Projet de loi C-4. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="8817566">
             <PersonSpeaking>
@@ -2010,7 +1986,7 @@ des animaux</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214284" Type="2">M. Pierre Nantel (Longueuil—Saint-Hubert, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4223660">Monsieur le Président, cela me fait plaisir de prendre la parole à propos du projet de loi <Document DbId="8073132" Type="3">C-4</Document>. Bien entendu, il va de soi que j'appuierai ce projet de loi en deuxième lecture. </ParaText>
+              <ParaText id="4223660">Monsieur le Président, j'ai le plaisir de prendre la parole à propos du projet de loi <Document DbId="8073132" Type="3">C-4</Document>. Bien entendu, il va de soi que j'appuierai ce projet de loi en deuxième lecture. </ParaText>
               <ParaText id="4223661">Nous avons passé les 10 dernières années à subir les assauts constants du précédent gouvernement conservateur en ce qui concerne les droits des travailleurs. Il est donc évident que je vais parler des projets de loi <Document DbId="6251818" Type="4">C-377</Document> et <Document DbId="6251920" Type="4">C-525</Document> présentés dans le cadre de la législature précédente. J'y reviendrai plus tard dans mon discours.</ParaText>
               <ParaText id="4223662">Il y a eu des exemples plus que concrets, au cours des dernières années. Cela frisait quasiment l'acharnement. Je parle ici de l'attitude du Parti conservateur, notamment dans le cas des travailleurs de Postes Canada, de Radio-Canada, et j'en passe. Je pense même qu'on oublie très souvent les nombreux bienfaits qu'a apportés la syndicalisation, surtout de ce côté-là, en tout cas. </ParaText>
               <ParaText id="4223663">Par exemple, en moyenne, un travailleur syndiqué gagne 5 $ de plus de l'heure qu'un travailleur non syndiqué. Chez les femmes, l'écart atteint 6,65 $ de l'heure. Cela signifie un pouvoir d'achat accru et une injection d'argent supplémentaire dans l'économie. Bref, c'est bon pour tout le monde, il ne faut pas chercher midi à quatorze heures. D'ailleurs, je rappelle qu'il n'y a pas d'histoires de paradis fiscaux, lorsqu'il est question de ce genre de salaires et de ce genre de travailleurs.</ParaText>
@@ -2032,7 +2008,7 @@ des animaux</SubjectOfBusinessTitle>
               <ParaText id="4223674">Encore une belle preuve de tout le mépris du précédent gouvernement pour le droit des travailleurs. Cette attitude rétrograde, c'est aussi nier le fait, par exemple, que les augmentations de salaire négociées par le syndicat injectent chaque semaine des centaines de millions de dollars dans l'économie canadienne.</ParaText>
               <ParaText id="4223675">Je reviens à ce que je disais plus tôt: il y a des avantages à la syndicalisation par rapport à l'injection supplémentaire d'argent dans l'économie par le biais de la consommation accrue à cause des salaires plus élevés. On parle toujours de vrai monde, on ne parle pas des PDG sur Bay Street, qui gagnent des salaires incroyables et qui les envoient dans une île, ailleurs.</ParaText>
               <ParaText id="4223676">Je salue donc ce projet de loi de mes collègues d'en face qui font preuve d'une belle initiative en abrogeant ces deux projets de loi néfastes, dès le début de leur mandat. C'est un bon signal. Cependant, il faut rester prudent, parce que cela reste un signal. Au cours des dernières années, mes collègues d'en face se sont amplement gargarisés en se faisant les défenseurs de la classe moyenne. Cependant, je dois dire au passage que leur définition de la classe moyenne, qu'ils utilisent dans le cadre de leurs réductions d'impôt promises en campagne électorale, est plutôt boiteuse. Le seuil utilisé est, disons-le, plutôt arbitraire.</ParaText>
-              <ParaText id="4223677"> J'en viens maintenant à ce petit syndrome qui vient d'être dangereusement identifié par tous, soit la « consultite » aiguë dont souffre le gouvernement libéral actuellement. C'est bien beau, et je comprend qu'il y ait des choses dont il faut discuter longuement et qu'il faut consulter les spécialistes, mais il y a aussi des choses évidentes sur lesquelles on peut gagner du temps au lieu de retomber dans cette espèce de consultation continuelle. Je considère cela comme une « consultite » aiguë.</ParaText>
+              <ParaText id="4223677"> J'en viens maintenant à ce petit syndrome qui vient d'être dangereusement identifié par tous, soit la « consultite » aiguë dont souffre le gouvernement libéral actuellement. C'est bien beau, et je comprends qu'il y ait des choses dont il faut discuter longuement et qu'il faut consulter les spécialistes, mais il y a aussi des choses évidentes sur lesquelles on peut gagner du temps au lieu de retomber dans cette espèce de consultation continuelle. Je considère cela comme une « consultite » aiguë.</ParaText>
               <ParaText id="4223678">On protège donc la classe moyenne avec des actions concrètes. On ne le fait pas avec du bla-bla ou en lançant des consultations publiques à gauche et à droite, comme on en entend parler à satiété depuis le début du mandat de ce gouvernement. C'est bien le <I>fun</I> de jaser, mais cela ne met pas de pain et de beurre sur la table des gens.</ParaText>
               <ParaText id="4223679">J'enjoins donc les libéraux à en faire davantage dans le domaine des actions concrètes. Les avantages sont tangibles et facilement vérifiables. Donc, procédons.</ParaText>
               <ParaText id="4223680">Le NPD continuera à faire pression sur le gouvernement pour qu'il rétablisse le salaire minimum fédéral, et qu'il vote en faveur du projet de loi antibriseurs de grève de ma collègue la députée de <Affiliation DbId="214168" Type="2">Jonquière</Affiliation>. C'est une initiative remplie de bon sens, tout comme l'est l'équité salariale, évidemment. </ParaText>
@@ -2222,7 +2198,7 @@ des animaux</SubjectOfBusinessTitle>
           <Timestamp Hr="13" Mn="15">(1315)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cuzner" id="8817666">
             <PersonSpeaking>
-              <Affiliation DbId="214689" Type="18">M. Rodger Cuzner (secrétaire parlementaire de la ministre de l'Emploi, du Développement de la main d'oeuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214689" Type="18">M. Rodger Cuzner (secrétaire parlementaire de la ministre de l'Emploi, du Développement de la main-d'oeuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223763">Monsieur le Président, les experts constitutionnels sont d'avis que ces projets de loi sont anticonstitutionnels. Les experts de la protection de la vie privée pensent que ces projets de loi violent le droit à la confidentialité des renseignements personnels de millions de Canadiens. Sept provinces sur dix représentant 80 % des citoyens du pays croient que cette responsabilité relève de la compétence des provinces.</ParaText>
               <ParaText id="4223764">Hugh Segal, l'ancien sénateur conservateur, a déclaré que c'était le projet de loi le plus insipide qu'il avait jamais vu. Seize sénateurs conservateurs ont décidé de ne pas appuyer le projet de loi.</ParaText>
@@ -2276,7 +2252,7 @@ des animaux</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4223776">Monsieur le Président, je suis heureuse d'intervenir dans le débat aujourd'hui. Je crois que c'est très intéressant. Quelques-uns de mes collègues ont mentionné que la situation est dramatique en Alberta et en ce qui concerne le pétrole et les prix de l'énergie. Nous avons des difficultés au Québec en ce qui concerne Bombardier.</ParaText>
               <ParaText id="4223777"> En tant que pays, nous avons divers problèmes à régler, alors il est vraiment paradoxal que, parmi les deux premiers projets de loi présentés par le gouvernement actuel, le premier soit une erreur. Les libéraux ont fait une promesse au sujet de l'impôt sur le revenu. Il ne devait y avoir aucune incidence sur les recettes, mais une erreur de l'ordre de 1,4 milliard de dollars a été commise. Ils ont toutefois décidé d'aller de l'avant et d'ajouter 1,4 milliard de dollars au déficit. Les libéraux ont ensuite présenté un autre projet de loi, qui nuirait à la reddition de comptes. Le fait que l'un des premiers projets de loi du gouvernement actuel soit une erreur et que l'autre vise à réduire la transparence en dit long sur les priorités du gouvernement.</ParaText>
-              <ParaText id="4223778">J'ai une histoire intéressante à raconter à propos de ces deux projets de loi, puisque je me trouvais dans une situation plutôt unique. Je siégeais au comité des finances quand celui-ci a examiné le projet de loi <Document DbId="6251818" Type="4">C-377</Document>. Je siégeais aussi au comité des ressources humaines, à titre de secrétaire parlementaire de la ministre du Travail, quand il a examiné le projet de loi <Document DbId="6251920" Type="4">C-525</Document>. J'ai donc eu la chance de voir de près l'évolution de ces deux mesures pendant le processus législatif. J'ai entendu des députés de l'opposition souligner que les changements proposés mettraient en péril la sécurité et le respect de la vie privée, qu'on pourrait identifier des gens et découvrir des renseignements privés sur leur santé. Il était aussi question de la GRC.</ParaText>
+              <ParaText id="4223778">J'ai une histoire intéressante à raconter à propos de ces deux projets de loi, puisque je me trouvais dans une situation plutôt unique. Je siégeais au comité des ressources humaines quand celui-ci a examiné le projet de loi <Document DbId="6251818" Type="4">C-377</Document>. Je siégeais aussi au comité des ressources humaines, à titre de secrétaire parlementaire de la ministre du Travail, quand il a examiné le projet de loi <Document DbId="6251920" Type="4">C-525</Document>. J'ai donc eu la chance de voir de près l'évolution de ces deux mesures pendant le processus législatif. J'ai entendu des députés de l'opposition souligner que les changements proposés mettraient en péril la sécurité et le respect de la vie privée, qu'on pourrait identifier des gens et découvrir des renseignements privés sur leur santé. Il était aussi question de la GRC.</ParaText>
               <ParaText id="4223779">À l'époque, nous nous sommes acquittés de notre travail de législateurs et nous avons modifié la loi. Les comités nous ont fait part de certaines préoccupations, et nous avons fait des amendements en conséquence. Il est un peu hypocrite de la part des députés libéraux de prétendre que cette mesure ne protégerait pas des renseignements privés sur la santé, qu'ils seraient rendus publics. On a déjà tenu compte de ces préoccupations à l'époque et apporté les amendements nécessaires. Je leur demanderais de ne pas fonder leurs critiques sur la première version du projet de loi mais bien sur la version amendée, celle qui a été adoptée. C'est la moindre des choses, il me semble.</ParaText>
               <ParaText id="4223780">Les libéraux ont mentionné que les autres organismes professionnels seraient exclus, ce qui est juste, selon moi. Je suis infirmière de profession. J'ai été membre du syndicat des infirmières et de l'association des infirmières. C'est donc un point valable. Les associations d'avocats et d'infirmières sont exclues du projet de loi. Peut-être devrait-on les obliger à faire preuve d'autant de transparence. </ParaText>
               <ParaText id="4223781">Les libéraux ont demandé pourquoi elles n'étaient pas incluses. Si cela posait problème à leurs yeux, pourquoi n'ont-ils pas, au lieu de vider le projet de loi de sa substance, ajouté les associations professionnelles à celui-ci, afin d'exiger le même niveau de transparence de tout le monde? Les libéraux auraient pu ajouter des éléments au projet de loi afin de dissiper leurs préoccupations. </ParaText>
@@ -2388,7 +2364,7 @@ des animaux</SubjectOfBusinessTitle>
               <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
               <ParaText id="4223828">Les néo-démocrates défendent depuis longtemps la liberté d'association des Canadiens, qui est protégée par la Charte. Ils défendent aussi l'utilité du mouvement syndical pour les travailleurs. Ce n'est pas une coïncidence si les taux de syndicalisation ont diminué en même temps que le nombre d'emplois à plein temps stables et bien rémunérés. Les négociations collectives ont permis, au cours de l'histoire, de protéger les droits des travailleurs, de rendre les milieux de travail plus sûrs et de faire en sorte que les travailleurs reçoivent une rémunération et des avantages sociaux équitables pour le travail qu'ils font. </ParaText>
               <ParaText id="4223829">Les emplois stables et sûrs disparaissent sur le marché du travail. Ce qui reste au Canada, ce sont des emplois précaires, temporaires et à temps partiel, des emplois qui, bien souvent, n'offrent pas d'avantages sociaux et sont moins bien payés. Ce type d'emplois devient la norme de nos jours. Nous avons appris l'an dernier que 52 % — c'est-à-dire plus de la moitié — des travailleurs de Toronto, une grande ville du Canada, ont un emploi précaire. Au Canada, ces emplois précaires sont surtout occupés par des membres des minorités visibles et des néo-Canadiens, ce qui empêche encore plus ces gens d'améliorer leur situation socioéconomique et d'acquérir la stabilité financière nécessaire pour subvenir à leurs besoins et à ceux de leur famille.</ParaText>
-              <ParaText id="4223830">Un nombre croissant de travailleurs précaires ont de plus en plus de difficulté à joindre les deux bouts parce que leur salaire ne suit pas le rythme de l'augmentation du coût de la vie. Selon des études de Statistique Canada, les 20 % de ménages canadiens qui gagnent le moins dépensent maintenant plus de 51 % de leur revenu net uniquement pour se procurer le nécessaire. Près du tier du chèque de paye de 20 % des ménages canadiens est maintenant consacré au logement.</ParaText>
+              <ParaText id="4223830">Un nombre croissant de travailleurs précaires ont de plus en plus de difficulté à joindre les deux bouts parce que leur salaire ne suit pas le rythme de l'augmentation du coût de la vie. Selon des études de Statistique Canada, les 20 % de ménages canadiens qui gagnent le moins dépensent maintenant plus de 51 % de leur revenu net uniquement pour se procurer le nécessaire. Près du tiers du chèque de paye de 20 % des ménages canadiens est maintenant consacré au logement.</ParaText>
               <ParaText id="4223831">Le travail précaire n'a pas que des conséquences sur le portefeuille. Les travailleurs qui occupent un emploi précaire sont près de deux fois plus susceptibles de déclarer un état de santé mental pire que celui des personnes qui jouissent de la sécurité d'emploi. Le fait de ne pas savoir quand tombera son prochain quart de travail, d'être appelé à la dernière minute et de ne pas savoir si on aura un emploi le mois suivant peut engendrer un stress intense et mener à la malnutrition et à un gain de poids. Des études montrent aussi que les travailleurs se retrouvent de plus en plus captifs de situations précaires plutôt que de décrocher un poste stable et permanent. On constate de plus en plus qu'ils sont pris dans un engrenage dans lequel ils enfilent les contrats.</ParaText>
               <ParaText id="4223832">L'instabilité des emplois, la faiblesse des salaires et l'absence d'avantages sociaux ont de vastes répercussions sur les Canadiens et sur l'économie. Le taux de pauvreté chez les personnes âgées a atteint un creux historique de moins de 4 % en 1995 avant de commencer à augmenter à mesure que les régimes de retraite d'employeur sont devenus moins généreux alors que les Canadiens avaient du mal à épargner pour la retraite.</ParaText>
               <ParaText id="4223833">En 2013, le taux de pauvreté chez les personnes âgées a légèrement augmenté pour atteindre 11 %. Parmi les personnes âgées, la pauvreté touche les femmes de façon disproportionnée: ce sont 30 % d'entre elles qui vivent dans la pauvreté. C'est inacceptable. Ce ne sont pas que le NPD et les syndicats qui le disent. Dans le passé, la syndicalisation a été la force motrice qui a permis d'aborder ces enjeux. D'ailleurs, dans une étude publiée l'année dernière à peine, le Fonds monétaire international a signalé un changement d'approche significatif et a reconnu que le rôle joué historiquement par les syndicats pour lutter contre l'inégalité des revenus partout dans le monde avait été sous-évalué. </ParaText>
@@ -2400,7 +2376,7 @@ des animaux</SubjectOfBusinessTitle>
           <Timestamp Hr="13" Mn="45">(1345)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cuzner" id="8817726">
             <PersonSpeaking>
-              <Affiliation DbId="214689" Type="18">M. Rodger Cuzner (secrétaire parlementaire de la ministre de l'Emploi, du Développement de la main d'oeuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214689" Type="18">M. Rodger Cuzner (secrétaire parlementaire de la ministre de l'Emploi, du Développement de la main-d'oeuvre et du Travail, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4223837">Monsieur le Président, je remercie la députée de ses observations.</ParaText>
               <ParaText id="4223838">J'aimerais revenir sur quelques points qu'elle a mentionnés. Mon intervention prend la forme d'un commentaire plutôt que d'une question. Les conservateurs aiment perpétuer une certaine image des grands dirigeants syndicaux, mais elle ne correspond pas à la réalité. J'ai déjà été membre d'un syndicat, il y a plusieurs années. Je sais aussi que quelques collègues de la députée sont eux-mêmes d'anciens dirigeants syndicaux. </ParaText>
@@ -2430,7 +2406,7 @@ des animaux</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4223844">Monsieur le Président, je n'ai pas besoin d'expliquer comment fonctionne le processus d'accréditation: la carte d'adhésion que les membres signent est leur vote. Quand le pourcentage requis est atteint, les employés sont syndiqués.</ParaText>
               <ParaText id="4223845">Voici un exemple réel, celui de ma mère, qui est aujourd'hui à la retraite. Quand nous avons immigré au Canada, il y a de très nombreuses années, ma mère travaillait sur une ferme et gagnait 10 $ par jour. Nous ne savions rien des syndicats, des droits des ouvriers, de ce genre de chose. Elle travaillait de longues heures et n'obtenait que 10 $ par jour, avec lesquels elle devait nourrir une famille de huit. </ParaText>
-              <ParaText id="4223846">Elle a finalement quitté ce boulot, après deux ans, et elle a obtenu un emploi de plongeuse dans un restaurant. Elle gagnait le salaire minimum. Là aussi, elle trimait dur et faisait de longues heures. Les employés du restaurait où elle travaillait ont voulu se syndiquer. Ma mère ne parlait pas très bien anglais, mais elle a signé sa carte, parce que ses collègues lui avaient expliqué en gros en quoi consistait ce geste et ce qu'il signifiait. Peu de temps après, le gérant du restaurant a découvert le pot aux roses. Certains des employés qui parlaient mieux anglais ont fait l'objet de menaces, et certains ont eu la vie difficile. Au bout du compte, l'effort de syndicalisation des employés est tombé à l'eau parce que tout le monde craignait de perdre son emploi.</ParaText>
+              <ParaText id="4223846">Elle a finalement quitté ce boulot, après deux ans, et elle a obtenu un emploi de plongeuse dans un restaurant. Elle gagnait le salaire minimum. Là aussi, elle trimait dur et faisait de longues heures. Les employés du restaurant où elle travaillait ont voulu se syndiquer. Ma mère ne parlait pas très bien anglais, mais elle a signé sa carte, parce que ses collègues lui avaient expliqué en gros en quoi consistait ce geste et ce qu'il signifiait. Peu de temps après, le gérant du restaurant a découvert le pot aux roses. Certains des employés qui parlaient mieux anglais ont fait l'objet de menaces, et certains ont eu la vie difficile. Au bout du compte, l'effort de syndicalisation des employés est tombé à l'eau parce que tout le monde craignait de perdre son emploi.</ParaText>
               <ParaText id="4223847">L'intimidation est un problème bien réel. Quand des employés signent une carte d'adhésion à un syndicat et qu'ils le font en toute connaissance de cause, voilà qui devrait suffire pour qu'ils puissent se syndiquer, pourvu évidemment qu'ils franchissent le seuil établi.</ParaText>
               <ParaText id="4223848">À quoi servent les syndicats? Ils sont là pour protéger les travailleurs et améliorer leurs conditions de travail. Voilà à quoi ils servent. Et en ce qui me concerne, je crois que c'est ce que nous devrions souhaiter à tous les Canadiens.</ParaText>
             </Content>
@@ -2457,7 +2433,7 @@ des animaux</SubjectOfBusinessTitle>
               <ParaText id="4223862"> Le projet de loi C-59 contenait une disposition qui visait l'abolition du droit des employés à la négociation de bonne foi, en autorisant l'employeur à établir unilatéralement toutes les conditions liées aux congés de maladie. C'était donc un problème lié aux congés de maladie et, au lieu de négocier, on imposait une loi. Heureusement, les libéraux vont plutôt négocier. Toutefois, ils ont malheureusement déposé la même proposition que les conservateurs. Nous sommes donc plutôt déçus de ce travail. </ParaText>
               <ParaText id="4223863">J'ai aussi participé à plusieurs reprises aux assemblées générales annuelles du syndicat du pénitencier de Drummondville. Je salue d'ailleurs tous les travailleurs du pénitencier de Drummondville, qui font un excellent travail. J'ai eu la chance de visiter le pénitencier à quelques reprises. Les besoins du pénitencier pour s'assurer de la réinsertion sociale des détenus, qui veulent éventuellement en sortir et réintégrer la société sont incroyables. Je suis sûr qu'il en va de même pour tous les autres pénitenciers du reste du Canada. J'avais notamment visité une classe dans laquelle on fait de la formation continue, et il y avait également d'autres initiatives. J'étais vraiment content de leur rendre visite et je les remercie de leur accueil.</ParaText>
               <ParaText id="4223864">Je voudrais aussi rappeler que le député de <Affiliation DbId="214102" Type="2">Rosemont—La Petite-Patrie</Affiliation> a travaillé très fort en comité, lors du dernier Parlement, pour lutter contre le projet de loi <Document DbId="6251818" Type="4">C-377</Document>. Je pense qu'il est très important de souligner son apport, car il avait fait un travail incroyable. </ParaText>
-              <ParaText id="4223865">Bien sûr, nous sommes contents et nous nous réjouissons tous du retrait des projets de loi C-377 et et du projet de loi C-525. Au NPD, par contre, nous allons continuer de faire pression pour que le gouvernement améliore le droit à la négociation collective et rende les conditions de travail plus équitables pour tous les Canadiens. Nous allons continuer de faire pression pour que le gouvernement abroge la section 20 du projet de loi C-59 sur les congés de maladie et pour qu'il rétablisse le salaire minimum fédéral et qu'il adopte la loi antibriseur de grève que ma collègue de <Affiliation DbId="214168" Type="2">Jonquière</Affiliation> a présentée hier. C'est d'ailleurs vraiment une belle initiative et nous sommes vraiment fiers du travail collectif du NPD en ce qui concerne la protection des droits des travailleurs.</ParaText>
+              <ParaText id="4223865">Bien sûr, nous sommes contents et nous nous réjouissons tous du retrait des projets de loi C-377 et C-525. Au NPD, par contre, nous allons continuer de faire pression pour que le gouvernement améliore le droit à la négociation collective et rende les conditions de travail plus équitables pour tous les Canadiens. Nous allons continuer de faire pression pour que le gouvernement abroge la section 20 du projet de loi C-59 sur les congés de maladie et pour qu'il rétablisse le salaire minimum fédéral et qu'il adopte la loi antibriseurs de grève que ma collègue de <Affiliation DbId="214168" Type="2">Jonquière</Affiliation> a présentée hier. C'est d'ailleurs vraiment une belle initiative et nous sommes vraiment fiers du travail collectif du NPD en ce qui concerne la protection des droits des travailleurs.</ParaText>
               <ParaText id="4223866">J'espère que cette loi sera adoptée par tous les députés de ce Parlement, parce que c'est une loi qui va ramener l'équilibre des forces entre les travailleurs et le patronat. Je félicite le travail collectif du NPD qui a inspiré le gouvernement libéral, et je félicite le gouvernement libéral d'avoir pris la bonne direction en ce sens, bien qu'il lui reste encore quelques pas à faire.</ParaText>
             </Content>
           </Intervention>
@@ -2518,7 +2494,7 @@ des animaux</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4223880">Monsieur le Président, je remercie mon honorable collègue de sa question.</ParaText>
               <ParaText id="4223881">J'aimerais dire que j'ai reçu beaucoup de courrier et de courriels au moment où le projet de loi <Document DbId="6251818" Type="4">C-377</Document> a été déposé. On y mentionnait à quel point il s'agissait d'un mauvais projet de loi, qui non seulement ne respectait pas la vie privée, mais également les droits constitutionnels, à certains égards. </ParaText>
-              <ParaText id="4223882">Par conséquent, nous sommes vraiment très fiers de ce qui arrive. Je le souligne encore une fois parce que je sais que mon honorable collègue de <Affiliation DbId="214102" Type="2">Rosemont—La Petite-Patrie</Affiliation> a fait un excellent travail, non seulement en comité, mais partout au Canada en consultant les gens. Il s'est battu très fort et il a représenté les droits des travailleurs partout. Nous sommes vraiment contents que le travail qu'on a fait a enfin porter des fruits. C'est vraiment quelque chose que nous voulons souligner encore une fois.</ParaText>
+              <ParaText id="4223882">Par conséquent, nous sommes vraiment très fiers de ce qui arrive. Je le souligne encore une fois parce que je sais que mon honorable collègue de <Affiliation DbId="214102" Type="2">Rosemont—La Petite-Patrie</Affiliation> a fait un excellent travail, non seulement en comité, mais partout au Canada en consultant les gens. Il s'est battu très fort et il a représenté les droits des travailleurs partout. Nous sommes vraiment contents que le travail qu'on a fait a enfin porté ses fruits. Nous voulons vraiment le souligner encore une fois.</ParaText>
               <ParaText id="4223883">Félicitations aux libéraux d'avoir compris l'importance d'abroger ces deux projets de loi.</ParaText>
             </Content>
           </Intervention>
@@ -2546,7 +2522,7 @@ des animaux</SubjectOfBusinessTitle>
               <ParaText id="4223887">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4223888">
-                <B>Le vice-président:</B> La Chambre s'ajourne au lundi 7 mars, à 11 heures, conformément aux paragraphes <?bk?>28(2)<?ek?> et <?bk?>24(1) <?ek?>du Règlement.</ParaText>
+                <B>Le vice-président:</B> La Chambre s'ajourne au lundi 7 mars, à 11 heures, conformément aux paragraphes <?bk ?>28(2)<?ek ?> et <?bk ?>24(1) <?ek ?>du Règlement.</ParaText>
               <ParaText id="4223889">(La séance est levée à 14 h 8.) </ParaText>
             </Content>
           </Intervention>

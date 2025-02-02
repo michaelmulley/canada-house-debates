@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="8759671">
   <StartPageNumber>1</StartPageNumber>
   <DocumentTitle>
@@ -56,12 +38,16 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
     <Intro />
     <OrderOfBusiness id="8759676" Rubric="Other">
       <OrderOfBusinessTitle>Première session — 42<Sup>e </Sup> législature</OrderOfBusinessTitle>
+      <CatchLine>Ouverture de la législature</CatchLine>
       <SubjectOfBusiness id="8759677">
         <SubjectOfBusinessContent>
-          <ParaText id="4170360">La quarante-et-unième législature ayant été prorogée et les Chambres dissoutes par proclamation le 2 août 2015, puis les brefs ayant été émis et rapportés, les nouvelles Chambres ont été convoquées pour l'expédition des affaires le jeudi 3 décembre 2015 et, en conséquence, se sont réunies le jour dit.</ParaText>
-          <ParaText id="4170361">Le jeudi 3 décembre 2015.</ParaText>
-          <ParaText id="4170362">Le Parlement ayant été convoqué pour aujourd'hui, par proclamation de Son Excellence le Gouverneur général du Canada pour l'expédition des affaires, et les députés étant réunis:</ParaText>
-          <ParaText id="4170363">M. Marc Bosc, greffier par intérim de la Chambre, donne lecture d'une lettre du secrétaire du Gouverneur général  annonçant que la suppléante du Gouverneur général se rendra à la salle du Sénat aujourd'hui, à 13 heures, dans l'après-midi du jeudi 3 décembre 2015, pour ouvrir la première session de la quarante-deuxième législature du Canada. </ParaText>
+          <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
+          <FloorLanguage language="FR">[<I>Traduction</I>]</FloorLanguage>
+          <ProceduralText TocType="TPC" id="1">Ouverture de la législature</ProceduralText>
+          <ParaText id="4170360">La 41<Sup>e</Sup> législature ayant été prorogée et les Chambres dissoutes par proclamation le 2 août 2015, puis les brefs ayant été délivrés et rapportés, les nouvelles Chambres ont été convoquées pour l'expédition des affaires le jeudi 3 décembre 2015 et, en conséquence, se sont réunies le jour dit.</ParaText>
+          <ParaText id="4170361">Le jeudi 3 décembre 2015</ParaText>
+          <ParaText id="4170362">Le Parlement ayant été convoqué pour aujourd'hui, par proclamation de Son Excellence le gouverneur général du Canada pour l'expédition des affaires, et les députés étant réunis:</ParaText>
+          <ParaText id="4170363">M. Marc Bosc, greffier par intérim de la Chambre, donne lecture d'une lettre du secrétaire du gouverneur général  annonçant que la suppléante du gouverneur général se rendra à la salle du Sénat aujourd'hui, à 13 heures, dans l'après-midi du jeudi 3 décembre 2015, pour ouvrir la première session de la 42<Sup>e</Sup> législature du Canada. </ParaText>
           <ParaText id="4170364">L'huissier du bâton noir apporte le message suivant: </ParaText>
           <ParaText id="4170365">
             <Quote>
@@ -73,7 +59,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <QuotePara IndentFirst="2" IndentRest="1">C'est le désir de la très honorable suppléante de Son Excellence le Gouverneur général que cette honorable Chambre se rende immédiatement auprès d'elle dans la salle du Sénat.</QuotePara>
             </Quote>
           </ParaText>
-          <ParaText id="4170367">En conséquence, la Chambre se rend au Sénat. Le président du Sénat dit alors: </ParaText>
+          <ParaText id="4170367">En conséquence, la Chambre se rend au Sénat. Le Président du Sénat dit alors: </ParaText>
           <ParaText id="4170368">
             <Quote>
               <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Honorables membres du Sénat, membres de la Chambre des communes,
@@ -90,7 +76,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8759691">
-        <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
+        <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
           <ParaText id="4170370">
@@ -101,13 +87,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214703" Type="96">Le greffier par intérim de la Chambre</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4170371">
-                <B /> Honorables députés, conformément à l'article 3 du Règlement, j'invite M. Louis Plamondon, député de la circonscription de <Affiliation DbId="214090" Type="2">Bécancour–Nicolet–Saurel</Affiliation>, à prendre place au fauteuil afin de présider à l'élection d'un Président.</ParaText>
+                <B>
+                </B> Honorables députés, conformément à l'article 3 du Règlement, j'invite M. Louis Plamondon, député de la circonscription de <Affiliation DbId="214090" Type="2">Bécancour—Nicolet—Saurel</Affiliation>, à prendre place au fauteuil afin de présider à l'élection d'un Président.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="8759694">
-        <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Élection du Président</SubjectOfBusinessTitle>
         <CatchLine>Élection du Président</CatchLine>
@@ -116,24 +102,24 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">Le président d'élection (M. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170372">Chers collègues, c'est la troisième fois que j'ai l'honneur de prendre place sur ce fauteuil, et j'avoue que je commence à y prendre goût. Considérant l'accueil que vous m'avez fait, j'aurais dû me présenter comme candidat à la présidence, bon dieu!</ParaText>
-              <ParaText id="4170373">De ce prestigieux fauteuil, vous me permettrez, avant de commencer cette cérémonie officielle, de remercier mes électeurs du comté de Bécancour—Nicolet—Saurel, qui m'ont accordé un 10<Sup>e</Sup> mandat consécutif. Cela fait donc maintenant 31 ans que je siège à la Chambre. Comme je le dis souvent, je suis fier de pratiquer le plus beau métier du monde depuis 31 ans.</ParaText>
-              <ParaText id="4170374">Je voudrais également saluer ma famille, ma compagne Manon, de même que mes enfants, Lucie, Catherine et Steve, le fils de ma compagne, qui m'appuient toujours dans cette carrière politique. D'ailleurs, une de mes filles est ici.</ParaText>
+              <ParaText id="4170372">Chers collègues, c'est la troisième fois que j'ai l'honneur de prendre place à ce fauteuil, et j'avoue que je commence à y prendre goût. Considérant l'accueil que vous m'avez fait, j'aurais dû me présenter comme candidat à la présidence, bon dieu!</ParaText>
+              <ParaText id="4170373">De ce prestigieux fauteuil, vous me permettrez, avant que je ne  commence cette cérémonie officielle, de remercier mes électeurs du comté de Bécancour—Nicolet—Saurel, qui m'ont accordé un 10<Sup>e</Sup> mandat consécutif. Cela fait donc maintenant 31 ans que je siège à la Chambre. Comme je le dis souvent, je suis fier de pratiquer le plus beau métier du monde depuis 31 ans.</ParaText>
+              <ParaText id="4170374">Je voudrais également saluer ma famille, ma compagne, Manon, de même que mes enfants, Lucie et Catherine, et Steve, le fils de ma compagne, qui m'appuient toujours dans cette carrière politique. D'ailleurs, une de mes filles est ici.</ParaText>
               <ParaText id="4170375"> J'aimerais également féliciter chacun d'entre vous, ainsi que tous ceux qui se sont portés candidats. Vous avez tous contribué à faire grandir notre démocratie, qui est quand même l'une des plus enviées du monde.</ParaText>
-              <ParaText id="4170376">Nous allons maintenant procéder à l'élection du Président. Une grande partie de la cérémonie sera faite en français, ce qui vous permettra d'apprécier les traductrices et les traducteurs de la Chambre. Je crois que si je le faisais en anglais, vous auriez quand même besoin de la traduction. Je ferai donc de petits bouts en anglais.</ParaText>
+              <ParaText id="4170376">Nous allons maintenant procéder à l'élection du Président. Une grande partie de la cérémonie sera faite en français, ce qui vous permettra d'apprécier l'interprétation de la Chambre. Je crois que si je le faisais en anglais, vous auriez quand même besoin de l'interprétation. Je ferai donc de petits bouts en anglais.</ParaText>
               <ParaText id="4170377">La liste des députés qui ont retiré leur candidature ou qui sont inéligibles à la présidence a été déposée sur le pupitre de chaque député et est disponible au bureau. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4170378">La liste des candidats a été déposée sur le pupitre de chaque député et peut également être consultée au Bureau.</ParaText>
+              <ParaText id="4170378">La liste des candidats a été déposée sur le pupitre de chaque député et peut également être consultée au bureau.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170379">Avant de continuer, j'inviterai les députés dont le nom figure sur la liste des candidats et qui ne veulent pas se présenter à l'élection de bien vouloir se lever et d'en informer la présidence en conséquence.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170380">Conformément à l'article 3.1 du Règlement, la Chambre doit maintenant entendre les discours des candidats à la présidence. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170381">Nonobstant tout article du Règlement, toute procédure ou tout usage adopté par cette Chambre, et pour aider les nouveaux députés à identifier les candidats à la présidence, je vais reconnaître, en ordre alphabétique, chaque candidat par son nom et par le nom de sa circonscription électorale.</ParaText>
+              <ParaText id="4170381">Nonobstant tout article du Règlement, toute procédure ou tout usage adopté par cette Chambre, et pour aider les nouveaux députés à identifier les candidats à la présidence, je vais donner la parole, en ordre alphabétique, à chaque candidat en donnant son nom et  le nom de sa circonscription électorale.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170382">Lorsque le dernier candidat à prendre la parole aura terminé son discours, je quitterai le fauteuil pendant 30 minutes, après quoi les députés procéderont à l'élection du Président.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170383">J'invite maintenant M. Denis Paradis, l'honorable député de la circonscription électorale de Brome—Missisquoi à prendre la parole pendant au plus cinq minutes.</ParaText>
+              <ParaText id="4170383">J'invite maintenant M. Denis Paradis, l'honorable député de la circonscription électorale de Brome—Missisquoi, à prendre la parole pendant au plus cinq minutes.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Paradis" id="8759686">
@@ -141,13 +127,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214076" Type="2">L'hon. Denis Paradis (Brome–Missisquoi, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4170384">Chers collègues, je voudrais tout d'abord féliciter les nouveaux élus, ainsi que tous ceux qui nous reviennent. J'aimerais également remercier le personnel de la Chambre, qui nous a offert de bonnes séances d'orientation. </ParaText>
-              <ParaText id="4170385">Par ailleurs, j'applaudis cette diversité que nous avons à la Chambre des communes du Canada. Nous sommes tous ici pour transmettre les besoins et les préoccupations de nos électeurs sur le parquet de la Chambre. Il faut maintenant maintenir la passion de nos débats tout en étant très respectueux.</ParaText>
+              <ParaText id="4170385">Par ailleurs, j'applaudis la diversité que nous avons à la Chambre des communes du Canada. Nous sommes tous ici pour faire connaître les besoins et les préoccupations de nos concitoyens sur le parquet de la Chambre. Il faut maintenant maintenir la passion de nos débats tout en étant très respectueux.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4170386">Le poste de Président repose sur trois piliers. Je dirais que le premier, c'est la procédure et le décorum. Les Canadiens ont confié à chacune des personnes présentes dans cette enceinte, que ce soit dans l'opposition ou au gouvernement, la responsabilité de chercher avec ses collègues la meilleure façon pour le pays de relever les défis auxquels il doit face face. Le respect mutuel sera cependant le gage de notre efficacité.</ParaText>
+              <ParaText id="4170386">Le poste de Président repose sur trois piliers. Je dirais que le premier, c'est la procédure et le décorum. Les Canadiens ont confié à chacune des personnes présentes dans cette enceinte, que ce soit dans l'opposition ou au gouvernement, la responsabilité de chercher avec ses collègues la meilleure façon pour le pays de relever les défis auxquels il doit faire face. Le respect mutuel sera cependant le gage de notre efficacité.</ParaText>
               <ParaText id="4170387">Le maintien du décorum constituera une tâche primordiale du prochain Président. La population a été déçue que la période des questions ne serve qu'à poser des questions. Elle s'attend à ce qu'il y ait aussi des réponses. </ParaText>
               <ParaText id="4170388">Le deuxième pilier, c'est l'administration et les services de la Chambre. La Chambre dispose d'un budget annuel de plus de 400 millions de dollars. Elle doit être administrée par quelqu'un de compétent et d'expérimenté. </ParaText>
               <ParaText id="4170389">La question de la sécurité à la Chambre est aussi une source de préoccupation accrue. Nous nous devons d'assurer la sécurité du Parlement tout en permettant aux citoyens de continuer à y avoir accès. C'est à eux que la Chambre appartient. </ParaText>
-              <ParaText id="4170390">Un autre défi de taille qui se pose à nous est celui de la famille. Les députés sont plus jeunes, leurs familles le sont aussi. Après tout, nous sommes en 2015. Il faut y penser. </ParaText>
+              <ParaText id="4170390">Un autre défi de taille se pose à nous, et c'est celui de la famille. Les députés sont plus jeunes, leurs familles le sont aussi. Après tout, nous sommes en 2015. Il faut y penser. </ParaText>
               <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170391">Le troisième pilier est celui de la diplomatie parlementaire. Le Canada cherche à s'exprimer davantage, à exprimer une voix forte sur la scène internationale. Nous devrions multiplier nos échanges, autant ici, à l'intérieur du Canada, qu'à l'étranger. Il faut que nous, les parlementaires, devenions de véritables ambassadeurs à travers le monde.</ParaText>
@@ -163,7 +149,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170398">J'ai toujours été en affaires. J'ai notamment été le cofondateur d'un cabinet d'avocats spécialisé dans le droit agricole et j'ai lancé un vignoble qui est devenu le deuxième en importance au Québec.</ParaText>
               <ParaText id="4170399">Pour conclure, le Président joue plusieurs rôles: il est notre arbitre, notre ambassadeur auprès des autres Parlements et le protecteur de nos droits et privilèges. La porte de mon bureau sera toujours ouverte pour tous les députés, qui y trouveront un Président au coeur et à l'esprit ouverts.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170400"> Nous sommes une grande famille. Je veux absolument développer entre nous cette amitié qui est nécessaire. Je dis de l'amitié et pas nécessairement de l'amour. N'ayez crainte, je continuerai tout de même à vous appeler « honorables députés ». Je souhaite présider un Parlement dont tous les membres travaillent dans l'harmonie.</ParaText>
+              <ParaText id="4170400"> Nous sommes une grande famille. Je veux absolument développer entre nous cette amitié qui est nécessaire. Je parle de l'amitié et pas nécessairement de l'amour. N'ayez crainte, je continuerai tout de même à vous appeler « honorables députés ». Je souhaite présider un Parlement dont tous les membres travaillent dans l'harmonie.</ParaText>
               <ParaText id="4170401"> Laissez-moi exprimer la fierté que j'ai de siéger avec vous tous. Je vous demande d'appuyer ma candidature.</ParaText>
             </Content>
           </Intervention>
@@ -181,20 +167,20 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="213996" Type="2">Mme Yasmin Ratansi (Don Valley-Est, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170403">Chers collègues, je m'appelle Yasmin Ratansi, et j'aimerais avoir l'honneur de servir en tant que Présidente de la Chambre des communes. Je vais expliquer pourquoi.</ParaText>
+              <ParaText id="4170403">Chers collègues, je m'appelle Yasmin Ratansi, et j'aimerais avoir l'honneur de servir en tant que Présidente de la Chambre des communes. Voici pourquoi.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4170404">Auparavant, cependant, j'aimerais rendre hommage au député d'<Affiliation DbId="170111" Type="2">Ottawa–Vanier</Affiliation>, qui a été mon ami et mentor. Je suis désolée qu'il ait eu à se retirer de la course en raison de problèmes de santé, parce que, selon moi, il aurait excellé à la présidence. </ParaText>
+              <ParaText id="4170404">Auparavant, j'aimerais rendre hommage au député d'<Affiliation DbId="170111" Type="2">Ottawa–Vanier</Affiliation>, qui a été mon ami et mentor. Je suis désolée qu'il ait eu à se retirer de la course en raison de problèmes de santé, parce que, selon moi, il aurait excellé à la présidence. </ParaText>
               <ParaText id="4170405">Je tiens à remercier tous mes collègues qui se sont portés candidats à la présidence. Ce poste est intimement lié à l'histoire de la Chambre des communes, qui remonte à 600 ans.</ParaText>
-              <ParaText id="4170406">Il revient à la présidence de prendre des décisions éclairées fondées sur les règles du Parlement et le Règlement, sans égard à l'allégeance politique ou à la popularité. J'établirais un équilibre entre les droits de la majorité et de la minorité. J'agirais avec fermeté et équité et je favoriserais une approche plus collégiale, tout en veillant à ne pas me prendre trop au sérieux. En tant que candidate la plus courte à la présidence, je comprends certains des défis qui nous attendent.</ParaText>
+              <ParaText id="4170406">Il revient à la présidence de prendre des décisions éclairées fondées sur les règles du Parlement et le Règlement, sans égard à l'allégeance politique ou à la popularité. J'établirais un équilibre entre les droits de la majorité et de la minorité. J'agirais avec fermeté et équité et je favoriserais une approche plus collégiale, tout en veillant à ne pas me prendre trop au sérieux. En tant que la plus petite candidate à la présidence, je comprends certains des défis qui nous attendent.</ParaText>
               <ParaText id="4170407">De plus, compte tenu de mon expérience comme députée, j'estime qu'il est absolument primordial pour la présidence de posséder des connaissances exhaustives dans les domaines des dépenses et des opérations gouvernementales. Une telle compétence constitue la pierre angulaire d'une gouvernance efficace et efficiente de la Chambre des communes.</ParaText>
-              <ParaText id="4170408">J'apporte à ce poste mon expérience professionnelle et ma formation en tant que comptable professionnelle agréée. J'apporte également mon expérience antérieure comme présidente du Comité permanent des opérations gouvernementales et des prévisions budgétaires et comme vice-présidente du Comité de la procédure et des affaires de la Chambre. Ces comités sont les pierres d'assise d'un Parlement bien dirigé.</ParaText>
+              <ParaText id="4170408">J'apporte à ce poste mon expérience professionnelle et ma formation en tant que comptable professionnelle agréée. J'apporte également mon expérience antérieure comme présidente du Comité permanent des opérations gouvernementales et des prévisions budgétaires et comme vice-présidente du Comité de la procédure et des affaires de la Chambre. Ces comités sont les pierres angulaires d'un Parlement bien dirigé.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170409">J'ai siégé à plusieurs comités permanents. Les comités du Parlement m'ont donné une expérience incomparable et importante. J'y ai acquis une bonne connaissance des comptes du gouvernement et de la façon de rendre le gouvernement responsable de ses dépenses. Je connais bien la façon dont fonctionne le Bureau de régie interne.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170410">La présidence a aussi pour rôle de maintenir et de défendre les droits et privilèges des députés, notamment les droits à la liberté de parole. Je m'engage à respecter le modèle de Westminster et à faire de nouveau du Parlement une institution où règnent le respect mutuel et la compréhension.</ParaText>
               <ParaText id="4170411">Nous devons servir d'exemple aux citoyens d'un océan à l'autre et montrer que nous attachons de l'importance à la diversité et au pluralisme qui caractérisent le Canada. Les affaires de la nation sont trop importantes pour se laisser entraîner dans des attaques contre nos collègues, des réponses hors de propos et une partisanerie à outrance.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170412">Je vais m'assurer que les procédures de la Chambre des communes sont ouvertes et transparentes, car c'est très important pour les citoyens qui nous ont élus en octobre.</ParaText>
+              <ParaText id="4170412">Je vais m'assurer que les procédures de la Chambre des communes sont ouvertes et transparentes, car c'est très important pour les citoyens qui nous ont élus en octobre dernier.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170413">Les nombreux députés qui me connaissent depuis un certain temps savent que je ne fuis ni les débats ni les responsabilités. Au cours de ma vie professionnelle, j'ai souvent marché hors des sentiers battus.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -203,7 +189,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170415">Je ne peux pas m'empêcher de vous signaler que, si je suis élue, je serai seulement la deuxième femme à occuper la présidence de la Chambre des communes. En 1980, alors que Pierre Elliott Trudeau était premier ministre, Jeanne Sauvé est devenue la première femme à remplir la fonction de Président. C'était il y a plus de trente ans. Si je suis élue en 2015, je serai la deuxième Présidente, et j'aurai été choisie pour m'acquitter de cette charge pendant le mandat du premier ministre actuel, le député de <Affiliation DbId="170093" Type="2">Papineau</Affiliation>.</ParaText>
               <ParaText id="4170416">Mesdames et messieurs les députés, cette élection est la seule occasion où nous tenons un vote secret. Nous voulons ainsi nous soustraire aux influences extérieures. Si vous m'élisez Présidente aujourd'hui, vous pourrez compter sur une personne qui comprend les affaires de l'État et les principes régissant les travaux de la Chambre. Vous pourrez compter sur une personne qui connaît les règles de procédure et qui saura prendre des décisions équitables et impartiales.</ParaText>
               <Timestamp Hr="13" Mn="50">(1350)</Timestamp>
-              <ParaText id="4170417">Mais surtout, les députés auront une Présidente qui valorise et respecte la diversité. Après tout, je parle sept langues et je suis sensible aux nuances particulières des langues et des cultures.</ParaText>
+              <ParaText id="4170417">Surtout, les députés auront une Présidente qui valorise et respecte la diversité. Après tout, je parle sept langues et je suis sensible aux nuances particulières des langues et des cultures.</ParaText>
               <ParaText id="4170418">Je sais que nous voulons tous bâtir un avenir meilleur pour le Canada.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170419">Nous allons le faire ensemble.</ParaText>
@@ -214,7 +200,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="128905" Type="96">Le président d'élection (M. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170420">J'invite maintenant Geoff Regan, le député de la circonscription d'<Affiliation DbId="170113" Type="2">Halifax-Ouest</Affiliation>, à s'adresser à la Chambre pour cinq minutes.</ParaText>
+              <ParaText id="4170420">J'invite maintenant Geoff Regan, le député de la circonscription d'<Affiliation DbId="170113" Type="2">Halifax-Ouest</Affiliation>, à s'adresser à la Chambre pendant  cinq minutes.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Regan" id="8759693">
@@ -228,12 +214,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170424">Quel privilège de me lever aujourd'hui devant vous, à la Chambre, et quel privilège, encore une fois, de siéger à la Chambre! Il ne faut jamais oublier cela.</ParaText>
               <ParaText id="4170425">J'aimerais saluer les autres candidats, qui sont tous de grande qualité. Nous regrettons tous, à la Chambre, que le cinquième candidat ait dû se retirer, parce qu'il aurait été un merveilleux Président. </ParaText>
               <ParaText id="4170426">J'adresse mes félicitations aux nouveaux élus et à ceux qui sont revenus. Je sais à quel point c'est un plaisir d'avoir une période d'absence, mais également de revenir ensuite. Je souhaite à tous un travail plein de sens. En tant que Président, si je pouvais aider tous les députés à pouvoir faire cela, ce serait, en soi, un travail plein de sens. </ParaText>
-              <ParaText id="4170427">Je dois maintenant parler humblement de mon expérience à la Chambre. Je suis député depuis 18 ans. J'ai appris comme il y a différentes opinions dans divers endroits de ce pays, et comme, à l'intérieur même des partis, les députés reflètent les différents points de vue de leurs concitoyens. Cette réflexion nous aide à respecter le droit des autres députés à exprimer des opinions différentes des nôtres. </ParaText>
+              <ParaText id="4170427">Je dois maintenant parler humblement de mon expérience à la Chambre. Je suis député depuis 18 ans. J'ai appris à quel point il y a différentes opinions dans divers endroits de ce pays, et à quel point, à l'intérieur même des partis, les députés reflètent les différents points de vue de leurs concitoyens. Cette réflexion nous aide à respecter le droit des autres députés à exprimer des opinions différentes des nôtres. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170428">J'ai siégé dans tous les coins de la Chambre. Je pense que cela m'aidera à comprendre les divers points de vue des députés de tous les partis. </ParaText>
               <ParaText id="4170429">J'ai été député d'arrière-ban du gouvernement, secrétaire parlementaire du leader du gouvernement à la Chambre, ministre et porte-parole de l'opposition.</ParaText>
               <ParaText id="4170430">Ces dernières semaines, j'ai eu le grand plaisir de discuter avec de nombreux députés. Beaucoup m'ont dit souhaiter qu'il y ait un meilleur climat à la Chambre, que les députés de tous les partis se témoignent davantage de respect entre eux, et que nous fassions de cette Chambre un lieu où les représentants du peuple auront réellement leur mot à dire dans les décisions du gouvernement et où notre travail aura une véritable signification.</ParaText>
-              <ParaText id="4170431">Je crois que le Président devrait diriger les discussions sur la façon de réformer nos procédures pour que nous puissions atteindre ces objectifs et d'adopter des mesures qui permettront aux députés de mieux se concentrer sur leur travail et s'acquitter de leurs fonctions, à Ottawa et dans leur circonscription. </ParaText>
+              <ParaText id="4170431">Je crois que le Président devrait diriger les discussions sur la façon de réformer nos procédures pour que nous puissions atteindre ces objectifs et adopter des mesures qui permettront aux députés de mieux se concentrer sur leur travail et s'acquitter de leurs fonctions, à Ottawa et dans leur circonscription. </ParaText>
               <ParaText id="4170432">Après tout, la Chambre des communes est la Chambre du peuple, et donc, notre Chambre.</ParaText>
               <ParaText id="4170433">Si nous y arrivons, je crois que notre travail sera pertinent pour nous tous et, surtout, pour tous les Canadiens.</ParaText>
             </Content>
@@ -256,7 +242,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170437">Nous partageons tous la responsabilité qui nous a été confiée en octobre dernier d'être la voix de nos concitoyens dans cette enceinte. C'est en vertu de cette responsabilité que la Chambre confère des droits et des privilèges qui permettent à tous les députés de s'acquitter de cette obligation solennelle. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170438">Le Président est le gardien de ces droits et privilèges, afin que que tous les députés puissent s'exprimer librement.</ParaText>
+              <ParaText id="4170438">Le Président est le gardien de ces droits et privilèges, afin  que tous les députés puissent s'exprimer librement.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170439">Les règles, les pratiques et les conventions que nous suivons dans cette enceinte et qui évoluent depuis la toute première législature, en 1867, offrent à la Chambre les outils les plus fiables et les mieux adaptés à ses besoins actuels afin que les députés puissent honorer leurs obligations parlementaires, utiliser leur précieux temps de manière efficace et se prononcer sur les questions dont ils sont saisis de manière juste et méthodique.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -289,8 +275,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">Le président d'élection (M. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170449">Avant de suspendre la séance pour 30 minutes, je signale aux honorables députés que la sonnerie d'appel des députés à la Chambre retentira pendant au plus cinq minutes. La séance est suspendue pendant 30 minutes, soit jusqu'à la convocation de la présidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Suspension de la séance à 14 heures" id="1"> (La séance est suspendue à 14 heures.)</ProceduralText>
+              <ParaText id="4170449">Avant de suspendre la séance pendant 30 minutes, je signale aux honorables députés que la sonnerie d'appel des députés à la Chambre retentira pendant au plus cinq minutes. La séance est suspendue pendant 30 minutes, soit jusqu'à la convocation de la présidence.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Suspension de la séance à 14 heures" id="2"> (La séance est suspendue à 14 heures.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -299,7 +285,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
         <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" TocText="Reprise de la séance à 14 h 34" id="2">(La séance reprend à 14 h 34.)</ProceduralText>
+          <ProceduralText TocType="TCC" TocText="Reprise de la séance à 14 h 34" id="3">(La séance reprend à 14 h 34.)</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M.  Louis Plamondon" id="8759700">
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">Le président d'élection (M. Louis Plamondon)</Affiliation>: </PersonSpeaking>
@@ -345,7 +331,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170461">Avant de suspendre la séance, je signale aux honorables députés que, après le dépouillement du scrutin, la sonnerie d'appel des députés à la Chambre retentira.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170462">La séance est suspendue jusqu'à convocation de la présidence. </ParaText>
-              <ProceduralText TocType="TCC" TocText="Suspension de la séance à 15 h 05" id="3">(La séance est suspendue à 15 h 05.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Suspension de la séance à 15 h 05" id="4">(La séance est suspendue à 15 h 05.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -355,17 +341,18 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" TocText="Reprise de la séance à 16 h 05" id="4">(La séance reprend à 16 h 05.)</ProceduralText>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Louis Plamondo" id="8759716">
+          <ProceduralText TocType="TCC" TocText="Reprise de la séance à 16 h 05" id="5">(La séance reprend à 16 h 05.)</ProceduralText>
+          <ParaText id="4177554">(Le greffier par intérim de la Chambre ayant communiqué au président d'élection le nom du député ayant recueilli la majorité des voix:)</ParaText>
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Louis Plamondon" id="8759716">
             <PersonSpeaking>
               <Affiliation DbId="214090" Type="2">Le président d'élection (M. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170463">À l'ordre, s'il vous plaît. J'ai le devoir d'informer la Chambre qu'un Président ou une Présidente de la Chambre a été dûment élu. D'abord, je vous demanderais d'applaudir tout le personnel de la Chambre qui a secondé mon travail aujourd'hui. </ParaText>
+              <ParaText id="4170463">À l'ordre, s'il vous plaît. J'ai le devoir d'informer la Chambre qu'un Président, ou une Présidente, de la Chambre a été dûment élu. D'abord, je vous demanderais d'applaudir tout le personnel de la Chambre qui a secondé mon travail aujourd'hui. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170464">C'est avec beaucoup de plaisir que j'invite maintenant le député de la circonscription d'Halifax-Ouest à prendre place au fauteuil.</ParaText>
               <ParaText id="4170465">
                 <B>Des voix:</B> Bravo!</ParaText>
-              <ParaText id="4170466">(Le président d'élection quitte le fauteuil et, la masse ayant été placée sous le bureau, le premier ministre et la chef de l'opposition conduisent M. Regan de son siège de député jusqu'au fauteuil.)</ParaText>
+              <ParaText id="4170466">(Le président d'élection quitte le fauteuil et, la masse ayant été placée sous le bureau, le très honorable premier ministre et la chef de l'opposition conduisent M. Regan de son siège de député jusqu'au fauteuil.)</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="8759718" ToCText="Le président">
@@ -375,14 +362,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170467">Honorables députés, je tiens à exprimer à la Chambre mes humbles remerciements pour le grand honneur qu'elle a bien voulu me faire en me choisissant comme Président.</ParaText>
               <ParaText id="4170468"> Ce moment me remplit d'humilité. Je tiens tout d'abord à souligner qu'il s'est écoulé près de 100 ans depuis qu'un député des provinces atlantiques a occupé le fauteuil.</ParaText>
               <ParaText id="4170469">J'envoie de tendres pensées à mon épouse, Kelly, à l'occasion de notre 22<Sup>e</Sup> anniversaire de mariage, que nous célébrons aujourd'hui. Kelly ne pouvait pas être des nôtres aujourd'hui, mais je suis ravi que mes parents soient dans la salle.</ParaText>
-              <ParaText id="4170470">Je me réjouis grandement à la perspective de collaborer avec notre nouveau premier ministre, les chefs des autres partis et les leaders à la Chambre, et de travailler avec tous les députés et pour tous les députés. Ce sera un plaisir de bâtir avec eux un milieu de travail positif, propice à des débats constructifs et respectueux. </ParaText>
+              <ParaText id="4170470">Je me réjouis grandement à la perspective de collaborer avec notre nouveau premier ministre, les chefs des autres partis et les leaders à la Chambre, et de travailler avec tous les députés et pour tous les députés. Ce sera un plaisir de bâtir avec eux un milieu de travail positif, et propice à des débats constructifs et respectueux. </ParaText>
               <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170471">Je suis très content de savoir que j'aurai l'aide de notre très distingué greffier intérimaire et de ses adjoints. Nous allons tous apprécier le bon travail de tous les employés de la Chambre des communes. </ParaText>
               <ParaText id="4170472">Vous m'avez donné une responsabilité importante et j'aurai besoin de votre soutien. Il faut élever le ton à la Chambre et rétablir la bienséance. Il faut que nous assurions le respect de l'un envers l'autre, malgré nos différences. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170473">Le rôle de Président exige de l'impartialité. Je tiens à vous assurer de mon intention d'être juste et ferme. Je ne tolérerai pas le chahut, car il n'a pas sa place ici. Aucune conduite antiparlementaire ne sera admise.</ParaText>
-              <ParaText id="4170474">L'édifice du Centre où nous nous trouvons a été reconstruit après qu'un incendie l'ait ravagé en 1916. Il a fallu 60 ans pour terminer les reliefs sur les murs de pierre. Les députés ont pu admirer également les murales qui ornent les couloirs de l'édifice et qui nous racontent le labeur des gens de notre pays. C'est grâce à ce labeur qu'ont été bâtis le Parlement et notre démocratie. Ces oeuvres nous rappellent aussi les quelque 116 000 Canadiens inhumés à l'étranger, qui ont combattu pour défendre notre liberté de parole et d'opinion. Promettons-nous d'adopter ici à la Chambre une conduite digne des sacrifices qu'ils ont consentis.</ParaText>
+              <ParaText id="4170474">L'édifice du Centre où nous nous trouvons a été reconstruit après qu'un incendie l'ait ravagé en 1916. Il a fallu 60 ans pour terminer les reliefs sur les murs de pierre. Les députés ont pu admirer également les murales qui ornent les couloirs de l'édifice et qui nous racontent le labeur des gens de notre pays. C'est grâce à ce labeur qu'ont été bâtis le Parlement et notre démocratie. Ces oeuvres nous rappellent aussi les quelque 116 000 Canadiens inhumés à l'étranger qui ont combattu pour défendre notre liberté de parole et d'opinion. Promettons-nous d'adopter ici à la Chambre une conduite digne des sacrifices qu'ils ont consentis.</ParaText>
               <ParaText id="4170475">En guise de conclusion, je tiens à féliciter tous les députés et à leur souhaiter la bienvenue à la 42<Sup>e</Sup> législature du Parlement du Canada.</ParaText>
               <ParaText id="4170476">
                 <I> Et la masse ayant été posée sur la table:</I>
@@ -397,12 +384,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170477">Monsieur le Président, comme c'est la première fois que je m'adresse aux Canadiens depuis ce fauteuil en cette auguste Chambre, je tiens, avant de vous féliciter, à remercier tous les Canadiens d'avoir élu 338 personnes très compétentes pour les représenter à la Chambre des communes. Tous les députés s'efforceront jour après jour de mériter la confiance qu'ils nous ont accordée individuellement et collectivement. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170478">Plus particulièrement, qu'on me permette de remercier les gens de Papineau qui ont choisi de me faire confiance une troisième fois. Ils demeureront au coeur de tout ce que je fais.</ParaText>
-              <ParaText id="4170479"> Maintenant, j'aimerais offrir à vous, mon cher collègue et ami de longue date, mes chaleureuses félicitations pour avoir été choisi pour ce rôle extrêmement important. Maintenir l'ordre aux communes n'est pas une mince tâche. Il faut veiller à ce que les règles et les traditions parlementaires soient respectées et défendre les droits et privilèges de tous les députés, y compris le droit de s'exprimer librement.</ParaText>
+              <ParaText id="4170479"> Maintenant, j'aimerais vous offrir, mon cher collègue et ami de longue date, mes chaleureuses félicitations pour avoir été choisi pour ce rôle extrêmement important. Maintenir l'ordre aux Communes n'est pas une mince tâche. Il faut veiller à ce que les règles et les traditions parlementaires soient respectées et défendre les droits et privilèges de tous les députés, y compris le droit de s'exprimer librement.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170480">Monsieur le Président, je sais que vous mettrez votre grande expérience à profit dans vos nouvelles fonctions de Président. Vous aurez très certainement la confiance de tous nos collègues.</ParaText>
-              <ParaText id="4170481">À ma connaissance, deux femmes seulement dans l'histoire du Canada ont eu le triste honneur d'être à la fois la fille, la femme et la mère d'un député. La première est ma propre mère, et la deuxième, celle du Président, qui est ici aujourd'hui. C'est dans un esprit d'ouverture et de transparence que je révèle ces liens de parenté. Il fallait que je le fasse avant que le Président ne commence à me dire ce que je peux et ne peux pas dire.</ParaText>
+              <ParaText id="4170481">À ma connaissance, deux femmes seulement dans l'histoire du Canada ont eu l'honneur relatif  d'être à la fois la fille, la femme et la mère d'un député. La première est ma propre mère, et la deuxième, celle du Président, qui est ici aujourd'hui. C'est dans un esprit d'ouverture et de transparence que je révèle ces liens de parenté. Il fallait que je le fasse avant que le Président ne commence à me dire ce que je peux et ne peux pas dire.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170482">J'aimerais aussi remercier mes estimés collègues qui se sont présentés comme candidats pour ce poste. Le Canada a énormément de chance d'avoir, au Parlement, des gens si passionnés et dévoués, et je crois que nous serons tous d'accord que, en matière de passion et de dévouement, il n'y en n'a pas un, ici, qui en a plus que notre ami et collègue d'<Affiliation DbId="170111" Type="2">Ottawa—Vanier</Affiliation>.</ParaText>
+              <ParaText id="4170482">J'aimerais aussi remercier mes estimés collègues qui se sont présentés comme candidats pour ce poste. Le Canada a énormément de chance d'avoir, au Parlement, des gens si passionnés et dévoués, et je crois que nous serons tous d'accord que, en matière de passion et de dévouement, il n'y en a pas un, ici, qui en a plus que notre ami et collègue d'<Affiliation DbId="170111" Type="2">Ottawa—Vanier</Affiliation>.</ParaText>
               <ParaText id="4170483">Nous devons travailler tous ensemble pour rétablir la foi et la confiance en la Chambre des communes.</ParaText>
               <ParaText id="4170484">Monsieur le Président, je sais que vous jouerez un rôle à cet égard en favorisant un débat respectueux et réfléchi entre les députés des deux côtés de la Chambre.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -431,7 +418,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4170491">Monsieur le Président, j'aimerais exprimer, en mon nom et en celui des membres du caucus conservateur, nos plus sincères félicitations pour votre élection comme Président de la Chambre des communes.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4170492">Je vous souhaite également bon anniversaire de mariage, à vous et à Kelly. Cela vous vaut des points supplémentaires.</ParaText>
-              <ParaText id="4170493">Monsieur le Président, vous occupez maintenant une fonction presque aussi vieille que le Parlement lui-même. Le premier président d'élection connu a été nommé en 1258. C'est Peter de Montfort qui présidait le Parlement à Oxford cette année-là. </ParaText>
+              <ParaText id="4170493">Monsieur le Président, vous occupez maintenant une fonction presque aussi vieille que le Parlement lui-même. Le premier président de séance connu a été nommé en 1258. C'est Peter de Montfort qui présidait le Parlement à Oxford cette année-là. </ParaText>
               <ParaText id="4170494">L'histoire ininterrompue de la présidence a commencé en 1376, alors que sir Peter de la Mare présidait ce qu'on appelle le « bon Parlement ». La législature suivante a été nommée le « mauvais Parlement ». Bien sûr, les termes « bon » et « mauvais » n'avaient rien à voir avec le rendement des administrations de l'époque, mais étaient plutôt le reflet des efforts des députés pour surveiller le gouvernement.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4170495">Monsieur le Président, je peux vous assurer que mes collègues et moi, qui formons la loyale opposition de Sa Majesté, allons travailler fort pour vous gagner la notoriété de Président de ce que les historiens appelleront un jour « le grand Parlement ». Cela veut dire que vous pouvez compter sur notre coopération en tout temps et en toute circonstance.</ParaText>
@@ -482,9 +469,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214145" Type="2">M. Rhéal Fortin (Rivière-du-Nord, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4170510">Monsieur le Président, au nom de l'ensemble des députés membres du caucus du Bloc québécois, je voudrais vous féliciter pour cette élection à la prestigieuse fonction de Président de la Chambre des communes. J'offre également mes respects à Mme Ratansi, à M. Paradis et à M. Stanton pour avoir déposé leur candidature. C'est toujours quelque chose de particulièrement émouvant. </ParaText>
-              <ParaText id="4170511">Je voudrais également exprimer, au nom du Bloc québécois, notre respect et nos pensées de solidarité humaine envers notre collègue le député d'<Affiliation DbId="170111" Type="2">Ottawa—Vanier</Affiliation> qui a travaillé fort dans le cadre de sa candidature au poste de Président et qui doit maintenant livrer un important combat. Je tiens à assurer notre cher collègue de notre soutien le plus total.</ParaText>
-              <ParaText id="4170512"> Je voudrais, monsieur le Président, vous assurer de notre entière collaboration en ce qui concerne les travaux de la Chambre afin d'assurer le maintien et le respect de la démocratie, ainsi que des débats sains et respectueux. La Chambre pourra également compter sur notre travail sérieux et dévoué pour la sauvegarde et la promotion des intérêts, des droits et des privilèges de l'ensemble des électeurs qui nous ont fait confiance. Nous accueillons avec enthousiasme et beaucoup d'espoir vos beaux mots en ce qui concerne des débats sains et respectueux. Vous pouvez compter sur notre collaboration.</ParaText>
+              <ParaText id="4170510">Monsieur le Président, au nom de l'ensemble des députés membres du caucus du Bloc québécois, je voudrais vous féliciter pour cette élection à la prestigieuse fonction de Président de la Chambre des communes. J'offre également mes respects à la députée de Don Valley-Est, au député de Brome—Missisquoi et au député de Simcoe-Nord pour avoir déposé leur candidature. C'est toujours quelque chose de particulièrement émouvant. </ParaText>
+              <ParaText id="4170511">Je voudrais également exprimer, au nom du Bloc québécois, notre respect et nos pensées de solidarité humaine envers notre collègue le député d'<Affiliation DbId="170111" Type="2">Ottawa—Vanier</Affiliation>, qui a travaillé fort dans le cadre de sa candidature au poste de Président et qui doit maintenant livrer un important combat. Je tiens à assurer notre cher collègue de notre soutien le plus total.</ParaText>
+              <ParaText id="4170512"> Je voudrais, monsieur le Président, vous assurer de notre entière collaboration en ce qui concerne les travaux de la Chambre afin d'assurer le maintien et le respect de la démocratie, ainsi que la tenue des débats sains et respectueux. La Chambre pourra également compter sur notre travail sérieux et dévoué pour la sauvegarde et la promotion des intérêts, des droits et des privilèges de l'ensemble des électeurs qui nous ont fait confiance. Nous accueillons avec enthousiasme et beaucoup d'espoir vos beaux mots en ce qui concerne des débats sains et respectueux. Vous pouvez compter sur notre collaboration.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -541,7 +528,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 </Quote>
               </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4170522">La Chambre demeure ajournée jusqu'à demain, à 14 h 30, alors que la Chambre se rendra au Sénat où son excellence inaugurera la première session de la 42<Sup>e</Sup> législature.</ParaText>
+              <ParaText id="4170522">La Chambre demeure ajournée jusqu'à demain, à 14 h 30, alors que la Chambre se rendra au Sénat où Son Excellence inaugurera la première session de la 42<Sup>e</Sup> législature.</ParaText>
               <ParaText id="4170523">(La séance est levée à 16 h 36.)</ParaText>
             </Content>
           </Intervention>

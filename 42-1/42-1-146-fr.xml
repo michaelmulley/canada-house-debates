@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9398873">
-  <StartPageNumber>9245</StartPageNumber>
+  <StartPageNumber>9243</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -76,14 +58,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9399278">
-        <SubjectOfBusinessTitle>Budget principal des dépenses 2017-2018</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le budget principal des dépenses 2017-2018</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="4769731">Le président du Conseil du Trésor présente un message dont le Président donne lecture à la Chambre et par lequel Son Excellence le gouverneur général transmet le Budget principal des dépenses pour l'exercice se terminant le 31 mars 2018. </ParaText>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9399497">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Rapport sur les dépenses fiscales fédérales</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les dépenses fiscales fédérales</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brison" id="9398917">
             <PersonSpeaking>
@@ -818,7 +800,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4769984">Monsieur le Président, le député a raison. Il y a un chef d'un parti provincial qui s'oppose à la tarification: le chef du Parti de la Saskatchewan.</ParaText>
+              <ParaText id="4769984">Monsieur le Président, le député a raison. Il y a un chef de parti provincial qui s'oppose à la tarification: le chef du Parti de la Saskatchewan.</ParaText>
               <ParaText id="4769985">Toutefois, je vais répéter ma question à la députée. Pourquoi croit-elle que le Parti conservateur du Canada est l'un des seuls à adopter cette position?</ParaText>
             </Content>
           </Intervention>
@@ -1197,8 +1179,8 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214534" Type="2">M. John Brassard</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4770131">Sans doute, et je remercie le député de York—Simcoe de sa remarque.</ParaText>
-              <ParaText id="4770132"> Madame la Présidente, nous sommes tous d’accord pour dire que nous devons faire notre part, mais le Canada ne représente que 1,6 % des émissions de gaz à effet de serre de toute la planète. Par conséquent, il faudrait en discuter à l’échelle internationale et déterminer quels pays sont les plus gros pollueurs du monde en ce qui concerne le carbone, afin d’exercer des pressions sur ces pays-là. Tout le monde sait que plus de 50 % des émissions de gaz à effet de serre sont produites par quatre pays. C’est plus de la moitié. Le Canada fait sa part et il va continuer.</ParaText>
+              <ParaText id="4770131">Sans doute, madame la Présidente, et je remercie le député de York—Simcoe de sa remarque.</ParaText>
+              <ParaText id="4770132">  nous sommes tous d’accord pour dire que nous devons faire notre part, mais le Canada ne représente que 1,6 % des émissions de gaz à effet de serre de toute la planète. Par conséquent, il faudrait en discuter à l’échelle internationale et déterminer quels pays sont les plus gros pollueurs du monde en ce qui concerne le carbone, afin d’exercer des pressions sur ces pays-là. Tout le monde sait que plus de 50 % des émissions de gaz à effet de serre sont produites par quatre pays. C’est plus de la moitié. Le Canada fait sa part et il va continuer.</ParaText>
               <ParaText id="4770133">Pour le gouvernement, c’est une question de transparence et de responsabilité. Il se doit de divulguer les informations dont nous avons besoin et de nous dire combien cela va coûter aux Canadiens. Commençons au moins par engager le dialogue avec nos partenaires internationaux afin de les convaincre de réduire, eux aussi, leurs émissions de gaz à effet de serre.</ParaText>
             </Content>
           </Intervention>
@@ -1879,7 +1861,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9401823">
-        <SubjectOfBusinessTitle> Félicitations à l'occasion d'un départ à la retraite  </SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle> Des félicitations à l'occasion d'un départ à la retraite  </SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9401824">
             <PersonSpeaking>
@@ -2231,7 +2213,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214554" Type="2">L'hon. Gerry Ritz (Battlefords—Lloydminster, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4770440">Monsieur le Président, la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> a déclaré ce qui suit à la Chambre à propos des accords commerciaux:  « [...] nous avons besoin d'une plus grande transparence afin de savoir ce qui se passe. Nous n'avons pas seulement besoin de belles séances de photos. Nous voulons des éclaircissements sur ce qui se passe [...] » Il est donc un peu bizarre que les médias d'État chinois soient les seuls à révéler que des responsables canadiens participent depuis lundi dernier, à Pékin, à des rencontres secrètes sur un accord commercial bilatéral. La ministre fera-t-elle preuve d'ouverture et de transparence à l'égard des Canadiens? Nous dira-t-elle si elle est en train de négocier un accord de libre-échange avec la Chine? </ParaText>
+              <ParaText id="4770440">Monsieur le Président, la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> a déclaré ce qui suit à la Chambre à propos des accords commerciaux:  « nous avons besoin d'une plus grande transparence afin de savoir ce qui se passe. Nous n'avons pas seulement besoin de belles séances de photos. Nous voulons des éclaircissements sur ce qui se passe » Il est donc un peu bizarre que les médias d'État chinois soient les seuls à révéler que des responsables canadiens participent depuis lundi dernier, à Pékin, à des rencontres secrètes sur un accord commercial bilatéral. La ministre fera-t-elle preuve d'ouverture et de transparence à l'égard des Canadiens? Nous dira-t-elle si elle est en train de négocier un accord de libre-échange avec la Chine? </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Goldsmith-Jones" id="9401964">
@@ -2373,6 +2355,8 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
               <ParaText id="4770470">Monsieur le Président, 80 % des Canadiens habitent déjà dans une province où la pollution causée par le carbone est tarifée, et c'est grâce aux provinces qui ont pris l'initiative d'agir.</ParaText>
               <ParaText id="4770471">J'ai été encouragée de voir que ce ne sont pas seulement des gouvernements libéraux qui prennent de telles mesures, ou encore des gouvernements néo-démocrates. Des partis conservateurs le font également. Le Parti conservateur du Manitoba s'est engagé à tarifer la pollution. Patrick Brown, le chef du Parti conservateur de l'Ontario, dit que la tarification du carbone est tout simplement une affaire de bon sens.</ParaText>
               <ParaText id="4770472">Pourquoi est-ce une affaire de bon sens? Parce que c'est une façon d'assainir l'environnement pour l'avenir, de réduire les émissions et de créer de bons emplois. C'est le choix à faire.</ParaText>
+              <ParaText id="4832161">
+                <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9402009">
@@ -2639,7 +2623,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <Content>
               <ParaText id="4770528">Monsieur le Président, quand vient le temps de dépenser sans compter, les libéraux ont une imagination sans limites, sauf quand vient le temps d'honorer la mémoire des Canadiens ayant servi leur pays dans les Forces canadiennes.</ParaText>
               <ParaText id="4770529">On vient d'apprendre que plus de 70 musées militaires partout au pays ne recevront plus aucuns fonds. Dans un élan de générosité, en ce 150<Sup>e</Sup> anniversaire de la Confédération, les libéraux leur ont retiré tout financement. Comme ancien militaire, ce manque de respect me dérange profondément.</ParaText>
-              <ParaText id="4770530">Pourquoi le ministre, qui est aussi un ancien combattant, a-t-il accepté cette coupe drastique?</ParaText>
+              <ParaText id="4770530">Pourquoi le ministre, qui est aussi un ancien combattant, a-t-il accepté cette coupe draconienne?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2837,13 +2821,6 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
               <ParaText id="4770565">Monsieur le Président, je demande le consentement unanime pour déposer la réponse à la demande d'accès à l'information concernant la vente de Rona à Lowe's, qui indique qu'aucun document n'a été remis au ministre. </ParaText>
               <ParaText id="4770566">
                 <B>Des voix:</B> Non.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9402147">
-            <PersonSpeaking>
-              <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4770567">Le député n'a pas le consentement unanime de la Chambre pour déposer le document.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3139,7 +3116,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="213994" Type="2">L’hon. Michelle Rempel</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4770675">Oui, madame la Présidente. L'analyse se trouve dans le document intitulé « Tendances en matière d'émissions au Canada », un rapport de 2014 d'Environnement Canada. Si mon collègue d'en face se rend à la page 16, il verra au tableau 2 que les émissions par habitant au Canada, qui étaient de 22,8 tonnes en 2005, devaient être réduites pour atteindre 19,7 en 2020, en application du plan du gouvernement conservateur. En 2012, elles étaient de 20,1, et ce, grâce à l'approche pragmatique adoptée par le gouvernement conservateur.</ParaText>
+              <ParaText id="4770675">Madame la Présidente, l'analyse se trouve dans le document intitulé « Tendances en matière d'émissions au Canada », un rapport de 2014 d'Environnement Canada. Si mon collègue d'en face se rend à la page 16, il verra au tableau 2 que les émissions par habitant au Canada, qui étaient de 22,8 tonnes en 2005, devaient être réduites pour atteindre 19,7 en 2020, en application du plan du gouvernement conservateur. En 2012, elles étaient de 20,1, et ce, grâce à l'approche pragmatique adoptée par le gouvernement conservateur.</ParaText>
               <ParaText id="4770676">Le député a cité l'ancien premier ministre, qui a déclaré à la Chambre qu'il serait insensé pour le Canada de hausser ses prix à un point tel qu'il ne puisse plus livrer concurrence aux États-Unis. </ParaText>
               <ParaText id="4770677">Mon collègue a mentionné que les États-Unis ont fait savoir au monde qu'ils souhaitent atténuer le fardeau de la réglementation et qu'ils réduiront les impôts des entreprises créatrices d'emplois, créant ainsi un climat d'investissement qui verra les capitaux canadiens s'envoler vers les États-Unis.</ParaText>
               <ParaText id="4770678">Le gouvernement précédent a dissocié les émissions de gaz à effet de serre et la croissance économique, ce que le gouvernement libéral n'a encore jamais fait. Il ne peut même pas produire les données montrant que sa politique fonctionnera.</ParaText>
@@ -3429,7 +3406,6 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4770791">Conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera à l'heure de l'ajournement ce soir, à savoir: la députée de Renfrew—Nipissing—Pembroke, Les anciens combattants; la députée de Nanaimo—Ladysmith, La condition féminine; le député de Carleton, L'emploi. </ParaText>
-              <ParaText id="4770792">Nous reprenons le débat. Le député de Sherwood Park—Fort Saskatchewan a la parole.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Genuis" id="9403054">
@@ -3568,7 +3544,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4770857">Comme il est 17 h 15, conformément à l'ordre adopté plus tôt aujourd'hui, toute question nécessaire pour disposer de la motion de l'opposition est réputée mise aux voix, et un vote par appel nominal est réputé demandé et différé jusqu'au mardi 7 mars 2017, à la fin de la période prévue pour les questions orales.</ParaText>
+              <ParaText id="4770857">Comme il est 17 h 15, conformément à l'ordre adopté plus tôt aujourd'hui, toute question nécessaire pour disposer de la motion de l'opposition est réputée mise aux voix, et un vote par appel nominal est réputé demandé et différé jusqu'au mardi 7 mars, à la fin de la période prévue pour les questions orales.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
@@ -3738,7 +3714,7 @@ en matière de droit relatif aux agressions sexuelles</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4770925">Monsieur le Président, comme d'autres l'ont expliqué avant moi, la motion <?bk?>M-104<?ek?> demande qu'on fasse quelque chose pour protéger le bassin versant de la rivière des Outaouais. Je remercie le député d'avoir soulevé la question. Il n'est d'ailleurs pas le premier; bon nombre de députés l'ont déjà fait avant lui. Le temps est venu de faire quelque chose. Reste seulement à concilier les positions quant à savoir qui devrait agir.</ParaText>
+              <ParaText id="4770925">Monsieur le Président, comme d'autres l'ont expliqué avant moi, la motion <?bk ?>M-104<?ek ?> demande qu'on fasse quelque chose pour protéger le bassin versant de la rivière des Outaouais. Je remercie le député d'avoir soulevé la question. Il n'est d'ailleurs pas le premier; bon nombre de députés l'ont déjà fait avant lui. Le temps est venu de faire quelque chose. Reste seulement à concilier les positions quant à savoir qui devrait agir.</ParaText>
               <ParaText id="4770926">Comme le disait le député, la rivière des Outaouais est aussi appelée Kitchissippi, ou « grande rivière », par les Algonquins. Je signale au passage que, à l'heure actuelle, la consultation des Premières Nations ne figure nulle part dans la Loi sur les ressources en eau du Canada; cela pourrait donc faire partie des choses dont je parlerai plus longuement tout à l'heure et auxquelles le comité pourrait s'intéresser. La rivière des Outaouais prend sa source dans le lac Capimitchigama, qui est situé dans les Laurentides, en plein centre du Québec, et elle coule vers l'ouest en direction du lac Témiscamingue, à partir d'où son tracé sert de frontière avec l'Ontario. Il s'agit donc à n'en pas douter d'une zone transfrontalière.</ParaText>
               <ParaText id="4770927">À partir du lac Témiscamingue, la rivière coule vers le sud-est jusqu'aux villes d'Ottawa et de Gatineau, où elle descend en cascade les chutes de la Chaudière, à l'embouchure des rivières Rideau et Gatineau. La rivière des Outaouais se jette ensuite dans le lac des Deux Montagnes et le fleuve Saint-Laurent, à Montréal. Je tiens à préciser que, lorsque j'ai déménagé ici il y a huit ans, je suis allée vivre dans le quartier du marché By. Je me rendais régulièrement sur la Colline en me promenant sur le beau sentier qui longe la rivière. Je comprends donc parfaitement la nécessité de protéger ce paysage naturel. </ParaText>
               <ParaText id="4770928">On m'a dit que le bassin hydrographique de la rivière des Outaouais comprend un grand nombre de milieux humides d'importance. La rivière des Outaouais a été désignée rivière du patrimoine et, contrairement à beaucoup d'autres cours d'eau, elle est protégée par la Loi sur la protection des eaux navigables. Les conservateurs ont soustrait de nombreux cours d'eau à la portée de cette loi.</ParaText>

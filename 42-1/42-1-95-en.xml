@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9175396">
   <StartPageNumber>5953</StartPageNumber>
   <DocumentTitle>
@@ -120,9 +101,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4560472">According to a report by the Conference Board of Canada, poverty rates among Canadian seniors have fallen by 25% over the past four decades, dropping from 36.9% in 1976 to 12.3% in 2010. The Conference Board of Canada concluded that this significant reduction can be largely attributed to the implementation of the CPP and, in Quebec, the QPP.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4560473">The CPP Investment Board is similarly well-regarded around the world for its impressive record of investment performance and management excellence. The CPPIB operates at arm's-length from governments, with a mandate to invest CPP funds in the best interests of plan members. It has been acclaimed by international bodies such as the World Bank as the model of an independent, transparent, and accountable public pension fund management organization.</ParaText>
+              <ParaText id="4560473">The CPP Investment Board is similarly well-regarded around the world for its impressive record of investment performance and management excellence. The CPPIB operates at arm's length from governments, with a mandate to invest CPP funds in the best interests of plan members. It has been acclaimed by international bodies such as the World Bank as the model of an independent, transparent, and accountable public pension fund management organization.</ParaText>
               <ParaText id="4560474">As the manager of a large fund program with millions of contributors, the CPP Investment Board is able to take advantage of economies of scale to deliver strong net returns. Over the past 10 years, the CPPIB has delivered a 10-year average nominal rate of return of 6.8% on existing CPP assets. This is above the 6.1% nominal rate of return identified by the chief actuary of Canada as necessary to ensure the sustainability of the Canada Pension Plan. </ParaText>
-              <ParaText id="4560475">With this rock solid investment structure as its foundation, the CPP provides a safe, secure, and predictable benefit, which means that Canadians can worry less about outliving their savings or having their savings impacted by significant market downturns. The recently released 27th actuarial report on the Canada pension plan concludes that the existing CPP is on a sustainable financial footing, at its current contribution rate of 9.9%, for at least the next 75 years.</ParaText>
+              <ParaText id="4560475">With this rock-solid investment structure as its foundation, the CPP provides a safe, secure, and predictable benefit, which means that Canadians can worry less about outliving their savings or having their savings impacted by significant market downturns. The recently released 27th actuarial report on the Canada pension plan concludes that the existing CPP is on a sustainable financial footing, at its current contribution rate of 9.9%, for at least the next 75 years.</ParaText>
               <ParaText id="4560476">Bill <Document DbId="8471390" Type="3">C-26</Document> would make amendments to the Canada Pension Plan Investment Board Act to make the CPPIB the manager of the improved CPP. Now that Bill C-26 is before us for consideration in Parliament, the chief actuary will conduct an actuarial assessment of the enhancement to ensure that it is on a sustainable, long-term financial footing.</ParaText>
               <ParaText id="4560477">CPP benefits are also fully indexed to prices, which reduces the risk that inflation will gradually erode the purchasing power of retirement savings. As well, the CPP is a good fit for Canada's changing job market. It helps to fill the gap left by declining workplace pension coverage and it is portable across jobs and provinces, which promotes labour mobility and reflects how Canadians currently live, work, and retire. With the automatic collection of contributions for all workers, the CPP is a simple way to save for retirement. It also provides important income support through disability, death, survivor, children's, and post-retirement benefits for eligible contributors and their families.</ParaText>
               <ParaText id="4560478">By supporting today's legislation, parliamentarians will not only be boosting how much each Canadian will get from his or her CPP pension in the future, we will be making a great program even greater. With 75% of Canadians in support of a stronger CPP, members will be acting on one of the highest priorities of Canadians.</ParaText>
@@ -214,13 +195,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="30">(1030)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9175534">
-            <PersonSpeaking>
-              <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="4560504">Resuming debate, the hon. member for Edmonton Manning.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Aboultaif" id="9175535">
             <PersonSpeaking>
               <Affiliation DbId="214274" Type="2">Mr. Ziad Aboultaif (Edmonton Manning, CPC)</Affiliation>: </PersonSpeaking>
@@ -232,7 +206,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560506">Please address your comments through the Chair.</ParaText>
+              <ParaText id="4560506">Would the member please address his comments through the Chair.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Aboultaif" id="9175538">
@@ -254,8 +228,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214274" Type="2">Mr. Ziad Aboultaif</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560510">Madam Speaker, thank you very much.</ParaText>
-              <ParaText id="4560511">First, I would like to seek the consent of the House to share my time with the member for <Affiliation DbId="214171" Type="2">Mégantic—L'Érable</Affiliation>.</ParaText>
+              <ParaText id="4560510">Madam Speaker, first, I would like to seek the consent of the House to share my time with the member for <Affiliation DbId="214171" Type="2">Mégantic—L'Érable</Affiliation>.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="9175543">
@@ -346,9 +319,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="45">(1045)</Timestamp>
-          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Bossio" id="9175603">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Bossio" id="9175603">
             <PersonSpeaking>
-              <Affiliation DbId="214286" Type="2">Mr. Mike Bossio</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214286" Type="2">Mr. Mike Bossio (Hastings—Lennox and Addington, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560547">Hon. member, I would invite you to come to my riding and—</ParaText>
             </Content>
@@ -360,12 +333,12 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4560548">Members need to direct questions through the Chair.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Bossio" id="9175605">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Bossio" id="9175605">
             <PersonSpeaking>
-              <Affiliation DbId="214286" Type="2">Mr. Mike Bossio (Hastings—Lennox and Addington, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214286" Type="2">Mr. Mike Bossio</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560549">Madam Speaker, I would invite the hon. member to come to my riding to meet some seniors who are suffering today from a lack of savings and the pension plan that they have.</ParaText>
-              <ParaText id="4560550">Given the precarious nature of employment today amongst our youth, and the massive increase in the cost of housing, my own son has been working two and three part-time jobs to try to get by. This is not a tax. It is an investment in future generations of Canadians that will allow them to live better than our seniors are living today.</ParaText>
+              <ParaText id="4560550">Given the precarious nature of employment today among our youth, and the massive increase in the cost of housing, my own son has been working two and three part-time jobs to try to get by. This is not a tax. It is an investment in future generations of Canadians that will allow them to live better than our seniors are living today.</ParaText>
               <ParaText id="4560551">Does the member deny that these facts exist? Is he completely out of touch with reality?</ParaText>
             </Content>
           </Intervention>
@@ -382,13 +355,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214171" Type="2">Mr. Luc Berthold (Mégantic—L'Érable, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560554">Madam Speaker, I am pleased to rise and speak here today. I thank the members for allowing my colleague to share his time time with me. My colleague gave an excellent speech outlining our position on Bill <Document DbId="8471390" Type="3">C-26</Document>, introduced by the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation>.</ParaText>
+              <ParaText id="4560554">Madam Speaker, I am pleased to rise and speak here today. I thank the members for allowing my colleague to share his time with me. My colleague gave an excellent speech outlining our position on Bill <Document DbId="8471390" Type="3">C-26</Document>, introduced by the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation>.</ParaText>
               <ParaText id="4560555">Seniors today should be worried about what the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> said in the House earlier this morning in his speech on Bill <Document DbId="8471390" Type="3">C-26</Document>. He claimed that they were very clear during their election campaign that they wanted to enhance the CPP. Now that we have seen the Liberals in action for a year, can we really take that kind of statement at face value? Definitely not.</ParaText>
               <ParaText id="4560556">Besides, what are seniors and Canadians in general supposed to think when a party says, during an election campaign, that it is going to enhance the CPP? What does this mean for the seniors in the riding of my colleague from <Affiliation DbId="214157" Type="2">Oakville</Affiliation>, who said himself that people in his riding have lower incomes and there are needs to be met? They thought they would benefit right away if they voted for that party.</ParaText>
               <ParaText id="4560557">When people are promised an enhanced pension plan, they expect that promise to be kept sooner rather than later. They expect the government to get to work on it immediately, even if it does not make sense. They expect the party in question to keep its promises. CPP expansion will begin to be implemented in 2019 and be fully phased in by 2025.</ParaText>
               <ParaText id="4560558">When we talk about a long-term strategy, as the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> did this morning, we have to put ourselves in seniors' shoes. “Long term” does not mean the same thing for someone who is 75 that it does for someone who is 50. Who are the seniors, who were misled by this government, that are really going to benefit from the CPP expansion? That is what we have to ask ourselves. The scary thing is what the Liberal government is not saying. What they are saying is nothing to worry about because they cannot be believed anyway, but what they are not saying is even scarier.</ParaText>
               <ParaText id="4560559">If during the last election campaign the Liberals had told seniors they were going to improve their pension plan in seven or eight years, not a single senior in my riding would have voted for them. In my riding, the average income is not very high. We have gone through some serious crises in the Thetford Mines region, including the asbestos crisis. Incomes are not very high, the miners do not have a lot of money, and out of the blue they are told that their pension plan is going to go up. Who would not want a better income, especially those who make lower wages?</ParaText>
-              <ParaText id="4560560">Unfortunately, that is not what the Liberals intend to do. What is more, they are going to increase taxes for the these people who have limited means, stripping them of their benefits. The government raised taxes right away, and these people will be the first victims of the arrogance of the Liberals, who make all sorts of promises they may well never deliver on. I hope that we will be back in 2019 to clean up their mess. If they are allowed to continue for another four years, it will be terrible and there will be no turning back.</ParaText>
+              <ParaText id="4560560">Unfortunately, that is not what the Liberals intend to do. What is more, they are going to increase taxes for people who have limited means, stripping them of their benefits. The government raised taxes right away, and these people will be the first victims of the arrogance of the Liberals, who make all sorts of promises they may well never deliver on. I hope that we will be back in 2019 to clean up their mess. If they are allowed to continue for another four years, it will be terrible and there will be no turning back.</ParaText>
               <ParaText id="4560561">It is important to stick to the facts. The government has been in power one year. It is against that backdrop that they introduced Bill <Document DbId="8471390" Type="3">C-26</Document> today. The government broke its promise to have a modest deficit and is borrowing three times the amount that it said it would. Last week, TD Bank reported that the deficit could reach $34 billion because of the economic situation.</ParaText>
               <ParaText id="4560562">What exactly is the economic situation? They promised to create jobs; they did not. They did not even keep their promise to improve the lives of Canadians, because the best way to do that is to give them jobs.</ParaText>
               <Timestamp Hr="10" Mn="50">(1050)</Timestamp>
@@ -532,7 +505,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4560602">I rise to pay tribute to the courageous Heiltsuk who have been out on the water, day and night, since this tragic spill to protect their homes. Local councillor Jess Housty said, “We know there are people who’ve had headaches, irritation in their noses and lungs since day one.... They’re not reporting them because they don’t want to be told they can’t go out and help anymore. They can’t imagine being anywhere else.” </ParaText>
               <ParaText id="4560603">The federal government did not arrive on the scene for almost 24 hours after the spill, and since then a second spill response vessel has run aground and has now sunk and diesel continues to leak, causing more devastation. </ParaText>
               <ParaText id="4560604">This is not a world-class spill response. This is a betrayal and a dereliction of duty. </ParaText>
-              <ParaText id="4560605">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> made a sacred promise to first nations in British Columbia and the people in the my riding that he would protect our coast, yet when he was asked point-blank earlier this week whether he would stay true to his word, he deflected and suggested that opening a Coast Guard station 600 kilometres away was good enough.</ParaText>
+              <ParaText id="4560605">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> made a sacred promise to first nations in British Columbia and the people in my riding that he would protect our coast, yet when he was asked point-blank earlier this week whether he would stay true to his word, he deflected and suggested that opening a Coast Guard station 600 kilometres away was good enough.</ParaText>
               <ParaText id="4560606">We will protect what must be protected.</ParaText>
             </Content>
           </Intervention>
@@ -546,7 +519,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214442" Type="2">Mr. Francis Drouin (Glengarry—Prescott—Russell, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560607">Mr. Speaker, I rise to recognize a brave and courageous young man, Jonathan Pitre, who suffers from a severe form of EB, a terrible disease that causes irritation and red blisters. Having this disease according to doctors is like being a burn victim one's whole life.</ParaText>
+              <ParaText id="4560607">Madam Speaker, I rise to recognize a brave and courageous young man, Jonathan Pitre, who suffers from a severe form of EB, a terrible disease that causes irritation and red blisters. Having this disease according to doctors is like being a burn victim one's whole life.</ParaText>
               <ParaText id="4560608">Does this bring Jonathan down? Absolutely not. When asked by the <I>Ottawa Citizen</I>, Jonathan said, “Of course I’m not, you know, happy that I have this.... But, at the same time, I kind of am because I prefer it being me than somebody else.” At 16 years of age, he is already a noble man. </ParaText>
               <ParaText id="4560609">His selfless kindness does not stop there. He is an ambassador for DEBRA Canada.</ParaText>
               <ParaText id="4560610"> Over the last month Jonathan has been undergoing a stem cell transplant in Minnesota. It did not work, but doctors are optimistic that the second stem cell transplant will work.</ParaText>
@@ -708,7 +681,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214552" Type="2">Mr. John Barlow (Foothills, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560638">Madam Speaker, I rise in the House to pay tribute to an inspiring Albertan and close friend, Sheldon Kennedy, who received Alberta's highest award, the Order of Excellence, on Wednesday.</ParaText>
-              <ParaText id="4560639">Sheldon showed incredible courage to break a longstanding silence in sports, with his story of childhood sexual abuse, and now he is a tireless advocate for other victims. He suffered for many years under the burden of his secret, a secret he was afraid to share.</ParaText>
+              <ParaText id="4560639">Sheldon showed incredible courage to break a long-standing silence in sports, with his story of childhood sexual abuse, and now he is a tireless advocate for other victims. He suffered for many years under the burden of his secret, a secret he was afraid to share.</ParaText>
               <ParaText id="4560640">When he did share his personal story, many other victims, inspired by Sheldon's strength, came forward, and their stories inspired Sheldon to take action. He established Respect Group to help prevent abuse, bullying, and harassment in sport, school, and the workplace. In 2013, the renowned Sheldon Kennedy Child Advocacy Centre opened in Calgary to help those affected by abuse.</ParaText>
               <ParaText id="4560641"> I am proud to know this compassionate, inspiring man, who speaks around the world raising awareness about sexual abuse and the impact on victims. I am profoundly honoured to call him a friend.</ParaText>
               <ParaText id="4560642"> I invite all members of the House to congratulate Sheldon on his award and thank him for his advocacy.</ParaText>
@@ -766,7 +739,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214534" Type="2">Mr. John Brassard (Barrie—Innisfil, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560652">Madam Speaker, yesterday marked the second anniversary of Warrant Officer Patrice Vincent's murder by an Islamic extremist in Saint-Jean-sur-Richelieu. It will be two years ago tomorrow that Corporal Nathan Cirillo was killed as he stood guard at the National War Memorial here in Ottawa. On the anniversary of these tragic events, I pay tribute to these two brave men for their sacrifice, and I extend my sincere gratitude to their families.</ParaText>
-              <ParaText id="4560653"> Last year, the previous Conservative government initiated a large ceremony at the National War Memorial to mark the first anniversary of the attack. The event included a speech by the Governor General, a military march past by Corporal Cirillo's Argyll and Sutherland Highlanders, a CF-18 fly-past in missing-man formation to honour Warrant Officer Vincent, and the unveiling of a permanent plaque commemorating Corporal Cirillo at the site. They were remembered.</ParaText>
+              <ParaText id="4560653"> Last year, the previous Conservative government initiated a large ceremony at the National War Memorial to mark the first anniversary of the attack. The event included a speech by the Governor General, a military march past by Corporal Cirillo's Argyll and Sutherland Highlanders, a CF-18 flypast in missing-man formation to honour Warrant Officer Vincent, and the unveiling of a permanent plaque commemorating Corporal Cirillo at the site. They were remembered.</ParaText>
               <ParaText id="4560654">Yet, this year there is no commemoration, no event, and no honour is being paid to these fallen heroes by the government. I think I can safely say on behalf of all veterans and all Canadians that we are deeply saddened by this—</ParaText>
             </Content>
           </Intervention>
@@ -799,6 +772,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560660">Order, please. </ParaText>
+              <ParaText id="4701240">We will now go to oral questions.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -815,7 +789,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214460" Type="2">Hon. Candice Bergen (Portage—Lisgar, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560661">Madam Speaker, the Canada-EU trade agreement is a historic agreement. It took years to negotiate, and it was the Conservatives which did the hard part. We negotiated a deal that will benefit Canadian families and businesses in every sector of the country. Now the Liberal government is struggling with what should be the easy part, putting the final signature on a deal we delivered.</ParaText>
+              <ParaText id="4560661">Madam Speaker, the Canada-EU trade agreement is a historic agreement. It took years to negotiate, and it was the Conservatives who did the hard part. We negotiated a deal that will benefit Canadian families and businesses in every sector of the country. Now the Liberal government is struggling with what should be the easy part, putting the final signature on a deal we delivered.</ParaText>
               <ParaText id="4560662">When will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> pick up the dropped ball from his <Affiliation DbId="214326" Type="4">trade minister</Affiliation> and get the job done for Canadians?</ParaText>
             </Content>
           </Intervention>
@@ -1009,6 +983,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4560706">Madam Speaker, we came into office with stalled growth from the previous government. That was exactly what we faced and what Canadians decided was a problem. That is why they agreed with us that the right way to address this is to make significant investments in Canadians today and tomorrow. The kinds of measures we put in place, such as the Canada child benefit, are having an impact now. They are starting to be put into the economy. The infrastructure investments that we have put in place are starting to come into the economy now. We know that we are going to make a long-term difference for Canadians by taking the right decisions for their future.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9176030">
+        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Poilievre" id="9175941">
             <PersonSpeaking>
               <Affiliation DbId="214462" Type="2">Hon. Pierre Poilievre (Carleton, CPC)</Affiliation>: </PersonSpeaking>
@@ -1110,7 +1089,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214344" Type="2">Ms. Irene Mathyssen (London—Fanshawe, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560722">Madam Speaker, the Liberals are once again supporting Conservative policies in our courts. First, they took veterans to court regarding promised pensions and now this government is denying ex-pat Canadians the right to vote. Just like pensions for veterans, that is something they promised to change.</ParaText>
+              <ParaText id="4560722">Madam Speaker, the Liberals are once again supporting Conservative policies in our courts. First, they took veterans to court regarding promised pensions and now this government is denying expat Canadians the right to vote. Just like pensions for veterans, that is something they promised to change.</ParaText>
               <ParaText id="4560723">When will the Liberals keep their promises and stop recycling tired Conservative policies, the same policies they campaigned against only a year ago?</ParaText>
             </Content>
           </Intervention>
@@ -1277,7 +1256,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="223727" Type="4">Hon. Dominic LeBlanc (Minister of Fisheries, Oceans and the Canadian Coast Guard, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560758">Madam Speaker, we share my colleague's concern about these derelict and abandoned vessels that, frankly, are on every coast of the country, including some of the lakes. It is a problem that our government has committed to rectify.</ParaText>
-              <ParaText id="4560759">The <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> and I have been working with a number of stakeholders, and I know that the member is excited about the plan that we will be tabling. The good news for all member of the House is that the plan is coming very soon.</ParaText>
+              <ParaText id="4560759">The <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> and I have been working with a number of stakeholders, and I know that the member is excited about the plan that we will be tabling. The good news for all members of the House is that the plan is coming very soon.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Blaney (North Island—Powell River)" id="9176037">
@@ -1285,7 +1264,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214470" Type="2">Ms. Rachel Blaney (North Island—Powell River, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560760">Madam Speaker, last week, a tanker barge ran aground off of B.C.'s north coast, spilling 200,000 litres of toxic fuel into a sensitive area. After a slow response, one of the ships helping with the cleanup also began to sink, and this is what the minister calls a world-class response. </ParaText>
-              <ParaText id="4560761">This relatively minor incident still caused major damage. If it had been a fully-loaded supertanker, the devastation would have been off the chart. </ParaText>
+              <ParaText id="4560761">This relatively minor incident still caused major damage. If it had been a fully loaded supertanker, the devastation would have been off the chart. </ParaText>
               <ParaText id="4560762">When will the government finally implement a permanent ban off of B.C.'s north coast?</ParaText>
             </Content>
           </Intervention>
@@ -1368,7 +1347,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="213990" Type="2">Hon. Peter Van Loan (York—Simcoe, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560778">Madam Speaker, October 22 marks two years since a jihadist terrorist struck at the heart of our freedom and democracy. Corporal Nathan Cirillo was brutally gunned down just steps from here. The thickness of a door and the brave actions of our Hill security staff saved members here a similar fate. It was two days after a jihadist murdered Warrant Office Patrice Vincent. </ParaText>
+              <ParaText id="4560778">Madam Speaker, October 22 marks two years since a jihadist terrorist struck at the heart of our freedom and democracy. Corporal Nathan Cirillo was brutally gunned down just steps from here. The thickness of a door and the brave actions of our Hill security staff saved members here a similar fate. It was two days after a jihadist murdered Warrant Officer Patrice Vincent. </ParaText>
               <ParaText id="4560779">Last year, our government honoured the sacrifice of these men, but this year the Liberals want Canadians to forget. There will be no memorial. Why are the Liberals dishonouring these fallen men and trying to pretend that these jihadist attacks never happened?</ParaText>
             </Content>
           </Intervention>
@@ -1637,7 +1616,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       <SubjectOfBusiness id="9176354">
         <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Secularism of Government Institutions</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canadian Heritage</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Gill" id="9176212">
             <PersonSpeaking>
@@ -1837,9 +1816,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <SubjectOfBusinessContent>
           <ParaText id="4560873">The House resumed consideration of the motion that Bill <Document DbId="8471390" Type="3">C-26, An Act to amend the Canada Pension Plan, the Canada Pension Plan Investment Board Act and the Income Tax Act</Document>, be read the second time and referred to a committee.</ParaText>
           <ProceduralText TocType="TPC" id="4">Bill C-26. Second reading</ProceduralText>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="9176294">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Lamoureux" id="9176294">
             <PersonSpeaking>
-              <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4560874">Madam Speaker, what a pleasure it is to rise today to talk about a bill that I think should receive overwhelming support from all members of this House, even though I realize that at least—</ParaText>
             </Content>
@@ -1889,13 +1868,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4560900">I know this is all very confusing, and it is going to take some time for Canadians to understand the complexities. </ParaText>
               <ParaText id="4560901">The bill also would make some changes to the Income Tax Act, which is supposed to help minimize the impact of the premium increases on Canadians. The CPP premiums that a worker currently pays are treated as a tax credit. An individual is able to claim a percentage of premiums paid as a non-refundable tax, which is then deducted from total federal tax payable. This would not change. These contributions would now be considered as base contributions but will still be treated the same for income tax purposes. </ParaText>
               <ParaText id="4560902">The increased benefits that a worker would be paying in 2019 and thereafter will be considered as additional contributions and will be treated differently for tax purposes. A worker will be able to deduct the amount of the additional contribution directly off their taxable income instead of applying for it as a credit. </ParaText>
-              <ParaText id="4560903">The government has also included changes to the Income Tax Act in the bill that would increase the working tax benefit by 14%. The intention is to minimize the impact of increased CPP premiums on low income workers. Employers would be able to write off the increases on the CPP as a business expense, as they do now with the base contributions.</ParaText>
+              <ParaText id="4560903">The government has also included changes to the Income Tax Act in the bill that would increase the working tax benefit by 14%. The intention is to minimize the impact of increased CPP premiums on low-income workers. Employers would be able to write off the increases on the CPP as a business expense, as they do now with the base contributions.</ParaText>
               <ParaText id="4560904">Now I would like to talk briefly about Canada's retirement income system, which is based on three pillars. These pillars are also supposed to interact or work together and are intended to enable seniors to maintain a reasonable standard of living in retirement. The first pillar includes standardized and universal public benefits, such as old age security and the guaranteed income supplement. </ParaText>
               <ParaText id="4560905">The second pillar includes mandatory public workplace coverage, the Canada pension plan and the Quebec pension plan. Almost all working Canadians over the age of 18, earning more than the minimum amount of $3,500 per year, must pay into this. It is mandatory for employees and employers, as deemed by legislation. Contributions are split evenly between the employee and the employer, or borne fully by someone who is self-employed. The amount depends on a person's income.</ParaText>
               <ParaText id="4560906">The third pillar consists of an employer or a union-sponsored plan, known as the registered retirement plan. They are registered with the Canadian Revenue Agency and one of the pension's regulatory authorities, because they are subject to government support in the form of special tax measures and regulatory oversight. This pillar also includes registered retirement savings plans and other personal savings. </ParaText>
               <ParaText id="4560907">The problem for today's seniors is that these pillars are falling behind in terms of enabling seniors to maintain an adequate standard of living. Dramatic increases in the costs of things like electricity and housing are causing great strain on seniors' fixed incomes. Failing to take action now will have a great social cost, forcing many seniors into poverty. The number of seniors being forced to use food banks will rise dramatically. </ParaText>
               <ParaText id="4560908">Studies point to a looming crisis in the retirement income security of Canadians. A recent study by Richard Shillington, done for the Broadbent Institute, shows a large percentage of older working Canadians are heading into retirement without adequate savings to keep them out of poverty. The report goes on to say that half of Canadian couples between 55 and 64 have no employer pension plan between them. Of those, less than 20% of middle-income families have saved enough to adequately supplement government benefits and the Canada or Quebec pension plan. Income trends suggest that the percentage of Canadian seniors living in poverty will increase in the coming years, especially for single women who already face a higher than average rate. The poverty rate for seniors will climb at the same time as a sharply rising number of Canadians hit retirement in the next two decades. More than 20% of the population will be older than 65 within 10 years.</ParaText>
-              <ParaText id="4560909">When releasing the report for the Broadbent Institute, Rick Smith, executive director said, “This new data on retirement savings and gaps in support makes one thing perfectly clear - we have a retirement income crisis on our hands that requires requires urgent government action now..”. </ParaText>
+              <ParaText id="4560909">When releasing the report for the Broadbent Institute, Rick Smith, executive director said, “This new data on retirement savings and gaps in support makes one thing perfectly clear—we have a retirement income crisis on our hands that requires urgent government action now”. </ParaText>
               <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
               <ParaText id="4560910">Increases in the guaranteed income supplement and these eventual increases in CPP benefits will certainly help, but much more needs to be done to help our seniors live with the dignity they deserve.</ParaText>
               <ParaText id="4560911">The high cost of housing and drugs, the clawback of the GIS, and the indexing of pensions are just a few immediate issues. The government needs to keep its promise to introduce a new seniors price index to make sure that the old age security and the guaranteed income supplement keep up with rising costs.</ParaText>
@@ -2084,7 +2063,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214091" Type="2">Mr. Scott Duvall</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560985">Madam Speaker, some good statements were made about what we are going to do now for the people and that we have help them out going into the future.</ParaText>
+              <ParaText id="4560985">Madam Speaker, some good statements were made about what we are going to do now for the people and that we have to help them out going into the future.</ParaText>
               <ParaText id="4560986">We made some adjustments to the CPP in this bill for future generations, but what about the people now?</ParaText>
               <ParaText id="4560987">Prior to 2012, a person had the option to retire and collect a pension at 60, or he could collect it at 70. If he collected it early, there would be a reduction, but it was needed. We did that to help people who were either forced into retirement or who could not work for health reasons or because of the environment they were working in.</ParaText>
               <ParaText id="4560988">Prior to 2012, we had that. It was a 0.5% per month reduction, to a maximum of 30%. In 2012, it was increased to a 0.6% reduction to a maximum of 35% at age 60. This really hurt a lot of people. It took a lot out of their pocketbooks.</ParaText>
@@ -2096,7 +2075,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4560990">We have to allow for more time for other parties to have questions as well, and for answers. Again, when we are mentioning the word “you”, that is not acceptable. It should be “he” or “she” or though me.</ParaText>
+              <ParaText id="4560990">We have to allow for more time for other parties to have questions as well, and for answers. Again, when we are mentioning the word “you”, that is not acceptable. It should be “he” or “she” or through me.</ParaText>
               <ParaText id="4560991">The hon. parliamentary secretary to the government House leader.</ParaText>
             </Content>
           </Intervention>
@@ -2131,7 +2110,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214458" Type="2">Mr. Jim Eglinski (Yellowhead, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4561000">Madam Speaker, Canada's savings rate has climbed from 7.7% back in the 1990s to 14.1% today. That is according to the C.D. Howe Institute. Just the other day, Finance Canada said that the higher CPP premiums would hurt the economy by reducing private savings by 7%. Could member to comment on that, because it sounds like we are going backwards?</ParaText>
+              <ParaText id="4561000">Madam Speaker, Canada's savings rate has climbed from 7.7% back in the 1990s to 14.1% today. That is according to the C.D. Howe Institute. Just the other day, Finance Canada said that the higher CPP premiums would hurt the economy by reducing private savings by 7%. Could the member comment on that, because it sounds like we are going backwards?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mr. Lamoureux" id="9176535">
@@ -2183,7 +2162,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 </Quote>
               </ParaText>
               <ParaText id="4561029">The Chamber of Commerce represents businesses across the country, as does the Canadian Federation of Independent Business. These people are raising the alarm about the impact of the CPP tax hike on small businesses at the worst possible time.</ParaText>
-              <ParaText id="4561030"> I know we talk a lot about Alberta, but the energy downturn has impacted Canadians across the country. I was in Nova Scotia a couple of weeks ago, and it was amazing how many people came up to me to say, “I was working in Alberta in the oil sands, but I had to come home, obviously, because there are no jobs. But there are no jobs for me here either”. We need Energy east. We need policies in place that will kick-start our energy industry. But instead, when it is down, we kick it with a carbon tax and now a CPP tax hike. Where does this make sense?</ParaText>
+              <ParaText id="4561030"> I know we talk a lot about Alberta, but the energy downturn has impacted Canadians across the country. I was in Nova Scotia a couple of weeks ago, and it was amazing how many people came up to me to say, “I was working in Alberta in the oil sands, but I had to come home, obviously, because there are no jobs. But there are no jobs for me here either”. We need energy east. We need policies in place that will kick-start our energy industry. But instead, when it is down, we kick it with a carbon tax and now a CPP tax hike. Where does this make sense?</ParaText>
               <ParaText id="4561031">I am going to conclude with this. This has been my question all along: if the Liberals are so confident that these types of policies will bring a great positive change to our economy, with all these great jobs for Canadians they talk about, can they prove it? Can they show me the data? Can they show me an economic impact study they did before they announced the carbon tax and the CPP tax hike? I have not seen it. If they are so confident this is the best thing for Canadians, I ask them to show it to me.</ParaText>
             </Content>
           </Intervention>
@@ -2254,7 +2233,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4561049">Madam Speaker, I am pleased to provide an update on what Canada has been doing with respect to tax fairness. This is certainly one of our government's most significant responsibilities, and Canadians legitimately expect us to take effective action on this file. </ParaText>
               <ParaText id="4561050">The government did not wait long to act. In December 2015, it introduced a tax cut to benefit the middle class by reducing the tax rate for the second personal income tax bracket. On average, for a single person, that amounts to $330 per year, and for a couple, $540. Close to nine million Canadians have already begun to benefit from that tax cut.</ParaText>
-              <ParaText id="4561051">Canadians have every right to expect everyone to pay their fair share of tax. That is why the tax rate for the wealthiest Canadians, those earning more than $200,000 in taxable income per year, went up. People are worried about sneaky individuals who know how to work the system slipping through the cracks. The Canadian government began tackling this problem head-on well before the Panama Papers revelations by including measures to combat tax evasion and tax avoidance in its 2016 budget.</ParaText>
+              <ParaText id="4561051">Canadians have every right to expect everyone to pay their fair share of tax. That is why the tax rate for the wealthiest Canadians, those earning more than $200,000 in taxable income per year, went up. People are worried about sneaky individuals who know how to work the system slipping through the cracks. The Canadian government began tackling this problem head-on well before the Panama papers revelations by including measures to combat tax evasion and tax avoidance in its 2016 budget.</ParaText>
               <ParaText id="4561052">In total, $444.4 million will be allocated to the Canada Revenue Agency over the next five years to operate more effectively. In other words, CRA is hiring 100 specialized auditors who will oversee large, high-risk multinationals. CRA will have the financial means to conduct its investigations and we think it will be able to recover $500 million in five years from multinationals alone. </ParaText>
               <ParaText id="4561053">What is more, within five years there will be five times as many audits of Canadian taxpayers considered to be high risk. Nearly 3,000 audits will be done, potentially putting $432 million back into government coffers.</ParaText>
               <ParaText id="4561054">Tax fairness is also about going further and dealing with those who abuse the system. A team of 24 auditors will be specifically assigned to go after those who come up with tax schemes and promote them to taxpayers to help them get out of paying the taxes they legitimately owe.</ParaText>
@@ -2293,10 +2272,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4561079">There is a general international tax principle that the country in which immovable property is located should have the right to tax the gains from the disposition of such property. The Canada-Barbados Income Tax Agreement Act is flexible, with the intention to limit unfair and inefficient double taxation practices. </ParaText>
               <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
               <ParaText id="4561080">I support the act. The Conservative Party supports the act. This motion to override the act's provisions should be regarded skeptically. To suggest that Canada should unilaterally decide not to live up to an agreement we have signed is, in my opinion, irresponsible.</ParaText>
-              <ParaText id="4561081">To support the Canada-Barbados Income Tax Agreement Act, 1980, is not to suggest support for tax evasion. In 2013, the Conservative government, in order to enhance the integrity of the tax system, created the stop international tax evasion program, aimed at reducing international tax evasion and avoidance. That the Canada Revue Agency gained three times as much new revenue as was expected from the measures introduced in the 2013 budget is a tribute to Conservative management. The Conservative Party has a strong, successful record of standing up to international tax avoidance.</ParaText>
+              <ParaText id="4561081">To support the Canada-Barbados Income Tax Agreement Act, 1980, is not to suggest support for tax evasion. In 2013, the Conservative government, in order to enhance the integrity of the tax system, created the stop international tax evasion program, aimed at reducing international tax evasion and avoidance. That the Canada Revenue Agency gained three times as much new revenue as was expected from the measures introduced in the 2013 budget is a tribute to Conservative management. The Conservative Party has a strong, successful record of standing up to international tax avoidance.</ParaText>
               <ParaText id="4561082">Canadians believe in a fair tax system. All of us want to know that we are being treated fairly and equally under the law. While the Conservative Party frowns upon tax evasion, it also upholds the view that this practice may be a response to unfavourable tax regimes within Canada. We believe that with fair taxation, there will be less desire on the part of some Canadians to look to other jurisdictions and to search for ways to avoid and evade Canadian taxation.</ParaText>
               <ParaText id="4561083">The Conservatives understand that when we make tax rates fair, when we make the system easier to navigate, it encourages businesses to invest in Canada. However, when we increase taxes, such as has been done with the recent payroll tax increases in the Canada pension plan, we discourage investment and kill Canadian jobs.</ParaText>
-              <ParaText id="4561084"> Investors, both domestic and foreign, are looking for a stable business climate where government understands the importance of allowing the private sector to lead job creation efforts. Creating an unstable business climate by, for example, unilaterally changing a longstanding international agreement is guaranteed to convince entrepreneurs that Canada is not worth the risk.</ParaText>
+              <ParaText id="4561084"> Investors, both domestic and foreign, are looking for a stable business climate where government understands the importance of allowing the private sector to lead job creation efforts. Creating an unstable business climate by, for example, unilaterally changing a long-standing international agreement is guaranteed to convince entrepreneurs that Canada is not worth the risk.</ParaText>
               <ParaText id="4561085">I can see that the actions of the current government, which has deferred the tax cut for small business to some mythical future date, would cause many businesses to investigate opportunities in other jurisdictions that might provide more consistent tax policies. That Canadian corporations legally transferred a record amount to tax havens in 2015 can be seen as a resounding vote of non-confidence in the Liberal government.</ParaText>
               <ParaText id="4561086">This, indeed, is a problem that should be addressed, but this motion is not the way to address it.</ParaText>
             </Content>
@@ -2321,7 +2300,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4561099">When we see tax breaks for CEOs that cost Canadian taxpayers $750 million a year, when we see corporations pushing money offshore and not paying their fair taxes, when we see so-called tax breaks for the middle class that benefit the most those who earn between $50 and $100 an hour, we know there is a problem.</ParaText>
               <Timestamp Hr="13" Mn="50">(1350)</Timestamp>
               <ParaText id="4561100">Tax havens are not only unfair but are also helping to fuel growing inequality in Canada. We are seeing huge inequality. Inequality is one of the biggest economic crises in our country today. This tax loophole is the biggest economic leakage in Canada right now. </ParaText>
-              <ParaText id="4561101">The government has an opportunity to take concrete action to prevent Canadian companies and taxpayers from using these loopholes to avoid paying their fair share of taxes. According to 2015 Statistics Canada data compiled by Canadians for Tax Fairness, the Caribbean island of Barbados is now Canada's third biggest destination for foreign investment, after the United States and the United Kingdom.</ParaText>
+              <ParaText id="4561101">The government has an opportunity to take concrete action to prevent Canadian companies and taxpayers from using these loopholes to avoid paying their fair share of taxes. According to 2015 Statistics Canada data compiled by Canadians for Tax Fairness, the Caribbean island of Barbados is now Canada's third-biggest destination for foreign investment, after the United States and the United Kingdom.</ParaText>
               <ParaText id="4561102">I want to thank the government member across the floor for bringing forward the actions the government is going to take to deal with these tax loopholes, through which companies can avoid paying tax. It is one thing to invest money in the CRA to chase people who are avoiding paying tax, but it is another to actually change the law so that we can make sure that it is illegal for those who move money into tax havens. We have an opportunity to change these agreements with other countries and close these tax loopholes. There is a big difference between that and breaking the law when right now it is legal to move money offshore. </ParaText>
               <ParaText id="4561103">Again, I want to thank the member for <Affiliation DbId="214211" Type="2">Joliette</Affiliation> for bringing the motion forward, because this would be an important solution. The government needs to look at legislation to do that, and this is the right legislation to get it started. We have many deals with other countries that also need to be looked at, but this is an excellent start.</ParaText>
               <ParaText id="4561104">Former Prime Minister Paul Martin registered companies in Barbados to avoid paying Canadian taxes. No wonder the current Liberal government is so unclear regarding its policy on tax havens. </ParaText>
@@ -2377,7 +2356,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4561129">
                 <B>The Assistant Deputy Speaker (Mrs. Carol Hughes):</B> Pursuant to Standing Order 93, a recorded division stands deferred until Wednesday, October 26, immediately before the time provided for private members' business.</ParaText>
               <ProceduralText TocType="TPC" id="6">Division on motion deferred</ProceduralText>
-              <ParaText id="4561130">It being 2:03 p.m., the House stands adjourned until Monday at <?bk?>11 a.m.,<?ek?> pursuant to Standing Order <?bk?>24(1).<?ek?></ParaText>
+              <ParaText id="4561130">It being 2:03 p.m., the House stands adjourned until Monday at <?bk ?>11 a.m.,<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="4561131">(The House adjourned at 2:03 p.m.) </ParaText>
             </Content>
           </Intervention>

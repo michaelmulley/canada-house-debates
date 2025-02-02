@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9505734">
-  <StartPageNumber>10821</StartPageNumber>
+  <StartPageNumber>10815</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -151,8 +151,8 @@
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>À l'ordre. Je rappelle au député de Carleton qu'il a eu la chance de poser sa question sans se faire interrompre. Je lui saurais donc gré de ne pas interrompre la ministre.</ParaText>
-              <ParaText>La ministre de l'Emploi a la parole.</ParaText>
+              <ParaText id="4986815">À l'ordre. Je rappelle au député de Carleton qu'il a eu la chance de poser sa question sans se faire interrompre. Je lui saurais donc gré de ne pas interrompre la ministre.</ParaText>
+              <ParaText id="4986816">La ministre de l'Emploi a la parole.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Hajdu" id="9505801">
@@ -184,8 +184,8 @@
             <PersonSpeaking>
               <Affiliation DbId="229214" Type="4">L’hon. Patty Hajdu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Madame la Présidente, la députée a tout à fait raison de souligner qu'il reste beaucoup de pain sur la planche. Comme elle l'a dit, le projet de loi représente un pas dans la bonne voie. Il donne le ton pour le rétablissement de la relation tripartite qui est si importante au pays. </ParaText>
-              <ParaText>Dans mon nouveau rôle — qui n'est maintenant plus si nouveau —, j'ai eu le plaisir de rencontrer des employeurs et des syndicats et de collaborer étroitement avec eux. Dans les deux groupes, on m'a indiqué ce qu'il est nécessaire de rétablir. Nous travaillons assidûment afin de rédiger et de présenter un projet de loi qui contribuera au renforcement du mouvement syndical, à la prospérité des entreprises et à la croissance économique. </ParaText>
+              <ParaText id="4986817">Madame la Présidente, la députée a tout à fait raison de souligner qu'il reste beaucoup de pain sur la planche. Comme elle l'a dit, le projet de loi représente un pas dans la bonne voie. Il donne le ton pour le rétablissement de la relation tripartite qui est si importante au pays. </ParaText>
+              <ParaText id="4986818">Dans mon nouveau rôle — qui n'est maintenant plus si nouveau —, j'ai eu le plaisir de rencontrer des employeurs et des syndicats et de collaborer étroitement avec eux. Dans les deux groupes, on m'a indiqué ce qu'il est nécessaire de rétablir. Nous travaillons assidûment afin de rédiger et de présenter un projet de loi qui contribuera au renforcement du mouvement syndical, à la prospérité des entreprises et à la croissance économique. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brassard" id="9505813">
@@ -200,7 +200,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229214" Type="4">L’hon. Patty Hajdu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858645">Madame la Présidente, j'ai remarqué que le député a utilisé l'expression « se plier aux exigences du mouvement syndical ». Voilà qui montre bien son attitude, et peut-être celle de son parti, envers les travailleurs canadiens. En fait, le mouvement syndical est [...]</ParaText>
+              <ParaText id="4858645">Madame la Présidente, j'ai remarqué que le député a utilisé l'expression « se plier aux exigences du mouvement syndical ». Voilà qui montre bien son attitude, et peut-être celle de son parti, envers les travailleurs canadiens. En fait, le mouvement syndical est...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Brassard" id="9505847">
@@ -359,7 +359,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214102" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858702">Madame la Présidente, oh, mon dieu, le Parti conservateur et ses attaques contre le mouvement syndical sont de retour! Cela fait longtemps qu'on n'a pas entendu cela, et c'est assez ironique d'entendre les conservateurs se poser comme les champions des travailleurs et des travailleuses. Ils n'ont probablement jamais fait une campagne de syndicalisation dans une usine ou une entreprise. </ParaText>
+              <ParaText id="4858702">Madame la Présidente, oh, mon dieu, le Parti conservateur et ses attaques contre le mouvement syndical sont de retour. Cela fait longtemps qu'on n'a pas entendu cela, et c'est assez ironique d'entendre les conservateurs se poser comme les champions des travailleurs et des travailleuses. Ils n'ont probablement jamais fait de campagne de syndicalisation dans une usine ou une entreprise. </ParaText>
               <ParaText id="4858703">En effet, quand il y a un vote secret, on sait que les chances de succès sont beaucoup moindres, et cela laisse le champ ouvert aux patrons pour faire de l'intimidation ou des promesses. La signature d'une carte de membre est le moyen le plus efficace, le plus juste et le plus équitable pour organiser les travailleurs afin qu'ils puissent défendre leurs droits et améliorer leurs conditions de travail. </ParaText>
             </Content>
           </Intervention>
@@ -368,7 +368,7 @@
               <Affiliation DbId="214462" Type="2">L’hon. Pierre Poilievre</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4858704">Madame la Présidente, je n'ai pas entendu de question. Mon collègue a simplement dit qu'il était plus facile pour lui et ses amis de contrôler les lieux de travail sans vote secret. </ParaText>
-              <ParaText id="4858705">Évidemment, ce serait plus facile pour lui est ses amis de contrôler les travailleurs en leur enlevant leur droit de voter. Toutefois, nous ne sommes pas ici afin d'aider l'honorable député à contrôler des lieux de travail; nous sommes ici afin de défendre les droits des travailleurs et des travailleuses. </ParaText>
+              <ParaText id="4858705">Évidemment, ce serait plus facile pour lui et ses amis de contrôler les travailleurs en leur enlevant leur droit de voter. Toutefois, nous ne sommes pas ici afin d'aider l'honorable député à contrôler des lieux de travail; nous sommes ici afin de défendre les droits des travailleurs et des travailleuses. </ParaText>
               <ParaText id="4858706">Si notre parti est le seul qui a la volonté de défendre ce principe démocratique, je serai fier de jouer ce rôle. Toutefois, nous n'allons jamais cesser nos efforts afin de défendre la démocratie dans tous les lieux de travail du Canada. </ParaText>
             </Content>
           </Intervention>
@@ -418,23 +418,23 @@
             <PersonSpeaking>
               <Affiliation DbId="214352" Type="2">Mme Leona Alleslev (Aurora—Oak Ridges—Richmond Hill, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Madame la Présidente, je salue aujourd'hui les Hérons canadiens, l'équipe nationale de badminton du Canada pour les aînés de 65 ans et plus, qui ont remporté les médailles d'or et de bronze en badminton aux Jeux mondiaux des maîtres qui ont eu lieu en Nouvelle-Zélande cette année.</ParaText>
-              <ParaText>Je tiens tout particulièrement à féliciter Cora Cuyegkeng, une membre de l'équipe qui habite dans ma circonscription, que j'ai eu l'honneur de rencontrer et à qui j'ai présenté un drapeau canadien avant que son équipe parte pour la Nouvelle-Zélande.</ParaText>
-              <ParaText>En tant que Canadiens, nous sommes fiers de participer à des compétitions internationales et de mettre en valeur les talents d'athlète de nos citoyens, qu'ils soient jeunes ou jeunes de coeur. Cette équipe d'athlètes aînés démontre à la fois la volonté de persévérer et l'importance de demeurer actif. Ils représentent une source d'inspiration pour tous les Canadiens.</ParaText>
-              <ParaText>Avec l'approche, on l'espère, de températures plus chaudes, j'aimerais encourager tous les Canadiens d'un océan à l'autre à sortir de chez eux et à ne pas oublier qu'il n'est jamais trop tard pour devenir actif.</ParaText>
+              <ParaText id="4986819">Madame la Présidente, je salue aujourd'hui les Hérons canadiens, l'équipe nationale de badminton du Canada pour les aînés de 65 ans et plus, qui ont remporté les médailles d'or et de bronze en badminton aux Jeux mondiaux des maîtres qui ont eu lieu en Nouvelle-Zélande cette année.</ParaText>
+              <ParaText id="4986820">Je tiens tout particulièrement à féliciter Cora Cuyegkeng, une membre de l'équipe qui habite dans ma circonscription, que j'ai eu l'honneur de rencontrer et à qui j'ai présenté un drapeau canadien avant que son équipe parte pour la Nouvelle-Zélande.</ParaText>
+              <ParaText id="4986821">En tant que Canadiens, nous sommes fiers de participer à des compétitions internationales et de mettre en valeur les talents d'athlète de nos citoyens, qu'ils soient jeunes ou jeunes de coeur. Cette équipe d'athlètes aînés démontre à la fois la volonté de persévérer et l'importance de demeurer actif. Ils représentent une source d'inspiration pour tous les Canadiens.</ParaText>
+              <ParaText id="4986822">Avec l'approche, on l'espère, de températures plus chaudes, j'aimerais encourager tous les Canadiens d'un océan à l'autre à sortir de chez eux et à ne pas oublier qu'il n'est jamais trop tard pour devenir actif.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9505913">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'évasion fiscale</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Boulerice" id="9505914">
             <PersonSpeaking>
               <Affiliation DbId="214102" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858716">Madame la Présidente, nos sociétés fonctionnent bien quand tout le monde fourni sa part d'efforts. Quand les individus et les compagnies paient leur juste part d'impôt, on met cela en commun et on se paie des services publics: l'éducation, la santé, nos routes, le soutien aux aînés ou aux personnes handicapées. </ParaText>
+              <ParaText id="4858716">Madame la Présidente, nos sociétés fonctionnent bien quand tout le monde fourni sa part d'efforts. Quand les individus et les compagnies paient leur juste part d'impôt, on met cela en commun et on se paie des services publics: l'éducation, la santé, nos routes ou le soutien aux aînés ou aux personnes handicapées. </ParaText>
               <ParaText id="4858717">Hélas, l'évasion fiscale et le recours aux paradis fiscaux viennent démolir tout ce système. Quand on est une grande compagnie ou un millionnaire, on envoie son argent dans un paradis fiscal et on est mort de rire. Toutefois, nous, ici, pendant ce temps, nous ne trouvons pas cela drôle. Nous perdons au moins 7 milliards de dollars par année.</ParaText>
               <ParaText id="4858718"> Avec tout cet argent perdu, on pourrait payer les études universitaires de tous les étudiants au pays. On pourrait engager 34 000 médecins de famille ou on pourrait boucher 50 millions de nids de poule. À Montréal, cela changerait beaucoup les choses. </ParaText>
               <ParaText id="4858719">Au NPD, nous savons de quel côté nous sommes. </ParaText>
@@ -528,16 +528,16 @@
             <PersonSpeaking>
               <Affiliation DbId="214473" Type="2">M. Dan Albas (Central Okanagan—Similkameen—Nicola, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Madame la Présidente, hier, la Cour suprême du Canada a décidé qu'elle allait entendre l'affaire Comeau. </ParaText>
-              <ParaText>Cette affaire concerne le transport d'alcool entre les provinces, mais l'incidence est beaucoup plus grande. L'article 121 de la Loi constitutionnelle est clair: </ParaText>
-              <ParaText>
+              <ParaText id="4986823">Madame la Présidente, hier, la Cour suprême du Canada a décidé qu'elle allait entendre l'affaire Comeau. </ParaText>
+              <ParaText id="4986824">Cette affaire concerne le transport d'alcool entre les provinces, mais l'incidence est beaucoup plus grande. L'article 121 de la Loi constitutionnelle est clair: </ParaText>
+              <ParaText id="4986825">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Tous articles du crû, de la provenance ou manufacture d’aucune des provinces seront, à dater de l’union, admis en franchise dans chacune des autres provinces.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText>Si la Cour suprême appuie le rétablissement d'une interprétation de l'article 121, nous pourrions très bien voir un véritable libre-échange au Canada. Ce serait merveilleux, beaucoup mieux qu'un protectionnisme provincial.</ParaText>
-              <ParaText>J'espère que le gouvernement libéral jouera le rôle d'un intervenant, qu'il défendra l'idée d'un véritable libre-échange canadien, et qu'il s'opposera au statu quo du protectionnisme provincial.</ParaText>
-              <ParaText>Je remercie M. Gérard Comeau, son équipe et la Fondation de la Constitution canadienne, de leur détermination pour faire avancer cette affaire importante. Je suis en faveur du véritable libre-échange au Canada. Cela signifie...</ParaText>
+              <ParaText id="4986826">Si la Cour suprême appuie le rétablissement d'une interprétation de l'article 121, nous pourrions très bien voir un véritable libre-échange au Canada. Ce serait merveilleux, beaucoup mieux qu'un protectionnisme provincial.</ParaText>
+              <ParaText id="4986827">J'espère que le gouvernement libéral jouera le rôle d'un intervenant, qu'il défendra l'idée d'un véritable libre-échange canadien, et qu'il s'opposera au statu quo du protectionnisme provincial.</ParaText>
+              <ParaText id="4986828">Je remercie M. Gérard Comeau, son équipe et la Fondation de la Constitution canadienne, de leur détermination pour faire avancer cette affaire importante. Je suis en faveur du véritable libre-échange au Canada. Cela signifie...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="9505945">
@@ -640,7 +640,7 @@
               <ParaText id="4858765">Madame la Présidente, malgré les pluies abondantes qui nous affligent en ce 150<Sup>e</Sup> anniversaire de la Confédération, nous voyons des centaines de milliers de tulipes poindre dans toute leur splendeur un peu partout dans la ville d'Ottawa.</ParaText>
               <ParaText id="4858766">Si belles soient-elles, nous ne devons pas oublier qu'elles commémorent des événements qui lient notre histoire à celle des Pays-Bas.</ParaText>
               <ParaText id="4858767">Aujourd'hui, 5 mai, nous soulignons le jour de la libération des Néerlandais, dont c'est le 72<Sup>e</Sup> anniversaire. Le 5 mai 1945, l'occupation nazie des Pays-Bas se terminait enfin. De courageux soldats canadiens ont repoussé les nazis vers l'Allemagne durant les derniers mois de la guerre, libérant le peuple hollandais de cinq années de tyrannie.</ParaText>
-              <ParaText id="4858768">Terrorisés par les bombardements et affamés, les Hollandais jubilaient. Les Canadiens ont été accueillis à bras ouverts. Ce moment a forgé, entre les deux nations, un lien qui dure depuis et qui durera pendant des générations encore.</ParaText>
+              <ParaText id="4858768">Terrorisés par les bombardements et affamés, les Hollandais jubilaient. Les Canadiens ont été accueillis à bras ouverts. Ce moment a forgé, entre ces deux nations, un lien qui dure depuis et qui durera pendant des générations encore.</ParaText>
               <ParaText id="4858769">Bien des Canadiens d'origine hollandaise dans <Affiliation DbId="214506" Type="2">Flamborough—Glanbrook</Affiliation> étaient là lors de la libération. Ils transmettent leurs souvenirs et les histoires d'héroïsme à leurs enfants, leurs petits-enfants et leurs arrière-petits-enfants.</ParaText>
               <ParaText id="4858770">Je suis fier de cet épisode de notre histoire. Je suis fier que la famille royale néerlandaise ait pu se réfugier ici durant la guerre. Je suis particulièrement fier que le drapeau du Canada flotte aux quatre coins des Pays-Bas le 5 mai de chaque année, Jour de la libération.</ParaText>
             </Content>
@@ -701,7 +701,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229484" Type="18">M. Jean Rioux (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858780">Madame la Présidente, nous verrons à ce que les militaires canadiens aient tous les avantages voulus pour s'acquitter de leurs tâches. Ils seront payés rétroactivement. C'est le gouvernement actuel qui s'est empressé de remédier à l'iniquité frappant les soldats qui ont perdu leur exonération fiscale dans le cadre de l'opération IMPACT. Notre gouvernement s'emploie activement à examiner les règles de rémunération et à trouver une solution à long terme pour remédier au gâchis dont il a hérité et pour assurer un processus juste et équitable pour tous. </ParaText>
+              <ParaText id="4858780">Madame la Présidente, nous verrons à ce que les militaires canadiens aient tous les avantages voulus pour s'acquitter de leurs tâches. Ils seront payés rétroactivement. C'est le gouvernement actuel qui s'est empressé de remédier à l'iniquité frappant les soldats qui ont perdu leur exonération fiscale dans le cadre de l'opération Impact. Notre gouvernement s'emploie activement à examiner les règles de rémunération et à trouver une solution à long terme pour remédier au gâchis dont il a hérité et pour assurer un processus juste et équitable pour tous. </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -728,7 +728,7 @@
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4858785">Madame la Présidente, le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> a perdu toute crédibilité en s'appropriant des faits d'armes qui ne sont pas les siens. On ne sait toujours pas pourquoi il a agi de la sorte, car il ne l'a jamais dit. </ParaText>
-              <ParaText id="4858786">Depuis, il tente de vaquer à ses occupations, comme si de rien n'était. Or quelque chose a changé. Les hommes et femmes en uniforme ont honte du ministre de la Défense nationale. Il déshonore aussi ceux qui ont déjà porté l'uniforme. </ParaText>
+              <ParaText id="4858786">Depuis, il tente de vaquer à ses occupations comme si de rien n'était. Or quelque chose a changé. Les hommes et femmes en uniforme ont honte du ministre de la Défense nationale. Il déshonore aussi ceux qui ont déjà porté l'uniforme. </ParaText>
               <ParaText id="4858787">La personne à la tête de nos troupes ne peut pas forger la vérité comme bon lui semble. Va-t-il démissionner?</ParaText>
             </Content>
           </Intervention>
@@ -760,13 +760,13 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9506045">
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La reddition des comptes par le gouvernement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Boulerice" id="9506044">
             <PersonSpeaking>
               <Affiliation DbId="214102" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858795">Madame la Présidente, le gouvernement libéral a encombré son projet de loi sur le budget d'un paquet de trucs qui en font un nouveau projet de loi omnibus, contrairement à ce qu'il avait promis. Il s'attaque, entre autres, au directeur parlementaire du budget et il réduit sa capacité et sa liberté de lancer des enquêtes en cours de mandat. Il empêche aussi tous les députés de demander des enquêtes ou des études sur des sujets dérangeants pour le gouvernement. Assez bizarrement, il demande au directeur parlementaire du budget de soumettre son plan à la présidence de la Chambre des communes et à la présidence du Sénat. </ParaText>
+              <ParaText id="4858795">Madame la Présidente, le gouvernement libéral a encombré son projet de loi sur le budget d'un tas de trucs qui en font un nouveau projet de loi omnibus, contrairement à ce qu'il avait promis. Il s'attaque, entre autres, au directeur parlementaire du budget et il réduit sa capacité et sa liberté de lancer des enquêtes en cours de mandat. Il empêche aussi tous les députés de demander des enquêtes ou des études sur des sujets dérangeants pour le gouvernement. Assez bizarrement, il demande au directeur parlementaire du budget de soumettre son plan à la présidence de la Chambre des communes et à la présidence du Sénat. </ParaText>
               <ParaText id="4858796">J'ai une question fort simple: que se passe-t-il s'ils disent non?</ParaText>
             </Content>
           </Intervention>
@@ -850,7 +850,7 @@
               <Affiliation DbId="214234" Type="2">Mme Karen Vecchio (Elgin—Middlesex—London, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4858816">Madame la Présidente, hier soir, les activités de financement du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> donnant un accès privilégié ont repris de plus belle. Toutefois, il y a trois jours, le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation>, qui devait assister à une activité de financement pour les anciens combattants d'Afghanistan, s'est désisté au dernier moment, sans aucune raison valable.</ParaText>
-              <ParaText id="4858817">Les libéraux nous montrent leurs vraies priorités. Les militaires et les anciens combattants n'en font pas partie. Pourquoi le gouvernement libéral trouve-t-il le temps pour servir les intérêts des gens qui donnent de gros chèques au Parti libéral, mais pas pour assister à une activité de financement pour les anciens combattants et les militaires canadiens?</ParaText>
+              <ParaText id="4858817">Les libéraux nous montrent leurs vraies priorités. Les militaires et les anciens combattants n'en font pas partie. Pourquoi le gouvernement libéral trouve-t-il du temps pour servir les intérêts des gens qui donnent de gros chèques au Parti libéral, mais pas pour assister à une activité de financement pour les anciens combattants et les militaires canadiens?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gould" id="9506067">
@@ -875,7 +875,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229484" Type="18">M. Jean Rioux (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858823">Monsieur le Président, le ministre a admis, la fin de semaine dernière, qu'il avait commis une erreur en décrivant son rôle. Il a rectifié le tir à la Chambre, plus tôt cette semaine, et s'est excusé.</ParaText>
+              <ParaText id="4858823">Madame la Présidente, le ministre a admis, la fin de semaine dernière, qu'il avait commis une erreur en décrivant son rôle. Il a rectifié le tir à la Chambre, plus tôt cette semaine, et s'est excusé.</ParaText>
               <ParaText id="4858824"> Les commentaires émis par le ministre n'avaient aucunement pour but de diminuer le rôle des anciens supérieurs et de ses frères d'armes. Il s'est excusé auprès d'eux de la façon la plus sincère. Le ministre est fier d'avoir servi son pays au sein d'une équipe extraordinaire composée de soldats canadiens, américains et afghans qui ont fait de l'opération Méduse un succès.</ParaText>
             </Content>
           </Intervention>
@@ -894,7 +894,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229484" Type="18">M. Jean Rioux (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858827">Madame la Présidente, la responsabilité première du <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> et de notre gouvernement est de veiller aux intérêts de nos troupes et de faire en sorte qu'elles disposent du soutien, de la formation et de l'équipement nécessaire pour mener à bien les diverses missions qui leur sont confiées.</ParaText>
+              <ParaText id="4858827">Madame la Présidente, la responsabilité première du <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> et de notre gouvernement est de veiller aux intérêts de nos troupes et de faire en sorte qu'elles disposent du soutien, de la formation et de l'équipement nécessaires pour mener à bien les diverses missions qui leur sont confiées.</ParaText>
               <ParaText id="4858828"> Depuis un an et demi, c'est exactement l'objectif que s'est donné le ministre, et c'est ce qu'il s'évertue à faire chaque jour. Un des éléments clés de son mandat consiste à donner à notre pays une nouvelle politique de défense. Nous veillons à ce que cette politique soit financée adéquatement.</ParaText>
             </Content>
           </Intervention>
@@ -912,7 +912,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229484" Type="18">M. Jean Rioux (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858833">Monsieur le Président, le ministre a élaboré, au cours de la dernière année, un processus de consultation auprès des experts, de la population et de l'ensemble des députés pour se donner une politique militaire qui va fournir aux militaires les outils, la formation et l'équipement dont ils ont besoin, afin d'assurer la défense du Canada et de l'Amérique du Nord et pour assurer la paix dans le monde.</ParaText>
+              <ParaText id="4858833">Madame la Présidente, le ministre a élaboré, au cours de la dernière année, un processus de consultation auprès des experts, de la population et de l'ensemble des députés pour se donner une politique militaire qui va fournir aux militaires les outils, la formation et l'équipement dont ils ont besoin, afin d'assurer la défense du Canada et de l'Amérique du Nord et pour assurer la paix dans le monde.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -937,8 +937,8 @@
             <PersonSpeaking>
               <Affiliation DbId="214534" Type="2">M. John Brassard (Barrie—Innisfil, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Madame la Présidente, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne peut pas continuer de faire l'autruche et de prétendre que les Canadiens font encore confiance au <Affiliation DbId="214311" Type="4">ministre de la Défense</Affiliation>. Chaque fois que le ministre entrera dans une base, prendra l'avion, embarquera sur un navire ou s'adressera à nos troupes, cela reviendra le hanter. Cela le hantera, parce que dès qu'il a choisi d'embellir toutes ces fois la vérité, il a perdu le respect et la confiance des militaires et des anciens combattants. Le ministre a perdu toute crédibilité à leurs yeux, et il le sait.</ParaText>
-              <ParaText>Pour ces raisons, le ministre aura-t-il la décence de démissionner?</ParaText>
+              <ParaText id="4986829">Madame la Présidente, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ne peut pas continuer de faire l'autruche et de prétendre que les Canadiens font encore confiance au <Affiliation DbId="214311" Type="4">ministre de la Défense</Affiliation>. Chaque fois que le ministre entrera dans une base, prendra l'avion, embarquera sur un navire ou s'adressera à nos troupes, cela reviendra le hanter. Cela le hantera, parce que dès qu'il a choisi d'embellir toutes ces fois la vérité, il a perdu le respect et la confiance des militaires et des anciens combattants. Le ministre a perdu toute crédibilité à leurs yeux, et il le sait.</ParaText>
+              <ParaText id="4986830">Pour ces raisons, le ministre aura-t-il la décence de démissionner?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -946,7 +946,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229484" Type="18">M. Jean Rioux (secrétaire parlementaire du ministre de la Défense nationale, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858837">Madame la Présidente, la crédibilité du ministre est affirmée par tous les efforts qu'il a fournis pour élaborer une nouvelle politique de défense. Il s'agit d'une consultation qui n'avait pas été faite depuis 20 ans. </ParaText>
+              <ParaText id="4858837">Madame la Présidente, la crédibilité du ministre est démontrée par tous les efforts qu'il a fournis pour élaborer une nouvelle politique de défense. Il s'agit d'une consultation qui n'avait pas été faite depuis 20 ans. </ParaText>
               <ParaText id="4858838">Cette politique nous permettra de nous assurer que tous les hommes et les femmes des Forces armées canadiennes ont l'équipement, la formation et le respect dont ils ont besoin pour accomplir leurs missions aussi bien que le Canada a la réputation de le faire.</ParaText>
             </Content>
           </Intervention>
@@ -1127,7 +1127,7 @@
             <Content>
               <ParaText id="4858875">Madame la Présidente, le gouvernement a été élu sur la base d'un programme qui promettait de bâtir des collectivités durables aux quatre coins de ce magnifique pays.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4858876">La Ville de Winnipeg travaille avec le gouvernement fédéral pour rebâtir notre infrastructure pour nos concitoyens. </ParaText>
+              <ParaText id="4858876">La Ville de Winnipeg travaille avec le gouvernement fédéral pour rebâtir nos infrastructures pour nos concitoyens. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4858877">La Ville de Winnipeg travaille avec le gouvernement fédéral à rebâtir des infrastructures, pour le plus grand bien des résidants. Le ministre peut-il faire le point sur les avantages de la taxe sur l'essence pour les habitants de Winnipeg?</ParaText>
             </Content>
@@ -1164,7 +1164,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213937" Type="2">Mme Sylvie Boucher (Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858882">Madame la Présidente, nous savons tous que le parti d'en face se fout complètement des régions et des emplois qui y sont reliés. Le gouvernement libéral avait en main une entente sur le bois d'oeuvre avec l'ancienne administration américaine, mais il a préféré jouer au plus fin avec l'équipe de Trump. Eh bien, les libéraux se sont fait passer un sapin. Aujourd'hui, c'est l'industrie forestière qui paie le prix de leur incompétence: il y a une augmentation de 24 % sur le prix des importations canadiennes du bois d'oeuvre. </ParaText>
+              <ParaText id="4858882">Madame la Présidente, nous savons tous que le parti d'en face se fout complètement des régions et des emplois qui y sont reliés. Le gouvernement libéral avait en main une entente sur le bois d'oeuvre avec l'ancienne administration américaine, mais il a préféré jouer au plus fin avec l'équipe de Trump. Eh bien, les libéraux se sont fait passer un sapin. Aujourd'hui, c'est l'industrie forestière qui paie le prix de leur incompétence: il y a une augmentation de 24 % du prix des importations canadiennes du bois d'oeuvre. </ParaText>
               <ParaText id="4858883">Si les libéraux avaient un accord, pourquoi l'ont-ils laissé passer, et quand prendront-ils enfin au sérieux le bois d'oeuvre et nos régions?</ParaText>
             </Content>
           </Intervention>
@@ -1252,7 +1252,7 @@
             <PersonSpeaking>
               <Affiliation DbId="213967" Type="2">M. François Choquette (Drummond, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858899">Madame la Présidente, on apprend qu'il faut des années pour avoir accès en français aux jugements des cours fédérales. Le commissariat aux langues officielles enquête sur ce problème depuis 2007. Les plaintes s'accumulent depuis 10 ans. Voilà encore une preuve que le gouvernement n'a aucun leadership en matière de langues officielles. Avoir accès aux jugements des cours fédérales dans sa langue, c'est un droit.</ParaText>
+              <ParaText id="4858899">Madame la Présidente, on apprend qu'il faut des années pour avoir accès en français aux jugements des cours fédérales. Le Commissariat aux langues officielles enquête sur ce problème depuis 2007. Les plaintes s'accumulent depuis 10 ans. Voilà encore une preuve que le gouvernement n'a aucun leadership en matière de langues officielles. Avoir accès aux jugements des cours fédérales dans sa langue, c'est un droit.</ParaText>
               <ParaText id="4858900">Ma question s'adresse à la <Affiliation DbId="214327" Type="4">ministre du Patrimoine canadien</Affiliation> et des langues officielles. Va-t-elle attendre encore 10 ans avant de régler le problème?</ParaText>
             </Content>
           </Intervention>
@@ -1297,7 +1297,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214171" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858907">Madame la Présidente, motivé par la tragédie de Lac-Mégantic, le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> devance d'un an la révision de la Loi sur la sécurité ferroviaire. Malheureusement, dans le dernier budget et dans le programme d'amélioration en sécurité ferroviaire, aucun geste n'a été posé pour aider ceux qui souffrent encore, soit les citoyens et les citoyennes de Lac-Mégantic. La voie de contournement et l'Institut en culture de sécurité industrielle sont deux projets qui peuvent faire toute la différence.</ParaText>
+              <ParaText id="4858907">Madame la Présidente, motivé par la tragédie de Lac-Mégantic, le <Affiliation DbId="214333" Type="4">ministre des Transports</Affiliation> devance d'un an la révision de la Loi sur la sécurité ferroviaire. Malheureusement, dans le dernier budget et dans le programme d'amélioration en sécurité ferroviaire, aucun geste n'a été posé pour aider ceux qui souffrent encore, soit les citoyens et les citoyennes de Lac-Mégantic. La voie de contournement et l'Institut en culture de sécurité industrielle sont deux projets qui peuvent changer les choses.</ParaText>
               <ParaText id="4858908">Quand le ministre des Transports va-t-il passer de la parole aux actes et soutenir de vrais projets pour la sécurité ferroviaire pour Lac-Mégantic et pour tout le Canada?</ParaText>
             </Content>
           </Intervention>
@@ -1306,7 +1306,7 @@
               <Affiliation DbId="229506" Type="18">Mme Karen McCrimmon (secrétaire parlementaire du ministre des Transports, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4858909">Madame la Présidente, je voudrais remercier mon collègue de sa question, parce que je sais que c'est très important pour lui et pour la communauté. </ParaText>
-              <ParaText id="4858910">Nos pensées continuent d'être avec les familles et les proches des victimes de la tragédie. Notre gouvernement est fermement engagé à améliorer la sécurité ferroviaire, et c'est la priorité absolue du ministre. L'étude du dossier qu'il a mentionné se poursuit, et c'est pourquoi...</ParaText>
+              <ParaText id="4858910">Nos pensées continuent d'être avec les familles et les proches des victimes de la tragédie. Notre gouvernement s'est fermement engagé à améliorer la sécurité ferroviaire, et c'est la priorité absolue du ministre. L'étude du dossier qu'il a mentionné se poursuit, et c'est pourquoi...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Hughes" id="9506552">
@@ -1349,8 +1349,8 @@
             <PersonSpeaking>
               <Affiliation DbId="213884" Type="2">M. Denis Lemieux (Chicoutimi—Le Fjord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858917">Madame la Présidente, comme le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> l'a souvent réitéré à la Chambre, nous voulons faire en sorte que nos militaires disposent des outils, des ressources et du soutien qui leur permettront de mener à bien les missions qui leur sont confiées.</ParaText>
-              <ParaText id="4858918">Est-ce que le <Affiliation DbId="229484" Type="18">secrétaire parlementaire du ministre de la Défense nationale</Affiliation> peut nous donner un exemple de la façon dont le gouvernement compte atteindre son objectif qui consiste à mettre sur pied une force militaire moderne, plus souple et mieux équipée pour répondre aux défis d'aujourd'hui et de demain?</ParaText>
+              <ParaText id="4858917">Madame la Présidente, comme le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> l'a souvent répété à la Chambre, nous voulons faire en sorte que nos militaires disposent des outils, des ressources et du soutien qui leur permettront de mener à bien les missions qui leur sont confiées.</ParaText>
+              <ParaText id="4858918">Est-ce que le <Affiliation DbId="229484" Type="18">secrétaire parlementaire du ministre de la Défense nationale</Affiliation> peut nous donner un exemple de la façon dont le gouvernement compte atteindre son objectif, qui consiste à mettre sur pied une force militaire moderne, plus souple et mieux équipée pour répondre aux défis d'aujourd'hui et de demain?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Rioux" id="9506229">
@@ -1394,7 +1394,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214294" Type="2">M. Greg Fergus (Hull—Aylmer, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858926">Madame la Présidente, de nombreuses communautés riveraines font présentement face à des inondations qui causent des dommages importants. Les bénévoles et les premiers intervenants accomplissent un travail colossal, que ce soit au Québec ou en Ontario, afin d'aider les gens touchés, et nous les remercions tous pour leur merveilleux travail. </ParaText>
+              <ParaText id="4858926">Madame la Présidente, de nombreuses communautés riveraines font présentement face à des inondations qui causent des dommages importants. Les bénévoles et les premiers intervenants accomplissent un travail colossal, que ce soit au Québec ou en Ontario, afin d'aider les gens touchés, et nous les remercions tous de leur merveilleux travail. </ParaText>
               <ParaText id="4858927">Le <Affiliation DbId="214300" Type="4">ministre de la Sécurité publique</Affiliation> peut-il nous offrir une mise à jour quant au rôle que joue le gouvernement fédéral afin de soutenir les communautés touchées?</ParaText>
             </Content>
           </Intervention>
@@ -1403,7 +1403,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214300" Type="4">L'hon. Ralph Goodale (ministre de la Sécurité publique et de la Protection civile, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858928">Madame la Présidente, nos pensées accompagnent les Canadiens touchés par les inondations. Notre gouvernement est toujours prêt à aider toute province ou territoire qui demande de l'aide. </ParaText>
+              <ParaText id="4858928">Madame la Présidente, nos pensées accompagnent les Canadiens touchés par les inondations. Notre gouvernement est toujours prêt à aider toute province ou tout territoire qui demande de l'aide. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="4858929">Le Centre des opérations du gouvernement, qui relève de mon ministère, est prêt à intervenir. Nous sommes en discussion avec tous les gouvernements provinciaux touchés. D'ailleurs, nous communiquerons encore avec eux aujourd'hui.</ParaText>
               <ParaText id="4858930">Il revient aux gouvernements provinciaux de demander de l'aide. Si on le lui demande, le gouvernement du Canada interviendra rapidement. </ParaText>
@@ -1436,7 +1436,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9506254">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les ressources naturelles</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'environnement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Pauzé" id="9506248">
             <PersonSpeaking>
@@ -1484,7 +1484,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214211" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4858946">Madame la Présidente, Produits forestiers Résolu confirme ce que tout le monde craignait: il va y avoir de perte d'emplois dans l'industrie forestière à cause du conflit.</ParaText>
+              <ParaText id="4858946">Madame la Présidente, Produits forestiers Résolu confirme ce que tout le monde craignait: il va y avoir des pertes d'emplois dans l'industrie forestière à cause du conflit.</ParaText>
               <ParaText id="4858947">Dans mon coin, à Chertsy, à Saint-Michel-des-Saints et à Saint-Jean-de-Matha, mon village natal, tout le monde est inquiet. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> s'est engagé aujourd'hui à soutenir les entreprises et les régions affectées par le conflit du bois d'oeuvre.</ParaText>
               <ParaText id="4858948">Est-ce que le gouvernement va honorer l'engagement pris par le premier ministre envers les communautés forestières du Québec et octroyer, sans délai, des garanties de prêts pour soutenir le secteur forestier?</ParaText>
             </Content>
@@ -1520,7 +1520,7 @@
               <Affiliation DbId="214666" Type="18">Mme Yvonne Jones (secrétaire parlementaire de la ministre des Affaires autochtones et du Nord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4858955">
-                <I>Nakurmiik</I>, madame la Présidente. <I>Nakurmiik</I>, chers collègues. Je tiens à souligner le travail et la contribution immenses de mon collègue de <Affiliation DbId="214600" Type="2">Nunavut</Affiliation> dans le dossier de Nutrition Nord.</ParaText>
+                <I>Nakurmiik</I>, madame la Présidente. Je tiens à souligner le travail et la contribution immenses de mon collègue de <Affiliation DbId="214600" Type="2">Nunavut</Affiliation> dans le dossier de Nutrition Nord.</ParaText>
               <ParaText id="4858956">Comme les députés le savent, nous menons beaucoup de consultations auprès des habitants du Nord. Nous savons qu'il est inacceptable qu'ils peinent à nourrir leur famille et nous avons bien l'intention de présenter un nouveau programme qui répondra à leurs besoins.</ParaText>
               <ParaText id="4858957"> Les résultats de l'examen du programme ont été mis en ligne. Nous avons consulté 3 500 personnes et nous avons reçu des mémoires. Nous espérons pouvoir très bientôt lancer un nouveau programme.</ParaText>
             </Content>
@@ -1564,8 +1564,8 @@
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Je remercie la leader de l'opposition à la Chambre de ces observations supplémentaires. J'en tiendrai compte durant mes délibérations sur la question. Je présenterai ma réponse à la Chambre aussitôt que possible, ce qui sera sans doute bientôt.</ParaText>
-              <ParaText>Le secrétaire parlementaire de la leader du gouvernement à la Chambre a la parole.</ParaText>
+              <ParaText id="4986831">Je remercie la leader de l'opposition à la Chambre de ces observations supplémentaires. J'en tiendrai compte durant mes délibérations sur la question. Je présenterai ma réponse à la Chambre aussitôt que possible, ce qui sera sans doute bientôt.</ParaText>
+              <ParaText id="4986832">Le secrétaire parlementaire de la leader du gouvernement à la Chambre a la parole.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1967,7 +1967,7 @@ En ce qui a trait à la partie b)(iii) de la question, aucuns fonds de publicit�
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 1 d'exécution du budget de 2017</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ParaText>La Chambre reprend l'étude, interrompue le 4 mai, de la motion portant que le projet de loi <Document DbId="8874160" Type="3">C-44, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2017 et mettant en oeuvre d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que de l'amendement. </ParaText>
+          <ParaText id="4986833">La Chambre reprend l'étude, interrompue le 4 mai, de la motion portant que le projet de loi <Document DbId="8874160" Type="3">C-44, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2017 et mettant en oeuvre d'autres mesures</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que de l'amendement. </ParaText>
           <ProceduralText TocType="TPC" id="2">Projet de loi C-44. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="9506309">
             <PersonSpeaking>
@@ -2223,7 +2223,7 @@ En ce qui a trait à la partie b)(iii) de la question, aucuns fonds de publicit�
             <PersonSpeaking>
               <Affiliation DbId="213881" Type="2">Mme Linda Duncan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4859126">Madame la présidente, voilà une excellente question qu'il faut évidemment se poser. Pendant la période des questions aujourd'hui même, les députés ministériels ont affirmé qu'ils allaient s'en remettre au Président pour savoir s'ils peuvent scinder les projets de loi omnibus et pour déterminer quels comités doivent les étudier.</ParaText>
+              <ParaText id="4859126">Madame la Présidente, voilà une excellente question qu'il faut évidemment se poser. Pendant la période des questions aujourd'hui même, les députés ministériels ont affirmé qu'ils allaient s'en remettre au Président pour savoir s'ils peuvent scinder les projets de loi omnibus et pour déterminer quels comités doivent les étudier.</ParaText>
               <ParaText id="4859127">Cependant, comme je l'ai indiqué dans mon discours, les libéraux ont promis au cours de la campagne électorale qu'il n'y aurait jamais plus de projet de loi omnibus. Ils se sont aussi engagés à créer un bureau indépendant pour le directeur parlementaire du budget, ce qui nous aiderait à exiger des comptes du gouvernement concernant les dépenses de l'État. Lorsque les libéraux étaient dans l'opposition, ils se plaignaient des projets de loi omnibus du gouvernement conservateur, et ils voulaient certainement créer un poste de directeur parlementaire du budget capable d'oeuvrer en toute indépendance. Nous voyons maintenant qu'ils faisaient preuve d'une certaine hypocrisie. </ParaText>
             </Content>
           </Intervention>
@@ -2388,14 +2388,11 @@ En ce qui a trait à la partie b)(iii) de la question, aucuns fonds de publicit�
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4859195">Je remercie beaucoup le député d'<Affiliation DbId="214133" Type="2">Oxford</Affiliation> pour ces précisions. Nous allons prendre la question en délibéré. Nous allons étudier les arguments qui ont été présentés jusqu'ici sur le sujet et nous efforcer de donner réponse à la Chambre le plus rapidement possible.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4859196">Nous passons aux questions et commentaires. L'honorable député de <Affiliation DbId="214044" Type="2">Saint-Boniface—Saint-Vital</Affiliation> a la parole.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9506647">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 1 d'exécution du budget de 2017</SubjectOfBusinessTitle>
         <CatchLine>Initiatives ministérielles</CatchLine>
         <SubjectOfBusinessContent>
@@ -2489,8 +2486,8 @@ La Chambre reprend l'étude, interrompue le 5 avril, de la motion portant que l
               <ParaText id="4859223">
                 <B>Une voix:</B> <I>That we know of</I>.</ParaText>
               <ParaText id="4859224">
-                <B>M. Alexandre Boulerice:</B> Oui, je pourrais peut-être vérifier.</ParaText>
-              <ParaText id="4859225">Toutefois, madame la Présidente s'il m'importe de me lever, c'est pour faire preuve de solidarité à l'égard des communautés, des travailleurs et des travailleuses de Terre-Neuve-et-Labrador, des Îles-de-la-Madeleine et du Nord du Québec et du Canada, ainsi qu'envers les Inuits et les Premières Nations, pour qui il est important d'avoir une industrie de la chasse au phoque florissante, équilibrée, durable et faite sans cruauté. </ParaText>
+                <B>M. Alexandre Boulerice:</B> Oui, je pourrais peut-être vérifier, madame la Présidente.</ParaText>
+              <ParaText id="4859225">Toutefois, s'il m'importe de me lever, c'est pour faire preuve de solidarité à l'égard des communautés, des travailleurs et des travailleuses de Terre-Neuve-et-Labrador, des Îles-de-la-Madeleine et du Nord du Québec et du Canada, ainsi qu'envers les Inuits et les Premières Nations, pour qui il est important d'avoir une industrie de la chasse au phoque florissante, équilibrée, durable et faite sans cruauté. </ParaText>
               <ParaText id="4859226">Je sais très bien que ce sujet porte à controverse depuis des années. C'est un sujet litigieux qui déchaîne parfois les passions. Toutefois, je pense qu'on doit avoir une approche basée sur la science, le développement durable et l'appui des communautés pour lesquelles c'est une pratique essentielle, traditionnelle et importante.</ParaText>
               <ParaText id="4859227">Au NPD, nous avons toujours cru que la chasse au phoque pouvait être faite de manière responsable, respectueuse et durable. C'est pourquoi nous sommes fiers de nous lever et d'appuyer ce projet de loi visant à instaurer une journée nationale pour les produits du phoque.</ParaText>
               <ParaText id="4859228"> Je pense qu'on peut le faire, car de tout temps, toutes les communautés humaines ont utilisé les ressources naturelles qui étaient proches d'elles pour assurer leur subsistance, leur survie et leur développement. Au départ, nous le faisions par la cueillette, puis par l'agriculture, la pêche et la chasse aux animaux qui nous entouraient. À cette époque, les êtres humains, étant de petites fourmis sur cette immense planète, avaient un impact assez minime sur le reste de leur environnement. </ParaText>
@@ -2614,8 +2611,7 @@ La Chambre reprend l'étude, interrompue le 5 avril, de la motion portant que l
             <Content>
               <ParaText id="4859298">Je tiens à souligner une fois de plus que c'est aujourd'hui l'anniversaire de mariage du député de <Affiliation DbId="214444" Type="2">North Okanagan—Shuswap</Affiliation>.</ParaText>
               <ParaText id="4859299">Je m'en voudrais par ailleurs de ne pas mentionner le fait que mon mari et moi célébrions notre 35<Sup>e</Sup> anniversaire de mariage lundi. Même si nous ne pouvions pas être ensemble ce jour-là, nous savons que nos coeurs le sont toujours, et nous nous rattraperons quand nous serons de retour à la maison.</ParaText>
-              <ParaText id="4859300">
-                <B> La vice-présidente adjointe (Mme Carol Hughes):</B> Le vote porte sur la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
+              <ParaText id="4859300"> Le vote porte sur la motion. Plaît-il à la Chambre d'adopter la motion?</ParaText>
               <ParaText id="4859301">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4859302">
@@ -2625,7 +2621,7 @@ La Chambre reprend l'étude, interrompue le 5 avril, de la motion portant que l
               <ParaText id="4859304">
                 <B>Des voix:</B> Oui.</ParaText>
               <ParaText id="4859305">
-                <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Que tous ceux qui s'y opposent veuillent bien dire non.<ForceColumnBreak /></ParaText>
+                <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Que tous ceux qui s'y opposent veuillent bien dire non.</ParaText>
               <ParaText id="4859306">
                 <B>Une voix:</B> Non.</ParaText>
               <ParaText id="4859307">À mon avis, les oui l'emportent.</ParaText>

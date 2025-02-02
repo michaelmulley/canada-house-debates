@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9528893">
-  <StartPageNumber>11169</StartPageNumber>
+  <StartPageNumber>11163</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -136,6 +136,7 @@
               <ParaText id="4875371">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4875372">[<I>Le vice-président adjoint s'exprime en italien.</I>]</ParaText>
+              <ParaText id="4986898">[<I>Français</I>]</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Di Iorio" id="9528921">
@@ -204,7 +205,7 @@
               <ParaText id="4875406">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4875407">
-                <B>Le vice-président adjoint (M. Anthony Rota):</B> Il y a consentement. Veuillez m'excuser. Vous pouvez continuer.</ParaText>
+                <B>Le vice-président adjoint (M. Anthony Rota):</B> Il y a consentement. La députée peut continuer.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mme Tassi" id="9528936">
@@ -349,15 +350,15 @@
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Monsieur le Président, pour commencer, j'aimerais vous souhaiter un très joyeux anniversaire. C'est une journée formidable et nous vous souhaitons le meilleur en cette journée et pendant de nombreuses années encore.</ParaText>
-              <ParaText>J'informe la Chambre que la majorité des représentants des partis reconnus sont arrivés à un accord aux termes des dispositions du paragraphe 78(2) du Règlement en ce qui concerne l'étude des amendements apportés par le Sénat au projet de loi <Document DbId="8689350" Type="3">C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois</Document>. Je propose donc:</ParaText>
+              <ParaText id="4988124">Monsieur le Président, pour commencer, j'aimerais vous souhaiter un très joyeux anniversaire. C'est une journée formidable et nous vous souhaitons le meilleur en cette journée et pendant de nombreuses années encore.</ParaText>
+              <ParaText id="4988125"> J'informe la Chambre que la majorité des représentants des partis reconnus sont arrivés à un accord aux termes des dispositions du paragraphe 78(2) du Règlement en ce qui concerne l'étude des amendements apportés par le Sénat au projet de loi <Document DbId="8689350" Type="3">C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois</Document>. Je propose donc:</ParaText>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
-              <ParaText>
+              <ParaText id="4988126">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, relativement au projet de loi <Document DbId="8689350" Type="3">C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois</Document>, au plus un jour de séance supplémentaire soit accordé aux délibérations à l’étape de l'étude des amendements apportés par le Sénat à ce projet de loi; </QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText>
+              <ParaText id="4988127">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">que, 15 minutes avant l’expiration du temps prévu pour les Ordres émanant du gouvernement au cours du jour de séance attribué pour l’étude de cette étape de ce projet de loi, toute délibération devant la Chambre soit interrompue, s’il y a lieu aux fins de cet ordre, et, par la suite, toute question nécessaire pour disposer de cette étape soit mise aux voix immédiatement et successivement, sans plus ample débat ni amendement. </QuotePara>
                 </Quote>
@@ -727,7 +728,7 @@
         <SubjectOfBusinessQualifier>Reprise du débat</SubjectOfBusinessQualifier>
         <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
         <SubjectOfBusinessContent>
-          <ParaText id="4875493">La Chambre reprend l'étude, interrompue le 12 mai, de la motion, ainsi que de l'amendement.</ParaText>
+          <ParaText id="4875493">La Chambre reprend l'étude, interrompue le 12 mai, de la motion relative aux amendements apportés par le Sénat au projet de loi C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois, ainsi que de l'amendement.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Philpott" id="9529068">
             <PersonSpeaking>
               <Affiliation DbId="214328" Type="4">L’hon. Jane Philpott (ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
@@ -1069,10 +1070,10 @@
             <PersonSpeaking>
               <Affiliation DbId="214183" Type="2">Mme Anju Dhillon (Dorval—Lachine—LaSalle, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4875650">Monsieur le Président, je me lève aujourd'hui pour souhaiter un très joyeux anniversaire à la ville de Lachine. Il y a 350 ans, la France a octroyé le domaine de Saint-Sulpice à l'explorateur René-Robert Cavelier de La Salle. Au fil des siècles, cette simple seigneurie est devenue la troisième paroisse de l'île de Montréal, a marqué le début du trajet vers le Nord pour le troc des fourrures et est littéralement devenue le passage de l'industrie montréalaise, avec la construction de son canal. </ParaText>
+              <ParaText id="4875650">Monsieur le Président, je me lève aujourd'hui pour souhaiter un très joyeux anniversaire à la ville de Lachine. Il y a 350 ans, la France a octroyé le domaine de Saint-Sulpice à l'explorateur René-Robert Cavelier de La Salle. Au fil des siècles, cette simple seigneurie est devenue la troisième paroisse de l'île de Montréal, a marqué le début du trajet vers le Nord pour le troc des fourrures et est littéralement devenue le passage de l'industrie montréalaise, grâce à la construction de son canal. </ParaText>
               <Timestamp Hr="14" Mn="00">(1400)</Timestamp>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4875651">Quiconque prévoit se rendre à Montréal pour participer aux célébrations du 375<Sup>e</Sup> anniversaire doit s'arrêter à Lachine. Des activités y sont prévues tout l'été pour souligner le 150<Sup>e</Sup> anniversaire du Canada et célébrer notre passé tout en nous tournant vers l'avenir.</ParaText>
+              <ParaText id="4875651">Quiconque prévoit se rendre à Montréal pour participer aux célébrations du 375<Sup>e</Sup> anniversaire doit s'arrêter à Lachine. Des activités y sont prévues tout l'été pour souligner notre 350<Sup>e</Sup> anniversaire et célébrer notre passé tout en nous tournant vers l'avenir.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1257,7 +1258,7 @@
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="4875693">On reconnaît Montréal par son visage multiculturel aux goûts diversifiés, experte tant en <I>smoke meat</I> qu'en soupe tonkinoise et en poutine. Le drapeau montréalais arbore la fleur de lys française, la rose anglaise, le chardon écossais et le trèfle irlandais. Pour son anniversaire, la Ville compte y ajouter un symbole autochtone et on doit la féliciter pour cet effort.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="4875694">Montréal, Joyeux 375<Sup>e </Sup> anniversaire. L'avenir est prometteur.</ParaText>
+              <ParaText id="4875694">Montréal, joyeux 375<Sup>e </Sup> anniversaire. L'avenir est prometteur.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1272,7 +1273,7 @@
             <Content>
               <ParaText id="4875695">Monsieur le Président, depuis plusieurs semaines, les citoyens de Berthier—Maskinongé sont aux prises avec des inondations. </ParaText>
               <ParaText id="4875696">Inévitablement, cette crue des eaux causera de nombreux dommages et aura des conséquences importantes. Toutefois, j'aimerais prendre le temps de souligner aujourd'hui les nombreuses initiatives mises en place pour venir en aide aux sinistrés dans Berthier—Maskinongé. </ParaText>
-              <ParaText id="4875697">Un élan de solidarité et de coopération a marqué cette période difficile dans ma circonscription comme partout au Québec. Je pense, entre autres, au groupe SOS Inondation Mauricie regroupant maintenant plus d'une centaine de bénévoles. Je pense aussi aux Éleveurs de volailles de la Rive-Nord, qui ont acheté et distribué des bottes d'eau. Plusieurs restaurants ont également contribué en offrant aux bénévoles de la nourriture et des boissons chaudes. Je les remercie de tout coeur. </ParaText>
+              <ParaText id="4875697">Un élan de solidarité et de coopération a marqué cette période difficile, dans ma circonscription comme partout au Québec. Je pense, entre autres, au groupe SOS Inondation Mauricie regroupant maintenant plus d'une centaine de bénévoles. Je pense aussi aux Éleveurs de volailles de la Rive-Nord, qui ont acheté et distribué des bottes d'eau. Plusieurs restaurants ont également contribué en offrant aux bénévoles de la nourriture et des boissons chaudes. Je les remercie de tout coeur. </ParaText>
               <ParaText id="4875698">En conclusion, alors que la décrue a commencé, je suis persuadée que cette belle mobilisation continuera. Je veux assurer à la population que mon équipe et moi serons avec elle sur le terrain.</ParaText>
             </Content>
           </Intervention>
@@ -1287,11 +1288,11 @@
             <PersonSpeaking>
               <Affiliation DbId="214103" Type="2">L'hon. Tony Clement (Parry Sound—Muskoka, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Monsieur le Président, je prends la parole aujourd'hui pour signaler le décès de l'ancien ministre Ron Atkey. Il nous a quittés malheureusement vendredi dernier.</ParaText>
-              <ParaText>Ron Atkey a été élu député aux Communes pour la première fois dans la circonscription de St. Paul's, à Toronto, lors des élections de 1972, sous la bannière du Parti progressiste conservateur. En 1974, il a été défait, puis il a été élu de nouveau en 1979 et a fait partie du gouvernement minoritaire de Joe Clark, à titre de ministre de l'Emploi et de l'Immigration. Avec l'appui du premier ministre, la ministre Flora MacDonald et M. Atkey ont joué un rôle déterminant dans l'accueil au Canada d'un grand nombre de réfugiés vietnamiens, que l'on appelait à l'époque les réfugiés de la mer.</ParaText>
-              <ParaText>Aux élections de 1980, après cette grande réalisation politique, M. Atkey a perdu son siège de député et il est retourné à la pratique du droit. De 1984 à 1989, il a présidé le Comité de surveillance des activités de renseignement de sécurité.</ParaText>
-              <ParaText>J'ai connu Ron pendant plus de 35 ans. De nombreux amis et de nombreux collègues députés de M. Atkey se joindront sans doute à moi afin d'exprimer notre grande reconnaissance pour ses nombreuses années de dévouement envers le Canada.</ParaText>
-              <ParaText>Nos pensées et nos prières accompagnent sa famille, y compris sa femme, Marie, ainsi que leurs enfants, Erin Tait, Matthew Atkey et Jennifer Price. Il nous manquera beaucoup.</ParaText>
+              <ParaText id="4986899">Monsieur le Président, je prends la parole aujourd'hui pour signaler le décès de l'ancien ministre Ron Atkey. Il nous a quittés malheureusement vendredi dernier.</ParaText>
+              <ParaText id="4986900">Ron Atkey a été élu député aux Communes pour la première fois dans la circonscription de St. Paul's, à Toronto, lors des élections de 1972, sous la bannière du Parti progressiste conservateur. En 1974, il a été défait, puis il a été élu de nouveau en 1979 et a fait partie du gouvernement minoritaire de Joe Clark, à titre de ministre de l'Emploi et de l'Immigration. Avec l'appui du premier ministre, la ministre Flora MacDonald et M. Atkey ont joué un rôle déterminant dans l'accueil au Canada d'un grand nombre de réfugiés vietnamiens, que l'on appelait à l'époque les réfugiés de la mer.</ParaText>
+              <ParaText id="4986901">Aux élections de 1980, après cette grande réalisation politique, M. Atkey a perdu son siège de député et il est retourné à la pratique du droit. De 1984 à 1989, il a présidé le Comité de surveillance des activités de renseignement de sécurité.</ParaText>
+              <ParaText id="4986902">J'ai connu Ron pendant plus de 35 ans. De nombreux amis et de nombreux collègues députés de M. Atkey se joindront sans doute à moi afin d'exprimer notre grande reconnaissance pour ses nombreuses années de dévouement envers le Canada.</ParaText>
+              <ParaText id="4986903">Nos pensées et nos prières accompagnent sa famille, y compris sa femme, Marie, ainsi que leurs enfants, Erin Tait, Matthew Atkey et Jennifer Price. Il nous manquera beaucoup.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1329,7 +1330,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214611" Type="96">L'hon. Rona Ambrose (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4875704">Monsieur le Président, le plan des libéraux pour transformer la politique de défense du Canada prend du retard, et cela créé une incertitude pour notre sécurité nationale et nos militaires. </ParaText>
+              <ParaText id="4875704">Monsieur le Président, le plan des libéraux pour transformer la politique de défense du Canada prend du retard, et cela crée une incertitude pour notre sécurité nationale et nos militaires. </ParaText>
               <ParaText id="4875705">Nous venons d'apprendre que l'administration Trump va avoir un aperçu de la nouvelle politique de défense du Canada avant les Canadiens, ou pire encore, avant les militaires.</ParaText>
               <ParaText id="4875706">Pourquoi le premier ministre va-t-il discuter des plans concernant nos forces armées avec le président Trump avant d'en parler avec les militaires canadiens?</ParaText>
             </Content>
@@ -1392,7 +1393,7 @@
               <Affiliation DbId="214903" Type="96">L’hon. Jody Wilson-Raybould (ministre de la Justice et procureure générale du Canada, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4875717">Monsieur le Président, encore une fois, nous effectuons un examen exhaustif du système de justice pénale, ce qui comprend la réforme du régime de mise en liberté sous caution. C'est la raison pour laquelle, lorsque j'ai rencontré mes collègues des provinces et des territoires, nous avons discuté de ce que nous pourrions faire pour que les gens aient le sentiment que le système de justice pénale protège les victimes et qu'il accroît la sécurité publique. Nous agissons ensemble.</ParaText>
-              <ParaText id="4875718">Après le triste et tragique décès de l'agent Wynn, l'Alberta a produit un rapport. Or, ce rapport ne contient aucune des recommandations qui figurent dans le projet de loi <Document DbId="8082711" Type="4">C-217</Document>.</ParaText>
+              <ParaText id="4875718">Après le triste et tragique décès de l'agent Wynn, l'Alberta a produit un rapport. Or, ce rapport ne contient aucune des recommandations qui figurent dans le projet de loi <Document DbId="8082711" Type="4">S-217</Document>.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ambrose" id="9529344">
@@ -1588,7 +1589,7 @@
             <Content>
               <ParaText id="4875766">Monsieur le Président, la seule certitude que nous avons, c'est que nous nous en allons directement dans un mur.</ParaText>
               <ParaText id="4875767">Ce même rapport interne de KPMG laisse entendre que les citoyens risquent de payer pour les infrastructures de cette banque. On dirait que les libéraux nous cachent quelque chose.</ParaText>
-              <ParaText id="4875768">Si le ministre veut rassurer les Canadiens à l'effet qu'il ne souhaite pas juste faire plaisir à ses petits amis milliardaires, peut-il s'engager, devant la Chambre, qu'en aucun cas les citoyens et le citoyennes ne paieront davantage de taxes et d'impôt pour le futur projet de la Banque de l'infrastructure? </ParaText>
+              <ParaText id="4875768">Si le ministre veut rassurer les Canadiens à l'effet qu'il ne souhaite pas juste faire plaisir à ses petits amis milliardaires, peut-il s'engager, devant la Chambre, à ce qu'en aucun cas les citoyens et le citoyennes ne paieront davantage de taxes et d'impôt pour le futur projet de la Banque de l'infrastructure? </ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1855,7 +1856,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4875825">Monsieur le Président, l'examen de la politique de défense devait être livrée en décembre dernier. Le gouvernement a utilisé des moyens importants: une firme ainsi qu'un groupe de consultants pour tenir des consultations partout au pays.</ParaText>
+              <ParaText id="4875825">Monsieur le Président, l'examen de la politique de défense devait être livré en décembre dernier. Le gouvernement a utilisé des moyens importants: une firme ainsi qu'un groupe de consultants pour tenir des consultations partout au pays.</ParaText>
               <ParaText id="4875826">Or on apprend que c'est le président Trump qui aura le dernier mot sur notre politique de défense. On apprend également que le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation> et la <Affiliation DbId="229209" Type="4">ministre des Affaires étrangères</Affiliation> s'en vont à Washington, probablement après la période des questions orales, pour aller faire approuver notre plan de politique de défense.</ParaText>
               <ParaText id="4875827">Pourquoi les Américains ont-ils le premier droit de regard?</ParaText>
             </Content>
@@ -1931,7 +1932,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214168" Type="2">Mme Karine Trudel (Jonquière, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4875840">Monsieur le Président, aujourd'hui, le conflit du bois d'oeuvre a des retombées bien réelles pour les travailleurs et travailleuses. </ParaText>
+              <ParaText id="4875840">Monsieur le Président, aujourd'hui, le conflit du bois d'oeuvre a des retombées bien réelles pour les travailleurs et les travailleuses. </ParaText>
               <ParaText id="4875841">Au moment où je parle, partout au Saguenay—Lac-Saint-Jean, les usines tournent au ralenti: à Kénogami, à Dolbeau-Mistassini, à Saint-Félicien, à Girardville, à Saint-Thomas et à Normandin. Ce sont 1 285 travailleurs qui vont perdre des heures et, bien entendu, des salaires, et ce, sans parler des familles qui vont vivre dans l'angoisse. Pourquoi? C'est dû à l'inaction du gouvernement libéral. </ParaText>
               <ParaText id="4875842">Quand le gouvernement prendra-t-il des décisions concrètes et immédiates et adoptera-t-il un programme de garanties de prêts pour protéger nos emplois forestiers?</ParaText>
             </Content>
@@ -2303,9 +2304,9 @@
               <Affiliation DbId="224669" Type="4">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ParaText>propose:</ParaText>
+              <ParaText id="4988128"> propose:</ParaText>
               <ProceduralText TocType="TPC" id="6">Motion</ProceduralText>
-              <ParaText>
+              <ParaText id="4988129">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, conformément au paragraphe 4(5) de la Loi sur l’emploi dans la fonction publique, L.C. 2003, ch. 22, et conformément à l’article 111.1 du Règlement, la Chambre approuve la nomination de Patrick Borbey à titre de président de la Commission de la fonction publique pour un mandat de sept ans.</QuotePara>
                 </Quote>
@@ -2684,7 +2685,7 @@
               <ParaText id="4875937">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ProceduralText TocType="TPC" id="10">Adoption de la motion</ProceduralText>
-              <ProceduralText TocType="TCC" TocText="Agrément, troisième lecture et adoption du projet de loi" id="11">(Le projet de loi est agréé, lu pour la troisième fois et adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Agrément, troisième lecture et adoption du projet de loi" id="11">(La motion est adoptée, et le projet de loi est agréé, lu pour la troisième fois et adopté.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2880,8 +2881,8 @@
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La loi réglementant certaines drogues et autres substances</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="12">Projet de loi C-37. Motion</ProceduralText>
-          <ParaText id="4875967">La Chambre reprend l'étude de la motion, ainsi que de l'amendement.</ParaText>
+          <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
+          <ParaText id="4875967">La Chambre reprend l'étude, interrompue le 12 mai, de la motion relative aux amendements apportés par le Sénat au projet de loi C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois, ainsi que de l'amendement.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="9529661">
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -2904,9 +2905,9 @@
               <ParaText id="4875975">Les toxicomanes qui se présentent à ces cliniques ont désespérément besoin d'aide. Il faudrait leur offrir des soins légaux et sûrs, et non des substances toxiques et dangereuses fabriquées par des criminels. Pourquoi les libéraux n'offrent-ils pas des substituts légaux aux toxicomanes, ainsi que les mêmes soins de qualité que ceux prodigués aux autres Canadiens atteints d'affections pouvant être traitées?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" ToCText="M. Lametti" id="9529668">
+          <Intervention Type="Debate" ToC="Yes" ToCText="M. Lametti" id="9529668">
             <PersonSpeaking>
-              <Affiliation DbId="229508" Type="18">M. David Lametti</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="229508" Type="18">M. David Lametti (secrétaire parlementaire du ministre de l’Innovation, des Sciences et du Développement économique, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4875976">Madame la Présidente, le projet de loi est le fruit de consultations sur le terrain, par l'entremise de la <Affiliation DbId="214321" Type="4">ministre de la Justice</Affiliation>. Il est le résultat d'un appel à l'aide de la collectivité afin que l'on remédie à la situation. Nous estimons présenter le meilleur ensemble de mesures pour venir en aide aux gens qui en ont besoin, d'une manière qui est rapide et efficace, qui satisfait aux besoins médicaux et qui est adaptée aux besoins de la collectivité. Les amendements du Sénat que nous appuyons n'entravent pas l'atteinte de cet objectif, ceux que nous rejetons le font. Nous jugeons que l'amendement dont parle le député appartient à cette dernière catégorie.</ParaText>
             </Content>
@@ -3009,7 +3010,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214197" Type="2">M. Sukh Dhaliwal (Surrey—Newton, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4876026">Madame la présidente, j'aimerais donner quelques chiffres provenant du centre d'injection InSite de Vancouver. En 2005, 6 532 personnes ont eu recours au centre à plus de 263 000 reprises globalement. Depuis 2003, 2 395 surdoses ont été traitées par du personnel médical, et aucune d'elles n'a entraîné la mort. Qui plus est, chaque année, des milliers de gens sont aiguillés par les services médicaux; ainsi, les utilisateurs du centre sont plus susceptibles que les autres toxicomanes d'accepter un traitement dans une proportion de 30 %. </ParaText>
+              <ParaText id="4876026">Madame la Présidente, j'aimerais donner quelques chiffres provenant du centre d'injection InSite de Vancouver. En 2005, 6 532 personnes ont eu recours au centre à plus de 263 000 reprises globalement. Depuis 2003, 2 395 surdoses ont été traitées par du personnel médical, et aucune d'elles n'a entraîné la mort. Qui plus est, chaque année, des milliers de gens sont aiguillés par les services médicaux; ainsi, les utilisateurs du centre sont plus susceptibles que les autres toxicomanes d'accepter un traitement dans une proportion de 30 %. </ParaText>
               <ParaText id="4876027">Alors qu'il existe un grave problème de surdoses dans des villes comme Surrey et Vancouver, la députée convient-elle que nous devrions faire tout ce qui est nécessaire sans délai et accélérer l'adoption du projet de loi <Document DbId="8689350" Type="3">C-37</Document> pour régler la crise et venir en aide aux gens?</ParaText>
             </Content>
           </Intervention>
@@ -3706,8 +3707,8 @@
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText>Monsieur le Président, il n'a pas été possible d'arriver à un accord visé aux paragraphes 78(1) ou 78(2) du Règlement en ce qui concerne l'étude des amendements par le Sénat au projet de loi <Document DbId="8126682" Type="3">C-7, Loi modifiant la Loi sur les relations de travail dans la fonction publique, la Loi sur la Commission des relations de travail et de l'emploi dans la fonction publique et d'autres lois et comportant d'autres mesures</Document>.</ParaText>
-              <ParaText>En vertu des dispositions du paragraphe 78(3) du Règlement, je donne avis que, à la prochaine séance de la Chambre, un ministre proposera une motion prévoyant pour les délibérations à cette étape un certain nombre de jours ou d'heures.</ParaText>
+              <ParaText id="4988130"> Monsieur le Président, il n'a pas été possible d'arriver à un accord visé aux paragraphes 78(1) ou 78(2) du Règlement en ce qui concerne l'étude des amendements par le Sénat au projet de loi <Document DbId="8126682" Type="3">C-7, Loi modifiant la Loi sur les relations de travail dans la fonction publique, la Loi sur la Commission des relations de travail et de l'emploi dans la fonction publique et d'autres lois et comportant d'autres mesures</Document>.</ParaText>
+              <ParaText id="4988131">En vertu des dispositions du paragraphe 78(3) du Règlement, je donne avis que, à la prochaine séance de la Chambre, un ministre proposera une motion prévoyant pour les délibérations à cette étape un certain nombre de jours ou d'heures.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3715,7 +3716,7 @@
       <SubjectOfBusiness id="9531714">
         <SubjectOfBusinessTitle>La Loi réglementant certaines drogues et autres substances</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ParaText id="4876297">La Chambre reprend l'étude de la motion, ainsi que de l'amendement.</ParaText>
+          <ParaText id="4876297">La Chambre reprend l'étude, interrompue le 12 mai, de la motion relative aux amendements apportés par le Sénat au projet de loi C-37, Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d'autres lois, ainsi que de l'amendement.</ParaText>
           <ProceduralText TocType="TPC" id="13">Motion</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. McDonald" id="9531608">
             <PersonSpeaking>
@@ -4565,7 +4566,7 @@
             <PersonSpeaking>
               <Affiliation DbId="229494" Type="18">M. Mark Holland (secrétaire parlementaire du ministre de la Sécurité publique et de la Protection civile, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4876379">Madame la Présidente, le gouvernement est profondément préoccupé par le nombre sans cesse croissant de surdoses accidentelles d'opioïdes, comme le fentanyl et le carfentanil, et de décès qui surviennent au Canada. Nous sommes conscients qu'il s'agit d'un problème complexe et qu'aucun organisme ou gouvernement ne peut le régler à lui seul.</ParaText>
+              <ParaText id="4876379">Monsieur le  Président, le gouvernement est profondément préoccupé par le nombre sans cesse croissant de surdoses accidentelles d'opioïdes, comme le fentanyl et le carfentanil, et de décès qui surviennent au Canada. Nous sommes conscients qu'il s'agit d'un problème complexe et qu'aucun organisme ou gouvernement ne peut le régler à lui seul.</ParaText>
               <ParaText id="4876380">Il y a plusieurs mois déjà, le gouvernement a reconnu que le Canada était frappé par une crise des opioïdes et il n'a pas cessé, depuis ce temps, de prendre toutes sortes de mesures concrètes et décisives. En étroite collaboration avec les provinces, les territoires, les organismes communautaires, le milieu universitaire et nos partenaires étrangers, nous nous sommes intéressés à tous les secteurs d'intervention, de la prévention au traitement en passant par la répression et la réduction des méfaits. </ParaText>
               <ParaText id="4876381">Les infirmières, les médecins, les pharmaciens, les patients et les parents nous ont dit qu'en autorisant la vente de naloxone sans ordonnance, ce serait plus facile d'intervenir rapidement en cas de surdose, donc d'augmenter les chances de survie de la personne concernée. Nous applaudissons les provinces et les territoires qui ont donné suite à cette recommandation et rayé la naloxone de la liste des substances nécessitant une ordonnance.</ParaText>
               <ParaText id="4876382">Santé Canada a aussi fait le nécessaire pour que les Canadiens puissent se procurer de la naloxone en vaporisateur nasal à dose unique, comme c'est déjà possible ailleurs dans le monde. Les premiers répondants et la population en général ont ainsi accès à de la naloxone autrement que sous forme injectable, dans un contenant plus facile à transporter et à administrer si jamais quelqu'un fait une surdose ailleurs qu'à l'hôpital.</ParaText>

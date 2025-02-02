@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9386636">
-  <StartPageNumber>9085</StartPageNumber>
+  <StartPageNumber>9083</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -94,15 +75,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214310" Type="4">Hon. Catherine McKenna (Minister of Environment and Climate Change, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ParaText id="4758472"> moved that, the bill be concurred in.</ParaText>
+              <ParaText id="4758472"> moved that the bill be concurred in.</ParaText>
               <ProceduralText TocType="TPC" id="2">Motion for concurrence</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Mrs. Hughes" id="9387509">
             <PersonSpeaking>
-              <Affiliation DbId="214948" Type="96">The Assistant Deputy Speaker (Mrs. Carol Hughes</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214948" Type="96">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4758473">)Is it the pleasure of the House to adopt the motion?</ParaText>
+              <ParaText id="4758473">Is it the pleasure of the House to adopt the motion?</ParaText>
               <ParaText id="4758474">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ProceduralText TocType="TCC" id="3">(Motion agreed to)</ProceduralText>
@@ -113,7 +94,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4758475"> When shall the bill be read the third time? By leave now?</ParaText>
+              <ParaText id="4758475"> When shall the bill be read the third time? By leave, now?</ParaText>
               <ParaText id="4758476">
                 <B>Some hon. members:</B> Agreed.</ParaText>
             </Content>
@@ -814,13 +795,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9386822">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Privacy</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dubé" id="9386821">
             <PersonSpeaking>
               <Affiliation DbId="214060" Type="2">Mr. Matthew Dubé (Beloeil—Chambly, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4758700">Madam Speaker, the risk that Canadians will be stopped at the U.S. border and asked for their social media passwords is growing. These invasions of privacy are intimidating, and there are serious consequences for refusing to co-operate: interrogation, detention, and refusal of entry. Searching people's computers or cell phones is much more intrusive than searching their luggage.</ParaText>
+              <ParaText id="4758700">Madam Speaker, the risk that Canadians will be stopped at the U.S. border and asked for their social media passwords is growing. These invasions of privacy are intimidating, and there are serious consequences for refusing to co-operate: interrogation, detention, and refusal of entry. Searching people's computers or cellphones is much more intrusive than searching their luggage.</ParaText>
               <ParaText id="4758701">Will the minister finally stand up to protect Canadians' rights here and at the border?</ParaText>
             </Content>
           </Intervention>
@@ -838,6 +819,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4758704">I am sure the member opposite would agree with me that this is a prudent policy.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9387542">
+        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dubé" id="9386826">
             <PersonSpeaking>
               <Affiliation DbId="214060" Type="2">Mr. Matthew Dubé (Beloeil—Chambly, NDP)</Affiliation>: </PersonSpeaking>
@@ -868,7 +854,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4758710">Madam Speaker, when Canada signs free trade agreements, it is supposedly in the best interests of Canadians, and not the interests of the elite who travel to private islands by helicopter.</ParaText>
               <ParaText id="4758711">Signing agreements that will have devastating consequences for Quebec's dairy producers is unacceptable, especially when they are made to believe that there will be compensation and the government does not keep its promises. </ParaText>
-              <ParaText id="4758712">What kind of surprises can Canadians expect when the free trade agreement with the U.S. is renegotiated?</ParaText>
+              <ParaText id="4758712">What kinds of surprises can Canadians expect when the free trade agreement with the U.S. is renegotiated?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -996,7 +982,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9386868">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Housing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Liepert" id="9386867">
             <PersonSpeaking>
@@ -1088,7 +1074,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4758763">Madam Speaker, I would like to ask myself a question through you. The Liberals family and friends deal event is in full swing in Ottawa. Mary Ng, another Kathleen Wynne staffer who followed Gerry and her good friend Katie to Ottawa to become the Ottawa PMO director of appointments, is now appointing herself to be the Liberal candidate to replace John McCallum.</ParaText>
               <ParaText id="4758764">She announced her candidacy days after John McCallum was pushed out the door to become the ambassador to China. The thing is that she would have been the one that worked on the appointment of McCallum.</ParaText>
-              <ParaText id="4758765">Could the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> tell the House what role he played in this backroom deal. </ParaText>
+              <ParaText id="4758765">Could the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> tell the House what role he played in this backroom deal?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Chagger" id="9386907">
@@ -1105,7 +1091,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214534" Type="2">Mr. John Brassard (Barrie—Innisfil, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4758769">Madam Speaker, it is more than unsavoury that after John McCallum is bumped, the PMO's director of appointments appoints herself to replace him. It certainly smells like the fix was in.</ParaText>
-              <ParaText id="4758770">Yesterday, the government House leader said “I have no reason to doubt that the rules have been respected.” Respecting the rules, how has that been working out for the Liberals?</ParaText>
+              <ParaText id="4758770">Yesterday, the government House leader said, “I have no reason to doubt that the rules have been respected.” Respecting the rules, how has that been working out for the Liberals?</ParaText>
               <ParaText id="4758771">Again, what promises were made by the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to Mary Ng if she pushed John McCallum out the door?</ParaText>
             </Content>
           </Intervention>
@@ -1287,7 +1273,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214172" Type="2">Mr. Robert Kitchen (Souris—Moose Mountain, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4758811">Madam Speaker, southeast Saskatchewan is in the midst of a jobs crisis and thousands of my constituents are out of work. The Liberals are making things worse by forcing a carbon tax on families that are already struggling to put food on the table.</ParaText>
+              <ParaText id="4758811">Madam Speaker, southeast Saskatchewan is in the midst of a jobs crisis and thousands of my constituents are out of work. The Liberals are making things worse by forcing a carbon tax on families who are already struggling to put food on the table.</ParaText>
               <ParaText id="4758812"> A carbon tax will increase costs for our farmers and ranchers. Middle-class Canadians will have to pay significantly more now just to keep operating. Why will the Liberals not stand up for hard-working Canadians and abandon their foolish carbon tax?</ParaText>
             </Content>
           </Intervention>
@@ -1309,7 +1295,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214096" Type="2">Mr. Robert Aubin (Trois-Rivières, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4758815">Madam Speaker, the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> is fine tuning his upcoming budget, and the <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> is endlessly studying studies, but the train may have left the station. In Trois-Rivières, like anywhere else in the Québec City-Windsor corridor, the return of passenger rail service is vital to stimulating the regional economy.</ParaText>
+              <ParaText id="4758815">Madam Speaker, the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> is fine-tuning his upcoming budget, and the <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> is endlessly studying studies, but the train may have left the station. In Trois-Rivières, like anywhere else in the Québec City-Windsor corridor, the return of passenger rail service is vital to stimulating the regional economy.</ParaText>
               <ParaText id="4758816">Can the minister confirm that he will finish his homework on time for budget 2017 to include the necessary funds for VIA Rail's high-frequency rail?</ParaText>
             </Content>
           </Intervention>
@@ -1382,7 +1368,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="229487" Type="18">Mr. Marco Mendicino (Parliamentary Secretary to the Minister of Justice and Attorney General of Canada, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4758833">Madam Speaker, I want to begin by saying that we all acknowledge that child sexual assault crimes are wrong, and we are doing everything in our power to prevent them from occurring again.</ParaText>
-              <ParaText id="4758834">Our government firmly believes that mandatory minimum sentences are appropriate for the most serious offences. It is also clear that the last government introduced a number of mandatory minimums which have been systematically struck down by the Supreme Court of Canada, and that is why we must take a careful look at mandatory minimums going forward.</ParaText>
+              <ParaText id="4758834">Our government firmly believes that mandatory minimum sentences are appropriate for the most serious offences. It is also clear that the last government introduced a number of mandatory minimums that have been systematically struck down by the Supreme Court of Canada, and that is why we must take a careful look at mandatory minimums going forward.</ParaText>
               <ParaText id="4758835">Our government is committed to doing that so that we have an efficient, fair, accessible criminal justice system.</ParaText>
             </Content>
           </Intervention>
@@ -1395,7 +1381,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214390" Type="2">Mr. Len Webber (Calgary Confederation, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4758836">Madam Speaker, my friend, Neil Bantleman, faces 11 years behind bars in Indonesia. Indonesia's justice system has accused him of a crime that is unfounded and unwarranted. A year ago, the <Affiliation DbId="229523" Type="18">Parliamentary Secretary to the Minister of Foreign Affairs </Affiliation> claimed that he was “deeply concerned and dismayed” by the court's decision. Since then nothing, and Neil continues to languish in prison.</ParaText>
+              <ParaText id="4758836">Madam Speaker, my friend, Neil Bantleman, faces 11 years behind bars in Indonesia. Indonesia's justice system has accused him of a crime that is unfounded and unwarranted. A year ago, the <Affiliation DbId="229523" Type="18">Parliamentary Secretary to the Minister of Foreign Affairs </Affiliation> claimed that he was “deeply concerned and dismayed” by the court's decision. Since then, nothing, and Neil continues to languish in prison.</ParaText>
               <ParaText id="4758837">Why will the minister not give Neil, his family and friends, hope, and outline what action she is taking to bring Neil home?</ParaText>
             </Content>
           </Intervention>
@@ -1579,12 +1565,11 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214600" Type="2">Hon. Hunter Tootoo (Nunavut, Ind.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4758876">
-                <I>Qujannamiik uqaqti</I>. Thank you, Madam Speaker. My question is for the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation>.</ParaText>
+                <I>Qujannamiik uqaqti</I>. Madam Speaker, my question is for the <Affiliation DbId="214328" Type="4">Minister of Health</Affiliation>.</ParaText>
               <ParaText id="4758877">Adequate health care funding continues to be a serious issue in Nunavut. The Canada health transfer only covers 11% of Nunavut's health care costs. This is in stark contrast to the Canadian provincial average of approximately 21%. The $35-million territorial health investment fund, which includes vital funding for medical travel, is insufficient. This disparity in health care funding between Nunavut and southern Canada is unacceptable. </ParaText>
               <ParaText id="4758878">Does the minister plan to address this inequity in the upcoming territorial health investment fund renewal?</ParaText>
               <ParaText id="4758879">
-                <I>Qujannamiik</I>
-              </ParaText>
+                <I>Qujannamiik</I>.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lightbound" id="9387060">
@@ -1657,7 +1642,7 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <Affiliation DbId="213988" Type="2">Mr. David Christopherson (Hamilton Centre, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4758890">Madam Speaker, I appreciate the opportunity to join in this important discussion on Bill <Document DbId="8334129" Type="3">C-18</Document>. Creating parks is important.</ParaText>
-              <ParaText id="4758891">I was kind of disappointed yesterday. We are all friends here and I am sure no one will tell a tale out of school. The most powerful person in the entire NDP sits just on the other side of the door. His name is Anthony Salloum. If anyone really wants to know where the power is, and it is bit of a secret inside story of the NDP, it is Anthony. Yesterday Anthony said to me that he had a real project me, that I would like it. When I took a look at it, I realized it was about a park. As important as the bill is, I was incredibly disappointed.</ParaText>
+              <ParaText id="4758891">I was kind of disappointed yesterday. We are all friends here and I am sure no one will tell a tale out of school. The most powerful person in the entire NDP sits just on the other side of the door. His name is Anthony Salloum. If anyone really wants to know where the power is, and it is bit of a secret inside story of the NDP, it is Anthony. Yesterday Anthony said to me that he had a real project for me, that I would like it. When I took a look at it, I realized it was about a park. As important as the bill is, I was incredibly disappointed.</ParaText>
               <ParaText id="4758892">Let me just take a second to read the summary so there is a context for my remarks. It states:</ParaText>
               <ParaText id="4758893">
                 <Quote>
@@ -1745,7 +1730,7 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <Affiliation DbId="214668" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4758924">Madam Speaker, this is a good-news bill for those who want to be engaged in Canada's national parks. Millions of Canadians will be able to benefit. I want to applaud all those involved in this.</ParaText>
-              <ParaText id="4758925"> There is a great sense of Canadian pride in our national parks and historic sties. I think of Birds Hill Provincial Park, national parks in the province of Manitoba, and even The Forks, in downtown Winnipeg. </ParaText>
+              <ParaText id="4758925"> There is a great sense of Canadian pride in our national parks and historic sites. I think of Birds Hill Provincial Park, national parks in the province of Manitoba, and even The Forks, in downtown Winnipeg. </ParaText>
               <ParaText id="4758926">Millions of Canadians participate in our parks and historic sites every year. This bill will provide so much for future generations and people today in Toronto and the surrounding area. They will have access to a wonderful, beautiful national park. </ParaText>
               <ParaText id="4758927">To that end, would my colleague across the way not agree that Canadians as a whole benefit when we have legislation of this nature, which reinforces the importance of our national parks and historic sites?</ParaText>
             </Content>
@@ -2039,10 +2024,10 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <ParaText id="4759043">My colleague's comments express my very similar views on this issue. Rouge National Urban Park is a first of its kind for Canada. It gives Canadians in Toronto in the GTA a chance to experience what we in the Kawarthas, Haliburton Highlands, and Brock township have the opportunity to experience each and every day. It is therefore crucial that we ensure legislation is properly drafted to secure this park for many generations to come.</ParaText>
               <ParaText id="4759044">I would also like to take a moment to thank all the employees of Parks Canada for the hard work they do each and every day, protecting our natural heritage and ensuring future generations will be able to enjoy it, just as we have. </ParaText>
               <ParaText id="4759045">I do have a remarkable working relationship with the Parks Canada team in my riding of <Affiliation DbId="214100" Type="2">Haliburton—Kawartha Lakes—Brock</Affiliation>. We have a great team run out of the Parks Canada office, running the Trent-Severn Waterway in Peterborough. We have amazing canals and locks, as I mentioned before, but I do want to make a quick promotion of my riding because there is a pretty neat experience coming up in 2017. </ParaText>
-              <ParaText id="4759046">To celebrate Canada's 150th anniversary, there is now free lockage along Parks Canada's historic canals. I invite everyone to go along the Trent-Severn Waterway, visit the communities there, check out the stores, the unique cafes and restaurants and all the amazing things we have. Again, lockage if free for boaters this year to celebrate Canada's 150th birthday.</ParaText>
+              <ParaText id="4759046">To celebrate Canada's 150th anniversary, there is now free lockage along Parks Canada's historic canals. I invite everyone to go along the Trent-Severn Waterway, visit the communities there, check out the stores, the unique cafes and restaurants and all the amazing things we have. Again, lockage is free for boaters this year to celebrate Canada's 150th birthday.</ParaText>
               <ParaText id="4759047">I should point out the hours of operation because those are very important. It opens May 19 to June 25, Monday to Thursday, 10 a.m. to 4 p.m., and Friday to Saturday, Victoria Day as well, 9 a.m. to 7 p.m. It is also open June 26 to September 4, Monday to Thursday, 9 a.m. to 6 p.m., Friday to Sunday, and Canada Day, the August civil holiday and Labour Day, 9 a.m. to 7 p.m. It is open until Thanksgiving. I encourage everyone to drop by my riding, because it is a place that will create memories for years to come.</ParaText>
               <ParaText id="4759048">Because I am sure many people are very interested, I will give a bit of the history of the Trent-Severn Waterway as we are talking about Parks Canada, national parks, and the national historic site.</ParaText>
-              <ParaText id="4759049">The canal was originally surveyed as a military route, but the first lock was actually build in 1833 as a commercial venture. This connected a number of lakes and rivers near the centre of the waterway, opening a large area to navigation by steamship. Construction of three additional locks by the government was under way when the Upper Canada Rebellion of 1837 broke out. This led the government to re-examine the project, including that the route would have too many locks to allow rapid movement for military purposes. The government decided that the locks under construction would be completed, but the rest could be turned into timber slides. </ParaText>
+              <ParaText id="4759049">The canal was originally surveyed as a military route, but the first lock was actually built in 1833 as a commercial venture. This connected a number of lakes and rivers near the centre of the waterway, opening a large area to navigation by steamship. Construction of three additional locks by the government was under way when the Upper Canada Rebellion of 1837 broke out. This led the government to re-examine the project, including that the route would have too many locks to allow rapid movement for military purposes. The government decided that the locks under construction would be completed, but the rest could be turned into timber slides. </ParaText>
               <ParaText id="4759050">This left the completed inland section with no outlet, which business interests addressed by connecting the route with a number of new toll roads, plank roads and later, railways.</ParaText>
               <ParaText id="4759051">Sir John A. Macdonald's government restarted construction in the 1880s, adding a number of new locks and pushing the route westward before construction once again halted. For many years after this, the canal was used as a political tool to garner votes from seats along that route. With little actual construction being carried out, it was not until just before the turn of the century that a number of political changes built up incredible pressure on Wilfrid Laurier's Liberals, and serious work started once again.</ParaText>
               <ParaText id="4759052">The canal reached both Peterborough and Lake Simcoe in 1904. The final sections were greatly delayed, though, by World War I, with a link to Trenton opening in 1918, followed by the link to Georgian Bay in early 1920. The first complete transit of the waterway was made in July of that year.</ParaText>
@@ -2235,7 +2220,7 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="4759122">A privatized CBC/Radio-Canada would generate most of its revenue from advertising. This means its total revenue could be heavily reduced. It is quite probable that it would choose to reduce its offering to ensure profitability. It is also possible that it would first choose to cut its regional services, which serve official language minority communities and indigenous communities, among others. This would be a loss not only for those communities but also for the diversity of voices in the Canadian broadcasting system. We could also see a reduction in the quality and quantity of programming offered to Canadians. For example, let us take the local news. It is of vital importance for Canadian citizens.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="4759123">The current government believes in a strong Canadian broadcasting system. Its approach involves supporting creative industries, investing in CBC/Radio-Canada , and renewing ties with the corporation. The government is investing $675 million in CBC/Radio-Canada over five years. The corporation has indicated that it will use that money to create new, more distinctly Canadian content, continue its transition to the digital environment, and increase its resources in the region in order to be more local.</ParaText>
+              <ParaText id="4759123">The current government believes in a strong Canadian broadcasting system. Its approach involves supporting creative industries, investing in CBC/Radio-Canada, and renewing ties with the corporation. The government is investing $675 million in CBC/Radio-Canada over five years. The corporation has indicated that it will use that money to create new, more distinctly Canadian content, continue its transition to the digital environment, and increase its resources in the region in order to be more local.</ParaText>
               <ParaText id="4759124">This money will be used to recruit the next generation of Canadian talent. It will allow the corporation to continue to support indigenous programming and the services it offers to official language minority communities. Finally, CBC/Radio-Canada has committed to being accountable to Canadians on the use of this new funding. In my opinion, those commitments offer real benefits to Canadians. In contrast, the bill does not contain any meaningful measures as specific as those.</ParaText>
               <Timestamp Hr="13" Mn="55">(1355)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2253,7 +2238,7 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <ParaText id="4759129">Make no mistake about it, this bill would take away a basic tool for expressing our culture and setting rigorous broadcasting standards, especially with respect to the news, which impact the entire broadcasting system. A public broadcaster is a tool and its role is to better inform us, and to tell us more about who we are.</ParaText>
               <ParaText id="4759130">Honestly, I cannot believe that we are still talking about this. Just two years ago we had an election where the vast majority of Canadians voted to support the CBC, or at least voted for parties that defended the CBC's role and also promised to increase its funding.</ParaText>
               <ParaText id="4759131">When I say that we are wasting time on this fringe proposal, I mean that there is no time to waste on this type of issue.</ParaText>
-              <ParaText id="4759132">I have often said that my two main goals in politics, and here in Ottawa, are climate urgency and defending our distinct culture. I am my party's critic for culture. I spent 25 years in the music industry in Quebec, including at Audiogram, Sony Music, Cirque du soleil, and at various television stations. I am a member of the Standing Committee on Canadian Heritage, which I am honoured to co-chair, and I can attest to the fact that we have our work cut out for us. We just spent the past few months speaking with many representatives of a sector that has been completely turned upside down, a sector that is tyring to figure out how to come up with new revenue streams, considering all the new platforms. </ParaText>
+              <ParaText id="4759132">I have often said that my two main goals in politics, and here in Ottawa, are climate urgency and defending our distinct culture. I am my party's critic for culture. I spent 25 years in the music industry in Quebec, including at Audiogram, Sony Music, Cirque du soleil, and at various television stations. I am a member of the Standing Committee on Canadian Heritage, which I am honoured to co-chair, and I can attest to the fact that we have our work cut out for us. We just spent the past few months speaking with many representatives of a sector that has been completely turned upside down, a sector that is trying to figure out how to come up with new revenue streams, considering all the new platforms. </ParaText>
               <ParaText id="4759133">As everyone knows, our cultural industries are facing a real disaster. </ParaText>
               <ParaText id="4759134">We are very proud of what Quebec has built. We are proud of Bill 101, which strengthens our language rather than letting it fade away. We are very proud of what has been built here in Ottawa: the CBC, the NFB, Telefilm Canada, Canadian content rules, this entire television and cultural ecosystem, the creative works of a generation of builders who were trying to do more than just make it to the end of the week.</ParaText>
               <ParaText id="4759135">We are proud of this framework, this whole sophisticated infrastructure, this work, and these investments that are paying off today all around the world, whether we are talking about Denis Villeneuve, <I>Degrassi</I>, The Weeknd, or Robert Lepage.</ParaText>
@@ -2263,7 +2248,7 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <ParaText id="4759139">That is why I feel compelled to say that we have no time to lose. We are out of time. We have no time to waste dealing with ideologically-motivated legislation like the one that was dropped on our lap today. We have no time for it because, even though the Conservatives may not realize it, we have serious work to do to defend our culture and defend what they seem to take for granted or worse, what they seem simply to know nothing about.</ParaText>
               <ParaText id="4759140">However, if we must spend time on this, then let us do it. I note that the hon. member for <Affiliation DbId="214038" Type="2">Saskatoon—University</Affiliation> made a preposterous statement when he introduced this bill in September. He told the House that privatizing CBC would make the corporation a true public broadcaster instead of a state broadcaster, which will allow Canadians to participate in it and be owners of it.</ParaText>
               <Timestamp Hr="14" Mn="00">(1400)</Timestamp>
-              <ParaText id="4759141"> Mr. Speaker, I will spare you my comments on that.</ParaText>
+              <ParaText id="4759141">I will spare the House my comments on that.</ParaText>
               <ParaText id="4759142">The bill would result in a fire sale of CBC/Radio-Canada. It would be controlled by a limited number of investors. The bill would dissolve the board of directors and remove all references to CBC/Radio-Canada in the Broadcasting Act and other acts that ensure transparency and accountability. </ParaText>
               <ParaText id="4759143">Today, CBC/Radio-Canada is 100% owned by Canadians. It is an independent broadcaster that operates at arm's length from the state. Most industrialized countries have similar broadcasters. It is not a state broadcaster. It is kind of absurd to suggest that privatizing our public broadcaster would make it more participatory or more democratic. On the contrary, it would become a private broadcaster like any other.</ParaText>
               <ParaText id="4759144">I have to say that I do not really understand why this bill was introduced now that we have left behind a decade of rule by the most right-wing government in our history. We were governed by the right-wing Conservative Party, which spent years getting all worked up about CBC/Radio-Canada and taking aim at it at every opportunity. It was actually kind of undignified.</ParaText>
@@ -2374,7 +2359,7 @@ The House resumed  consideration of the motion that Bill <Document DbId="8334129
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="4759204">The time provided for the consideration of private members' business has now expired, and the order is dropped to the bottom of the order of precedence on the Order Paper. </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="4759205">It being 2:30 p.m., the House stands adjourned until Tuesday, February 21, 2017, at <?bk?>11 a.m.<?ek?> pursuant to order made on Tuesday, February 14, 2017.</ParaText>
+              <ParaText id="4759205">It being 2:30 p.m., the House stands adjourned until Tuesday, February 21, 2017, at <?bk ?>11 a.m.<?ek ?> pursuant to order made on Tuesday, February 14, 2017.</ParaText>
               <ParaText id="4759206">(The House adjourned at 2:30 p.m.) </ParaText>
             </Content>
           </Intervention>

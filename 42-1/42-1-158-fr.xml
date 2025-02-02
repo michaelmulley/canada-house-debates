@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-Chambre des communes - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-Les données contenues dans le présent document sont présentées selon le format standard XML. Une fois
-importées dans une feuille de calcul ou l’utilitaire de base de données de votre choix, les données
-peuvent être filtrées et triées pour créer des rapports personnalisés.
-Veuillez vous reporter aux instructions de l’utilitaire de votre choix pour vous renseigner sur la
-façon d’importer des données externes.
-
-Pour obtenir des renseignements au sujet de l'exonération de responsabilité:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="9447565">
-  <StartPageNumber>10025</StartPageNumber>
+  <StartPageNumber>10023</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -64,7 +46,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La Loi réglementant certaines drogues et autres substances</SubjectOfBusinessTitle>
-        <ProceduralText id="1">Projet de loi C-307. Deuxième lecture</ProceduralText>
+        <ProceduralText TocType="TPC" id="1">Projet de loi C-307. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="4822574">La Chambre reprend l'étude, interrompue le 17 novembre 2016, de la motion portant que le projet de loi <Document DbId="8435525" Type="4">C-307, Loi modifiant la Loi réglementant certaines drogues et autres substances (résistance à l’altération et prévention de l’abus)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Davies" id="9447573">
@@ -287,11 +269,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9447692">
-        <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TCC" TocText="Reprise de la séance à midi" id="4">(La séance reprend à midi.)</ProceduralText>
-        <SubjectOfBusinessContent />
-      </SubjectOfBusiness>
       <SubjectOfBusiness id="9448411">
         <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
         <SubjectOfBusinessTitle>Les travaux de la Chambre</SubjectOfBusinessTitle>
@@ -300,8 +277,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214668" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4822706">Monsieur le Président, j'invoque le Règlement. Il y a eu consultations entre les partis et je crois que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante. Je propose donc:</ParaText>
-              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
+              <ParaText id="4822706">Monsieur le Président, j'invoque le Règlement. Il y a eu consultation entre les partis et je crois que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante. Je propose donc:</ParaText>
+              <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
               <ParaText id="4822707">
                 <Quote>
                   <QuotePara Align="Left">Que, nonobstant tout article du Règlement ou usage habituel de la Chambre,</QuotePara>
@@ -343,7 +320,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="4822716">
                 <B>Le vice-président:</B> Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="6">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Adoption de la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -356,7 +333,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Le budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>L'exposé financier du ministre des Finances</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
+        <ProceduralText TocType="TPC" id="6">Motion</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="4822717">La Chambre reprend l'étude, interrompue le 23 mars, de la motion portant que la Chambre approuve la politique budgétaire générale du gouvernement, ainsi que de l'amendement et du sous-amendement.</ParaText>
           <Intervention Type="Interjection" ToC="No" ToCText="M. Stanton" id="9448796">
@@ -977,7 +954,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214562" Type="2">M. Xavier Barsalou-Duval (Pierre-Boucher—Les Patriotes—Verchères, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4822986">Monsieur le Président, pour la Semaine mondiale d'action contre les paradis fiscaux, le Bloc québécois joint sa voix aux citoyens, aux syndicats et aux groupes de la société civile qui se mobilisent devant les bureaux du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> à Montréal et partout ailleurs sur la planète. </ParaText>
-              <ParaText id="4822987">Des bateaux de Paul Martin aux passe-passe des Irving et des règlements de l'impôt qui favorisent la Barbade à ceux qui autorisent les autres paradis fiscaux, le Bloc a toujours été au premier rang de la lutte contre ce fléau. Pour le Bloc, la Semaine mondiale d'action contre les paradis fiscaux dure toute l'année. </ParaText>
+              <ParaText id="4822987">Des bateaux de Paul Martin aux passe-passe des Irving, et des règlements de l'impôt qui favorisent la Barbade à ceux qui autorisent les autres paradis fiscaux, le Bloc a toujours été au premier rang de la lutte contre ce fléau. Pour le Bloc, la Semaine mondiale d'action contre les paradis fiscaux dure toute l'année. </ParaText>
               <ParaText id="4822988">À Ottawa, comme toujours, ce sera la semaine en faveur des paradis fiscaux. Ici, cela marche à merveille. À la Barbade, à la Grenade et aux Bahamas, les trois banques canadiennes représentent 80 % des actifs bancaires. D'un côté, le gouvernement annonce des millions de dollars pour combattre les fraudes, et de l'autre, il légalise toutes les petites entourloupettes. </ParaText>
               <ParaText id="4822989">C'est le monde ordinaire qui paie le prix de cela. C'est complètement injuste, on le voit avec l'austérité. La légèreté canadienne complice des paradis fiscaux, ça fait trop longtemps que ça dure!</ParaText>
             </Content>
@@ -1156,7 +1133,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4823035">Monsieur le Président, alors que la saison de motoneige tire à sa fin dans ma circonscription, même s'il y a encore des conditions de neige exceptionnelles dans le Bas-Saint-Laurent et en Gaspésie, je profite de cette occasion à la Chambre pour souligner l'importance de l'industrie de la motoneige dans ma région.</ParaText>
               <ParaText id="4823036">Quelque 4 800 kilomètres de sentiers offrant des paysages à couper le souffle sillonnent notre région. Qu'ils soient Canadiens, Américains ou d'outre-mer, les motoneigistes se sont laissés charmer par des milliers de kilomètres de sentiers, des conditions hivernales exceptionnelles et les panoramas de mer et de montagnes uniques de l'Est du Québec.</ParaText>
-              <ParaText id="4823037">Étant moi-même un amateur de motoneige, je tiens à féliciter et à remercier tous les responsables et bénévoles des clubs de motoneigistes, ainsi que tous ceux et celles qui oeuvrent dans les hôtels, les motels, les restaurants, les stations-service et les concessionnaires. Grâce à leur accueil et à leur service hors pair, ils permettent à nos collectivités de bénéficier de retombées significatives.</ParaText>
+              <ParaText id="4823037">Étant moi-même un amateur de motoneige, je tiens à féliciter et à remercier tous les responsables et les bénévoles des clubs de motoneigistes, ainsi que tous ceux et celles qui oeuvrent dans les hôtels, les motels, les restaurants, les stations-service et les concessionnaires. Grâce à leur accueil et à leur service hors pair, ils permettent à nos collectivités de bénéficier de retombées significatives.</ParaText>
               <ParaText id="4823038">L'industrie de la motoneige génère 110 millions de dollars en retombées économiques dans le Bas-Saint-Laurent et en Gaspésie. L'engagement et le dévouement de ces gens permettent à notre territoire de se placer parmi les meilleurs endroits au Canada.</ParaText>
             </Content>
           </Intervention>
@@ -1209,7 +1186,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4823050">Elle reflète la solidarité et l'esprit d'entraide de notre région. Je suis très fière de ce projet mené dans le Haut-Saint-Laurent. </ParaText>
               <ParaText id="4823051">Je félicite l'équipe responsable de ce projet. Elle montre l'importance de l'engagement des citoyens dans la vie de tous les jours. Elle montre l'exemple. Nous la remercions.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="4823052">Je remercie toute l'équipe du centre, les bénévoles ainsi que les partenaires.</ParaText>
+              <ParaText id="4823052">Je remercie toute l'équipe du Centre, les bénévoles ainsi que les partenaires.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1622,9 +1599,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Bergen" id="9451070">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9451070">
             <PersonSpeaking>
-              <Affiliation DbId="224944" Type="7">L’hon. Candice Bergen (leader à la Chambre de l'Opposition officielle, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214460" Type="2">L’hon. Candice Bergen (Portage—Lisgar, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4823144">Monsieur le Président, en un an et demi, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a démontré qu'il ne savait pas gouverner. Ses dépenses effrénées qui ont entraîné un déficit vertigineux et ses entorses à l'éthique constituent une véritable source d'embarras. </ParaText>
               <ParaText id="4823145">Toutefois, au lieu de reconnaître ces erreurs, le premier ministre et la leader du gouvernement à la Chambre tentent de retirer aux députés de l'opposition leur droit d'exiger une reddition de comptes.</ParaText>
@@ -1641,7 +1618,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Bergen" id="9451101">
             <PersonSpeaking>
-              <Affiliation DbId="224944" Type="7">L’hon. Candice Bergen (leader à la Chambre de l'Opposition officielle, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214460" Type="2">L’hon. Candice Bergen (Portage—Lisgar, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4823149">Monsieur le Président, malheureusement, dans le but de mettre le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> à l'abri du gâchis qu'il a créé, le président du comité, un libéral, a suspendu la séance, de toute évidence conformément au directives du Cabinet du premier ministre. Ce genre de tactique autoritaire empoisonne l'atmosphère de travail à la Chambre.</ParaText>
               <ParaText id="4823150"> Il est difficile de comprendre pourquoi le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a adopté une attitude si irrationnelle face aux demandes des partis de l'opposition, qui sont raisonnables et qui ne constituent pas un précédent. </ParaText>
@@ -1796,7 +1773,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4823180">Monsieur le Président, je vais essayer en français.</ParaText>
               <ParaText id="4823181">Les libéraux ont encore fait du tape-à-l'oeil. Le <I>National Post</I> nous apprend qu'Environnement Canada a informé la <Affiliation DbId="214310" Type="4">ministre de l'Environnement</Affiliation> que la taxe sur le carbone n'atteindrait pas les objectifs fixés. De plus, on apprend que cette taxe coûtera des milliers de dollars aux familles canadiennes. Cette hypocrisie libérale est néfaste.</ParaText>
-              <ParaText id="4823182">La ministre doit prendre des décisions pour protéger notre environnement, et elle doit déposer un vrai plan efficace pour atteindre les cibles de l'Accord de Paris. Surtout, ce plan de doit pas être financé sur le dos des familles canadiennes.</ParaText>
+              <ParaText id="4823182">La ministre doit prendre des décisions pour protéger notre environnement, et elle doit déposer un vrai plan efficace pour atteindre les cibles de l'Accord de Paris. Surtout, ce plan ne doit pas être financé sur le dos des familles canadiennes.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1885,7 +1862,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4823198">Je pense que la députée sait que certains mots nuisent au fonctionnement de la Chambre des communes et je lui demande de ne pas les utiliser. Nous ne nous servons pas ces mots pour décrire d'autres députés. Nous ne qualifions pas d'autres députés d'animaux. Je laisse la députée terminer sa question.</ParaText>
+              <ParaText id="4823198">Je pense que la députée sait que certains mots nuisent au fonctionnement de la Chambre des communes et je lui demande de ne pas les utiliser. Nous ne nous servons de pas ces mots pour décrire d'autres députés. Nous ne qualifions de pas d'autres députés d'animaux. Je laisse la députée terminer sa question.</ParaText>
               <ParaText id="4823199">La députée de Sarnia—Lambton a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -1904,18 +1881,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4823202">Tous les députés qui ont pris part à ce voyage, notamment le député d'<Affiliation DbId="213951" Type="2">Edmonton—Wetaskiwin</Affiliation>, conviendront qu'il était important de constater de visu les difficultés que vivent les résidants locaux afin de pouvoir déterminer les façons dont l'aide canadienne peut faire une différence à l'échelle locale — ce qu'elle a permis de faire.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9451412">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'éthique</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Gourde" id="9451399">
             <PersonSpeaking>
               <Affiliation DbId="213974" Type="2">M. Jacques Gourde (Lévis—Lotbinière, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4823203">Monsieur le Président, l'exemple que donne ce <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> qui ne respecte aucune règle d'éthique déteint maintenant sur ses secrétaires parlementaires.</ParaText>
-              <ParaText id="4823204">Deux secrétaires parlementaires se sont fait graisser la patte comme dans le bon vieux temps, en se faisant payer un voyage qui contrevient aux règles mises en place par le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> lui-même dans son guide intitulé <I>Pour un gouvernement ouvert et responsable</I>.</ParaText>
+              <ParaText id="4823204">Deux secrétaires parlementaires se sont fait graisser la patte comme dans le bon vieux temps, en se faisant payer un voyage qui contrevient aux règles mises en place par le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> lui-même dans son guide intitulé « Pour un gouvernement ouvert et responsable ».</ParaText>
               <ParaText id="4823205">Que l'argent vienne d'un lobby ou de la Fondation Pierre Elliott Trudeau, tout secrétaire parlementaire respectueux des règles sait qu'il ne doit pas accepter ce genre de voyages.</ParaText>
               <ParaText id="4823206">Le premier ministre peut-il montrer l'exemple à ses fidèles et nous expliquer pourquoi il ne respecte pas ses propres règles?</ParaText>
             </Content>
@@ -2035,8 +2007,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214522" Type="2">M. Pierre Paul-Hus (Charlesbourg—Haute-Saint-Charles, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4823229">Monsieur le Président, lors de la dernière campagne électorale, le financement de l'Institut nordique du Québec était une priorité pour les conservateurs. Quatre mois après l'élection, le député de <Affiliation DbId="214021" Type="2">Louis-Hébert</Affiliation> disait que toutes les flûtes étaient accordées pour un financement fédéral.</ParaText>
-              <ParaText id="4823230">Près de 18 mois plus tard, la province du Québec, le maire Labeaume et l'Université Laval attendent toujours une confirmation de financement. La patience commence à avoir des limites. C'est une autre promesse en l'air de ce gouvernement.</ParaText>
-              <ParaText id="4823231"> Est-ce que les libéraux vont cesser de dormir et vont financer l'Institut nordique du Québec?</ParaText>
+              <ParaText id="4823230">Près de 18 mois plus tard, la province de Québec, le maire Labeaume et l'Université Laval attendent toujours une confirmation de financement. La patience commence à avoir des limites. C'est une autre promesse en l'air de ce gouvernement.</ParaText>
+              <ParaText id="4823231"> Est-ce que les libéraux vont cesser de dormir et financer l'Institut nordique du Québec?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lightbound" id="9451541">
@@ -2058,7 +2030,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4823234">Monsieur le Président, on sait maintenant à quel moment va commencer la nouvelle crise du bois d'oeuvre. </ParaText>
               <ParaText id="4823235">Le 24 avril, le taux du droit compensatoire devrait être connu et imposé au bois canadien vendu aux États-Unis. L'Union des municipalités du Québec, comme tous les acteurs du secteur forestier, prévoit une longue bataille juridique qui se fera encore une fois aux dépens des régions du Québec.</ParaText>
-              <ParaText id="4823236">Est-ce qu'Ottawa va prendre l'engagement, ici et maintenant, d'accorder une garantie de prêt aux entreprises forestières pour faire face à la nouvelle crise du bois d'oeuvre dans laquelle il nous entraîne?</ParaText>
+              <ParaText id="4823236">Est-ce qu'Ottawa va prendre l'engagement, ici et maintenant, d'accorder une garantie de prêts aux entreprises forestières pour faire face à la nouvelle crise du bois d'oeuvre dans laquelle il nous entraîne?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Carr" id="9451548">
@@ -2075,7 +2047,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <Content>
               <ParaText id="4823239">Monsieur le Président, je suis contente d'entendre cela, mais on n'a pas besoin d'une feuille pour savoir que c'est urgent. On peut dire oui ou non. Je m'attends à une réponse aussi claire. Il reste trois semaines à ce gouvernement pour se décider à aider les régions du Québec à traverser la prochaine crise du bois d'oeuvre.</ParaText>
               <ParaText id="4823240">La dernière fois, Ottawa avait si mal négocié que nous avions perdu 34 000 emplois au Québec. Des familles se sont retrouvées — il faut le répéter — sans emploi, et des gens ont dû quitter nos régions, dont la Côte-Nord. C'est grave.</ParaText>
-              <ParaText id="4823241">Est-ce que le gouvernement va accorder une garantie de prêt à l'industrie forestière — oui ou non, sans feuille —, afin qu'elle puisse faire face à la nouvelle crise, ou va-t-il encore une fois abandonner les régions du Québec à leur sort?</ParaText>
+              <ParaText id="4823241">Est-ce que le gouvernement va accorder une garantie de prêts à l'industrie forestière — oui ou non, sans feuille —, afin qu'elle puisse faire face à la nouvelle crise, ou va-t-il encore une fois abandonner les régions du Québec à leur sort?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
@@ -2137,7 +2109,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4823251">C'est une question de débat.</ParaText>
+              <ParaText id="4823251">C'est une question de débat, pas un recours au Règlement.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2186,7 +2158,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
       <CatchLine>Affaires courantes</CatchLine>
       <SubjectOfBusiness id="9451731">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Certificats de nomination</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les certificats de nomination</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Chagger" id="9451573">
             <PersonSpeaking>
@@ -2236,7 +2208,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">L’hon. Bardish Chagger (leader du gouvernement à la Chambre des communes et ministre de la Petite Entreprise et du Tourisme, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
               <ParaText id="4823265"> Monsieur le Président, il y a eu des discussions entre les partis, et je pense que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante. Je propose:</ParaText>
               <ParaText id="4823266">
                 <Quote>
@@ -2273,7 +2245,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">que tout vote par appel nominal différé au mercredi 12 avril 2017 ou demandé le jeudi 13 avril 2017 à l’égard d’une motion sujette à débat, à l’exception d’une affaire émanant des députés, soit différé jusqu’au lundi 1<Sup>er</Sup> mai 2017, à l’heure ordinaire de l’ajournement quotidien.</QuotePara>
                 </Quote>
               </ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="9">(La motion est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="8">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2287,8 +2259,8 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214100" Type="2">M. Jamie Schmale (Haliburton—Kawartha Lakes—Brock, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="10">Motion d'adoption</ProceduralText>
-              <ParaText id="4823273">Monsieur le Président, je propose que le 11<Sup>e</Sup> rapport du Comité permanent de la procédure et des affaires de la Chambre, présenté à la Chambre le mercredi 15 juin, soit adopté. </ParaText>
+              <ProceduralText TocType="TPC" id="9">Motion d'adoption</ProceduralText>
+              <ParaText id="4823273">Monsieur le Président, je propose que le 11<Sup>e</Sup> rapport du Comité permanent de la procédure et des affaires de la Chambre, présenté à la Chambre le mercredi 15 juin, 2016, soit adopté. </ParaText>
               <ParaText id="4823274">À titre de nouveau député et de membre du Comité, c'est pour moi un plaisir d'intervenir au sujet du 11<Sup>e</Sup> rapport du Comité permanent de la procédure et des affaires de la Chambre. Au départ, le Comité s'est entre autres demandé comment rendre cette institution plus compatible avec la vie familiale et comment en modifier le mode de fonctionnement. Néanmoins, voici l'une des choses les plus importantes que nous devons nous rappeler: nous siégeons dans cette enceinte pour représenter les Canadiens. Par conséquent, il est très important de faire en sorte que le Parlement serve mieux les Canadiens et pas nécessairement les députés. </ParaText>
               <ParaText id="4823275">Avant d'entrer dans le vif du sujet, je signale que je partagerai mon temps de parole avec le député de <Affiliation DbId="214290" Type="2">Lanark—Frontenac—Kingston</Affiliation>. </ParaText>
               <ParaText id="4823276">Dans un premier temps, je me pencherai sur le contenu du rapport, puis je ferai des observations sur ce qui n'y figure pas. </ParaText>
@@ -2389,7 +2361,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <ParaText id="4823321">Ce serait vrai même si la <Affiliation DbId="229218" Type="4">ministre des Institutions démocratiques</Affiliation> n'avait pas déjà demandé au Comité de terminer les audiences sur la Loi électorale du Canada d'ici la mi-mai. La <Affiliation DbId="229218" Type="4">ministre </Affiliation> est venue nous abreuver de belles paroles le 9 mars, soit la veille du jour où elle a rendu son document de travail public, pour nous expliquer pourquoi cette étude était si importante. Selon elle, Élections Canada a besoin de temps pour donner suite à nos recommandations et à celle qu'elle ajoutera au texte législatif. Comme Élections Canada a besoin d'un certain laps de temps avant les élections de 2019 pour mettre toutes ces choses en oeuvre, la ministre doit présenter son projet de loi en septembre, ce qui veut dire que nous devons lui remettre notre rapport d'ici la fin mai ou le début juin au plus tard. Or, cette échéance, c'est exactement la même que celle qui a été imposée au Comité dans la motion présentée par le député de Bonavista.</ParaText>
               <ParaText id="4823322">La chose la plus sensée à faire serait donc de retirer la motion. Comme c'est irréaliste, je propose de l'amender.</ParaText>
               <ParaText id="4823323">Je propose:</ParaText>
-              <ProceduralText TocType="TPC" id="11">Amendement</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">Amendement</ProceduralText>
               <ParaText id="4823324">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que la motion soit modifiée par substitution, aux mots suivant le mot « Que », de ce qui suit:</QuotePara>
@@ -2639,7 +2611,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214863" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4823426">Avant de passer à la période réservée aux questions et aux commentaires, et conformément à l'article 38 du Règlement, je dois faire connaître à la Chambre les questions qu'elle abordera lors de l'ajournement ce soir, à savoir: la députée de <Affiliation DbId="214119" Type="2">Nanaimo—Ladysmith</Affiliation>, L'environnement; la députée de <Affiliation DbId="214344" Type="2">London—Fanshawe</Affiliation>, La défense nationale; le député de <Affiliation DbId="214380" Type="2">Selkirk—Interlake—Eastman</Affiliation>, La défense nationale.</ParaText>
-              <ParaText id="4823427">Le <Affiliation DbId="229526" Type="18">secrétaire parlementaire de la leader du gouvernement à la Chambre des communes</Affiliation> a la parole.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3052,7 +3023,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
             <PersonSpeaking>
               <Affiliation DbId="214330" Type="4">L’hon. Jean-Yves Duclos</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4823608">Madame la Présidente, j'aimerais déposer les réponses du gouvernement aux questions Q-580, Q-763 et Q-841 à Q-876.</ParaText>
+              <ParaText id="4823608">Madame la Présidente, j'aimerais déposer les réponses du gouvernement aux questions n<Sup>os</Sup> 580, 763 et 841 à 876.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3191,7 +3162,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4823670">En conséquence, le vote par appel nominal est différé jusqu'à demain, à la fin de la période prévue pour les questions orales.</ParaText>
-              <ProceduralText TocType="TPC" id="12">Report du vote sur l'amendement</ProceduralText>
+              <ProceduralText TocType="TPC" id="11">Report du vote sur l'amendement</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3251,7 +3222,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=F#Responsabilite
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9455382">
-        <SubjectOfBusinessQualifier>Le taux d'imposition des petites entreprises</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La fiscalité</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gallant" id="9455332">
             <PersonSpeaking>
@@ -3802,13 +3773,13 @@ La diffusion de ce rapport a été synchronisée avec celle du Moniteur des fina
         <SubjectOfBusinessTitle>Le budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>L'exposé financier du ministre des Finances</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="13">Motion</ProceduralText>
+          <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
           <ParaText id="4823785"> La Chambre reprend l'étude de la motion portant que la Chambre approuve la politique budgétaire générale du gouvernement, ainsi que de l'amendement et du sous-amendement.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Ruimy" id="9455346">
             <PersonSpeaking>
               <Affiliation DbId="214046" Type="2">M. Dan Ruimy (Pitt Meadows—Maple Ridge, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4823786">Madame la présidente, je vais partager mon temps de parole avec la députée de <Affiliation DbId="214220" Type="2">Pickering—Uxbridge</Affiliation>.</ParaText>
+              <ParaText id="4823786">Madame la Présidente, je vais partager mon temps de parole avec la députée de <Affiliation DbId="214220" Type="2">Pickering—Uxbridge</Affiliation>.</ParaText>
               <ParaText id="4823787">Quand nous sommes arrivés au pouvoir en 2015, nous savions que les familles canadiennes avaient été découragées par une économie qui ne leur apportait pas grand-chose. Des Canadiens de tous les horizons nous avaient dit qu'ils étaient inquiets de l'avenir et de l'état actuel de l'économie et qu'ils voulaient un gouvernement qui croit en eux et investit pour eux.</ParaText>
               <ParaText id="4823788">J'ai parlé à des familles de ma circonscription, Pitt Meadows—Maple Ridge, qui sont confrontées aux défis propres à une économie dans un monde en évolution rapide. Même si les défis sont nombreux, il faut également être conscients des possibilités. Je suis fier que le budget de 2017 témoigne d'un espoir dans ce monde en évolution et qu'il ouvre des perspectives aux Canadiens. L'optimisme et l'ambition ont toujours fait partie de l'histoire des Canadiens. Nous sommes un peuple innovateur, créatif et rempli de compassion, qui fait passer la famille avant tout et qui croit qu'il est toujours possible d'améliorer les choses. </ParaText>
               <ParaText id="4823789">À mes yeux, le budget de 2017 vise à favoriser l'autonomie des Canadiens, des familles, des jeunes, des femmes et des communautés autochtones. Il vise aussi à aider les entreprises et les industries à réussir, non seulement au Canada, mais partout dans le monde. Le budget de 2017 est un investissement dans l'avenir des Canadiens. Je crois vraiment qu'il renforcera l'autonomie des collectivités, qu'il aidera la population et qu'il répondra aux besoins des membres vulnérables de la société, tout en créant des débouchés pour les familles et les générations futures.</ParaText>
@@ -3905,7 +3876,7 @@ L'ajournement de la Chambre est proposé d'office conformément à l'article 38
             <PersonSpeaking>
               <Affiliation DbId="229506" Type="18">Mme Karen McCrimmon</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4823822">Monsieur le Président, comme je viens de le dire, le gouvernement s'est bel et bien donné comme priorité d'améliorer la sécurité maritime et d'adopter un moratoire sur les pétroliers. Le ministre et ses collaborateurs ont sillonné le pays, de Haida Gwaii à St. John's en passant par Iqaluit, pour rencontrer les Canadiens chez eux, sur leur territoire, et savoir ce qu'ils pensent d'un moratoire sur les pétroliers et de la sécurité maritime. Le ministre a sollicité l'avis d'intervenants, de représentants des autres gouvernements, d'organismes non gouvernementaux et de groupes autochtones. Bref, nous avons tout fait pour que l'opinion de tous les Canadiens qui voulaient se faire entendre soit prise en compte.</ParaText>
+              <ParaText id="4823822">Madame la Présidente, comme je viens de le dire, le gouvernement s'est bel et bien donné comme priorité d'améliorer la sécurité maritime et d'adopter un moratoire sur les pétroliers. Le ministre et ses collaborateurs ont sillonné le pays, de Haida Gwaii à St. John's en passant par Iqaluit, pour rencontrer les Canadiens chez eux, sur leur territoire, et savoir ce qu'ils pensent d'un moratoire sur les pétroliers et de la sécurité maritime. Le ministre a sollicité l'avis d'intervenants, de représentants des autres gouvernements, d'organismes non gouvernementaux et de groupes autochtones. Bref, nous avons tout fait pour que l'opinion de tous les Canadiens qui voulaient se faire entendre soit prise en compte.</ParaText>
               <ParaText id="4823823">Nous donnons suite à ces priorités en intégrant au Plan de protection des océans diverses mesures de protection attendues depuis longtemps. Plus tard cette année, nous présenterons en outre une mesure législative sur le moratoire réclamé. Grâce à ces initiatives, les côtes canadiennes seront plus sûres, plus dynamiques et mieux protégées.</ParaText>
             </Content>
           </Intervention>
@@ -3952,7 +3923,7 @@ L'ajournement de la Chambre est proposé d'office conformément à l'article 38
             <Content>
               <ParaText id="4823836">Madame la Présidente, je remercie la députée de poser cette importante question. </ParaText>
               <ParaText id="4823837">Je profite de l'occasion pour souligner le travail et la contribution de la députée en faveur de l'égalité et du respect des droits de la personne. Chaque homme et chaque femme qui sert son pays mérite d'être traité avec dignité et respect, peu importe son sexe ou ses antécédents. </ParaText>
-              <ParaText id="4823838">Les résultats du rapport de Statistique Canada ont réaffirmé la raison pour laquelle le chef d'état-major de la Défense a fait de l'opération HONOUR sa priorité. Les données de cette enquête sur l'inconduite sexuelle ont fourni des informations extrêmement troublantes, mais aussi extrêmement utiles, et elles servent à ajuster les efforts de l'opération HONOUR. Un plan d'intervention pour résoudre les problèmes mentionnés dans le sondage sera publié par le chef d'état-major de la Défense, plus tard ce mois-ci.</ParaText>
+              <ParaText id="4823838">Les résultats du rapport de Statistique Canada ont réaffirmé la raison pour laquelle le chef d'état-major de la Défense a fait de l'opération Honneur sa priorité. Les données de cette enquête sur l'inconduite sexuelle ont fourni des informations extrêmement troublantes, mais aussi extrêmement utiles, et elles servent à ajuster les efforts de l'opération Honneur. Un plan d'intervention pour résoudre les problèmes mentionnés dans le sondage sera publié par le chef d'état-major de la Défense, plus tard ce mois-ci.</ParaText>
               <ParaText id="4823839">En attendant, des mesures ont déjà été prises pour répondre à certaines des principales préoccupations. La priorité a été de voir à ce que les victimes disposent d'options plus nombreuses et plus variées en ce qui concerne les soins et le soutien. Je suis heureux d'affirmer qu'elles en ont plus aujourd'hui qu'il y a un an. C'est une amélioration importante.</ParaText>
               <ParaText id="4823840"> Plusieurs initiatives de soutien aux victimes de violence sexuelle sont en cours d'élaboration, afin de s'assurer que ces dernières ont accès à une gamme complète de services pour les aider dans leur démarche avec le système de justice militaire et pour obtenir les soins dont elles ont besoin pour retrouver leur bien-être.</ParaText>
               <ParaText id="4823841">De plus, un réseau de soutien entre collègues sera offert sous peu. Le centre opérera en coordination avec le groupe de soutien aux victimes de stress opérationnel qui est déjà bien établi. </ParaText>
@@ -4046,7 +4017,7 @@ L'ajournement de la Chambre est proposé d'office conformément à l'article 38
             <PersonSpeaking>
               <Affiliation DbId="214904" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4823881"> La motion portant que la Chambre s'ajourne maintenant est réputée adoptée. La Chambre s'ajourne donc à demain, à<?bk?> 10 heures,<?ek?> conformément au paragraphe<?bk?> 24(1)<?ek?> du Règlement. </ParaText>
+              <ParaText id="4823881"> La motion portant que la Chambre s'ajourne maintenant est réputée adoptée. La Chambre s'ajourne donc à demain, à<?bk ?> 10 heures,<?ek ?> conformément au paragraphe<?bk ?> 24(1)<?ek ?> du Règlement. </ParaText>
               <ParaText id="4823882"> (La séance est levée à 18 h 59.) </ParaText>
             </Content>
           </Intervention>

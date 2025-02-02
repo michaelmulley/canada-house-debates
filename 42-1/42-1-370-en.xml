@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="10445430">
-  <StartPageNumber>24797</StartPageNumber>
+  <StartPageNumber>24761</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -127,7 +127,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10445456">
-        <SubjectOfBusinessTitle>Government of Canada</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Government Policies</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ashton" id="10445457">
             <PersonSpeaking>
@@ -400,7 +400,7 @@
                 <Poetry OriginalReceived="True">
                   <Verse>
                     <Line>Gift-wrapped surprises are now sheer delights.</Line>
-                    <Line>Like when Rob Ford said “Au revoir” to francophone rights.</Line>
+                    <Line>Like when Ford said “Au revoir” to francophone rights.</Line>
                   </Verse>
                 </Poetry>
                 <Poetry OriginalReceived="True">
@@ -451,7 +451,7 @@
       <CatchLine>Oral Questions</CatchLine>
       <SubjectOfBusiness id="10445547">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>The Economy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Scheer" id="10445548">
             <PersonSpeaking>
@@ -1040,7 +1040,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5734879">Mr. Speaker, it is wonderful to be able to look into this space and see every seat filled. I know there may be a few people here for the first time, but let me tell members that the Conservative benches—</ParaText>
+              <ParaText id="5734879">Mr. Speaker, it is wonderful to be able to look into this space and see every seat filled. I know there may be a few people here for the first time in the gallery, but let me tell members that the Conservative benches—</ParaText>
               <ParaText id="5734880">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
@@ -1264,7 +1264,6 @@
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5734932">Order. The member for <Affiliation DbId="214548" Type="2">Banff—Airdrie</Affiliation> will come to order, please. We each have our turn, and we wait for our turns. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> will wait for his turn also.</ParaText>
-              <ParaText id="5734933"> It is now the turn of the hon. member for Esquimalt—Saanich—Sooke.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1313,7 +1312,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10445954">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>The Economy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Scheer" id="10445916">
             <PersonSpeaking>
@@ -1423,7 +1422,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5734962">It being 5:25 p.m., pursuant to order made Tuesday, November 11, 2018, the House will now proceed to the taking of the deferred recorded division on Motion No. 163 under private members' business in the name of the member for <Affiliation DbId="214176" Type="2">Etobicoke Centre</Affiliation>.</ParaText>
+              <ParaText id="5734962">It being 3:25 p.m., pursuant to order made Tuesday, November 11, 2018, the House will now proceed to the taking of the deferred recorded division on Motion No. 163 under private members' business in the name of the member for <Affiliation DbId="214176" Type="2">Etobicoke Centre</Affiliation>.</ParaText>
               <ParaText id="5734963">Call in the members.</ParaText>
             </Content>
           </Intervention>
@@ -2383,7 +2382,7 @@
               <Affiliation DbId="229218" Type="4">Hon. Karina Gould (Minister of Democratic Institutions, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ParaText id="5735081"> moved the second reading of, and concurrence in, amendments by the Senate to Bill <Document DbId="9808070" Type="3">C-76, An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments</Document>.</ParaText>
+              <ParaText id="5735081"> moved the second reading of, and concurrence in, the amendment by the Senate to Bill <Document DbId="9808070" Type="3">C-76, An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments</Document>.</ParaText>
               <ParaText id="5735082">
                 <Quote>
                   <QuotePara IndentFirst="2" IndentRest="1">That the amendment made by the Senate to Bill C-76, An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments, be now read a second time and concurred in.</QuotePara>
@@ -2776,7 +2775,12 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="10383884" Rubric="Other">
+      <OrderOfBusinessTitle>GOVERNMENT ORDERS</OrderOfBusinessTitle>
+      <CatchLine>Government Orders</CatchLine>
       <SubjectOfBusiness id="10446352">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Elections Modernization Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Bill C-76—Notice of time allocation motion</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
@@ -2792,8 +2796,13 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="10191858" Rubric="PrivateMembersBusiness">
+      <OrderOfBusinessTitle>PRIVATE MEMBERS' BUSINESS</OrderOfBusinessTitle>
+      <CatchLine>Private Members' Business</CatchLine>
       <SubjectOfBusiness id="10446354">
         <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Canada Revenue Agency Act</SubjectOfBusinessTitle>
         <ProceduralText TocType="TPC" id="8">Bill C-316. Third reading</ProceduralText>
         <SubjectOfBusinessContent>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9890169">
-  <StartPageNumber>16307</StartPageNumber>
+  <StartPageNumber>16283</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -1512,7 +1512,6 @@
               <Affiliation DbId="214969" Type="93">The Assistant Deputy Speaker (Mr. Anthony Rota)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5187607">Order, please. I must stop the hon. member. What we will do is come back with his two minutes after, and he can wrap up then. By then it will be a bit quieter in the House, I am sure, and a little more conducive to questions.</ParaText>
-              <ParaText id="5187608">Statements by members, the hon. member for Joliette.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1703,7 +1702,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9893320">
         <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
-        <SubjectOfBusinessTitle>Lybia</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Libya</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Khera" id="9893321">
             <PersonSpeaking>
@@ -1912,6 +1911,8 @@
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5187700">Mr. Speaker, Canadians know that the previous Conservative government failed over the course of 10 years to give the men and women of our armed forces the equipment necessary to do their jobs. It so completely botched the fighter jet procurement—</ParaText>
+              <ParaText id="5239176">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9893432">
@@ -2019,6 +2020,8 @@
               <Affiliation DbId="214320" Type="4">Hon. Bill Morneau (Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5187721">Mr. Speaker, we know how important it is for small businesses to plan. What we can say, importantly—</ParaText>
+              <ParaText id="5239177">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -2345,6 +2348,8 @@
               <Affiliation DbId="233810" Type="4">Hon. Carla Qualtrough (Minister of Public Services and Procurement, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5187793">Mr. Speaker, today is a good day for Canada. We announced that, for the first time in 30 years, we are going to make a significant investment in the Royal Canadian Air Force. First of all, we announced the start of the process for a full fleet replacement that will have fighter jets in place between 2025 and 2030, and in the meantime, we are supplementing our existing fleet with an interim CF-18 purchase from Australia.</ParaText>
+              <ParaText id="5239178">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9893626">
@@ -2655,9 +2660,11 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-      <SubjectOfBusiness id="9893772">
-        <SubjectOfBusinessTitle>ROYAL ASSENT</SubjectOfBusinessTitle>
-        <CatchLine>Royal Assent</CatchLine>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="9890176" Rubric="Other">
+      <CatchLine />
+      <SubjectOfBusiness>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="9893771">
             <PersonSpeaking>
@@ -2704,13 +2711,13 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9893770">
-        <SubjectOfBusinessTitle>Bill C-66—Charter Statement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Expungement of Historically Unjust Convictions Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Goodale" id="9893747">
             <PersonSpeaking>
               <Affiliation DbId="214300" Type="4">Hon. Ralph Goodale (Minister of Public Safety and Emergency Preparedness, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="5187860">Mr. Speaker, on behalf of the <Affiliation DbId="214321" Type="4">Minister of Justice</Affiliation>, I would like to table, in both official languages, a charter statement on Bill <Document DbId="9273414" Type="3">C-66, An Act to establish a procedure for expunging certain historically unjust convictions and to make related amendments to other Acts</Document>. </ParaText>
+              <ParaText id="5187860">Mr. Speaker, I rise on a point of order. On behalf of the <Affiliation DbId="214321" Type="4">Minister of Justice</Affiliation>, I would like to table, in both official languages, a charter statement on Bill <Document DbId="9273414" Type="3">C-66, An Act to establish a procedure for expunging certain historically unjust convictions and to make related amendments to other Acts</Document>. </ParaText>
               <ParaText id="5187861">While I am on my feet, I want to express the appreciation of the government to all members on all sides of the House who have facilitated the prompt procedure of this legislation through the House of Commons.</ParaText>
             </Content>
           </Intervention>
@@ -3289,15 +3296,12 @@ The House resumed consideration of the motion that Bill <Document DbId="8374844"
               <ParaText id="5188112">
                 <I>And five or more members having risen:</I>
               </ParaText>
-              <ParaText id="5188113">
-                <B>The Deputy Speaker:</B> Call in the members.</ParaText>
-              <ParaText id="5188114">I see the hon. member for Hamilton West—Ancaster—Dundas.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Tassi" id="9894430">
+          <Intervention Type="Interjection" ToC="No" ToCText="Ms. Tassi" id="9894430">
             <PersonSpeaking>
-              <Affiliation DbId="214516" Type="2">Ms. Filomena Tassi (Hamilton West—Ancaster—Dundas, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214516" Type="2">Ms. Filomena Tassi</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="5188115">Mr. Speaker, I ask that the vote be deferred to the end of the time provided for oral questions tomorrow, Wednesday, December 13.</ParaText>
             </Content>
@@ -3308,7 +3312,6 @@ The House resumed consideration of the motion that Bill <Document DbId="8374844"
             <Content>
               <ProceduralText TocType="TPC" id="7">Division on motion deferred</ProceduralText>
               <ParaText id="5188116">Accordingly the recorded division stands deferred until Wednesday, December 13 at the expiry of the time provided for oral questions.</ParaText>
-              <ParaText id="5188117">I see the hon. member for Hamilton West—Ancaster—Dundas.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" ToCText="Ms. Tassi" id="9894434">
@@ -3485,8 +3488,8 @@ The House resumed consideration of the motion that Bill <Document DbId="8374844"
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="9894639" Rubric="Other">
-      <OrderOfBusinessTitle>GOVERNMENT ORDERS</OrderOfBusinessTitle>
-      <CatchLine>Government Orders</CatchLine>
+      <OrderOfBusinessTitle>PRIVATE MEMBERS' BUSINESS</OrderOfBusinessTitle>
+      <CatchLine>Private Members' Business</CatchLine>
       <SubjectOfBusiness id="9894640">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Child Health Protection Act</SubjectOfBusinessTitle>

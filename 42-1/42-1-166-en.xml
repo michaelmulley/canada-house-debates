@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-
-============================================================================================
-
-House of Commons - Canada
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-The data contained in this document is provided in a standard XML format. Once imported into
-a spreadsheet or database tool of your choice, the data can be filtered and sorted to create
-customized reports.
-
-Please refer to the instructions within the tool of your choice to find out how to import
-external data.
-
-For information about the disclaimer of liability:
-http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
-
-============================================================================================
-        -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="9483910">
-  <StartPageNumber>10499</StartPageNumber>
+  <StartPageNumber>10495</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -61,7 +42,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Access to the House of Commons</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Reference to Standing committee on Procedure and House Affairs</SubjectOfBusinessQualifier>
         <CatchLine>Privilege</CatchLine>
         <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
         <SubjectOfBusinessContent>
@@ -256,7 +237,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214040" Type="2">Mr. Mark Strahl</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4838878">I appreciate the passion in the question from the member for <Affiliation DbId="214139" Type="2">Essex</Affiliation>. It is clear that what the Liberals ran on and what they are delivering are two separate things. The latest example is the use of omnibus bills, which were specifically forbidden in their platform document. </ParaText>
+              <ParaText id="4838878">Mr. Speaker, I appreciate the passion in the question from the member for <Affiliation DbId="214139" Type="2">Essex</Affiliation>. It is clear that what the Liberals ran on and what they are delivering are two separate things. The latest example is the use of omnibus bills, which were specifically forbidden in their platform document. </ParaText>
               <ParaText id="4838879">We have a 300-page omnibus bill that deals with all kinds of things from increasing fees on people for passports, to increasing camping fees, to changing the role of the parliamentary budget officer. It contains all sorts of things and they used the exact same defence, quite frankly, that our Conservative government did: these are implementing matters that are in the budget. That was a great line when we said it, and they seem to have adopted it now.</ParaText>
             </Content>
           </Intervention>
@@ -388,7 +369,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9484903">
-        <SubjectOfBusinessTitle>Constituency News</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Haliburton—Kawartha Lakes—Brock</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Schmale" id="9484904">
             <PersonSpeaking>
@@ -396,7 +377,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <Content>
               <ParaText id="4838924">Mr. Speaker, with the melting of snow my riding has seen a flurry of activity. </ParaText>
               <ParaText id="4838925">Congratulations to Lindsay's own Strumbellas for winning a Juno for the song <I>Spirits</I> for single of the year.</ParaText>
-              <ParaText id="4838926">In Haliburton, the Chamber of Commerce held its 11th annual Business and Community Achievement Awards Gala. Congratulations to all award nominees and recipients, such as, The Pump Shop, Wintergreen, Haliburton Real Estate Team of Re/Max North Country, Highland Glass &amp; Windows, Community Living, Harcourt Park Marina, and Bonnie View Inn.</ParaText>
+              <ParaText id="4838926">In Haliburton, the Chamber of Commerce held its 11th annual Business and Community Achievement Awards Gala. Congratulations to all award nominees and recipients, such as The Pump Shop, Wintergreen, Haliburton Real Estate Team of Re/Max North Country, Highland Glass &amp; Windows, Community Living, Harcourt Park Marina, and Bonnie View Inn.</ParaText>
               <ParaText id="4838927">In addition, the Haliburton County Snowmobile Association won the Warden's award. Entrepreneur of the Year was presented to Mike McFadden. Reverend Max Ward was named Highlander of the Year.</ParaText>
               <ParaText id="4838928">Finally, the staff and students of Brock Secondary School raised their own funds and travelled to France for the 100th anniversary of the Battle of Vimy Ridge. They were one of the largest youth delegations from Canada. We are all very proud of them for ensuring they were at Vimy to commemorate this historic event.</ParaText>
             </Content>
@@ -410,10 +391,14 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214299" Type="2">Mr. Raj Grewal (Brampton East, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4838929">Mr. Speaker,</ParaText>
-              <ParaText id="4838930"> [<I>Member spoke in Punjabi </I>]</ParaText>
+              <ParaText id="4838929">
+              </ParaText>
+              <ParaText id="4838930"> [<I>Member spoke in Punjabi  as follows:</I>]</ParaText>
+              <ParaText id="4987297">
+                <I>Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh.</I>
+              </ParaText>
               <ParaText id="4838931">[<I>English</I>]</ParaText>
-              <ParaText id="4838932">Today Sikhs all around the world are celebrating Vaisakhi. Guru Gobind Singh started a Khalsa Panth in 1699, with the simple philosophy of <I>naam japna</I>, meditation; <I>kirt karni</I>, hard work; <I>seva</I>, selfless service., and always remembering that we have a responsibility to make the world around us a better place. These are not just Sikh values; these are Canadian values.</ParaText>
+              <ParaText id="4838932">Mr. Speaker, today Sikhs all around the world are celebrating Vaisakhi. Guru Gobind Singh started a Khalsa Panth in 1699, with the simple philosophy of <I>naam japna</I>, meditation; <I>kirt karni</I>, hard work; <I>seva</I>, selfless service., and always remembering that we have a responsibility to make the world around us a better place. These are not just Sikh values; these are Canadian values.</ParaText>
               <ParaText id="4838933">This past Monday, we celebrated Vaisakhi on the Hill and we were proud to show how Sikhs have contributed to Canada for many years. </ParaText>
               <ParaText id="4838934">We prayed for the success of all Canadians and our great nation. Our daily prayer read:</ParaText>
               <ParaText id="4838935">[<I>Member spoke in Punjabi </I>]</ParaText>
@@ -453,7 +438,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="214524" Type="2">Ms. Karen Ludwig (New Brunswick Southwest, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4838944">Mr. Speaker, the community of St. George in my riding of New Brunswick Southwest is in mourning today. Tuesday afternoon, we were shocked and saddened to learn of the tragic house fire that claimed the lives of four people: Esther Boyd and her three adult sons. St. George is a tight-knit community, and this loss is felt throughout my riding.</ParaText>
-              <ParaText id="4838945">I would like to thank the first responders, including the firefighters from St. George, Blacks Harbour, St. Stephen, and St. Andrews. I thank mayor Crystal Cook and fire chief Sean Morton for their leadership.</ParaText>
+              <ParaText id="4838945">I would like to thank the first responders, including the firefighters from St. George, Blacks Harbour, St. Stephen, and St. Andrews. I thank Mayor Crystal Cook and fire chief Sean Morton for their leadership.</ParaText>
               <ParaText id="4838946"> I and my family extend our deepest condolences to the family and all residents of St. George. Please join me in standing to recognize the Boyd family, the first responders, and the entire St. George community. They are in our thoughts and prayers.</ParaText>
             </Content>
           </Intervention>
@@ -483,7 +468,6 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4838950">Mr. Speaker, I rise today to convey my best wishes to all those celebrating Vaisakhi today in Canada and around the world. Vaisakhi is one of the most important days in Sikhism, as it marks the inauguration of the Khalsa and the fundamental principles of the Sikh faith laid down by the 10th guru, Guru Gobind Singh ji. </ParaText>
               <ParaText id="4838951">All across Canada, at their local gurdwaras and at home with their families, Sikhs will participate in colourful parades, ceremonies, and celebrations and will reflect on those values that embody the heart of our faith: harmony, unity, justice, equality, and service to all mankind. These values are not only at the core of Sikhism but are shared by all Canadians of all walks of life. I encourage all Canadians to participate in their local Vaisakhi festivities and to engage with their local Sikh communities in celebration of our common cause and purpose as Canadians.</ParaText>
               <ParaText id="4838952">Happy Vaisakhi to all. </ParaText>
-              <ParaText id="4838953">[<I>Member spoke in Punjabi as follows</I>:]</ParaText>
               <ParaText id="4838954">
                 <I> Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh. </I>
               </ParaText>
@@ -513,13 +497,13 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="213957" Type="2">Mr. Bob Saroya (Markham—Unionville, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4838959">Mr. Speaker, </ParaText>
-              <ParaText id="4838960">[<I>Member spoke in Punjabi as follows</I>:]</ParaText>
+              <ParaText id="4838959">
+              </ParaText>
               <ParaText id="4838961">
                 <I> Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh. </I>
               </ParaText>
               <ParaText id="4838962">[<I>English</I>]</ParaText>
-              <ParaText id="4838963">Vaisakhi marks the Sikh new year and commemorates the formation of the Khalsa Panth of warriors under Guru Gobind Singh in 1699. Every year, Sikhs participate in Nagar Kirtan processions, bringing communities together to socialize, share delicious food, and reflect on the teachings of Sikhism. This can be seen today in the GTA, where the Guru Gobind Singh Children's Foundation is holding a fundraiser for underprivileged kids around the world. </ParaText>
+              <ParaText id="4838963">Mr. Speaker, Vaisakhi marks the Sikh new year and commemorates the formation of the Khalsa Panth of warriors under Guru Gobind Singh in 1699. Every year, Sikhs participate in Nagar Kirtan processions, bringing communities together to socialize, share delicious food, and reflect on the teachings of Sikhism. This can be seen today in the GTA, where the Guru Gobind Singh Children's Foundation is holding a fundraiser for underprivileged kids around the world. </ParaText>
               <ParaText id="4838964">Vaisakhi is also a great occasion for us to celebrate the tremendous contributions of the Sikh community to Canada's culturally rich and diverse society. As the member of Parliament for Markham—Unionville, I wish all those celebrating Vaisakhi a joyous celebration.</ParaText>
               <ParaText id="4838965">[<I>Member spoke in Punjabi as follows</I>:]</ParaText>
               <ParaText id="4838966">
@@ -757,7 +741,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485000">
         <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
-        <SubjectOfBusinessTitle>Justice</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Marijuana</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. MacGregor" id="9484982">
             <PersonSpeaking>
@@ -858,7 +842,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839040">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="4839041">
-                <B>Hon. Tony Clement:</B> Anne McLellan is a former Liberal cabinet minister, and now we know she has close connections to the pot industry. While she was designing the framework for this new system, her legal colleagues were waiting in the wings to make big pot profits.</ParaText>
+                <B>Hon. Tony Clement:</B> Mr. Speaker, Anne McLellan is a former Liberal cabinet minister, and now we know she has close connections to the pot industry. While she was designing the framework for this new system, her legal colleagues were waiting in the wings to make big pot profits.</ParaText>
               <ParaText id="4839042">Is this new legislation merely a smokescreen for Liberal cronies to fill their pockets?</ParaText>
             </Content>
           </Intervention>
@@ -904,7 +888,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="224672" Type="96">Hon. Bardish Chagger (Leader of the Government in the House of Commons and Minister of Small Business and Tourism, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839051"> Our <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> will continue to respond to the real challenges that Canadians are facing. Wherever the Prime Minister travels, he must always be in a position to carry out his official duties. Like his predecessors, the Prime Minister must always be in contact with his office, and is always provided with support during his travels in Canada and abroad, whether for personal or official business.</ParaText>
+              <ParaText id="4839051"> Mr. Speaker, our <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> will continue to respond to the real challenges that Canadians are facing. Wherever the Prime Minister travels, he must always be in a position to carry out his official duties. Like his predecessors, the Prime Minister must always be in contact with his office, and is always provided with support during his travels in Canada and abroad, whether for personal or official business.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1039,7 +1023,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214380" Type="2">Mr. James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839076">Mr. Speaker, that Liberal cover-up stinks, and I will tell you what else stinks: the Liberal's response since cutting the danger pay of Canadian troops fighting ISIS, and it has been embarrassing. </ParaText>
+              <ParaText id="4839076">Mr. Speaker, that Liberal cover-up stinks, and I will tell you what else stinks: the Liberals' response since cutting the danger pay of Canadian troops fighting ISIS, and it has been embarrassing. </ParaText>
               <ParaText id="4839077">Conservatives forced the hands of the Liberals in fixing this outrageous decision, but today we learned the Liberals issued a ministerial order that is only returning some of the danger pay for some of our troops.</ParaText>
               <ParaText id="4839078">Military families who are no longer receiving this military danger pay are now turning to food banks to get by.</ParaText>
               <ParaText id="4839079">Why is the <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation> not standing up for our troops who are being treated so poorly by these Liberals?</ParaText>
@@ -1240,7 +1224,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485203">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Transportation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Rail Transportation</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Aubin" id="9485201">
             <PersonSpeaking>
@@ -1512,9 +1496,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839176">As our government has said, there is no relationship more important to our government than the one with indigenous peoples. Our government is fully implementing the Truth and Reconciliation Commission's calls for action, and this includes developing a reconciliation framework for Canadian heritage and commemoration. Any decision on this issue will be made, of course, in full partnership with indigenous peoples.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Warawa" id="9485278">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Warawa" id="9485278">
             <PersonSpeaking>
-              <Affiliation DbId="213926" Type="2">Mr. Mark Warawa (Langley—Aldergrove, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="213926" Type="2">Mr. Mark Warawa</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839177">Mr. Speaker, I rise on a point of order. I have a report from the Library of Parliament that I seek unanimous consent to table. It is a report that clearly shows that the carbon tax is not federally revenue neutral.</ParaText>
             </Content>
@@ -1530,16 +1514,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 <B>Some hon. members:</B> No.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="9485871">
-        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Oral Questions</SubjectOfBusinessQualifier>
-        <CatchLine>Points of Order</CatchLine>
-        <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Falk" id="9485280">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Falk" id="9485280">
             <PersonSpeaking>
-              <Affiliation DbId="214174" Type="2">Mr. Ted Falk (Provencher, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214174" Type="2">Mr. Ted Falk</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839181">Mr. Speaker, I rise on a point of order. Earlier today during question period when we questioned the minister about the gag order placed on the RCMP and the CBSA and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s inaction on the issue of illegal migrants, the <Affiliation DbId="214300" Type="4">Minister of Public Safety</Affiliation> made reference to a report that would provide data that the RCMP and CBSA officials have been compiling. </ParaText>
               <ParaText id="4839182">Mr. Speaker, I know you could not get unanimous consent from the Liberals on tabling a report that the hon. minister had, but could you ask for unanimous consent to table the report that the minister referred to in his response?</ParaText>
@@ -1553,9 +1530,9 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839184">I do see the hon. <Affiliation DbId="214300" Type="4">Minister of Public Safety</Affiliation> rising. Perhaps he could bring some clarification to the point.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Goodale" id="9485282">
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Goodale" id="9485282">
             <PersonSpeaking>
-              <Affiliation DbId="214300" Type="4">Hon. Ralph Goodale (Minister of Public Safety and Emergency Preparedness, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="214300" Type="4">Hon. Ralph Goodale</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839185">Mr. Speaker, as I indicated during question period, these statistics will be published very shortly, and I will make sure the hon. gentleman gets a copy as soon as they are available.</ParaText>
             </Content>
@@ -1646,7 +1623,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839193">Mr. Speaker, pursuant to Standing Order 34(1), I have the honour to present to the House, in both official languages, three reports of the Canada-United States Inter-Parliamentary Group.</ParaText>
               <ParaText id="4839194">The first concerns the annual summer meeting of the Western Governors' Association, held in Jackson Hole, Wyoming, U.S.A., from June 12 to June 14, 2016.</ParaText>
               <ParaText id="4839195">The second concerns the annual summer meeting of the National Governors Association, held in Des Moines, Iowa, U.S.A., July 14 to July 17, 2016.</ParaText>
-              <ParaText id="4839196">The third concerns the annual national conference of the Council of State Governments, held in Colonial Williamsburg, Virginia, <?bk?>U.S.A.,<?ek?> from December 8 to December 11, 2016.</ParaText>
+              <ParaText id="4839196">The third concerns the annual national conference of the Council of State Governments, held in Colonial Williamsburg, Virginia, <?bk ?>U.S.A.,<?ek ?> from December 8 to December 11, 2016.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1855,7 +1832,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485562">
-        <SubjectOfBusinessQualifier>Algoma Passenger Rail Service</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Rail Transportation</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Hughes" id="9485360">
             <PersonSpeaking>
@@ -1925,7 +1902,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="9485483">
-        <SubjectOfBusinessQualifier>Use of Ion Scanners in Prisons</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Public Safety</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Dubé" id="9485371">
             <PersonSpeaking>
@@ -2015,13 +1992,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="9485412" Rubric="Other">
-      <CatchLine>Privilege</CatchLine>
       <SubjectOfBusiness id="9485413">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Access to the House of Commons</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Reference to Standing committee on Procedure and House Affairs</SubjectOfBusinessQualifier>
+        <CatchLine>Privilege</CatchLine>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="16">Motion</ProceduralText>
           <ParaText id="4839269">The House resumed consideration of the motion, of the amendment, and of the amendment to the amendment. </ParaText>
@@ -2044,7 +2018,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText Interjection="e1" id="4839276">
                 <Affiliation DbId="214456" Type="2">Ms. Rachael Harder: </Affiliation> That is called a dictatorship.</ParaText>
               <ParaText id="4839277">
-                <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel: </Affiliation> That is called a dictatorship. My colleague from <Affiliation DbId="214456" Type="2">Lethbridge</Affiliation> filled in the blank for me on that one.</ParaText>
+                <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel: </Affiliation> Mr. Speaker, that is called a dictatorship. My colleague from <Affiliation DbId="214456" Type="2">Lethbridge</Affiliation> filled in the blank for me on that one.</ParaText>
               <ParaText id="4839278">Mr. Speaker, here are some of the things that I find absolutely crazy. Listen to this line: “...decisions must be made after a reasonable amount of debate.” The government does not get to decide what a reasonable amount of debate is. The people of Canada get to decide what a reasonable amount of debate is, by electing us. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> cannot unilaterally change the rules of Parliament to decide what that is. That is a function of Parliament. </ParaText>
               <ParaText id="4839279">It also states, “Societal changes have also brought about the need to ensure greater predictability in the House...to ensure Members have a better balance; and, to encourage under-represented segments of society to seek elected office.” I do not understand how curtailing the amount of debate time that each of us who has been elected here has would achieve better “balance”. I take that as meaning that the Prime Minister wants to work less. That is better balance to me. Taking Fridays off seems a little crazy. As for “to encourage under-represented segments of society to seek elected office”, I am not sure who would want to seek elected office after we have all had the ability to rise and speak, per the rules of this House, taken away. This is why what is happening at PROC is so ridiculous.</ParaText>
               <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
@@ -2053,7 +2027,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839282">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="4839283">
-                <B>Hon. Michelle Rempel:</B> My colleagues are laughing. What the Liberals are saying in this paper is that being summoned to vote on legislation is somehow an inconvenience. For anyone who might be watching this debate, that is our job. That is what we get paid to do. When the bell rings, we get to stand up and vote. However, they want to change that somehow.</ParaText>
+                <B>Hon. Michelle Rempel:</B> Mr. Speaker, my colleagues are laughing. What the Liberals are saying in this paper is that being summoned to vote on legislation is somehow an inconvenience. For anyone who might be watching this debate, that is our job. That is what we get paid to do. When the bell rings, we get to stand up and vote. However, they want to change that somehow.</ParaText>
               <ParaText id="4839284">The Liberals want the House to agree to sit beyond the dates of adjournment, and to sit longer days. I am just reading through this, and every time I look through this craziness, I wonder why the government is doing this.</ParaText>
               <ParaText id="4839285">I have just had a note passed to me suggesting I explain what PROC means, for the people who are listening. This is the procedure and House affairs committee that examines these types of changes. This committee is also tasked with looking at motions of privilege. </ParaText>
               <ParaText id="4839286">The Liberals tried to do this last year. We all remember the infamous Motion No. 6, where the government tried to change the Standing Orders unilaterally. The only reason that motion failed was that the House of Commons got so heated over our rule changes that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> elbowed somebody in a fist fight here in the House of Commons. What I am wondering is why, instead of wasting all of this time trying to change the rules to make Parliament less democratic, the government cannot just get on with the business of governing this country. Canadians must be watching the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> trying to make his job easier and saying he should just do his job; that is what they are paying him to do. However, no, here we are today.</ParaText>
@@ -2066,7 +2040,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
                 </Quote>
               </ParaText>
               <ParaText id="4839291">He is recognizing the fact that Liberal members who are not part of the executive, who are not cabinet ministers, have to have the right to stand up and oppose or hold the government to account. This is not a partisan issue; this is Canadian democracy. When this motion comes forward, when the subamendment comes forward, anybody who votes against it is voting against that principle, that fundamental principle that there should be unanimity among parties before we change the rules, because they are checks and balances on us.</ParaText>
-              <ParaText id="4839292">Going back to the comment made by the member for <Affiliation DbId="214040" Type="2">Chilliwack—Hope</Affiliation>, these are not our chairs, they are the chairs of the people of Canada, ergo we cannot unilaterally change the rules of Parliament without the consent of the people of Canada, which the government does not have. That is why this motion of privilege should take precedence at the PROC committee.</ParaText>
+              <ParaText id="4839292">Going back to the comment made by the member for <Affiliation DbId="214040" Type="2">Chilliwack—Hope</Affiliation>, these are not our chairs; they are the chairs of the people of Canada, so we cannot unilaterally change the rules of Parliament without the consent of the people of Canada, which the government does not have. That is why this motion of privilege should take precedence at the PROC committee.</ParaText>
               <ParaText id="4839293">I want to make this point. Some people have said that the Conservative Party invoked time allocation on so many bills, and we did. I take responsibility for that. However, Canadians held us to account for that in the last election. It was an election issue. People said, “You guys invoked time allocation on many bills.” For those people who are listening, time allocation is allowed in the Standing Orders to put a time limit on debate. However, there is a political cost to doing that.</ParaText>
               <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
               <ParaText id="4839294">What the Liberals want to do here is unilaterally change the rules so they do not have to be held to account by Canadians for curtailing debate on bills. The Liberals should have to stand every single time they invoke time allocation and say, “This is why we are invoking time allocation.” Every single time we did that, we were able to say, “This budget bill needs to pass. We feel that debate has been done.” The opposition was able to stand, and the media, and say, “No, it is not done”, and that discussion occurred.</ParaText>
@@ -2078,7 +2052,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="229501" Type="18">Mr. Adam Vaughan (Parliamentary Secretary to the Minister of Families, Children and Social Development (Housing and Urban Affairs), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839297">Mr. Speaker, at the heart of this debate, if we read the motion and the rulings that are tied to that original motion, is a point of privilege raised by a member who was on a bus when the bells were ringing, and because of the way security detail was leaving the Hill, that bus was blocked and that person failed to get to the House to vote. I think we all agree, because I certainly was here in the last term of Parliament when the same thing occurred to a member of the New Democratic Party, that this is a significant and serious issue. I do not think we would find any debate about that on this side of the House.</ParaText>
+              <ParaText id="4839297">Mr. Speaker, at the heart of this debate, if we read the motion and the rulings that are tied to that original motion, is a question of privilege raised by a member who was on a bus when the bells were ringing, and because of the way security detail was leaving the Hill, that bus was blocked and that person failed to get to the House to vote. I think we all agree, because I certainly was here in the last term of Parliament when the same thing occurred to a member of the New Democratic Party, that this is a significant and serious issue. I do not think we would find any debate about that on this side of the House.</ParaText>
               <ParaText id="4839298">What we are also hearing is this now being linked to a debate happening in another committee. It is not on a motion or a bill or an act by the government proposed by anyone on the government bench. It is simply on a discussion paper on how to change some of the rules in this House to make sure that people do not get stuck on buses and miss their votes, which is the fundamental principle to which the member just spoke.</ParaText>
               <ParaText id="4839299">We seek to have a conversation about modernizing Parliament, and we seek to protect people's privilege on that. I respect the opposition for fighting for their rights as hard as they are fighting. That is their job and that is their privilege in this House. We are trying to fix the situation where someone with the intent to vote, the intent to represent their constituents, the intent to get to the Hill, is prevented from doing so because of a process that was developed two centuries ago on how to notify people about votes. Nine times out of 10, it is a text we get telling us to vote, not a bell we hear in our offices. It is a light that flashes, not the bell, that actually gets us here.</ParaText>
               <ParaText id="4839300"> When we are trying to modernize Parliament, why are the members opposite not talking about how to fix that bus being stuck, to protect people's privilege? That is actually what is on the floor of the House today, not all the other stuff we just heard about for the last 10 minutes.</ParaText>
@@ -2090,7 +2064,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="4839301">Number one, Mr. Speaker, I absolutely and unilaterally reject my colleague's newspeak and the use of the word “modernization”. What he is saying is that he supports the PMO's dictatorial approach to unilaterally ram down the throats of parliamentarians changes to Canadian democracy.</ParaText>
-              <ParaText id="4839302"> Second, I reject my colleague's premise, because it was the Prime Minister's Office and the Liberal Party that tried to shut down debate on the original motion. It is the second point of privilege we are debating, which the Speaker of the House of Commons called unprecedented. The premise of the member's question is false.</ParaText>
+              <ParaText id="4839302"> Second, I reject my colleague's premise, because it was the Prime Minister's Office and the Liberal Party that tried to shut down debate on the original motion. It is the second question of privilege we are debating, which the Speaker of the House of Commons called unprecedented. The premise of the member's question is false.</ParaText>
               <ParaText id="4839303">Third, let us say there was a bill that would give Bombardier subsidies to a company out east, government subsidies, because a member of Parliament in the Liberal Party would like to make it easier for him to get re-elected by not allowing the Billy Bishop airport to have jets. I would argue that it is very important for us to get here to vote, and I am quite pleased to stand here to continue to debate that.</ParaText>
             </Content>
           </Intervention>
@@ -2271,7 +2245,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="229501" Type="18">Mr. Adam Vaughan (Parliamentary Secretary to the Minister of Families, Children and Social Development (Housing and Urban Affairs), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839377">Mr. Speaker, again I come back to what is at the heart of this conversation, which is the question of whether the point of privilege about a member of this House having the right to vote was dealt with. That is fair enough. The House has made a ruling, and we respect the ruling that the Chair made.</ParaText>
+              <ParaText id="4839377">Mr. Speaker, again I come back to what is at the heart of this conversation, which is the question of whether the question of privilege about a member of this House having the right to vote was dealt with. That is fair enough. The House has made a ruling, and we respect the ruling that the Chair made.</ParaText>
               <ParaText id="4839378">However, the fundamental issue is not really even about the rule changes that have been proposed as a point of conversation. I remind Canadians and people watching that there has been no bill or motion introduced around any particular change to the House procedures; what there has been is a request by the government to have a conversation about how to modernize this place so that, for example, people do not get stuck on a bus and miss a vote, which I think is an archaic way to manage the affairs of a modern Parliament. </ParaText>
               <ParaText id="4839379">What we are trying to figure out and look at is actually a series of contradictory ideas: Should we sit on Fridays? Should we have longer constituency periods and longer sessions of sitting? Should we sit longer in the day, or should we sit shorter in the day, but sit for more days? It is a series of contradictory ideas that are being presented to try to modernize this place.</ParaText>
               <ParaText id="4839380">What I find fascinating is that what is really being stopped here is not a change to the House's procedural rules. What is being filibustered, effectively, by this motion and others, is the idea that the majority of the House of Parliament gets to choose an executive, and the executive gets to set the agenda. </ParaText>
@@ -2523,10 +2497,10 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839490">Of course, the Fathers of Confederation never planned, anticipated, or intended for the government or members to manage the House. On the contrary, emphasis is put on the question of privilege.</ParaText>
               <ParaText id="4839491">Let us look at what is happening with the government's proposed changes, which are in fact at the heart of the current debate, although we are now debating the subamendment to the question of privilege relating to issue of privilege. As I said, I will not get into the entire back story, as my colleague from <Affiliation DbId="214396" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> explained it all so very well.</ParaText>
               <ParaText id="4839492">In fact, the debate is on the opposition members' current frustration with a disingenuous attempt by the Liberal government and especially the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to substantially and significantly reduce the right to speak, the right to vote, and the right of all hon. members to act as they see fit in the House. It is hard to see what the government hopes to achieve exactly. I do not wish to impugn their motives. I will leave it to everyone to come up with their own interpretation. However, one thing is clear, the government's discursive arguments are deeply flawed.</ParaText>
-              <ParaText id="4839493">Many things bother me about the discussion paper on reforming the Standing Orders. On page one, we read that Parliament “should respond to demands of greater accountability, transparency and relevance“. The Fathers of Confederation, constitutional conventions, and parliamentary conventions have never been concerned with relevance. The only thing that is very much relevant to all members and all Canadians is the election that is now held every four years under the new law. The only thing that is very much relevant is the result of the election which then translates into the division of political powers in the House of Commons. The only matter of relevance in the House is the representation of citizens and the representation of the different interests and different political forces in Canadian society.</ParaText>
+              <ParaText id="4839493">Many things bother me about the discussion paper on reforming the Standing Orders. On page one, we read that Parliament “should respond to demands of greater accountability, transparency and relevance.” The Fathers of Confederation, constitutional conventions, and parliamentary conventions have never been concerned with relevance. The only thing that is very much relevant to all members and all Canadians is the election that is now held every four years under the new law. The only thing that is very much relevant is the result of the election which then translates into the division of political powers in the House of Commons. The only matter of relevance in the House is the representation of citizens and the representation of the different interests and different political forces in Canadian society.</ParaText>
               <ParaText id="4839494"> In the second paragraph, we read that the impetus of the reforms is “to balance the desire of the minority's right to be heard with the majority's duty to pass its legislative agenda.” That is incredible. For a political minority to be heard is more than just a desire; it is a right. I was shocked to read such a thing in a text produced by the Canadian government. Is this an essay by a student at Cégep or is it a government document? It is really hard to tell.</ParaText>
               <ParaText id="4839495">In the third paragraph, we read that debates need to be more effective so that they are reasonable in length. Good heavens. Today I will be speaking for 20 minutes, although most of the time, I have only 10 minutes to speak. That is already unreasonable, because that is not a long time.</ParaText>
-              <ParaText id="4839496"> In my office I have a book called <I>Canada's Founding Debates</I>. Our predecessors in the House used to speak for two, three, four, or five hours. They would talk all night. Now we speak for 10 or 20 minutes, and we are being told that that is unreasonable. I was shocked to read those things in a government document.</ParaText>
+              <ParaText id="4839496"> In my office I have a book called <I>Canada's Founding Debates</I>. Our predecessors in the House used to speak for two, three, four, or five hours. They would talk all night. Now we speak for 10 or 20 minutes, and we are being told that it is unreasonable. I was shocked to read those things in a government document.</ParaText>
               <ParaText id="4839497"> The document also indicates that it is time “to re-evaluate the role of members and examine ways to increase their influence in the legislative process.” It is not easy to move forward with these kinds of reforms. In that regard, I have two very simple solutions I would like propose to the government, and I say this in all seriousness.</ParaText>
               <Timestamp Hr="14" Mn="15">(1415)</Timestamp>
               <ParaText id="4839498">I have two very simple solutions to propose to the government, and I am confident that they will have the support of the House. I, for one, would champion this my entire life. If the Liberals really want to return true legislative authority to all members of the House of Commons, two things need to happen. First of all, the Prime Minister's Office needs to go. It has only been around since the 1970s anyway. Before that time, many prime ministers were both prime minister and minister of foreign affairs. They were able to pull that off without the benefit of the PMO's 700 employees. I know what I am talking about, because I myself was an intern at the PMO, which has about 200 political staffers and 500 public servants.</ParaText>
@@ -2606,17 +2580,15 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
               <ParaText id="4839523">Mr. Speaker, I want to remind our hon. colleague across the floor that the <Affiliation DbId="224669" Type="4">government House leader</Affiliation> chose to have a discussion with the rest of the House, but she chose to do it through the media rather than having a respectful conversation. Really the discussion for the last three weeks has been on parliamentary privilege, and that is what we are talking about today. I want to remind folks that on page 61 of O'Brien and Bosc, it states:</ParaText>
               <ParaText id="4839524">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">The privileges of Members of the House of Commons provide the absolute immunity they require to perform their parliamentary work—</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">The privileges of Members of the House of Commons provide the absolute immunity they require to perform their parliamentary work [for their electors].</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4839525">—for their electors. </ParaText>
               <ParaText id="4839526">It goes on to state: </ParaText>
               <ParaText id="4839527">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1">The privileges of the Commons are designed to safeguard the rights of each and every elector. For example, the privilege of freedom of speech is secured to Members not for their personal benefit, but to—</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1">The privileges of the Commons are designed to safeguard the rights of each and every elector. For example, the privilege of freedom of speech is secured to Members not for their personal benefit, but to [be the voice of electors].</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="4839528">—be the voice of electors.</ParaText>
               <ParaText id="4839529">Essentially, what the government is doing is silencing the opposition. It is sending the message that all of the opposition and all of the electors that elected the opposition members, whether they are Conservative, NDP, Bloc, or Green, do not have a say. </ParaText>
               <ParaText id="4839530">Does my hon. colleague not agree that essentially what the Liberals are saying is that all of the electors in the ridings of the opposition members should not have a say and that their points do not really count?</ParaText>
             </Content>
@@ -2626,7 +2598,7 @@ http://webinfo.parl.gc.ca/MembersOfParliament/FAQ.aspx?Language=E#Liability
             <PersonSpeaking>
               <Affiliation DbId="214025" Type="2">Mr. Alupa Clarke</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="4839531">Mr. Speaker, what the Liberals want is to make sure that Canadians have less of a voice in the House. Since the constitutional revolution of 1982, led by Pierre Elliott Trudeau, the Liberal Party has been trying to do away with the Westminster system. The Liberal Party's ultimate goal is to bring a republican system to Canada. I will never stand for that. We blocked this reform paper before it went to committee to ensure that these proposals will never be passed.<ForceColumnBreak /></ParaText>
+              <ParaText id="4839531">Mr. Speaker, what the Liberals want is to make sure that Canadians have less of a voice in the House. Since the constitutional revolution of 1982, led by Pierre Elliott Trudeau, the Liberal Party has been trying to do away with the Westminster system. The Liberal Party's ultimate goal is to bring a republican system to Canada. I will never stand for that. We blocked this reform paper before it went to committee to ensure that these proposals will never be passed.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
