@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11366640">
-  <StartPageNumber>7957</StartPageNumber>
+  <StartPageNumber>7955</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -63,9 +63,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. May (Saanich—Gulf Islands)" id="11366646">
+          <Intervention Type="Interjection" ToC="No" id="11366646">
             <PersonSpeaking>
-              <Affiliation DbId="252941" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252941" Type="2">Ms. Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770519"> Madam Speaker, I rise on a point of order.</ParaText>
               <ParaText id="6770520">I understand we are now applying the will of the full House to the operations of the work of a committee. This is unusual, and I understand we have the powers to do it, if it is placed before us as a motion of instruction.</ParaText>
@@ -79,9 +79,9 @@
               <ParaText id="6770522">Yes, I have just confirmed it is a motion of time allocation that is perfectly legitimate.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Harder" id="11366648">
+          <Intervention Type="Interjection" ToC="No" id="11366648">
             <PersonSpeaking>
-              <Affiliation DbId="252800" Type="2">Ms. Rachael Harder (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252800" Type="2">Ms. Rachael Harder</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770523">Madam Speaker, I am rising on a point of order in order to challenge this ruling, the admissibility of the time allocation that has been moved by the government, because it does—</ParaText>
             </Content>
@@ -105,12 +105,19 @@
               <Affiliation DbId="264096" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770529">Since I have not read the motion yet and it has not been brought forth to the chamber, I am going to read the motion first and then we will listen to the points of order.</ParaText>
-              <ParaText id="6770530">[<I>Chair read text of the motion to the House</I>]</ParaText>
+              <ParaText id="6770530">[<I>Chair read text of motion to the House</I>]</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11366656">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11085197">
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Bill C-10—Time Allocation Motion</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11366656" ToCText="Ms. Harder">
             <PersonSpeaking>
-              <Affiliation DbId="252800" Type="2">Ms. Rachael Harder</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252800" Type="2">Ms. Rachael Harder (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770531">Madam Speaker, I am rising on a point of order in order to challenge the admissibility of that time allocation motion because it does not satisfy the requirements of Standing Order 78(3) and the usual practices of this House. Please allow me to explain further.</ParaText>
               <ParaText id="6770532">Standing Order 78(3) contemplates a minister proposing a motion “for the purpose of allotting a specified number of days or hours for the consideration and disposal of proceedings...provided that the time allotted...is not to be less than one sitting day”. Of course, it goes without saying that the House has sitting days with predictable schedules and whatnot, but not at our committees. How should this rule apply to committees then? I would respectfully submit that it is through the allocation of hours and past practices back me up.</ParaText>
@@ -136,7 +143,7 @@
               <Affiliation DbId="252646" Type="2">Mr. Mark Gerretsen (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770541">Madam Speaker, I have listened to the interjections from the Conservatives and the member for <Affiliation DbId="252953" Type="2">New Westminster—Burnaby</Affiliation>. I would submit that, despite the fact that previous usage of this particular procedure may have allocated a certain amount of time, the procedure does not indicate how much time needs to be used specifically.</ParaText>
-              <ParaText id="6770542">Furthermore, since the members are referencing that this is something that has not been used many times, if they do not feel as though this should be one of our standing orders, then they should bring forward suggestions on how to amend the standing orders. In the interim, it is one of our standing orders. It is a rule that we have. The fact that it has not been used often certainly is not an excuse to suggest that it cannot be used.</ParaText>
+              <ParaText id="6770542">Furthermore, since the members are referencing that this is something that has not been used many times, if they do not feel as though this should be one of our standing orders, then they should bring forward suggestions on how to amend the Standing Orders. In the interim, it is one of our standing orders. It is a rule that we have. The fact that it has not been used often certainly is not an excuse to suggest that it cannot be used.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11366668">
@@ -555,7 +562,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252646" Type="2">Mr. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770644">On that point, Madam Speaker, through her intervention, the member for <Affiliation DbId="253101" Type="2">Elgin—Middlesex—London</Affiliation> just admitted that the reason why they are being obstructionist is that they are not happy with the bill. That certainly is not a point of order. A point of order has to do with—</ParaText>
+              <ParaText id="6770644">On that point, Madam Speaker, through her intervention, the member for <Affiliation DbId="253101" Type="2">Elgin—Middlesex—London</Affiliation> just admitted that the reason they are being obstructionist is that they are not happy with the bill. That certainly is not a point of order. A point of order has to do with—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11366747">
@@ -588,7 +595,15 @@
               <ParaText id="6770655">The hon. member for Saint-Jean.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11082277">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Broadcasting Act</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Bill C-10—Time Allocation Motion</SubjectOfBusinessQualifier>
+        <CatchLine>Government Orders</CatchLine>
+        <SubjectOfBusinessContent>
+          <ParaText id="7105019">The House resumed consideration of the motion.</ParaText>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Normandin" id="11366761">
             <PersonSpeaking>
               <Affiliation DbId="252573" Type="2">Ms. Christine Normandin (Saint-Jean, BQ)</Affiliation>: </PersonSpeaking>
@@ -606,12 +621,19 @@
               <ParaText id="6770660">I have to interrupt the hon. member because the member for Peace River—Westlock is rising on a point of order.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11150937">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Bill C-10—Time Allocation Motion</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Viersen" id="11366764">
             <PersonSpeaking>
               <Affiliation DbId="252538" Type="2">Mr. Arnold Viersen (Peace River—Westlock, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770661">Madam Speaker, typically when we run across a Standing Order that is not regularly used and we are about to make new precedent with it, the Speaker gives a long ruling on whether this issue is in order or not. We have not heard the logic for this being in order. This is new to all of us. A text message from my staff last night said, “This is going to be interesting in the morning. We have never seen this before”. </ParaText>
+              <ParaText id="6770661">Madam Speaker, typically when we run across a standing order that is not regularly used and we are about to make new precedent with it, the Speaker gives a long ruling on whether this issue is in order or not. We have not heard the logic for this being in order. This is new to all of us. A text message from my staff last night said, “This is going to be interesting in the morning. We have never seen this before”. </ParaText>
               <ParaText id="6770662">It seems to me that we would see a large ruling. I was expecting to hear from you for several minutes on why this was going to be admissible and how it played into the reasons that this should be going on to a vote this morning. We are voting on Friday, and that also is unusual. Many things about this are unusual, and I was expecting to hear the logic on how we were going to be proceeding on this. I have heard none of the logic on this, and now it feels like this is—</ParaText>
             </Content>
           </Intervention>
@@ -636,7 +658,7 @@
             <Content>
               <ParaText id="6770666">Madam Speaker, I appreciate that your position can be difficult at times. Today is a certain expression of that, but we have points of concern that have been raised about members' rights. I agree 100% that decorum is important, but decorum comes from having a process.</ParaText>
               <ParaText id="6770667">When we have a motion of the government that clearly has not been used in this type of format for many decades, there are legitimate questions about the lessening of our rights as members to debate and discuss important issues. This bill also deals with the Canadian Charter of Rights. I am very surprised that the Liberal party is trying to push forward a process that not only clearly violates our rights as members to fully debate these things. This material legislation may also affect the Canadians we represent.</ParaText>
-              <ParaText id="6770668">I ask you to come back with an extensive ruling on this practice so that it does not set a precedent for future governments that will point to today and this abuse of our ability to discuss this issue at report stage. I hope we also agree that when the government is proposing changes to the Broadcast Act that infringe upon those rights, you should have a clear process in a minority Parliament that would clearly build the goodwill of all members. This cuts off debate without having proper process, without giving justification that this is not infringing upon our rights and without having the ability to debate. These are section 2(b) freedom of expression rights that are clearly laid out in the Charter. </ParaText>
+              <ParaText id="6770668">I ask you to come back with an extensive ruling on this practice so that it does not set a precedent for future governments that will point to today and this abuse of our ability to discuss this issue at report stage. I hope we also agree that when the government is proposing changes to the Broadcasting Act that infringe upon those rights, you should have a clear process in a minority Parliament that would clearly build the goodwill of all members. This cuts off debate without having proper process, without giving justification that this is not infringing upon our rights and without having the ability to debate. These are section 2(b) freedom of expression rights that are clearly laid out in the Charter. </ParaText>
               <ParaText id="6770669">I am surprised that the Liberal government is attempting to push through such a large-scale change at report stage without having a clean process. I know that decorum is central to your work because you are in charge of making sure of the business of this place, but I have seen today that, unfortunately, it is not there. It is not your fault, but it is your obligation to members who are concerned about our privileges here. We must know the process is clean. I hope you will listen to this intervention. I hope that the government will reconsider the way it is conducting itself. I do not even want to get into the other parties. I am surprised that after so many interventions protesting the use of time allocation, the NDP would tie themselves to a process that hurts this institution and sets precedent for future governments.</ParaText>
               <ParaText id="6770670">There is a lot on your plate, I understand. I hope that we can start focusing on making good laws and wise decisions. I would hope, Madam Speaker, that you would utilize the table officers to their fullest, and that you would suspend this hearing so that you could go through this and bring back the justifications that have been asked for by members with respect to this process today.</ParaText>
               <ParaText id="6770671">We cannot go back to our constituents and say the process was not clean. This is Canada. We believe in democratic governance, and that involves—</ParaText>
@@ -721,7 +743,7 @@
             <PersonSpeaking>
               <Affiliation DbId="264096" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770690">We are are a point of order.</ParaText>
+              <ParaText id="6770690">We are on a point of order.</ParaText>
               <ParaText id="6770691">The hon. member for Lethbridge.</ParaText>
             </Content>
           </Intervention>
@@ -730,7 +752,7 @@
               <Affiliation DbId="252800" Type="2">Ms. Rachael Harder</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770692">Madam Speaker, I am looking for some clarification, because it has been a bit of a shemozzle.</ParaText>
-              <ParaText id="6770693">We raised some points of order, a member got cut off partway through his point order, the Speaker insisted on then going into the 30 minutes for questions and comments. Now we are back to points of order, which I appreciate. I am curious if the clock was stopped during those 30 minutes, to resume once the points of order have been heard.</ParaText>
+              <ParaText id="6770693">We raised some points of order; a member got cut off partway through his point of order; the Speaker insisted on then going into the 30 minutes for questions and comments. Now we are back to points of order, which I appreciate. I am curious if the clock was stopped during those 30 minutes, to resume once the points of order have been heard.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11366820">
@@ -767,7 +789,7 @@
             <PersonSpeaking>
               <Affiliation DbId="272436" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770700">Madam Speaker, I do want to raise what I believe is a point of order. In listening to what has been taking place over the last half hour, it brings me back to a time when there was an issue with decorum in the chamber during a budget debate. It was the behaviour of members of the official opposition, who were banging their desks, ultimately storming out of the chamber. The Speaker at the time made a ruling. Official opposition members did not support it and they ended up walking out of the chamber.</ParaText>
+              <ParaText id="6770700">Madam Speaker, I want to raise what I believe is a point of order. In listening to what has been taking place over the last half hour, it brings me back to a time when there was an issue with decorum in the chamber during a budget debate. It was the behaviour of members of the official opposition, who were banging their desks, ultimately storming out of the chamber. The Speaker at the time made a ruling. Official opposition members did not support it and they ended up walking out of the chamber.</ParaText>
               <ParaText id="6770701">You have made a decision, Madam Speaker, and you were prepared to allow the debate to continue. The difference between your position and the other incident that I referenced is that we are in a hybrid system. I counted at least four or five Conservative members speaking when you called for decorum, and rightfully so. However, we need to put in place something that allows individuals to hear the questions and answers when there is inappropriate behaviour virtually. If it were in the chamber, you would have the Sergeant-at-Arms remove the person, but you do not have that tool virtually. </ParaText>
               <ParaText id="6770702">I raise that as something that can be taken into consideration, but at some point, the House needs to deal—</ParaText>
             </Content>
@@ -785,8 +807,8 @@
               <Affiliation DbId="252540" Type="2">Hon. Candice Bergen (Portage—Lisgar, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770705">Madam Speaker, I have to correct my hon. Liberal colleague from Manitoba. I do recall when we, in opposition, pounded the desks and did not let the then finance minister, Bill Morneau, deliver a budget. It was not because the Speaker had delivered a ruling; it was because we did not believe Bill Morneau was fit to be finance minister after all his ethical lapses. I recall that quite well.</ParaText>
-              <ParaText id="6770706">Respectfully, the issue here is that this is such a rare manoeuver for the government to take and there needs to be confidence that it is indeed in order. I understand that you believe it is order, Madam Speaker, but you have also indicated a number of times over the last half hour that you do not have the answers as to why you believe it to be in order. We trust you are confident you will get those answers. Why not suspend the House and speak with your officials, those who are assisting you? That is absolutely reasonable. Then you can come back when you feel confident you indeed have the answers and you can make your point, and have the confidence of everyone that it is in order. </ParaText>
-              <ParaText id="6770707">Because it is a rare issue coming before us, my suggestion and my request would be that you suspend the House. Madam Speaker.</ParaText>
+              <ParaText id="6770706">Respectfully, the issue here is that this is such a rare manoeuvre for the government to take and there needs to be confidence that it is indeed in order. I understand that you believe it is order, Madam Speaker, but you have also indicated a number of times over the last half hour that you do not have the answers as to why you believe it to be in order. We trust you are confident you will get those answers. Why not suspend the House and speak with your officials, those who are assisting you? That is absolutely reasonable. Then you can come back when you feel confident you indeed have the answers and you can make your point, and have the confidence of everyone that it is in order. </ParaText>
+              <ParaText id="6770707">Because it is a rare issue coming before us, my suggestion and my request would be that you suspend the House, Madam Speaker.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="50">(1050)</Timestamp>
@@ -817,7 +839,7 @@
               <ParaText id="6770716">The member, in the motion, as well as in the arguments made by the member for <Affiliation DbId="252646" Type="2">Kingston and the Islands</Affiliation>, is applying the sitting day of the House to a committee, but there are, in fact, different bodies with different lengths of days. The procedure that was used by the Speaker at that time was to say what constituted a sitting day in normal times in the context of that body, which was five hours for the House. Therefore, that is what is meant by a sitting day in the House.</ParaText>
               <ParaText id="6770717">If we were to apply the identical procedure to committees, using more correctly the precedent that was put forward by the Speaker, we would say that in a sitting day, the committees of the House function between 8:45 a.m. and 9:30 p.m., so that is 12 hours and 45 minutes. It would be a more correct application of that procedure to say that based on the ruling made by that member, it was a 12-hour, 45-minute period of time. That would be the correct application of the precedent that has been previously set by the Speaker, the member for <Affiliation DbId="252794" Type="2">Regina—Qu'Appelle</Affiliation>, building off and correcting the points made by the member, who has stickers on his laptop, which violates the rules on props.</ParaText>
               <ParaText id="6770718">I wanted to also return briefly to my previous point of order. It was with respect to the issue of members' rights and privileges with respect to moving amendments at committees and the fact that I have a number of amendments of which I have given notice, for which I have support at the committee, that are in order and that have strong stakeholder support, but I may not now be able to move because the motion would prevent me from doing so.</ParaText>
-              <ParaText id="6770719">I want to underline that we are dealing with, and maybe more, at least two distinct questions of order with respect to this motion. One was originally raised by the member for <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation> around the length of the day. The other was raised by myself with respect to the issue of amendments at committees. Those are separate issues that do require separate rulings with respect to whether this particular motion is in order. When I first raised that, Madam Speaker, you said you would come back to that. We certainly have not heard anything with respect to a ruling on that second question. Therefore, the House does need to hear certainly with respect to that.</ParaText>
+              <ParaText id="6770719">I want to underline that we are dealing with, and maybe more, at least two distinct questions of order with respect to this motion. One was originally raised by the member for <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation> around the length of the day. The other was raised by me with respect to the issue of amendments at committees. Those are separate issues that do require separate rulings with respect to whether this particular motion is in order. When I first raised that, Madam Speaker, you said you would come back to that. We certainly have not heard anything with respect to a ruling on that second question. Therefore, the House does need to hear certainly with respect to that.</ParaText>
               <ParaText id="6770720"> We have many issues, but these two in particular require rulings, especially the second one. We have had no indication of whether the Chair intends to rule on it. I agree with the suggestions of our deputy leader that this is one of those matters in which we need to have the clear information and data as well as the precise ruling coming from the Speaker. There is a lot of precedent in the House for when governments, or other parties or other members try to do things that are unprecedented, things that are controversial, that we have an opportunity for arguments to be heard and made.</ParaText>
               <Timestamp Hr="10" Mn="55">(1055)</Timestamp>
               <ParaText id="6770721">Frankly, it is much more common for members to have the opportunity to come back to the House with arguments. There may be members who would like to reflect over the weekend on the particulars of the motion and make arguments to the House on those issues.</ParaText>
@@ -846,11 +868,11 @@
               <ParaText id="6770734">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="6770735">
-                <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès):</B> Yes, we are approaching eleven o'clock, when we will have to go to statements by members. I am ruling. I am going to rule on the hon. member's initial point of order.</ParaText>
+                <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès):</B> Yes, we are approaching 11 o'clock, when we will have to go to Statements by Members. I am ruling. I am going to rule on the hon. member's initial point of order.</ParaText>
               <ParaText id="6770736">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="6770737">
-                <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès):</B> I am going to rule on the hon. member for <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation>'s point of order. We can go back to points of order after we deal with statements by members and Oral Questions.</ParaText>
+                <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès):</B> I am going to rule on the hon. member for <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation>'s point of order. We can go back to points of order after we deal with Statements by Members and Oral Questions.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
@@ -858,7 +880,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252785" Type="2">Hon. Pierre Poilievre</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770738">Madam Speaker, on a point order. For your ruling to have weight, members of the House must have had the opportunity to hear the debate that led to that ruling. In the middle of the speech by the member for <Affiliation DbId="252804" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation>, which is not in Saskatchewan but in Alberta, I could—</ParaText>
+              <ParaText id="6770738">Madam Speaker, on a point of order. For your ruling to have weight, members of the House must have had the opportunity to hear the debate that led to that ruling. In the middle of the speech by the member for <Affiliation DbId="252804" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation>, which is not in Saskatchewan but in Alberta, I could—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11366882">
@@ -874,7 +896,7 @@
             <Content>
               <ParaText id="6770740">Madam Speaker, it was not the issue of French and English, although that is a very important issue because we are a bilingual country. The issue was audibility.</ParaText>
               <ParaText id="6770741">The member for <Affiliation DbId="252804" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> was in the middle of speaking when the member for <Affiliation DbId="252646" Type="2">Kingston and the Islands</Affiliation> began to yell and scream about kings and monarchs and other matters that are unrelated to the debate, which rendered the member for <Affiliation DbId="252804" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> inaudible to members of the House. Therefore, we are not able to judge whether or not your ruling, Madam Speaker, includes the comments that he has made in this debate.</ParaText>
-              <ParaText id="6770742">Now, I think that the views of the member <Affiliation DbId="252804" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> are particularly important to this particular matter, because, of course, Edmontonians have a profound history of defending their freedoms and their freedoms of expression that goes back many generations, which is why I think this member has raised the point. </ParaText>
+              <ParaText id="6770742">Now, I think that the views of the member for <Affiliation DbId="252804" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> are particularly important to this particular matter, because, of course, Edmontonians have a profound history of defending their freedoms and their freedoms of expression that goes back many generations, which is why I think this member has raised the point. </ParaText>
               <ParaText id="6770743">The role of the House of Commons is to raise issues on the floor of the chamber that reflect the values of their constituents, but if the member for <Affiliation DbId="252646" Type="2">Kingston and the Islands</Affiliation> begins speaking with such volume that the member for Sherwood Park—Fort Saskatchewan cannot be heard, it is not the member for Sherwood Park—Fort Saskatchewan who is silenced, but the hundred thousand constituents who live in his riding whose voices do not resound in this august chamber. </ParaText>
               <ParaText id="6770744">This leaves you, Madam Speaker, in a position where you are expected to render a ruling without having heard the arguments because of the obnoxious behaviour of one particular member on the other side. I note that we have here a number of Conservative, Bloc and NDP members who are contributing to the debate, but one member in the Liberal caucus is making more noise than all of us combined, and that is rendering the debate inaudible. </ParaText>
             </Content>
@@ -891,7 +913,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253101" Type="2">Mrs. Karen Vecchio</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770747">Madam Speaker, I recognize that this is a very difficult topic, so I would ask that we actually move to statements of the day, go to question period, and then reconvene to this discussion.</ParaText>
+              <ParaText id="6770747">Madam Speaker, I recognize that this is a very difficult topic, so I would ask that we actually move to statements of the day, go to question period, and then resume this discussion.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -926,7 +948,7 @@
             <Content>
               <ParaText id="6770752">Madam Speaker, I rise with great sadness today to honour Pastor Ralph Benson, who died tragically last month.</ParaText>
               <ParaText id="6770753"> Pastor Benson faced many challenges as a young man, but through his relationship with our saviour he persevered to become a pillar in his church, his family and of all Newfoundland and Labrador. Known for his infectious energy and having a huge heart for people, he served Gander and the surrounding area in many ways. Pastor Benson was always there to support and love.</ParaText>
-              <ParaText id="6770754">Serving with him through it all is Paulette his wife. They raised three wonderful children, Melissa, Adam and Melanie, and that brings us to perhaps his best role, as "Poppy". His love and pride for his grandchildren were limitless. Nick, Julia, Daniel, Gracie, Avery, Luke and Jesse will walk with his spirit for the rest of their lives.</ParaText>
+              <ParaText id="6770754">Serving with him through it all is Paulette his wife. They raised three wonderful children, Melissa, Adam and Melanie, and that brings us to perhaps his best role, as “Poppy”. His love and pride for his grandchildren were limitless. Nick, Julia, Daniel, Gracie, Avery, Luke and Jesse will walk with his spirit for the rest of their lives.</ParaText>
               <ParaText id="6770755">The loss of Pastor Benson leaves a great hole in our lives and in our hearts. On behalf of all of us here in the House of Commons, I offer our condolences to the family. We will think of Pastor Benson often, until we see him again. God bless.</ParaText>
             </Content>
           </Intervention>
@@ -963,7 +985,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11366920">
-        <SubjectOfBusinessTitle>Pandemic Recovery</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>COVID-19 Pandemic Recovery</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Angus" id="11366921">
             <PersonSpeaking>
@@ -1015,42 +1037,15 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11366931">
-        <SubjectOfBusinessTitle>Ukraine International Airlines Flight PS752</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Ukraine International Airlines Flight 752</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Jowhari" id="11366932">
+          <Intervention Type="Debate" ToC="Yes" id="11366938" ToCText="Mr. Jowhari">
             <PersonSpeaking>
               <Affiliation DbId="253142" Type="2">Mr. Majid Jowhari (Richmond Hill, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770780">Madam Speaker, the downing of flight PS752 has struck a chord with my constituents and the Iranian Canadian community. </ParaText>
-              <ParaText id="6770781">The long road to have full accountability, justice and reparation has been challenging, with little transparency on the part of the government of Iran. Throughout this painful journey, the Canadian government and the strong community voices continue to lead on this fight. On May 20, 2021, the Ontario Superior Court joined this fight and ruled that the downing of flight PS752 was an act of terrorism. </ParaText>
-              <ParaText id="6770782">In addition to the steps taken by our government to date, a path to permanent residency for families of the victims and the appointment of Mr. Payam Akhavan as a senior adviser on the PS752 case are other key steps—</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11366933">
-            <PersonSpeaking>
-              <Affiliation DbId="264096" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6770783">I have to interrupt the hon. member.</ParaText>
-              <ParaText id="6770784">The hon. member for <Affiliation DbId="253051" Type="2">Berthier—Maskinongé</Affiliation>.</ParaText>
-            </Content>
-          </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" id="11366935">
-            <PersonSpeaking>
-              <Affiliation DbId="253051" Type="2">Mr. Yves Perron</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6770785">Madam Speaker, I rise on a point of order. There is no interpretation.</ParaText>
-              <ParaText id="6770786">Would the member start again with interpretation?</ParaText>
-            </Content>
-          </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" id="11366938">
-            <PersonSpeaking>
-              <Affiliation DbId="253142" Type="2">Mr. Majid Jowhari</Affiliation>: </PersonSpeaking>
-            <Content>
               <ParaText id="6770787">Madam Speaker, the downing of flight PS752 has struck a chord with my constituents and the Iranian Canadian community. </ParaText>
-              <ParaText id="6770788">The long road to have full accountably, justice and reparation has been challenging, with little transparency on the part of the Government of Iran. Throughout this painful journey, the Canadian government and the strong community voices continue to lead on this fight. On May 20, 2021, the Ontario Superior Court joined this fight and ruled that the downing of flight PS752 was an act of terrorism.</ParaText>
-              <ParaText id="6770789">In addition to the steps taken by our government today, a path to permanent residency for families of victims and the appointment of Mr. Payam Akhavan as a senior adviser on the PS752 case are other key steps in continuing an approach of support and to strive for just closure. </ParaText>
+              <ParaText id="6770788">The long road to have full accountability, justice and reparation has been challenging, with little transparency on the part of the Government of Iran. Throughout this painful journey, the Canadian government and the strong community voices continue to lead on this fight. On May 20, 2021, the Ontario Superior Court joined this fight and ruled that the downing of flight PS752 was an act of terrorism.</ParaText>
+              <ParaText id="6770789">In addition to the steps taken by our government to date, a path to permanent residency for families of victims and the appointment of Mr. Payam Akhavan as a senior adviser on the PS752 case are other key steps in continuing an approach of support and to strive for just closure. </ParaText>
               <ParaText id="6770790">Let there be no mistake. Those who were involved will be held responsible through all means and tools available in both courts of law and people. I would like to thank the Government of Canada for its ongoing leadership and support for all who have been impacted—</ParaText>
             </Content>
           </Intervention>
@@ -1074,7 +1069,7 @@
               <ParaText id="6770793">Lou Gehrig was one of the best baseball players to play the game. After his diagnosis of the disease that would one day bear his name, he told Yankees fans that even though they had read about his “bad break”, he considered himself “the luckiest man on...earth”. </ParaText>
               <ParaText id="6770794">That was 1939. My friend Tim Robertson lived with ALS for 13 years, and Tim had that same attitude. Whether it was sporting events or Sherpa-ing my signs during election campaigns, Tim never let the disease define him. </ParaText>
               <ParaText id="6770795">However, little has changed since 1939 for those diagnosed with ALS. Today there is still no cure. </ParaText>
-              <ParaText id="6770796">ALS Canada provides services and support, funds, research and advocates for change. On June 20, I will be joining Tim's wife, Beth, and walking virtually in the Walk to End ALS. I invite members to join us and support ALS Canada.</ParaText>
+              <ParaText id="6770796">ALS Canada provides services and support, funds research, and advocates for change. On June 20, I will be joining Tim's wife, Beth, and walking virtually in the Walk to End ALS. I invite members to join us and support ALS Canada.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1089,7 +1084,7 @@
             <Content>
               <ParaText id="6770797">Madam Speaker, for 15 months, Canadians have been asked to deal with a lot of very difficult situations, from lockdowns to celebrating family holidays without family or saying goodbye to loved ones in a detached and unfamiliar way. </ParaText>
               <ParaText id="6770798">I truly believe the end of COVID-19 is in sight. I want to thank all frontline workers and their families for their hard work and dedication during the pandemic. </ParaText>
-              <ParaText id="6770799">One province has shown true leadership during this pandemic, and that is my home province. The residents of Saskatchewan have been diligent, have done what they were asked to do, and as a result, we are returning to normal faster than every other province.</ParaText>
+              <ParaText id="6770799">One province has shown true leadership during this pandemic, and that is my home province. The residents of Saskatchewan have been diligent, have done what they were asked to do, and as a result are returning to normal faster than every other province.</ParaText>
               <ParaText id="6770800">Premier Moe announced that if 70% of people aged 12 and up are vaccinated by June 20, Saskatchewan will lift all restrictions by July 11. This means family barbeques, live music and kids playing sports in parks, baseball fields and football fields. Of course, all of us in Saskatchewan are looking forward to hearing the roar of Rider Nation at Mosaic Stadium.</ParaText>
               <ParaText id="6770801">I hope all Canadians can have a Saskatchewan summer.</ParaText>
             </Content>
@@ -1125,12 +1120,13 @@
               <ParaText id="6770810">For 32 years, the people of Hong Kong have carried their torches. Be it rain or shine, they continue to seek freedom and democracy, peace, prosperity, a responsible and contributive China.</ParaText>
               <ParaText id="6770811">This year, for fear of increasing state retaliation, they cannot. They have been forbidden from remembering the truth of events. This is why we must now carry the great burden, our umbrella torches. We join the world in carrying the torch of lady democracy. Liberty, much like Tiananmen, must never be forgotten.</ParaText>
               <ParaText id="6770812">[<I>Member spoke in Mandarin</I>]</ParaText>
+              <ParaText Continuation="True" id="7105020">[<I>English</I>]</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11366957">
-        <SubjectOfBusinessTitle>Human Rights</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Human Rights in China</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albas" id="11366958">
             <PersonSpeaking>
@@ -1139,7 +1135,7 @@
               <ParaText id="6770813">Madam Speaker, the iconic image of a single protester standing in front of a large row of tanks in Tiananmen Square is something I will never forget. I was 12, and I will always remember the images of those tanks rolling through student demonstrators in Beijing.</ParaText>
               <ParaText id="6770814"> Those students were peacefully protesting political corruption, economic inequality and severe restrictions on their personal freedom and speech. The Chinese government imposed martial law, sent 300,000 soldiers into Beijing and killed demonstrators. These were their own people and their own citizens.</ParaText>
               <ParaText id="6770815"> Prime Minister Mulroney saw the Chinese communist regime for what it was in 1989. His government took a firm stance against those catastrophic events inflicted on the Chinese people.</ParaText>
-              <ParaText id="6770816"> Two Canadians, 32 years later, sit in a Chinese prison on trumped up charges. Genocide is being committed against the Uighur ethnic minority in China.</ParaText>
+              <ParaText id="6770816"> Two Canadians, 32 years later, sit in a Chinese prison on trumped-up charges. Genocide is being committed against the Uighur ethnic minority in China.</ParaText>
               <ParaText id="6770817"> Let us not forget the lessons taught to us on June 4, 1989. Let us honour the memories of those who lost their lives, speaking out against tyranny.</ParaText>
               <ParaText id="6770818"> I urge the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to stand up for Canadian values when it comes to the Chinese communist regime.</ParaText>
             </Content>
@@ -1413,7 +1409,7 @@
               <Affiliation DbId="272434" Type="18">Mr. Sean Fraser (Parliamentary Secretary to the Deputy Prime Minister and Minister of Finance and to the Minister of Middle Class Prosperity and Associate Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770877">Madam Speaker, I point out to the hon. member that some of the supports he is referring to were offered by independent organizations to the banks, to allow them to loan more money to Canadians to help provide relief for mortgage payments.</ParaText>
-              <ParaText id="6770878">The reality is the wage subsidy program was designed to support workers. I am pleased to report that it has helped keep more than 5.3 million Canadian workers on the payroll so they could contribute to the economic recovery and be able to put food on the table in the interim.</ParaText>
+              <ParaText id="6770878">The reality is the wage subsidy program was designed to support workers. I am pleased to report that it has helped keep more than 5.3 million Canadian workers on the payroll so they could contribute to the economic recovery and were able to put food on the table in the interim.</ParaText>
               <ParaText id="6770879">The reality is that the member voted against our opportunity to raise taxes on the wealthiest 1% so we could cut them for the middle class. When he had an opportunity to send less money to millionaires through the Canada child benefit and put more money in the pockets of nine out of 10 Canadian families, he voted against it as well, so—</ParaText>
             </Content>
           </Intervention>
@@ -1476,7 +1472,7 @@
               <Affiliation DbId="252765" Type="2">Mr. Alain Rayes (Richmond—Arthabaska, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770891">Madam Speaker, the minister is spreading misinformation. We have nothing against culture, but we do oppose this minister's and the Liberal's censorship.</ParaText>
-              <ParaText id="6770892">Today they are showing us that they are opposed to net neutrality, they are attacking Canadians' freedom of expression on social media and they are using any means they can to give more power to the CRTC. If we do not think like the Liberals, then we deserve to be silenced.</ParaText>
+              <ParaText id="6770892">Today they are showing us that they are opposed to net neutrality; they are attacking Canadians' freedom of expression on social media and they are using any means they can to give more power to the CRTC. If we do not think like the Liberals, then we deserve to be silenced.</ParaText>
               <ParaText id="6770893">To make things worse, the Liberals have been trying for six years to make us believe that committees are independent and today they are imposing time allocation. How—</ParaText>
             </Content>
           </Intervention>
@@ -1615,7 +1611,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252933" Type="2">Hon. Ed Fast (Abbotsford, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770926">Madam Speaker, all talk and no action.</ParaText>
+              <ParaText id="6770926">Madam Speaker, they are all talk and no action.</ParaText>
               <ParaText id="6770927">The <Affiliation DbId="263831" Type="4">finance minister</Affiliation> has refused to say whether she made the return of the two Michaels a condition of throwing millions of taxpayers' money at this China-led bank. She also will not tell Parliament how many Canadian jobs this bank has created or how many of our small businesses have benefited. The lack of accountability is appalling. Meanwhile, it has been over 900 days since China threw the two Michaels into prison.</ParaText>
               <ParaText id="6770928">Why does the <Affiliation DbId="263831" Type="4">minister</Affiliation> continue to appease China when she cannot even secure—</ParaText>
             </Content>
@@ -1689,7 +1685,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253014" Type="2">Ms. Rachel Blaney (North Island—Powell River, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770978">Madam Speaker, in my riding, wild salmon is key to our cultural and economic health, and needs immediate action from the government to survive. </ParaText>
+              <ParaText id="6770978">Madam Speaker, in my riding, wild salmon is key to our cultural and economic health and needs immediate action from the government to survive. </ParaText>
               <ParaText id="6770979">In 2019, the Liberals made it clear, both in the election and then in the minister's mandate letter, that fish aquaculture would be changing. The <Affiliation DbId="272430" Type="18">parliamentary secretary</Affiliation> has been consulting on this since well before Christmas with the industry, indigenous leaders and the public.</ParaText>
               <ParaText id="6770980"> Now, after waiting over two months, aquaculture workers and wild salmon advocates are looking for clarity. There is no time to waste. Would the parliamentary secretary give us a date on when we can expect to see this report?</ParaText>
             </Content>
@@ -1815,7 +1811,7 @@
               <Affiliation DbId="252518" Type="2">Mr. Chris d'Entremont (West Nova, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6771035">Madam Speaker, the residents along the Avon River in Nova Scotia are looking for the <Affiliation DbId="253373" Type="4">Minister of Fisheries</Affiliation>’ final decision on the Windsor causeway. </ParaText>
-              <ParaText id="6771036">Her interim decision a few months has created chaos along the river. Lake Pisiquid is now a dusty dry basin apparently causing respiratory problems for residents of the town of Windsor. There are reports of fish and turtle kills upstream where fresh water and salt water are now mixing. The new unpredictable water flow is causing bank erosion, causing nightmares for families and farmers. </ParaText>
+              <ParaText id="6771036">Her interim decision a few months ago has created chaos along the river. Lake Pisiquid is now a dusty, dry basin, apparently causing respiratory problems for residents of the town of Windsor. There are reports of fish and turtle kills upstream, where fresh water and salt water are now mixing. The new unpredictable water flow is causing bank erosion, causing nightmares for families and farmers. </ParaText>
               <ParaText id="6771037">What decision will the <Affiliation DbId="253373" Type="4">minister</Affiliation> make, aboiteau or no aboiteau? </ParaText>
             </Content>
           </Intervention>
@@ -1867,7 +1863,7 @@
             <PersonSpeaking>
               <Affiliation DbId="272431" Type="18">Mr. Chris Bittle (Parliamentary Secretary to the Minister of Environment and Climate Change, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771071">Madam Speaker, we have a bold and ambitious plan to protect our environment, reduce emissions and create a sustainable economy for our kids and grandkids. Do not take my word for it. Former leader of the B.C. Green Party and leading climate scientist Andrew Weaver called our pollution pricing plan the gold standard and described our plan as an innovative, inspiring climate plan. We are here to protect the environment, fight climate change. It is a crisis, and we are taking significant, bold action.</ParaText>
+              <ParaText id="6771071">Madam Speaker, we have a bold and ambitious plan to protect our environment, reduce emissions and create a sustainable economy for our kids and grandkids. Do not take my word for it. Former leader of the B.C. Green Party and leading climate scientist Andrew Weaver called our pollution pricing plan the gold standard and described our plan as an innovative, inspiring climate plan. We are here to protect the environment, to fight climate change. It is a crisis, and we are taking significant, bold action.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
@@ -1913,7 +1909,7 @@
                 <B>An hon. member:</B> Oh, oh!</ParaText>
               <ParaText id="6771094">
                 <B>Mr. Sean Fraser: </B>—the provincial public health restrictions that have been put in place to keep people safe. He interrupted me because he does not have the ability to remain calm when dealing with facts he does not agree with.</ParaText>
-              <ParaText id="6771095"> The fact of the matter is that we have had an excellent record to both protect the public health of Canadians and to support them through this pandemic from the very beginning. We will not stop until it is done.</ParaText>
+              <ParaText id="6771095"> The fact of the matter is that we have had an excellent record both to protect the public health of Canadians and to support them through this pandemic from the very beginning. We will not stop until it is done.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1934,8 +1930,8 @@
             <PersonSpeaking>
               <Affiliation DbId="272438" Type="18">Ms. Jennifer O'Connell (Parliamentary Secretary to the Minister of Health, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771103">Madam Speaker, when it comes to our border measures, Canada has some of the strictest border measures in the world and we have done so precisely to add layers of protection. Each of these layers of protection are in place to track, trace and stop the spread of COVID-19.</ParaText>
-              <ParaText id="6771104">While the Conservatives one day say they want stricter border measures, they next day they say they do not. The only thing consistent with the Conservatives when it comes to public health measures is their inconsistency. We will not take lessons from them. We will listen to science and experts to make sure we keep—</ParaText>
+              <ParaText id="6771103">Madam Speaker, when it comes to our border measures, Canada has some of the strictest border measures in the world and we have done so precisely to add layers of protection. Each of these layers of protection is in place to track, trace and stop the spread of COVID-19.</ParaText>
+              <ParaText id="6771104">While the Conservatives one day say they want stricter border measures, the next day they say they do not. The only thing consistent with the Conservatives when it comes to public health measures is their inconsistency. We will not take lessons from them. We will listen to science and experts to make sure we keep—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11367208">
@@ -1997,7 +1993,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11367223">
-        <SubjectOfBusinessTitle>Government Programs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Canada Summer Jobs Program</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Dalton" id="11367222">
             <PersonSpeaking>
@@ -2048,7 +2044,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252824" Type="2">Mr. David Yurdiga (Fort McMurray—Cold Lake, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771159">Madam Speaker, the government has borrowed and spent an unprecedented amount of money in the time they have been in power. In the past year alone, the debt-to-GDP ratio has grown by almost 20%.</ParaText>
+              <ParaText id="6771159">Madam Speaker, the government has borrowed and spent an unprecedented amount of money in the time the Liberals have been in power. In the past year alone, the debt-to-GDP ratio has grown by almost 20%.</ParaText>
               <ParaText id="6771160">If the government insists on dumping all this new spending onto the Canadian economy, how does the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> expect the prices will not rise? Why is the Liberal government forcing Canadian people to endure the massive inflation that is coming? </ParaText>
             </Content>
           </Intervention>
@@ -2122,7 +2118,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253095" Type="2">Mr. Ramesh Sangha (Brampton Centre, Ind.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771193">Madam Speaker, the global COVID-19 pandemic situation has been prevalent here for more than one year. There are still vaccination shortages in hot spot areas.</ParaText>
+              <ParaText id="6771193">Madam Speaker, the global COVID-19 pandemic situation has been prevalent here for more than one year. There are still vaccination shortages in hotspot areas.</ParaText>
               <ParaText id="6771194">Why is the government failing to speed up the supply and distribution of the second dose of vaccinations to Canadians?</ParaText>
             </Content>
           </Intervention>
@@ -2130,7 +2126,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253801" Type="18">Mr. Steven MacKinnon (Parliamentary Secretary to the Minister of Public Services and Procurement, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771196">Madam Speaker, my hon. colleague will know that we are not third; we are not second; but we are first in the G20, in the G7 for first doses of vaccines. Well over 60% of Canadians have received that first dose, 29 million doses have been distributed right across the country and 25 million administered.</ParaText>
+              <ParaText id="6771196">Madam Speaker, my hon. colleague will know that we are not third; we are not second, but we are first in the G20, in the G7 for first doses of vaccines. Well over 60% of Canadians have received that first dose; 29 million doses have been distributed right across the country and 25 million administered.</ParaText>
               <ParaText id="6771197">Canada is proud of its leadership position, and we see cases coming down all over the country. We are very happy with how vaccines are proceeding.</ParaText>
             </Content>
           </Intervention>
@@ -2164,7 +2160,7 @@
             <Content>
               <ParaText id="6771215">Madam Speaker, it is with great sadness that I rise today to honour Pastor Ralph Benson, who died tragically last month. </ParaText>
               <ParaText id="6771216">Pastor Benson faced many challenges as a young man, but through his relationship with our saviour he persevered to become a pillar of his church, his family and all of Newfoundland and Labrador. Known for having an infectious energy and huge heart for people, he served Gander and the surrounding area in many ways. Pastor Benson was always there to offer support and love.</ParaText>
-              <ParaText id="6771217">Serving with him through it all was Paulette, his wife. They raised three wonderful children, Melissa, Adam and Melanie, and that brings us to perhaps best role: Poppy. His love for and pride in his grandchildren Nick, Julia, Daniel, Gracie, Avery, Luke and Jesse were limitless. They will walk with his spirit for the rest of their lives.</ParaText>
+              <ParaText id="6771217">Serving with him through it all was Paulette, his wife. They raised three wonderful children, Melissa, Adam and Melanie, and that brings us to perhaps his best role: Poppy. His love for and pride in his grandchildren Nick, Julia, Daniel, Gracie, Avery, Luke and Jesse were limitless. They will walk with his spirit for the rest of their lives.</ParaText>
               <ParaText id="6771218">The loss of Pastor Benson leaves a great hole in our lives and in our hearts. On behalf of all of us here in the House of Commons, our condolences to the family. We will think of Pastor Benson often until we see him again. May God bless him.</ParaText>
             </Content>
           </Intervention>
@@ -2172,9 +2168,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11367265">
         <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
-        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Bill C-10?Time allocation motion</SubjectOfBusinessQualifier>
-        <CatchLine>Points of Order</CatchLine>
+        <SubjectOfBusinessQualifier>Bill C-10—Time Allocation Motion</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Masse" id="11367266">
             <PersonSpeaking>
@@ -2725,7 +2719,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11367777">
         <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Procedural Role of Speaker </SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Procedural Role of Speaker</SubjectOfBusinessQualifier>
         <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Harder" id="11367382">
@@ -2775,14 +2769,14 @@
                 <B>An hon. member:</B> Thank you. I am doing my best. </ParaText>
               <ParaText id="6771337">
                 <B>Mrs. Karen Vecchio:</B> Madam Speaker, I would ask if the member could, just for one moment, be quiet.</ParaText>
-              <ParaText id="6771338">As we know, today has been a very difficult day. We have been working hard for the dignity of democracy and for the free speech of all Canadians. The the member is now questioning who we have in the lobby. Recognizing that we do need to have support staff, we are always going to have somebody sitting at the desk in the lobby, which is the appropriate thing to do. We also have a member from the House leader's office who is also assisting me. However, for recognizing that there must be many people there, the member is way off course. All he is trying to do is say that Conservatives do not care about health. That is so not the case. </ParaText>
+              <ParaText id="6771338">As we know, today has been a very difficult day. We have been working hard for the dignity of democracy and for the free speech of all Canadians. The member is now questioning who we have in the lobby. Recognizing that we do need to have support staff, we are always going to have somebody sitting at the desk in the lobby, which is the appropriate thing to do. We also have a member from the House leader's office who is also assisting me. However, for recognizing that there must be many people there, the member is way off course. All he is trying to do is say that Conservatives do not care about health. That is so not the case. </ParaText>
               <ParaText id="6771339">We are doing our job. We are putting all of the people in place, but the member wants us to go in there and count how many people there are. We are working, and perhaps if the member would care more about what his party is doing and a little less about what we are doing working together, we may have a little better discourse. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11368777">
-        <SubjectOfBusinessQualifier>Bill C-10—Time allocation motion</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Bill C-10—Time Allocation Motion</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Albas" id="11367439">
             <PersonSpeaking>
@@ -2869,7 +2863,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252646" Type="2">Mr. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771385">Madam Speaker, the members across the way yell, “Really?”. Yes. It is not a requirement. It is something that people get installed because they want to have it. Desperately wanting something does not make it a requirement, and that is what is so mind-boggling about Conservative logic. They think that just because someone really wants something, it suddenly becomes a need. It is not a need. We do not live in a country that needs home security systems.</ParaText>
+              <ParaText id="6771385">Madam Speaker, the members across the way yell, “Really?” Yes. It is not a requirement. It is something that people get installed because they want to have it. Desperately wanting something does not make it a requirement, and that is what is so mind-boggling about Conservative logic. They think that just because someone really wants something, it suddenly becomes a need. It is not a need. We do not live in a country that needs home security systems.</ParaText>
               <ParaText id="6771386">Of course, there are a lot of people out there who want them. I have one in my house, but I do not think that it is a requirement, and therefore the federal government, through the taxpayers of this country, should not be subsidizing and effectively paying for it. What kind of country do we live in when we agree that the federal government needs to help people install and pay for home security systems in their houses? It is ridiculous. This bill should not pass.</ParaText>
               <ParaText id="6771387">I implore all members of this House not to vote in favour of this bill. It is not worthy of their vote. It is just a bill that advances hidden boutique tax credits, because that is where Conservatives have always liked to put the tax advantages: to the wealthy. They are doing it with this bill here.</ParaText>
             </Content>

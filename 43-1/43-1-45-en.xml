@@ -47,7 +47,7 @@
         <Content>
           <ParaText id="6253931">Colleagues, before we begin our proceedings, I would like to say a few words regarding the special measures in place today.</ParaText>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <ParaText id="6253932"> Pursuant to order made on Tuesday, May 26, 2020, the application of Standing Order 17 will be suspended for the current sitting to allow members to practise physical distancing. Members desiring to speak and address the Chair may do so from any seat in the House.</ParaText>
+          <ParaText id="6253932"> Pursuant to order made on Tuesday, May 26, the application of Standing Order 17 will be suspended for the current sitting to allow members to practise physical distancing. Members desiring to speak and address the Chair may do so from any seat in the House.</ParaText>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <ParaText id="6253933">Additionally, as members know, this will be a hybrid sitting of the House. Some members will be participating via video conference and some will be participating in person. </ParaText>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -60,7 +60,7 @@
         </Content>
       </Intervention>
       <SubjectOfBusiness id="10925253">
-        <SubjectOfBusinessTitle>Explosion in Beirut</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Beirut Explosion</SubjectOfBusinessTitle>
         <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. El-Khoury" id="10925157">
@@ -95,14 +95,12 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10925267">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Romani People</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>The Romani People</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Zuberi" id="10925175">
             <PersonSpeaking>
-              <Affiliation DbId="252668" Type="2">Mr. Sameer Zuberi (Pierrefonds—Dollard, Lib.) </Affiliation>
-            </PersonSpeaking>
+              <Affiliation DbId="252668" Type="2">Mr. Sameer Zuberi (Pierrefonds—Dollard, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6253946"> moved:</ParaText>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="6253947"> Mr. Speaker, there have been discussions among the parties and if you seek it, I think you will find unanimous consent to adopt the following motion:</ParaText>
               <ParaText id="6253948">
@@ -145,10 +143,8 @@
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="10925181">
             <PersonSpeaking>
-              <Affiliation DbId="253848" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the President of the Queen’s Privy Council for Canada and to the Leader of the Government in the House of Commons, Lib.) </Affiliation>
-            </PersonSpeaking>
+              <Affiliation DbId="253848" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the President of the Queen’s Privy Council for Canada and to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6253955"> moved: </ParaText>
               <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
               <ParaText id="6253956"> Mr. Speaker, there have been discussions among the parties and if you seek it, I think you will find unanimous consent to adopt the following motion:</ParaText>
               <ParaText id="6253957">
@@ -172,12 +168,7 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </Intro>
-    <OrderOfBusiness id="10925188" Rubric="RoutineProceedings">
-      <OrderOfBusinessTitle>ROUTINE PROCEEDINGS</OrderOfBusinessTitle>
-      <CatchLine>Routine Proceedings</CatchLine>
       <SubjectOfBusiness id="10925189">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Lebanon</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Ms. Gould" id="10925190">
@@ -220,7 +211,7 @@
             <Content>
               <ParaText id="6253978">Mr. Speaker, it has been one week since the explosion of roughly 2,750 tonnes of ammonium nitrate that was stored for God knows why in the Port of Beirut for several years, a disaster that cost the lives of some 170 people and injured more than 6,000. We are talking about one of the largest explosions in history. It was one disaster too many for a country that has been going through an economic, financial and social crisis for several years, not to mention the current health crisis that, unsurprisingly, has thrown every country and their population into a state of uncertainty. </ParaText>
               <ParaText id="6253979">The Bloc Québécois wants to express its condolences to the families of the unfortunate victims of this explosion, its best wishes for a rapid recovery to the injured, and its solidarity with all the Lebanese people. The courage and resilience they have shown in overcoming this new ordeal, as well as the many challenges they have met throughout their history, is something to behold. </ParaText>
-              <ParaText id="6253980">I commend the government's decision, in response to the call by the Bloc Québécois, to commit to matching Canadians' and Quebeckers' donations and to launch the Lebanon Matching Fund. Quebec was deeply moved by this disaster, which is reminiscent of the Lac-Mégantic tragedy that the <Affiliation DbId="252623" Type="2">Leader of the Bloc Québécois</Affiliation> and I witnessed first-hand, since at the time we were Quebec's ministers of the environment and public safety respectively. Quebec has a large Lebanese community, so it is only natural that we ask the Canadian government to show a bit of the same generosity as Quebeckers and Canadians.</ParaText>
+              <ParaText id="6253980">I commend the government's decision, in response to the call by the Bloc Québécois, to commit to matching Canadians' and Quebeckers' donations and for having launched the Lebanon Matching Fund. Quebec was deeply moved by this disaster, which is reminiscent of the Lac-Mégantic tragedy that the <Affiliation DbId="252623" Type="2">Leader of the Bloc Québécois</Affiliation> and I witnessed first-hand, since at the time we were Quebec's ministers of the environment and public safety respectively. Quebec has a large Lebanese community, so it is only natural that we ask the Canadian government to show a bit of the same generosity as Quebeckers and Canadians.</ParaText>
               <ParaText id="6253981">Initially we identified the Red Cross, whose expertise and effectiveness in this type of situation are world-renowned. The government instead chose to transfer a portion of its aid through a coalition of humanitarian organizations with contacts on the ground. No matter, the important thing is that the aid gets to the people who need it.</ParaText>
               <ParaText id="6253982">That said, why did the government cap the amount that could be paid out by that group at $2 million, and why did it restrict the time for accepting donations to between the 4th and 24th of August? Why did it take the government over 24 hours to announce any assistance, which was initially rather modest? Why limit access to just 12 Canadian-based international aid agencies and not include local NGOs, which, facing the inertia of public authorities, are already on the ground and mobilized as we speak, ready to provide the medical assistance and the food needed by the people? Why was the Canadian Red Cross not included on that list?</ParaText>
               <ParaText id="6253983">The solidarity shown by everyone, people of all political stripes, over the past week has been remarkable. However, solidarity is not enough. Adequate, responsible, direct assistance is needed to help the Lebanese people, who will certainly figure out how to overcome this new hardship, as they have always done, supported by the steadfast friendship and support of Quebec, Canada and all caring nations.</ParaText>
@@ -335,7 +326,7 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
+    </Intro>
     <OrderOfBusiness id="10925986" Rubric="Other">
       <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
       <CatchLine>Government Orders</CatchLine>
@@ -543,7 +534,7 @@
               <Affiliation DbId="253403" Type="4">Hon. Carla Qualtrough</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254063">Mr. Speaker, I can assure everyone now, as we have been assuring Canadians for months, that nobody will be left behind. </ParaText>
-              <ParaText id="6254064">Absolutely, we have a plan in place that will make sure workers are supported. We want to make sure we are encouraging people to work when it is available to them and it reasonable to do so. We know that will not be so for people in many sectors, and we have a plan for them. I would say that in the coming days, and definitely in the coming week or so, we will be—</ParaText>
+              <ParaText id="6254064">Absolutely, we have a plan in place that will make sure workers are supported. We want to make sure we are encouraging people to work when it is available to them and it is reasonable to do so. We know that will not be so for people in many sectors, and we have a plan for them. I would say that in the coming days, and definitely in the coming week or so, we will be—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10925324">
@@ -566,7 +557,7 @@
               <Affiliation DbId="253372" Type="4">Hon. Ahmed Hussen (Minister of Families, Children and Social Development, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254068">Mr. Speaker, the hon. member asked a really important question.</ParaText>
-              <ParaText id="6254069">In addition to our long-term commitments on early learning and child care, this year alone we are delivering $400 million to provinces and territories as part of bilateral agreements on early learning and child care. I want to point out to the hon. member the fact that, in addition to that, as part of the Safe Restart Agreement, we are transferring an additional $625 million for early learning and child care to help a sector that has been hard hit by COVID-19.</ParaText>
+              <ParaText id="6254069">In addition to our long-term commitments on early learning and child care, this year alone we are delivering $400 million to provinces and territories as part of bilateral agreements on early learning and child care. I want to point out to the hon. member the fact that, in addition to that, as part of the safe restart agreement, we are transferring an additional $625 million for early learning and child care to help a sector that has been hard hit by COVID-19.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10925338">
@@ -954,8 +945,8 @@
             <PersonSpeaking>
               <Affiliation DbId="253140" Type="2">Mr. Warren Steinley</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254164">Mr. Speaker, that answer is ridiculous. Our country has never been more broken, because of the Liberal party's divisive policies toward all Canadians.</ParaText>
-              <ParaText id="6254165">When kids ask, “Dad, what is a Liberal?”, I will give them a quick answer. It is someone who seems incapable of passing up a crisis to help advance the prosperity of their friends and family. The national unity crisis gave us the sponsorship scandal, the global pandemic gave us more money for their rich friends and families and, because I like to have evidence, I will tell my kids to look at the last few weeks. They will see a contract given to Liberal-friendly WE for $900 million, a contract to a former Quebec MP for ventilators that have not been certified in any jurisdiction to date and, for the three-peat, a Liberal insider was given an $84-million contract, by coincidence, a company whose VP is the husband of the Prime <Affiliation DbId="214296" Type="1">Prime Minister's</Affiliation> chief of staff. </ParaText>
+              <ParaText id="6254164">Mr. Speaker, that answer is ridiculous. Our country has never been more broken, because of the Liberal Party's divisive policies toward all Canadians.</ParaText>
+              <ParaText id="6254165">When kids ask, “Dad, what is a Liberal?”, I will give them a quick answer. It is someone who seems incapable of passing up a crisis to help advance the prosperity of their friends and family. The national unity crisis gave us the sponsorship scandal, the global pandemic gave us more money for their rich friends and families and, because I like to have evidence, I will tell my kids to look at the last few weeks. They will see a contract given to Liberal-friendly WE for $900 million, a contract to a former Quebec MP for ventilators that have not been certified in any jurisdiction to date and, for the three-peat, a Liberal insider was given an $84-million contract, by coincidence, a company whose VP is the husband of the <Affiliation DbId="214296" Type="1">Prime Minister's</Affiliation> chief of staff. </ParaText>
               <ParaText id="6254166">A Liberal is going to liberal.</ParaText>
               <ParaText id="6254167">I ask the interim <Affiliation DbId="253404" Type="4">Minister of Diversity and Inclusion and Youth</Affiliation>, what is it about Liberals that makes them so corrupt?</ParaText>
             </Content>
@@ -991,7 +982,7 @@
               <ParaText id="6254177">I will split my time with the member for <Affiliation DbId="252554" Type="2">Foothills</Affiliation> today.</ParaText>
               <ParaText id="6254178">The Liberals are, no doubt, devastating families in Lakeland. There is no federal help for this year's agricultural emergency in my riding, with families facing a third year of damaged crops and a <Affiliation DbId="246260" Type="4">minister</Affiliation> who hikes costs on them and dismisses farmers as being emotional. It has been 140 days since the <Affiliation DbId="214320" Type="4">finance minister</Affiliation> promised help in hours for oil and gas, but not one application has been made or granted for large employers, not one mid-sized loan has been granted by the BDC, because the conditions are prohibitive, and the methane fund has yet to be launched.</ParaText>
               <ParaText id="6254179">Drillers and oil services are left out, fixed loans will not bridge the year and tens of thousands of Albertans are losing everything in real time, but in two weeks the Liberals were able to approve almost a billion dollars for the <Affiliation DbId="214296" Type="1">Prime Minister's</Affiliation> friends at WE, who paid the Prime Minister's family members and campaigned for the Liberals. Moreover, a former Liberal MP recently scored a lucrative contract for ventilators before they were approved by Health Canada.</ParaText>
-              <ParaText id="6254180">This is all bad, but what is worse is this: the Liberals' failures and corruption harm Canadian unity. Pierre Trudeau's strategist once said “Screw the west, we'll take the rest”. It is clear that the second wave just might be worse.</ParaText>
+              <ParaText id="6254180">This is all bad, but what is worse is this: the Liberals' failures and corruption harm Canadian unity. Pierre Trudeau's strategist once said, “Screw the west, we'll take the rest”. It is clear that the second wave just might be worse.</ParaText>
               <ParaText id="6254181">Why are the Liberals intent on sabotaging Alberta?</ParaText>
             </Content>
           </Intervention>
@@ -1239,7 +1230,7 @@
               <Affiliation DbId="252920" Type="2">Mr. Han Dong (Don Valley North, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254236">Mr. Speaker, a team Canada response to COVID-19 has been essential in protecting the health and safety of Canadians these past few months and will continue to be important as we move forward in our continued response to COVID-19 and to recovery, but this pandemic has also had a significant economic and social impact on communities across Canada. </ParaText>
-              <ParaText id="6254237">I have heard from many residents in Don Valley North who are asking for help in getting back to work in a safe and responsible manner. That is why I was so pleased to see the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> announce the Safe Restart Agreement that was reached with provinces and territories. I was especially happy to see the relief for the City of Toronto, which employs many front-line workers who are keeping our loved ones healthy and safe during this pandemic. In addition to providing services that residents of Don Valley North rely on, this includes support for the TTC, an essential service that so many of us rely on every day to keep us moving across the city.</ParaText>
+              <ParaText id="6254237">I have heard from many residents in Don Valley North who are asking for help in getting back to work in a safe and responsible manner. That is why I was so pleased to see the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> announce the safe restart agreement that was reached with provinces and territories. I was especially happy to see the relief for the City of Toronto, which employs many front-line workers who are keeping our loved ones healthy and safe during this pandemic. In addition to providing services that residents of Don Valley North rely on, this includes support for the TTC, an essential service that so many of us rely on every day to keep us moving across the city.</ParaText>
               <ParaText id="6254238">Could the <Affiliation DbId="253366" Type="4">Minister of Infrastructure and Communities</Affiliation> tell this House what the government is doing to help the safe restart of our economy?</ParaText>
             </Content>
           </Intervention>
@@ -1249,14 +1240,14 @@
               <Affiliation DbId="253366" Type="4">Hon. Catherine McKenna (Minister of Infrastructure and Communities, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254239">Mr. Speaker, I would like to thank the member for <Affiliation DbId="252920" Type="2">Don Valley North</Affiliation> for his important question.</ParaText>
-              <ParaText id="6254240">Now is the time to help communities like the City of Toronto to build back up from the effects of the COVID-19 pandemic. That is a key part of the $19-billion Safe Restart Agreement between our federal government and the provinces and territories. This agreement includes $2 billion in federal funding, matched by provinces and territories, for cities and towns across Canada. It is funding that will support front-line workers and critical municipal services as we keep people safe during the economic restart.</ParaText>
+              <ParaText id="6254240">Now is the time to help communities like the City of Toronto to build back up from the effects of the COVID-19 pandemic. That is a key part of the $19-billion safe restart agreement between our federal government and the provinces and territories. This agreement includes $2 billion in federal funding, matched by provinces and territories, for cities and towns across Canada. It is funding that will support front-line workers and critical municipal services as we keep people safe during the economic restart.</ParaText>
               <ParaText id="6254241">The Government of Canada has also agreed to match more than $1.8 billion to help cities keep their transit systems running so that Canadians can get to work and home to their families safely. For Ontario, the federal government has committed $1 billion for public transit, which the province is matching. </ParaText>
-              <ParaText id="6254242">We are supporting the front-line workers who are making an economic recovery possible because people depend on these critical front-line services, including public transit, to get safely back to work and to build back up our economy. If our cities are not running, our economy is not running. The Safe Restart Agreement will help Canada get back on track.</ParaText>
+              <ParaText id="6254242">We are supporting the front-line workers who are making an economic recovery possible because people depend on these critical front-line services, including public transit, to get safely back to work and to build back up our economy. If our cities are not running, our economy is not running. The safe restart agreement will help Canada get back on track.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="10925658">
             <PersonSpeaking>
-              <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253703" Type="22">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254243">Resuming debate, we will go to the hon. member for Elmwood—Transcona.</ParaText>
             </Content>
@@ -1662,7 +1653,7 @@
               <Affiliation DbId="253395" Type="4">Hon. Patty Hajdu (Minister of Health, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254323">Mr. Chair, I will go one better.</ParaText>
-              <ParaText id="6254324">We have actually, through our Safe Restart Agreement, committed to provinces and territories that we will procure and support access to personal protective equipment to the tune of well over $4 billion.</ParaText>
+              <ParaText id="6254324">We have actually, through our safe restart agreement, committed to provinces and territories that we will procure and support access to personal protective equipment to the tune of well over $4 billion.</ParaText>
               <ParaText id="6254325">We have been there for provinces and territories, making sure that Canada has the personal protective equipment it needs, no matter what part of the country we are talking about. As we do that, we have been rebuilding the supplies in our national emergency stockpile.</ParaText>
               <ParaText id="6254326">I will remind the member that the—</ParaText>
             </Content>
@@ -1818,7 +1809,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253386" Type="4">Hon. Bill Blair (Minister of Public Safety and Emergency Preparedness, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254357">Mr. Chair, as we have said very clearly, we strongly disagree with the tariffs that have been imposed by United States. They are unacceptable, we believe them unlawful and we are prepared to take strong reciprocal action.</ParaText>
+              <ParaText id="6254357">Mr. Chair, as we have said very clearly, we strongly disagree with the tariffs that have been imposed by the United States. They are unacceptable, we believe them unlawful and we are prepared to take strong reciprocal action.</ParaText>
               <ParaText id="6254358">We will not back down in the face of such intimidation, and it is our intent to always stand up for aluminum workers. As we do that, we are working closely with industries that are impacted by these unacceptable decisions made by the United States. We will be there to support those workers and to support those industries as we have always been.</ParaText>
             </Content>
           </Intervention>
@@ -2062,9 +2053,9 @@
               <ParaText id="6254417">We are going to stand up to them and are not going to back down. We are going to stand up for the aluminum industry and will impose appropriate tariffs. We are consulting with Canadians to make sure we get this right, and within 30 days—</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="M. Stanton" id="10926009">
+          <Intervention Type="Debate" ToC="No" id="10926009">
             <PersonSpeaking>
-              <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253704" Type="96">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254418">Resuming debate, the hon. member for Lac-Saint-Jean.</ParaText>
             </Content>
@@ -2087,7 +2078,7 @@
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="10926016">
             <PersonSpeaking>
-              <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253704" Type="96">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254422">Order. The member has the floor.</ParaText>
             </Content>
@@ -2295,9 +2286,9 @@
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="10926102">
+          <Intervention Type="Interjection" ToC="No" id="10926102">
             <PersonSpeaking>
-              <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253704" Type="96">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254473">I thank the hon. opposition House leader for bringing that to my attention. It occurred to me as I read his name, actually. I will indicate then that the motion will be proposed by the hon. Minister of Diversity and Inclusion and Youth on behalf of the hon. government House leader. I think that should take care of it. </ParaText>
               <ParaText id="6254474">We will proceed with the debate with the hon. Parliamentary Secretary to the Minister of Small Business, Export Promotion and International Trade.</ParaText>
@@ -2403,7 +2394,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253771" Type="18">Ms. Rachel Bendayan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254511">Mr. Chair, I would like to echo the comments of my hon. colleague with respect to the solidarity with which Canadians have come together during this pandemic. I would also to express my wish for the continued solidarity of all parties in this chamber in order for us to continue working for the benefit of Canadians as we continue to fight COVID-19. We need to continue to come together to get to the other side of this crisis.</ParaText>
+              <ParaText id="6254511">Mr. Chair, I would like to echo the comments of my hon. colleague with respect to the solidarity with which Canadians have come together during this pandemic. I would also like to express my wish for the continued solidarity of all parties in this chamber in order for us to continue working for the benefit of Canadians as we continue to fight COVID-19. We need to continue to come together to get to the other side of this crisis.</ParaText>
               <ParaText id="6254512">With respect to the specific question regarding the CERB program, I must admit that it is a program I hear of so much in my community, as I am sure I would in the communities of everybody in this House. I believe that there are over 8 million Canadians who have been helped by this extremely valuable program. It has allowed families to put food on the table, and pay for rent and housing.</ParaText>
               <ParaText id="6254513">As the <Affiliation DbId="253403" Type="4">Minister of Employment</Affiliation> has indicated several times now, we are in the process of transitioning from CERB to employment insurance. However, this is not the previous employment insurance. It is a modernized, changed employment insurance, which will ensure that all Canadians receive the support and help that they need.</ParaText>
             </Content>
@@ -2466,7 +2457,7 @@
               <ParaText id="6254536">When we asked the minister's staff when this would be fixed, they told us that the real problem was that the worker had made a mistake and incorrectly applied for the CERB rather than the work-sharing program. They blame the victims and refuse to fix the problem.</ParaText>
               <ParaText id="6254537">Fixing parental leave and adjusting the work-sharing program are simple changes that would help people immediately. The minister could go back to her office and fix these problems today. I hope she does.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6254538">A major policy suggestion the opposition has made was for a back-to-work bonus. The CERB is punitive in that it cuts off someone's entire benefit the moment they make over $1,000 a month. No government program should dis-incentivize work, but that is exactly what the CERB does when it does not have to.</ParaText>
+              <ParaText id="6254538">A major policy suggestion the opposition has made was for a back-to-work bonus. The CERB is punitive in that it cuts off someone's entire benefit the moment they make over $1,000 a month. No government program should disincentivize work, but that is exactly what the CERB does when it does not have to.</ParaText>
               <ParaText id="6254539"> We have provided a perfect policy option that would make the CERB more generous, more flexible, and make work more attractive. The government, of course, has ignored it completely. Canadians need support to transition into the work force and ensure that local businesses can still fill their shifts and get back on their feet.</ParaText>
               <ParaText id="6254540">At the same time, we know that the CERB is still essential for a great many Canadians.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -2589,7 +2580,7 @@
               <ParaText id="6254590">We are talking about astronomical amounts of money, mind-boggling amounts, and the participation of the contract recipient in the implementation of a program that was obviously tailor-made to ensure the government could claim that public servants were not capable of managing it. How insulting. Then, the managers of WE Charity, who had other governance problems, said that they were withdrawing, and the government gave the program back to those same public servants who it had claimed, not too long before, did not have the necessary expertise to manage the program. Eventually, there will be another scandal, and it will be the same old story all over again.</ParaText>
               <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
               <ParaText id="6254591">A Crown corporation agency is going to outsource it to a private company because it cannot manage it itself, even though it is bigger than the private company. That is appalling, because it amounts to the government failing to recognize the skills and qualifications of Canada's public servants. It makes no sense. On top of that, the government has a nasty habit of having friends who magically appear at just the right time to take on contracts for tens of millions of dollars. It is quite something. That is where we are at. </ParaText>
-              <ParaText id="6254592">I have been taking notes this whole time. No one is talking about an energy transition, even though that should be a priority, since public investment in the economic recovery will also be historic. No one is talking about creating industrial innovation clusters. No one is talking about electrifying heavy-duty vehicles. I saw a report on that topic this morning. No is talking about a number of things that could offer a way to get out of this crisis by creating economic activity.</ParaText>
+              <ParaText id="6254592">I have been taking notes this whole time. No one is talking about an energy transition, even though that should be a priority, since public investment in the economic recovery will also be historic. No one is talking about creating industrial innovation clusters. No one is talking about electrifying heavy-duty vehicles. I saw a report on that topic this morning. No one is talking about a number of things that could offer a way to get out of this crisis by creating economic activity.</ParaText>
               <ParaText id="6254593">No one is talking about fixes to certain programs that still fall short. Our colleague mentioned that earlier. Initially, we completely understood that there could be some gaps, since the program was created hastily and urgently, but after a while, enough is enough, and those gaps need to be filled. No one is talking about that. They are talking about the scandals.</ParaText>
               <ParaText id="6254594">Seniors who got a cheque that was supposed to cover a three-month period are not getting a second cheque. The three months ended a long time ago, and when they got their cheque, another one was supposed to be in the works. Seniors received $300 to get through the crisis, while the Liberal Party paid itself $850,000 through the wage subsidy program. Soon the Liberal Party will have $1.8 million in its pocket that it can use for the next election campaign. Seniors are being offered $300. If they get the guaranteed income supplement, they receive an extra $200. Seniors feel like this government is laughing in their faces.</ParaText>
               <ParaText id="6254595">Meanwhile, they have not written the second cheque to farmers for supply management. They could very well have done it, as they do not need to table a budget to pay out the second year of the compensation that the government promised. Meanwhile, the fundamental problem with the scholarship program that was to have been managed by WE Charity has not been resolved, even though it falls under Quebec's jurisdiction.</ParaText>
@@ -2656,7 +2647,7 @@
             <Content>
               <ParaText id="6254615"> Mr. Chair, as I said earlier, there are things that Parliament and the government are not doing because they are busy dealing with some not-so-good things. It is true that, not too long ago, the government seemed to be on a roll, perhaps leading it to believe that it might stick around.</ParaText>
               <ParaText id="6254616">However, once again, the government has shot itself in the foot. It is spending all of its time shooting itself in the foot, and we are now faced with a series of scandals that have Quebeckers and Canadians saying, “same old story, same old gang”.</ParaText>
-              <ParaText id="6254617">Those are definitely a concern, but as a result, we have failed to adequately address issues such as supply management and the payment of compensation. We have not spent enough time talking about some other supply managed sectors, namely, the egg and poultry sectors.</ParaText>
+              <ParaText id="6254617">Those are definitely a concern, but as a result, we have failed to adequately address issues such as supply management and the payment of compensation. We have not spent enough time talking about some other supply-managed sectors, namely, the egg and poultry sectors.</ParaText>
               <ParaText id="6254618">Again today, there are several issues that we did not spend much time on.</ParaText>
               <ParaText id="6254619">We in the Bloc Québécois will address these issues; we will talk about aluminum shortly. It is important. It is major. It is vital for Quebec, but today, we are addressing Liberal turpitude rather than dealing with serious issues. Aluminum was not properly protected and the protections against what the American government had basically already announced were not discussed, considered or implemented. We presented a series of proposals to the government and we are asking that it find someone who has time to look at them in order to protect Quebec aluminum. </ParaText>
             </Content>
@@ -2676,12 +2667,12 @@
             <Content>
               <ParaText id="6254622">Mr. Chair, it would be so easy to agree, but I do not want to say yes, because we have other work to do.</ParaText>
               <ParaText id="6254623">Of course, for the media and for many parliamentarians, the big question is this: Will the Bloc Québécois and the Conservatives manage to convince the NDP to stop supporting the Liberals? That, however, is not the real question.</ParaText>
-              <ParaText id="6254624">The real question is whether the government can survive for six months by replacing the bad guys with good guys. That is all we are asking for. If we could have that, the government could avoid all the comparisons with other scandals that were awful for Quebec, for Canada and for the LIberal Party. The Liberal Party certainly has no desire to return to the back benches. Can we simply put the right people in the right place to get good results? That way, no one would have to be brought down.</ParaText>
+              <ParaText id="6254624">The real question is whether the government can survive for six months by replacing the bad guys with good guys. That is all we are asking for. If we could have that, the government could avoid all the comparisons with other scandals that were awful for Quebec, for Canada and for the Liberal Party. The Liberal Party certainly has no desire to return to the back benches. Can we simply put the right people in the right place to get good results? That way, no one would have to be brought down.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10926268">
             <PersonSpeaking>
-              <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253704" Type="96">The Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254625">We have just enough time for one short question. </ParaText>
               <ParaText id="6254626">The hon. Minister of Foreign Affairs.</ParaText>
@@ -2723,7 +2714,7 @@
               <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
               <ParaText id="6254643">This great program, run by V2V Black Hops Brewing, exists in Langford. Unfortunately, the company was unable to qualify for the Canadian emergency wage subsidy and also had problems with the commercial rental assistance subsidy because of problems with the CRA. My office has repeatedly tried to get assistance from the <Affiliation DbId="214329" Type="4">Minister of National Revenue</Affiliation> on this, but so far there has been radio silence.</ParaText>
               <ParaText id="6254644">I also think of the retailer Sports Traders Duncan, which has been owned and operated by Richard and Maureen Ellis since 1995. Of course, they saw a precipitous drop in their business because there have not been any team sports happening. No one is coming in to buy sports equipment, so they saw a huge drop in their revenues. It was a calamitous drop for a business that has existed in my community for about 25 years. They were in a situation where their landlord did not want to participate in the commercial rental assistance program. Unfortunately, the Liberals designed the program so that it required buy-in by the landlord.</ParaText>
-              <ParaText id="6254645">What does a business do when it has an unco-operative landlord? There was no other route to take, even though I brought this to the attention of several ministers. Unfortunately, this business, which has been a pillar of our community for so many years, is now facing bankruptcy. We are probably going to lose it, although it is owned by two outstanding members of the community, and it will probably never be seen again.</ParaText>
+              <ParaText id="6254645">What does a business do when it has an uncooperative landlord? There was no other route to take, even though I brought this to the attention of several ministers. Unfortunately, this business, which has been a pillar of our community for so many years, is now facing bankruptcy. We are probably going to lose it, although it is owned by two outstanding members of the community, and it will probably never be seen again.</ParaText>
               <ParaText id="6254646">I want to highlight the efforts that have been made by two individuals in our caucus: the member for <Affiliation DbId="252953" Type="2">New Westminster—Burnaby</Affiliation>, who is our finance critic, and the hon. member for <Affiliation DbId="252992" Type="2">Courtenay—Alberni</Affiliation>, our critic for small business and tourism. Both of whom have repeatedly called on the government to make improvements to this program. Unfortunately, they were met with inaction.</ParaText>
               <ParaText id="6254647">Those are the things that we need to address. I know that small businesses continue to look to their elected leaders here in the House to find ways to make sure they are going to recover as we move into later stages of dealing with this pandemic. </ParaText>
               <ParaText id="6254648">Coming from British Columbia, I would be remiss if I did not talk about the ongoing opioid crisis. The opioid crisis continues to ravage my communities. In British Columbia in the last couple of months, we saw a record number of deaths. Unfortunately, because of a toxic street supply of drugs, we are continuing to see these overdose death rates.</ParaText>
@@ -2778,7 +2769,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252713" Type="2">Mr. Charlie Angus (Timmins—James Bay, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254667">Mr. Speaker, there are two pandemics in the country right now. We have COVID and and opioid pandemic. The opioid pandemic is very similar to COVID, in cutting across all sectors of society: rural, urban, rich and poor. I want to ask my hon. colleague about what he has seen in his community. </ParaText>
+              <ParaText id="6254667">Mr. Speaker, there are two pandemics in the country right now. We have COVID and an opioid pandemic. The opioid pandemic is very similar to COVID, in cutting across all sectors of society: rural, urban, rich and poor. I want to ask my hon. colleague about what he has seen in his community. </ParaText>
               <ParaText id="6254668">We know that in our Far North, the communities in Treaty 9 are so desperate to stop the opioids that they have people at the airports trying to stop the drugs from coming in because they have no other supports. In the city of Timmins, the police are working with mental health workers on the streets, trying to deal with this because they recognize that this is beyond criminal. This is a massive mental health crisis and we are seeing deaths, suffering and families being broken apart from the devastation from these drugs. We really want to be able to stop the pushers who are making these drugs, particularly fentanyl and its destructive nature, but we need to have measures of support to get people out of the nightmare of opioid addictions.</ParaText>
               <ParaText id="6254669">What has my hon. colleague seen on the west coast and what steps can we take in this Parliament in the midst of this COVID pandemic to deal with the other pandemic, the opioid crisis?</ParaText>
             </Content>
@@ -2988,7 +2979,7 @@
             <Content>
               <ParaText id="6254755">Mr. Speaker, I want to thank my hon. colleague for her passion for her constituents and for her province.</ParaText>
               <ParaText id="6254756">I was talking to the CEO of the Indigenous Tourism Association of Canada yesterday, which we all know does great work, and he does great work, on behalf of indigenous businesses in this country. He was recently informed that the association would be getting a contract for $16 million to deliver to over 600 indigenous businesses, which is much needed as we know, but he was also told that he would not be allowed to use any of the funds for administration or to help deliver the program. In fact, he was told that the association was going to be audited, but we also learned that the WE organization was going to get a $43-million fund for administering its program, and the company of the husband of the Prime Minister's chief of staff was getting $84 million as a commission to administer a program.</ParaText>
-              <ParaText id="6254757">Does the member agree that there are two ways that the Liberal government does business? There is one for its friends and then another for those who are not well connected.</ParaText>
+              <ParaText id="6254757">Does the member agree that there are two ways that the Liberal government does business? There is one for its friends and then another for those who are not well-connected.</ParaText>
               <ParaText id="6254758">Also, does she agree that there is systemic racism that exists in this country that we can see right now at a time when organizations need support to deliver much-needed support to the people in our country, like indigenous tourism business operators who need help right now?</ParaText>
             </Content>
           </Intervention>
@@ -2997,7 +2988,7 @@
               <Affiliation DbId="252803" Type="2">Mrs. Shannon Stubbs</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6254759">Mr. Speaker, I absolutely agree. I think the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, the cabinet and every Liberal member who enable mix-ups; scandal after scandal; ethics investigation after ethics investigation, which have literally never happened in the history of our country; and who cover for them; read off their notes; and do the dirty work for the kings demonstrate, like the member said, over and over again that there is one standard or rule for the Liberals and some benefits only for them, though only certain things the Liberals can take advantage of, and then there is the reality for everyone else.</ParaText>
-              <ParaText id="6254760">I also want to thank the member and acknowledge his for raising of this issue of indigenous businesses. In Lakeland, some of the businesses and communities that are hurt disproportionately because of the destructive anti-energy policies and programs of the last five years and the failure of the current COVID-19 programs are first nations and Métis communities. Among the barrage of reports of businesses collapsing at an exponentially increasing rate over the last several months, one situation was that a first nations-owned energy-producing company and community stopped producing for the first time in its history in my riding of Lakeland.</ParaText>
+              <ParaText id="6254760">I also want to thank the member and acknowledge his raising of this issue of indigenous businesses. In Lakeland, some of the businesses and communities that are hurt disproportionately because of the destructive anti-energy policies and programs of the last five years and the failure of the current COVID-19 programs are first nations and Métis communities. Among the barrage of reports of businesses collapsing at an exponentially increasing rate over the last several months, one situation was that a first nations-owned energy-producing company and community stopped producing for the first time in its history in my riding of Lakeland.</ParaText>
               <ParaText id="6254761">When I am talking about the COVID-19 programs' failure to support oil and gas businesses, I am also talking about COVID-19 programs' failure to support indigenous businesses and workers. For the first time, this community now has to figure out a way to cover its costs when it used to cover all of its programs and community services by its own source of revenue from its energy company. Now, it faces a completely uncertain future and an utter fiscal crisis.</ParaText>
             </Content>
           </Intervention>
@@ -3005,8 +2996,8 @@
             <PersonSpeaking>
               <Affiliation DbId="252878" Type="2">Mr. Ziad Aboultaif (Edmonton Manning, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254762">Mr. Speaker, I do not think the debate of who is and is not federalist and who is and is not nationalist is over. The sentiment in Alberta, and all members of the House from Alberta know, is strongly against the government. What adds fuel to the fire is the scandals that the government is going through.</ParaText>
-              <ParaText id="6254763">Can the member for <Affiliation DbId="252803" Type="2">Lakeland</Affiliation> tell us how much that is contributing to the position of Albertans when it comes to the government?</ParaText>
+              <ParaText id="6254762">Mr. Speaker, I do not think the debate is about who is and is not federalist and who is and is not nationalist. The sentiment in Alberta, and all members of the House from Alberta know, is strongly against the government. What adds fuel to the fire is the scandals that the government is going through.</ParaText>
+              <ParaText id="6254763">Can the member for <Affiliation DbId="252803" Type="2">Lakeland</Affiliation> tell us how this is contributing to the position of Albertans when it comes to the government?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10926536">
@@ -3152,7 +3143,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254825">It being 4:54 p.m., pursuant to order made on Tuesday, May 26, 2020, it is my duty to inform the House that proceedings on the motion have expired and the motion is deemed withdrawn.</ParaText>
+              <ParaText id="6254825">It being 4:54 p.m., pursuant to order made on Tuesday, May 26, it is my duty to inform the House that proceedings on the motion have expired and the motion is deemed withdrawn.</ParaText>
               <ProceduralText TocType="TCC" id="11">(Motion withdrawn)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6254826">The hon. minister on a point of order.</ParaText>
@@ -3167,7 +3158,7 @@
       <SubjectOfBusiness id="10926629">
         <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Questions on the Order Paper</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Questions Passed as Orders for Returns</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Anand" id="10926631">
             <PersonSpeaking>
@@ -3176,19 +3167,51 @@
               <ParaText id="6254827">Mr. Speaker, I am tabling the government's responses to Order Paper Questions Nos. 472 to 474.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="10926730">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessContent>
-          <ParaText>
-          </ParaText>
+          <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
+          <WrittenQuestionResponse>
+            <QuestionID>Question No.<Sup> </Sup>472--</QuestionID>
+            <Questioner>
+              <Affiliation DbId="252609">Mr. Scott Reid</Affiliation>:
+						</Questioner>
+            <QuestionContent>
+              <ParaText id="6255281">With regard to preparation and response to COVID-19: (<I>a</I>) what are the reasons for the decision of the National Research Council (NRC) to grant a non-exclusive licence to the biotechnology company CanSino to utilize a modified cell line invented by the NRC; (<I>b</I>) under the licence referred to in (<I>a</I>), what compensation, consideration, or other reciprocal arrangements did the NRC receive or agree to from CanSino; (<I>c</I>) under the licence referred to in (<I>a</I>), did the NRC obtain from CanSino or others an agreement that the Government of Canada could receive or make use of any resulting COVID-19 vaccine, and, if so, what are the details of those agreements, including the cost and other compensation or consideration; (<I>d</I>) if the answer to (<I>c</I>) is negative, what are the reasons for the lack of such an agreement; (<I>e</I>) if there are costs to the NRC, or any other Government of Canada entity, payable to CanSino or any other entity, resulting from the provision or licence of a COVID-19 vaccine to the Government of Canada further to the licence referred to in (<I>a</I>), what are the details of those costs, and what are the reasons for agreeing to those costs; (<I>f</I>) under the licence referred to in (<I>a</I>), did the NRC obtain from CanSino or others an agreement that CanSino would furnish any resulting COVID-19 vaccine to developing countries on a not-for-profit basis, and, if not, what are the reasons; (<I>g</I>) what is the total amount of direct or indirect funding that has been provided by the Government of Canada to Gilead Sciences, Inc. for the research, development, manufacture, or clinical trials of remdesivir; (<I>h</I>) what is the total value of any funding, tax incentives or credits, or other arrangements made with Gilead Sciences, Inc. with regard to its Canadian manufacturing or research and development facilities, including to retrofit or build new Gilead facilities to scale-up production capacity, including the (i) amounts, (ii) dates, (iii) specific uses of those funds; (<I>i</I>) what are the details of each grant from the Government of Canada, or a related agency, made to any academic institution to conduct research on remdesivir, including the (i) value, (ii) recipients, (iii) dates, (iv) terms of each grant; (<I>j</I>) was any research and development on remdesivir conducted directly by the Government of Canada or any public servants or federal agencies, and, if so, (i) what is the budget of each research project, (ii) who conducted it, (iii) on what date; (<I>k</I>) does the Government of Canada own any patents on remdesivir or has the government licensed any patents on remdesivir and, if so, which patents and patent applications, including their numbers, and what are the details of any licensing agreements, including (i) to whom or from whom the licences were issued, (ii) on what dates, (iii) the terms of the licences; (<I>l</I>) has the Government of Canada secured or negotiated access to remdesivir, should it receive regulatory approval from Health Canada, and, if so, what price has been negotiated per treatment; (<I>m</I>) further to the Prime Minister’s announcement on April 7, 2020, that Canada would purchase up to 30,000 ventilators, how many ventilators has the Government of Canada ordered, on what date, from which supplier, at what price per ventilator, which models and manufacturers, and how many have been received by the federal government and each province; (<I>n</I>) for each type of ventilator ordered by the federal government, are they capable of providing mechanical ventilation as described by the ARDSnet protocol by, for example, controlling and limiting respiratory rate, tidal volume, peak pressures, positive end expiratory pressure (PEEP), and fraction of inhaled oxygen (FiO2); (<I>o</I>) which sources or officials, broken down by name or, if names will not be disclosed, by job title or position, provided technical advice related to the selection of ventilator models, modes, and capabilities in the context of COVID-19; (<I>p</I>) since 2016, what funds, broken down by year, were allocated to the National Emergency Strategic Stockpile (NESS) of personal protective equipment, how much of those funds allocated were not spent, if any, and, if applicable, for what reasons were those funds not spent; (<I>q</I>) as of January 1, 2020, February 1, 2020, March 1, 2020, and March 15, 2020, what quantities of personal protective equipment were in the NESS inventory, broken down by (i) masks, (ii) N95 respirators, (iii) gloves, (iv) other personal protective equipment; and (<I>r</I>) who at the Public Health Agency of Canada is presently responsible for stock rotation of the NESS inventory, and on what date was that individual tasked with that function?</ParaText>
+            </QuestionContent>
+            <ResponseContent>
+              <ParaText id="6255282">(Return tabled)</ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <WrittenQuestionResponse>
+            <QuestionID>Question No.<Sup> </Sup>473--</QuestionID>
+            <Questioner>
+              <Affiliation DbId="252609">Mr. Scott Reid</Affiliation>:
+						</Questioner>
+            <QuestionContent>
+              <ParaText id="6255283">With regard to preparation and response to COVID-19: (<I>a</I>) why did the Chief Public Health Officer (CPHO) state that the risk of COVID-19 to Canadians was “low”, following cabinet’s approval on February 17, 2020, of the statement that "the introduction or spread of [COVID-19] would pose an imminent and severe risk to public health in Canada”; (<I>b</I>) which officials, broken down by name or, if names will not be disclosed, by job title or position, drafted or approved the talking points for the CPHO that reads “the level of risk within Canada [...] remains low”, and which is contained in the Annotated Agenda for the federal, provincial and territorial (FPT) health ministers’ special call on novel coronavirus (2019-nCoV) of February 3, 2020; (<I>c</I>) which officials, broken down by name or, if names will not be disclosed, by job title or position, participated in formulating the conclusion of the Public Health Agency of Canada (PHAC) risk assessment in (<I>b</I>), and what professional credentials or higher education, and in which subjects, do each of these officials possess; (<I>d</I>) which officials, broken down by name or, if names will not be disclosed, by job title or position, drafted or approved the “Responsive, if asked [...]” talking points for the CPHO that are contained in the Annotated Agenda for the FPT health ministers’ special call on 2019-nCoV of February 10, 2020; (<I>e</I>) on which dates has the Minister of Health or her officials furnished advice or direction on the talking points of the CPHO, and what was the guidance or direction, in summary, in each case; (<I>f</I>) with respect to the role of the CPHO as an official advisor to the World Health Organization's (WHO) emergency committee regarding the outbreak of the 2019-nCoV, did the CPHO expressly recommend during the Emergency Committee meetings of January 22 and 23, 2020, that the WHO should immediately declare a Public Health Emergency of International Concern and, if not, why not; (<I>g</I>) with respect to the role of the CPHO as an official advisor to the WHO as noted in (<I>f</I>), did the WHO request the CPHO to agree to any form of confidentiality or non-disclosure, and, if so, did she agree in writing or otherwise; (<I>h</I>) on which dates did the government give notification to the WHO of COVID-19 and communicate information about the outbreak, as required under Articles 6 and 7 of the International Health Regulations, and what are the details of each such communication; (<I>i</I>) why did the PHAC refuse to support or collaborate in a research grant application to the Canadian Institutes of Health Research in which Professor Amir Attaran was to be a co-investigator, and only agree to participate once informed that Professor Attaran voluntarily removed his name from the application; (<I>j</I>) if the research grant application referred to in (<I>i</I>) is successful, does the government object to Professor Amir Attaran participating as a co-investigator and, if so, what are the reasons for the objection; (<I>k</I>) which officials, broken down by name or, if names will not be disclosed, by job title or position, ghost wrote, co-wrote, edited, or otherwise contributed to article by the Prime Minister entitled "Canada's vision for global health and gender equality” that appeared in The Lancet on April 28, 2018; (<I>l</I>) which of the contributors to the article referred to in (<I>k</I>) filed an author statement or International Committee of Medical Journal Editors (ICMJE) form with The Lancet, and what contributions or conflicts of interest did each disclose therein; (<I>m</I>) further to the article referred to in (<I>k</I>), did the Prime Minister file an author statement or ICMJE form with The Lancet and, if so, what contribution did he disclose, and what contributions or conflicts of interest did he disclose therein; (<I>n</I>) how much money was spent by the government in the researching, writing, and promotion of the article referred to in (<I>k</I>); and (<I>o</I>) further to the article referred to in (<I>k</I>), for what reasons was pandemic preparedness, or an analogous topic, not included?</ParaText>
+            </QuestionContent>
+            <ResponseContent>
+              <ParaText id="6255284">(Return tabled)</ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <WrittenQuestionResponse>
+            <QuestionID>Question No.<Sup> </Sup>474--</QuestionID>
+            <Questioner>
+              <Affiliation DbId="252796">Mr. Michael Barrett</Affiliation>:
+						</Questioner>
+            <QuestionContent>
+              <ParaText id="6255285">With regard to the investigation into the leak of the Statistics Canada data relating to the April jobs numbers: (<I>a</I>) have ministerial staff been ordered to fully cooperate with the investigation, and, if not, why not; (<I>b</I>) who is conducting the investigation; (<I>c</I>) has the leak been referred to the RCMP, and, if not, why not; and (<I>d</I>) what is the full list of individuals outside of Statistics Canada who had access to the data prior to it being publicly released?</ParaText>
+            </QuestionContent>
+            <ResponseContent>
+              <ParaText id="6255286">(Return tabled)</ParaText>
+            </ResponseContent>
+          </WrittenQuestionResponse>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10926632">
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6254828">Accordingly, pursuant to order made on Tuesday, May 26, 2020, the House stands adjourned until Wednesday, August 26, 2020, at noon.</ParaText>
+              <ParaText id="6254828">Accordingly, pursuant to order made on Tuesday, May 26, the House stands adjourned until Wednesday, August 26, at noon.</ParaText>
               <ParaText id="6254829">(The House adjourned at 4:56 p.m.)</ParaText>
+              <ParaText id="6558716">The first session of the 43rd Parliament was prorogued by royal proclamation on August 18, 2020.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

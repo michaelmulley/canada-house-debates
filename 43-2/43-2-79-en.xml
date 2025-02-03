@@ -709,7 +709,7 @@
             <PersonSpeaking>
               <Affiliation DbId="264095" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6614598">I do apologize. I did not notice that the member did not have her headset on. I will double-checked to ensure the interpreters did hear. There was no problem for the them.</ParaText>
+              <ParaText id="6614598">I do apologize. I did not notice that the member did not have her headset on. I will double-checked to ensure the interpreters did hear. There was no problem for them.</ParaText>
               <ParaText id="6614599">I want to thank the member for Saskatoon—Grasswood for raising that point of order. I want to remind all members to ensure they have their headsets on before they speak.</ParaText>
             </Content>
           </Intervention>
@@ -1106,16 +1106,24 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="10687543" Rubric="PrivateMembersBusiness">
+      <OrderOfBusinessTitle>Routine Proceedings</OrderOfBusinessTitle>
+      <CatchLine>Routine Proceedings</CatchLine>
       <SubjectOfBusiness id="11229128">
-        <SubjectOfBusinessQualifier>Standing Committee on Industry, Science and Technology</SubjectOfBusinessQualifier>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Industry, Science and Technology</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
+          <ProceduralText TocType="TCC" id="11">(On the Order: Committee Reports:)</ProceduralText>
+          <ParaText id="6857824">December 2, 2020 — Mr. Nater (Perth—Wellington) — That the third report of the Standing Committee on Industry, Science and Technology, presented on Friday, November 27, 2020, be concurred in.</ParaText>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Gerretsen" id="11228109">
             <PersonSpeaking>
               <Affiliation DbId="252646" Type="2">Mr. Mark Gerretsen (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6614736">Mr. Speaker, there have been discussions among the parties, and if you seek it, I believe you will find unanimous consent to adopt the following motion.</ParaText>
               <ParaText id="6614737">I move:</ParaText>
-              <ProceduralText TocType="TPC" id="11">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
               <ParaText id="6614738">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That, notwithstanding any standing order, special order or usual practice of the House, the order for the deferred recorded division on the motion standing in the name of the member for Perth—Wellington to concur in the third report of the Standing Committee on Industry, Science and Technology be discharged and the motion be deemed adopted.</QuotePara>
@@ -1131,16 +1139,21 @@
               <ParaText id="6614739">All those opposed to the hon. member moving the motion will please say nay. I hear none.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6614740">The House has heard the terms of the motion. All those opposed to the motion being adopted, please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="12">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="13">(Order discharged and motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="10687544" Rubric="PrivateMembersBusiness">
+      <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
+      <CatchLine>Government Orders</CatchLine>
       <SubjectOfBusiness id="11230712">
         <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Criminal Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="13">Bill C-22. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="14">Bill C-22. Second reading</ProceduralText>
           <ParaText id="6614741">The House resumed consideration of the motion that Bill C-22, An Act to amend the Criminal Code and the Controlled Drugs and Substances Act, be read the second time and referred to a committee.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Vidal" id="11228149">
             <PersonSpeaking>
@@ -1280,7 +1293,7 @@
               <ParaText id="6614794">I remember when we were dealing with this and debating it about 10 years ago. A big supporter of this was Conservative Senator Vern White, who had been the police chief in Whitehorse and then in Ottawa. At that time, recidivism rates were around 40% to 60%, and the conditional sentencing rates were 10% to 30%. Much progress has been made in many cases.</ParaText>
               <ParaText id="6614795">I appreciate the Bloc's view on this from the experiences it has had in Quebec with diversion, conditional sentences and other forms of dealing with people, especially young offenders. I remember in February 2001, Michel Bellehumeur from Berthier—Montcalm was really passionate about this. In fact, I think he spent most of his term in the House of Commons passionately making that case about more appropriate treatment of people. In that case, it was young offenders, but also more progressive and successful treatment of first-time offenders.</ParaText>
               <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
-              <ParaText id="6614796">Also, I want to clarify what some have talked about with respect to safety and conditional sentencing. Once again, that is only allowed if the person is not a “danger to society ”, which is the term for use by the judge and only for a sentence that is less than two years. There have been a number of successful stories of women who were not put in jail, but were given conditional sentences to stay with their family and their social network, and go to treatment.</ParaText>
+              <ParaText id="6614796">Also, I want to clarify what some have talked about with respect to safety and conditional sentencing. Once again, that is only allowed if the person is not a “danger to society”, which is the term for use by the judge and only for a sentence that is less than two years. There have been a number of successful stories of women who were not put in jail, but were given conditional sentences to stay with their family and their social network, and go to treatment.</ParaText>
               <ParaText id="6614797">The third element of the bill relates to the possession of drugs. In the majority of crimes, people are either on substance or are trying to get money for a substance, including alcohol. Therefore, I personally would move more toward what Portugal is doing. It is a step in the right direction. If people have an addiction, the last thing they need is a criminal record. It is harder for them to get a job, which is what may have caused the addiction in the first place, to feed their family, etc. </ParaText>
               <ParaText id="6614798">Finally, the federal economic statement, which I hope we will be voting on this week, has support for some of the items that people have mentioned, such as support for the Gladue report, the race and cultural assessments and community justice centres, all of which can deal with the root causes and the situations people are in. From my perspective, this is a move in the right direction on a number of fronts to make it safer, to reduce the number of victims, to reduce the costs and to have a fairer justice system.</ParaText>
             </Content>
@@ -1413,7 +1426,7 @@
               <ParaText id="6614856">No family should ever feel unsafe in their community, in their neighbourhood or walking down their street. The previous Conservative government pledged to change those laws and keep our streets and communities safe. Before the 2019 election, we released our platform entitled “A Safer Canada”, a three-pronged action plan targeting street gangs and arms trafficking, among other things. We covered it all in our platform.</ParaText>
               <ParaText id="6614857">Then the Liberals regained power. It was fortunate for them that they won the election, but it was unfortunate for Canadians because the Liberals are not doing what needs to be done to protect people and fix the firearms problem once and for all.</ParaText>
               <ParaText id="6614858">To read Bill C-22 we can only assume that the Liberals are incapable of discharging their governmental responsibility to ensure our safety. In contrast, the Conservative government always brought in measures to ensure the safety of all Canadians. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> claims he wants to help Canadians, but he is doing nothing to ensure that criminals are brought to justice and answer for their actions. </ParaText>
-              <ParaText id="6614859">We as Conservatives support our Canadian justice system as defined by our charter and our Constitution, and we do not support a justice system that would favour criminals to the detriment of Canadians's safety and security. </ParaText>
+              <ParaText id="6614859">We as Conservatives support our Canadian justice system as defined by our charter and our Constitution, and we do not support a justice system that would favour criminals to the detriment of Canadians' safety and security. </ParaText>
               <ParaText id="6614860">During this difficult time, Canadians need to know that the government is ensuring their safety and security. The Liberal government needs to show leadership and stand up to criminals. Canadians cannot afford for Parliament to get this wrong. This bill is extremely worrying for our children and for the future of our justice system. </ParaText>
               <ParaText id="6614861">We will do the job that Canadians have entrusted us to do: asking the government questions to ensure that the safety of Canadians remains the top priority.</ParaText>
             </Content>
@@ -1463,7 +1476,7 @@
               <Affiliation DbId="252987" Type="2">Mr. Paul Manly (Nanaimo—Ladysmith, GP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6614873">Mr. Speaker, we know that the opioid crisis is leading to the deaths of thousands of Canadians. We have a crisis right across the country. </ParaText>
-              <ParaText id="6614874">What does the hon. member think about decriminalizing the use or simple possession of drugs, and eliminating section 4 of the Controlled Drugs and Substances Act so that we could provide a safe supply of drugs to people who have addiction issues?</ParaText>
+              <ParaText id="6614874">What does the hon. member think about decriminalizing simple possession of drugs, and eliminating section 4 of the Controlled Drugs and Substances Act so that we could provide a safe supply of drugs to people who have addiction issues?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -1502,7 +1515,7 @@
               <ParaText id="6614882"> This has been an issue. We come to Parliament with different goals and priorities both from our ridings perspective and also from our personal passion. One of my passions has not only been the subject of mental health but has been addictions and treatment as well, which be should be the core of this bill.</ParaText>
               <ParaText id="6614883">COVID-19 in the last 14 months has obviously shown that the virus is a serious public health threat for our country and for the global community, but also the growing angst and mental health challenges that many Canadians are facing is certainly something we are not talking enough about or acknowledging enough. When we look at the statistics, suicides have been increasing and issues with addictions have certainly been on the rise as well, which is unfortunate.</ParaText>
               <ParaText id="6614884">For those who know me, I am a political junky not only in Canada but I follow U.S. and U.K. politics quite closely. There are few examples where my view has been changed or a light has gone off, an aha moment has happened for me, more than watching the U.S. presidential election, going back to 2016. I try not to bring too much American politics into our House of Commons, but I certainly think this example and this perspective is one to which we need to listen.</ParaText>
-              <ParaText id="6614885">At that time, the former New Jersey governor Chris Christie was running for president and was in the state of New Hampshire. For those who know the state of New Hampshire and follow politics as closely like I do, a serious opioid crisis has beleaguered that state for many years. The number of people who have become addicted and unfortunately the number of people who have lost their lives is a real crisis in that state. Chris Christie was doing a town hall, and there is a video of that. I would encourage Canadians following this debate to look at that video. It is about a six to eight minute clip. In that video, he tells the story of his late mother and his law school friend back in the day, and it certainly hit home for me.</ParaText>
+              <ParaText id="6614885">At that time, the former New Jersey governor Chris Christie was running for president and was in the state of New Hampshire. For those who know the state of New Hampshire and follow politics as closely as I do, a serious opioid crisis has beleaguered that state for many years. The number of people who have become addicted and unfortunately the number of people who have lost their lives is a real crisis in that state. Chris Christie was doing a town hall, and there is a video of that. I would encourage Canadians following this debate to look at that video. It is about a six-to-eight minute clip. In that video, he tells the story of his late mother and his law school friend back in the day, and it certainly hit home for me.</ParaText>
               <ParaText id="6614886">As a society, we have to look at addictions and substance abuse in this country differently from the way we have in the past. In politics, we talk about being more compassionate, the lens in which we see people and empathy. This is one where we need to do that. </ParaText>
               <ParaText id="6614887">Chris Christie talked about his mother who was diagnosed with cancer numerous times. The first time she was diagnosed she went to the hospital, was treated and went into remission. Unfortunately the cancer came back. She went back to the health care system, had treatment again and beat cancer a second time. It came back a third time. At no point did anybody in the health care system say, “Sorry, you have had cancer three times, it's is a lost cause, we're not going to treat you any more.” That would be an absurd proposition for a doctor, or a government or a state to say. He said that we had to think that way when it came to addictions. People who have substance abuse problems do not belong in a prison cell; they belong in rehabilitation. They need help to get their lives back on track. This is so important. Substance abuse and addictions know no barrier when it comes to gender, race or income level. It can impact and wreck anyone's life.</ParaText>
               <ParaText id="6614888">I want to speak today to Bill <Document DbId="11104167" Type="3">C-22</Document> because as a Parliament, as we begin to have these conversations, more Canadians have a degree of separation, where unfortunately a friend, or a neighbour or a colleague has battled substance abuse or abuse issues. People are becoming more compassionate and know that we do not have enough services in the country when it comes to rehabilitation.</ParaText>
@@ -1536,7 +1549,7 @@
               <Affiliation DbId="252546" Type="2">Mr. Eric Duncan</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6614903">Mr. Speaker, the message we need to send to those trafficking drugs and preying on the vulnerable in our country is that when we make laws, in certain cases there is a benchmark and for certain crimes that benchmark needs to exist. Judges should have discretion, which we have talked about in different cases, but I look at the message this sends. We are doing the opposite of what law enforcement is asking us to do. It is asking to us to close gaps, to tighten them up and to stop the revolving door that they are seeing in our justice system today.</ParaText>
-              <ParaText id="6614904">I agree that we need to have a balance. Too many of the balances are being removed and the message that is sending to those in the illicit black market and trade is that we are getting easier, giving less less. We need to clamp down more than ever, not take these away.</ParaText>
+              <ParaText id="6614904">I agree that we need to have a balance. Too many of the balances are being removed and the message that is sending to those in the illicit black market and trade is that we are getting easier. We need to clamp down more than ever, not take these away.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Virani" id="11228701">
@@ -1774,7 +1787,7 @@
             <Content>
               <ParaText id="6614987">Mr. Speaker, Hochelaga is home to a large community of artists and creators who feed our souls and inspire our thoughts about our society. Today, I pay tribute to the visual artists who uplifted us with their creations during this pandemic.</ParaText>
               <ParaText id="6614988">I am thinking of Garbage Beauty, an art collective that writes poetry on garbage cans and transforms them into works of art; HLY, who beautifies our walls and alleys; and Louise Beaupré Lincourt, who painted one watercolour a day during the entire pandemic for a total of 372 paintings depicting Hochelaga.</ParaText>
-              <ParaText id="6614989">Our government has provided direct support for the arts and culture industry with nearly $1 billion in emergency funding, including a $500-million fund for Canadian heritage, $100 million in insurance to get production back up , and $25 million for national museums and the National Arts Centre.</ParaText>
+              <ParaText id="6614989">Our government has provided direct support for the arts and culture industry with nearly $1 billion in emergency funding, including a $500-million fund for Canadian heritage, $100 million in insurance to get production back up, and $25 million for national museums and the National Arts Centre.</ParaText>
               <ParaText id="6614990">If we include the Canada emergency wage subsidy, the CERB and CRB, then we are talking about over $4 billion for the cultural industry and its workers across the country.</ParaText>
               <ParaText id="6614991">Thank you to all of our artists.</ParaText>
             </Content>
@@ -1933,7 +1946,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11228900">
-        <SubjectOfBusinessTitle>Dental Hygienists</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Oral Health Month</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Ellis" id="11228901">
             <PersonSpeaking>
@@ -2066,7 +2079,7 @@
               <Affiliation DbId="252623" Type="2">Mr. Yves-François Blanchet (Beloeil—Chambly, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6615055">Mr. Speaker, I did not understand a word he said, but I am sure it was good.</ParaText>
-              <ParaText id="6615056">I think that the <Affiliation DbId="245291" Type="4">Minister of Justice</Affiliation> said that the federal government was not planning to challenge the the court of appeal's ruling. The thing is, Bill 99 and the so-called Clarity Act on federal referendums are profoundly incompatible. It is either-or. There can only be one. </ParaText>
+              <ParaText id="6615056">I think that the <Affiliation DbId="245291" Type="4">Minister of Justice</Affiliation> said that the federal government was not planning to challenge the court of appeal's ruling. The thing is, Bill 99 and the so-called Clarity Act on federal referendums are profoundly incompatible. It is either-or. There can only be one. </ParaText>
               <ParaText id="6615057">If the government is not challenging this decision, will the Prime Minister repeal the so-called Clarity Act?</ParaText>
             </Content>
           </Intervention>
@@ -2816,7 +2829,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252582" Type="2">Mr. Mario Beaulieu (La Pointe-de-l'Île, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Motion</ProceduralText>
               <ParaText id="6615220">Mr. Speaker, there have been discussions among the parties, and if you seek it, I believe you will find unanimous consent for the following motion: </ParaText>
               <ParaText id="6615221">
                 <Quote>
@@ -2842,7 +2855,7 @@
             <Content>
               <ParaText id="6615224">All those opposed to the hon. member moving the motion will please say nay.</ParaText>
               <ParaText id="6615225">I hear none. The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="15">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="16">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2892,7 +2905,7 @@
           <ParaText id="6615233"> 
 The House resumed from April 12 consideration of the motion that Bill <Document DbId="11003629" Type="3">C-14, An Act to implement certain provisions of the economic statement tabled in Parliament on November 30, 2020 and other measures</Document>, be read the third time and passed.
 </ParaText>
-          <ProceduralText TocType="TPC" id="16">Bill C-14. Third reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="17">Bill C-14. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11229242">
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -2992,7 +3005,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
             <PersonSpeaking>
               <Affiliation DbId="252646" Type="2">Mr. Mark Gerretsen (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6615282">Madam Speaker, I really admire the commitment from this member regarding affordable housing, specifically when it comes co-operative housing. I would agree with him that co-operative housing is an excellent model to drive affordability into communities. Although it is not the only solution, as affordability in terms of housing could be everything from rent geared to one's income all the way up to affordable mortgages. Whatever we do, it needs to be a holisitic approach.</ParaText>
+              <ParaText id="6615282">Madam Speaker, I really admire the commitment from this member regarding affordable housing, specifically when it comes co-operative housing. I would agree with him that co-operative housing is an excellent model to drive affordability into communities. Although it is not the only solution, as affordability in terms of housing could be everything from rent geared to one's income all the way up to affordable mortgages. Whatever we do, it needs to be a holistic approach.</ParaText>
               <ParaText id="6615283">When we look at how this stuff actually gets implemented, there is a certain responsibility for us to acknowledge the fact that provincial jurisdiction covers the actual construction and building. We can put as much money as we want towards affordable housing, but the federal government has no jurisdiction over actual building, building permits and planning.</ParaText>
               <ParaText id="6615284">What is the member's response to how we could do more to assist?</ParaText>
             </Content>
@@ -3205,7 +3218,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
             <Content>
               <ParaText id="6615365">Madam Speaker, in principle and out of sympathy, I say absolutely.</ParaText>
               <ParaText id="6615366">Of course, the NDP's motions often include other aspects. Although they may have included such things as taxing the ultra rich, they also included others that encroached and infringed on provincial jurisdictions. That is why the Bloc Québécois voted against those motions.</ParaText>
-              <ParaText id="6615367">That said, the billionaires and others have to contribute more and that is why the Bloc Québécois has been working hard on clamping down on tax havens, including when it comes to the wage subsidy and the assistance program. It is outrageous that ultra-rich businesses that are not paying their fair share of taxes can turn around and profit from taxpayers's money. That is why, out of sympathy, I agree, provided Quebec's jurisdictions are respected. </ParaText>
+              <ParaText id="6615367">That said, the billionaires and others have to contribute more and that is why the Bloc Québécois has been working hard on clamping down on tax havens, including when it comes to the wage subsidy and the assistance program. It is outrageous that ultra-rich businesses that are not paying their fair share of taxes can turn around and profit from taxpayers' money. That is why, out of sympathy, I agree, provided Quebec's jurisdictions are respected. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Michaud" id="11229732">
@@ -3268,8 +3281,8 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
             <Content>
               <ParaText id="6615384">Madam Speaker, I will be splitting my time with the member for <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation>.</ParaText>
               <ParaText id="6615385">Since today is Vaisakhi, I want to start by wishing all Sikhs across Canada and around the world a very happy Vaisakhi. This is an opportunity to recognize the generations of Sikhs who have contributed to building this great nation, Sikhs who today are on the front lines fighting this pandemic, Sikhs serving in Canada’s military and Sikhs who continue to support their fellow Canadian through Seva or a duty of selfless service. </ParaText>
-              <ParaText id="6615386"> [<I>Member spoke in Punjab</I>]</ParaText>
-              <ParaText id="6615387">[<I>English</I>]</ParaText>
+              <ParaText id="6615386">[<I>Member spoke in Punjabi</I>]</ParaText>
+              <ParaText id="6615387" Continuation="True">[<I>English</I>]</ParaText>
               <ParaText id="6615388"> I am honoured to rise in the House today to debate Bill <Document DbId="11003629" Type="3">C-14</Document> on behalf of my constituents of Edmonton Mill Woods. </ParaText>
               <ParaText id="6615389">The bill has some aspects with which we agree. It would provide more support to those who need it during this pandemic and it would top up the Canada child benefit, which was in the platform of the leader of the Conservative Party. The bill would also fix the gaps in the second version of the rent relief legislation, a mistake that could have been prevented if we were afforded more time to properly examine the bill before it was rushed through the first time.</ParaText>
               <ParaText id="6615390">Throughout this pandemic, the Conservatives have proudly supported programs to help Canadians who have been the hardest hit. However, I do have concerns surrounding the increased debt with which we will be saddling our children's future. The last part of the bill would amend the Borrowing Authority Act to significantly increase the borrowing limit of the federal government, which I cannot support. </ParaText>
@@ -3483,10 +3496,9 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
               <ParaText id="6615455">I want to clarify that we double-checked the time. The question was one minute and eight seconds in length when I called on the hon. member, and by the time she had finished it was one minute and six seconds, so I would again ask her to be judicious in her comments to the Chair.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6615456">Order. It is my duty pursuant to Standing Order 38 to inform the House that the questions to be raised tonight at the time of adjournment are as follows: the hon. member for Calgary Nose Hill, Health; the hon. member for Vancouver East, Immigration, Refugees and Citizenship; the hon. member for Kenora, Tourism Industry.</ParaText>
-              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6615457">Resuming debate, the hon. member for Elmwood—Transcona.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Blaikie" id="11230174">
             <PersonSpeaking>
               <Affiliation DbId="252759" Type="2">Mr. Daniel Blaikie (Elmwood—Transcona, NDP)</Affiliation>: </PersonSpeaking>
@@ -3544,7 +3556,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
               <Affiliation DbId="252759" Type="2">Mr. Daniel Blaikie</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6615494">Madam Speaker, the member may well have been a member when the Liberals first committed to this and ran on it in 1997, and I think she may well have been a member ever since. I certainly think that in that time the Liberals ought to have come up with some of their own good ideas on how to advance this agenda much further than it has already. </ParaText>
-              <ParaText id="6615495">For me, I think if the federal government signals a willingness to put that money on the table and requests a meeting with the premiers, that would be a good start, as would moving forward with a legislative framework for that. We have an example already in the Canada Health Act and nonlegislative examples in the Canada health accords, where there are a lot of models for interprovincial and federal co-operation on important issues of health. Typically it has been when the federal government has signalled a willingness to actually spend the money that provinces come to the table, so we are waiting on the government for that.</ParaText>
+              <ParaText id="6615495">For me, I think if the federal government signals a willingness to put that money on the table and requests a meeting with the premiers, that would be a good start, as would moving forward with a legislative framework for that. We have an example already in the Canada Health Act and non-legislative examples in the Canada health accords, where there are a lot of models for interprovincial and federal co-operation on important issues of health. Typically it has been when the federal government has signalled a willingness to actually spend the money that provinces come to the table, so we are waiting on the government for that.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3664,7 +3676,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
               <ParaText id="6615524">I know the previous speaker, the member for <Affiliation DbId="252759" Type="2">Elmwood—Transcona</Affiliation>, spoke about this, but we have all played our part in ensuring that Canadians get the benefits as a result of this pandemic. We have all been there, Conservatives, NDP, Greens and Liberals, as well as the Bloc, to make sure that Canadians have the supports they need.</ParaText>
               <ParaText id="6615525">When it became clear that this was an increasing public health crisis and that public health advice needed to be followed, it meant that many businesses had to be shut down, and this affected not just businesses but also the people they employed. All of those things had to happen. Those supports were needed.</ParaText>
               <ParaText id="6615526">In many cases, as members will recall, those supports fell way short of what was needed. It should be no surprise to anybody in this House, and no surprise to anybody who is watching, that there are a lot of regional differences that exist in this country. There is a differing of opinions. It is still okay to have that.</ParaText>
-              <ParaText id="6615527">Much of what I was bringing to this House and what I was bringing to ministers at the time was precisely what I was hearing from my constituents, whether it was from the business community or individuals, of just how short some of these programs were. There is the case of Tony and Anne Gillespie, for example, who own a tae kwon do studio in my riding. They just started their business last year. Even up to this point, they have not been able to access some of those benefits.</ParaText>
+              <ParaText id="6615527">Much of what I was bringing to this House and what I was bringing to ministers at the time was precisely what I was hearing from my constituents, whether it was from the business community or individuals, of just how short some of these programs were. There is the case of Tony and Anna Gillespie, for example, who own a tae kwon do studio in my riding. They just started their business last year. Even up to this point, they have not been able to access some of those benefits.</ParaText>
               <ParaText id="6615528"> The Canada emergency wage subsidy is an example. When the government introduced that as legislation, it came in at 10%. It was the opposition parties, and I emphasize the plural because it was not just the Conservatives, and individual MPs who were telling the government that that 10% was woefully inadequate. We saw that subsequently bumped up to 75% as a result.</ParaText>
               <ParaText id="6615529">What I am speaking to more broadly is that many of these programs were either too restrictive or too prescriptive at the time. It was important for us to make sure that the government was aware of that. In many cases it moved, and in some cases, as is the case with Tony and Anne Gillespie, the government has not moved far enough. </ParaText>
             </Content>
@@ -3688,7 +3700,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11230745">
         <SubjectOfBusinessTitle>Economic Statement Implementation Act, 2020</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="17">Bill C-14. Third reading</ProceduralText>
+        <ProceduralText TocType="TPC" id="18">Bill C-14. Third reading</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="6615532">The House resumed consideration of the motion that Bill <Document DbId="11003629" Type="3">C-14, An Act to implement certain provisions of the economic statement tabled in Parliament on November 30, 2020 and other measures</Document>, be read the third time and passed.</ParaText>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Brassard" id="11230568">
@@ -3728,7 +3740,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Canada Labour Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="18">Bill C-220. Report stage</ProceduralText>
+          <ProceduralText TocType="TPC" id="19">Bill C-220. Report stage</ProceduralText>
           <ParaText id="6615547">The House proceeded to the consideration of Bill <Document DbId="10866132" Type="4">C-220, An Act to amend the Canada Labour Code (bereavement leave)</Document>, as reported (with amendments) from the committee.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="11230625">
             <PersonSpeaking>
@@ -3744,7 +3756,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
             </PersonSpeaking>
             <Content>
               <ParaText id="6615549"> moved that the bill, as amended, be concurred in at report stage. </ParaText>
-              <ProceduralText TocType="TPC" id="19">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Motion for concurrence</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="11230639">
@@ -3766,7 +3778,7 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
             <PersonSpeaking>
               <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="20">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="21">Motion agreed to</ProceduralText>
               <ParaText id="6615553">I therefore declare the motion carried.</ParaText>
               <ParaText id="6615554">When shall the bill be read the third time? By leave, now?</ParaText>
               <ParaText id="6615555">
@@ -3778,9 +3790,9 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
               <Affiliation DbId="252818" Type="2">Mr. Matt Jeneroux </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="21">Third reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Third reading</ProceduralText>
               <ParaText id="6615556"> moved that the bill be read the third time and passed.</ParaText>
-              <ParaText id="6615557">Mr. Speaker, we made it. We are finally at third reading. I have to say this has been quite a remarkable journey.</ParaText>
+              <ParaText id="6615557">He said: Mr. Speaker, we made it. We are finally at third reading. I have to say this has been quite a remarkable journey.</ParaText>
               <ParaText id="6615558">I want to start with a huge thanks to so many people who have helped along the way. These include my friend and consistent champion of this legislation, the hon. member for <Affiliation DbId="252672" Type="2">Mount Royal</Affiliation>, who has worked extremely hard to make this a reality, and the <Affiliation DbId="253379" Type="4">Minister of Labour</Affiliation>, who has been incredibly accessible throughout this fight and really is personally committed to seeing better bereavement supports in this country.</ParaText>
               <ParaText id="6615559">I also want to thank the member for <Affiliation DbId="252591" Type="2">Beaches—East York</Affiliation> for agreeing to a trade with a member from across the aisle so that we could continue to move this legislation at lightning speed through the House of Commons, and the entire HUMA committee, chaired by the member for <Affiliation DbId="252499" Type="2">Charlottetown</Affiliation>, at which I testified. Together we made a better bill.</ParaText>
               <ParaText id="6615560">I also want to thank my seconder on this, the member for <Affiliation DbId="252939" Type="2">Mission—Matsqui—Fraser Canyon</Affiliation>; my friend who spoke so passionately on this at second reading, the member for <Affiliation DbId="252546" Type="2">Stormont—Dundas—South Glengarry</Affiliation>; my friend from the New Democrat caucus, the member for <Affiliation DbId="252759" Type="2">Elmwood—Transcona</Affiliation>, who let me bend his ear on these amendments; the member for <Affiliation DbId="252775" Type="2">Thérèse-De Blainville</Affiliation> for her support from the very beginning; and of course the House leaders from all parties, especially the government House leader, who has consistently helped to support this bill moving forward.</ParaText>
@@ -3988,14 +4000,6 @@ The House resumed from April 12 consideration of the motion that Bill <Document 
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mr. Stanton" id="11230828">
-            <PersonSpeaking>
-              <Affiliation DbId="253703" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6615658">Before we go to the next speaker, I will let him know there is about six or seven minutes remaining in the time for private members' business. I will let him know when we get close to that time. Of course, he will have the remaining portion of his 10 minutes when the House gets back to debate on the question.</ParaText>
-              <ParaText id="6615659">The hon. member for Kingston and the Islands.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Gerretsen" id="11230831">
             <PersonSpeaking>
               <Affiliation DbId="252646" Type="2">Mr. Mark Gerretsen (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>

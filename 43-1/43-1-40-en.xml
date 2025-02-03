@@ -48,7 +48,7 @@
           <ParaText id="6204892">Traditionally, on the first Wednesday in June, the pages lead the singing of the national anthem in the chamber to start the sitting for that day. This has not been an ordinary year for anyone, including for this year's group of pages. Although the pages were not able to sing in person this year, all those who could participate have collaborated virtually from across the country to maintain this tradition.</ParaText>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <ParaText id="6204893">Since this may be the last Wednesday in June when the House will sit, I would like to present to you the results of this extraordinary teamwork. The 2019-20 class of pages will lead us in the singing of the national anthem.</ParaText>
-          <ParaText id="6204894">[<I>Members sang the national anthem</I>]</ParaText>
+          <ParaText id="6204894">[<I>Pages sang the national anthem</I>]</ParaText>
         </Content>
       </Intervention>
       <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -90,11 +90,11 @@
             <PersonSpeaking>
               <Affiliation DbId="214333" Type="4">Hon. Marc Garneau (Minister of Transport, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6204900">Mr. Speaker, there have been discussions among the parties and if you seek it, I hope you will find there is unanimous support for the follow motion:</ParaText>
+              <ParaText id="6204900">Mr. Speaker, there have been discussions among the parties and if you seek it, I hope you will find there is unanimous support for the following motion:</ParaText>
               <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
               <ParaText id="6204901">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">WHEREAS Ukrainian International Airlines Flight PS752 was unlawfully shot down on January 8th, 2020 near Tehran, taking the innocent lives of all 176 people on-board, including 55 Canadian citizens and 30 permanent residents, as well as others from Iran, Ukraine, the United Kingdom, Sweden and Afghanistan;</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">WHEREAS Ukrainian International Airlines Flight PS752 was unlawfully shot down on January 8th, 2020 near Tehran, taking the innocent lives of all 176 people on board, including 55 Canadian citizens and 30 permanent residents, as well as others from Iran, Ukraine, the United Kingdom, Sweden and Afghanistan;</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6204902">
@@ -110,7 +110,7 @@
               </ParaText>
               <ParaText id="6204904">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Whereas the families of the victims — in Canada, in Iran and in other countries around the world — continue to grieve the tragic and senseless loss of their loved-ones and are anxious to learn the whole truth about what happened to PS752, who was responsible, and how they are being held to account, in addition to seeking honourable treatment with respect to compensation from both the airline and Iran, and in matters related to their on-going safety and peace of mind;</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Whereas the families of the victims — in Canada, in Iran and in other countries around the world — continue to grieve the tragic and senseless loss of their loved-ones and are anxious to learn the whole truth about what happened to PS752, who was responsible, and how they are being held to account, in addition to seeking honourable treatment with respect to compensation from both the airline and Iran, and in matters related to their ongoing safety and peace of mind;</QuotePara>
                 </Quote>
               </ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -126,7 +126,7 @@
               </ParaText>
               <ParaText id="6204907">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1">2. Support steps taken thus far, including the implementation of a whole-of-government approach to addressing the needs of the families, the provision of consular services, immigration and travel supports, the identification and repatriation of remains, financial support (directly from the government in the form of emergency financial assistance and by matching private donations to the Canada Strong Campaign), mental health and counselling services, a regular on-going flow of information and replies to inquiries, investigative work, the formation of a Canada-led International Coordination and Response Group, the launch of the “Safer Skies” initiative at the Munich Security Conference, and Canada's representations to the International Civil Aviation Organization (ICAO);</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1">2. Support steps taken thus far, including the implementation of a whole-of-government approach to addressing the needs of the families, the provision of consular services, immigration and travel supports, the identification and repatriation of remains, financial support (directly from the government in the form of emergency financial assistance and by matching private donations to the Canada Strong Campaign), mental health and counselling services, a regular ongoing flow of information and replies to inquiries, investigative work, the formation of a Canada-led International Coordination and Response Group, the launch of the “Safer Skies” initiative at the Munich Security Conference, and Canada's representations to the International Civil Aviation Organization (ICAO);</QuotePara>
                 </Quote>
               </ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -221,6 +221,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10889232">
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
+        <CatchLine>Business of Supply</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="10888766">
             <PersonSpeaking>
@@ -284,14 +285,29 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+      <SubjectOfBusiness id="10568140">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessQualifier>Supplementary Estimates (A), 2020-21</SubjectOfBusinessQualifier>
+        <ProceduralText TocType="TCC" id="5">(Consideration in committee of the whole of all votes in the supplementary estimates (A), Mrs. Carol Hughes in the chair)</ProceduralText>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10888943">
+            <PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6212135">We will now consider all votes in the supplementary estimates (A) for the fiscal year ending March 31, 2021. Time can be shared.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
       <SubjectOfBusiness id="10888772">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Point of Order</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Comments by the Member for Burnaby South</SubjectOfBusinessQualifier>
         <CatchLine>Point of Order</CatchLine>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10888773">
+          <Intervention Type="Interjection" ToC="No" id="10888773">
             <PersonSpeaking>
-              <Affiliation DbId="253709" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204940">The hon. member for Salaberry—Suroît on a point of order.</ParaText>
             </Content>
@@ -305,7 +321,7 @@
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10888775">
             <PersonSpeaking>
-              <Affiliation DbId="253709" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204942">Could you please repeat what you just said? We did not understand what you said.</ParaText>
             </Content>
@@ -320,7 +336,7 @@
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10888778">
             <PersonSpeaking>
-              <Affiliation DbId="253709" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204945">I did not personally hear that comment.</ParaText>
               <ParaText id="6204946">We will listen to the recording and then discuss it.</ParaText>
@@ -336,7 +352,7 @@
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10888780">
             <PersonSpeaking>
-              <Affiliation DbId="253708" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204949">I would ask the member for Burnaby South to apologize for his remarks.</ParaText>
             </Content>
@@ -350,7 +366,7 @@
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10888782">
             <PersonSpeaking>
-              <Affiliation DbId="253708" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204951">The hon. member for Salaberry—Suroît.</ParaText>
             </Content>
@@ -366,7 +382,7 @@
           <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
           <Intervention Type="Interjection" ToC="No" id="10888786">
             <PersonSpeaking>
-              <Affiliation DbId="253708" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204954">I have noted your comments. I asked the member to apologize. I will take this under advisement and return to the House shortly.</ParaText>
               <ParaText id="6204955">Does the hon. member wish to rise again?</ParaText>
@@ -382,7 +398,7 @@
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10890579">
             <PersonSpeaking>
-              <Affiliation DbId="253708" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204958">I have asked the member to apologize. Until he does, he will be unable to address the House.</ParaText>
               <ParaText id="6204959">The Speaker will deliberate on the question and will comment on it as soon as possible.</ParaText>
@@ -396,13 +412,13 @@
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Supplementary Estimates (A), 2020-21</SubjectOfBusinessQualifier>
         <CatchLine>Business of Supply</CatchLine>
-        <ProceduralText TocType="TCC" id="5">(Consideration in committee of the whole of all votes in the supplementary estimates (A), Mrs. Carol Hughes in the chair)</ProceduralText>
+        <ProceduralText TocType="TCC" id="6">(Consideration in committee of the whole of all votes in the supplementary estimates (A), Mrs. Carol Hughes in the chair)</ProceduralText>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Deputy Chair" id="10888792">
             <PersonSpeaking>
               <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6204961">We will now consider all votes in the supplementary estimates (A) for the fiscal year ending March 31, 2021. Time can be shared.</ParaText>
+              <ParaText id="6204961">We will now resume consideration of all votes in the supplementary estimates (A) for the fiscal year ending March 31, 2021. Time can be shared.</ParaText>
               <ParaText id="6204962">Today's debate is a general one on all votes tabled before the House on Tuesday, June 2, 2020. Pursuant to the provisions in the motion adopted on Tuesday, May 26, 2020, the total length of time for debate will not exceed four hours, during which time no quorum calls or dilatory motions shall be received by the Chair.</ParaText>
               <ParaText id="6204963">The first round will begin with the official opposition, followed by the government, the Bloc Québécois and the New Democratic Party. After that, we will follow the agreed-upon rotation.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -429,9 +445,9 @@
               <ParaText id="6204976">I have a very simple question. Will the government make this change to allow more Canadians to keep their jobs?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="10888796">
+          <Intervention Type="Debate" ToC="Yes" id="10888796" ToCText="Mr. Duclos">
             <PersonSpeaking>
-              <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos (President of the Treasury Board, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6204977">Madam Chair, taking a team Canada approach is exactly what we have done in the last few weeks. We have engaged with the provinces and territories, with municipalities, with communities and with people across Canada. This has included the businesses that needed our help.</ParaText>
               <ParaText id="6204978">In many cases, the measures were not only debated by the opposition but supported by the opposition. There was unanimous support from the House when it came to providing the Canada emergency response benefit, which is helping and has helped millions of Canadians, and the emergency loans of $40,000 that are helping almost 700,000 small businesses.</ParaText>
@@ -548,7 +564,7 @@
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10888829">
             <PersonSpeaking>
-              <Affiliation DbId="253713" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6205002">We will suspend the sitting for a few moments because I am having computer problems.</ParaText>
             </Content>
@@ -558,17 +574,17 @@
       <SubjectOfBusiness id="10889313">
         <SubjectOfBusinessQualifier>Suspension of Sitting</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" id="6">(The sitting of the House was suspended at 3:03 p.m.)</ProceduralText>
+          <ProceduralText TocType="TCC" id="7">(The sitting of the House was suspended at 3:03 p.m.)</ProceduralText>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10889289">
         <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
         <SubjectOfBusinessQualifier>Sitting Resumed</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" id="7">(The House resumed at 3:17 p.m.)</ProceduralText>
+          <ProceduralText TocType="TCC" id="8">(The House resumed at 3:17 p.m.)</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10888910">
             <PersonSpeaking>
-              <Affiliation DbId="253713" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6205003">I will report the matter of decorum that was raised to the Speaker. </ParaText>
               <ParaText id="6205004">Mr. Speaker, I would like to share with you a point of order that has been raised. The hon. member for <Affiliation DbId="253029" Type="2">Burnaby South</Affiliation> called another hon. member a racist and did not want to apologize. I submit this point of order for your consideration. </ParaText>
@@ -589,28 +605,21 @@
               <ParaText id="6205006">Mr. Singh, I must name you for disregarding the authority of the Chair.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205007">Pursuant to the authority granted to me by Standing Order 11, I order you to withdraw from the House for the remainder of this sitting day.</ParaText>
-              <ParaText id="6205008">[<I>And Mr. Singh having withdrawn:</I>]</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10888943">
-            <PersonSpeaking>
-              <Affiliation DbId="253655" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6205009">I will now leave the chair and the House will resume the work of the committee.</ParaText>
+              <ParaText id="6213819">I will now leave the chair and the House will resume the work of the committee.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10889457">
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Supplementary Estimates (A)</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Supplementary Estimates (A), 2020-21</SubjectOfBusinessQualifier>
         <CatchLine>Business of Supply</CatchLine>
-        <ProceduralText TocType="TPC" id="8">Committee of the whole</ProceduralText>
+        <ProceduralText TocType="TPC" id="9">Committee of the whole</ProceduralText>
         <SubjectOfBusinessContent>
-          <ParaText id="6205010">The House resumed consideration in committee of the whole of all of the votes in the Supplementary Estimates (A) for the fiscal year ending March 31, 2021, Mrs. Carol Hughes in the chair.</ParaText>
+          <ParaText id="6205010">The House resumed consideration in committee of the whole of all votes in the supplementary estimates (A) for the fiscal year ending March 31, 2021, Mrs. Carol Hughes in the chair.</ParaText>
           <Intervention Type="Interjection" ToC="No" id="10888960">
             <PersonSpeaking>
-              <Affiliation DbId="253708" Type="96">The Acting Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6205011">We are now returning to the committee of the whole.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -657,7 +666,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205029">Madam Chair, indeed, I did not had time to answer the last part of the opposition member's question. The site for the Canada emergency business account will be available on Friday and will contain the updates that the member would like to see.</ParaText>
+              <ParaText id="6205029">Madam Chair, indeed, I did not have time to answer the last part of the opposition member's question. The site for the Canada emergency business account will be available on Friday and will contain the updates that the member would like to see.</ParaText>
               <ParaText id="6205030">As for youth, I obviously do not have time to provide all the details, but we have put in place significant measures to help youth living under very difficult circumstances. I invite the member to note the statistic of 40%, as that is the unemployment rate of students who want to continue their studies in the coming weeks. Even though the member is not listening, I would add that that is why it is important to continue working hard for youth, to ensure that they can continue their studies and have everything they need to succeed.</ParaText>
             </Content>
           </Intervention>
@@ -684,7 +693,7 @@
               <ParaText id="6205036">These supplementary estimates present information on spending requirements across federal organizations that were either not sufficiently developed in time for inclusion in the main estimates or have since been updated to reflect new developments. </ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205037">This is the first supplementary estimates to be tabled this fiscal year. It includes a summary of the government's additional financial requirements and an overview of the main funding requests and horizontal initiatives.</ParaText>
-              <ParaText id="6205038">The Supplementary Estimates (A), 2020-21, also shows that the government is continuing to invest in people, in workers, in the economy and in support related to COVID-19 to ensure the country's success and economic recovery.</ParaText>
+              <ParaText id="6205038">The supplementary estimates (A), 2020-21, also shows that the government is continuing to invest in people, in workers, in the economy and in support related to COVID-19 to ensure the country's success and economic recovery.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205039">Parliamentarians will have the opportunity to review and vote on these allocations, which seek to provide important services to indigenous communities, safe and secure transportation for travellers and support for Canada's armed forces. This is in addition to COVID-related expenditures. </ParaText>
               <ParaText id="6205040">Specifically, these supplementary estimates include $6 billion in operating and capital expenditures, grants and contributions to be voted on by Parliament for 42 different federal organizations. These voted measures represent a 5% increase over those included in the main estimates for 2020-21 that I tabled on February 27, including more than $1 billion for the government's response to the COVID crisis.</ParaText>
@@ -693,7 +702,7 @@
               <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205042">Canadians and the parliamentarians who represent them have the right to know how public funds are being spent and to hold the government to account. Estimates are brought forward to ensure that Parliament can review and approve the new spending needs of the Government of Canada.</ParaText>
-              <ParaText id="6205043">The Supplementary Estimates (A) for 2020-21 include $6 billion in new funding across the government, including $1 billion in continued support for COVID-19 relief.</ParaText>
+              <ParaText id="6205043">The supplementary estimates (A) for 2020-21 include $6 billion in new funding across the government, including $1 billion in continued support for COVID-19 relief.</ParaText>
               <ParaText id="6205044">For maximum transparency, the estimates documents also provide information on spending authorized through the <Document DbId="10710867" Type="3">COVID-19 Emergency Response Act</Document> and the <Document DbId="10716060" Type="3">COVID-19 Emergency Response Act, No. 2</Document>, which have already been negotiated, discussed and unanimously approved by parliamentarians.</ParaText>
               <ParaText id="6205045">We know that Canadians want maximum transparency from Parliament. These estimates include statutory information on spending that was first authorized through the COVID-19 emergency response acts that were presented, debated and passed in the House. This spending is now helping Canadians.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -704,7 +713,7 @@
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205049">This also includes $274 million for urgent research and innovation on medical countermeasures, $87 million for the Community Futures Network, and $59 million to help the Canadian Red Cross Society support individuals, families and communities during the pandemic.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6205050">Here are some of the other key initiatives included in these estimates that support a variety of Canadians priorities: $585 million for the Department of National Defence to fund the joint support ship project to replace vessels that have reached the end of their lifespans, and $481 million for the Department of Crown-Indigenous Relations and Northern Affairs to fund the federal Indian day schools settlement agreement.</ParaText>
+              <ParaText id="6205050">Here are some of the other key initiatives included in these estimates that support a variety of Canadian priorities: $585 million for the Department of National Defence to fund the joint support ship project to replace vessels that have reached the end of their lifespans, and $481 million for the Department of Crown-Indigenous Relations and Northern Affairs to fund the federal Indian day schools settlement agreement.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205051">In addition, $468 million is allocated to the Department of Indigenous Services to support the safety and well-being of first nations children and families living on reserve.</ParaText>
               <ParaText id="6205052">There is also $312 million for the Canadian Air Transport Security Authority and Department of Transport, which will fund aviation security screening services.</ParaText>
@@ -1122,7 +1131,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253403" Type="4">Hon. Carla Qualtrough</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205171">Madam Chair, I can assure every Canadian and everyone in the House that, as we looked at all the measures we were delivering for Canadians, we made sure that we put a disability inclusion lens not only on what specific help we would give to people with disabilities but on every single measure. I can say that the result in the student benefit was an additional $750 a month for students with disabilities and students with dependents.</ParaText>
+              <ParaText id="6205171">Madam Chair, I can assure every Canadian and everyone in the House that, as we looked at all the measures we were delivering for Canadians, we made sure that we put a disability inclusion lens not only on what specific help we would give to people with disabilities but on every single measure. I can say that the result in the student benefit was an additional $750 a month for students with disabilities and students with dependants.</ParaText>
               <ParaText id="6205172">We know that last week we hit a major hiccup, without the unanimous consent of the House, in delivering a benefit we promised to people with disabilities. Rest assured, we are still going to deliver for Canadians with disabilities. We are looking at alternate means and we hope to eventually find a different path forward that does not require the legislative changes—</ParaText>
             </Content>
           </Intervention>
@@ -1417,7 +1426,7 @@
               <ParaText id="6205250">It's an honour to be back in the House representing my Kildonan—St. Paul constituents on the very last day of the parliamentary session. Although the Liberal government has decided to shut down Parliament during the worst crisis Canadians have faced in living memory, I will do my best to speak and advocate on their behalf with the little time we have remaining.</ParaText>
               <ParaText id="6205251">Unfortunately, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has only allowed parliamentarians four hours to debate and approve $87 billion in spending, or roughly $362 million every minute, which may be a record in the history of the Canadian Parliament. </ParaText>
               <ParaText id="6205252">If the member opposite were listening, he might learn something.</ParaText>
-              <ParaText id="6205253">This is truly unprecedented. The very purpose of Parliament is to provide checks and balances on government power. If we do not have the opportunity to question the government. to study emerging issues at committee, or to put forward alternative solutions, how are we supposed to do our job and be that check on power if we are not sitting?</ParaText>
+              <ParaText id="6205253">This is truly unprecedented. The very purpose of Parliament is to provide checks and balances on government power. If we do not have the opportunity to question the government, to study emerging issues at committee, or to put forward alternative solutions, how are we supposed to do our job and be that check on power if we are not sitting?</ParaText>
               <ParaText id="6205254">In effect, the government is telling Canadians that they have nothing to worry about, but that they just to trust the government, that there is no need for Parliament to meet or to provide oversight on the massive spending that's been going on for three months. Unfortunately, between the Liberals power grabs and long history of ethics violations, to say that opposition parties are skeptical would be an understatement. In fact, there has not been this great a need for parliamentary oversight since the Second World War.</ParaText>
               <ParaText id="6205255">The last few months have not been easy for anyone. Some have been far more severely impacted than others. Thus far, three million people have lost their jobs and 13% of the working population remains unemployed. We know that women have been impacted to a greater degree than men and that rates of human trafficking and spousal abuse have reportedly gone up. Eight thousand people have lost their lives to COVID-19, and the well-being of countless others has been impacted from the thousands of delayed surgeries and the severe mental health impacts that isolation has had on the nation.</ParaText>
               <ParaText id="6205256">To be a member of Parliament during this unprecedented time has been an unforgettable experience with many challenges and difficult days. Speaking with hundreds of constituents and small businesses in my community who have been deeply and negatively impacted by the pandemic has been very heartbreaking, but they will not be forgotten by the Conservative team. We are all working tirelessly on their behalf and we will represent every Canadian left behind by the government's inadequate response to the COVID-19 pandemic. </ParaText>
@@ -1425,7 +1434,7 @@
               <ParaText id="6205258">It is critical that Canadians know whether we have any financial flexibility to extend programs before they are indeed extended. That is key. Otherwise, we are just guessing and hoping that it will all work out and that the country does not go bankrupt, which is really not a great strategy.</ParaText>
               <ParaText id="6205259">As one of 338 MPs and one of only 121 official opposition MPs in Canada, I ask the Liberal government with all sincerity to use its three-month hiatus from oversight and accountability to prepare tirelessly for the second wave of the COVID-19 pandemic: to prepare PPE, testing, contact tracing capacity, and whatever is necessary to give Canadians the confidence that the government can actually do this job. Beyond that, it needs to acknowledge that Canadian small businesses and the millions of Canadian workers they employ cannot afford to go back into isolation, neither financially nor for their mental health. Moreover, neither can the taxpayer afford to subsidize the pandemic response effort of nearly $100 billion per month without serious tax increases and financial consequences at the family kitchen table.</ParaText>
               <ParaText id="6205260">The Liberal government has the responsibility to present a plan and to communicate it effectively to Canadians, so they can prepare in the coming months. Canadians deserve answers on how prepared we are and what the financial outlook for Canada is, so I implore the government to be transparent, honest and accountable. It is its duty to Canadians.</ParaText>
-              <ParaText id="6205261">To conclude, I sincerely thank the front-line workers in every industry in Kildonan—St. Paul, from health care workers to grocery store clerks and gas station attendants, for quickly adapting to the first wave of this pandemic and and physical distancing requirements, and even organizations that, despite being forced to drastically change their daily routines, rose to the occasion in service of our community. Churches, gurdwaras, synagogues, elder care homes, grocery stores, schools and hundreds of small businesses in Kildonan—St. Paul rallied with a true Canadian spirit of resilience and innovation to get the community through the first wave of the pandemic. </ParaText>
+              <ParaText id="6205261">To conclude, I sincerely thank the front-line workers in every industry in Kildonan—St. Paul, from health care workers to grocery store clerks and gas station attendants, for quickly adapting to the first wave of this pandemic and physical distancing requirements, and even organizations that, despite being forced to drastically change their daily routines, rose to the occasion in service of our community. Churches, gurdwaras, synagogues, elder care homes, grocery stores, schools and hundreds of small businesses in Kildonan—St. Paul rallied with a true Canadian spirit of resilience and innovation to get the community through the first wave of the pandemic. </ParaText>
               <ParaText id="6205262">That honestly gives me real hope for the second wave and whatever comes after that. I do believe we will get through this together.</ParaText>
             </Content>
           </Intervention>
@@ -1456,7 +1465,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253403" Type="4">Hon. Carla Qualtrough</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205267">Madam Chair, I can assure everyone in the House that the program is not in fact underfunded. We committed to fund 70,000 jobs, and that is exactly what we are going to do. In fact, this Friday, the last wave of jobs is being put in the the jobs bank. I can assure everyone that this program, because of the flexibilities we introduced this year, is going to be maxed out and that's good news—</ParaText>
+              <ParaText id="6205267">Madam Chair, I can assure everyone in the House that the program is not in fact underfunded. We committed to fund 70,000 jobs, and that is exactly what we are going to do. In fact, this Friday, the last wave of jobs is being put in the jobs bank. I can assure everyone that this program, because of the flexibilities we introduced this year, is going to be maxed out and that's good news—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10889751">
@@ -1676,7 +1685,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253403" Type="4">Hon. Carla Qualtrough (Minister of Employment, Workforce Development and Disability Inclusion, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205311">Madam Chair, it is an honour to rise in the House today to speak to the government's supplementary estimates and highlight some the important programs we have funded to support Canadians in these challenging times of the COVID-19 pandemic.</ParaText>
+              <ParaText id="6205311">Madam Chair, it is an honour to rise in the House today to speak to the government's supplementary estimates and highlight some of the important programs we have funded to support Canadians in these challenging times of the COVID-19 pandemic.</ParaText>
               <ParaText id="6205312">Parliament has already approved the purpose of the statutory expenditures, and the terms and conditions under which they may be made, through other legislation. Therefore, the changes to statutory items are presented in the supplementary estimates for information purposes only. These priorities are supported by the appropriations requested in my department's main estimates for the years 2020-21. The majority of these adjustments in the supplementary estimates are for COVID measures, students, youth and seniors.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205313">I want to start by going back to March 2020, when the Canadian economy shut down practically overnight. It quickly became clear that our normal safety net would not support the number of people losing their jobs. Canadians needed their government to act quickly, and that is what we did. We passed the Canada Emergency Response Benefit Act and created the Canada emergency response benefit.</ParaText>
@@ -1749,7 +1758,7 @@
             <Content>
               <ParaText id="6205346">Mr. Speaker, we know how hard this summer has been on students and how hard it will continue to be. We heard very clearly from student organizations and from students across the country that they want direct income support, but they also want opportunities to work and opportunities to serve in their communities. This is why our $9-billion package was a complete, comprehensive attempt to address all the needs of students for this summer.</ParaText>
               <ParaText id="6205347">In addition, we added flexibilities to the Canada summer jobs program that will allow students to work part time, allow students to work through February of 2021, allow employers to reorient the jobs they had planned to provide toward essential services and allow us to onboard new employers in this time of crisis.</ParaText>
-              <ParaText id="6205348">As a result, we have maxed out the Canada summer jobs program, with over 300,000 students on the Canada emergency student benefit, positive stories of students giving back in their communities and many more students with the opportunity ahead of them to go back to school or continue their studies in September .</ParaText>
+              <ParaText id="6205348">As a result, we have maxed out the Canada summer jobs program, with over 300,000 students on the Canada emergency student benefit, positive stories of students giving back in their communities and many more students with the opportunity ahead of them to go back to school or continue their studies in September.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="10889886">
@@ -1836,7 +1845,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253002" Type="2">Ms. Leona Alleslev</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205365">Mr. Speaker, is it Canadian values to fail to condemn anti-gay laws in Senegal and Uganda? Is it Canadian values to encourage and condone modern-day slavery to build soccer stadiums in Qatar?</ParaText>
+              <ParaText id="6205365">Mr. Speaker, is it Canadian values to fail to condemn anti-gay laws in Senegal and Uganda? Is it Canadian values to encourage and condone modern-day slavery used to build soccer stadiums in Qatar?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10889937">
@@ -1944,7 +1953,7 @@
               <ParaText id="6205390">Although he promoted Canada far and wide, saying that we would play a major role in the UN's efforts to protect people and countries in difficulty, Canada has already withdrawn from a peacekeeping mission in Mali that it had been asked to join. We do not know why.</ParaText>
               <ParaText id="6205391">With respect to our relations with the United States, need I remind the House of the concessions that were made, to the detriment of the dairy industry, and the government’s inability to find acceptable solutions for softwood lumber? The government was not able to include that. It set the issue aside, and we are still having problems today. It was unable to resolve that situation. During the negotiations, the government failed to reach a proper agreement that would protect Canadian aluminum workers. It is one failure after another. Canada lost the vote, but not because Canada is Canada. I certainly do not want Canadians to think that this failure is their fault. It is the fault of the Prime Minister himself. He is the one who channelled all his efforts, all his influence and Canadian taxpayer money and brushed aside Canadian values to speak with dictators in Qatar, Oman, Rwanda and Uganda during the pandemic, rather than defending Canadian values.</ParaText>
               <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
-              <ParaText id="6205392">It is good to want a seat on the UN Security Council, but it is also good to stand up for Canadian values. We have seen what it costs when the government sets aside those values and everything we believe in and uses Canadian taxpayer money to promnote itself. Our allies turned their backs on Canada. That is what happened.</ParaText>
+              <ParaText id="6205392">It is good to want a seat on the UN Security Council, but it is also good to stand up for Canadian values. We have seen what it costs when the government sets aside those values and everything we believe in and uses Canadian taxpayer money to promote itself. Our allies turned their backs on Canada. That is what happened.</ParaText>
               <ParaText id="6205393">We want to be able to build a relationship of trust with other countries on the international stage. However, some countries hoping to negotiate on the international stage and trying to push the boundaries a little further try to do it with Canada first, because they know that Canada will not react. We saw this with China, with Italy in the case of durum wheat, and with India. This was the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s failure, and we are extremely disappointed that today's loss is tarnishing Canada's international reputation.</ParaText>
               <ParaText id="6205394">Does the <Affiliation DbId="253393" Type="4">Minister of International Development</Affiliation> regret jeopardizing Canada's reputation, abandoning Canadian values and making it so that, today, Canada is no longer seen as a country worth consulting? She pulled out all the stops to get a seat on the UN Security Council. Today we are seeing the result: Canada came in third.</ParaText>
             </Content>
@@ -2083,7 +2092,7 @@
             <Content>
               <ParaText id="6205445">Mr. Speaker, even the Parliamentary Budget Officer said that four hours to scrutinize $87 billion is certainly not what one would expect in exceptional times.</ParaText>
               <ParaText id="6205446">The government is spending $200 million and has allocated it to Citizenship and Immigration Canada as a grant for the interim housing assistance program. </ParaText>
-              <ParaText id="6205447">How much of that money is being used to pay for housing for illegal border-crossers?</ParaText>
+              <ParaText id="6205447">How much of that money is being used to pay for housing for illegal border crossers?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
@@ -2220,7 +2229,7 @@
             <Content>
               <ParaText id="6205472">Mr. Speaker, I would encourage the minister to have a conversation with her deputy minister to find out just what information was shared with the committee. </ParaText>
               <ParaText id="6205473">Yesterday, the deputy minister also indicated that most of these funds were already under contract. Additionally, he indicated that many contracts for PPE include an advance payment provision, often depending on the commodity.</ParaText>
-              <ParaText id="6205474">How many, or what percentage, of the contracts related to the $500 million request in the estimates contain an advance payment provision?</ParaText>
+              <ParaText id="6205474">How many, or what percentage, of the contracts related to the $500-million request in the estimates contain an advance payment provision?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10890196">
@@ -2236,7 +2245,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252599" Type="2">Mrs. Kelly Block</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205478">Mr. Speaker, I will advise the minister that I have the opportunity of getting briefings every week from her <Affiliation DbId="253801" Type="18">parliamentary secretary</Affiliation>, who is quite forthcoming in giving answers to the questions that we ask. I just wish she would be, specifically to this $500 million request. </ParaText>
+              <ParaText id="6205478">Mr. Speaker, I will advise the minister that I have the opportunity of getting briefings every week from her <Affiliation DbId="253801" Type="18">parliamentary secretary</Affiliation>, who is quite forthcoming in giving answers to the questions that we ask. I just wish she would be, specifically to this $500-million request. </ParaText>
               <ParaText id="6205479">What is the average percentage of prepayments of all the contracts already entered into?</ParaText>
             </Content>
           </Intervention>
@@ -2275,7 +2284,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214333" Type="4">Hon. Marc Garneau (Minister of Transport, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205487">Mr. Speaker, I thought we would had made it abundantly clear that we are committed to zero net emissions by 2050 and improving, in fact, on our targets by 2030 for the Paris Agreement. That's why we are putting in place electric vehicle incentives.</ParaText>
+              <ParaText id="6205487">Mr. Speaker, I thought we would have made it abundantly clear that we are committed to zero net emissions by 2050 and improving, in fact, on our targets by 2030 for the Paris Agreement. That's why we are putting in place electric vehicle incentives.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10890226">
@@ -2297,7 +2306,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252550" Type="2">Mr. Kelly McCauley</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205490">Mr. Speaker, here today $182 million in taxpayers' money is proposed to subsidize wealthy car owners. Why is the government continuing to subsidize car owners? Has it run out of refrigerators to buy for Loblaws?</ParaText>
+              <ParaText id="6205490">Mr. Speaker, year to date, $182 million in taxpayers' money is being proposed to subsidize wealthy car owners. Why is the government continuing to subsidize car owners? Has it run out of refrigerators to buy for Loblaws?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10890451">
@@ -2311,7 +2320,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252550" Type="2">Mr. Kelly McCauley</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205492">Mr. Speaker, through you to the<Affiliation DbId="253398" Type="4">Minister of Middle Class Prosperity</Affiliation>, the cheapest electric vehicle in Canada is about $1,000 per month to buy or to finance. How many middle-class Canadians can afford $1,000 a month and will qualify for such a loan?</ParaText>
+              <ParaText id="6205492">Mr. Speaker, through you to the <Affiliation DbId="253398" Type="4">Minister of Middle Class Prosperity</Affiliation>, the cheapest electric vehicle in Canada is about $1,000 per month to buy or to finance. How many middle-class Canadians can afford $1,000 a month and will qualify for such a loan?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10890240">
@@ -2325,7 +2334,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252550" Type="2">Mr. Kelly McCauley</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205494">Mr. Speaker, this vehicle costs $1,000 a month to finance. Not many middle-class Canadians can afford that, if any.</ParaText>
+              <ParaText id="6205494">Mr. Speaker, the cheapest one is $1,000 a month to finance. Not many middle-class Canadians can afford that, if any.</ParaText>
               <ParaText id="6205495">None of these cars are made in Canada. Why is the government making this subsidy available to create middle-class jobs in the United States?</ParaText>
             </Content>
           </Intervention>
@@ -2340,7 +2349,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252550" Type="2">Mr. Kelly McCauley</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205497">Mr. Speaker, not a single light-duty vehicle is eligible for the government's subsidy program. I suggest that the minister learn what is available.</ParaText>
+              <ParaText id="6205497">Mr. Speaker, not a single light-duty vehicle is eligible for the government's subsidy program. I suggest that the minister learn his file.</ParaText>
               <ParaText id="6205498">Will the <Affiliation DbId="214311" Type="4">Minister of National Defence</Affiliation> commit to providing a comprehensive update on the strong, secure and engaged costing platform as the PBO has requested?</ParaText>
             </Content>
           </Intervention>
@@ -2392,7 +2401,7 @@
               <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205510">To date, the Government of Canada has provided indigenous peoples and northern communities with approximately $1.5 billion in funding to successfully fight COVID-19.</ParaText>
-              <ParaText id="6205511">A large portion of this funding is found in the Supplementary Estimates (A), 2020-21. These estimates include more than $280 million to support health measures provided by Indigenous Services Canada in first nation and Inuit communities.</ParaText>
+              <ParaText id="6205511">A large portion of this funding is found in the supplementary estimates (A), 2020-21. These estimates include more than $280 million to support health measures provided by Indigenous Services Canada in first nation and Inuit communities.</ParaText>
               <ParaText id="6205512">This is essential funding that will be used primarily to provide first nation and Inuit communities with the following: the services of additional health care providers; personal protective equipment; health infrastructure, in particular the repurposing of existing community spaces or the purchase of mobile structures to support isolation, assessment and shelter measures; and prevention and infection control measures at the community level.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205513">In addition, these estimates reflect $305 million for the distinctions-based indigenous community support fund. Of this amount, $215 million was dedicated to first nations, $45 million to Inuit and $30 million to Métis nation communities, plus $15 million in proposal-based funding for first nations off reserve and urban indigenous organizations and communities.</ParaText>
@@ -2455,7 +2464,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252583" Type="2">Ms. Anju Dhillon</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205537">Mr Speaker, we know that when indigenous communities move toward self-governance and self-determination, they have better outcomes across the board in terms of health, education and much more. Part of this involves supporting effective community governance in first nations.</ParaText>
+              <ParaText id="6205537">Mr. Speaker, we know that when indigenous communities move toward self-governance and self-determination, they have better outcomes across the board in terms of health, education and much more. Part of this involves supporting effective community governance in first nations.</ParaText>
               <ParaText id="6205538">How will the $24 million allocated to the band support program in these supplementary estimates help first nations move toward self-determination?</ParaText>
             </Content>
           </Intervention>
@@ -2493,7 +2502,7 @@
               <ParaText id="6205547">I would like to talk a little about my experience yesterday at the Standing Committee on Fisheries and Oceans, which has resumed its meetings. During that meeting, I could see the gaps in what is currently being provided. I was obviously aware of these gaps, but I will elaborate in my comments.</ParaText>
               <ParaText id="6205548">I often say that I am proud to be an MP because I represent people who have different lives and experiences. My riding is a remote region with natural resources, fisheries, seasonal work and mines, and it covers a vast area.</ParaText>
               <ParaText id="6205549">At present, the work of the House is suspended. We should not fool ourselves by claiming that the House is fully operational. Most of the work we should be doing is not getting done and this is not working. I will give you an example. </ParaText>
-              <ParaText id="6205550">Yesterday, a witness from my riding was unable to appear before the committee because we are currently receiving witnesses virtually. Unfortunately, in part of my riding, which is roughly 50,000 square kilometres, people do not have access to high speed Internet and that is causing them a lot of problems. They are being denied the democratic right of being able to participate in the debate and present their own reality. That witness was unable to testify as a fisher from an area in eastern Quebec, a very isolated region where there are no roads or bridges and where everything is covered in snow in winter.</ParaText>
+              <ParaText id="6205550">Yesterday, a witness from my riding was unable to appear before the committee because we are currently receiving witnesses virtually. Unfortunately, in part of my riding, which is roughly 50,000 square kilometres, people do not have access to high-speed Internet and that is causing them a lot of problems. They are being denied the democratic right of being able to participate in the debate and present their own reality. That witness was unable to testify as a fisher from an area in eastern Quebec, a very isolated region where there are no roads or bridges and where everything is covered in snow in winter.</ParaText>
               <ParaText id="6205551">In thinking of those witnesses who speak in committee or who cannot come testify, I would have liked this budget to make mention of the Internet. We have been talking about it for years and we depend on it, as I see every day in my own work, and also in my riding. I would have liked the government to think about these people in remote communities, but also those who live near urban centres and who also do not have Internet access.</ParaText>
               <ParaText id="6205552">The majority of the additional funding that will be provided has to do with COVID-19. However, no matter how many waves are coming our way, pressing needs remain. We have to prepare for the future, which means being in tune with the present and having the necessary infrastructure.</ParaText>
               <ParaText id="6205553">I would have liked to hear that witness talk about another subject that is not mentioned in these estimates, namely seasonal workers. Those who know seasonal workers in the fishing, forestry or tourism industries know that these sectors have been hit hard by the COVID-19 pandemic. However, there is no mention of these workers, even if we have heard that there might be something for them and that it might go through employment insurance.</ParaText>
@@ -2554,7 +2563,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252552" Type="2">Mrs. Marilène Gill</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205567">I thank my hon. colleague for her response. When I speak, obviously it is for the Côte-Nord, but I am also speaking for Quebec as a whole.</ParaText>
+              <ParaText id="6205567">Madam Chair, I thank my hon. colleague for her response. When I speak, obviously it is for the Côte-Nord, but I am also speaking for Quebec as a whole.</ParaText>
               <ParaText id="6205568">When it comes to tourism, she knows very well that this and other sectors are just as vibrant in Montreal as they are in my region. At the same time, Réjean Porlier and Yves Montigny, the mayors of Sept-Îles and Baie-Comeau, are of course having difficulties. There is also the reality of the immensity of the territory.</ParaText>
               <ParaText id="6205569">Once again, I am not getting an answer to my question. I am talking about the Internet and seasonal workers, which have nothing to do with CFDCs. I am also talking about first nations, which would like to access, without discrimination, the same programs as other fishers.</ParaText>
             </Content>
@@ -2911,7 +2920,7 @@
               <ParaText id="6205657">Madam Chair, the question was how much the government spent. We know it splashed money around in all directions in order to win, in addition to throwing away all of Canada's traditional principles. It will not tell us how much it spent on this failed enterprise to lose votes vis-à-vis our last time.</ParaText>
               <ParaText id="6205658">We know how much of our moral authority the government squandered. It stood beside the Iranian totalitarian regime in Tehran, bowed before that regime, apologized to that regime after it shot down a plane killing Canadians.</ParaText>
               <ParaText id="6205659">We know the government abandoned Israel, voting against it at the United Nations after only months earlier promising to do the contrary. It refused to list the terrorist Iranian revolutionary armed guard of Canada. It refused to stand up to the dictators around the world and in Asia in order to try to win some votes. It gave up all of this moral authority in exchange for absolutely nothing.</ParaText>
-              <ParaText id="6205660">It is bad enough when one gives up one's principles. It is even worse when one gives up one's principles and lose anyway. </ParaText>
+              <ParaText id="6205660">It is bad enough when one gives up one's principles. It is even worse when one gives up one's principles and loses anyway. </ParaText>
               <ParaText id="6205661">Given that massive failure, will the government at least tell Canadian taxpayers how much is squandered on this failed global campaign?</ParaText>
             </Content>
           </Intervention>
@@ -2921,7 +2930,7 @@
             <Content>
               <ParaText id="6205662">Madam Chair, I believe that when Canada provides support to local women's organizations, that is not squandering money. I believe that when Canada provides funding for neonatal care in the Palestinian territories, that is not squandered funding. I believe that when we are engaging on LGBTQ2 issues, when we are engaging on climate change, when we are engaging on human rights around the world, that is not squandering Canadian resources.</ParaText>
               <ParaText id="6205663">I have to sincerely and completely disagree with my hon. colleague. When it comes to defending Israel, when it comes to defending a two-state solution in the Middle East, Canada has been there and has been firm in that commitment. When it comes to defending and seeking justice and transparency for the victims of the Iranian plane crash, Canada has been there.</ParaText>
-              <ParaText id="6205664">Canada has not comprised on its values and in fact we continue to lead with them day in and day out.</ParaText>
+              <ParaText id="6205664">Canada has not compromised on its values and in fact we continue to lead with them day in and day out.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="40">(1840)</Timestamp>
@@ -2982,7 +2991,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253403" Type="4">Hon. Carla Qualtrough (Minister of Employment, Workforce Development and Disability Inclusion, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6205682">Madam Chair, as I have said previously, in the upcoming days we are going to open up the I Want to Volunteer portal, which will give students the opportunity to be paired with summer service opportunities. We wanted to make sure that we did not burden non-profits. Obviously, in this time of the COVID pandemic their resources are stretched. We wanted to make sure that we had a strong support network for non-profits and students so that—</ParaText>
+              <ParaText id="6205682">Madam Chair, as I have said previously, in the upcoming days we are going to open up the I Want to Help Platform, which will give students the opportunity to be paired with summer service opportunities. We wanted to make sure that we did not burden non-profits. Obviously, in this time of the COVID pandemic their resources are stretched. We wanted to make sure that we had a strong support network for non-profits and students so that—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="10890548">
@@ -3075,7 +3084,7 @@
               <ParaText id="6205699">Madam Chair, I thank you and the members who have gathered here to study the supplementary estimates. I am particularly grateful for the opportunity to participate in this.</ParaText>
               <ParaText id="6205700"> I want to begin by acknowledging we are on Algonquin territory, and I say <I>meegwetch</I> to the Algonquin peoples. </ParaText>
               <ParaText id="6205701">Before I begin, because this is probably the last time I will have in a while to address my friends here, and I like to think we are all friends, I want to start by saying that when we look around the world, the countries that have had the least partisan approach to COVID-19 are the countries that have done the best. In fact, it is often pointed out in the media these days that the countries with women leaders have done particularly well: Iceland, Finland, Norway, Denmark, New Zealand, Germany and Taiwan. On top of the fact that those countries happen to have women leaders, all of them also use some form of proportional representation in electing their governments. There is something significant about the non-partisanship that occurs in a system where one does not vote using first past the post. </ParaText>
-              <ParaText id="6205702">Over my years in this place and my years in politics, I have come to believe that first past the post tends to encourage the worst instincts in politics. I think the worst instinct in politics at this moment when Canadians are looking to us, as elected members if we do not work together would be for me to not thank the people I stand looking at this time. That is why I came to this side of the House, because I want to thank them. </ParaText>
+              <ParaText id="6205702">Over my years in this place and my years in politics, I have come to believe that first past the post tends to encourage the worst instincts in politics. I think the worst instinct in politics at this moment when Canadians are looking to us, as elected members, to work together would be for me to not thank the people I stand looking at, at this time. That is why I came to this side of the House, because I want to thank them. </ParaText>
               <ParaText id="6205703">I do not imagine any of them have had a day off in a long time. If Canadians think we are not working, we are working. I know my colleague from Edmonton and I are working wherever we are. Since March 13, when we adjourned, and I am not looking for sympathy, my one day off was Mother's Day. </ParaText>
               <ParaText id="6205704">I am hoping that all of us will be back here on July 8, but I know these government members, their senior civil servants and their families have been feeling this. When members are on the front bench of the government, they are working darn hard to try to help all Canadians. </ParaText>
               <ParaText id="6205705">Yes, to the extent the government has fallen short, we do have to make it accountable. However, I cannot say I think the people sitting in front of me here today have not been working their hearts out to try to help Canadians, and for that I thank them. It has not been easy for anyone. I know when we can be less partisan, we will do a better job.</ParaText>
@@ -3088,7 +3097,7 @@
               <ParaText id="6205712">We were not in a pandemic then, so I will say we have a few more excuses for having different kinds of procedures. I will hold the government to account and make sure that when we resume, and I gather we will look at the main estimates again and will have more time to study them, that we really will have the opportunity to study. A pandemic is also no excuse to not have a real Parliament. </ParaText>
               <Timestamp Hr="18" Mn="50">(1850)</Timestamp>
               <ParaText id="6205713">I have never been part of the House leaders' discussions, obviously, but I would prefer that we had not come up with a COVID-19 committee format, because, quite honestly, we were doing most of what gets to happen in the House of Commons. If we had seen this coming, we should have created two sets of Standing Orders: one for when things are normal and one for when we cannot meet.</ParaText>
-              <ParaText id="6205714"> I take the point that has been made by the Leader of the Official Opposition that this Parliament met right through the Second Word War. Well, sure, there was no reason not to sit right through the Second World War; we were not all contagious. We cannot all sit here side by side and go back and forth to our ridings without risking being disease vectors and contaminating our communities, but it is still not adequate, and so I am on both sides of the fence on this. </ParaText>
+              <ParaText id="6205714"> I take the point that has been made by the Leader of the Official Opposition that this Parliament met right through the Second World War. Well, sure, there was no reason not to sit right through the Second World War; we were not all contagious. We cannot all sit here side by side and go back and forth to our ridings without risking being disease vectors and contaminating our communities, but it is still not adequate, and so I am on both sides of the fence on this. </ParaText>
               <ParaText id="6205715">However, before we get through much more of the pandemic, I hope we can have a full House of Commons at a distance. The only missing piece is the voting at a distance, which we could easily do. Once we add that piece in, we can take on the legislation that needs to be studied. We could have full, long studies of every single aspect of every budget in committee meetings. Indeed, the finance committee has been meeting. I attend it regularly. It is hearing from dozens of witnesses. We have the technology to allow Parliament to meet, and that is what I hope we will do, because we need to see democracy in action; and for democracy to be in action, every single Canadian needs to be represented by their own member of Parliament, not by proxy, not by party whips. Everybody needs to be engaged, and that is what happens when we have the hybrid model, in which we have shown that this technology works.</ParaText>
               <ParaText id="6205716">Our only problem is that we are not using the Standing Orders for Parliament. We are using committee rules, because it is a COVID-19 committee. It does hold people to account, and I have to say that I think the five-minute rounds are far more interesting and bring more interesting information to light than the 30 seconds back and forth in our normal Standing Orders for question period. </ParaText>
               <ParaText id="6205717">In any case, I want to turn to the questions that I have about the supplementary estimates, and I will turn to the ministers. </ParaText>
@@ -3194,7 +3203,7 @@
               <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6205744">It being 7:04 p.m., pursuant to an order made Tuesday, May 26, all votes are deemed reported. The committee will rise and I will now leave the chair.</ParaText>
-              <ProceduralText TocType="TPC" id="9">All supplementary estimates (A) votes reported</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">All supplementary estimates (A) votes reported</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3216,7 +3225,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos (President of the Treasury Board, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="10">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="11">Motion for concurrence</ProceduralText>
               <ParaText id="6205747"> moved:</ParaText>
               <ParaText id="6205748">
                 <Quote>
@@ -3291,7 +3300,7 @@
                 <B>Some hon. members:</B> On division.</ParaText>
               <ParaText id="6205763">
                 <B>The Speaker:</B> I declare the motion carried.</ParaText>
-              <ProceduralText id="11">(Motion agreed to)</ProceduralText>
+              <ProceduralText id="12">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3300,9 +3309,9 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos (President of the Treasury Board, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="12">Bill C-18. Introduction and first reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="13">Bill C-18. Introduction and first reading</ProceduralText>
               <ParaText id="6205764"> moved that Bill <Document DbId="10806450" Type="3">C-18, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2021</Document>, be now read the first time and printed.</ParaText>
-              <ProceduralText TocType="TCC" id="13">(Motions deemed adopted, bill read the first time and printed)</ProceduralText>
+              <ProceduralText TocType="TCC" id="14">(Motions deemed adopted, bill read the first time and printed)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3311,7 +3320,7 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="14">Second reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Second reading</ProceduralText>
               <ParaText id="6205765"> moved that the bill be read a second time and referred to committee of the whole.</ParaText>
             </Content>
           </Intervention>
@@ -3324,14 +3333,14 @@
                 <B>Some hon. members</B>: Agreed.</ParaText>
               <ParaText id="6205768">
                 <B>Some hon. members</B>: On division.</ParaText>
-              <ProceduralText TocType="TCC" id="15">(Motion agreed to, bill read the second time and the House went into committee of the whole thereon, Mrs. Carol Hughes in the chair)</ProceduralText>
-              <ProceduralText TocType="TCC" id="16">(On clause 2)</ProceduralText>
+              <ProceduralText TocType="TCC" id="16">(Motion agreed to, bill read the second time and the House went into committee of the whole thereon, Mrs. Carol Hughes in the chair)</ProceduralText>
+              <ProceduralText TocType="TCC" id="17">(On clause 2)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="10890607">
+          <Intervention Type="Debate" ToC="No" id="10890607">
             <PersonSpeaking>
-              <Affiliation DbId="253713" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253708" Type="96">The Deputy Chair</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6205769">Order. The House is in committee of the whole on Bill <Document DbId="10806450" Type="3">C-18</Document>.</ParaText>
               <ParaText id="6205770">The hon. member for <Affiliation DbId="252875" Type="2">Edmonton Mill Woods</Affiliation>.</ParaText>
@@ -3364,14 +3373,14 @@
                 <B>Some hon. members</B>: Agreed.</ParaText>
               <ParaText id="6205775">
                 <B>Some hon. members</B>: On division.</ParaText>
-              <ProceduralText TocType="TCC" id="17">(Clause 2 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="18">(Clause 2 agreed to)</ProceduralText>
               <ParaText id="6205776">
                 <B>The Deputy Chair</B>: Shall clause 3 carry?</ParaText>
               <ParaText id="6205777">
                 <B>Some hon. members</B>: Agreed.</ParaText>
               <ParaText id="6205778">
                 <B>Some hon. members</B>: On division.</ParaText>
-              <ProceduralText TocType="TCC" id="18">(Clause 3 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="19">(Clause 3 agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205779">
                 <B>The Deputy Chair:</B> Shall clause 4 carry?</ParaText>
@@ -3379,21 +3388,21 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205781">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="19">(Clause 4 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="20">(Clause 4 agreed to)</ProceduralText>
               <ParaText id="6205782">
                 <B>The Deputy Chair:</B> Shall clause 5 carry?</ParaText>
               <ParaText id="6205783">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205784">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="20">(Clause 5 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="21">(Clause 5 agreed to)</ProceduralText>
               <ParaText id="6205785">
                 <B>The Deputy Chair:</B> Shall clause 6 carry?</ParaText>
               <ParaText id="6205786">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205787">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="21">(Clause 6 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="22">(Clause 6 agreed to)</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205788">
                 <B>The Deputy Chair</B>: Shall schedule 1.1 carry?</ParaText>
@@ -3401,21 +3410,21 @@
                 <B>Some hon. members</B>: Agreed.</ParaText>
               <ParaText id="6205790">
                 <B>Some hon. members</B>: On division.</ParaText>
-              <ProceduralText TocType="TCC" id="22">(Schedule 1.1 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="23">(Schedule 1.1 agreed to)</ProceduralText>
               <ParaText id="6205791">
                 <B>The Deputy Chair</B>: Shall schedule 1.2 carry?</ParaText>
               <ParaText id="6205792">
                 <B>Some hon. members</B>: Agreed.</ParaText>
               <ParaText id="6205793">
                 <B>Some hon. members</B>: On division.</ParaText>
-              <ProceduralText TocType="TCC" id="23">(Schedule 1.2 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="24">(Schedule 1.2 agreed to)</ProceduralText>
               <ParaText id="6205794">
                 <B>The Deputy Chair</B>: Shall schedule 1.3 carry?</ParaText>
               <ParaText id="6205795">
                 <B>Some hon. members</B>: Agreed.</ParaText>
               <ParaText id="6205796">
                 <B>Some hon. members</B>: On division.</ParaText>
-              <ProceduralText TocType="TCC" id="24">(Schedule 1.3 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="25">(Schedule 1.3 agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205797">
                 <B>The Deputy Chair:</B> Shall schedule 1.4 carry?</ParaText>
@@ -3423,21 +3432,21 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205799">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="25">(Schedule 1.4 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="26">(Schedule 1.4 agreed to)</ProceduralText>
               <ParaText id="6205800">
                 <B>The Deputy Chair:</B> Shall schedule 1.5 carry?</ParaText>
               <ParaText id="6205801">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205802">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="26">(Schedule 1.5 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="27">(Schedule 1.5 agreed to)</ProceduralText>
               <ParaText id="6205803">
                 <B>The Deputy Chair:</B> Shall schedule 1.6 carry?</ParaText>
               <ParaText id="6205804">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205805">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="27">(Schedule 1.6 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="28">(Schedule 1.6 agreed to)</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205806">
                 <B>The Deputy Chair:</B> Shall schedule 1.7 carry?</ParaText>
@@ -3445,14 +3454,14 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205808">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="28">(Schedule 1.7 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="29">(Schedule 1.7 agreed to)</ProceduralText>
               <ParaText id="6205809">
                 <B>The Deputy Chair:</B> Shall schedule 2.1 carry?</ParaText>
               <ParaText id="6205810">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205811">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="29">(Schedule 2.1 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="30">(Schedule 2.1 agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205812">
                 <B>The Deputy Chair:</B> Shall schedule 2.2 carry?</ParaText>
@@ -3460,34 +3469,34 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205814">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="30">(Schedule 2.2 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="31">(Schedule 2.2 agreed to)</ProceduralText>
               <ParaText id="6205815">
                 <B>The Deputy Chair:</B> Shall clause 1, the short title, carry?</ParaText>
               <ParaText id="6205816">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205817">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="31">(Clause 1 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="32">(Clause 1 agreed to)</ProceduralText>
               <ParaText id="6205818">
                 <B>The Deputy Chair:</B> Shall the title carry?</ParaText>
               <ParaText id="6205819">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205820">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="32">(Title agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="33">(Title agreed to)</ProceduralText>
               <ParaText id="6205821">
                 <B>The Deputy Chair:</B> Shall the bill carry?</ParaText>
               <ParaText id="6205822">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205823">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="33">(Bill agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="34">(Bill agreed to)</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205824">
                 <B>The Deputy Chair:</B> Shall I rise and report the bill?</ParaText>
               <ParaText id="6205825">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <ProceduralText TocType="TCC" id="34">(Bill reported)</ProceduralText>
+              <ProceduralText TocType="TCC" id="35">(Bill reported)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3496,7 +3505,7 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="35">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="36">Motion for concurrence</ProceduralText>
               <ParaText id="6205826"> moved that the bill be concurred in.</ParaText>
             </Content>
           </Intervention>
@@ -3510,7 +3519,7 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205829">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="36">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="37">(Motion agreed to)</ProceduralText>
               <ParaText id="6205830">
                 <B>The Speaker:</B> When shall the bill be read a third time? By leave, now?</ParaText>
               <ParaText id="6205831">
@@ -3523,7 +3532,7 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="37">Third reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="38">Third reading</ProceduralText>
               <ParaText id="6205832"> moved that the bill be read the third time and passed. </ParaText>
             </Content>
           </Intervention>
@@ -3536,10 +3545,15 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205835">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="38">(Bill read the third time and passed)</ProceduralText>
+              <ProceduralText TocType="TCC" id="39">(Bill read the third time and passed)</ProceduralText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="10644134">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Supplementary Estimates, 2020-21</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="10890722">
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -3552,7 +3566,7 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos (President of the Treasury Board, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="39">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="40">Motion for concurrence</ProceduralText>
               <ParaText id="6205837"> moved:</ParaText>
               <ParaText id="6205838">
                 <Quote>
@@ -3570,7 +3584,7 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205841">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="40">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="41">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3579,9 +3593,9 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos (President of the Treasury Board, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="41">Bill C-19. Introduction and first reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="42">Bill C-19. Introduction and first reading</ProceduralText>
               <ParaText id="6205842"> moved for leave to introduce Bill <Document DbId="10806452" Type="3">C-19, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2021</Document>.</ParaText>
-              <ProceduralText TocType="TCC" id="42"> (Motions deemed adopted, bill read the first time and printed) </ProceduralText>
+              <ProceduralText TocType="TCC" id="43"> (Motions deemed adopted, bill read the first time and printed) </ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3591,7 +3605,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6205843"> moved that the bill be read the second time and referred to a committee.</ParaText>
-              <ProceduralText TocType="TPC" id="43">Bill C-19. Second reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="44">Bill C-19. Second reading</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3606,8 +3620,8 @@
                 <B>Some hon. members:</B> On division.</ParaText>
               <ParaText id="6205847">
                 <B>The Speaker:</B> Accordingly, the bill stands referred to a committee of the whole. I do now leave the chair for the House to go into committee of the whole.</ParaText>
-              <ProceduralText TocType="TCC" id="44">(Motion agreed to, bill read the second time and the House went into committee of the whole thereon, Mrs. Carol Hughes in the chair)</ProceduralText>
-              <ProceduralText TocType="TCC" id="45">(On clause 2)</ProceduralText>
+              <ProceduralText TocType="TCC" id="45">(Motion agreed to, bill read the second time and the House went into committee of the whole thereon, Mrs. Carol Hughes in the chair)</ProceduralText>
+              <ProceduralText TocType="TCC" id="46">(On clause 2)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Uppal" id="10890623">
@@ -3633,21 +3647,21 @@
                 <B>Some hon. members:</B> Agreed. </ParaText>
               <ParaText id="6205852">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="46">(Clause 2 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="47">(Clause 2 agreed to)</ProceduralText>
               <ParaText id="6205853">
                 <B>The Deputy Chair:</B> Shall clause 3 carry?</ParaText>
               <ParaText id="6205854">
                 <B>Some hon. members:</B> Agreed. </ParaText>
               <ParaText id="6205855">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="47">(Clause 3 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="48">(Clause 3 agreed to)</ProceduralText>
               <ParaText id="6205856">
                 <B>The Deputy Chair:</B> Shall clause 4 carry?</ParaText>
               <ParaText id="6205857">
                 <B>Some hon. members:</B> Agreed. </ParaText>
               <ParaText id="6205858">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="48">(Clause 4 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="49">(Clause 4 agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205859">
                 <B>The Deputy Chair:</B> Shall clause 5 carry?</ParaText>
@@ -3655,28 +3669,28 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205861">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="49">(Clause 5 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="50">(Clause 5 agreed to)</ProceduralText>
               <ParaText id="6205862">
                 <B>The Deputy Chair:</B> Shall clause 6 carry?</ParaText>
               <ParaText id="6205863">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205864">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="50">(Clause 6 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="51">(Clause 6 agreed to)</ProceduralText>
               <ParaText id="6205865">
                 <B>The Deputy Chair:</B> Shall schedule 1 carry?</ParaText>
               <ParaText id="6205866">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205867">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="51">(Schedule 1 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="52">(Schedule 1 agreed to)</ProceduralText>
               <ParaText id="6205868">
                 <B>The Deputy Chair:</B> Shall schedule 2 carry?</ParaText>
               <ParaText id="6205869">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205870">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="52">(Schedule 2 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="53">(Schedule 2 agreed to)</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205871">
                 <B>The Deputy Chair:</B> Shall clause 1, the short title, carry?</ParaText>
@@ -3684,14 +3698,14 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205873">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="53">(Clause 1 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="54">(Clause 1 agreed to)</ProceduralText>
               <ParaText id="6205874">
                 <B>The Deputy Chair:</B> Shall the preamble carry?</ParaText>
               <ParaText id="6205875">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205876">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="54">(Preamble agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="55">(Preamble agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6205877">
                 <B>The Deputy Chair:</B> Shall the title carry?</ParaText>
@@ -3699,19 +3713,19 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205879">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="55">(Title agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="56">(Title agreed to)</ProceduralText>
               <ParaText id="6205880">
                 <B>The Deputy Chair:</B> Shall the bill carry? </ParaText>
               <ParaText id="6205881">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205882">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="56">(Bill agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="57">(Bill agreed to)</ProceduralText>
               <ParaText id="6205883">
                 <B>The Deputy Chair:</B> Shall I rise and report the bill?</ParaText>
               <ParaText id="6205884">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <ProceduralText TocType="TCC" id="57">(Bill reported)</ProceduralText>
+              <ProceduralText TocType="TCC" id="58">(Bill reported)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duclos" id="10890730">
@@ -3719,7 +3733,7 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos (President of the Treasury Board, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="58">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="59">Motion for concurrence</ProceduralText>
               <ParaText id="6205885"> moved that Bill <Document DbId="10806452" Type="3">C-19, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2021</Document>, be concurred in at report stage.</ParaText>
             </Content>
           </Intervention>
@@ -3732,7 +3746,7 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205888">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="59">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="60">(Motion agreed to)</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6205889">
                 <B>The Speaker:</B> When shall the bill be read a third time? By leave, now?</ParaText>
@@ -3745,7 +3759,7 @@
               <Affiliation DbId="253369" Type="4">Hon. Jean-Yves Duclos </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="60"> Third reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="61"> Third reading</ProceduralText>
               <ParaText id="6205891"> moved that <Document DbId="10806452" Type="3">C-19, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2021</Document>, be read the third time and passed.</ParaText>
             </Content>
           </Intervention>
@@ -3758,7 +3772,7 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6205894">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="61">(Motion agreed to, bill read the third time and passed)</ProceduralText>
+              <ProceduralText TocType="TCC" id="62">(Motion agreed to, bill read the third time and passed)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>

@@ -128,7 +128,7 @@
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="10821389">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Délibérations de la Chambre et des comités</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les délibérations de la Chambre et des comités</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Interjection" ToC="No" id="10821390">
             <PersonSpeaking>
@@ -147,6 +147,11 @@
             <Content>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="6122694">Monsieur le Président, je propose:</ParaText>
+              <ParaText id="6126724">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant tout article du Règlement, ordre spécial ou usage habituel de la Chambre, au cours de la séance d’aujourd’hui, un ministre de la Couronne soit autorisé à proposer, sans avis, une motion relative aux travaux de la Chambre et de ses comités.</QuotePara>
+                </Quote>
+              </ParaText>
               <ParaText id="6122695">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant tout article du Règlement, ordre spécial ou usage habituel de la Chambre: </QuotePara>
@@ -159,7 +164,7 @@
               </ParaText>
               <ParaText id="6122697">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">b) les réponses du gouvernement à la pétition 431-00125, 431-00129, 431-00134, 431-00136 et 431-00139 soient déposées immédiatement et que les réponses du gouvernement aux questions inscrites au Feuilleton numéros Q-369 à Q-379 et une réponse supplémentaire à Q-330 soient transformées en ordres de dépôt de documents et que les documents soient déposés immédiatement;</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">b) les réponses du gouvernement aux pétitions 431-00125, 431-00129, 431-00134, 431-00136 et 431-00139 soient déposées immédiatement et que les réponses du gouvernement aux questions inscrites au Feuilleton numéros Q-369 à Q-379 et une réponse supplémentaire à Q-330 soient transformées en ordres de dépôt de documents et que les documents soient déposés immédiatement;</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122698">
@@ -199,7 +204,7 @@
               </ParaText>
               <ParaText id="6122705">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">après 27 interventions de cinq minutes ou lorsque plus aucun député ne prendra la parole, selon la première éventualité, le comité lève la séance;</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">après 27 interventions de cinq minutes ou lorsque plus aucun député ne prend la parole, selon la première éventualité, le comité lève la séance;</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122706">
@@ -244,7 +249,7 @@
               </ParaText>
               <ParaText id="6122714">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">h) un comité spécial sur la pandémie de la COVID-19 soit créé, composé de tous les députés, et se réunisse afin</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">h) un comité spécial sur la pandémie de la COVID-19 soit créé, composé de tous les députés de la Chambre, et se réunisse afin</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122715">
@@ -259,7 +264,7 @@
               </ParaText>
               <ParaText id="6122717">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(iii) de questionner des ministres de la Couronne, incluant le premier ministre par rapport à la pandémie de  la COVID-19, pourvu que</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(iii) de questionner des ministres de la Couronne, incluant le premier ministre, par rapport à la pandémie de  la COVID-19, pourvu que</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122718">
@@ -269,22 +274,22 @@
               </ParaText>
               <ParaText id="6122719">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(v) les mardis et les jeudis, le Comité se réunisse par vidéoconférence et les députés doivent participer aux réunions par vidéoconférence et, les mercredis, le Comité se réunisse dans l’enceinte de la Chambre et les députés doivent participer en personne, pourvu que les réunions par vidéoconférence soient assujetties aux limites que l’administration de la Chambre estime nécessaires,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(v) les mardis et les jeudis, le Comité se réunisse par vidéoconférence et les députés doivent participer aux réunions par vidéoconférence et, les mercredis, le Comité se réunisse dans l’enceinte de la Chambre et les députés doivent participer en personne, pourvu que les réunions par vidéoconférence soient assujetties aux limites que l’Administration de la Chambre estime nécessaires,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122720">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(vi) le Président soit la présidence du Comité,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(vi) le Président soit le président du Comité,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122721">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(vii) ssept députés constituent un quorum, </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(vii) sept députés constituent un quorum, </QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122722">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(viii) les annonces ministérielles, s'il y en a, soient étudiées à l’ouverture de la réunion et les délibérations soient menées de la même manière que les déclarations de ministres en vertu de l’article 33(1) du Règlement, pourvu qu’un député du Parti vert puisse également commenter la déclaration,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(viii) les annonces ministérielles soient étudiées à l’ouverture de la réunion et les délibérations soient menées de la même manière que les déclarations de ministres en vertu de l’article 33(1) du Règlement, pourvu qu’un député du Parti vert puisse également commenter la déclaration,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122723">
@@ -319,7 +324,7 @@
               </ParaText>
               <ParaText id="6122729">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(xv) tout document puisse être présenté par un ministre de la Couronne, ou un secrétaire parlementaire agissant au nom d’un ministre pendant la réunion du comité et soit réputé à toutes fins avoir été présenté ou déposé à la Chambre,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(xv) tout document puisse être présenté par un ministre de la Couronne, ou un secrétaire parlementaire agissant au nom d’un ministre pendant la réunion du Comité et soit réputé à toutes fins avoir été présenté ou déposé à la Chambre,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122730">
@@ -359,7 +364,7 @@
               </ParaText>
               <ParaText id="6122737">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(iv) l’application des articles 15, 17, 36(8)b) et 39(5)b) soit suspendue,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(iv) l’application des articles 15, 17, 36(8)b) et 39(5)b) du Règlement soit suspendue,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122738">
@@ -384,7 +389,7 @@
               </ParaText>
               <ParaText id="6122742">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(ix) aucune motion proposée en vertu de l’article 26, 38, 52, 53, 56.1, 57, 78(2) ou (3), 81 ou 84 du Règlement ne puisse être reçue ni étudiée,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(ix) aucune motion proposée en vertu des articles 26, 38, 52, 53, 56.1, 57, 78(2) ou (3), 81 ou 84 du Règlement ne puisse être reçue, ni étudiée,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122743">
@@ -394,7 +399,7 @@
               </ParaText>
               <ParaText id="6122744">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(xi) lorsque les délibérations régies par la motion visée à l’alinéa (vii) sont terminées, ou si cette motion est rejetée ou si un ministre ne déclare pas qu’il y a accord, le Président ajourne la Chambre jusqu’au jour visé en e) et la Chambre soit réputée ajournée, à toute fins, conformément à cet ordre;</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(xi) lorsque les délibérations régies par la motion visée à l’alinéa (viii) sont terminées, ou si cette motion est rejetée ou si un ministre ne déclare pas qu’il y a accord, le Président ajourne la Chambre jusqu’au jour visé en e) et la Chambre soit réputée ajournée, à toute fins, conformément à cet ordre;</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122745">
@@ -439,12 +444,12 @@
               </ParaText>
               <ParaText id="6122753">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(ii) le certificat de nomination puisse être  déposée conformément au paragraphe k) de l'ordre adopté le samedi 11 avril 2020, renouvelé par l'alinéa e)(iii) de cet ordre,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(ii) le certificat de nomination puisse être  déposé conformément au paragraphe k) de l'ordre adopté le samedi 11 avril 2020, renouvelé par l'alinéa f)(iii) de cet ordre,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122754">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(iii) le Comité permanent des comptes publics se réunisse dans les sept jours suivant le dépôt du certificat de nomination et, si la Chambre est ajournée conformément à cet ordre, les dispositions relatives aux comités énumérées aux paragraphes l) et n) de l’ordre adopté le samedi 11 avril 2020, renouvelées par l’alinéa e)(iii) de cet ordre, s’appliquent au Comité aux fins de cette étude, cependant le Comité peut étudier des motions relatives à l’adoption d’une ébauche de rapport en lien avec cette étude,</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(iii) le Comité permanent des comptes publics se réunisse dans les sept jours suivant le dépôt du certificat de nomination et, si la Chambre est ajournée conformément à cet ordre, les dispositions relatives aux comités énumérées aux paragraphes l) et n) de l’ordre adopté le samedi 11 avril 2020, renouvelées par l’alinéa f)(iii) de cet ordre, s’appliquent au Comité aux fins de cette étude, cependant le Comité peut étudier des motions relatives à l’adoption d’une ébauche de rapport en lien avec cette étude,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122755">
@@ -519,7 +524,7 @@
               </ParaText>
               <ParaText id="6122769">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(viii) au paragraphe (18), par substitution aux mots « 23 juin », des mots « 10 décembre »;</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="3">(viii) au paragraphe (18), par substitution aux mots « 23 juin », des mots « 10 décembre »,</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122770">
@@ -679,7 +684,7 @@
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6122823">Le <Affiliation DbId="253375" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> a dit que la main du gouvernement était toujours tendue. Je tiens à dire que la nôtre l’est également.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6122824"> Le leader du gouvernement à la Chambre a dit qu'il ne s'agit pas d'une question partisane. Je lui rappelle que c'est son chef, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, qui a dit quelque chose aux Canadiens hier qu'il savait fausse. Il a déclaré qu'il y aurait 338 députés à la Chambre aujourd'hui. J'invite les députés à regarder autour d'eux. Nous avons fait exactement ce que nous avons dit aux Canadiens que nous ferions, soit représenter les Canadiens à la Chambre de façon responsable en respectant les lignes directrices de santé publique.</ParaText>
+              <ParaText id="6122824"> Le leader du gouvernement à la Chambre a dit qu'il ne s'agit pas d'une question partisane. Je lui rappelle que c'est son chef, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, qui a dit quelque chose aux Canadiens hier qu'il savait faux. Il a déclaré qu'il y aurait 338 députés à la Chambre aujourd'hui. J'invite les députés à regarder autour d'eux. Nous avons fait exactement ce que nous avons dit aux Canadiens que nous ferions, soit représenter les Canadiens à la Chambre de façon responsable en respectant les lignes directrices de santé publique.</ParaText>
               <ParaText id="6122825">Le fait que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> ait tenté d'attiser la peur alors qu'il savait qu'une telle chose ne se produirait jamais était non seulement malhonnête, mais a aussi miné sa crédibilité. À un moment où les Canadiens s'attendent à ce qu'il soit ouvert et franc, le fait qu'il agisse de la sorte ébranle la confiance des Canadiens, qui doutent qu'il ait dit la vérité dans d'autres dossiers. Hier, nous avons été témoins d'un exemple scandaleux de partisanerie.</ParaText>
               <ParaText id="6122826">J'ai entendu beaucoup d'observations de la part de députés qui montrent, à mon avis, que ces derniers laissent le mieux être l'ennemi du bien. Il est évident que les séances en personne seront problématiques. Nous aurions pu passer les deux dernières semaines à discuter de la meilleure façon de régler ces problèmes, de limiter les répercussions sur la Chambre des communes et de permettre à des députés de tous les caucus de participer aux débats.</ParaText>
               <ParaText id="6122827">Par défaut, le Parlement doit siéger, et c'est au gouvernement d'expliquer pourquoi il devrait s'abstenir en temps de crise. Le gouvernement s'est déjà servi de la crise à son avantage. Les députés se rappellent-ils la première fois qu'ils ont été convoqués? Je sais que le <Affiliation DbId="253375" Type="4">leader parlementaire</Affiliation> s'en souvient, lui, parce que nous sommes restés tous les deux ici jusqu'à très tôt le lendemain matin. Quand on nous a demandé de venir à Ottawa pour adopter une loi afin que les Canadiens aient plus aisément accès aux prestations d'urgence, le gouvernement libéral s'est attribué des pouvoirs inédits d'une ampleur incroyable, sans égard pour les pouvoirs du Parlement en matière de taxation et de dépenses. C'est parce que les conservateurs ont refusé de jouer le jeu que nous avons pu protéger nos institutions démocratiques.</ParaText>
@@ -697,7 +702,7 @@
               </ParaText>
               <ParaText id="6122832">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="2">a) par substitution des alinéas (iv) et (v) de ce qui suit: « (iv) pendant la période où la Chambre est ajournée conformément à cet ordre, le Comité se réunisse à midi en Chambre tous les mardis et mercredis, pourvu que le Comité ne se réunisse pas lors d’une journée mentionnée à l’article 28(1) du Règlement, »;</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">a) par substitution des alinéas (iv) et (v) de ce qui suit: « (iv) pendant la période où la Chambre est ajournée conformément à cet ordre, le Comité se réunisse à midi à la Chambre tous les mardis et mercredis, pourvu que le Comité ne se réunisse pas lors d’une journée mentionnée à l’article 28(1) du Règlement, »;</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6122833">
@@ -712,7 +717,7 @@
               </ParaText>
               <ParaText id="6122835">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="2">d) par substitution de l’alinéa (xviii) de ce qui suit: « (xviii) à la suite de la présentation du rapport du Comité permanent de la procédure et des affaires de la Chambre conformément à l’ordre de renvoi du samedi 11 avril 2020, si ce Comité recommande la tenue de séances virtuelles, et si le greffier de la Chambre indique que celles-ci sont réalisables sur le plan technologique, les leaders à la Chambre des quatre partis reconnus puissent donner avis au Président qu’il y a accord entre les partis visant la tenue d’une réunion de plus du Comité chaque semaine, par vidéoconférence, nonobstant l’alinéa (iv), avec la participation des membres par vidéoconférence, et le Président doive donner suite à cet accord; »</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">d) par substitution de l’alinéa (xviii) de ce qui suit: « (xviii) à la suite de la présentation du rapport du Comité permanent de la procédure et des affaires de la Chambre conformément à l’ordre de renvoi du samedi 11 avril 2020, si ce comité recommande la tenue de séances virtuelles, et si le greffier de la Chambre indique que celles-ci sont réalisables sur le plan technologique, les leaders à la Chambre des quatre partis reconnus puissent donner avis au Président qu’il y a accord entre les partis visant la tenue d’une réunion de plus du Comité chaque semaine, par vidéoconférence, nonobstant l’alinéa (iv), avec la participation des membres par vidéoconférence, et le Président doive donner suite à cet accord; »</QuotePara>
                 </Quote>
               </ParaText>
             </Content>
@@ -791,7 +796,7 @@
             <Content>
               <ParaText id="6122858">Madame la Présidente, il est certain que nous devons donner l'exemple, nous montrer responsables et écouter les autorités sanitaires et ce qu'elles nous ont demandé de faire. Elles nous ont demandé de rester chez nous. </ParaText>
               <ParaText id="6122859">Initialement, lorsque la frontière a été fermée, on nous a dit qu'elle rouvrirait demain, mais le gouvernement veut maintenant prolonger sa fermeture de 30 jours. L'opposition a fait son travail en ce qui concerne le projet de loi <Document DbId="10710867" Type="3">C-13</Document>. Comme nous n'étions pas d'accord avec le contenu de la mesure législative, nous avons travaillé tous ensemble et celui-ci a été changé.</ParaText>
-              <ParaText id="6122860">Le député n'a-t-il pas vu le député de <Affiliation DbId="252785" Type="2">Carleton</Affiliation> questionner le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> au comité des Finances? C'était télévisé. On rend des comptes, dans les comités.</ParaText>
+              <ParaText id="6122860">Le député n'a-t-il pas vu le député de <Affiliation DbId="252785" Type="2">Carleton</Affiliation> questionner le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> au comité des finances? C'était télévisé. On rend des comptes, dans les comités.</ParaText>
               <ParaText id="6122861">Si les enseignants peuvent faire la classe en utilisant Zoom et diriger une réunion où des enfants posent des questions, je ne vois pas pourquoi le Président ne pourrait pas diriger virtuellement une période des questions. Je suis très déçu que nous ne nous comportions pas devant les Canadiens comme nous le devrions. Nous devrions rester chez nous, faire ce que les autorités sanitaires nous ont demandé de faire et utiliser les outils virtuels dont nous disposons pour demander des comptes au gouvernement.</ParaText>
             </Content>
           </Intervention>
@@ -802,7 +807,7 @@
               <ParaText id="6122862">Madame la Présidente, deux raisons toutes simples justifient notre position.</ParaText>
               <ParaText id="6122863">Nous ne pouvons pas attendre des semaines pour que la Chambre ait les moyens, notamment sur le plan technologique, de permettre à tous les députés de participer à une période de questions virtuelle. Nous voulons demander davantage de comptes au gouvernement, pas moins. Nous devrions tous réclamer la même chose haut et fort. Tous les députés de l'opposition devraient s'employer à trouver d'autres moyens de demander des comptes au gouvernement, parce que celui-ci a commis erreur par-dessus erreur dès le début.</ParaText>
               <ParaText id="6122864">Rappelons-nous que c'est le gouvernement libéral qui, au début mars, soutenait encore qu'il ne servait à rien de limiter les déplacements et qu'il n'était pas question de fermer les frontières. Le gouvernement a conseillé à la population de ne pas porter de masques, jusqu'au jour où il a fait volte-face et s'est mis à dire que c'était une bonne idée. La subvention salariale de 10 % qu'il avait d'abord annoncée est passée à 75 %.</ParaText>
-              <ParaText id="6122865">La pandémie et la crise qui l'accompagnent commandent que nous demandions davantage de comptes au gouvernement, pas moins, et il me semble que cela devrait aller de soi.</ParaText>
+              <ParaText id="6122865">La pandémie et la crise qui l'accompagne commandent que nous demandions davantage de comptes au gouvernement, pas moins, et il me semble que cela devrait aller de soi.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -817,8 +822,8 @@
               <ParaText id="6122870"> J'aurais pu dire que je n'ai pas grande envie de cela ni beaucoup de respect pour quelqu'un qui prétend que le Bloc ne parle pas au nom de ses électeurs. C'est presque de l'humour et je me familiarise avec celui de la Saskatchewan. Les gens se sont déjà exprimés et, à un moment donné, ils vont avoir l'occasion de s'exprimer de nouveau pour désigner la personne qui parlera le mieux en leur nom. Ce jour-là, on prendra la mesure de ce genre de propos passablement stériles. </ParaText>
               <ParaText id="6122871">Je me suis permis devant les médias de parler de « tataouinage ». Au Canada anglais, il y a eu tout un débat pour savoir ce que voulait dire « tataouinage ». Les gens au nom desquels nous parlons savent tous ce que c'est du « tataouinage ». Les dictionnaires s'en enrichiront peut-être un jour: il s'agit de maudites niaiseries.</ParaText>
               <ParaText id="6122872">À un moment donné, on en arrive à la troisième période de ce genre d'activité. On veut négocier et on veut passer à la télévision. Je comprends qu'il faut nourrir sa base électorale, mais pas au détriment des intérêts de ceux qui souffrent. On dit que le Parlement est un service essentiel. Pourtant, j'aimerais que l'on me nomme quelque chose de plus essentiel que la santé et les banques pour bien des gens. J'imagine qu'un conservateur normalement constitué trouve que les banques sont essentielles, et j'aimerais que l'on m'en trouve une qui ne soit pas virtuelle.</ParaText>
-              <ParaText id="6122873">Nous sommes capables de travailler de façon virtuelle et de siéger à distance, même si nous comprenons que le Règlement exige que nous soyons physiquement présents lors des votes. Nous allons vivre avec cette exigence. Nous aurions pu dire que nous ne viendrions que lorsqu’il y aurait des votes, mais cela aurait été chaque fois un « ReFeLeMeLe », pour reprendre une autre expression difficile à traduire, celle-là du groupe Rock et Belles Oreilles. Chaque fois, nous nous serions interrogés sur la nature des négociations, le besoin de notre vote, le fait que nous ne sommes pas d'accord ou que nous allons faire semblant de ne pas être d'accord, et le fait que nous allons voter quand même. J'aimerais mieux que l'on s'attarde à mettre en place les règles d'un Parlement virtuel, une transition par quelle il va falloir passer.</ParaText>
-              <ParaText id="6122874"> Je veux surtout que l'on s'attarde à nos aînés. Cela fait deux semaines que j'ai formulé des demandes. Je ne m'attends évidemment pas à ce que le gouvernement se dise que le député de Beloeil—Chambly a formulé des demandes et qu'il faut donc toutes les satisfaire.</ParaText>
+              <ParaText id="6122873">Nous sommes capables de travailler de façon virtuelle et de siéger à distance, même si nous comprenons que le Règlement exige que nous soyons physiquement présents lors des votes. Nous allons vivre avec cette exigence. Nous aurions pu dire que nous ne viendrions que lorsqu’il y aurait des votes, mais cela aurait été chaque fois un « ReFeLeMeLe », pour reprendre une autre expression difficile à traduire, celle-là du groupe Rock et Belles Oreilles. Chaque fois, nous nous serions interrogés sur la nature des négociations, le besoin de notre vote, le fait que nous ne sommes pas d'accord ou que nous allons faire semblant de ne pas être d'accord, et le fait que nous allons voter quand même. J'aimerais mieux que l'on s'attarde à mettre en place les règles d'un Parlement virtuel, une transition par laquelle il va falloir passer.</ParaText>
+              <ParaText id="6122874"> Je veux surtout que l'on s'attarde à nos aînés. Cela fait deux semaines que j'ai formulé des demandes. Je ne m'attends évidemment pas à ce que le gouvernement se dise que le député de Belœil—Chambly a formulé des demandes et qu'il faut donc toutes les satisfaire.</ParaText>
               <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
               <ParaText id="6122875">À ce jour, les exemples démontrent que cela s'est assez bien passé. Le gouvernement a discuté avec à peu près tout le monde, et tout le monde a un sentiment d'urgence et un sentiment de nécessité.</ParaText>
               <ParaText id="6122876">Je ne veux pas dire que lorsque l'été va arriver, ce sera grâce à moi, mais le Bloc québécois a contribué à la subvention salariale, à l'ajout des frais fixes, à la reconnaissance des entreprises de l'économie sociale et aux changements apportés aux entreprises en forte émergence.</ParaText>
@@ -876,7 +881,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252623" Type="2">M. Yves-François Blanchet</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6122903">Madame la Présidente, on ne se fera pas mal avec cela. Les gens qui sont appelés à continuer à travailler au quotidien le font certainement souvent dans des conditions difficiles. On voit de plus plus émerger des portraits de l'extrême anxiété que vivent les gens dans le milieu de la santé, en particulier dans les CHSLD au Québec. Cela demande un courage et une abnégation qui commandent tout notre respect. Les gens qui sont au travail et qui font un petit extra pour essayer d'aider le plus de gens possible commandent tout notre respect. Les gens qui le font sans que cela serve leurs propres intérêts commandent davantage tout notre respect. </ParaText>
+              <ParaText id="6122903">Madame la Présidente, on ne se fera pas mal avec cela. Les gens qui sont appelés à continuer à travailler au quotidien le font certainement souvent dans des conditions difficiles. On voit de plus en plus émerger des portraits de l'extrême anxiété que vivent les gens dans le milieu de la santé, en particulier dans les CHSLD au Québec. Cela demande un courage et une abnégation qui commandent tout notre respect. Les gens qui sont au travail et qui font un petit extra pour essayer d'aider le plus de gens possible commandent tout notre respect. Les gens qui le font sans que cela serve leurs propres intérêts commandent davantage tout notre respect. </ParaText>
               <ParaText id="6122904">Je me permettrai de revenir pendant 10 secondes sur le fait qu'il y a, dans les fameuses « craques » dont on parle tout le temps, le secteur de la recherche. Les gens qui y travaillent seront essentiels à l'avenir et lors de la sortie de crise. Les chercheurs, les centres de recherche et la science doivent être l'objet de certaines mesures à assez court terme. Nous aurons d'ailleurs des propositions à cet égard.</ParaText>
             </Content>
           </Intervention>
@@ -884,7 +889,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253053" Type="2">Mme Andréanne Larouche (Shefford, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6122905">Merci, madame la Présidente. Je remercie le chef du Bloc québécois de partager son temps de parole avec moi. Avant d'aller plus loin, j'aimerais aussi offrir mes condoléances aux gens de la Nouvelle-Écosse.</ParaText>
+              <ParaText id="6122905">Madame la Présidente, je remercie le chef du Bloc québécois de partager son temps de parole avec moi. Avant d'aller plus loin, j'aimerais aussi offrir mes condoléances aux gens de la Nouvelle-Écosse.</ParaText>
               <ParaText id="6122906">En tant que porte-parole du Bloc québécois en matière d'aînés, je tiens à dire que c'est un privilège d'être ici, à la Chambre, <?bk ?>aujourd'hui.<?ek ?> Nous nous réunissons dans des circonstances exceptionnelles et dramatiques. La pandémie de la COVID-19 submerge le Québec et sévit sinistrement dans les centres d'hébergement et de soins de longue durée, les CHSLD. On a appris que 99 % des gens décédés au Québec avaient plus de 60 ans et que la moitié d'entre eux provenaient des CHSLD.</ParaText>
               <ParaText id="6122907">La maladie est particulièrement dévastatrice chez les personnes qui ont déjà une santé fragile, mais cette réalité vient révéler un problème qui devrait nous affliger depuis longtemps, celui de la précarité des conditions de vie de nos aînés. Plusieurs aînés ont dû mourir seuls, sans même que leurs proches en soient avisés.</ParaText>
               <ParaText id="6122908"> Les enfants et les petits-enfants, pour qui les liens sont encore importants, vont voir leur papa, leur maman, leur papi ou leur mamie au travers des fenêtres de leur chambre de résidence. Ils doivent se contenter de crier des « je t'aime » ou des « prenez soin de vous » du bas des balcons, pour ceux qui ont cette chance.</ParaText>
@@ -895,10 +900,10 @@
               <ParaText id="6122913"> Dès le début, lorsque je suis arrivée à la Chambre, j'ai eu l'occasion de poser une question à la <Affiliation DbId="253377" Type="4">ministre des Aînés</Affiliation> au sujet de la bonification de la pension de vieillesse à 65 ans plutôt qu'à 75 ans, pour éviter de créer deux classes d'aînés. Elle m'a même dit que c'était une bonne question. Prévoir et prévenir, plutôt que de réagir une fois que le mal est fait, c'est une attitude essentielle qu'un gouvernement devrait avoir. Voilà pourquoi il ne faut pas diviser les aînés en deux catégories.</ParaText>
               <ParaText id="6122914">Notre gouvernement devrait en appeler à cette force du Bloc québécois, mais la situation est maintenant trop urgente pour parler de ce qu'on aurait dû faire. Il faut agir immédiatement. Afin que la santé de nos aînés ne soit jamais compromise pour des raisons financières, nous suggérons une augmentation de la pension de vieillesse de 110 $ par mois et une bonification du Supplément de revenu garanti, le fameux SRG. Comme le chef du Bloc québécois l'a si bien démontré, c'est minime par rapport à tous les investissements. Cela représente 1 milliard de dollars. Cependant, il est encore difficile de comprendre pourquoi le gouvernement voudrait limiter cette augmentation aux aînés de 75 ans et plus. J'en ai parlé et je le répète: les aînés ont besoin de cette aide, et ce, à partir de 65 ans.</ParaText>
               <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
-              <ParaText id="6122915">Les aînés s'endettent. En 20 ans, leur endettement a presque doublé: la proportion d'aînés qui ont des dettes importantes au Canada est passée de 27 à 42 % . Plusieurs d'entre eux ont besoin de travailler pour boucler leur fin de mois. Le pourcentage des personnes âgées ayant déclaré avoir travaillé a presque doublé entre 1995 et 2015. La majeure partie de l'augmentation est le résultat du travail pendant une partie de l'année ou du travail à temps partiel. </ParaText>
+              <ParaText id="6122915">Les aînés s'endettent. En 20 ans, leur endettement a presque doublé: la proportion d'aînés qui ont des dettes importantes au Canada est passée de 27 à 42 %. Plusieurs d'entre eux ont besoin de travailler pour boucler leur fin de mois. Le pourcentage des personnes âgées ayant déclaré avoir travaillé a presque doublé entre 1995 et 2015. La majeure partie de l'augmentation est le résultat du travail pendant une partie de l'année ou du travail à temps partiel. </ParaText>
               <ParaText id="6122916">En 2015, un Canadien sur cinq âgés de 65 ans et plus, soit près de 1,1 million de personnes âgées, a déclaré avoir travaillé pendant l'année. Il s'agit de la plus forte proportion enregistrée depuis le Recensement de 1981. Le revenu d'emploi était la principale source de revenus pour 43,8 % des personnes âgées qui ont travaillé en 2015, ce qui représente une hausse par rapport aux proportions de 40,4 % enregistrées en 2005 et de 38,8 % enregistrées en 1995. Deuils, séparations, maladies, régimes de retraite privés insuffisants, hausse du coût de la vie, de nombreux facteurs expliquent la détresse financière des aînés. Ce sont plus de 200 000 aînés qui vivent dans la pauvreté au Canada et qui, chaque mois, doivent se demander s'ils vont avoir à faire un choix entre le loyer, l'épicerie ou les médicaments. Cela ne devrait pas arriver.</ParaText>
               <ParaText id="6122917">Les propositions du Bloc québécois permettraient aux personnes âgées de conserver un certain pouvoir d'achat et de continuer de faire rouler l'économie, une économie que ces générations ont contribué à bâtir. Il s'agit de mesures stabilisatrices parce qu'il faut voir les aînés non pas comme un poids, mais comme une force grise. </ParaText>
-              <ParaText id="6122918">Les inquiétudes ont donc été vives lorsqu'on les a exclut de la Prestation canadienne d'urgence, ou PCU. Cependant, nous saluons l'humilité du gouvernement d'avoir modifié les critères pour leur venir en aide en excluant les prestations de vieillesse de leur revenu et en permettant aux personnes travaillant à temps partiel d'avoir accès à l'aide d'urgence. </ParaText>
+              <ParaText id="6122918">Les inquiétudes ont donc été vives lorsqu'on les a exclus de la Prestation canadienne d'urgence, ou PCU. Cependant, nous saluons l'humilité du gouvernement d'avoir modifié les critères pour leur venir en aide en excluant les prestations de vieillesse de leur revenu et en permettant aux personnes travaillant à temps partiel d'avoir accès à l'aide d'urgence. </ParaText>
               <ParaText id="6122919">Il faut également mentionner qu'il y a un fossé entre les aînés qui habitent en milieu urbain et ceux qui résident en milieu rural. En effet, ces derniers sont plus enclins à travailler. Grâce aux régimes publics de pension, le taux de faible revenu passe de 14 % chez les 55-64 ans et à 6,7 % chez les plus de 65 ans. </ParaText>
               <ParaText id="6122920">La crise actuelle révèle aussi que le fait de considérer Internet comme un service essentiel aurait pu briser l'isolement dont souffrent les aînés, particulièrement ces temps-ci. Pour certains aînés, l'appel vidéo était la seule manière de dire adieu à leurs proches. Il faut aussi augmenter les soins de santé encore une fois, et après on continuera de parler du transfert canadien en matière de santé. Il faut aussi augmenter la période des prestations de l'assurance-emploi pour les proches aidants et offrir un crédit d'impôt pour l'aménagement de résidences intergénérationnelles. Nous aurons d'autres occasions pour apporter de nouvelles idées dans le but de toujours améliorer la situation de nos aînés. La pertinence de ces mesures apparaît évidente aujourd'hui et montre bien que le Bloc voyait juste.</ParaText>
               <ParaText id="6122921">Concernant les fonds de retraite, la situation financière de nos aînés est aggravée par la chute de la valeur des placements de retraite. Ce sont les épargnes d'une vie qui ont fondu en un mois. Espérons que cette situation soit temporaire et que la valeur de ces placements remontera. À cet égard, nous proposons de suspendre l'obligation de retirer une portion des placements dans les régimes de retraite dont les rendements sont présentement négatifs. La bonification du Supplément de revenu garanti les aidera en attendant la reprise.</ParaText>
@@ -915,7 +920,7 @@
               <ParaText id="6122925">Moi aussi, pendant cette crise, j'entends parler des nombreux problèmes avec lesquels les personnes âgées sont aux prises. C'est dans ce lieu, dans ce Parlement, qu'on peut débattre de questions comme celles-là.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6122926">Je voudrais remercier la députée d'avoir soulevé cette question, car ce n'est pas le genre de choses que nous pouvons aborder sur Twitter. Ce n'est pas le genre de questions sur lesquelles nous pouvons interpeller le gouvernement dans un cadre virtuel, du moins pas encore.</ParaText>
-              <ParaText id="6122927">Selon la députée, quelle importance a eu le Parlement fédéral, au cours l'histoire du pays, pour soulever les enjeux qui concernent les personnes âgées et pour en débattre? Quelle importance cela revêt-il pour elle?</ParaText>
+              <ParaText id="6122927">Selon la députée, quelle importance a eu le Parlement fédéral, au cours de l'histoire du pays, pour soulever les enjeux qui concernent les personnes âgées et pour en débattre? Quelle importance cela revêt-il pour elle?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
@@ -925,7 +930,7 @@
               <Affiliation DbId="253053" Type="2">Mme Andréanne Larouche</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6122928">Madame la Présidente, je remercie mon collègue de son excellente question.</ParaText>
-              <ParaText id="6122929">Je pense que nous avons démontré, tous les partis ensemble, qu'il y a tout à fait moyen de faire avancer des dossiers comme celui des aînés en étant ici, à la Chambre. La proposition actuelle est d'une fois par semaine, suivie de deux séances virtuelles. Il semble y avoir eu discussions et entente entre le Parti vert, le NPD, les libéraux et nous. Je pense que c'est de cette manière que nous pourrons faire avancer la cause des aînés, et non en faisant d'obstruction.</ParaText>
+              <ParaText id="6122929">Je pense que nous avons démontré, tous les partis ensemble, qu'il y a tout à fait moyen de faire avancer des dossiers comme celui des aînés en étant ici, à la Chambre. La proposition actuelle est d'une fois par semaine, suivie de deux séances virtuelles. Il semble y avoir eu discussions et entente entre le Parti vert, le NPD, les libéraux et nous. Je pense que c'est de cette manière que nous pourrons faire avancer la cause des aînés, et non en faisant de l'obstruction.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -997,7 +1002,7 @@
               <ParaText id="6122952">De plus, nous nous devons de reconnaître la valeur du dévouement des personnes dont la sécurité est en jeu, ces travailleurs de première ligne qui assurent les services essentiels à leurs risques et périls — et qui mettent potentiellement leur famille à risque —, en leur donnant accès non seulement à de l'équipement adéquat pour préserver leur sécurité, mais aussi à une prime de courage pour refléter le danger auquel ils s'exposent. Les Canadiens qui occupent un emploi faiblement rémunéré ont besoin d'un supplément de revenu. Ils ont besoin d'une aide financière additionnelle pour compenser les risques qu'ils courent dans l'intérêt de toute la population. </ParaText>
               <ParaText id="6122953">Nous savons qu'il y a encore des citoyens qui sont laissés pour compte. Même si nous sommes fiers du travail remarquable qui a été accompli lors de la plus récente séance d'urgence, où nous avons obtenu des engagements pour combler les lacunes qui affectaient un si grand nombre de Canadiens non admissibles à la Prestation canadienne d'urgence, nous savons qu'il y a encore trop de citoyens qui sont laissés à eux-mêmes. Une catégorie de Canadiens est particulièrement exclue des programmes mis en place, et le gouvernement ne fait rien pour lui venir en aide. Ce sont les étudiants. </ParaText>
               <ParaText id="6122954">Dans les faits, les initiatives proposées par le gouvernement à propos des emplois d'été au Canada, y compris le financement additionnel pour les emplois d'été, sont insuffisantes. Les étudiants n'ont plus la possibilité de travailler. Les emplois qu'ils espéraient occuper l'été prochain n'existent plus. Au cours de la prochaine saison estivale, ces emplois ne seront pas offerts. </ParaText>
-              <ParaText id="6122955">Pour résoudre ce problème et nous assurer que les étudiants ne soient pas ignorés et laissés pour compte, nous pouvons apporter quelques changements simples. Nous pourrions par exemple modifier le libellé de la législation actuelle de façon à ce qu'elle englobe non seulement les personnes qui ont cessé de travailler en raison de la COVID-19, mais également les personnes qui sont incapables de travailler en raison de la COVID-19. Cela permettrait d'aider les étudiants qui sont laissés pour compte. De nombreux étudiants espéraient travailler cet été, mais ils ne trouveront tout simplement pas d'emploi. C'est pourquoi nous devons veiller à ce qu'ils ne soient pas oubliés.</ParaText>
+              <ParaText id="6122955">Pour résoudre ce problème et nous assurer que les étudiants ne sont pas ignorés et laissés pour compte, nous pouvons apporter quelques changements simples. Nous pourrions par exemple modifier le libellé de la législation actuelle de façon à ce qu'elle englobe non seulement les personnes qui ont cessé de travailler en raison de la COVID-19, mais également les personnes qui sont incapables de travailler en raison de la COVID-19. Cela permettrait d'aider les étudiants qui sont laissés pour compte. De nombreux étudiants espéraient travailler cet été, mais ils ne trouveront tout simplement pas d'emploi. C'est pourquoi nous devons veiller à ce qu'ils ne soient pas oubliés.</ParaText>
               <ParaText id="6122956">J'ai écrit une lettre au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> pour lui présenter l'amendement et lui demander de veiller à ce que les étudiants ne soient pas oubliés et laissés pour compte. Bien que nous n'ayons pas reçu de réponse adéquate, nous n'abandonnerons pas les étudiants. Nous continuerons à nous battre pour qu'ils reçoivent le soutien dont ils ont besoin.</ParaText>
               <ParaText id="6122957">Les gens se disent également inquiets de ne pas pouvoir payer leur loyer. Ils sont toujours tenus de le payer même s'ils ont perdu leurs revenus, et beaucoup craignent de se retrouver sans logement. De nombreuses familles s'inquiètent aussi de ne pas pouvoir payer leur hypothèque. Il en va de même pour les petites entreprises, qui doivent payer leur loyer commercial ou leur hypothèque. Nous soutenons que la solution la plus simple est d'utiliser les pouvoirs dont nous disposons à l'échelon fédéral pour suspendre les paiements hypothécaires, puis de collaborer avec les gouvernements provinciaux afin de suspendre le paiement des loyers.</ParaText>
               <ParaText id="6122958">Même si nous sommes ravis que le gouvernement ait déclaré qu'il prendrait certaines mesures pour aider les personnes et les entreprises à payer leurs loyers, ces mesures ne sont pas suffisantes. Le gouvernement fédéral dispose de pouvoirs importants. Nous devons les utiliser.</ParaText>
@@ -1082,13 +1087,13 @@
             <PersonSpeaking>
               <Affiliation DbId="252678" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6122986">Madame la Présidente, comme l'ensemble des parlementaires l'ont fait ici à la Chambre, j'adresserai mes premières paroles iront évidemment vers les victimes de cette épouvantable fusillade qui a eu lieu en Nouvelle-Écosse et leurs familles. Nous vivions déjà des moments difficiles comme communauté et comme société. J'ose à peine imaginer à quel point cela peut être pénible en ce moment pour les gens de cette communauté de la Nouvelle-Écosse. Je pense particulièrement à l'agente de la GRC Heidi Stevenson, qui a malheureusement trouvé la mort dans cette fusillade, cette tuerie qu'on peine à s'expliquer. Je pense que nous devrons réfléchir collectivement à plusieurs problèmes, qu'il s'agisse de santé mentale ou d'accès aux armes à feu. </ParaText>
+              <ParaText id="6122986">Madame la Présidente, comme l'ensemble des parlementaires l'ont fait ici à la Chambre, mes premières paroles iront évidemment vers les victimes de cette épouvantable fusillade qui a eu lieu en Nouvelle-Écosse et leurs familles. Nous vivions déjà des moments difficiles comme communauté et comme société. J'ose à peine imaginer à quel point cela peut être pénible en ce moment pour les gens de cette communauté de la Nouvelle-Écosse. Je pense particulièrement à l'agente de la GRC Heidi Stevenson, qui a malheureusement trouvé la mort dans cette fusillade, cette tuerie qu'on peine à s'expliquer. Je pense que nous devrons réfléchir collectivement à plusieurs problèmes, qu'il s'agisse de santé mentale ou d'accès aux armes à feu. </ParaText>
               <ParaText id="6122987">Dans la même veine, par rapport aux condoléances à offrir, je tiens à souligner ici le travail d'une préposée aux bénéficiaires, la première préposée aux bénéficiaires à mourir de la COVID-19 au Québec. Il s'agit de Mme Victoria Salvan, qui travaillait au CHSLD Grace Dart, à Montréal. Après 25 années de loyaux services et beaucoup de dévouement envers ses patients et beaucoup de temps passé avec eux, elle a malheureusement trouvé la mort, en fin de semaine, dans cette épouvantable pandémie. </ParaText>
               <ParaText id="6122988">Je tiens à souligner l'énorme travail qu'ont effectué certains de ses collègues. Ces derniers sont aujourd'hui anxieux, et ils ont peur. On les comprend. En fin de semaine, j'entendais une de ses collègues dire qu'elle avait pris la décision de se séparer de ses enfants et de ne plus les voir pendant qu'elle continuait de travailler auprès des aînés de ce CHSLD. Elle n'est pas la seule à faire ce sacrifice. Je pense que c'est un sacrifice important et qu'il faut le souligner. </ParaText>
               <ParaText id="6122989">Je presse encore une fois le gouvernement de prendre toutes les mesures disponibles pour leur fournir le meilleur équipement médical de protection et assurer leur santé et leur sécurité. Je tiens également à souligner le travail récent des représentants syndicaux, le président du syndicat local, Jonathan Deschamps, et le conseiller syndical Alexandre Prégent.</ParaText>
               <ParaText id="6122990">Cela étant dit, je veux dire quelques mots sur la motion qui nous est présentée ici, au Parlement. C'est une motion intéressante. Comme je l'ai dit précédemment, elle vient nous rappeler comment fonctionne notre démocratie, quel est le rôle d'un Parlement et quel est le rôle des députés et des parlementaires en général. Évidemment, notre rôle est de trouver des solutions et de faire des propositions, mais il est également de forcer le gouvernement à rendre des comptes. En effet, parfois, il prend de mauvaises décisions, parfois, les décisions à prendre ne sont pas prises et, parfois, les décisions prises ont besoin d'être modifiées et améliorées. C'est le rôle des 338 personnes de cette salle — aujourd'hui, nous ne sommes pas 338 — de pousser le gouvernement à prendre les meilleures décisions possible pour notre société et pour notre communauté.</ParaText>
-              <ParaText id="6122991">Nous vivons des temps exceptionnels. Je trouve que la proposition qui est sur la table est tout à fait raisonnable et s'inscrit dans les consignes que la Santé publique nous demande tous de respecter. Je pense que, comme parlementaires et comme élus, nous devons montrer l'exemple et dire à nos concitoyens et concitoyennes que la situation est sérieuse et que nous devons tout faire pour essayer d'en minimiser les répercussions, alors que des dizaines de milliers de personnes sont déjà infectées et que de centaines de personnes sont malheureusement décédées de ce virus. </ParaText>
-              <ParaText id="6122992">L'idée de nous réunir plusieurs fois par semaine, même en nombre limité, n'est pas nécessairement la meilleure chose. On représente les gens de 10 provinces, de certains territoires et des régions éloignées. L'idée de venir ici et de forcer ainsi les employés de la Chambre des communes à se mettre à risque, parce qu'ils doivent offrir des services pendant que nos sommes là, fait en sorte qu’on multiplie les possibilités de contagion et d'infection dans nos maisons, dans nos circonscriptions et dans nos communautés lorsqu'on y retourne. Il faut trouver un équilibre entre le respect les consignes de santé publique et la possibilité pour les parlementaires de représenter leurs concitoyens et de poser des questions, parce que certaines choses doivent être améliorées rapidement.</ParaText>
+              <ParaText id="6122991">Nous vivons des temps exceptionnels. Je trouve que la proposition qui est sur la table est tout à fait raisonnable et s'inscrit dans les consignes que la santé publique nous demande tous de respecter. Je pense que, comme parlementaires et comme élus, nous devons montrer l'exemple et dire à nos concitoyens et concitoyennes que la situation est sérieuse et que nous devons tout faire pour essayer d'en minimiser les répercussions, alors que des dizaines de milliers de personnes sont déjà infectées et que de centaines de personnes sont malheureusement décédées de ce virus. </ParaText>
+              <ParaText id="6122992">L'idée de nous réunir plusieurs fois par semaine, même en nombre limité, n'est pas nécessairement la meilleure chose. On représente les gens de 10 provinces, de certains territoires et des régions éloignées. L'idée de venir ici et de forcer ainsi les employés de la Chambre des communes à se mettre à risque, parce qu'ils doivent offrir des services pendant que nous sommes là, fait en sorte qu’on multiplie les possibilités de contagion et d'infection dans nos maisons, dans nos circonscriptions et dans nos communautés lorsqu'on y retourne. Il faut trouver un équilibre entre le respect des consignes de santé publique et la possibilité pour les parlementaires de représenter leurs concitoyens et de poser des questions, parce que certaines choses doivent être améliorées rapidement.</ParaText>
               <Timestamp Hr="13" Mn="05">(1305)</Timestamp>
               <ParaText id="6122993">Le gouvernement libéral nous avait proposé qu'il y ait une séance en personne et une séance virtuelle chaque semaine. Le NPD trouvait qu'une seule séance virtuelle de 90 minutes était insuffisante, car cela ne permettrait qu'à 18 députés, sans compter ceux qui sont à Ottawa, de poser des questions au gouvernement chaque semaine. Nous trouvions que c'était bien peu. Nous avons alors proposé qu'il y ait une deuxième séance virtuelle de 90 minutes, ce qui porterait à 36 le nombre de députés qui auraient la possibilité de poser des questions aux ministres et au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> chaque semaine sans être présents à Ottawa. Notre proposition a été acceptée par le Parti libéral, et je pense que le Bloc québécois et le Parti vert sont également d'accord. </ParaText>
               <ParaText id="6122994">Quant au Parti conservateur, il affirme que sa première préoccupation est que les parlementaires puissent faire leur travail et poser des questions au moins trois fois par semaine. Or la motion qui est devant nous permet de faire exactement cela. Elle nous permet de tenir une rencontre en personne et deux rencontres virtuelles pour poser des questions. Nous savons que quatre comités parlementaires fonctionnent en ce moment. La technologie leur permet de poser des questions à des témoins par vidéoconférence. Je pense que nous pourrions tout simplement aller de l'avant et trouver cet équilibre entre la nécessité de nous protéger nous-mêmes et nos concitoyens et celle de demander des comptes au gouvernement.</ParaText>
@@ -1118,7 +1123,7 @@
               <Affiliation DbId="252678" Type="2">M. Alexandre Boulerice</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123005">Monsieur le Président, je remercie mon collègue de sa question.</ParaText>
-              <ParaText id="6123006">Il avait été envisagé, dans nos discussions avec le gouvernement, de tenir une première séance virtuelle la semaine prochaine avant de passer à deux séances virtuelles par semaine, dès la semaine suivante. Cela, j'imagine, pour des raisons techniques, pour permettre aux employés de la Chambre des communes de mettre en place les dispositifs. Il s'agit probablement aussi de donner l'occasion à nos employés dans nos bureaux de circonscriptions d'installer le matériel nécessaire — des micros, de caméras, des logiciels ou de je ne sais quoi — pour que nous puissions tenir ces séances virtuelles qui sont très importantes.</ParaText>
+              <ParaText id="6123006">Il avait été envisagé, dans nos discussions avec le gouvernement, de tenir une première séance virtuelle la semaine prochaine avant de passer à deux séances virtuelles par semaine, dès la semaine suivante. Cela, j'imagine, pour des raisons techniques, pour permettre aux employés de la Chambre des communes de mettre en place les dispositifs. Il s'agit probablement aussi de donner l'occasion à nos employés dans nos bureaux de circonscriptions d'installer le matériel nécessaire — des micros, des caméras, des logiciels ou je ne sais quoi — pour que nous puissions tenir ces séances virtuelles qui sont très importantes.</ParaText>
               <ParaText id="6123007">J'ai un paquet de questions à poser au <Affiliation DbId="253406" Type="4">ministre du Patrimoine canadien</Affiliation>, et cela ne me dérange pas du tout de le faire par vidéoconférence.</ParaText>
             </Content>
           </Intervention>
@@ -1189,7 +1194,7 @@
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6123038">Nous avons des services d'interprétation lors de nos rencontres de caucus. Les députés de mon caucus ont voulu que je sois leur président. Nous sommes un pays bilingue et je veux m'assurer que nous pouvons faire notre travail à la Chambre des communes dans les deux langues officielles de notre pays.</ParaText>
               <ParaText id="6123039">Cependant, je ne peux pas y parvenir tout seul et je dépends des interprètes à la Chambre. Chaque mercredi, je leur demande de venir à la Colline du Parlement. En effet, je viens de comprendre de leur directeur que les interprètes sont obligés de se présenter sur place, à la Chambre ou en comité, pour faire leur travail. Chaque mercredi, notre caucus se réunit et nous bénéficions donc de services d'interprétation. Je demande à mon personnel et aux membres des Services informatiques de se présenter à la Colline pour nous aider à faire notre travail. Nous respectons bien sûr les consignes de distanciation sociale et physique, mais il faudra que des membres du personnel de la Chambre soient ici, et ce, que nous siégions en personne ou virtuellement.</ParaText>
-              <ParaText id="6123040">Je préside un caucus conservateur de 150 personnes, qui regroupe 121 députés, plus de 20 sénateurs et certains membres de notre personnel politique que notre caucus a autorisé à assister à nos appels. Il n'est pas facile de tenir de telles rencontres et il n'y a qu'à voir comment se déroulent jusqu'ici les réunions virtuelles du Comité permanent de la santé et du Comité permanent des finances pour constater les grandes difficultés que soulèvent ces rencontres.</ParaText>
+              <ParaText id="6123040">Je préside un caucus conservateur de 150 personnes, qui regroupe 121 députés, plus de 20 sénateurs et certains membres de notre personnel politique que notre caucus a autorisés à assister à nos appels. Il n'est pas facile de tenir de telles rencontres et il n'y a qu'à voir comment se déroulent jusqu'ici les réunions virtuelles du Comité permanent de la santé et du Comité permanent des finances pour constater les grandes difficultés que soulèvent ces rencontres.</ParaText>
               <ParaText id="6123041"> Il n'est pas évident de faire un rappel au Règlement lors d'une réunion virtuelle de comité. Au-delà de la question de l'interprétation vers l'anglais ou le français, il y a plusieurs boutons à manipuler afin d'être compris par les autres députés. Je ne pense pas ici seulement aux députés unilingues francophones, mais aussi aux députés unilingues anglophones. Parfois, je dois servir d'interprète pour mes députés, ce qui ralentit nos rencontres: une rencontre qui devrait durer de une à deux heures peut durer entre quatre et cinq heures. Personne ne veut participer à un appel pendant quatre ou cinq heures, et je constate que le <Affiliation DbId="253369" Type="4">président du Conseil du Trésor</Affiliation> hoche la tête pour signifier qu'il est d'accord avec moi.</ParaText>
               <ParaText id="6123042">Dans le cas d'un Parlement virtuel regroupant 338 députés de partout au pays, dans leur maison ou leur bureau de circonscription, nous aurons des problèmes de décalage et nous perdrons des appels. Certains députés ne pourront pas se connecter, alors que d'autres ne comprendront pas ce qui se dira. Ces problèmes surviennent déjà lors de nos propres réunions de caucus, durant lesquelles même certains députés de grandes villes au Canada ont de la difficulté à entendre ce que leurs collègues disent. Il y a tellement de choses qui peuvent aller mal durant une rencontre virtuelle et qui feront que cela ne fonctionnera pas. Cependant, j'entends le <Affiliation DbId="253375" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> dire que nous allons en pratique ignorer le travail réalisé par le Comité permanent de la procédure et des affaires de la Chambre et passer directement à un Parlement virtuel.</ParaText>
               <ParaText id="6123043">Parfois, un député veut poser une question au greffier. Dans un Parlement virtuel, comment pourrons-nous le faire sans interrompre les discussions de la Chambre? Il m'a fallu près de quatre ans pour apprendre toutes les procédures de la Chambre suffisamment bien pour pouvoir défendre mes droits de député et les privilèges de mes concitoyens. Comment les députés sont-ils censés y parvenir dans le cadre d'un Parlement virtuel?</ParaText>
@@ -1248,7 +1253,7 @@
             <Content>
               <ParaText id="6123068">Monsieur le Président, je remercie le député de <Affiliation DbId="252678" Type="2">Rosemont—La Petite-Patrie</Affiliation> de sa question. </ParaText>
               <ParaText id="6123069">Pour ce qui est des questions qu'il attend comme porte-parole du NPD de poser au ministre du Patrimoine, je suis sûr qu'il a une expérience comparable à la mienne, à savoir que les ministres de l'autre côté ne répondent pas à nos questions, mais qu'ils ne font que parler. Beaucoup de mots sont échangés de part et d'autre, mais nous n'obtenons généralement que peu de réponses à nos questions. Il est toujours possible d'envoyer un courriel à un ministre, mais c'est une démarche qui est secrète et qui manque de transparence. Le gouvernement ne rend pas de comptes en public devant tous les gens du pays et c'est là la grande différence.</ParaText>
-              <ParaText id="6123070">Nous pourrions faire cela par l'entremise d'un Parlement virtuel et nous ne disons pas non. Cependant, nous voulons voir le Comité des procédures et des affaires de la Chambre faire son travail et nous expliquer comment cela fonctionnerait et s'il s'agit de la meilleure option. De plus, je rappelle à mon collègue qu'il y a 121 députés conservateurs à la Chambre et que nos rencontres virtuelles de caucus fonctionnent plus ou moins bien jusqu'à maintenant. Le Canada est un grand pays et plusieurs de nos collègues sont dans des régions éloignées, où ils ne disposent pas d'une connexion Internet leur permettant de travailler de manière efficace et de participer aux réunions de leur caucus parlementaire. </ParaText>
+              <ParaText id="6123070">Nous pourrions faire cela par l'entremise d'un Parlement virtuel et nous ne disons pas non. Cependant, nous voulons voir le comité de la procédure et des affaires de la Chambre faire son travail et nous expliquer comment cela fonctionnerait et s'il s'agit de la meilleure option. De plus, je rappelle à mon collègue qu'il y a 121 députés conservateurs à la Chambre et que nos rencontres virtuelles de caucus fonctionnent plus ou moins bien jusqu'à maintenant. Le Canada est un grand pays et plusieurs de nos collègues sont dans des régions éloignées, où ils ne disposent pas d'une connexion Internet leur permettant de travailler de manière efficace et de participer aux réunions de leur caucus parlementaire. </ParaText>
               <ParaText id="6123071">Je pense que plusieurs députés, ainsi que le <Affiliation DbId="253375" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> et le chef du NPD, n'ont pas assez réfléchi à comment fonctionnerait un Parlement virtuel dans la pratique. C'est pour cela qu'existe le Comité permanent de la procédure et des affaires de la Chambre, qui peut entendre des témoins. Je pense d'ailleurs que le Comité n'a pas encore décidé quels témoins il inviterait pour étudier comment tout cela fonctionnerait pour la Chambre des communes.</ParaText>
             </Content>
           </Intervention>
@@ -1267,7 +1272,7 @@
               <Affiliation DbId="252805" Type="2">M. Tom Kmiec</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123075">Madame la Présidente, je suis heureux de vous voir occuper le fauteuil.</ParaText>
-              <ParaText id="6123076">Je répondrai au député que c'est exactement ce que j'essaie de dire. Je veux que chaque député se fasse entendre et soit en mesure de participer au sein d'un Parlement virtuel. Les députés croient-ils toutefois que le dispositif permettant les connexions par satellite pourra être installé en un clin d'oeil ou que plus personne n'aura besoin de se déplacer grâce à ces connexions? Je me souviens d'une réunion de notre caucus, tenue il y a longtemps, où je me suis plaint avec véhémence auprès de la Présidence des défaillances de la cabine d'interprétation. L'équipement installé dans la pièce ne fonctionnait pas.</ParaText>
+              <ParaText id="6123076">Je répondrai au député que c'est exactement ce que j'essaie de dire. Je veux que chaque député se fasse entendre et soit en mesure de participer au sein d'un Parlement virtuel. Les députés croient-ils toutefois que le dispositif permettant les connexions par satellite pourra être installé en un clin d'œil ou que plus personne n'aura besoin de se déplacer grâce à ces connexions? Je me souviens d'une réunion de notre caucus, tenue il y a longtemps, où je me suis plaint avec véhémence auprès de la présidence des défaillances de la cabine d'interprétation. L'équipement installé dans la pièce ne fonctionnait pas.</ParaText>
               <ParaText id="6123077">Combien d'employés responsables des technologies de l'information devront se présenter dans cet édifice et d'autres immeubles de la Cité parlementaire pour que nous soyons en mesure de tenir des réunions virtuelles où chaque député pourra participer? Participer, ce n'est pas seulement écouter. Il faut aussi avoir la possibilité de prendre part pleinement à la réunion dans la langue de son choix. Il ne faut pas l'oublier.</ParaText>
               <ParaText id="6123078">Le député était prêt à laisser les leaders à la Chambre des partis reconnus décider quand la Chambre devrait se réunir de nouveau. Nous avons convenu que nous étudierions aujourd'hui des motions et un amendement pour déterminer comment le Parlement fonctionnera au cours des prochaines semaines. C'est exactement ce que les Canadiens attendent de nous. C'est exactement ce qu'ils veulent que nous fassions. Nous sommes réunis aujourd'hui. Nous allons régler les questions sans tarder et faire en sorte que le gouvernement rende des comptes.</ParaText>
             </Content>
@@ -1395,7 +1400,7 @@
               </ParaText>
               <ParaText id="6123120">
                 <Quote>
-                  <QuotePara IndentFirst="2" IndentRest="1">Ayant moi-même contracté la COVID-19, je peux sincèrement affirmer que nous disposons des meilleurs soins de santé au monde et de travailleurs de la santé exceptionnels. J'aimerais profiter de l'occasion pour remercier les médecins et les infirmières du système de santé publique, surtout ceux de Peel, pour les soins et le soutien qu'ils m'ont apporté en ces temps difficiles.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="1">Ayant moi-même contracté la COVID-19, je peux sincèrement affirmer que nous disposons des meilleurs soins de santé au monde et de travailleurs de la santé exceptionnels. J'aimerais profiter de l'occasion pour remercier les médecins et les infirmières du système de santé publique, surtout ceux de Peel, pour les soins et le soutien qu'ils m'ont apportés en ces temps difficiles.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6123121">
@@ -1451,7 +1456,7 @@
               <Affiliation DbId="253109" Type="2">M. Jeremy Patzer (Cypress Hills—Grasslands, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123133">Monsieur le Président, une propriétaire de petite entreprise de ma circonscription avait sept employés à plein temps et à temps partiel, qu'elle espère tous réembaucher une fois que la pandémie sera terminée, si tant est que son entreprise réussisse à survivre. Pour l'instant, elle a pu conserver deux employés et maintient un faible degré d'activité grâce aux ventes en ligne. Tout son revenu sert à payer les factures et ses deux employés. La Subvention salariale d'urgence du Canada finira par aider les deux employés dont elle a retenu les services. Toutefois, en raison de cela, selon son comptable, la propriétaire ne peut accéder à une aide financière pour elle-même et sa famille. Bref, il vaudrait mieux qu'elle ferme les portes de son entreprise, au risque de tout perdre.</ParaText>
-              <ParaText id="6123134"> Les petites entreprises et les créateurs d'emploi sont l'épine dorsale de notre économie. Il faut donc se demander pourquoi le plan du gouvernement laisse une mère de trois enfants dans une situation où elle se démène plus que jamais pour maintenir son entreprise à flot sans recevoir l'aide dont elle a besoin pour sa famille et pour elle-même.</ParaText>
+              <ParaText id="6123134"> Les petites entreprises et les créateurs d'emplois sont l'épine dorsale de notre économie. Il faut donc se demander pourquoi le plan du gouvernement laisse une mère de trois enfants dans une situation où elle se démène plus que jamais pour maintenir son entreprise à flot sans recevoir l'aide dont elle a besoin pour sa famille et pour elle-même.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1509,7 +1514,7 @@
               <Affiliation DbId="253092" Type="2">M. Ken Hardie (Fleetwood—Port Kells, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123143">Monsieur le Président, mon ami et collègue le député de <Affiliation DbId="253134" Type="2">Coquitlam—Port Coquitlam</Affiliation> m'a demandé de communiquer un message à ses concitoyens en son nom.</ParaText>
-              <ParaText id="6123144">La COVID-19 constitue un défi pour le monde, pour les entreprises, pour nos familles et nos voisins. Cependant, elle a fait ressortir très nettement la résilience essentielle des habitants de la région des Tri-Cities qui jouent tous un rôle, majeur ou mineur, dans l'aplatissement de la courbe. En tant que député de <Affiliation DbId="253134" Type="2">Coquitlam—Port Coquitlam</Affiliation>, il est là pour appuyer ses concitoyens et défendre leurs intérêts. Il entend leurs préoccupations et il continue de travailler fort pour eux chaque jour, alors que la région cherche à s'adapter et à faire face aux problèmes qu'elle connait. Qu'il s'agisse de travailleurs de première ligne ou de travailleurs essentiels, d'entrepreneurs restructurant leur entreprise ou simplement de personnes restant chez elles, mon collègue salue toutes les personnes ayant répondu à l'appel, est reconnaissant de tous les efforts déployés et admire le fait qu'un si grand nombre de gens se sont adaptés en vue d'aborder les problèmes de front. Il tient à leur dire que nous sommes tous dans le même bateau et que nous aurons le dessus sur cette crise en restant en sécurité et en demeurant en bonne santé.</ParaText>
+              <ParaText id="6123144">La COVID-19 constitue un défi pour le monde, pour les entreprises, pour nos familles et nos voisins. Cependant, elle a fait ressortir très nettement la résilience essentielle des habitants de la région des Tri-Cities qui jouent tous un rôle, majeur ou mineur, dans l'aplatissement de la courbe. En tant que député de <Affiliation DbId="253134" Type="2">Coquitlam—Port Coquitlam</Affiliation>, il est là pour appuyer ses concitoyens et défendre leurs intérêts. Il entend leurs préoccupations et il continue de travailler fort pour eux chaque jour, alors que la région cherche à s'adapter et à faire face aux problèmes qu'elle connaît. Qu'il s'agisse de travailleurs de première ligne ou de travailleurs essentiels, d'entrepreneurs restructurant leur entreprise ou simplement de personnes restant chez elles, mon collègue salue toutes les personnes ayant répondu à l'appel, est reconnaissant de tous les efforts déployés et admire le fait qu'un si grand nombre de gens se sont adaptés en vue d'aborder les problèmes de front. Il tient à leur dire que nous sommes tous dans le même bateau et que nous aurons le dessus sur cette crise en restant en sécurité et en demeurant en bonne santé.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1530,7 +1535,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821155">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les fusillades en Nouvelle-Écosse</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La fusillade en Nouvelle-Écosse</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Godin" id="10821156">
             <PersonSpeaking>
@@ -1539,7 +1544,7 @@
               <ParaText id="6123148">Monsieur le Président, à titre de Canadien, je suis fier de la solidarité qui se manifeste en période de crise et lorsque l'on vit des épreuves comme celle d'hier. </ParaText>
               <ParaText id="6123149">Au lendemain de cette tuerie sans précédent en Nouvelle-Écosse et où plusieurs personnes ont perdu des êtres chers de la manière la plus injuste, j'aimerais prendre le temps pour présenter mes condoléances aux proches et amis touchés par cette tragédie, ainsi qu'à nos compatriotes néo-écossais. Je veux saluer le travail des forces de l'ordre et le courage de ces gens qui, au quotidien, risquent leur vie pour nous protéger. </ParaText>
               <ParaText id="6123150">Du nombre des victimes, il y a la policière Heidi Stevenson qui comptait 23 ans de service au sein de la GRC. Elle est morte en répondant à l'appel du devoir. Heidi était la mère d'un garçon de 13 ans et d'une fille de 11 ans. Aujourd'hui, ce drame change la vie de plusieurs enfants, parents, conjoints ou amis qui subissent un drame inimaginable.</ParaText>
-              <ParaText id="6123151">En terminant, je reprendrai les paroles de Darcy Dobson, qui a perdu sa mère tragiquement dans ces événements: laissons les souvenirs définir toutes les victimes et non pas la façon horrible dont ils l'ont perdue.</ParaText>
+              <ParaText id="6123151">En terminant, je reprendrai les paroles de Darcy Dobson, qui a perdu sa mère tragiquement dans ces événements: laissons les souvenirs définir toutes les victimes et non pas la façon horrible dont elles ont perdu la vie.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1587,7 +1592,7 @@
               <Affiliation DbId="252488" Type="2">M. John Williamson (Nouveau-Brunswick-Sud-Ouest, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123160"> Monsieur le Président, la province du Bluenose, tout comme la province voisine, le Nouveau-Brunswick, dont je suis originaire, est un endroit où les petites collectivités rurales sont unies par un lien particulier. Nos collectivités sont le prolongement de nos familles, et lorsqu'une tragédie frappe l'une d'entre elles, nous sommes tous atteints.</ParaText>
-              <ParaText id="6123161">Les mots me manquent pour décrire à quel point la fusillade de Portapique et de ses environs a ébranlé notre nation, tout comme la mort de l'agente Heidi Stevenson, une vétérane de la GRC de 23 ans, mère de deux enfants.</ParaText>
+              <ParaText id="6123161">Les mots me manquent pour décrire à quel point la fusillade de Portapique et de ses environs a ébranlé notre nation, tout comme la mort de l'agente Heidi Stevenson, une vétérane au service de la GRC depuis 23 ans, mère de deux enfants.</ParaText>
               <ParaText id="6123162">C'est avec une profonde gratitude que je rends hommage à ceux et celles qui ont répondu à l'appel pour protéger nos communautés.</ParaText>
               <ParaText id="6123163">Quant aux familles et aux collègues qui ont perdu des êtres chers, nous partageons leur détresse. Nous travaillerons ensemble pour surmonter cette épreuve. Ils ne sont pas seuls. Notre nation, notre pays est à leurs côtés.</ParaText>
             </Content>
@@ -1602,9 +1607,9 @@
               <Affiliation DbId="252606" Type="2">M. Steven MacKinnon (Gatineau, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123164">Monsieur le Président, il est difficile, pour l'enfant des Maritimes que je suis, d'imaginer l'horreur indescriptible qui a saisi aujourd'hui les petites communautés de la Nouvelle-Écosse.</ParaText>
-              <ParaText id="6123165">Je terminerai en lisant la déclaration suivante au nom de ma collègue, la députée de <Affiliation DbId="253130" Type="2">Cumberland—Colchester</Affiliation>.</ParaText>
-              <ParaText id="6123166">« Aux petites heures du 19 avril 2020, Cumberland-Colchester s'est réveillée en découvrant qu'une tragédie effroyable s'était déroulée dans ce petit coin paisible du monde, dans le nord de la Nouvelle-Écosse. Les mots ne peuvent exprimer le chagrin que j'éprouve pour les familles, les amis, les collègues de travail et les communautés qui ont soudainement perdu un être cher. Je suis de tout cœur avec ceux et celles qui ont été touchés par cet acte de violence aveugle, bref, nous tous. »</ParaText>
-              <ParaText id="6123167">« Malgré tout, nous, les Néo-Écossais du nord, sommes forts et surmonterons cette épreuve. » </ParaText>
+              <ParaText id="6123165">Je terminerai en lisant la déclaration suivante au nom de ma collègue la députée de <Affiliation DbId="253130" Type="2">Cumberland—Colchester</Affiliation>.</ParaText>
+              <ParaText id="6123166">« Aux petites heures du 19 avril 2020, Cumberland-Colchester s'est réveillée en découvrant qu'une tragédie effroyable s'était déroulée dans ce petit coin paisible du monde, dans le Nord de la Nouvelle-Écosse. Les mots ne peuvent exprimer le chagrin que j'éprouve pour les familles, les amis, les collègues de travail et les communautés qui ont soudainement perdu un être cher. Je suis de tout cœur avec ceux et celles qui ont été touchés par cet acte de violence aveugle, bref, nous tous. »</ParaText>
+              <ParaText id="6123167">« Malgré tout, nous, les Néo-Écossais du Nord, sommes forts et surmonterons cette épreuve. » </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1738,7 +1743,7 @@
             <Content>
               <ParaText id="6123198">Monsieur le Président, sans vouloir faire preuve d'ingratitude, je considère, tout comme les aînés, que c'est peu de choses.</ParaText>
               <ParaText id="6123199">Le premier ministre peut-il nous donner une réaction claire et écrite, puisque les recommandations et les suggestions du Bloc québécois ont été formulées très clairement et très publiquement depuis environ deux semaines? Peut-on avoir une réponse avant de quitter la Chambre?</ParaText>
-              <ParaText id="6123200">Nous pourrions peut-être même avoir une discussion concernant des pistes de solutions qui, dans l'ensemble, apparaîtront très peu coûteuses par rapport à tout ce qui a été mis en oeuvre jusqu'à maintenant dans cette crise.</ParaText>
+              <ParaText id="6123200">Nous pourrions peut-être même avoir une discussion concernant des pistes de solutions qui, dans l'ensemble, apparaîtront très peu coûteuses par rapport à tout ce qui a été mis en œuvre jusqu'à maintenant dans cette crise.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="M. Trudeau" id="10821205">
@@ -1751,7 +1756,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821208">
-        <SubjectOfBusinessTitle>L'emploi</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les mesures d’urgence visant la COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Singh" id="10821207">
             <PersonSpeaking>
@@ -1821,7 +1826,12 @@
               <ParaText id="6123214">Monsieur le Président, pendant une pandémie mondiale, tous les pays travaillent ensemble pour vaincre le virus là où il est le plus présent. En janvier, l'épidémie à Wuhan, en Chine, constituait une menace majeure pour la santé publique dans le monde entier. À ce titre, et en tant que pays partenaire de l'OMS, le Canada a fourni à la Chine de l'équipement de protection individuelle qui était en train de devenir rapidement obsolète pour le Canada et qui pouvait certainement servir à lutter contre le virus à Wuhan.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="10610007">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>La sécurité publique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Godin" id="10821227">
             <PersonSpeaking>
               <Affiliation DbId="252701" Type="2">M. Joël Godin (Portneuf—Jacques-Cartier, PCC)</Affiliation>: </PersonSpeaking>
@@ -1843,13 +1853,13 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821534">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La petite et la moyenne entreprise</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les mesures d’urgence visant la COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Godin" id="10821232">
             <PersonSpeaking>
               <Affiliation DbId="252701" Type="2">M. Joël Godin (Portneuf—Jacques-Cartier, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123219">Monsieur le Président, nos entrepreneurs sont anxieux; plusieurs ne sont pas certains de pouvoir rouvrir leur entreprise. Les comptes s'accumulent et les revenus ne sont évidemment pas au rendez-vous. L'aide semble longue à venir, entre autres pour le programme d'aide pour la location des locaux commerciaux. Les PME ont dû payer leur loyer du mois du mars. </ParaText>
+              <ParaText id="6123219">Monsieur le Président, nos entrepreneurs sont anxieux; plusieurs ne sont pas certains de pouvoir rouvrir leur entreprise. Les comptes s'accumulent et les revenus ne sont évidemment pas au rendez-vous. L'aide semble longue à venir, entre autres pour le programme d'aide pour la location des locaux commerciaux. Les PME ont dû payer leur loyer du mois de mars. </ParaText>
               <ParaText id="6123220">Quand nos PME, piliers de notre économie, auront-elles les détails de ce programme d'aide pour les aider à payer leurs loyers commerciaux et à rouvrir lorsque cela sera permis? La question est simple.</ParaText>
             </Content>
           </Intervention>
@@ -2057,14 +2067,14 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821286">
-        <SubjectOfBusinessTitle>La petite et la moyenne entreprise</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Lalonde" id="10821285">
             <PersonSpeaking>
               <Affiliation DbId="252641" Type="2">Mme Marie-France Lalonde (Orléans, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123270">Monsieur le Président, dans un temps d'incertitude comme celui-ci, nous dépendons du talent et de l'ingéniosité des Canadiens d'un océan à l'autre.</ParaText>
-              <ParaText id="6123271">Les Canadiens comprennent que nous devons nous concentrer sur la production domestique des produits essentiels.</ParaText>
+              <ParaText id="6123271">Les Canadiens comprennent que nous devons nous concentrer sur la production nationale des produits essentiels.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6123272">En intensifiant la production au Canada, non seulement nous appuyons les travailleurs de la santé et les travailleurs de première ligne, mais nous permettons aussi à de petites et moyennes entreprises partout au pays de rester ouvertes.</ParaText>
               <ParaText id="6123273">La ministre pourrait-elle dire comment les entreprises canadiennes ont réagi à l'appel à l'action du gouvernement?</ParaText>
@@ -2078,7 +2088,7 @@
               <ParaText id="6123274">Monsieur le Président, j'aimerais remercier la députée d'Orléans de sa question. Au cours des dernières semaines, elle s'est démenée afin de défendre les intérêts des entreprises de sa circonscription.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6123275">En ces temps difficiles, nous avons vu les propriétaires de petites entreprises lever la main pour nous demander ce qu'ils peuvent faire pour aider le Canada. Grâce à eux, le gouvernement investit 2 milliards de dollars dans l'achat d'équipement de protection individuelle, notamment plus de masques, d'écrans faciaux, de blouses, de ventilateurs, de trousses de dépistage, d'écouvillons et de désinfectant pour les mains. </ParaText>
-              <ParaText id="6123276">Nous avons lancé les plans du Canada visant à mobiliser l'industrie pour lutter contre la COVID-19 afin qu'il soit possible de rapidement produire au Canada même ce dont nous avons besoin pour prévenir la propagation du virus. Nous admirons l'innovation des propriétaires de petites entreprises. C'est ce qui les caractérise et c'est pourquoi notre plan repose sur eux. Les entreprises constituent l'épine dorsale de notre économie. Ils nous aident à...</ParaText>
+              <ParaText id="6123276">Nous avons lancé les plans du Canada visant à mobiliser l'industrie pour lutter contre la COVID-19 afin qu'il soit possible de rapidement produire au Canada même ce dont nous avons besoin pour prévenir la propagation du virus. Nous admirons l'innovation des propriétaires de petites entreprises. C'est ce qui les caractérise et c'est pourquoi notre plan repose sur eux. Les entreprises constituent l'épine dorsale de notre économie. Elles nous aident à...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="10821289">
@@ -2092,7 +2102,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821291">
         <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
-        <SubjectOfBusinessTitle>Le secteur forestier</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'industrie forestière</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Schmale" id="10821290">
             <PersonSpeaking>
@@ -2139,7 +2149,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252534" Type="2">M. Glen Motz (Medicine Hat—Cardston—Warner, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123285">Monsieur le Président, il y a trois semaines, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a déclaré que l'aide arriverait dans les prochaines heures pour le secteur de l'énergie, puis plus rien. Silence radio. Plus tard, le gouvernement a finalement fait une annonce sur les puits orphelins. C'est cependant nettement insuffisant pour le secteur de l'énergie et une économie que le gouvernement libéral a déjà dévastés.</ParaText>
+              <ParaText id="6123285">Monsieur le Président, il y a trois semaines, le <Affiliation DbId="214320" Type="4">ministre des Finances</Affiliation> a déclaré que l'aide arriverait dans les prochaines heures pour le secteur de l'énergie, puis plus rien. C'est le silence radio. Plus tard, le gouvernement a finalement fait une annonce sur les puits orphelins. C'est cependant nettement insuffisant pour le secteur de l'énergie et une économie que le gouvernement libéral a déjà dévastés.</ParaText>
               <ParaText id="6123286">Que compte faire le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> lorsque 7 % du PIB canadien, des centaines de milliers d'emplois et des centaines de milliards de dollars de recettes fiscales, tant au fédéral qu'au provincial, auront disparu à jamais à cause de son indifférence et de son hostilité soutenues envers le secteur canadien de l'énergie?</ParaText>
             </Content>
           </Intervention>
@@ -2176,7 +2186,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821445">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les pensions</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Ste-Marie" id="10821309">
             <PersonSpeaking>
@@ -2200,7 +2210,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252694" Type="2">M. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123298">Monsieur le Président, s'il y a une chose que la pandémie nous rappelle, c'est qu'en matière économique, il n'y a rien de plus important que de protéger notre monde. Or les travailleurs et les retraités sont mal protégés actuellement. En cas de faillite d'une entreprise, les banques passent avant eux. Même le gouvernement passe avant eux. Ils risquent de se retrouver avec des retraites de misère même s'ils ont passé leur vie à cotiser. Lorsque les faillites vont se multiplier, il va être trop tard pour agir.</ParaText>
+              <ParaText id="6123298">Monsieur le Président, s'il y a une chose que la pandémie nous rappelle, c'est qu'en matière économique, il n'y a rien de plus important que de protéger notre monde. Or les travailleurs et les retraités sont mal protégés actuellement. En cas de faillite d'une entreprise, les banques passent avant eux. Même le gouvernement passe avant eux. Ils risquent de se retrouver avec des retraites de misère même s'ils ont passé leur vie à y cotiser. Lorsque les faillites vont se multiplier, il va être trop tard pour agir.</ParaText>
               <ParaText id="6123299">Est-ce que le gouvernement va faire des régimes de retraite des créanciers prioritaires?</ParaText>
             </Content>
           </Intervention>
@@ -2243,8 +2253,8 @@
             <PersonSpeaking>
               <Affiliation DbId="252609" Type="2">M. Scott Reid (Lanark—Frontenac—Kingston, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123306">Monsieur le Président, en temps normal, les comités de la Chambre des communes ont le pouvoir de convoquer des témoins ou d'exiger la production de documents. Or, selon le président libéral du comité de la santé, l'ordre spécial adopté par la Chambre le 11 avril a retiré ce pouvoir au comité, à l'heure où celui-ci en a le plus besoin.</ParaText>
-              <ParaText id="6123307">Compte tenu de cette interprétation, le gouvernement modifiera-t-il l'ordre spécial qu'il impose aujourd'hui afin de permettre à tous les comités qui siègent en ce moment, dont le comité de la santé, d'exercer pleinement les pouvoirs dont ils jouissent normalement?</ParaText>
+              <ParaText id="6123306">Monsieur le Président, en temps normal, les comités de la Chambre des communes ont le pouvoir de convoquer des témoins ou d'exiger la production de documents. Or, selon le président libéral du Comité permanent de la santé, l'ordre spécial adopté par la Chambre le 11 avril a retiré ce pouvoir au comité, à l'heure où celui-ci en a le plus besoin.</ParaText>
+              <ParaText id="6123307">Compte tenu de cette interprétation, le gouvernement modifiera-t-il l'ordre spécial qu'il impose aujourd'hui afin de permettre à tous les comités qui siègent en ce moment, dont le Comité permanent de la santé, d'exercer pleinement les pouvoirs dont ils jouissent normalement?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -2259,7 +2269,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821329">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La frontière canado-américaine</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La santé</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Lewis" id="10821328">
             <PersonSpeaking>
@@ -2308,7 +2318,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252750" Type="2">M. Bob Zimmer (Prince George—Peace River—Northern Rockies, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123317">Monsieur le Président, les entreprises du Nord ont des besoins très différents des entreprises du reste du Canada. Étant donné que leur période annuelle d'activité est plus courte et qu'on trouve parmi elles, par exemple, de petites entreprises minières, il est évident que l'approche uniforme du gouvernement pour fournir de l'aide d'urgence aux entreprises est malheureusement très peu utile pour soutenir l'économie du Nord. L'association minière du Yukon, celle des Territoires-du-Nord-Ouest et du Nunavut ainsi que d'autres entreprises du Nord ont dit que les programmes comme la Subvention salariale d'urgence du Canada ne fonctionneront pas dans le Nord.</ParaText>
+              <ParaText id="6123317">Monsieur le Président, les entreprises du Nord ont des besoins très différents des entreprises du reste du Canada. Étant donné que leur période annuelle d'activité est plus courte et qu'on trouve parmi elles, par exemple, de petites entreprises minières, il est évident que l'approche uniforme du gouvernement pour fournir de l'aide d'urgence aux entreprises est malheureusement très peu utile pour soutenir l'économie du Nord. L'association minière du Yukon, celle des Territoires du Nord-Ouest et du Nunavut ainsi que d'autres entreprises du Nord ont dit que les programmes comme la Subvention salariale d'urgence du Canada ne fonctionneront pas dans le Nord.</ParaText>
               <ParaText id="6123318">Le gouvernement écoutera-t-il ces dirigeants? Apportera-t-il des changements à son approche pour que les entreprises du Nord aient une chance de survivre à cette situation?</ParaText>
             </Content>
           </Intervention>
@@ -2322,7 +2332,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821461">
-        <SubjectOfBusinessTitle>Les mesures d'urgence visant la COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'emploi</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Baldinelli" id="10821343">
             <PersonSpeaking>
@@ -2339,6 +2349,11 @@
               <ParaText id="6123322">Monsieur le Président, je remercie le député de souligner que les Canadiens, et les étudiants en particulier, traversent une période difficile. C'est pourquoi nous avons réagi rapidement, par exemple, en différant pour au moins six mois le paiement du principal et des intérêts pour les prêts consentis à un étudiant. Nous avons aussi instauré la subvention salariale, pour que de nombreux employeurs soient en mesure d'embaucher ou de réembaucher des étudiants. De plus, nous avons créé la Prestation canadienne d'urgence, qui vient en aide à beaucoup d'étudiants en cette période particulièrement difficile. Nous allons continuer à travailler d'arrache-pied pour soutenir les étudiants. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="10595467">
+        <SubjectOfBusinessTitle>Service Canada</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Shipley" id="10821348">
             <PersonSpeaking>
               <Affiliation DbId="252954" Type="2">M. Doug Shipley (Barrie—Springwater—Oro-Medonte, PCC)</Affiliation>: </PersonSpeaking>
@@ -2383,7 +2398,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10821360">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les mesures d’urgence visant la COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La petite entreprise</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Mathyssen" id="10821359">
             <PersonSpeaking>
@@ -2472,7 +2487,7 @@
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6123353">Mes pensées et mes prières et celles de toute l'opposition officielle accompagnent leurs familles et leurs proches.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6123354">Voici quelques-uns des Canadiens tués au cours de la fusillade la plus atroce de l'histoire du Canada: l'agente Heidi Stevenson, une vétérane de 23 ans de la Gendarmerie royale du Canada, mère de deux enfants et épouse aimante, tuée dans l'exercice de ses fonctions; Aaron Tuck, Jolene Oliver et Emily Tuck, une famille de trois personnes; Heather O'Brien, une infirmière auxiliaire autorisée; Kristen Beaton, une préposée aux bénéficiaires; Lisa McCully, enseignante à l'école primaire Debert; Sean McLeod, agent correctionnel à l'établissement de Springhill; Alanna Jenkins, agente correctionnelle à l'établissement Nova pour femmes; Tom Bagley, un voisin qui serait mort en essayant d'apporter son aide.</ParaText>
+              <ParaText id="6123354">Voici quelques-uns des Canadiens tués au cours de la fusillade la plus atroce de l'histoire du Canada: l'agente Heidi Stevenson, une vétérane qui comptait 23 ans de carrière à la Gendarmerie royale du Canada, mère de deux enfants et épouse aimante, tuée dans l'exercice de ses fonctions; Aaron Tuck, Jolene Oliver et Emily Tuck, une famille de trois personnes; Heather O'Brien, une infirmière auxiliaire autorisée; Kristen Beaton, une préposée aux bénéficiaires; Lisa McCully, enseignante à l'école primaire Debert; Sean McLeod, agent correctionnel à l'établissement de Springhill; Alanna Jenkins, agente correctionnelle à l'établissement Nova pour femmes; Tom Bagley, un voisin qui serait mort en essayant d'apporter son aide.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6123355">Mes pensées, mon cœur et mes prières accompagnent les proches de ceux qui ont perdu la vie lors de cette attaque innommable.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2487,7 +2502,7 @@
               <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6123361">Je les remercie de risquer leur vie pour le reste d'entre nous.</ParaText>
-              <ParaText id="6123362">Je signale aux Néo-Écossais ébranlés par cette tuerie que le pays leur est solidaire en cette sombre période. Nous sommes de tout coeur avec eux et nous les appuierons au cours des jours, des semaines et des mois pénibles qui s'en viennent. Même si nous ne pouvons nous réunir en personne durant ces moments difficiles, ils doivent savoir qu'ils ne sont jamais seuls.</ParaText>
+              <ParaText id="6123362">Je signale aux Néo-Écossais ébranlés par cette tuerie que le pays leur est solidaire en cette sombre période. Nous sommes de tout cœur avec eux et nous les appuierons au cours des jours, des semaines et des mois pénibles qui s'en viennent. Même si nous ne pouvons nous réunir en personne durant ces moments difficiles, ils doivent savoir qu'ils ne sont jamais seuls.</ParaText>
               <ParaText id="6123363">Une des caractéristiques formidables des Néo-Écossais est qu'ils sont d'excellents raconteurs. Je sais que ce qu'ils raconteront sera non seulement l'histoire d'une grande perte, mais aussi une histoire d'amour et de courage. Les Canadiens sont reconnus pour leur résilience et pour leur attachement envers leur pays, leur famille et leur collectivité.</ParaText>
               <ParaText id="6123364">Dès maintenant et dans les semaines à venir, tournons-nous vers la collectivité afin de célébrer les vies merveilleuses qui ont été perdues et de nous donner mutuellement la force dont nous avons tant besoin pour continuer. Honorons la mémoire de ceux que nous avons perdus en racontant leurs histoires et en nous souvenant de leurs noms.</ParaText>
             </Content>
@@ -2498,7 +2513,7 @@
               <Affiliation DbId="252623" Type="2">M. Yves-François Blanchet (Beloeil—Chambly, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123365">Monsieur le Président, nous vivons une période marquée à bien des égards par la tristesse, mais le drame qui se vit présentement en Nouvelle-Écosse suscite la colère et la stupéfaction. </ParaText>
-              <ParaText id="6123366">Nous avons connu cela avec la fusillade au Collègue Dawson, la tuerie à l'École polytechnique et l'attentat à la grande mosquée de Québec, plusieurs gestes qu'on associe à une période où il y avait une crainte accrue de comportements à caractère terroriste. Nous avons aussi connu cela ici même, sur la Colline du Parlement, et à plusieurs endroits au Canada. Au quotidien, il y a 1 000 violences; une personne plus violente en agresse une autre et, trop souvent, l'assassine. </ParaText>
+              <ParaText id="6123366">Nous avons connu cela avec la fusillade au Collège Dawson, la tuerie à l'École polytechnique et l'attentat à la grande mosquée de Québec, plusieurs gestes qu'on associe à une période où il y avait une crainte accrue de comportements à caractère terroriste. Nous avons aussi connu cela ici même, sur la Colline du Parlement, et à plusieurs endroits au Canada. Au quotidien, il y a 1 000 violences; une personne plus violente en agresse une autre et, trop souvent, l'assassine. </ParaText>
               <ParaText id="6123367">Il faut sortir de la rhétorique de l'exception, du geste isolé et de la folie. Évidemment, quel que soit le motif que quelqu'un se donne pour assassiner plusieurs autres personnes, il s'agit forcément d'un geste fou. Chaque personne, chaque fois, est de trop. Je crois qu'il faut changer notre relation à la violence. Nous y reviendrons certainement. Il faut changer notre relation aux instruments de la violence. </ParaText>
               <ParaText id="6123368">Dans l'intervalle, tout cela ne change pas le malheur que vit l'entièreté de la population de la Nouvelle-Écosse et n'importe qui capable de compassion. Je ne peux qu'adresser à tous ces gens et à tous ceux à qui cela fait un peu plus peur chaque fois tous nos vœux du plus grand et du plus noble des courages.</ParaText>
             </Content>
@@ -2512,7 +2527,7 @@
               <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6123371">Au cours des dernières semaines, nous avons vu combien les premiers intervenants, qui s'exposent à des dangers pour nous protéger, étaient courageux face à la COVID-19. Nous avons maintenant l'exemple d'un membre de la GRC qui a fait exactement cela: elle a fait face au danger pour sauver la vie d'autres Canadiens, et ce faisant, elle a perdu la sienne.</ParaText>
-              <ParaText id="6123372">Mère de deux enfants, elle avait 23 ans de carrière à la GRC. En pensant à son sacrifice, à cet acte de violence insensé et à la manière dont ce drame a ébranlé toute une province, je me dis qu'au nom des députés et des néo-démocrates, je dois et faire savoir aux Néo-Écossais qu'ils ne sont pas seuls dans leur deuil: le pays entier est avec eux.</ParaText>
+              <ParaText id="6123372">Mère de deux enfants, elle avait 23 ans de carrière à la GRC. En pensant à son sacrifice, à cet acte de violence insensé et à la manière dont ce drame a ébranlé toute une province, je me dis qu'au nom des députés et des néo-démocrates, je dois faire savoir aux Néo-Écossais qu'ils ne sont pas seuls dans leur deuil: le pays entier est avec eux.</ParaText>
               <ParaText id="6123373">Nous pensons souvent que les massacres de masse sont une réalité chez nos voisins du Sud, les Américains, mais que ce n'est pas quelque chose qui se produit ici aussi, au Canada. Nous devons reconnaître cependant que cela arrive ici aussi. La tragédie de l'École Polytechnique est un exemple de massacre de masse qui visait les femmes. C'était de la violence contre les femmes. Certes, dans ce cas-ci, nous ne connaissons pas les détails, mais il y a manifestement un problème de violence et il faut que nous fassions quelque chose à ce sujet.</ParaText>
               <ParaText id="6123374">Je suis d'accord avec ce que mon collègue a dit, à savoir qu'il ne suffit plus de tenir de beaux discours sur la violence gratuite. Nous devons faire quelque chose à propos de la violence. Nous devons trouver les causes profondes du problème. Nous devons comprendre comment cela a pu se produire et ce que nous pouvons faire pour empêcher que cela se reproduise dans notre pays.</ParaText>
               <ParaText id="6123375">Aujourd'hui, le pays uni pleure avec les Canadiens et les Canadiennes de la Nouvelle-Écosse, mais demain, nous devrons aussi parler de la manière dont nous pouvons aller de l'avant pour empêcher qu'une telle tragédie se reproduise. Le seul moyen de ne pas oublier et d'honorer véritablement les vies qui ont été perdues est de s'engager à préparer l'avenir pour que cela ne se reproduise jamais.</ParaText>
@@ -2606,8 +2621,8 @@
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6097574">D'accord? </ParaText>
-              <ParaText id="6097575">
+              <ParaText id="6124118">D'accord? </ParaText>
+              <ParaText id="6124119">
                 <B>Des voix:</B> D'accord. </ParaText>
             </Content>
           </Intervention>
@@ -2716,13 +2731,7 @@
             <Content>
               <ProceduralText TocType="TPC" id="8">Rejet de l'amendement</ProceduralText>
               <ParaText id="6123403">Je déclare l'amendement rejeté.</ParaText>
-            </Content>
-          </Intervention>
-          <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="10821419">
-            <PersonSpeaking>
-              <Affiliation DbId="253655" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
+              <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
               <ParaText id="6123404">Le vote porte sur la motion. Plaît-il à la Chambre d'adopter la motion? </ParaText>
               <ParaText id="6123405">
                 <B>Des voix:</B> D'accord.</ParaText>
@@ -2816,13 +2825,8 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="10821793" Rubric="RoutineProceedings">
-      <OrderOfBusinessTitle>Affaires courantes</OrderOfBusinessTitle>
-      <CatchLine>Affaires courantes</CatchLine>
       <SubjectOfBusiness id="10821635">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La pandémie de COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La pandémie de la COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Hajdu" id="10821432">
             <PersonSpeaking>
@@ -2951,9 +2955,9 @@
               <ParaText id="6123493">Les microentreprises et les nouvelles entreprises sont laissées pour compte. Une microbrasserie de ma communauté a démarré en novembre. Elle ne répond pas au critère des 20 000 $ de masse salariale pour l'année dernière, mais elle a versé 13 000 $ en décembre, 13 000 $ en janvier et 13 000 $ en février. Faute de pouvoir bénéficier d'une aide, les personnes qui les dirigent vont perdre toutes leurs économies, et leur dur labeur et tout leur engagement n'auront servi à rien.</ParaText>
               <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
               <ParaText id="6123494">Dans ma circonscription, il y a une aînée qui a travaillé toute sa vie. L'année dernière, elle n'a pas travaillé pendant huit mois à cause d'une opération. Elle a recommencé à travailler en janvier, mais elle n'est pas admissible à la Prestation canadienne d'urgence parce qu'elle n'a pas gagné 5 000 $ l'année dernière, même si elle a gagné plus de 5 000 $ toutes les autres années et qu'elle a payé des impôts. Maintenant, elle a besoin d'aide, mais elle n'a droit à rien.</ParaText>
-              <ParaText id="6123495">Nous avons une solution à ce problème. Nous constatons actuellement les inégalités flagrantes qui existent dans les collectivités canadiennes. Dans ma circonscription et ailleurs au pays, il y a une crise de l'itinérance. Avec un revenu minimum garanti, aucun Canadien ne verrait son niveau de vie se dégrader au point de ne plus pouvoir pour s'offrir un logement, une alimentation saine et nutritive et une bonne qualité de vie. </ParaText>
+              <ParaText id="6123495">Nous avons une solution à ce problème. Nous constatons actuellement les inégalités flagrantes qui existent dans les collectivités canadiennes. Dans ma circonscription et ailleurs au pays, il y a une crise de l'itinérance. Avec un revenu minimum garanti, aucun Canadien ne verrait son niveau de vie se dégrader au point de ne plus pouvoir s'offrir un logement, une alimentation saine et nutritive et une bonne qualité de vie. </ParaText>
               <ParaText id="6123496">Nous pourrions fournir un revenu de subsistance garanti d'urgence en envoyant un chèque à tous les Canadiens et en ayant recours à la facturation inversée, où ceux qui n'ont pas besoin du chèque le retournent. Ultimement, l'an prochain, ceux qui n'avaient pas besoin du chèque et qui ne l'ont pas retourné seraient imposés en fonction du montant de ce dernier. Ainsi, nous n'oublierions personne. Je pourrais dresser une longue liste de personnes qui n'ont pas droit à ces programmes. Nous devons relancer l'économie, et ce, de façon sécuritaire. </ParaText>
-              <ParaText id="6123497">Nous devrions nous inspirer de Taïwan. Mon frère y vit et y travaille. Cet État faisait partie des 10 pays les plus touchés par la <?bk ?>COVID-19<?ek ?> en février. Il a eu son premier cas présumé le même jour de janvier que le Canada. Au moment où le monde a constaté la propagation du virus à Wuhan, Taïwan a accru la production de ses usines; elle a eu recours à l'armée pour aider à accélérer la production d'équipement de protection individuelle sur son territoire. Elle ainsi fait des réserves.</ParaText>
+              <ParaText id="6123497">Nous devrions nous inspirer de Taïwan. Mon frère y vit et y travaille. Cet État faisait partie des 10 pays les plus touchés par la <?bk ?>COVID-19<?ek ?> en février. Il a eu son premier cas présumé le même jour de janvier que le Canada. Au moment où le monde a constaté la propagation du virus à Wuhan, Taïwan a accru la production de ses usines; elle a eu recours à l'armée pour aider à accélérer la production d'équipement de protection individuelle sur son territoire. Elle a ainsi fait des réserves.</ParaText>
               <ParaText id="6123498">Mon frère n'a pas pu enseigner pendant deux semaines. Sa conjointe n'a pas manqué un jour de travail. Deux semaines après le congé d'hiver, les étudiants sont retournés à l'école, munis d'un masque. Mon frère enseigne en portant un masque. Chaque semaine, il achète trois masques à la pharmacie. C'est le nombre auquel il a droit. Taïwan a interdit la constitution de réserves. De plus, les gens qui fixent des prix abusifs s'exposent à sept ans de prison ou à une amende de 700 000 $. La situation a été prise au sérieux. Taïwan occupe maintenant le 106<Sup>e</Sup> rang de la liste des pays touchés par la COVID-19. Elle compte 422 cas et 6 décès. Le Canada, lui, est treizième. Nous avons 36 000 cas et 1 600 décès.</ParaText>
               <ParaText id="6123499">Il sera certainement possible, après la crise, de faire des analyses et de tirer des leçons. Le gouvernement a eu l'humilité d'admettre que sa réponse initiale n'était pas parfaite et il a demandé conseil aux députés de l'opposition afin d'améliorer les mesures présentées. Encore aujourd'hui, de nombreuses entreprises et de nombreuses personnes passent entre les mailles du filet. </ParaText>
               <ParaText id="6123500">L'heure n'est pas à la recherche de coupables ni aux querelles partisanes. Nous devons continuer de cerner les groupes et les entreprises qui ne sont pas couverts par les programmes d'aide en réponse à la COVID-19 et voir à ce qu'ils reçoivent de l'aide. </ParaText>
@@ -2974,15 +2978,11 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="10821495" Rubric="Other">
-      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
-      <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="10821496">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La pandémie de COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La pandémie de la COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" TocText="Étude en comité plénier des questions liées à la pandémie de COVID-19, sous la présidence de Mme Alexandra Mendès" id="10">(La Chambre se constitue en comité plénier pour examiner des questions liées à la pandémie de COVID-19, sous la présidence de Mme Alexandra Mendès)</ProceduralText>
+          <ProceduralText TocType="TCC" TocText="Étude en comité plénier des questions liées à la pandémie de COVID-19, sous la présidence de Mme Alexandra Mendès" id="10">(La Chambre se constitue en comité plénier pour examiner des questions liées à la pandémie de la COVID-19, sous la présidence de Mme Alexandra Mendès)</ProceduralText>
           <Intervention Type="Interjection" ToC="No" id="10821497">
             <PersonSpeaking>
               <Affiliation DbId="253710" Type="96">La vice-présidente adjointe</Affiliation>: </PersonSpeaking>
@@ -3019,7 +3019,7 @@
             <PersonSpeaking>
               <Affiliation DbId="232947" Type="96">L'hon. Andrew Scheer</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123517">Madame la présidente, j'espère que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> examinera la situation que j'ai soulevée et qu'il corrigera le tir, car des centaines d'employés partout au Canada pourront continuer à travailler si Brandt Tracteur, en particulier, est en mesure de s'inscrire au programme.</ParaText>
+              <ParaText id="6123517">Madame la présidente, j'espère que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> examinera la situation que j'ai soulevée et qu'il corrigera le tir, car des centaines d'employés partout au Canada pourront continuer à travailler si Brandt Tractor, en particulier, est en mesure de s'inscrire au programme.</ParaText>
               <ParaText id="6123518">Étant donné que le gouvernement parle d'apporter des changements à des programmes qui ont déjà été annoncés, j'aimerais attirer l'attention du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> sur l'effet dissuasif de la Prestation canadienne d'urgence. Il existe de nombreux exemples où le plafond de 10 heures par semaine empêche des gens d'accepter un emploi disponible. Nous croyons que la PCU devrait être conçue de manière à être progressivement supprimée à mesure que les gens travaillent de plus en plus afin qu'il soit toujours préférable pour les Canadiens d'accepter les emplois disponibles.</ParaText>
               <ParaText id="6123519">Maintenant que le programme a été conçu et que les Canadiens ont commencé à recevoir de l'aide, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> envisagera-t-il de rendre le programme plus souple afin que les Canadiens puissent travailler plus d'heures pendant qu'ils reçoivent cette prestation?</ParaText>
             </Content>
@@ -3028,7 +3028,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123520">Madame la présidente, oui, nous le ferons. En effet, le salaire qu'une personne qui travaille peut toucher tout en recevant la Prestation canadienne d'urgence est déjà passé d'environ 500 $ par mois, ce qui correspond à 10 heures par semaine, à 1 000 $ par mois. Nous avons apporté cette modification parce que nous avons constaté que beaucoup d'emplois sont en situation d'heures réduites. De nombreuses personnes font partie de l'économie à la demande et veulent pouvoir continuer à travailler un peu, mais ils ont besoin de la fiabilité de la Prestation canadienne d'urgence parce que bien d'autres secteurs de l'économie sont paralysés.</ParaText>
+              <ParaText id="6123520">Madame la présidente, oui, nous le ferons. En effet, le salaire qu'une personne qui travaille peut toucher tout en recevant la Prestation canadienne d'urgence est déjà passé d'environ 500 $ par mois, ce qui correspond à 10 heures par semaine, à 1 000 $ par mois. Nous avons apporté cette modification parce que nous avons constaté que beaucoup d'emplois sont en situation d'heures réduites. De nombreuses personnes font partie de l'économie à la demande et veulent pouvoir continuer à travailler un peu, mais elles ont besoin de la fiabilité de la Prestation canadienne d'urgence parce que bien d'autres secteurs de l'économie sont paralysés.</ParaText>
               <ParaText id="6123521">Voilà un exemple de cas où nous avons écouté les préoccupations des gens. Maintenant, ils peuvent gagner jusqu'à 1 000 $ par mois et continuer à recevoir la Prestation canadienne d'urgence parce que je suis tout à fait d'accord pour dire que, plus les gens maintiennent des liens avec le marché du travail et leurs obligations et leurs responsabilités professionnelles, plus nous sortirons rapidement et facilement de cette crise.</ParaText>
             </Content>
           </Intervention>
@@ -3173,7 +3173,7 @@
               <Affiliation DbId="253365" Type="4">L’hon. Chrystia Freeland (vice-première ministre et ministre des Affaires intergouvernementales, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123561">Madame la présidente, comme le sait la députée, il s'agit de l'opération de rapatriement la plus vaste et la plus complexe que le Canada ait entreprise dans l'histoire récente. À ce jour, en collaborant avec tous les députés à la Chambre — puisque nous avons tous des électeurs touchés — nous avons facilité le rapatriement de plus de 19 000 Canadiens, sur 144 vols, depuis 72 pays. Nous continuons de travailler avec nos partenaires internationaux pour rapatrier le plus grand nombre de Canadiens possible.</ParaText>
-              <ParaText id="6123562">Je tiens à souligner une chose à tous les Canadiens qui sont rapatriés : en rentrant au pays, ils sont tous sujets à une période d'isolement obligatoire de 14 jours. Nous voulons que ces Canadiens rentrent au Canada. En tant que Canadiens, ils ont le droit de revenir au pays, mais ils doivent veiller à ne pas compromettre la santé des autres Canadiens.</ParaText>
+              <ParaText id="6123562">Je tiens à souligner une chose à tous les Canadiens qui sont rapatriés: en rentrant au pays, ils sont tous sujets à une période d'isolement obligatoire de 14 jours. Nous voulons que ces Canadiens rentrent au Canada. En tant que Canadiens, ils ont le droit de revenir au pays, mais ils doivent veiller à ne pas compromettre la santé des autres Canadiens.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10821553">
@@ -3331,7 +3331,7 @@
               <Affiliation DbId="253378" Type="4">L’hon. Marc Miller</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123590">Madame la présidente, ce n'est pas une question de participer à la prise de décision sur l'affectation des fonds. Les communautés qui ont besoin d'aide communiquent avec mon ministère et font part de leurs besoins à notre équipe. </ParaText>
-              <ParaText id="6123591">Encore une fois, il s'agit de fonds d'urgence, de ressources d'urgence que nous fournissons. Il y a également des ressources qui ne sont pas nécessairement financières, comme un déploiement ou une capacité d'intervention d'urgence, un certain nombre d'éléments multidimensionnels qui entrent en jeu selon la courbe de l'épidémie, si celle-ci frappe une communauté autochtone. Cela fonctionne vraiment au cas par cas. Lorsqu'une communauté exprime un besoin, nous y répondrons le plus rapidement possible. </ParaText>
+              <ParaText id="6123591">Encore une fois, il s'agit de fonds d'urgence, de ressources d'urgence que nous fournissons. Il y a également des ressources qui ne sont pas nécessairement financières, comme un déploiement ou une capacité d'intervention d'urgence, un certain nombre d'éléments multidimensionnels qui entrent en jeu selon la courbe de l'épidémie, si celle-ci frappe une communauté autochtone. Cela fonctionne vraiment au cas par cas. Lorsqu'une communauté exprime un besoin, nous y répondons le plus rapidement possible. </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10821595">
@@ -3460,7 +3460,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253401" Type="96">L’hon. Mary Ng (ministre de la Petite Entreprise, de la Promotion des exportations et du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123622">Madame la présidente, le Programme de crédit aux entreprises que nous avons mis de l'avant prévoit des garanties du gouvernement fédéral aux institutions financières, aux banques et aux coopératives de crédit du pays. Il est offert à toutes les PME canadiennes, peu importe leur secteur d'activités. Elles ont non seulement accès à des prêts sans intérêt de 40 000 $, mais aussi à des prêts pouvant atteindre 12,5 millions de dollars. Je le répète, ce programme s'adresse à toutes les PME canadiennes, y compris celle du secteur pétrolier et gazier.</ParaText>
+              <ParaText id="6123622">Madame la présidente, le Programme de crédit aux entreprises que nous avons mis de l'avant prévoit des garanties du gouvernement fédéral aux institutions financières, aux banques et aux coopératives de crédit du pays. Il est offert à toutes les PME canadiennes, peu importe leur secteur d'activités. Elles ont non seulement accès à des prêts sans intérêt de 40 000 $, mais aussi à des prêts pouvant atteindre 12,5 millions de dollars. Je le répète, ce programme s'adresse à toutes les PME canadiennes, y compris celles du secteur pétrolier et gazier.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10821630">
@@ -3697,7 +3697,7 @@
               <Affiliation DbId="252913" Type="2">M. John Brassard (Barrie—Innisfil, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123684">Madame la présidente, au début de la session, j'ai écouté avec grand intérêt ce que la <Affiliation DbId="253365" Type="4">vice-première ministre</Affiliation> avait à dire, au début de la séance, sur le partage des renseignements et sur le fait que la transparence est la nature même de toute démocratie, y compris la nôtre.</ParaText>
-              <ParaText id="6123685">J'aimerais revenir sur une question que j'ai posée plus tôt aujourd'hui, pendant la période des questions, concernant la cellule de renseignement médical du Canada, MEDINT, qui a reconnu au début de janvier que le nouveau coronavirus mortel était présent en Chine et qu'il était susceptible de se répandre partout dans le monde. Le rapport à ce sujet aurait vraisemblablement été envoyé au chef d'état-major de la Défense, le <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation>, et je crois que le Bureau du Conseil privé en aurait informé le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>.</ParaText>
+              <ParaText id="6123685">J'aimerais revenir sur une question que j'ai posée plus tôt aujourd'hui, pendant la période des questions, concernant la cellule de renseignement médical du Canada, MEDINT, qui a reconnu au début de janvier que le nouveau coronavirus mortel était présent en Chine et qu'il était susceptible de se répandre partout dans le monde. Le rapport à ce sujet aurait vraisemblablement été envoyé au chef d'état-major de la Défense, au <Affiliation DbId="214311" Type="4">ministre de la Défense nationale</Affiliation>, et je crois que le Bureau du Conseil privé en aurait informé le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>.</ParaText>
               <ParaText id="6123686">À quelle date le Bureau du Conseil privé a-t-il informé le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> du contenu du rapport?</ParaText>
             </Content>
           </Intervention>
@@ -3720,7 +3720,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253365" Type="4">L’hon. Chrystia Freeland (vice-première ministre et ministre des Affaires intergouvernementales, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123690">Madame la présidente, comme mon collègue l'a dit, le gouvernement suit de près le nombre de cas et la propagation de nouveau coronavirus. Le 2 janvier, l'Agence de la santé publique du Canada a alerté toutes les autorités provinciales de la santé. Le 14 janvier, l'Agence a convoqué une réunion du Conseil des médecins hygiénistes en chef du Canada.</ParaText>
+              <ParaText id="6123690">Madame la présidente, comme ma collègue l'a dit, le gouvernement suit de près le nombre de cas et la propagation du nouveau coronavirus. Le 2 janvier, l'Agence de la santé publique du Canada a alerté toutes les autorités provinciales de la santé. Le 14 janvier, l'Agence a convoqué une réunion du Conseil des médecins hygiénistes en chef du Canada.</ParaText>
               <ParaText id="6123691">En ce qui concerne le point soulevé par le député, en janvier, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a convoqué le Groupe d'intervention en cas d'incident à sa première réunion. Il s'agit d'un groupe d'intervention d'urgence où des échanges de renseignements ont évidemment lieu.</ParaText>
               <ParaText id="6123692">Toutefois, la confidentialité des renseignements communiqués m'empêche d'entrer dans les détails</ParaText>
             </Content>
@@ -3774,7 +3774,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252534" Type="2">M. Glen Motz (Medicine Hat—Cardston—Warner, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123701">Madame la présidente, des milliers de Canadiens, dont Clarence, Diane, Megan et bien d'autres personnes de ma circonscription, ne sont admissibles à aucune des mesures de soutien offertes par le gouvernement à l'heure actuelle. Ce sont des travailleurs autonomes, des gens dont l'entreprise est trop petite pour avoir droit à la subvention salariale et qui ne sont pas admissibles à la Prestation canadienne d'urgence ni au Compte d'urgence pour entreprises canadiennes. Combien de temps faudra-t-il pour que ces propriétaires d'entreprise puissent obtenir de l'aide? </ParaText>
+              <ParaText id="6123701">Madame la présidente, des milliers de Canadiens, dont Clarence, Diane, Meghan et bien d'autres personnes de ma circonscription, ne sont admissibles à aucune des mesures de soutien offertes par le gouvernement à l'heure actuelle. Ce sont des travailleurs autonomes, des gens dont l'entreprise est trop petite pour avoir droit à la subvention salariale et qui ne sont pas admissibles à la Prestation canadienne d'urgence ni au Compte d'urgence pour les entreprises canadiennes. Combien de temps faudra-t-il pour que ces propriétaires d'entreprise puissent obtenir de l'aide? </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mme Ng" id="10821711">
@@ -3874,7 +3874,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253406" Type="4">L’hon. Steven Guilbeault (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123722">Madame la présidente, la santé et la sécurité des Canadiens est toujours notre principale priorité. Nous savons que le tourisme a été durement touché par la COVID-19, et nous travaillons sans relâche pour atténuer les répercussions de cette dernière sur l'économie canadienne. Dans un premier temps, nous fournissons une aide immédiate aux Canadiens et aux entreprises qui en ont le plus besoin, y compris aux personnes sans solde à cause de la COVID-19, qu'elles soient malades, qu'elles prennent soin d'un être cher, qu'elles soient au chômage ou qu'elles aient été renvoyées chez elles.</ParaText>
+              <ParaText id="6123722">Madame la présidente, la santé et la sécurité des Canadiens sont toujours notre principale priorité. Nous savons que le tourisme a été durement touché par la COVID-19, et nous travaillons sans relâche pour atténuer les répercussions de cette dernière sur l'économie canadienne. Dans un premier temps, nous fournissons une aide immédiate aux Canadiens et aux entreprises qui en ont le plus besoin, y compris aux personnes sans solde à cause de la COVID-19, qu'elles soient malades, qu'elles prennent soin d'un être cher, qu'elles soient au chômage ou qu'elles aient été renvoyées chez elles.</ParaText>
               <ParaText id="6123723">Nous demeurons en contact avec nos collègues provinciaux et territoriaux, ainsi qu'avec les dirigeants et les communautés autochtones, afin de nous doter d'une approche pancanadienne concertée qui nous permettra de surmonter cette crise et de nous en remettre ensemble. Le secteur touristique canadien est solide et résistant, et nous l'appuierons toujours.</ParaText>
             </Content>
           </Intervention>
@@ -3882,7 +3882,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253017" Type="2">M. Tony Baldinelli</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123724">Madame la présidente, le 8 avril, le comité des Finances s'est réuni pour examiner des enjeux liés au secteur touristique canadien et la façon dont la COVID-19 nuit à ce secteur économique névralgique. Dans le cadre de ces audiences, l'Association des hôtels du Canada a proposé des solutions immédiates qui permettraient d'appuyer le tourisme.</ParaText>
+              <ParaText id="6123724">Madame la présidente, le 8 avril, le comité des finances s'est réuni pour examiner des enjeux liés au secteur touristique canadien et la façon dont la COVID-19 nuit à ce secteur économique névralgique. Dans le cadre de ces audiences, l'Association des hôtels du Canada a proposé des solutions immédiates qui permettraient d'appuyer le tourisme.</ParaText>
               <ParaText id="6123725">Elle a notamment recommandé d'autoriser le secteur à soumettre son report de pertes pour l'exercice maintenant, ce qui fournirait aux entreprises des liquidités dont elles ont grandement besoin. Par ailleurs, nous avons suggéré que le gouvernement envisage de rembourser les paiements de taxe de vente harmonisée effectués par les entreprises en 2019, encore une fois dans le but de leur fournir rapidement des liquidités grandement nécessaires.</ParaText>
               <ParaText id="6123726">Le gouvernement appuiera-t-il ces propositions?</ParaText>
             </Content>
@@ -3909,7 +3909,7 @@
               <Affiliation DbId="246260" Type="4">L’hon. Marie-Claude Bibeau (ministre de l'Agriculture et de l'Agroalimentaire, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123730">Madame la présidente, je peux vous assurer que nous travaillons de près avec les producteurs de tous les secteurs, incluant les producteurs en serre et les transformateurs. Nous évaluons différentes options afin de leur venir en aide selon les défis particuliers auxquels ils doivent faire face.</ParaText>
-              <ParaText id="6123731"> Comme chacun le sait, nous avons déjà mis en place certains moyens, par l'entremise de Financement agricole Canada et du Programme de paiements anticipés. Nous avons aussi aidé l'Agence canadienne d'inspection des aliments. Différentes mesures sont déployées progressivement, et nous sommes bien au courant des défis auxquels fait face le secteur de serres.</ParaText>
+              <ParaText id="6123731"> Comme chacun le sait, nous avons déjà mis en place certains moyens, par l'entremise de Financement agricole Canada et du Programme de paiements anticipés. Nous avons aussi aidé l'Agence canadienne d'inspection des aliments. Différentes mesures sont déployées progressivement, et nous sommes bien au courant des défis auxquels fait face le secteur des serres.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3972,7 +3972,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252609" Type="2">M. Scott Reid</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123744">Madame la présidente, la motion demandait entre autres que « [...] toute rédaction [...] soit faite par le Bureau du légiste et conseiller parlementaire de la Chambre des communes. »</ParaText>
+              <ParaText id="6123744">Madame la présidente, la motion demandait entre autres que « toute rédaction [...] soit faite par le Bureau du légiste et conseiller parlementaire de la Chambre des communes. »</ParaText>
               <ParaText id="6123745">Est-ce que la <Affiliation DbId="253395" Type="4">ministre</Affiliation> et le gouvernement vont donner suite à cette demande comme il se doit?</ParaText>
             </Content>
           </Intervention>
@@ -4198,7 +4198,7 @@
               <Affiliation DbId="252488" Type="2">M. John Williamson</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123801">Madame la présidente, d'autres critères sont-ils pris en compte pour les entreprises constituées en société? Par exemple, doivent-elles afficher une perte pour l'année?</ParaText>
-              <ParaText id="6123802">Si je le demande, c'est parce qu'une entreprise peut se trouver sans aucun revenu à court terme. Exige-t-on qu'une entreprise consistuée en société affiche une perte pour l'année?</ParaText>
+              <ParaText id="6123802">Si je le demande, c'est parce qu'une entreprise peut se trouver sans aucun revenu à court terme. Exige-t-on qu'une entreprise constituée en société affiche une perte pour l'année?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10821820">
@@ -4266,9 +4266,9 @@
               <ParaText id="6123818">Sue, une habitante de ma circonscription, a demandé ceci: « Les personnes travaillant dans des studios, comme les instructeurs de Pilates et de yoga, les physiothérapeutes, les chiropraticiens, les massothérapeutes et bien d'autres, sont laissées pour compte. Elles ne sont pas admissibles au Compte d'urgence pour les entreprises canadiennes. Pourquoi le gouvernement laisse-t-il ces studios faire faillite, alors qu'il soutient d'autres entreprises? Que fera le gouvernement pour remédier à la situation? »</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="10821837">
+          <Intervention Type="Debate" ToC="Yes" id="10821837" ToCText="Mme Ng">
             <PersonSpeaking>
-              <Affiliation DbId="253401" Type="96">L’hon. Mary Ng</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253401" Type="96">L’hon. Mary Ng (ministre de la Petite Entreprise, de la Promotion des exportations et du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123819">Madame la présidente, je remercie le député de son excellente question. Je tiens à l'informer que nous sommes à l'écoute des personnes qu'il a mentionnées et que nous tentons de régler le problème. Nous voulons que toutes les entreprises, en particulier celles dont le député vient de parler, reçoivent du soutien lors de cette période très difficile parce qu'elles sont au cœur même de nos collectivités et qu'il est important de les appuyer pendant que la COVID-19 sévit.</ParaText>
             </Content>
@@ -4285,7 +4285,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253395" Type="4">L’hon. Patty Hajdu (ministre de la Santé, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123822">Madame la présidente, je partage la véritable gratitude du député d'en face envers les nombreuses entreprises, non seulement d'<Affiliation DbId="252896" Type="2">Essex</Affiliation>, mais aussi de partout au pays, qui ont retroussé leurs manches et qui ont réorienté leurs activités vers la fabrication d'équipement de protection individuelle, de tests de dépistage ou d'autre matériel médical. En effet, plus de 5 000 entreprises ont mis à profit leurs services et leur savoir-faire. Nous avons en fait beaucoup accéléré le processus d'homologation. Cela dit, je rappelle au député d'en face que les entreprises doivent tout de même collaborer étroitement avec Santé Canada afin que l'on puisse s'assurer que les produits qu'ils commercialisent sont sûrs, qu'ils donnent bien le résultat promis et que nous ne mettons pas sur le marché du matériel ou des produits qui pourraient nuire à nos efforts visant à enrayer la pandémie.</ParaText>
+              <ParaText id="6123822">Madame la présidente, je partage la véritable gratitude du député d'en face envers les nombreuses entreprises, non seulement d'<Affiliation DbId="252896" Type="2">Essex</Affiliation>, mais aussi de partout au pays, qui ont retroussé leurs manches et qui ont réorienté leurs activités vers la fabrication d'équipement de protection individuelle, de tests de dépistage ou d'autre matériel médical. En effet, plus de 5 000 entreprises ont mis à profit leurs services et leur savoir-faire. Nous avons en fait beaucoup accéléré le processus d'homologation. Cela dit, je rappelle au député d'en face que les entreprises doivent tout de même collaborer étroitement avec Santé Canada afin que l'on puisse s'assurer que les produits qu'elles commercialisent sont sûrs, qu'ils donnent bien le résultat promis et que nous ne mettons pas sur le marché du matériel ou des produits qui pourraient nuire à nos efforts visant à enrayer la pandémie.</ParaText>
               <ParaText id="6123823">Si le député d'en face connaît une entreprise qui a du mal à obtenir l'approbation de Santé Canada, je l'invite à communiquer avec moi par courriel. Je serai ravie de vérifier la situation. Dans certains cas, Santé Canada a tout simplement besoin de plus de renseignements. Quoi qu'il en soit, il est toujours bon de vérifier si une entreprise donnée a du mal à obtenir cette approbation.</ParaText>
             </Content>
           </Intervention>
@@ -4458,7 +4458,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252694" Type="2">M. Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123860">Madame la présidente, j'aimerais rappeler à la ministre que les sommes qui sont avancées, c'est pour lutter contre l'évasion fiscale, qui est illégale. Je parlais de l'évitement fiscal, qui est utilisé de façon légale par les grandes banques. Je vais donner un chiffre, qui remonte un peu loin, soit à 2007. À elles seules, les cinq grandes banques des Bay Street ont épargné 2,7 milliards de dollars, juste en 2007, en utilisant les paradis fiscaux en toute légalité. </ParaText>
+              <ParaText id="6123860">Madame la présidente, j'aimerais rappeler à la ministre que les sommes qui sont avancées, c'est pour lutter contre l'évasion fiscale, qui est illégale. Je parlais de l'évitement fiscal, qui est utilisé de façon légale par les grandes banques. Je vais donner un chiffre, qui remonte un peu loin, soit à 2007. À elles seules, les cinq grandes banques de Bay Street ont épargné 2,7 milliards de dollars, juste en 2007, en utilisant les paradis fiscaux en toute légalité. </ParaText>
               <ParaText id="6123861">Cela se poursuit, mais nous n'avons plus les chiffres. À l'époque, les banques étaient tenues de divulguer cette information. Par suite de la crise de la dernière décennie, cette exigence a été levée. L'évitement fiscal au moyen des paradis fiscaux est rendu légal par d'obscurs règlements de la Loi de l'impôt sur le revenu du Canada. Ce n'est même pas une loi votée à la Chambre, ce ne sont que des règlements qui ont été rajoutés par après. Ces règlements se retrouvent à l'article 5907 et contredisent potentiellement la Loi. Utiliser les paradis fiscaux à de telles fins ne va vraiment pas dans le sens de la loi. </ParaText>
               <ParaText id="6123862">Pour corriger la situation, le gouvernement n'a même pas besoin d'en saisir la Chambre, il n'a qu'à modifier ses règlements pour rétablir un peu de justice. On le sait, Ottawa apporte une aide très importante aux banques. On peut penser aux milliards de dollars en liquidités ou à l'éventuel rachat d'actifs dévalués. </ParaText>
               <ParaText id="6123863">Pourquoi le gouvernement, en contrepartie, ne leur interdit-il pas l'évitement fiscal par l'entremise des paradis fiscaux?</ParaText>
@@ -4559,7 +4559,7 @@
             <Content>
               <ParaText id="6123884"> Madame la présidente, je voudrais remercier la ministre de sa gentillesse. Elle a fait preuve de courtoisie à l'égard du député de <Affiliation DbId="252488" Type="2">Nouveau-Brunswick-Sud-Ouest</Affiliation>, et j'espérais donc qu'elle le fasse aussi à mon égard. Je m'y attends dans les prochains jours.</ParaText>
               <ParaText id="6123885">Le Compte d'urgence pour les entreprises canadiennes utilise un critère différent, à savoir un taux d'intérêt de 0 % sur les prêts commerciaux. Les prêts accordés par la Banque de développement du Canada sont en fait des prêts à taux commercial pour certains des plus grands producteurs de l'Alberta.</ParaText>
-              <ParaText id="6123886"> Nous constatons déjà une réduction de la production de 400 000 barils par jour et, selon certaines prévisions, la production en Alberta et dans l'ouest du Canada diminuera d'un million de barils par jour. Nous avons vu l'incroyable chute du cours du WTI aujourd'hui, mais on s'attend à ce qu'il rebondisse légèrement demain.</ParaText>
+              <ParaText id="6123886"> Nous constatons déjà une réduction de la production de 400 000 barils par jour et, selon certaines prévisions, la production en Alberta et dans l'Ouest du Canada diminuera d'un million de barils par jour. Nous avons vu l'incroyable chute du cours du WTI aujourd'hui, mais on s'attend à ce qu'il rebondisse légèrement demain.</ParaText>
               <ParaText id="6123887">En ce qui concerne la Banque de développement du Canada et Exportation et Développement Canada, j'aimerais savoir quelles définitions et quels délais seront utilisés pour déterminer quelles entreprises et quels exploitants pourront bénéficier de leurs prêts.</ParaText>
             </Content>
           </Intervention>
@@ -4591,12 +4591,12 @@
             <PersonSpeaking>
               <Affiliation DbId="252805" Type="2">M. Tom Kmiec</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123893">Madame la présidente, en plus des répercussions de la pandémie virale, on constate aussi la chute abrupte des prix de pétrole. Le gouvernement envisage-t-il de lancer d'autres programmes de soutien pour appuyer les travailleurs du secteur énergétique en cette période qui est sans précédent dans l'histoire de l'établissement des prix de pétrole depuis au moins les années 1940 et depuis l'établissement du West Texas Intermediate? Le gouvernement prépare-t-il une deuxième ronde de programmes de soutien aux entreprises?</ParaText>
+              <ParaText id="6123893">Madame la présidente, en plus des répercussions de la pandémie virale, on constate aussi la chute abrupte du prix du pétrole. Le gouvernement envisage-t-il de lancer d'autres programmes de soutien pour appuyer les travailleurs du secteur énergétique en cette période qui est sans précédent dans l'histoire de l'établissement du prix du pétrole depuis au moins les années 1940 et depuis l'établissement du West Texas Intermediate? Le gouvernement prépare-t-il une deuxième ronde de programmes de soutien aux entreprises?</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="10821920">
+          <Intervention Type="Debate" ToC="Yes" id="10821920" ToCText="Mme Freeland">
             <PersonSpeaking>
-              <Affiliation DbId="253365" Type="4">L’hon. Chrystia Freeland</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253365" Type="4">L’hon. Chrystia Freeland (vice-première ministre et ministre des Affaires intergouvernementales, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123894">Madame la présidente, le nettoyage des puits abandonnés est une mesure qui vise précisément les travailleurs du secteur énergétique, car nous sommes bien conscients de leurs préoccupations. Je partage absolument la préoccupation du député d'en face concernant les difficultés que connaît le secteur de l'énergie. Le gouvernement se concentre sur ce problème.</ParaText>
             </Content>
@@ -4653,7 +4653,7 @@
             <Content>
               <ParaText id="6123909">Monsieur le président, je voudrais remercier mon collègue de sa question.</ParaText>
               <ParaText id="6123910">Je suis absolument d’accord. Je pense que la crise du coronavirus a souligné l’importance d’Internet haute vitesse partout au pays et surtout dans les régions où ce service n’existe pas encore.</ParaText>
-              <ParaText id="6123911">Je suis d’accord avec mon collègue qu’Internet est important, pas seulement pour les jeunes et pour les travailleurs qui l’utilisent, mais aussi pour nos aînés. Je crois que les familles ont célébré Pâques sur Internet avec leurs aînés, et nous devons accroître l’accès ce service. Même avant la crise, c’était une priorité pour notre gouvernement, et nous avions annoncé un investissement de 500 millions de dollars. Cependant, je pense maintenant que nous devons faire davantage.</ParaText>
+              <ParaText id="6123911">Je suis d’accord avec mon collègue qu’Internet est important, pas seulement pour les jeunes et pour les travailleurs qui l’utilisent, mais aussi pour nos aînés. Je crois que les familles ont célébré Pâques sur Internet avec leurs aînés, et nous devons accroître l’accès à ce service. Même avant la crise, c’était une priorité pour notre gouvernement, et nous avions annoncé un investissement de 500 millions de dollars. Cependant, je pense maintenant que nous devons faire davantage.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -4684,7 +4684,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253395" Type="4">L’hon. Patty Hajdu</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123916">Monsieur le président, je suis sûre que la députée d'en face sait que les provinces et les territoires disposent d'un réseau de distribution qu'ils contrôlent en tant que fournisseurs de soins de santé. Au gouvernement fédéral, notre travail n'est pas d'usurper leur rôle qui consiste à distribuer l'équipement de protection individuelle et les instruments médicaux d'une manière qui convient à leurs besoins particuliers et à leur demande croissante, mais plutôt à répondre à leurs demandes de soutien supplémentaire, soit pour de l'équipement, soit pour des appareils de protection individuelle destinés à leur personnel de première ligne. C'est exactement ce que nous faisons: à la demande des provinces et des territoires, nous veillons à les appuyer dans leur travail en distribuant cet équipement aux endroits où les besoins sont les plus pressants.</ParaText>
+              <ParaText id="6123916">Monsieur le président, je suis sûre que la députée d'en face sait que les provinces et les territoires disposent d'un réseau de distribution qu'ils contrôlent en tant que fournisseurs de soins de santé. Au gouvernement fédéral, notre travail n'est pas d'usurper leur rôle qui consiste à distribuer l'équipement de protection individuelle et les instruments médicaux d'une manière qui convient à leurs besoins particuliers et à leur demande croissante, mais plutôt de répondre à leurs demandes de soutien supplémentaire, soit pour de l'équipement, soit pour des appareils de protection individuelle destinés à leur personnel de première ligne. C'est exactement ce que nous faisons: à la demande des provinces et des territoires, nous veillons à les appuyer dans leur travail en distribuant cet équipement aux endroits où les besoins sont les plus pressants.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="10821943">
@@ -4738,26 +4738,26 @@
               <ParaText id="6123928">En fait, nous avons reçu une proposition du réseau national des centres d'amitié. Nous y travaillons et allons nous efforcer de verser les fonds le plus rapidement possible, car nous savons que le besoin est bien réel. Nous savons qu'ils font beaucoup avec peu et qu'ils ont besoin d'une aide soutenue. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Manly" id="10821957">
+          <Intervention Type="Interjection" ToC="No" id="10821957">
             <PersonSpeaking>
-              <Affiliation DbId="252987" Type="2">M. Paul Manly (Nanaimo—Ladysmith, PV)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252987" Type="2">M. Paul Manly</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123929">Monsieur le président, je comprends très bien les députés qui présentent des problèmes soulevés par les habitants de leur circonscription. </ParaText>
               <ParaText id="6123930">Je suis content de savoir qu'on a modifié les règles du programme de prêt aux petites entreprises, mais il y a encore des gens qui n'y sont pas admissibles. J'ai l'exemple d'une entreprise familiale, un père et son fils qui ont travaillé très dur pour démarrer une microbrasserie. Ils l'ont ouverte en novembre. Ils ont payé 13 000 $ en salaires en décembre, 13 000 $ en janvier et 13 000 $ en février, mais ils n'ont pas droit au prêt.</ParaText>
-              <ParaText id="6123931">J'entends d'autres récits du même genre de la part de petites entreprises, de nouvelles entreprises qui ont besoin d'aide immédiatement. Pourrait-on faire preuve d'une plus grande souplesse dans la mise en oeuvre de ces programmes, l'application de leurs règles, pour éviter aux gens de perdre leur entreprise? </ParaText>
+              <ParaText id="6123931">J'entends d'autres récits du même genre de la part de petites entreprises, de nouvelles entreprises qui ont besoin d'aide immédiatement. Pourrait-on faire preuve d'une plus grande souplesse dans la mise en œuvre de ces programmes, l'application de leurs règles, pour éviter aux gens de perdre leur entreprise? </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mme Ng" id="10821959">
             <PersonSpeaking>
               <Affiliation DbId="253401" Type="96">L’hon. Mary Ng (ministre de la Petite Entreprise, de la Promotion des exportations et du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123932">Monsieur le Président, je remercie le député pour son plaidoyer et ses observations sur la façon dont nos programmes aident les entreprises et sur les domaines dans lesquels il faut faire plus. Je remercie sincèrement le député pour le travail inlassable qu'il accomplit ainsi que pour les exemples qu'il nous a donnés. </ParaText>
+              <ParaText id="6123932">Monsieur le président, je remercie le député pour son plaidoyer et ses observations sur la façon dont nos programmes aident les entreprises et sur les domaines dans lesquels il faut faire plus. Je remercie sincèrement le député pour le travail inlassable qu'il accomplit ainsi que pour les exemples qu'il nous a donnés. </ParaText>
               <ParaText id="6123933">J'assure au député que nous sommes à l'écoute et que nous continuerons de tenir compte de ses commentaires et de ceux de nombreuses entreprises du pays afin qu'elles ne prennent pas de retard et tirent profit des nombreuses mesures que nous avons mises en place pour les soutenir. Toutefois, le travail n'est pas encore terminé et nous continuerons à collaborer pour aider nos entreprises dans tout le pays, en particulier les très petites entreprises.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Rota" id="10821960">
+          <Intervention Type="Interjection" ToC="No" id="10821960">
             <PersonSpeaking>
-              <Affiliation DbId="253656" Type="96">L’hon. Anthony Rota (Président de la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="253655" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123934">Conformément à l'ordre adopté plus tôt dans la journée, le comité s'ajourne.</ParaText>
             </Content>
@@ -4767,7 +4767,7 @@
       <SubjectOfBusiness id="10822055">
         <Timestamp Hr="19" Mn="00">(1900)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La pandémie de COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La pandémie de la COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="10822052">
             <PersonSpeaking>
@@ -4784,8 +4784,8 @@
               <Affiliation DbId="253401" Type="96">L’hon. Mary Ng (ministre de la Petite Entreprise, de la Promotion des exportations et du Commerce international, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123937">Monsieur le Président, à l'instar de mes collègues, je veux offrir mes condoléances à tous ceux qui sont touchés par les gestes de violence insensée perpétrés en Nouvelle-Écosse hier. Je remercie la gendarme Heidi Stevenson de la bravoure et du dévouement avec lesquels elle a si bien servi sa collectivité et son pays, de même que les travailleurs de première ligne qui veillent tous les jours à notre sécurité. Nous partageons le deuil des gens de la Nouvelle-Écosse, qui ont subi une perte accablante et qui se soutiennent mutuellement, et nous leur offrons notre appui tandis que nous nous remettons tous de la tragédie.</ParaText>
-              <ParaText id="6123938">Je veux profiter de l'occasion pour rendre hommage à une Canadienne formidable et une ancienne députée qui s'est malheureusement éteinte le week-end dernier. Il s'agit de l'honorable Aileen Carroll. J'ai eu le plaisir de connaître Aileen et j'ai toujours beaucoup admiré le dévouement avec lequel elle servait le public. Elle a représenté les gens de Barrie avec une énergie hors du commun et, ayant entamé sa carrière en tant que dirigeante d'une petite entreprise et conseillère municipale, elle avait l'engagement communautaire à coeur.</ParaText>
-              <ParaText id="6123939">Plus tard, Aileen a remporté trois élections consécutives. Députée pendant neuf ans, elle a servi à titre de secrétaire parlementaire du ministre des affaires étrangères et représenté le Canada sur la scène internationale à titre de ministre de la coopération internationale. En 2011, Aileen s'est retirée de la vie publique pour s'occuper de sa famille, ses petits-enfants et ses amis, quoiqu'elle a continué à servir sa collectivité et à contribuer à des oeuvres de bienfaisance. Nous la remercions de ses nombreuses années de service public. Son influence se fera sentir partout au pays et son héritage perdurera. Nos pensées accompagnent sa famille, ses amis et tous les collègues en cette difficile période de deuil.</ParaText>
+              <ParaText id="6123938">Je veux profiter de l'occasion pour rendre hommage à une Canadienne formidable et une ancienne députée qui s'est malheureusement éteinte le week-end dernier. Il s'agit de l'honorable Aileen Carroll. J'ai eu le plaisir de connaître Aileen et j'ai toujours beaucoup admiré le dévouement avec lequel elle servait le public. Elle a représenté les gens de Barrie avec une énergie hors du commun et, ayant entamé sa carrière en tant que dirigeante d'une petite entreprise et conseillère municipale, elle avait l'engagement communautaire à cœur.</ParaText>
+              <ParaText id="6123939">Plus tard, Aileen a remporté trois élections consécutives. Députée pendant neuf ans, elle a servi à titre de secrétaire parlementaire du ministre des Affaires étrangères et représenté le Canada sur la scène internationale à titre de ministre de la coopération internationale. En 2011, Aileen s'est retirée de la vie publique pour s'occuper de sa famille, ses petits-enfants et ses amis, quoiqu'elle a continué à servir sa collectivité et à contribuer à des œuvres de bienfaisance. Nous la remercions de ses nombreuses années de service public. Son influence se fera sentir partout au pays et son héritage perdurera. Nos pensées accompagnent sa famille, ses amis et tous les collègues en cette difficile période de deuil.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6123940">J'aimerais souligner la contribution de chaque entreprise et de chaque dirigeant des communautés qui nous ont aidés à aplanir la courbe en restant chez eux et, dans de nombreux cas, en fermant temporairement leurs portes.</ParaText>
               <ParaText id="6123941">Je sais que les propriétaires d'entreprises et les entrepreneurs canadiens sont inquiets. Ils ont travaillé pour transformer leurs idées en entreprises prospères qui sont au cœur des communautés de tout le pays et qui constituent l'épine dorsale de notre économie nationale.</ParaText>
@@ -4798,7 +4798,7 @@
               <ParaText id="6123947">Pour les entreprises qui ont des besoins opérationnels supérieurs, nous avons prévu des prêts pouvant aller jusqu'à 12,5 millions de dollars. Il faut aussi s'adresser à une banque ou à une caisse populaire pour les obtenir.</ParaText>
               <Timestamp Hr="19" Mn="05">(1905)</Timestamp>
               <ParaText id="6123948">Des entreprises nous ont également dit qu'elles avaient besoin d'aide pour payer le loyer et nous allons leur offrir cette aide. Comme l'annonçait le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> la semaine dernière, nous allons mettre en place un programme d'aide d'urgence du Canada pour le loyer commercial des petites entreprises. Ce programme accordera des prêts et des prêts à remboursement conditionnel aux propriétaires d'immeubles commerciaux qui, en retour, abaisseront le loyer des petites entreprises. Les loyers sont de compétence provinciale et territoriale. Nous allons continuer de travailler avec les provinces et les territoires dans cet important dossier et nous aurons bientôt davantage de détails à donner. </ParaText>
-              <ParaText id="6123949">Le gouvernement sait aussi que les entreprises du pays doivent faire face à des situations et à des défis qui varient d'une région à l'autre du pays pendant la pandémie de COVID-19. Afin d'offrir un soutien financier équivalent à ces petites et moyennes entreprises, le gouvernement investit 675 millions de dollars dans les agences de développement régional du Canada. En outre, nous nous assurerons que les entreprises et les collectivités des régions rurales aient accès au financement dont elles ont grandement besoin grâce à un investissement de 287 millions de dollars dans le Réseau de développement des collectivités visant à aider les petites entreprises des collectivités rurales. Ce financement contribuera à soutenir les entreprises et les collectivités afin d'assurer leur résilience pendant la crise. </ParaText>
+              <ParaText id="6123949">Le gouvernement sait aussi que les entreprises du pays doivent faire face à des situations et à des défis qui varient d'une région à l'autre du pays pendant la pandémie de COVID-19. Afin d'offrir un soutien financier équivalent à ces petites et moyennes entreprises, le gouvernement investit 675 millions de dollars dans les agences de développement régional du Canada. En outre, nous nous assurerons que les entreprises et les collectivités des régions rurales ont accès au financement dont elles ont grandement besoin grâce à un investissement de 287 millions de dollars dans le Réseau de développement des collectivités visant à aider les petites entreprises des collectivités rurales. Ce financement contribuera à soutenir les entreprises et les collectivités afin d'assurer leur résilience pendant la crise. </ParaText>
               <ParaText id="6123950">Conjointement, ces mesures allégeront les frais des entreprises et des entrepreneurs, ainsi que les pressions qu'ils subissent et elles les aideront à se préparer à la reprise qui aura lieu lorsque le danger sera écarté, afin qu'ils puissent se remettre sur pieds beaucoup plus rapidement. </ParaText>
               <ParaText id="6123951">Toutes les mesures que nous avons prises jusqu'à présent découlent directement de ce que nous disent les entreprises partout au pays, qu'il s'agisse de les aider à conserver leurs employés, à disposer des fonds et des liquidités voulus pour fonctionner et payer leurs factures ou à réduire leurs coûts. Le gouvernement continuera d'appuyer sans relâche les Canadiens, le système de santé et l'économie. Notre travail n'est pas terminé. Aucune option n'est écartée.</ParaText>
               <ParaText id="6123952">Les Canadiens sont créatifs, ils sont forts et ils ne se laissent pas abattre. Pour faire face à la COVID-19, le gouvernement reconnaît la nécessité d'aider les entreprises novatrices en démarrage et les jeunes entrepreneurs. Pour mieux les soutenir, nous investissons 250 millions de dollars par l'entremise du Programme d'aide à la recherche industrielle du Conseil national de recherches du Canada, aussi appelé PARI, et 20 millions de dollars pour que Futurpreneur Canada puisse continuer de soutenir les jeunes entrepreneurs de partout au pays qui éprouvent des difficultés à cause de la <?bk ?>COVID-19<?ek ?>.</ParaText>
@@ -4861,7 +4861,7 @@
               <Affiliation DbId="252579" Type="2">M. Jamie Schmale (Haliburton—Kawartha Lakes—Brock, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6123966">Monsieur le Président, je suis heureux de prendre la parole aujourd'hui pour parler de l'importance de cette institution, de la raison de notre présence ici et du fait que nous devrions continuer de servir la population. </ParaText>
-              <ParaText id="6123967">Mais d'abord, j'aimerais transmettre mes plus sincères condoléances aux familles et aux proches des victimes de l'horrible tragédie qui est survenue en Nouvelle-Écosse en fin de semaine. Tous comme mes collègues, je prie aussi pour le prompt rétablissement de l'agent de la GRC qui est hospitalisé. Le pays entier est en deuil aux côtés de la Nouvelle-Écosse. Nous sommes de tout cœur avec les Néo-Écossais en ce moment. </ParaText>
+              <ParaText id="6123967">Mais d'abord, j'aimerais transmettre mes plus sincères condoléances aux familles et aux proches des victimes de l'horrible tragédie qui est survenue en Nouvelle-Écosse en fin de semaine. Tout comme mes collègues, je prie aussi pour le prompt rétablissement de l'agent de la GRC qui est hospitalisé. Le pays entier est en deuil aux côtés de la Nouvelle-Écosse. Nous sommes de tout cœur avec les Néo-Écossais en ce moment. </ParaText>
               <ParaText id="6123968">Une partie de notre travail consiste à porter ce qui est important pour nos concitoyens à l'attention de l'ensemble des parlementaires tandis que nous sommes à Ottawa. Habituellement, lorsque je parle à la Chambre du village de Bobcaygeon et de ses merveilleux habitants, de nombreux Ontariens savent que c'est là qu'est située la crèmerie Kawartha, ou qu'on y trouve de magnifiques rivières, lacs, activités extérieures, gâteaux, cafés, restaurants et boutiques. </ParaText>
               <ParaText id="6123969"> Ceux qui ne vivent pas en Ontario se souviennent probablement de Bobcaygeon en raison du groupe The Tragically Hip, qui, en 2000, a remporté le prix Juno de la chanson de l'année pour sa chanson nommée en l'honneur de ce village. La chanson portait sur la vie stressante d'un policier de Toronto, qui trouvait que son travail était de plus en plus difficile et qui envisageait souvent de démissionner, mais qui se rendait dans le village de Bobcaygeon pour se détendre, relaxer et remettre sa vie en perspective.</ParaText>
               <ParaText id="6123970">Malheureusement, comme nous le savons tous, beaucoup de foyers pour personnes âgées au Canada sont touchés par la <?bk ?>COVID-19<?ek ?>. Hélas, aujourd'hui, j'ajoute Bobcaygeon à la liste grandissante des foyers canadiens touchés par le virus. La nouvelle déchirante concernant le foyer pour personnes âgées Pinecrest nous a tous bouleversés profondément. Mes pensées et mes prières continuent d'accompagner les résidants, les employés et la famille des victimes, qui doivent surmonter cette tragédie. Toutefois, cette sombre situation a laissé place à beaucoup de lumière, ce qui témoigne de la bienveillance, de la générosité, de la compassion et des bonnes intentions qui sont propres à la vie dans une petite communauté. Les employés du foyer Pinecrest, conscients des risques, n'ont pas manqué à leur devoir de prendre soin des résidants. Leur courage et leur abnégation sont un exemple pour tous les parlementaires et ils illustrent à quel point il est important que nous accomplissions notre devoir.</ParaText>
@@ -4934,7 +4934,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252579" Type="2">M. Jamie Schmale</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6123999">Monsieur le Président, notre capacité à tenir des séances virtuelles était un point que j'allais soulever, mais j'ai manqué de temps. Je sais que le comité de la procédure et des affaires de la Chambre est actuellement saisi de la question, et il commence tout juste à prendre des mesures en ce sens. Je n'ai aucun doute qu'il y aura certaines difficultés à surmonter, particulièrement pour les députés de régions rurales où l'accès à Internet haute vitesse et les services de téléphonie cellulaires peuvent être restreints. Je pense qu'il s'agit là d'un problème qu'il faut régler.</ParaText>
+              <ParaText id="6123999">Monsieur le Président, notre capacité à tenir des séances virtuelles était un point que j'allais soulever, mais j'ai manqué de temps. Je sais que le comité de la procédure et des affaires de la Chambre est actuellement saisi de la question, et il commence tout juste à prendre des mesures en ce sens. Je n'ai aucun doute qu'il y aura certaines difficultés à surmonter, particulièrement pour les députés de régions rurales où l'accès à Internet haute vitesse et les services de téléphonie cellulaire peuvent être restreints. Je pense qu'il s'agit là d'un problème qu'il faut régler.</ParaText>
               <ParaText id="6124000">Nous devons également prendre des mesures pour assurer la sécurité et faire en sorte que nous puissions compter sur des services d'interprétation. Il y a beaucoup de problèmes que je pourrais soulever, mais j'ai peu de temps. Pour que tout fonctionne, ces problèmes doivent être réglés. D'ici à ce qu'ils le soient, nous devrions continuer à tenir les débats ici au Parlement.</ParaText>
             </Content>
           </Intervention>
@@ -4945,7 +4945,7 @@
             <Content>
               <ParaText id="6124001">Monsieur le Président, nous vivons une situation exceptionnelle, inimaginable il y a à peine quelques semaines, et qui nous a poussés à prendre des mesures exceptionnelles.</ParaText>
               <ParaText id="6124002"> Je voudrais revenir sur ce dont j’ai parlé il y a huit jours, et rappeler que le gouvernement est arrivé ici, à la Chambre en proposant un projet de loi visant à subventionner 75 % de la masse salariale de certaines entreprises en difficulté. Ce projet de loi représentait à lui seul un coût de 73 milliards de dollars. Surprise! La situation est tellement exceptionnelle que tout le monde ici a donné son accord au gouvernement, ce qui prouve à quel point la crise est grave.</ParaText>
-              <ParaText id="6124003">Il est question ici de 73 milliards de dollars, et je ne parle même pas du reste des dépenses. La mauvaise nouvelle, c’est que le gouvernement utilise des deniers publics. Il faut donc qu’il aille chercher ces deniers publics quelque part. Comment un gouvernement peut-il fonctionner? Cela est très simple. C’est sûr qu’il peut s’endetter. Toutefois, on ose espérer qu’il utilise à un moment donné ses revenus: les taxes et les impôts.</ParaText>
+              <ParaText id="6124003">Il est question ici de 73 milliards de dollars, et je ne parle même pas du reste des dépenses. La mauvaise nouvelle, c’est que le gouvernement utilise des deniers publics. Il faut donc qu’il aille chercher ces deniers publics quelque part. Comment un gouvernement peut-il fonctionner? C'est très simple. C’est sûr qu’il peut s’endetter. Toutefois, on ose espérer qu’il utilise à un moment donné ses revenus: les taxes et les impôts.</ParaText>
               <ParaText id="6124004">Or, qui aime payer des impôts, à part vous et moi, monsieur le Président? Très peu de gens aiment payer des impôts même si l’on dit souvent en boutade qu’il n’y a que deux certitudes dans la vie: la mort et les impôts. Paradoxalement, qu’est-ce que l’on essaie d’éviter en général? C’est de mourir et de payer des impôts. C’est la réalité.</ParaText>
               <ParaText id="6124005">On contraint donc les gens à payer des impôts. Pour que ces gens-là paient des impôts, cependant, il faut qu’il y ait ce que l’on appelle une justice fiscale. Cela veut dire qu’il faut qu’on soit tous égaux devant la loi fiscale. On parle d’équité verticale et d’équité horizontale. L’équité horizontale exige que tous les gens qui sont dans la même situation financière — ou même situation, tout simplement — aient le même traitement fiscal. Pour sa part, l’équité verticale exige que les gens qui sont dans des situations différentes aient un traitement différent, de façon intelligente.</ParaText>
               <ParaText id="6124006">Malheureusement, il y a — souvent! — un hic: les paradis fiscaux. Des entreprises, surtout des grosses comme les banques, utilisent ce stratagème. Pourquoi? C’est pour ne pas payer d’impôts. Ces gens nous diront qu’ils recourent à l’optimisation fiscale, quand ils ne parleront pas tout simplement d’évitement fiscal. Ces gens vont nous regarder dans les yeux et nous dire que c’est légal et que personne n’a intérêt à leur taper sur les doigts. Dans ces conditions, pourquoi n’en profiteraient-ils pas? Il y a cependant un problème: l’ensemble de la population paie des taxes et des impôts. </ParaText>
@@ -5018,7 +5018,7 @@
               <Affiliation DbId="252770" Type="2">M. Alain Therrien</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6124034">Monsieur le Président, je remercie mon collègue de sa question.</ParaText>
-              <ParaText id="6124035">Nous sommes d'accord. Nous devons aider les PME avec justesse, notamment en ce qui a trait au loyer. Le Bloc québécois a proposé que les banques, les grandes entreprises et les gens qui ont des revenus élevés soutiennent les entreprises par l'entremise d' une aide gouvernementale en partie subventionnée. Cela aiderait à soutenir les coûts fixes, ce qui inclut les loyers.</ParaText>
+              <ParaText id="6124035">Nous sommes d'accord. Nous devons aider les PME avec justesse, notamment en ce qui a trait au loyer. Le Bloc québécois a proposé que les banques, les grandes entreprises et les gens qui ont des revenus élevés soutiennent les entreprises par l'entremise d'une aide gouvernementale en partie subventionnée. Cela aiderait à soutenir les coûts fixes, ce qui inclut les loyers.</ParaText>
               <ParaText id="6124036">Je pense que nous sommes du même avis. Je suis d'accord avec lui. Nous devons faire quelque chose afin de soutenir les petites et les moyennes entreprises puisqu'elles sont le fer de lance de la reprise qui s'en vient.</ParaText>
             </Content>
           </Intervention>
@@ -5035,7 +5035,7 @@
               <ParaText id="6124042">Les néo-démocrates continueront à réclamer un programme de sécurité du revenu vraiment universel, qui permettrait au gouvernement de verser immédiatement des prestations aux Canadiens qui ont produit leur déclaration de revenus l'année dernière sans que ceux-ci aient à passer par un long processus de demande. Le gouvernement serait ensuite libre de prendre le temps qu'il lui faut pour trouver une façon, à l'aide du système fiscal, de récupérer les fonds qui ont été versés aux personnes qui n'en avaient pas besoin. L'approche adoptée par le gouvernement nécessite beaucoup de travail administratif en amont dans une période où chaque jour compte.</ParaText>
               <ParaText id="6124043">Tous les jours, des habitants de ma circonscription me disent qu'ils ne sont pas admissibles aux mesures d'aide. Le gouvernement les a laissés pour compte, et ces derniers se tournent vers moi pour obtenir du soutien. Que suis-je censée dire à quelqu'un à qui il manque 50 $ pour répondre au critère de 5 000 $ établi afin d'être admissible à la Prestation canadienne d'urgence? On parlait littéralement de 50 $. </ParaText>
               <ParaText id="6124044">D'innombrables propriétaires d'entreprise me disent aussi qu'ils ne satisfont pas aux exigences minimales liées à la paie pour recevoir la subvention salariale. Que devrais-je dire à des gens qui ont investi tout ce qu'ils ont dans leur entreprise et qui la voient s'écrouler parce que le gouvernement refuse d'également les aider en raison des limites qu'il a fixé à ces mesures de soutien?</ParaText>
-              <ParaText id="6124045">Je suis fière d'intervenir à la Chambre pour défendre les intérêts des résidants de London-Fanshawe et des autres régions du pays et pour obtenir des résultats concrets. Je suis soulagée de constater que notre plan prévoyant une seule séance en personne et deux autres séances de questions virtuelles a été adopté aujourd'hui. Les échanges rapides de questions et de réponses ont été efficaces, et je pense qu'ils ont apporté beaucoup de réponses aux Canadiens. Il est vraiment important que les députés des quatre coins du pays puissent faire part au gouvernement des préoccupations et des questions de leurs concitoyens. Nous devons cependant continuer à faire connaître les histoires des Canadiens qui ont besoin d'aide, car il y a trop de lacunes dans le système. </ParaText>
+              <ParaText id="6124045">Je suis fière d'intervenir à la Chambre pour défendre les intérêts des résidants de London—Fanshawe et des autres régions du pays et pour obtenir des résultats concrets. Je suis soulagée de constater que notre plan prévoyant une seule séance en personne et deux autres séances de questions virtuelles a été adopté aujourd'hui. Les échanges rapides de questions et de réponses ont été efficaces, et je pense qu'ils ont apporté beaucoup de réponses aux Canadiens. Il est vraiment important que les députés des quatre coins du pays puissent faire part au gouvernement des préoccupations et des questions de leurs concitoyens. Nous devons cependant continuer à faire connaître les histoires des Canadiens qui ont besoin d'aide, car il y a trop de lacunes dans le système. </ParaText>
               <ParaText id="6124046">Un grand nombre de personnes âgées, de personnes handicapées, de personnes à revenu fixe, de vétérans, d'étudiants, de propriétaires et d'employés de petites entreprises, ainsi que des membres de leur famille continuent de communiquer avec moi à mon bureau. Ils doivent faire face à une hausse des coûts de la nourriture et des médicaments. Ils sont incapables de payer leur loyer. Assis à la table de la salle à manger, ils épluchent les factures et les dépenses et tentent de déterminer celles qu'ils pourront payer ce mois-ci. Des habitants de ma circonscription et des autres régions du pays doivent composer avec cette réalité. Il est de notre devoir de les aider.</ParaText>
               <ParaText id="6124047">Un très grand nombre de Canadiens font d'énormes sacrifices en restant à la maison, en gardant leur entreprise fermée ou en continuant d'aller au travail. Ils veillent à ce que les chaînes d'approvisionnement soient maintenues, à ce que nos besoins de base, comme la nourriture et les médicaments sur ordonnance, soient comblés, à ce que les ordures soient ramassées, à ce que les aéroports, les gares ferroviaires et les modes de transport continuent de fonctionner, à ce que les services d'urgence soient fournis et à ce que les hôpitaux et les établissements de soins de longue durée restent ouverts et comptent un effectif complet. Nous devons travailler de façon responsable pour empêcher la propagation du virus. Nous devons nous conformer aux recommandations des autorités de la santé publique. Nous devons pratiquer l'éloignement physique. Nous pouvons faire tout cela ensemble.</ParaText>
               <ParaText id="6124048">Nous pouvons le faire mieux. Nous devons le faire mieux et nous pouvons le faire ensemble.</ParaText>
@@ -5046,7 +5046,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252804" Type="2">M. Garnett Genuis (Sherwood Park—Fort Saskatchewan, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6124049">Monsieur le Président, nous savons comment lutter contre le virus, car nous avons vu Taïwan et la Corée du Sud le faire efficacement. Ils ont axé leurs efforts sur des taux élevés de dépistage et des mesures très efficaces pour suivre la trace des personnes. Certains ont comparé la lutte contre le virus à une guerre. Or, il est impossible de gagner une guerre lorsque l'on ne connaît pas l'ennemi. Pour connaître l'ennemi, il faut effectuer un dépistage et un suivi efficaces. D'après moi, nous ne serons pas en mesure de surmonter la crise tant que nous ne mettrons pas en place des systèmes à cet effet. En ce qui concerne la mise sur pied des systèmes nécessaires pour effectuer des tests de dépistage et des suivis, les progrès accomplis par le gouvernement sont insuffisants.</ParaText>
+              <ParaText id="6124049">Monsieur le Président, nous savons comment lutter contre le virus, car nous avons vu Taïwan et la Corée du Sud le faire efficacement. Elles ont axé leurs efforts sur des taux élevés de dépistage et des mesures très efficaces pour suivre la trace des personnes. Certains ont comparé la lutte contre le virus à une guerre. Or, il est impossible de gagner une guerre lorsque l'on ne connaît pas l'ennemi. Pour connaître l'ennemi, il faut effectuer un dépistage et un suivi efficaces. D'après moi, nous ne serons pas en mesure de surmonter la crise tant que nous ne mettrons pas en place des systèmes à cet effet. En ce qui concerne la mise sur pied des systèmes nécessaires pour effectuer des tests de dépistage et des suivis, les progrès accomplis par le gouvernement sont insuffisants.</ParaText>
               <ParaText id="6124050">J'aimerais entendre les observations de la députée sur l'idée que nous devons prendre des mesures énergiques, à en juger par les leçons tirées des expériences de la Corée du Sud et de Taïwan, et mettre sur pied des systèmes qui nous permettent de savoir où se trouve l'ennemi, afin de le combattre efficacement.</ParaText>
             </Content>
           </Intervention>
@@ -5202,8 +5202,8 @@
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6124103"> Je suis maintenant prêt à rendre ma décision sur la question de privilège soulevée plus tôt aujourd'hui par le député de <Affiliation DbId="252987" Type="2">Nanaimo—Ladysmith</Affiliation> concernant les séances de la Chambre pendant la pandémie de COVID-19. Étant donné que la question soulevée par le député concerne la façon dont la Chambre mènera ses affaires avec tous les députés dans les prochaines semaines et que le pays est toujours plongé dans une crise sans précédent dans l'histoire récente, j'ai cru important de rendre rapidement une décision à la Chambre.</ParaText>
-              <ParaText id="6124104">Lors de son intervention, le député a soutenu que les droits et les privilèges de plusieurs députés seraient violés par toute motion visant à poursuivre les travaux de la Chambre alors que nous sommes toujours en situation de pandémie de COVID-19. Selon le député, beaucoup de ses collègues ne peuvent pas venir à Ottawa pour participer aux débats parce qu'ils seront obligés de suivre une ordonnance de quarantaine lorsqu'ils rentreront dans leur province respective. En réponse aux circonstances exceptionnelles que nous connaissons, le député a demandé à la présidence de remettre à une autre date la reprise des travaux de la Chambre, conformément aux directives de santé publique.</ParaText>
+              <ParaText id="6124103"> Je suis maintenant prêt à rendre ma décision sur la question de privilège soulevée plus tôt aujourd'hui par le député de <Affiliation DbId="252987" Type="2">Nanaimo—Ladysmith</Affiliation> concernant les séances de la Chambre pendant la pandémie de la COVID-19. Étant donné que la question soulevée par le député concerne la façon dont la Chambre mènera ses affaires avec tous les députés dans les prochaines semaines et que le pays est toujours plongé dans une crise sans précédent dans l'histoire récente, j'ai cru important de rendre rapidement une décision à la Chambre.</ParaText>
+              <ParaText id="6124104">Lors de son intervention, le député a soutenu que les droits et les privilèges de plusieurs députés seraient violés par toute motion visant à poursuivre les travaux de la Chambre alors que nous sommes toujours en situation de pandémie de la COVID-19. Selon le député, beaucoup de ses collègues ne peuvent pas venir à Ottawa pour participer aux débats parce qu'ils seront obligés de suivre une ordonnance de quarantaine lorsqu'ils rentreront dans leur province respective. En réponse aux circonstances exceptionnelles que nous connaissons, le député a demandé à la présidence de remettre à une autre date la reprise des travaux de la Chambre, conformément aux directives de santé publique.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6124105">Bien qu’elle comprenne très bien les sentiments exprimés par le député de <Affiliation DbId="252987" Type="2">Nanaimo—Ladysmith</Affiliation>, il convient de rappeler que la présidence est liée par le Règlement et les décisions de la Chambre en la matière. La Chambre a le droit exclusif de réglementer ses affaires internes, de programmer ses travaux et d’établir le déroulement de ses délibérations. À cet égard, lors de la séance du samedi 11 avril dernier, une décision a été prise d’ajourner les travaux jusqu’à aujourd’hui, et cet ordre a été respecté. Il ne revient pas à la présidence de remettre en cause une décision de cette nature prise par la Chambre.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -5223,9 +5223,9 @@
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6124114">Les équipes imbattables de l'Administration de la Chambre des communes, de la Bibliothèque du Parlement et du Service de protection parlementaire méritent également notre profonde reconnaissance. Leur appui nous a permis de siéger aujourd'hui en toute confiance et en toute sécurité. Je les remercie d'avoir démontré aux Canadiens que la Chambre des communes est à l’œuvre malgré la pandémie.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6124115">Enfin, je remercie chaleureusement les femmes et les hommes qui s'occupent de nous, ceux qui veillent à notre sécurité et à ce que nous soyons bien nourris. Nous sommes profondément reconnaissants à l'ensemble des travailleurs de première ligne et du personnel soignant, qui, dans les conditions les plus difficiles, font tout en leur pouvoir pour que nous traversions cette épreuve ensemble et que nous en sortions plus forts que jamais.<ForceColumnBreak /></ParaText>
+              <ParaText id="6124115">Enfin, je remercie chaleureusement les femmes et les hommes qui s'occupent de nous, ceux qui veillent à notre sécurité et à ce que nous soyons bien nourris. Nous sommes profondément reconnaissants à l'ensemble des travailleurs de première ligne et du personnel soignant, qui, dans les conditions les plus difficiles, font tout en leur pouvoir pour que nous traversions cette épreuve ensemble et que nous en sortions plus forts que jamais.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="6124116">En conséquence, conformément à l'ordre adopté plus tôt aujourd'hui, la Chambre s'ajourne au lundi 25 mai 2020, à 11 heures, conformément aux articles 28(2) et 24(1) du Règlement.</ParaText>
+              <ParaText id="6124116">En conséquence, conformément à l'ordre adopté plus tôt aujourd'hui, la Chambre s'ajourne au lundi 25 mai, à 11 heures, conformément aux articles 28(2) et 24(1) du Règlement.</ParaText>
               <ParaText id="6124117"> (La séance est levée à 20 h 18.)</ParaText>
             </Content>
           </Intervention>

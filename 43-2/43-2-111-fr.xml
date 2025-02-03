@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11366640">
-  <StartPageNumber>7957</StartPageNumber>
+  <StartPageNumber>7955</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -63,9 +63,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme May (Saanich—Gulf Islands)" id="11366646">
+          <Intervention Type="Interjection" ToC="No" id="11366646">
             <PersonSpeaking>
-              <Affiliation DbId="252941" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252941" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770519">J'invoque le Règlement, madame la Présidente.</ParaText>
               <ParaText id="6770520">D'après ce que je comprends, nous sommes en train d'exercer la volonté de la Chambre sur les travaux d'un comité. C'est inhabituel, mais je crois comprendre que nous avons l'autorité de le faire si nous sommes saisis d'une motion d'instruction.</ParaText>
@@ -79,9 +79,9 @@
               <ParaText id="6770522">Oui, je viens de confirmer que la motion d'attribution de temps est tout à fait légitime.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mme Harder" id="11366648">
+          <Intervention Type="Interjection" ToC="No" id="11366648">
             <PersonSpeaking>
-              <Affiliation DbId="252800" Type="2">Mme Rachael Harder (Lethbridge, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252800" Type="2">Mme Rachael Harder</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770523">Madame la Présidente, j'invoque le Règlement afin de contester cette décision concernant la recevabilité de la motion d'attribution de temps présentée par le gouvernement, parce qu'elle...</ParaText>
             </Content>
@@ -105,12 +105,19 @@
               <Affiliation DbId="264096" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770529">Comme je n'ai toujours pas lu la motion et qu'elle n'a pas été présentée à la Chambre, je vais d'abord la lire et nous écouterons ensuite les recours au Règlement.</ParaText>
-              <ParaText id="6770530">[ <I>La présidence donne lecture de la motion.</I>]</ParaText>
+              <ParaText id="6770530">[<I>La présidence donne lecture de la motion.</I>]</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11366656">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11085197">
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Projet de loi C-10 — Motion d'attribution de temps</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11366656" ToCText="Mme Harder">
             <PersonSpeaking>
-              <Affiliation DbId="252800" Type="2">Mme Rachael Harder</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="252800" Type="2">Mme Rachael Harder (Lethbridge, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770531">Madame la Présidente, j'invoque le Règlement pour contester la recevabilité de la motion d'attribution de temps parce qu'elle ne respecte ni les exigences de l'article 78(3) du Règlement ni les usages de la Chambre. Permettez-moi de fournir de plus amples explications.</ParaText>
               <ParaText id="6770532">L'article 78(3) du Règlement prévoit qu'un ministre peut proposer une motion « aux fins d’attribuer un nombre spécifié de jours ou d’heures aux délibérations à cette étape et aux décisions requises pour disposer de cette étape; cependant, le temps attribué [...] ne doit pas être moindre qu’un jour de séance [...] ». Bien sûr, il va sans dire que les jours de séance de la Chambre suivent un horaire prévisible et ainsi de suite, mais pas les comités. Par conséquent, comment cette règle peut-elle s'appliquer aux comités? À mon humble avis, les motions d'attribution de temps adoptées par le passé ainsi que les pratiques antérieures étayent mon argumentaire.</ParaText>
@@ -407,11 +414,11 @@
             <PersonSpeaking>
               <Affiliation DbId="252765" Type="2">M. Alain Rayes (Richmond—Arthabaska, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770609"> Madame la Présidente, le ministre essaie par tous les moyens d'essayer de faire croire à l'ensemble de la population que les conservateurs sont contre la culture et font de l'obstruction au projet de loi <Document DbId="10926636" Type="3">C-10</Document>. Ce projet de loi est mauvais, on le sait tous et on l'a entendu de nombreux experts qui sont venus témoigner au Comité permanent du Patrimoine canadien.</ParaText>
-              <ParaText id="6770610">Le projet de loi compte plus 120 amendements, dont plus du quart proviennent du gouvernement lui-même, pourtant l'auteur de ce projet de loi. Tous les membres du Comité ont donc travaillé pour tenter par tous les moyens de corriger les lacunes du projet loi C-10. Par contre, ce que ne dit pas le ministre, c'est que les travaux se sont bloqués quand il a décidé de modifier le projet de loi en cours de route pour y inclure les réseaux sociaux. C'est à partir de ce moment-là que plusieurs personnes s'y sont objecté: des experts, d'anciens commissaires du CRTC et des milliers de Canadiens de partout au pays.</ParaText>
+              <ParaText id="6770609"> Madame la Présidente, le ministre essaie par tous les moyens de faire croire à l'ensemble de la population que les conservateurs sont contre la culture et font de l'obstruction au projet de loi <Document DbId="10926636" Type="3">C-10</Document>. Ce projet de loi est mauvais, on le sait tous et on l'a entendu de nombreux experts qui sont venus témoigner au Comité permanent du Patrimoine canadien.</ParaText>
+              <ParaText id="6770610">Le projet de loi compte plus 120 amendements, dont plus du quart proviennent du gouvernement lui-même, pourtant l'auteur de ce projet de loi. Tous les membres du Comité ont donc travaillé pour tenter par tous les moyens de corriger les lacunes du projet de loi C-10. Par contre, ce que ne dit pas le ministre, c'est que les travaux se sont bloqués quand il a décidé de modifier le projet de loi en cours de route pour y inclure les réseaux sociaux. C'est à partir de ce moment-là que plusieurs personnes s'y sont opposées: des experts, d'anciens commissaires du CRTC et des milliers de Canadiens de partout au pays.</ParaText>
               <ParaText id="6770611">La seule et unique raison pour laquelle cela prend tant de temps pour étudier un projet de loi comportant plus de 120 amendements, sans compter tous ceux qui sont proposés, c'est le travail du ministre lui-même, qui a déposé une mauvaise version du projet de loi C-10.</ParaText>
               <ParaText id="6770612"> Le gouvernement est donc en train d'imposer un bâillon pour un projet de loi qui est fondamentalement mauvais parce qu'il s'attaque à la liberté d'expression. Le ministre est en train de s'attaquer à la liberté d'expression des parlementaires qui tentent de faire leur travail. J'aimerais savoir une chose. Au lieu de nous dire que nous empêchons les choses d'avancer et que nous sommes contre la culture, le ministre peut-il nous expliquer comment il peut justifier d'imposer — avec la complicité du Bloc québécois, dois-je ajouter — un bâillon aux parlementaires alors qu'il leur reste à étudier, ensemble, 40 amendements?</ParaText>
-              <ParaText id="6770613">Au Comité, le principal problème a été que les libéraux se sont opposé pendant deux semaines à notre demande d'entendre le <Affiliation DbId="245291" Type="4">ministre de la Justice</Affiliation> avant d'accepter. Si les libéraux avaient accepté dès le début, nous aurions eu deux semaines de plus pour travailler. S'ils avaient accepté de réintégrer l'article 4.1 à la Loi sur la radiodiffusion comme nous avons tenté de le demander, nous serions en train d'avancer de façon logique pour faire essayer de corriger ce mauvais projet de loi. Comment le ministre peut-il expliquer son erreur et sa façon de gérer ce dossier qui nous a emmenés dans un cul-de-sac complet?</ParaText>
+              <ParaText id="6770613">Au Comité, le principal problème a été que les libéraux se sont opposés pendant deux semaines à notre demande d'entendre le <Affiliation DbId="245291" Type="4">ministre de la Justice</Affiliation> avant d'accepter. Si les libéraux avaient accepté dès le début, nous aurions eu deux semaines de plus pour travailler. S'ils avaient accepté de réintégrer l'article 4.1 à la Loi sur la radiodiffusion comme nous avons tenté de le demander, nous serions en train d'avancer de façon logique pour faire essayer de corriger ce mauvais projet de loi. Comment le ministre peut-il expliquer son erreur et sa façon de gérer ce dossier qui nous a emmenés dans un cul-de-sac complet?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11366718">
@@ -548,14 +555,14 @@
               <ParaText id="6770641">
                 <B>Mme Karen Vecchio</B>: Pardonnez-moi. Je sais que le député de <Affiliation DbId="252646" Type="2">Kingston et les Îles</Affiliation> a beaucoup de choses à dire. Au cours des dernières semaines, il a quasiment passé sa vie ici. Je n'ai pas pu entendre mes propres collègues parce qu'il a monopolisé le débat sur ces enjeux.</ParaText>
               <ParaText id="6770642">C'est là le problème, en effet. Nous avons entamé immédiatement les 30 minutes de débat avant même d'avoir pu discuter de nos rappels au Règlement. L'absence de décorum est due au fait que la liberté d'expression est étouffée ici même, ce qui transparaît dans ces amendements en particulier. Nous continuerons à protester. </ParaText>
-              <ParaText id="6770643">Je vous demande, madame la Présidente, de bien vouloir répondre aux rappels au Réglement afin de rétablir le décorum dans cette enceinte. Les Canadiens y ont droit, je pense.</ParaText>
+              <ParaText id="6770643">Je vous demande, madame la Présidente, de bien vouloir répondre aux rappels au Règlement afin de rétablir le décorum dans cette enceinte. Les Canadiens y ont droit, je pense.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11366746">
             <PersonSpeaking>
               <Affiliation DbId="252646" Type="2">M. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770644">À ce sujet, Madame la Présidente, la députée d' <Affiliation DbId="253101" Type="2">Elgin-Middlesex-London</Affiliation> vient d'admettre que les conservateurs font de l'obstruction parce que le projet de loi n'est pas à leur goût. Ce n'est certainement pas un rappel au Règlement. Un rappel au Règlement a à voir avec...</ParaText>
+              <ParaText id="6770644">À ce sujet, madame la Présidente, la députée d'<Affiliation DbId="253101" Type="2">Elgin-Middlesex-London</Affiliation> vient d'admettre que les conservateurs font de l'obstruction parce que le projet de loi n'est pas à leur goût. Ce n'est certainement pas un rappel au Règlement. Un rappel au Règlement a à voir avec...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Mendès" id="11366747">
@@ -588,7 +595,15 @@
               <ParaText id="6770655">La députée de Saint-Jean a la parole.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11082277">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>La Loi sur la radiodiffusion</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Projet de loi C-10 — Motion d'attribution de temps</SubjectOfBusinessQualifier>
+        <CatchLine>Ordres émanant du gouvernement</CatchLine>
+        <SubjectOfBusinessContent>
+          <ParaText id="7105019">La Chambre reprend l'étude de la motion.</ParaText>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Normandin" id="11366761">
             <PersonSpeaking>
               <Affiliation DbId="252573" Type="2">Mme Christine Normandin (Saint-Jean, BQ)</Affiliation>: </PersonSpeaking>
@@ -606,7 +621,14 @@
               <ParaText id="6770660">Je dois interrompre l'honorable députée, car le député de Peace River—Westlock invoque le Règlement.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11150937">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Projet de loi C-10 — Motion d'attribution de temps</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Viersen" id="11366764">
             <PersonSpeaking>
               <Affiliation DbId="252538" Type="2">M. Arnold Viersen (Peace River—Westlock, PCC)</Affiliation>: </PersonSpeaking>
@@ -813,12 +835,12 @@
               <ParaText id="6770712">Madame la Présidente, je veux soulever deux questions pour poursuivre la discussion sur les recours au Règlement. D'abord, le député de <Affiliation DbId="252646" Type="2">Kingston et les Îles</Affiliation> se sert d'autocollants apposés sur son ordinateur comme accessoires, mais je vous laisse le soin de vous en occuper séparément.</ParaText>
               <ParaText id="6770713">Pour répondre aux arguments soulevés par le député de <Affiliation DbId="252646" Type="2">Kingston et les Îles</Affiliation>, dans son recours au Règlement, je dirais qu'il a parlé de précédents ayant été créés par l'ancien Président, le député de <Affiliation DbId="252794" Type="2">Regina—Qu'Appelle</Affiliation>, qui est une personne sage, réfléchie et efficace et qui a dit que, pour les besoins de l'attribution de temps, un jour équivalait à un certain nombre d'heures de débats à la Chambre. Le précédent établi par le député de <Affiliation DbId="252794" Type="2">Regina—Qu'Appelle</Affiliation>, lorsqu'il a rendu sa décision, ne concerne pas la durée d'un jour de réunion de comité, mais celle d'un jour de séance de la Chambre. Le député de Kingston et les Îles cite incorrectement un précédent, comme il nous y a habitués.</ParaText>
               <ParaText id="6770714">Ce qui n'est pas clair, c'est ce qui constitue un jour de réunion de comité. C'est important, parce que les comités siègent beaucoup plus longtemps au cours d'une journée. Une réunion de comité commence à 8 h 45. C'est à cette heure que les comités peuvent commencer à siéger. Or, je fais partie d'un comité qui a l'habitude de siéger jusqu'à 21 h 30 et parfois plus tard dans le fuseau horaire d'Ottawa, ou même plus tard si un député se trouve sur la côte Est.</ParaText>
-              <ParaText id="6770715">La durée que le député de <Affiliation DbId="252794" Type="2">Regina—Qu'Appelle</Affiliation> a établi comme étant cette d'un jour de séance concerne les débats de la Chambre et elle est d'environ cinq heures, en moyenne. Cependant, les comités siègent, eux, pendant plus de 12 heures. Voilà la durée de la plage horaire disponible pour une réunion de comité parlementaire. La durée d'un jour de réunion est donc différente.</ParaText>
+              <ParaText id="6770715">La durée que le député de <Affiliation DbId="252794" Type="2">Regina—Qu'Appelle</Affiliation> a établie comme étant celle d'un jour de séance concerne les débats de la Chambre et elle est d'environ cinq heures, en moyenne. Cependant, les comités siègent, eux, pendant plus de 12 heures. Voilà la durée de la plage horaire disponible pour une réunion de comité parlementaire. La durée d'un jour de réunion est donc différente.</ParaText>
               <ParaText id="6770716">Dans la motion qu'elle propose, la députée, tout comme le député de <Affiliation DbId="252646" Type="2">Kingston et les Îles</Affiliation>, se fonde sur la durée d'une séance à la Chambre pour établir la durée d'un jour de séance en comité. Or, il s'agit d'assemblées différentes dont la durée des jours de séance est différente. Le Président de l'époque avait rendu cette décision en se basant sur ce qui constituait un jour normal de séance à la Chambre des communes, soit cinq heures. Par conséquent, un jour de séance à la Chambre équivaut à ce nombre d'heures.</ParaText>
               <ParaText id="6770717">Si nous appliquions la même règle aux comités, en nous servant plus correctement du précédent établi par l'ancien Président, nous dirions que les comités de la Chambre siègent de 8 h 45 à 21 h 30. Un jour de séance en comité serait donc de 12 h 45. On appliquerait plus correctement la procédure en disant que, d'après la décision rendue par le député et ancien Président, un jour de séance en comité est équivalent à 12 h 45. Il s'agirait là de la correcte application du précédent établi par le Président de l'époque, le député de <Affiliation DbId="252794" Type="2">Regina—Qu’Appelle</Affiliation>, corrigeant ainsi son interprétation incorrecte par le député, qui a des autocollants apposés sur son portable, ce qui va à l'encontre de la règle concernant les accessoires.</ParaText>
               <ParaText id="6770718">J'aimerais aussi revenir brièvement à mon recours au Règlement. Il porte sur les droits et les privilèges des députés qui souhaitent proposer des amendements lors des réunions de comité. En effet, je voudrais proposer plusieurs amendements dont j'ai donné avis et pour lesquels j'ai l'appui du comité. Ils sont recevables et sont solidement appuyés par les intervenants, mais je risque de ne pas être en mesure de proposer ces amendements parce que la motion m'en empêcherait.</ParaText>
-              <ParaText id="6770719">Je tiens à préciser qu'au moins deux recours au Règlement distincts, peut-être plus, concernent actuellement la motion. Premièrement, la députée de <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation> a invoqué le Règlement au sujet de la durée d'un jour de réunion. Deuxièmement, j'ai invoqué le Règlement au sujet des propositions d'amendement présentées à un comité. Il s'agit de deux questions distinctes qui nécessitent que deux décisions séparées soient prises quant à la recevabilité de la motion. Lorsque je vous ai fait cette observation pour la première fois, Madame la Présidente, vous m'avez dit que vous y reviendriez. Je peux dire avec certitude que nous attendons toujours qu'une décision soit rendue au sujet du deuxième recours au Règlement. </ParaText>
-              <ParaText id="6770720">Il y a beaucoup de questions à régler, mais ces deux questions en particulier doivent faire l'objet d'une décision, surtout la deuxième. Nous ne savons pas du tout si la présidence a l'intention de se prononcer à ce sujet. Je suis d'accord avec notre cheffe adjointe pour dire que c'est le genre de situation qui doit être réglée au moyen d'informations et de données claires et sur laquelle la présidence doit rendre une décision précise. Il y a de nombreux précédents à la Chambre où des gouvernements, des partis ou des députés ont tenté de manœuvres sans précédent ou controversées, et c'est pour cette raison que nous avons maintenant l'occasion de présenter des arguments et de faire entendre nos points de vue. </ParaText>
+              <ParaText id="6770719">Je tiens à préciser qu'au moins deux recours au Règlement distincts, peut-être plus, concernent actuellement la motion. Premièrement, la députée de <Affiliation DbId="252800" Type="2">Lethbridge</Affiliation> a invoqué le Règlement au sujet de la durée d'un jour de réunion. Deuxièmement, j'ai invoqué le Règlement au sujet des propositions d'amendement présentées à un comité. Il s'agit de deux questions distinctes qui nécessitent que deux décisions séparées soient prises quant à la recevabilité de la motion. Lorsque je vous ai fait cette observation pour la première fois, madame la Présidente, vous m'avez dit que vous y reviendriez. Je peux dire avec certitude que nous attendons toujours qu'une décision soit rendue au sujet du deuxième recours au Règlement. </ParaText>
+              <ParaText id="6770720">Il y a beaucoup de questions à régler, mais ces deux questions en particulier doivent faire l'objet d'une décision, surtout la deuxième. Nous ne savons pas du tout si la présidence a l'intention de se prononcer à ce sujet. Je suis d'accord avec notre cheffe adjointe pour dire que c'est le genre de situation qui doit être réglée au moyen d'informations et de données claires et sur laquelle la présidence doit rendre une décision précise. Il y a de nombreux précédents à la Chambre où des gouvernements, des partis ou des députés ont tenté des manœuvres sans précédent ou controversées, et c'est pour cette raison que nous avons maintenant l'occasion de présenter des arguments et de faire entendre nos points de vue. </ParaText>
               <Timestamp Hr="10" Mn="55">(1055)</Timestamp>
               <ParaText id="6770721">Honnêtement, les députés ont habituellement l'occasion de revenir à la Chambre pour présenter leurs arguments. Peut-être que des députés voudraient pouvoir réfléchir au contenu de la motion pendant la fin de semaine et soumettre leurs arguments à la Chambre. </ParaText>
               <ParaText id="6770722">Nous n'avons pris connaissance du contenu de la motion qu'au moment de sa présentation à la Chambre. Nous avons été avisés hier soir que le gouvernement allait présenter une motion d'attribution de temps concernant les comités. Cependant, nous ne savions pas si le temps attribué serait de 5 heures ou de 12 heures et 45 minutes, comme je l'ai dit un peu à la blague. Nous ne savions pas non plus si les députés auraient l'occasion ou non de proposer des amendements. </ParaText>
@@ -925,9 +947,9 @@
               <Affiliation DbId="252469" Type="2">M. Scott Simms (Coast of Bays—Central—Notre Dame, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770752">Madame la Présidente, c'est rempli d'une grande tristesse que j'interviens aujourd'hui pour rendre hommage au pasteur Ralph Benson, décédé tragiquement le mois dernier.</ParaText>
-              <ParaText id="6770753">Le pasteur Benson a dû surmonter beaucoup de défis pendant sa jeunesse, mais sa relation avec notre Sauveur lui a permis de persévérer et de devenir un pilier de son église, de sa famille et de Terre-Neuve-et-Labrador. Avec son énergie contagieuse et son grand coeur, bien connus de tous, et il a été au service des gens de Gander et des environs de toutes sortes de façons. Il était toujours là pour offrir soutien et amour.</ParaText>
+              <ParaText id="6770753">Le pasteur Benson a dû surmonter beaucoup de défis pendant sa jeunesse, mais sa relation avec notre Sauveur lui a permis de persévérer et de devenir un pilier de son église, de sa famille et de Terre-Neuve-et-Labrador. Avec son énergie contagieuse et son grand cœur, bien connus de tous, et il a été au service des gens de Gander et des environs de toutes sortes de façons. Il était toujours là pour offrir soutien et amour.</ParaText>
               <ParaText id="6770754">Son épouse Paulette a servi à ses côtés pendant des années. Ils ont élevé ensemble trois merveilleux enfants, Melissa, Adam et Melanie, ce qui m'amène à ce qui a peut-être été son rôle préféré, celui de « Poppy ». Il avait un amour et une fierté infinis pour ses petits-enfants. Son esprit accompagnera Nick, Julia, Daniel, Gracie, Avery, Luke et Jesse pendant toute leur vie.</ParaText>
-              <ParaText id="6770755">Le décès du pasteur Benson laisse un grand vide dans nos vies et nos coeurs. J'offre mes condoléances à sa famille au nom de tous les députés. Nous penserons souvent au pasteur Benson en attendant de le revoir. Que Dieu le bénisse.</ParaText>
+              <ParaText id="6770755">Le décès du pasteur Benson laisse un grand vide dans nos vies et nos cœurs. J'offre mes condoléances à sa famille au nom de tous les députés. Nous penserons souvent au pasteur Benson en attendant de le revoir. Que Dieu le bénisse.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -963,7 +985,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11366920">
-        <SubjectOfBusinessTitle>La reprise après la pandémie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La reprise après la pandémie de COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Angus" id="11366921">
             <PersonSpeaking>
@@ -1015,38 +1037,11 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11366931">
-        <SubjectOfBusinessTitle>Le vol PS752 d'Ukraine International Airlines</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le vol 752 d'Ukraine International Airlines</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Jowhari" id="11366932">
+          <Intervention Type="Debate" ToC="Yes" id="11366938" ToCText="M. Jowhari">
             <PersonSpeaking>
               <Affiliation DbId="253142" Type="2">M. Majid Jowhari (Richmond Hill, Lib.)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6770780">Madame la Présidente, l'écrasement du vol PS752 a touché une corde sensible parmi les habitants de ma circonscription et dans la communauté irano-canadienne.</ParaText>
-              <ParaText id="6770781">Le chemin vers la pleine responsabilité, la justice et la réparation est long et tortueux et il y a bien peu de transparence de la part du gouvernement de l'Iran. Durant ce pénible parcours, le gouvernement canadien et des porte-paroles énergiques de la communauté continuent de mener le combat. Le 20 mai 2021, la Cour supérieure de l'Ontario s'est jointe à cette lutte, en statuant que l'écrasement du vol PS752 était un acte de terrorisme. </ParaText>
-              <ParaText id="6770782">En plus des mesures prises par le gouvernement jusqu'à présent, des démarches visant à accorder le statut de résident permanent aux membres des familles des victimes et la nomination de M. Payam Akhavan comme conseiller principal dans le dossier PS752 constituent des étapes clés...</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Mendès" id="11366933">
-            <PersonSpeaking>
-              <Affiliation DbId="264096" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6770783">Je dois interrompre le député.</ParaText>
-              <ParaText id="6770784">Le député de <Affiliation DbId="253051" Type="2">Berthier—Maskinongé</Affiliation> a la parole.</ParaText>
-            </Content>
-          </Intervention>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" id="11366935">
-            <PersonSpeaking>
-              <Affiliation DbId="253051" Type="2">M. Yves Perron</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="6770785">Madame la Présidente, j'invoque le Règlement. Nous n'avons pas l'interprétation.</ParaText>
-              <ParaText id="6770786">Est-ce que le député pourrait reprendre sa déclaration avec l'interprétation?</ParaText>
-            </Content>
-          </Intervention>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" id="11366938">
-            <PersonSpeaking>
-              <Affiliation DbId="253142" Type="2">M. Majid Jowhari</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770787">Madame la Présidente, l'écrasement du vol PS752 a touché une corde sensible parmi les habitants de ma circonscription et dans la communauté irano-canadienne.</ParaText>
               <ParaText id="6770788">Le chemin vers la pleine responsabilité, la justice et la réparation est long et tortueux et il y a bien peu de transparence de la part du gouvernement de l'Iran. Durant ce pénible parcours, le gouvernement canadien et des porte-paroles énergiques de la communauté continuent de mener le combat. Le 20 mai 2021, la Cour supérieure de l'Ontario s'est jointe à cette lutte, en statuant que l'écrasement du vol PS752 était un acte de terrorisme. </ParaText>
@@ -1126,12 +1121,13 @@
               <ParaText id="6770810">Pendant 32 ans, la population a porté des flambeaux. Qu'il pleuve ou fasse soleil, ces gens veulent la liberté et la démocratie, la paix, la prospérité et la collaboration responsable de la Chine. </ParaText>
               <ParaText id="6770811">Cette année, parce qu'ils craignent des représailles, ils ne le feront pas. Ils n'ont plus le droit de rappeler les faits du passé. C'est donc à nous de porter ce lourd fardeau, de porter les flambeaux. Comme partout sur la planète, il faut brandir le flambeau de la démocratie. Il ne faut jamais laisser sombrer dans l'oubli ce qu'est la liberté ni ce que représentent les événements de la place Tiananmen. </ParaText>
               <ParaText id="6770812">[<I>Le député s'exprime en Mandarin</I>.] </ParaText>
+              <ParaText Continuation="True" id="7105020">[<I>Traduction</I>]</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11366957">
-        <SubjectOfBusinessTitle>Les droits de la personne</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les droits de la personne en Chine</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Albas" id="11366958">
             <PersonSpeaking>
@@ -1192,7 +1188,7 @@
               <Affiliation DbId="252785" Type="2">L’hon. Pierre Poilievre (Carleton, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6770827">Madame la Présidente, la découverte d'une fosse commune sur le site d'un ancien pensionnat à Kamloops a choqué le pays tout entier, y compris les gens de ma circonscription, Carleton. Le pays pleure la disparition de petits enfants et partage le chagrin des familles qui les ont perdus. </ParaText>
-              <ParaText id="6770828">Depuis qu'on a appris la nouvelle, j'ai parlé avec l'ancien chef de Kamloops, Manny Jules, qui nous a rappelé, avec raison, qu'il faut mettre en oeuvre immédiatement les appels à l'action n<Sup>os</Sup> 70 à 78 de la Commission de vérité et réconciliation.</ParaText>
+              <ParaText id="6770828">Depuis qu'on a appris la nouvelle, j'ai parlé avec l'ancien chef de Kamloops, Manny Jules, qui nous a rappelé, avec raison, qu'il faut mettre en œuvre immédiatement les appels à l'action n<Sup>os</Sup> 70 à 78 de la Commission de vérité et réconciliation.</ParaText>
               <ParaText id="6770829">L'appel à l'action n<Sup>o</Sup> 74, par exemple, demande au gouvernement fédéral « de travailler avec l’Église et les dirigeants communautaires autochtones pour informer les familles des enfants qui sont décédés dans les pensionnats du lieu de sépulture de ces enfants, pour répondre au souhait de ces familles de tenir des cérémonies et des événements commémoratifs appropriés et pour procéder, sur demande, à la réinhumation des enfants dans leurs collectivités d’origine. »</ParaText>
               <ParaText id="6770830">C'est le moins que nous puissions faire. Ce n'est qu'un premier pas dans le long cheminement vers la réconciliation. Il faut agir maintenant pour continuer à avancer ensemble.</ParaText>
             </Content>
@@ -1444,7 +1440,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253406" Type="4">L’hon. Steven Guilbeault (ministre du Patrimoine canadien, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6770883"> Madame la Présidente, d'abord, je tiens à préciser que la prémisse de la question de mon collègue est tout à fait fausse puisque les fonctionnaires indépendants du ministère de la Justice du Canada ont fait une analyse indépendante du projet de loi <Document DbId="10926636" Type="3">C-10</Document>et la sous-ministre est venue témoigner en comité pour préciser que le projet de loi C-10 s'inscrit tout à fait dans le cadre de la Charte canadienne des droits et libertés.</ParaText>
+              <ParaText id="6770883"> Madame la Présidente, d'abord, je tiens à préciser que la prémisse de la question de mon collègue est tout à fait fausse puisque les fonctionnaires indépendants du ministère de la Justice du Canada ont fait une analyse indépendante du projet de loi <Document DbId="10926636" Type="3">C-10</Document> et la sous-ministre est venue témoigner en comité pour préciser que le projet de loi C-10 s'inscrit tout à fait dans le cadre de la Charte canadienne des droits et libertés.</ParaText>
               <ParaText id="6770884">D'ailleurs, un article dans le projet de loi C-10 a déjà été adopté par le Comité et il précise que le CRTC doit exercer son pouvoir dans les limites de la liberté d'expression, de la liberté journalistique et de la liberté de création également...</ParaText>
             </Content>
           </Intervention>
@@ -1751,7 +1747,7 @@
               <Affiliation DbId="253801" Type="18">M. Steven MacKinnon (secrétaire parlementaire de la ministre des Services publics et de l’Approvisionnement, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6771008">Madame la Présidente, je tiens à saluer mon collègue de <Affiliation DbId="253033" Type="2">Surrey-Centre</Affiliation>, que je remercie d'appuyer les travailleurs de la santé de première ligne et d'avoir souligné notre collaboration avec nos partenaires provinciaux et territoriaux, qui a joué un rôle crucial dans la distribution des vaccins.</ParaText>
-              <ParaText id="6771009">Des Canadiens ont déjà pris rendez-vous pour leur deuxième dose, et certains l'ont déjà reçue. D'ailleurs, tous les Canadiens qui le souhaitent seront entièrement vaccinés d'ici le mois de septembre. En fait, mon collègue n'est pas sans savoir que 3,85 millions de doses ont été envoyées dans sa province. Plus des deux tiers des Britanno-Colombiens ont reçu au moins une dose. En outre, au moins deux millions de doses arriveront au Canada chaque semaine en juin et en juillet.</ParaText>
+              <ParaText id="6771009">Des Canadiens ont déjà pris rendez-vous pour leur deuxième dose, et certains l'ont déjà reçue. D'ailleurs, tous les Canadiens qui le souhaitent seront entièrement vaccinés d'ici le mois de septembre. En fait, mon collègue n'est pas sans savoir que 3,85 millions de doses ont été envoyées dans sa province. Plus des deux tiers des Britanno-Colombiens ont reçu au moins une dose. En outre, au moins 2 millions de doses arriveront au Canada chaque semaine en juin et en juillet.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1858,7 +1854,7 @@
             <PersonSpeaking>
               <Affiliation DbId="252574" Type="2">Mme Monique Pauzé (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771062">Madame la Présidente, demain marque la Journée mondiale de l'environnement, mais j'aimerais rappeler que ce gouvernement a autorisé des centaines deforages pétroliers au large de Terre-Neuve. Il les a exemptés d'évaluation environnementale sur 735 000 kilomètres carrés.</ParaText>
+              <ParaText id="6771062">Madame la Présidente, demain marque la Journée mondiale de l'environnement, mais j'aimerais rappeler que ce gouvernement a autorisé des centaines de forages pétroliers au large de Terre-Neuve. Il les a exemptés d'évaluation environnementale sur 735 000 kilomètres carrés.</ParaText>
               <ParaText id="6771063">Le 5 mai dernier, le <Affiliation DbId="253374" Type="4">ministre des Ressources naturelles</Affiliation> a expliqué qu'il voyait l'industrie pétrolière comme un partenaire dans la lutte contre les changements climatiques, ajoutant que c'est ainsi qu'on atteindrait la carboneutralité d'ici 2050.</ParaText>
               <ParaText id="6771064">Peut-il m'expliquer comment l'exploitation pétrolière, sans évaluation environnementale et sur une superficie grande comme la moitié du Québec, peut combattre les changements climatiques?</ParaText>
             </Content>
@@ -1878,7 +1874,7 @@
               <Affiliation DbId="252929" Type="2">Mme Kristina Michaud (Avignon—La Mitis—Matane—Matapédia, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6771072">Madame la Présidente, demain marque la Journée mondiale de l'environnement.</ParaText>
-              <ParaText id="6771073">À cette occasion, je rappelle que, lorsque Ottawa a annoncé ses nouvelles cibles de réduction des gaz à effets de serre, il a promis qu'il leur donnerait force de loi. Le 22 avril dernier, le <Affiliation DbId="253406" Type="4">ministre du Patrimoine canadien</Affiliation> a dit: « [...] nous inscrirons dans le projet de loi <Document DbId="10959361" Type="3">C-12</Document> la cible du Canada pour 2030 en matière de lutte contre les changements climatiques ».</ParaText>
+              <ParaText id="6771073">À cette occasion, je rappelle que, lorsque Ottawa a annoncé ses nouvelles cibles de réduction des gaz à effet de serre, il a promis qu'il leur donnerait force de loi. Le 22 avril dernier, le <Affiliation DbId="253406" Type="4">ministre du Patrimoine canadien</Affiliation> a dit: « [...] nous inscrirons dans le projet de loi <Document DbId="10959361" Type="3">C-12</Document> la cible du Canada pour 2030 en matière de lutte contre les changements climatiques ».</ParaText>
               <ParaText id="6771074">Non seulement le gouvernement ne l'a pas fait, mais il se bat contre le Bloc québécois en comité pour empêcher qu'on le fasse à sa place. Pourquoi refuse-t-il d'inscrire les cibles dans le projet de loi, si ce n'est parce qu'il n'a pas l'intention de les respecter?</ParaText>
             </Content>
           </Intervention>
@@ -1991,14 +1987,14 @@
               <Affiliation DbId="272431" Type="18">M. Chris Bittle (secrétaire parlementaire du ministre de l’Environnement et du Changement climatique, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6771126">Madame la Présidente, je tiens à remercier le député d'<Affiliation DbId="252732" Type="2">Etobicoke-Centre</Affiliation> pour ses efforts soutenus à la défense de l'environnement.</ParaText>
-              <ParaText id="6771127">Les Canadiens comprennent la valeur de la nature et des espèces sauvages ainsi que leur rôle essentiel pour les aider à préserver leur santé et leur bien-être. Voilà pourquoi notre gouvernement est déterminé à garantir la conservation du quart des terres et des océans du Canada d'ici 2025. Pour ce faire, il a consacré une somme additionnelle de plus de 4 milliards de dollars pour la conservation de la nature dans le budget de 2021.</ParaText>
+              <ParaText id="6771127">Les Canadiens comprennent la valeur de la nature et des espèces sauvages ainsi que leur rôle essentiel pour les aider à préserver leur santé et leur bien-être. Voilà pourquoi notre gouvernement est déterminé à garantir la conservation du quart des terres et des océans du Canada d'ici 2025. Pour ce faire, il a consacré une somme additionnelle de plus de 4 milliards de dollars à la conservation de la nature dans le budget de 2021.</ParaText>
               <ParaText id="6771128">Nous allons continuer de travailler avec les Canadiens et les communautés autochtones pour restaurer nos écosystèmes et protéger notre environnement pour nos enfants et nos petits-enfants.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11367223">
-        <SubjectOfBusinessTitle>Les programmes gouvernementaux</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le programme Emplois d'été Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Dalton" id="11367222">
             <PersonSpeaking>
@@ -2139,7 +2135,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11367257">
         <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Déclarations de députés</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les déclarations de députés</SubjectOfBusinessQualifier>
         <CatchLine>Recours au Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Simms" id="11367304">
@@ -2173,9 +2169,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11367265">
         <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
-        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Projet de loi C-10 — Motion d'attribution de temps</SubjectOfBusinessQualifier>
-        <CatchLine>Recours au Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Masse" id="11367266">
             <PersonSpeaking>
@@ -2831,8 +2825,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11367640" Rubric="PrivateMembersBusiness">
-      <OrderOfBusinessTitle>
-      Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="11367639">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2883,7 +2876,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253053" Type="2">Mme Andréanne Larouche (Shefford, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6771389">Madame la Présidente, je prends la parole aujourd'hui au sujet du projet de loi <Document DbId="10866262" Type="4">C-234</Document>. Tout comme mon collègue de <Affiliation DbId="252694" Type="2">Joliette</Affiliation> l'a déjà exprimé dans un précédent discours, je ne surprendrai personne en affirmant que le Bloc québécois votera contre le projet de loi C-234. Nous doutons fortement de l'efficacité d'un tel projet de loi et jugeons qu'il ne ferait que pousser les gens à dépenser pour des systèmes de sécurité qui ne les protègeront pas davantage. </ParaText>
+              <ParaText id="6771389">Madame la Présidente, je prends la parole aujourd'hui au sujet du projet de loi <Document DbId="10866262" Type="4">C-234</Document>. Tout comme mon collègue de <Affiliation DbId="252694" Type="2">Joliette</Affiliation> l'a déjà exprimé dans un précédent discours, je ne surprendrai personne en affirmant que le Bloc québécois votera contre le projet de loi C-234. Nous doutons fortement de l'efficacité d'un tel projet de loi et jugeons qu'il ne ferait que pousser les gens à dépenser pour des systèmes de sécurité qui ne les protégeront pas davantage. </ParaText>
               <ParaText id="6771390">Ce projet de loi vise à modifier la Loi de l'impôt sur le revenu afin de créer un crédit d'impôt non remboursable pour l'achat d'un système de sécurité domiciliaire pour les particuliers. Il crédite un taux maximum de 5 000 $ et comprend le total des sommes dépensées pour la sécurité domiciliaire. Cela comprend l'acquisition, l'installation, l'entretien et la surveillance d'un système de sécurité installé au domicile d'un particulier. Le domicile admissible comprend les constructions séparées de la maison, comme un garage ou même une grange. Le crédit peut être utilisé chaque année. Toutefois, en cas de dépenses faites par plusieurs membres d'un même domicile, le montant total du crédit ne pourra dépasser 5 000 $.</ParaText>
               <ParaText id="6771391">J'aborderai ce discours sous trois angles, d'abord en expliquant pourquoi nous croyons que cet argent pourrait être beaucoup mieux utilisé. Je parlerai ensuite de la question de la hausse de la criminalité, dont nous avons notamment discuté au Comité permanent de la condition féminine. Finalement, je proposerai des pistes de solutions pour contrer ce problème.</ParaText>
               <ParaText id="6771392">Tout d'abord, si nous nous opposons au projet de loi C-234, c'est parce que nous croyons que l'argent dépensé pour subventionner l'achat de tels systèmes serait beaucoup mieux dépensé si on le transférait aux corps de police provinciaux, aux policiers autochtones et à la GRC. Les corps de police des Premières Nations manquent cruellement de ressources, et le gouvernement doit commencer par les financer adéquatement afin d'aider les communautés éloignées. J'ai aussi eu l'occasion de discuter du problème du manque de ressources à la GRC dans le cadre d'un remplacement que j'ai fait cette semaine même au Comité permanent de la sécurité publique et nationale.</ParaText>
@@ -2902,7 +2895,7 @@
               <ParaText id="6771400">Le gouvernement fédéral s'était pourtant engagé dans son discours du Trône à accélérer la mise en place d'un cadre juridique pour reconnaître les services de police des Premières Nations comme un service essentiel. Il avait déjà promis de prendre des mesures à ce sujet peu après les élections de 2019. Ces engagements avaient été renouvelés après les manifestations autochtones contre le projet d'oléoduc de Coastal GasLink, en Colombie-Britannique. Or, les Autochtones attendent toujours la sanction royale.</ParaText>
               <ParaText id="6771401">Toujours selon M. Swamp, le ministère de la Sécurité publique finance les services par l'entremise du Programme des services de police des Premières Nations, mais le financement reçu est insuffisant pour fournir les services dont les communautés ont besoin.</ParaText>
               <ParaText id="6771402">La promesse fédérale de faire des services de police des Premières Nations un service essentiel est un pas dans la bonne direction. Nos ministères de la Sécurité publique ont dit que l'adoption d'une loi visant à faire de la police autochtone un service essentiel nécessitait la mise en place d'un meilleur cadre financier.</ParaText>
-              <ParaText id="6771403">Le Programme des services de police des Premières Nations a été créé en 1991 pour financer des accords entre le gouvernement fédéral, les gouvernements provinciaux ou territoriaux et les collectivités des Premières Nations ou inuites, afin de fournir des services de police à ces collectivités. Le gouvernement fédéral contribue 52 % du financement du Programme des services de police des Premières Nations, le reste étant assuré par les gouvernements provinciaux et territoriaux. Le Programme fournit des services de police à près de 60 % des collectivités des Premières Nations et inuites.</ParaText>
+              <ParaText id="6771403">Le Programme des services de police des Premières Nations a été créé en 1991 pour financer des accords entre le gouvernement fédéral, les gouvernements provinciaux ou territoriaux et les collectivités des Premières Nations ou inuites, afin de fournir des services de police à ces collectivités. Le gouvernement fédéral assume 52 % du financement du Programme des services de police des Premières Nations, le reste étant assuré par les gouvernements provinciaux et territoriaux. Le Programme fournit des services de police à près de 60 % des collectivités des Premières Nations et inuites.</ParaText>
               <ParaText id="6771404">En 2018-2019, le ministère de la Sécurité publique a dépensé plus de 146 millions de dollars dans le cadre du Programme, pour soutenir 1 322 postes d'agent de police dans plus de 450 communautés des Premières Nations et inuites. Selon M. Swamp, ce financement ne serait cependant pas uniforme et ne s'applique qu'à court terme. Cela rend donc la planification difficile et entraîne un manque de prévisibilité. Malgré tout, le chef de police croit que ces services sont efficaces pour enquêter sur des crimes violents tout en ne disposant que de ressources limitées.</ParaText>
               <ParaText id="6771405">Deuxièmement, dans le cadre d'une étude sur les femmes en milieu rural, le Comité permanent de la condition féminine a abordé la problématique de la criminalité, non seulement dans les milieux urbains, mais aussi dans les régions rurales.</ParaText>
               <ParaText id="6771406">Parmi les autres pistes de solution proposées par des témoins ayant comparu devant le Comité, il a notamment été suggéré que le gouvernement transfère au Québec, aux provinces et aux territoires un financement d'exploitation durable pour les refuges et maisons de transition qui viennent en aide aux femmes touchées par la violence dans les collectivités. Il a aussi été proposé que plus d'investissements soient transférés au Québec et aux provinces pour aider les survivantes d'actes violents.</ParaText>

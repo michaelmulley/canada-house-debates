@@ -78,7 +78,7 @@
             <PersonSpeaking>
               <Affiliation DbId="232947" Type="96">L'hon. Andrew Scheer (chef de l'opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6016884">Elles étaient 14 — 14 jeunes femmes intelligentes et pleines d'ambition. Elles avaient un avenir prometteur. Elles avaient la vie devant elles. Personne ne sait quand viendra son heure, et ces jeunes femmes-là n'auraient jamais pu deviner que la cruauté d'un homme s'apprêtait à leur voler ce qu'elles avaient de plus précieux: la vie.</ParaText>
+              <ParaText id="6016884">Monsieur le Président, elles étaient 14 — 14 jeunes femmes intelligentes et pleines d'ambition. Elles avaient un avenir prometteur. Elles avaient la vie devant elles. Personne ne sait quand viendra son heure, et ces jeunes femmes-là n'auraient jamais pu deviner que la cruauté d'un homme s'apprêtait à leur voler ce qu'elles avaient de plus précieux: la vie.</ParaText>
               <ParaText id="6016885">Il y a exactement 30 ans, elles se rendaient à l'université. Pour plusieurs d'entre elles, c'était la dernière journée de cours. C'est normalement un jour heureux. En se levant ce matin-là, à quoi pensaient-elles? Peut-être qu'elles souriaient en passant au temps des Fêtes qui approchait; dans quelques jours, elles reverraient leurs familles et leurs proches. Peut-être même qu'une chanson de Noël leur venait en tête. Elles étaient sûrement un peu nerveuses en pensant aux examens qu'elles allaient devoir passer bientôt. Peut-être qu'elles rêvaient aux projets qu'elles espéraient entreprendre.</ParaText>
               <ParaText id="6016886">Tous ces espoirs et ces rêves furent brutalement détruits en après-midi, lorsqu'un homme commit un crime violent et horrible. À la Polytechnique, le 6 décembre 1989, il sépara les femmes et les hommes et tira sur les femmes. Il en assassina 14 et fit plusieurs autres blessés.</ParaText>
               <ParaText id="6016887">Geneviève Bergeron, Hélène Colgan, Nathalie Croteau, Barbara Daigneault, Anne-Marie Edward, Maud Haviernick, Barbara Klucznik-Widajewicz, Maryse Laganière, Maryse Leclair, Anne-Marie Lemay, Sonia Pelletier, Michèle Richard, Annie St-Arneault et Annie Turcotte ont perdu la vie. Ces 14 noms méritent d'être lus et honorés.</ParaText>
@@ -155,9 +155,15 @@
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6016922">En même temps, nous devons soutenir les femmes qui continuent de repousser les frontières et les aider à briser le plafond de verre dans leur milieu, et ce, malgré les difficultés, voire les dangers, que cette lutte peut entraîner.</ParaText>
               <ParaText id="6016923">Aujourd'hui, je me souviens des 14 femmes qui ont perdu la vie lors du massacre survenu à l'École polytechnique. Aujourd'hui, je tiens aussi à assurer aux femmes partout au Canada et ailleurs dans le monde que je les crois et que je les soutiens. La misogynie n'a pas sa place au Canada.</ParaText>
+              <ParaText id="6026507">Je me souviens.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6016924">Je me souviens.</ParaText>
-              <ParaText id="6016925">[<I>La députée s’exprime en wolastoqiyik.</I>] </ParaText>
+              <ParaText id="6016925">[<I>La députée s’exprime en wolastoqiyiket et fournit le texte suivant:</I>]</ParaText>
+              <ParaText id="6026508">
+                <I>Nwewitahatom</I>.</ParaText>
+              <ParaText id="6026509">[<I>La députée fournit la traduction suivante:</I>]</ParaText>
+              <ParaText id="6026510">Je me souviens.</ParaText>
+              <ParaText id="6026511">[<I>Français</I>]</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="10724744">
@@ -743,7 +749,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10724850">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'École polytechnique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La violence faite aux femmes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gladu" id="10724851">
             <PersonSpeaking>
@@ -1145,12 +1151,7 @@
               <ParaText id="6017211">La députée d'Aurora—Oak Ridges—Richmond Hill a la parole.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="10724931">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les affaires intergouvernementales</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Alleslev" id="10724928">
             <PersonSpeaking>
               <Affiliation DbId="253002" Type="2">Mme Leona Alleslev (Aurora—Oak Ridges—Richmond Hill, PCC)</Affiliation>: </PersonSpeaking>
@@ -1245,7 +1246,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214329" Type="4">L’hon. Diane Lebouthillier (ministre du Revenu national, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6017231">Monsieur le Président, on emploie plus de 6 000 personnes partout au Québec et cela constitue un moteur économique important dans des villes telles que Shawinigan et Jonquière. Contrairement aux conservateurs et au Bloc québécois, nous ne mettrons pas ces emplois en péril. </ParaText>
+              <ParaText id="6017231">Monsieur le Président, Revenu Canada emploie plus de 6 000 personnes partout au Québec et constitue un moteur économique important dans des villes telles que Shawinigan et Jonquière. Contrairement aux conservateurs et au Bloc québécois, nous ne mettrons pas ces emplois en péril. </ParaText>
               <ParaText id="6017232">Cela dit, nous sommes toujours disposés à travailler avec Revenu Québec pour faciliter la déclaration de revenus des Québécois. Les conservateurs et le Bloc québécois devraient avoir honte, même si je n'en suis pas surprise, de proposer des politiques qui mettent en péril le gagne-pain des gens qui vivent en région.</ParaText>
             </Content>
           </Intervention>
@@ -1441,7 +1442,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253375" Type="4">L’hon. Pablo Rodriguez (leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6017274">Monsieur le Président, tout premier ministre a la responsabilité défendre les emplois au pays tout en respectant la primauté du droit. Nous acceptons les conclusions du rapport du commissaire à l'éthique et nous assumons l'entière responsabilité de nos actions. Nous avons déjà amorcé la mise en œuvre des recommandations de l'ancienne procureure générale Anne McLellan.</ParaText>
+              <ParaText id="6017274">Monsieur le Président, tout premier ministre a la responsabilité de défendre les emplois au pays tout en respectant la primauté du droit. Nous acceptons les conclusions du rapport du commissaire à l'éthique et nous assumons l'entière responsabilité de nos actions. Nous avons déjà amorcé la mise en œuvre des recommandations de l'ancienne procureure générale Anne McLellan.</ParaText>
               <ParaText id="6017275">
                 <B>Des voix:</B> Oh, oh!</ParaText>
             </Content>
@@ -1615,7 +1616,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10725054">
-        <SubjectOfBusinessTitle>L'industrie des télécommunications</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les télécommunications</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Rempel Garner" id="10725053">
             <PersonSpeaking>
@@ -1693,7 +1694,7 @@
               <Affiliation DbId="253403" Type="4">L’hon. Carla Qualtrough (ministre de l’Emploi, du Développement de la main-d’œuvre et de l'Inclusion des personnes handicapées, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6017326">Monsieur le Président, nous savons que l'éducation est essentielle pour réussir sur le marché du travail. Nous investissons dans les Canadiens afin qu'ils puissent atteindre leur plein potentiel. Nous avons commencé par mieux soutenir les étudiants par l'entremise des bourses canadiennes d'études. Nous avons aussi élargi les critères d'admissibilité aux prêts et bourses d'études. Nous avons instauré une période de grâce de six mois pendant laquelle les intérêts ne courent pas et les étudiants n'ont pas à faire de paiements. Nous avons également abaissé les taux d'intérêt des prêts d'études.</ParaText>
-              <ParaText id="6017327">Ce n'est pas tout. Dans notre plateforme, nous nous sommes engagés à bonifier les bourses canadiennes d'études de 1 200 $ et de faire passer la période de grâce à deux ans. Voilà ce que nous faisons pour que tous les Canadiens aient la chance de réussir dans la vie.</ParaText>
+              <ParaText id="6017327">Ce n'est pas tout. Dans notre plateforme, nous nous sommes engagés à bonifier les bourses canadiennes d'études de 1 200 $ et à faire passer la période de grâce à deux ans. Voilà ce que nous faisons pour que tous les Canadiens aient la chance de réussir dans la vie.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Mathyssen" id="10725075">
@@ -1748,7 +1749,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10725120">
-        <SubjectOfBusinessQualifier>La condition féminine</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La violence faite aux femmes</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Atwin" id="10725087">
             <PersonSpeaking>
@@ -1802,7 +1803,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="10725115">
-        <SubjectOfBusinessQualifier>La condition féminine</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La violence faite aux femmes</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Manly" id="10725097">
             <PersonSpeaking>
@@ -1824,7 +1825,7 @@
       Reprise du débat sur l'Adresse en réponse</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="6017347">
-        La Chambre reprend l'étude de la motion portant qu'une adresse soit présentée à Son Excellence la gouverneure générale en réponse au discours qu'elle a prononcé à l'ouverture de la session.</ParaText>
+        La Chambre reprend l'étude de la motion portant qu'une adresse soit présentée à Son Excellence la gouverneure générale en réponse au discours qu'elle a prononcé à l'ouverture de la session, ainsi que de l'amendement.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="10725103">
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
@@ -1867,11 +1868,11 @@
               <ParaText id="6017376">Finalement, le <Affiliation DbId="232946" Type="9">chef de l’opposition</Affiliation> a parlé de l'importance de l'unité canadienne. Évidemment, je ne pourrais être plus en accord sur cette préoccupation. C'est pourquoi nous travaillons avec les différents premiers ministres, les différents partis et tous les parlementaires à la Chambre pour répondre aux préoccupations concrètes des gens concernant leur avenir, leur situation économique, leurs enfants et leurs petits-enfants et leur communauté.</ParaText>
               <ParaText id="6017377">Il sera très important de réduire un peu l'intensité du débat politique qui entoure ces questions.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6017378">Certains Canadiens sont en difficulté. D'autres souffrent. Dans diverses régions du pays, nos concitoyens sont préoccupés par leur avenir et celui de leur famille. Nous devons nous employer à dissiper ces craintes. Nous devons notamment prendre des mesures comme signaler que, à l'heure actuelle, les travaux de l'oléoduc Trans Mountain ont commencé, ce que bon nombre de personnes dans les provinces des Prairies ignorent encore. Nous devons également prendre des mesures concernant l'acheminent des ressources naturelles vers de nouveaux marchés et parler des investissements que nous faisons. </ParaText>
+              <ParaText id="6017378">Certains Canadiens sont en difficulté. D'autres souffrent. Dans diverses régions du pays, nos concitoyens sont préoccupés par leur avenir et celui de leur famille. Nous devons nous employer à dissiper ces craintes. Nous devons notamment prendre des mesures comme signaler que, à l'heure actuelle, les travaux de l'oléoduc Trans Mountain ont commencé, ce que bon nombre de personnes dans les provinces des Prairies ignorent encore. Nous devons également prendre des mesures concernant l'acheminement des ressources naturelles vers de nouveaux marchés et parler des investissements que nous faisons. </ParaText>
               <ParaText id="6017379">Par ailleurs, nous devons également souligner que la tarification de la pollution fera en sorte que nombre de familles en Alberta, en Saskatchewan et à l'échelle du Canada seront en meilleure posture qu'avant l'instauration de la tarification de la pollution. La famille moyenne en Saskatchewan, en Alberta, au Manitoba et en Ontario disposera de plusieurs centaines de dollars de plus par année. </ParaText>
-              <ParaText id="6017380">Nous savons qu'il y a encore beaucoup à faire pour donner suite aux préoccupations des Canadiens et assurer à ces derniers que le Parlement travaille fort pour eux. Si on craint qu'un gouvernement minoritaire ne soit pas en mesure d'obtenir des résultats concrets pour les Canadiens, on peut se rassurer en jetant un coup d'oeil à l'histoire pour constater ce que des gouvernements minoritaires ont accompli pour les Canadiens. Le système de soins de santé universel, le bilinguisme officiel, le Régime de pensions du Canada, la légalisation du mariage entre conjoints de même sexe sont des toutes des réalisations de gouvernements minoritaires. Par conséquent, rien ne justifie que le gouvernement ne soit pas extrêmement ambitieux dans son désir de servir les Canadiens.</ParaText>
+              <ParaText id="6017380">Nous savons qu'il y a encore beaucoup à faire pour donner suite aux préoccupations des Canadiens et assurer à ces derniers que le Parlement travaille fort pour eux. Si on craint qu'un gouvernement minoritaire ne soit pas en mesure d'obtenir des résultats concrets pour les Canadiens, on peut se rassurer en jetant un coup d'oeil à l'histoire pour constater ce que des gouvernements minoritaires ont accompli pour les Canadiens. Le système de soins de santé universel, le bilinguisme officiel, le Régime de pensions du Canada, la légalisation du mariage entre conjoints de même sexe sont toutes des réalisations de gouvernements minoritaires. Par conséquent, rien ne justifie que le gouvernement ne soit pas extrêmement ambitieux dans son désir de servir les Canadiens.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="6017381">J'aimerais conclure mon discours là-dessus. Il est important de travailler ensemble et dans le respect.Plusieurs bonnes idées seront proposées par différents partis. Nous pourrons travailler ensemble, comme les Canadiens nous l'ont demandé aux dernières élections, pour bien les servir. C'est exactement ce que nous comptons faire, de ce côté-ci de la Chambre. Je pense que de participer aux débats, d'écouter les discours des députés de l'autre côté et de répondre directement à leurs préoccupations est un pas dans la bonne direction pour faire exactement ce que les Canadiens nous ont demandé.</ParaText>
+              <ParaText id="6017381">J'aimerais conclure mon discours là-dessus. Il est important de travailler ensemble et dans le respect. Plusieurs bonnes idées seront proposées par différents partis. Nous pourrons travailler ensemble, comme les Canadiens nous l'ont demandé aux dernières élections, pour bien les servir. C'est exactement ce que nous comptons faire, de ce côté-ci de la Chambre. Je pense que de participer aux débats, d'écouter les discours des députés de l'autre côté et de répondre directement à leurs préoccupations est un pas dans la bonne direction pour faire exactement ce que les Canadiens nous ont demandé.</ParaText>
               <ParaText id="6017382"> J'ai bien hâte de travailler avec tous les députés à la Chambre afin d'assurer un meilleur avenir aux Canadiens, qui seront plus prospères, plus en sécurité et, surtout, plus confiants en l'avenir dans ce pays magnifique qu'est le Canada.</ParaText>
             </Content>
           </Intervention>
@@ -1953,8 +1954,8 @@
               <ParaText id="6017424"> Le Bloc québécois a accepté ce mandat. Nous n’empêcherons pas le Parlement de fonctionner pour prouver qu’il ne fonctionne pas. Nous ne tenterons pas de rendre encore plus dysfonctionnel un Canada qui l’est déjà pour prouver qu’il l’est. Le Canada fonctionnerait-il parfaitement que, malgré tout, une nation serait quand même et toujours mieux représentée et servie si elle s’appropriait tous les attributs de sa souveraineté.</ParaText>
               <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
               <ParaText id="6017425">Alors, que ce soit bien clair: telle n'est pas la nature de notre mandat pour la présente législature, mais les Québécois savent que le Bloc québécois est un parti indépendantiste. Cela fait du bien de le dire en plus.</ParaText>
-              <ParaText id="6017426">Je vais me permettre de revenir sur trois thèmes encore. Le gouvernement compte améliorer le sort des ainés; nous aussi. Nous l'avons indiqué lors de la campagne électorale. Nous avons proposé que les sommes versées aux ainés soient haussées de 110 $ par mois. Nous croyons non seulement qu'il s'agit d'une correction nécessaire du pouvoir d'achat des bâtisseurs de la société prospère dans laquelle nous vivons, mais nous croyons aussi qu'il s'agit d'un impératif pour soutenir l'économie et la démographie des régions du Québec.</ParaText>
-              <ParaText id="6017427">À la différence du discours du Trône, cette position est claire, ainsi que plusieurs autres positions que nous avons formulées au profit des ainés et retraités. Nous continuerons à le répéter et à l'expliquer de telle sorte que si le gouvernement ne satisfait pas cette demande légitime pour nos ainés, ce sont eux qui en prendront note et jugeront de nouveau et bientôt ce gouvernement.</ParaText>
+              <ParaText id="6017426">Je vais me permettre de revenir sur trois thèmes encore. Le gouvernement compte améliorer le sort des aînés; nous aussi. Nous l'avons indiqué lors de la campagne électorale. Nous avons proposé que les sommes versées aux aînés soient haussées de 110 $ par mois. Nous croyons non seulement qu'il s'agit d'une correction nécessaire du pouvoir d'achat des bâtisseurs de la société prospère dans laquelle nous vivons, mais nous croyons aussi qu'il s'agit d'un impératif pour soutenir l'économie et la démographie des régions du Québec.</ParaText>
+              <ParaText id="6017427">À la différence du discours du Trône, cette position est claire, ainsi que plusieurs autres positions que nous avons formulées au profit des aînés et retraités. Nous continuerons à le répéter et à l'expliquer de telle sorte que si le gouvernement ne satisfait pas cette demande légitime pour nos aînés, ce sont eux qui en prendront note et jugeront de nouveau et bientôt ce gouvernement.</ParaText>
               <ParaText id="6017428">La gestion de l'offre est un autre dossier qui a progressé. Le Bloc québécois ne s'en attribue pas le mérite exclusif bien sûr, mais dans ce cas-ci comme dans celui des géants du Web, sans le Bloc, il est clair que les choses n'auraient pas ainsi progressé. Cependant, ce n'est pas complet. </ParaText>
               <ParaText id="6017429">Le versement des compensations pour une première année est une décision correcte. Les producteurs demandent une confirmation que les conditions seront les mêmes pour toutes les huit années du versement étalé. Les producteurs veulent savoir ce que seront les compensations dans la foulée du traité de libre-échange négocié un genou au sol par ce gouvernement avec les États-Unis et le Mexique. Les transformateurs veulent aussi savoir ce qui sera fait pour eux.</ParaText>
               <ParaText id="6017430"> Le Bloc québécois s'est aussi fait porteur d'une démarche chère aux producteurs sous gestion de l'offre. Nous voulons qu'une loi soit déposée pour que plus jamais la gestion de l'offre ne soit jetée comme monnaie d'échange pour soutenir, comme cette fois-ci, l'industrie automobile de l'Ontario et l'économie canadienne au détriment de l'économie québécoise. Nous déposerons cette loi.</ParaText>
@@ -2147,7 +2148,7 @@
               <ParaText id="6017514">À certains endroits, ce n'est même pas une question de coûts, mais bien de disponibilité. Il n'y a rien de disponible. Des gens sont contraints de vivre dans la rue. Il y a des sans-abri, des gens qui ont besoin d'habiter dans des logements subventionnés, et le gouvernement juge bon de continuer de faire ce qu'il fait. C'est inacceptable. Il n'améliorera pas la vie des gens, et c'est pourquoi les néo-démocrates disent qu'il n'en fait pas assez.</ParaText>
               <ParaText id="6017515">La situation est la suivante. Je demande au <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et au gouvernement de prendre le temps de discuter avec nous. Si les libéraux souhaitent améliorer le sort des Canadiens, nous sommes prêts à collaborer avec eux. Si les libéraux désirent rester au pouvoir, il est évident que différents choix s'offrent à eux. </ParaText>
               <ParaText id="6017516"> Si les libéraux veulent améliorer les choses pour les Canadiens, s'ils veulent aider les gens qui n'arrivent pas à se loger — ou à payer leurs médicaments —, s'ils veulent aider réellement les Canadiens, s'ils veulent mettre sur pied un programme national de soins dentaires, alors oui, ils peuvent compter sur les néo-démocrates. </ParaText>
-              <ParaText id="6017517">Néanmoins, s'ils s'imaginent que ce discours du Trône est satisfaisant, qu'ils se détrompent. Je sais que vous êtes capable de faire mieux, mais que vous allez avoir besoin d'aide. Voilà pourquoi les néo-démocrates sont là. Nous allons vous pousser à faire mieux. Nous allons nous assurer que vous faites les bons choix.</ParaText>
+              <ParaText id="6017517">Néanmoins, s'ils s'imaginent que ce discours du Trône est satisfaisant, qu'ils se détrompent. Je sais que vous êtes capables de faire mieux, mais que vous allez avoir besoin d'aide. Voilà pourquoi les néo-démocrates sont là. Nous allons vous pousser à faire mieux. Nous allons nous assurer que vous faites les bons choix.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
@@ -2155,7 +2156,7 @@
             <PersonSpeaking>
               <Affiliation DbId="253655" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6017518">Désolé de l'interruption, mais je sais que le député siégeait auparavant à l'Assemblée législative de l'Ontario, où il est permis d'utiliser la deuxième personne du pluriel. Cependant, à la Chambre des communes, le « vous » n'est employé que pour s'adresser à la présidence. Je peux assurer au député que je ne prendrai pas part à tout ce que le gouvernement entend faire. Je suis neutre. Je tiens à m'assurer que le député s'adresse aux autres députés par l'entremise de la présidence, plutôt qu'à la présidence elle-même. Je ne voudrais pas que le député ait l'impression que je l'ai laissé tomber. </ParaText>
+              <ParaText id="6017518">Je suis désolé de l'interruption, mais je sais que le député siégeait auparavant à l'Assemblée législative de l'Ontario, où il est permis d'utiliser la deuxième personne du pluriel. Cependant, à la Chambre des communes, le « vous » n'est employé que pour s'adresser à la présidence. Je peux assurer au député que je ne prendrai pas part à tout ce que le gouvernement entend faire. Je suis neutre. Je tiens à m'assurer que le député s'adresse aux autres députés par l'entremise de la présidence, plutôt qu'à la présidence elle-même. Je ne voudrais pas que le député ait l'impression que je l'ai laissé tomber. </ParaText>
               <ParaText id="6017519">Le député de <Affiliation DbId="253029" Type="2">Burnaby-Sud</Affiliation> a la parole. </ParaText>
             </Content>
           </Intervention>
@@ -2228,9 +2229,9 @@
             </Content>
           </Intervention>
           <Timestamp Hr="13" Mn="45">(1345)</Timestamp>
-          <Intervention Type="Interjection" ToC="Yes" id="10725199" ToCText="M. Singh">
+          <Intervention Type="Interjection" ToC="No" id="10725199">
             <PersonSpeaking>
-              <Affiliation DbId="246097" Type="2">M. Jagmeet Singh (Burnaby-Sud, NPD)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="246097" Type="2">M. Jagmeet Singh</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6017548">Monsieur le Président, les producteurs peuvent compter sur nous. C'est notre parti qui a dit que les accords avec les autres pays doivent protéger la gestion de l'offre. C'est un élément manquant dans le nouvel ALENA. Nous avions mentionné trois problèmes concernant cet accord. </ParaText>
               <ParaText id="6017549">Premièrement, les mesures concernant la protection des travailleurs et de l'environnement ne sont pas contraignantes. Deuxièmement, il s'agit de l'augmentation du prix des médicaments. Troisièmement, ce sont les brèches dans la gestion de l'offre. Cela est complètement inacceptable, et c'est encore ce que ce gouvernement fait. D'un côté, il parle de l'importance des producteurs, mais de l'autre, il pose des gestes dans le sens contraire. Les brèches dans la gestion de l'offre ont fait mal aux producteurs laitiers, en particulier au Québec. </ParaText>
@@ -2247,7 +2248,7 @@
               <ParaText id="6017553">Je tiens également à remercier les habitants de ma circonscription, Malpeque, à l'Île-du-Prince-Édouard, de leur appui. J'ai la chance d'entreprendre mon neuvième mandat à titre de député, et c'est toujours un honneur. Peu importe le nombre de fois où un député est appelé à prendre la parole, cette enceinte demeure quelque peu intimidante. Bien peu de citoyens obtiennent le droit de se retrouver ici pour faire une déclaration, inviter ses pairs à débattre, ou être tenu de répondre aux questions d'autrui. La démocratie doit reposer sur ce genre d'échanges. Au sein de ce Parlement, nous sommes confrontés aux points de vue les plus divergents, mais nous sommes capables d'unir nos efforts afin de formuler de meilleures politiques.</ParaText>
               <ParaText id="6017554">À mon avis, les débats à la Chambre étaient plus ouverts il y a de nombreuses années. Les débats étaient plus énergiques, et les discours n'émanaient pas toujours de rédacteurs ou d'autres spécialistes. C'est en plein le genre d'endroit que, selon moi, la Chambre devrait être. Dans cette enceinte, nous devrions prendre la parole et présenter nos idées, quitte à devoir parfois en laisser tomber certaines. Lorsque j'ai commencé à siéger ici pour la première fois il y a 26 ans, je pensais que j'avais toutes les idées et toutes les réponses. Je sais aujourd'hui que ce n'était pas le cas. En fait, j'ai moins de réponses aujourd'hui que je pensais en avoir à l'époque. Cependant, nous devons avoir des discussions et des débats de cette nature, parce que chacun d'entre nous a de bonnes idées et que les critiques constructives ont leur place tant à la Chambre qu'au sein des comités.</ParaText>
               <ParaText id="6017555">Je tiens à dire aux nouveaux députés que c'est véritablement dans les comités que l'on effectue le travail. Les membres des comités voyagent ensemble et apprennent à se connaître sur le plan personnel. C'est en mettant de côté la partisanerie et les lignes de parti que l'on fait vraiment avancer les choses et que l'on trouve de bonnes idées. Les députés se font des amis des deux côtés de la Chambre, qui sont séparés par deux longueurs d'épée. Nous tissons des liens d'amitié et progressons ensemble. C'est ainsi que les choses devraient se passer dans cette enceinte. J'espère que c'est ce que nous pourrons faire à la Chambre et au sein des comités durant la 43<Sup>e</Sup> législature.</ParaText>
-              <ParaText id="6017556">J'aimerais maintenant parler du discours du Trône et lire quelques phrases qui figurent sous la rubrique « Allocution d'ouverture »:</ParaText>
+              <ParaText id="6017556">J'aimerais maintenant parler du discours du Trône et lire quelques phrases qui figurent sous la rubrique Allocution d'ouverture:</ParaText>
               <ParaText id="6017557">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Cet automne, les Canadiens ont été appelés aux urnes. Et ils ont élu un gouvernement minoritaire à Ottawa. Cela reflète la volonté du peuple, et vous avez été choisis pour y donner suite.</QuotePara>
@@ -2259,7 +2260,7 @@
                 </Quote>
               </ParaText>
               <Timestamp Hr="13" Mn="50">(1350)</Timestamp>
-              <ParaText id="6017559">Comme je l'ai dit il y a un instant, je sais que cela va représenter un défi. J'ai participé à neuf élections, mais c'est cette dernière élection générale qui a le plus semé la discorde sur le terrain dans la circonscription que je représente, comme dans bien d'autres d'ailleurs à ce qu'on m'a dit. Les fausses informations ont fusé de partout. Lorsqu'on répète une fausse information assez souvent et qu'elle n'est jamais contestée, elle devient la vérité dans l'esprit de certaines personnes. Ce fut souvent le cas pendant la dernière campagne électorale, ce qui a créé beaucoup d'amertume.</ParaText>
+              <ParaText id="6017559">Comme je l'ai dit il y a un instant, je sais que cela va représenter un défi. J'ai participé à neuf élections, mais c'est cette dernière élection générale qui a le plus semé la discorde sur le terrain dans la circonscription que je représente, comme dans bien d'autres d'ailleurs, à ce qu'on m'a dit. Les fausses informations ont fusé de partout. Lorsqu'on répète une fausse information assez souvent et qu'elle n'est jamais contestée, elle devient la vérité dans l'esprit de certaines personnes. Ce fut souvent le cas pendant la dernière campagne électorale, ce qui a créé beaucoup d'amertume.</ParaText>
               <ParaText id="6017560">Le pays est ressorti divisé par ce que je considère être de fausses informations. Prenons le projet de loi <Document DbId="9630600" Type="3">C-69</Document>, qu'on a qualifié de « projet de loi anti-pipelines ». Il n'est rien de tel. On peut avoir des réserves à son sujet, mais du point de vue du gouvernement, c'était un moyen de régler des enjeux environnementaux. Il nous a aussi permis d'instaurer certaines mesures en matière de pipelines et de ressources naturelles sans la constante possibilité de se retrouver éventuellement devant les tribunaux. Telle était l'intention, mais ce surnom dont on a affublé le projet de loi a rendu bien des gens méfiants et a suscité la division. Pendant cette législature, nous devons tenter d'éviter ce genre d'expressions, de nous en tenir aux faits et de rendre la Chambre plus efficace.</ParaText>
               <ParaText id="6017561">Regardons la première partie du discours du Trône, où il est question de lutte contre les changements climatiques: </ParaText>
               <ParaText id="6017562">
@@ -2370,7 +2371,7 @@
             <Content>
               <ParaText id="6017605">Monsieur le Président, je félicite la députée de son élection et de son arrivée ici. Comme elle vient de l'évoquer, il est grandement nécessaire que sa voix se fasse entendre à la Chambre des communes et partout au pays.</ParaText>
               <ParaText id="6017606">La députée a parlé des avis d'ébullition d'eau. Le gouvernement a fait des progrès considérables à cet égard, mais il reste encore beaucoup à faire. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> semble lui-même avoir clairement indiqué, tant par les mesures prises au cours de la dernière législature que dans le programme libéral et le discours du Trône, qu'il en a fait sa grande priorité. </ParaText>
-              <ParaText id="6017607">Dans ce dossier, il veut régler les problèmes et faire en sorte que les peuples autochtones d'un océan à l'autre trouvent la place qui leur revient au pays, qu'ils jouissent d'une économie en santé et du rayonnement de leur culture, et qu'ils soient en mesure prospérer et de partager leurs connaissances et leurs compétences avec les autres Canadiens.</ParaText>
+              <ParaText id="6017607">Dans ce dossier, il veut régler les problèmes et faire en sorte que les peuples autochtones d'un océan à l'autre trouvent la place qui leur revient au pays, qu'ils jouissent d'une économie en santé et du rayonnement de leur culture, et qu'ils soient en mesure de prospérer et de partager leurs connaissances et leurs compétences avec les autres Canadiens.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Rempel Garner" id="10725229">
@@ -2379,7 +2380,7 @@
             <Content>
               <ParaText id="6017608">Monsieur le Président, je tiens à remercier les habitants de Calgary Nose Hill, qui m'ont confié un mandat clair: défendre leurs intérêts, lutter pour eux et faire entendre leur voix à la Chambre. </ParaText>
               <ParaText id="6017609">Ce mandat m'a été confié par plus de 70 % des électeurs. J'ai fait du porte-à-porte. Des personnes qui avaient voté pour le Parti libéral ou le NPD m'ont parlé sérieusement, en me regardant dans le blanc des yeux. Elles m'ont dit qu'elles n'avaient jamais voté pour les conservateurs auparavant, mais qu'elles allaient voter pour moi parce que les choses vont très mal. Ces gens ont besoin que je défende leurs intérêts. Je ne me contenterai pas de les remercier en paroles; je me battrai pour eux tous les jours. </ParaText>
-              <ParaText id="6017610">Je veux expliquer aux 98 nouveaux députés ce qui se passe chez nous. Je veux leur dire ce qui arrive lorsque, en une période de temps très courte, 175 000 travailleurs de l'industrie primaire de la province se retrouvent soudainement au chômage. Ce ne sont pas les prix des matières premières qui sont en cause, comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a affirmé avec désinvolture ce matin — j'y reviendrai —, mais bien les politiques qui sont instaurées ici. </ParaText>
+              <ParaText id="6017610">Je veux expliquer aux 98 nouveaux députés ce qui se passe chez nous. Je veux leur dire ce qui arrive lorsque, en très peu de temps, 175 000 travailleurs de l'industrie primaire de la province se retrouvent soudainement au chômage. Ce ne sont pas les prix des matières premières qui sont en cause, comme le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> l'a affirmé avec désinvolture ce matin — j'y reviendrai —, mais bien les politiques qui sont instaurées ici. </ParaText>
               <ParaText id="6017611">Nos actions à la Chambre ont une incidence sur la façon dont les gens vivent dans toutes les régions du Canada. Les décisions prises pendant la dernière législature ont été synonymes de traumatismes, de suicides et de pertes de maisons, d'emplois et de familles pour les habitants de ma circonscription. Ce que nous faisons ici est important. Je me battrai pour les habitants de ma circonscription.</ParaText>
               <ParaText id="6017612">À l'heure actuelle, le taux de chômage dans ma province est l'un des taux soutenus les plus élevés au pays. Voilà la situation, mais elle n'est pas due aux prix des produits de base. Si c'était le prix des produits de base qui posait problème, pourquoi le secteur des ressources naturelles des États-Unis se porterait-il si bien? La situation est attribuable à une instabilité et à des décisions politiques qui empêchent le secteur de l'énergie de maintenir des emplois. Voilà la raison. La situation est due aux décisions prises ici.</ParaText>
               <ParaText id="6017613">En 2017, le taux de suicide en Alberta était de 14,9 par 100 000 personnes, soit un peu plus de 3 points de pourcentage de plus que dans le reste du Canada. C'est très élevé. En 2016, le service de police de Calgary a mis en œuvre l'opération Northern Spotlight, qui visait à aider les travailleurs du sexe de la ville. Je vais lire un témoignage.</ParaText>
@@ -2412,7 +2413,7 @@
               <Affiliation DbId="252532" Type="2">M. Kevin Lamoureux (Winnipeg-Nord, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6017634">Monsieur le Président, j'aimerais que la députée m'explique pourquoi le gouvernement dirigé par Stephen Harper n'a pas fait preuve d'une telle fougue et d'une telle combativité pendant les 10 années où il a été au pouvoir. Ce gouvernement n'a pas construit un seul pouce de pipeline pour acheminer le pétrole vers les côtes. En fait, lorsque Stephen Harper est devenu premier ministre, plus de 99 % du pétrole canadien passait par les États-Unis. Quand il a quitté le pouvoir, ce pourcentage n'avait pas changé.</ParaText>
-              <ParaText id="6017635">Où se trouvait le gouvernement conservateur lorsque est venu le temps d'investir dans les fonds de diversification de l'économie de l'Ouest? Les députés conservateurs sont restés les bras croisés. On parle des infrastructures et de la nécessité de collaborer avec les gouvernements pour veiller à ce que l'Alberta et les autres provinces de l'Ouest obtiennent des projets d'infrastructure solides et les fonds nécessaires à leur réalisation. Or, c'est le gouvernement libéral qui a concrétisé cette idée.</ParaText>
+              <ParaText id="6017635">Où se trouvait le gouvernement conservateur lorsqu'est venu le temps d'investir dans les fonds de diversification de l'économie de l'Ouest? Les députés conservateurs sont restés les bras croisés. On parle des infrastructures et de la nécessité de collaborer avec les gouvernements pour veiller à ce que l'Alberta et les autres provinces de l'Ouest obtiennent des projets d'infrastructure solides et les fonds nécessaires à leur réalisation. Or, c'est le gouvernement libéral qui a concrétisé cette idée.</ParaText>
               <ParaText id="6017636">Nous pouvons travailler ensemble pour améliorer les choses dans l'Ouest. Je suis très fier d'être Manitobain. En tant que militaire, j'ai servi en Alberta. Ma femme est originaire de la Saskatchewan, et de nombreux membres de ma famille vivent dans cette province. D'une manière ou d'une autre, nous avons tous des liens avec l'Ouest. J'adore mon pays et je me soucie de son sort. Je me soucie aussi énormément du sort de l'Ouest.</ParaText>
               <ParaText id="6017637">Ma collègue de l'Ouest ne conviendra-t-elle pas avec moi qu'il est temps de mettre de côté la partisanerie excessive et de commencer à travailler pour les gens des Prairies et tous les autres Canadiens?</ParaText>
             </Content>
@@ -2432,7 +2433,7 @@
               <Affiliation DbId="253655" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6017641">Nous allons devoir nous arrêter là pour aujourd'hui et nous reviendrons lundi. La députée disposera de deux minutes et 15 secondes pour répondre à des questions lorsque nous reprendrons le débat à ce sujet. </ParaText>
-              <ParaText id="6017642"> En conséquence, la Chambre s'ajourne à lundi prochain, à 11 heures, conformément au paragraphe 24(1) du Règlement.</ParaText>
+              <ParaText id="6017642"> En conséquence, la Chambre s'ajourne à lundi prochain, à 11 heures, conformément à l'article 24(1) du Règlement.</ParaText>
               <ParaText id="6017643">(La séance est levée à 14 h 31.)</ParaText>
             </Content>
           </Intervention>
