@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12517022">
-  <StartPageNumber>20019</StartPageNumber>
+  <StartPageNumber>20009</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -76,7 +76,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12517037">
-        <SubjectOfBusinessTitle>Les vœux du temps des Fêtes</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Noël</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Reid" id="12517038">
             <PersonSpeaking>
@@ -168,7 +168,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12517050">
-        <SubjectOfBusinessTitle>Remerciements à l'occasion de Noël</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des remerciements à l'occasion de Noël</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lewis (Essex)" id="12517051">
             <PersonSpeaking>
@@ -778,7 +778,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12517200">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les services publics et l'approvisionnement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'innovation, les sciences et l'industrie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Barrett" id="12517198">
             <PersonSpeaking>
@@ -1301,9 +1301,9 @@
             <Content>
               <ParaText id="8116217">Que tous ceux qui s'opposent à ce que la ministre propose la motion veuillent bien dire non.</ParaText>
               <ParaText id="8116218">La Chambre a entendu la motion. Que tous ceux qui s'opposent à la motion veuillent bien dire non.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="2">(La motion est adoptée.)</ProceduralText>
               <ParaText id="8116219">
                 <B>Des voix:</B> Bravo!</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="2">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -1397,6 +1397,8 @@
               <Affiliation DbId="278514" Type="2">M. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8116239">Monsieur le Président, j'interviens au sujet du rappel au Règlement soulevé par le député de <Affiliation DbId="278158" Type="2">Selkirk—Interlake—Eastman</Affiliation> concernant l'article 18 du Règlement et le décorum. Je voulais simplement souligner, à l'intention du député, qu'il n'y avait que 34 députés libéraux présents à la Chambre quand, d'après lui, ces votes ont eu lieu. J'aimerais savoir si le député souhaite dire quels sont les libéraux qui ont voté de cette façon. </ParaText>
+              <ParaText id="8776880">
+                <B>Le Président:</B> Nous allons plutôt passer aux affaires émanant des députés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2430,7 +2432,7 @@
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8116308">Je vais donner la parole au leader parlementaire du NPD dans un instant, mais si la Chambre le souhaite, nous pouvons entendre ces trois pétitions, puis revenir à la motion, comme il a été prévu.</ParaText>
-              <ParaText id="8116309"> Que tous ceux qui s'opposent à ce que le député propose la motion veuillent bien dire non.</ParaText>
+              <ParaText id="8116309"> D'accord?</ParaText>
               <ParaText id="8116310">
                 <B>Une voix:</B> Non.</ParaText>
               <ParaText id="8116311">
@@ -2868,7 +2870,7 @@
               <Affiliation DbId="278660" Type="2">M. Yves Perron</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8116474">Madame la Présidente, comme je le fais chaque fois qu'on me donne cette belle occasion, j'en profite pour dire qu’au Québec, nous connaissons moins la taxe sur le carbone, parce qu’elle ne s’applique pas chez nous. Nous participons à la bourse du carbone avec la Californie.</ParaText>
-              <ParaText id="8116475">Or, selon les chiffres que j’ai vus, la taxe sur le carbone serait responsable de 0,15 % de l’inflation qu’on vit actuellement. Le gros de l’inflation qu’on vit actuellement est provoqué effectivement par les grandes entreprises qui sont en situation d’oligopole et qui se prennent des profits faramineux, entre autres les épiceries, mais aussi, et surtout, les pétrolières. Bien sûr, il y a le contexte international.</ParaText>
+              <ParaText id="8116475">Or, selon les chiffres que j’ai lus, la taxe sur le carbone serait responsable de 0,15 % de l’inflation qu’on vit actuellement. Le gros de l’inflation qu’on vit actuellement est provoqué effectivement par les grandes entreprises qui sont en situation d’oligopole et qui se prennent des profits faramineux, entre autres les épiceries, mais aussi, et surtout, les pétrolières. Bien sûr, il y a le contexte international.</ParaText>
               <ParaText id="8116476">Si on prélève des sommes, je pense qu'il est aussi important de les investir et de les rendre disponibles pour améliorer nos technologies. Ces taxes ne servent pas à faire de l’argent ni à augmenter le coût de la vie, elles servent à améliorer notre performance environnementale.</ParaText>
             </Content>
           </Intervention>
@@ -2966,16 +2968,6 @@
               <ParaText id="8116507"> Je tiens à dire que je suis fier d'être membre d'un parti qui a poussé cette question en comité. Je suis fier qu'on en discute à la Chambre. Je terminerai en disant que je ne cesserai pas de me battre pour les gens ordinaires de ma circonscription et de m'assurer que nous exposons les profits des grandes sociétés et leur rôle dans la hausse de l'inflation au Canada.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Mendès" id="12518365">
-            <PersonSpeaking>
-              <Affiliation DbId="279225" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="8116508">Il est de mon devoir d'interrompre maintenant les délibérations sur la motion.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="8116509">Conformément à l'article 66(1) du Règlement, le débat sur la motion est transféré sous la rubrique Ordres émanant du gouvernement.</ParaText>
-            </Content>
-          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
     </OrderOfBusiness>
@@ -2984,6 +2976,7 @@
 AFFAIRES ÉMANANT DES DÉPUTÉS</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="12518377">
+        <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La Loi sur l'intégrité du secteur public</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -3355,9 +3348,9 @@ AFFAIRES ÉMANANT DES DÉPUTÉS</OrderOfBusinessTitle>
       <SubjectOfBusiness id="12518754">
         <SubjectOfBusinessQualifier>Les affaires autochtones</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <Intervention Type="Question" ToC="Yes" ToCText="Mr. Vuong" id="12518727">
+          <Intervention Type="Question" ToC="Yes" ToCText="M. Vuong" id="12518727">
             <PersonSpeaking>
-              <Affiliation DbId="278765" Type="2">Mr. Kevin Vuong (Spadina—Fort York, Ind.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278765" Type="2">M. Kevin Vuong (Spadina—Fort York, Ind.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8116647">Madame la Présidente, le 24 novembre, j'ai rappelé au gouvernement que l'accès à l'eau potable est un droit fondamental. Plus précisément, afin de faciliter l'accès des Premières Nations à de l'eau potable, j'ai demandé au gouvernement quand il compte fournir le financement approprié et les ressources techniques pour former et certifier des Autochtones afin qu'ils deviennent des opérateurs d'infrastructures d'approvisionnement en eau dans leurs communautés. À cet égard, j'ai également demandé à la <Affiliation DbId="278911" Type="4">ministre des Services aux Autochtones</Affiliation> si elle pouvait indiquer si les opérateurs autochtones seront rémunérés à un niveau qui élimine l'écart salarial avec les opérateurs des collectivités non autochtones.</ParaText>
               <ParaText id="8116648">Nous sommes en 2023, le Canada est un pays du G7 et le gouvernement essaie toujours de prétendre qu'il se soucie profondément des Premières Nations. Les Autochtones doivent avoir la formation, les compétences et les emplois nécessaires pour fournir à leurs communautés du personnel qualifié et de l'eau potable. Avant que la <Affiliation DbId="300658" Type="18">secrétaire parlementaire</Affiliation> ne débite les formules toutes faites du gouvernement sur le récent projet de loi <Document DbId="12774114" Type="3">C‑61</Document>, prenons quelques instants pour examiner ce prétendu miracle législatif.</ParaText>

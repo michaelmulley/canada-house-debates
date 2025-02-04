@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11732139">
-  <StartPageNumber>6075</StartPageNumber>
+  <StartPageNumber>6073</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -41,8 +41,7 @@
       <Prayer>Prière</Prayer>
     </Intro>
     <OrderOfBusiness id="11732144" Rubric="Other">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11732145">
         <SubjectOfBusinessTitle>
@@ -56,8 +55,7 @@
       <SubjectOfBusiness id="11732176">
         <Timestamp Hr="10" Mn="00">(1000)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>
-      Décision de la présidence</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Décision de la présidence</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="La vice-présidente adjointe (Mme Alexandra Mendès)" id="11732146">
             <PersonSpeaking>
@@ -1004,8 +1002,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11732309" Rubric="StatementsByMembers">
-      <OrderOfBusinessTitle>
-      Déclarations de députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Déclarations de députés</OrderOfBusinessTitle>
       <CatchLine>Déclarations de députés</CatchLine>
       <SubjectOfBusiness id="11732312">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1029,8 +1026,8 @@
             <PersonSpeaking>
               <Affiliation DbId="278533" Type="2">M. Michael Kram (Regina—Wascana, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7208891">[<I>Le député s'exprime en filipino</I>]</ParaText>
-              <ParaText id="7208892">[<I>Traduction</I>]</ParaText>
+              <ParaText id="7208891">[<I>Le député s'exprime en filipino.</I>]</ParaText>
+              <ParaText id="7208892" Continuation="True">[<I>Traduction</I>]</ParaText>
               <ParaText id="7208893">Madame la Présidente, joyeux Mois du patrimoine philippin. </ParaText>
               <ParaText id="7208894">Juin est le Mois du patrimoine philippin. C'est l'occasion pour les Canadiens de célébrer avec leurs voisins et leurs amis d'origine philippine. Au fil des ans, les Canadiens d'origine philippine ont contribué de plusieurs façons à l'économie et à la diversité culturelle du Canada, notamment en ouvrant des dizaines de restaurants Jollibee un peu partout au pays. Il y en a d'ailleurs un sur la rue Quance, à Regina, près de mon bureau de circonscription.</ParaText>
               <ParaText id="7208895">Pour célébrer ce mois spécial, les Philippino-Canadiens hisseront leur drapeau et chanteront leur hymne national, dont le titre, <I>Lupang Hinirang</I>, signifie « terre choisie ».</ParaText>
@@ -1124,7 +1121,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278415" Type="2">Mme Marie-France Lalonde (Orléans, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7208914">Madame la Présidente, entant que résidante et députée d'Orléans, je veux partager les histoires et les réalisations incroyables de deux membres de notre communauté.</ParaText>
+              <ParaText id="7208914">Madame la Présidente, en tant que résidante et députée d'Orléans, je veux faire connaître les histoires et les réalisations incroyables de deux membres de notre communauté.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7208915">Tout d'abord, je veux souligner une réalisation de Stephen Poloz, ancien gouverneur de la Banque du Canada et finaliste pour le prix Shaughnessy Cohen en rédaction politique. L'ouvrage de M. Poloz, <I>The Next Age of Uncertainty: How the World Can Adapt to a Riskier Future</I>, dresse un portrait des forces puissantes qui façonnent notre avenir et constitue un guide indispensable pour naviguer dans un monde incertain.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -1797,7 +1794,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11732670">
-        <SubjectOfBusinessTitle>Les services gouvernementaux</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Service Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Gray" id="11732668">
             <PersonSpeaking>
@@ -1847,7 +1844,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11732684">
-        <SubjectOfBusinessTitle>Les services gouvernementaux</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Service Canada</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Arnold" id="11732683">
             <PersonSpeaking>
@@ -1868,7 +1865,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11732878">
-        <SubjectOfBusinessTitle>Les politiques gouvernementales</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'industrie touristique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ferreri" id="11732689">
             <PersonSpeaking>
@@ -2148,7 +2145,7 @@
             </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="5">Motion d'adoption</ProceduralText>
-              <ParaText id="7209125">propose que le premier rapport du Comité permanent des comptes publics, présenté le mardi 8 février 2022, soit adopté.</ParaText>
+              <ParaText id="7209125">propose que le premier rapport du Comité permanent des comptes publics, présenté le mardi 8 février, soit adopté.</ParaText>
               <ParaText id="7209126">— Madame la Présidente, je suis heureux d'intervenir pour proposer l'adoption du premier rapport du Comité permanent des comptes publics, présenté à la Chambre le mardi 8 février 2022.</ParaText>
               <ParaText id="7209127">Le Comité permanent des comptes publics est probablement considéré comme l'un des comités de la Chambre des communes qui a le plus de pouvoir. Je dirais en effet qu'il a plus beaucoup plus d'influence que d'autres. C'est l'un des très rares comités où les sous-ministres sont tenus de se présenter afin de répondre aux questions des députés, mais aussi d'expliquer les manquements qui ressortent fréquemment dans les rapports de la vérificatrice générale. Le rapport qui m'intéresse aujourd'hui est celui intitulé « Rapport 1, L'approvisionnement en solutions de technologies de l'information, des Rapports 2021 de la vérificatrice générale du Canada ».</ParaText>
               <ParaText id="7209128">Ce rapport a été présenté lors de la deuxième session de la 43<Sup>e</Sup> législature, en juin 2021. J'ai eu l'immense privilège d'occuper brièvement le siège de la présidence du comité des comptes publics, un comité permanent de la Chambre des communes, à la fin de l'année dernière et au début de cette année.</ParaText>

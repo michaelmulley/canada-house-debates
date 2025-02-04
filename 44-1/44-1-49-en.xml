@@ -78,7 +78,8 @@
               <ParaText id="7040651">Mr. Speaker, this weekend Muslims in Pickering—Uxbridge, across Canada and around the world will mark the beginning of the holy month of Ramadan, a time where Muslims will embark on a month-long journey of fasting and prayer.</ParaText>
               <ParaText id="7040652">Over the years, I have had the opportunity to host Iftars and join our Muslim community at the Masjid Usman, where we are reminded that Ramadan also serves as a time to put the needs of others before our own.</ParaText>
               <ParaText id="7040653">As Muslims fast during the day, they reflect on the values at the heart of Islam: service to others, gratitude and compassion. These values continue to resonate now more than ever. Muslim Canadians have made and continue to make invaluable contributions to our country, from serving on the front lines during COVID-19 to supporting numerous community initiatives, including collecting food during Ramadan for families in need.</ParaText>
-              <ParaText id="7040654">May this month be a blessed one. <I>Ramadan kareem, mubarak alaikum al shahar</I>.</ParaText>
+              <ParaText id="7040654">May this month be a blessed one.</ParaText>
+              <ParaText id="7617172">[<I>Member spoke in Arabic</I>]</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -106,7 +107,7 @@
               <Affiliation DbId="278131" Type="2">Ms. Lena Metlege Diab (Halifax West, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7040658">Mr. Speaker, I am privileged to rise with overwhelming pride to share news of a significant and historic celebration. The Lebanese Maronite Catholics at Our Lady of Lebanon parish will officially launch the celebrations of the opening of our new church and Cedar Event Centre in Halifax West.</ParaText>
-              <ParaText id="7040659">On the the last weekend of April, the community will gather for a solemn mass and dinner banquet alongside His Excellency Bishop Paul-Marwan Tabet. I want to acknowledge all those whose donations, generosity, time, effort and vision went into realizing this tremendous accomplishment.</ParaText>
+              <ParaText id="7040659">On the last weekend of April, the community will gather for a solemn mass and dinner banquet alongside His Excellency Bishop Paul-Marwan Tabet. I want to acknowledge all those whose donations, generosity, time, effort and vision went into realizing this tremendous accomplishment.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="7040660">Our church is the heart of our religious, social and cultural life.</ParaText>
               <ParaText id="7040661">I am deeply grateful to everyone who contributed over many years.</ParaText>
@@ -426,7 +427,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11599245">
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Albas" id="11599071">
             <PersonSpeaking>
@@ -536,7 +537,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11599108">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mrs. Kusie" id="11599107">
             <PersonSpeaking>
@@ -1019,7 +1020,12 @@
               <ParaText id="7040857">They asked for short-term assistance, but they have also clearly said that in the mid-term and the long-term, they are working toward renewables. It is in the 10-point plan from the International Energy Agency. We are working with them to support them into the future and right now in their time of need.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11622526">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Public Services and Procurement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Lambropoulos" id="11599271">
             <PersonSpeaking>
               <Affiliation DbId="231680" Type="2">Ms. Emmanuella Lambropoulos (Saint-Laurent, Lib.)</Affiliation>: </PersonSpeaking>
@@ -1110,7 +1116,7 @@
               <Affiliation DbId="278914" Type="4">Hon. Ahmed Hussen (Minister of Housing and Diversity and Inclusion, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7040876">Mr. Speaker, I want to thank the hon. member for <Affiliation DbId="278537" Type="2">Richmond Hill</Affiliation> for his important question and his advocacy with respect to chronic homelessness. </ParaText>
-              <ParaText id="7040877">We understand as a government that the pandemic has made worse existing housing challenges for Canada's most vulnerable people. That is why we introduced an investment of $2.5 billion through the rapid housing initiative to create over 10,000 new permanent affordable homes and provided $567 million to Reaching Home, so that frontline organization like the the member mentioned can fight homelessness and end chronic homelessness on the ground. On this side of the House, we are committed to ending chronic homelessness once and for all.</ParaText>
+              <ParaText id="7040877">We understand as a government that the pandemic has made worse existing housing challenges for Canada's most vulnerable people. That is why we introduced an investment of $2.5 billion through the rapid housing initiative to create over 10,000 new permanent affordable homes and provided $567 million to Reaching Home, so that frontline organization like the member mentioned can fight homelessness and end chronic homelessness on the ground. On this side of the House, we are committed to ending chronic homelessness once and for all.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1169,7 +1175,9 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11600678">
-        <SubjectOfBusinessTitle>Official Report</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Correction to Official Report</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Qualtrough" id="11599356">
             <PersonSpeaking>
@@ -1971,8 +1979,6 @@
               <ParaText id="7040996">It is my duty, pursuant to Standing Order 38, to inform the House that the questions to be raised tonight at the time of adjournment are as follows: the hon. member for <Affiliation DbId="278504" Type="2">Dufferin—Caledon</Affiliation>, Taxation; the hon. member for <Affiliation DbId="278703" Type="2">Courtenay—Alberni</Affiliation>, Health; the hon. member for <Affiliation DbId="278517" Type="2">Kenora</Affiliation>, Health.</ParaText>
               <ParaText id="7040997">It is my duty to interrupt the proceedings at this time and put forthwith the question on the motion now before the house.</ParaText>
               <ParaText id="7040998">The question is on the motion. Shall I dispense?</ParaText>
-              <ParaText id="7040999">
-                <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="7041000">
                 <B>Some hon. members:</B> No.</ParaText>
               <ParaText id="7041001">[<I>Chair read text of motion to House</I>]</ParaText>
@@ -2409,7 +2415,7 @@
               <ParaText id="7041024">Canada is not alone in recognizing that the increase in the indiscriminate use of MMPs is problematic. They have proven to be costly and ineffective in reducing crime. Indeed, other nations have move away from this regime because it encourages cycles of crime. </ParaText>
               <ParaText id="7041025">MMPs are a failed policy, and we are turning the ship around. What we propose is a necessary reset for our criminal law, which is necessary to address systemic racism in the criminal justice system. This policy change is necessary, but further work must also be done. </ParaText>
               <ParaText id="7041026">We are also developing an indigenous justice strategy in collaboration with indigenous peoples, and we are developing a Black Canadian justice strategy. We will continue to address the social determinants of crime. Every action that we take to improve access to housing, mental health care, addiction treatment and youth employment helps build a safer country. Criminal justice policy is not developed in a vacuum, and we must do more so that we are better informed.</ParaText>
-              <ParaText id="7041027">In my life, I have come to understand certain principles and rules, and that we are not just our mistakes. We are not just the worst thing that we have ever done. I believe we are more than that. As a society, we should make no mistake that we will be judged for our reason and our intelligence and for our technology and tools. We will be judged by the towers we build. Ultimately, our society will be judged for not how we treat the powerful, the rich and the privileged, but for how we treat the poor and condemned.</ParaText>
+              <ParaText id="7041027">In my life, I have come to understand certain principles and rules, and that we are not just our mistakes. We are not just the worst thing that we have ever done. I believe we are more than that. As a society, we should make no mistake that we will not be judged for our reason and our intelligence and for our technology and tools. We will not be judged by the towers we build. Ultimately, our society will be judged not for how we treat the powerful, the rich and the privileged, but for how we treat the poor and condemned.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
@@ -2995,7 +3001,7 @@
               </ParaText>
               <ParaText id="7041245">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">When illness leads to bankruptcy or debt, we need to ask ourselves some questions as a society, as Canadians. As Terry Fox put it so well, not all marathons are won at the the finish line. Elected officials, you have a chance to make a real difference for the 229,200 Canadians who will receive a cancer diagnosis this year. </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">When illness leads to bankruptcy or debt, we need to ask ourselves some questions as a society, as Canadians. As Terry Fox put it so well, not all marathons are won at the finish line. Elected officials, you have a chance to make a real difference for the 229,200 Canadians who will receive a cancer diagnosis this year. </QuotePara>
                 </Quote>
               </ParaText>
               <Timestamp Hr="18" Mn="45">(1845)</Timestamp>

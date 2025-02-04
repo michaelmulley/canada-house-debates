@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11908082">
-  <StartPageNumber>9331</StartPageNumber>
+  <StartPageNumber>9327</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -51,7 +51,7 @@
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Fortier (for the Deputy Prime Minister and Minister of Finance)" id="11908136">
             <PersonSpeaking>
-              <Affiliation DbId="278907" Type="4">Hon. Mona Fortier </Affiliation> (for the Deputy Prime Minister and Minister of Finance) </PersonSpeaking>
+              <Affiliation DbId="278907" Type="4">Hon. Mona Fortier </Affiliation> (for the Minister of Finance) </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="1">Motion for concurrence</ProceduralText>
               <ParaText id="7397047"> moved that a ways and means motion to amend the Income Tax Act, related text and other text be concurred in. </ParaText>
@@ -428,7 +428,7 @@
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Fortier (for the Deputy Prime Minister and Minister of Finance)" id="11908256">
             <PersonSpeaking>
-              <Affiliation DbId="278314" Type="2">Hon. Mona Fortier </Affiliation> (for the Deputy Prime Minister and Minister of Finance) </PersonSpeaking>
+              <Affiliation DbId="278314" Type="2">Hon. Mona Fortier </Affiliation> (for the Minister of Finance) </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="3">Bill C-32. Introduction and first reading</ProceduralText>
               <ParaText id="7397054"> moved that Bill <Document DbId="12038143" Type="3">C-32, An Act to implement certain provisions of the fall economic statement tabled in Parliament on November 3, 2022 and certain provisions of the budget tabled in Parliament on April 7, 2022</Document>, be read the first time and printed.</ParaText>
@@ -439,14 +439,14 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11908241">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Digital Charter Implementation Act, 2022.</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Digital Charter Implementation Act, 2022</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Champagne" id="11908244">
             <PersonSpeaking>
               <Affiliation DbId="271243" Type="4">Hon. François-Philippe Champagne (Minister of Innovation, Science and Industry, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ParaText id="7397055"> moved that Bill <Document DbId="11873796" Type="3">C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</Document> be read the second time and referred to a committee.</ParaText>
+              <ParaText id="7397055"> moved that Bill <Document DbId="11873796" Type="3">C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</Document>, be read the second time and referred to a committee.</ParaText>
               <ProceduralText TocType="TPC" id="5">Bill C‑27. Second reading</ProceduralText>
               <ParaText id="7397056">He said: Madam Speaker, I thank my colleagues on the other side of the House for their enthusiasm this morning. I am extremely proud to speak today to Bill C-27, a bill to implement Canada's digital charter 2022. This bill will help us better protect our children in the digital age. </ParaText>
               <ParaText id="7397057">I am also proud because our government continues to show leadership in an ever-changing world. In 2019, we launched Canada's Digital Charter, a set of 10 core principles intended to build trust in a digital world.</ParaText>
@@ -764,7 +764,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11908307">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Charlevoix Cancer Support Group</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Mains de l'Espoir de Charlevoix</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Desbiens" id="11908308">
             <PersonSpeaking>
@@ -878,11 +878,16 @@
             <PersonSpeaking>
               <Affiliation DbId="279282" Type="18">Mr. Terry Beech (Parliamentary Secretary to the Deputy Prime Minister and Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7397174">Madam Speaker, I am happy to talk about the fall economic statement, because it puts forward a plan that grows our fiscal advantage by continuing to reduce our debt-to-GDP ratio, creating new and sustainable jobs through the Canada growth fund, reducing credit card transaction fees for small businesses, accelerating Canada clean's transition, commercializing Canada's world-class research and development, investing in youth employment and cutting taxes for small businesses. We are making life more affordable. We are growing an economy that works for everyone.</ParaText>
+              <ParaText id="7397174">Madam Speaker, I am happy to talk about the fall economic statement, because it puts forward a plan that grows our fiscal advantage by continuing to reduce our debt-to-GDP ratio, creating new and sustainable jobs through the Canada growth fund, reducing credit card transaction fees for small businesses, accelerating Canada's clean transition, commercializing Canada's world-class research and development, investing in youth employment and cutting taxes for small businesses. We are making life more affordable. We are growing an economy that works for everyone.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11908738">
+        <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Berthold" id="11908338">
             <PersonSpeaking>
               <Affiliation DbId="278386" Type="2">Mr. Luc Berthold (Mégantic—L'Érable, CPC)</Affiliation>: </PersonSpeaking>
@@ -897,7 +902,7 @@
               <Affiliation DbId="279283" Type="18">Ms. Rachel Bendayan (Parliamentary Secretary to the Minister of Tourism and Associate Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7397178">Madam Speaker, I thank my hon. colleague for his question. It is a pleasure to rise and speak about our economic update.</ParaText>
-              <ParaText id="7397179">Today is actually the day that 11 million Canadian households will see the the goods and services tax credit deposited in their bank accounts. I find it astounding that the Conservative members are talking about tax hikes. I am talking about tax credits, the doubling of a tax credit for 11 million Canadians. That is real money in the pockets of those who need it.</ParaText>
+              <ParaText id="7397179">Today is actually the day that 11 million Canadian households will see the goods and services tax credit deposited in their bank accounts. I find it astounding that the Conservative members are talking about tax hikes. I am talking about tax credits, the doubling of a tax credit for 11 million Canadians. That is real money in the pockets of those who need it.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Berthold" id="11908343">
@@ -1002,7 +1007,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11908369">
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mr. Hallan" id="11908368">
             <PersonSpeaking>
@@ -1292,7 +1297,7 @@
               <Affiliation DbId="279294" Type="18">Mr. Peter Fragiskatos (Parliamentary Secretary to the Minister of National Revenue, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7397270">Madam Speaker, the member knows very well that I cannot comment on specific cases, but what I can say is that our entire social safety net depends on the principle of tax fairness and people paying their fair share.</ParaText>
-              <ParaText id="7397271">That is why this government, since 2015, has invested $1 billionaire to counter tax avoidance, and we will continue to do that. It is yielding results. Just in response to the Panama papers, which I know the member has raised before, there have been 900 individuals identified as subjects of concern by the CRA. There are hundreds of audits being looked into and closed as well.</ParaText>
+              <ParaText id="7397271">That is why this government, since 2015, has invested $1 billion to counter tax avoidance, and we will continue to do that. It is yielding results. Just in response to the Panama papers, which I know the member has raised before, there have been 900 individuals identified as subjects of concern by the CRA. There are hundreds of audits being looked into and closed as well.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1628,7 +1633,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278631" Type="2">Ms. Rachel Blaney (North Island—Powell River, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7397347">Madam Speaker, the union of veterans affairs employees has been raising the alarm about service delivery at Veterans Affairs Canada. They have serious concerns about the <Affiliation DbId="246259" Type="4">minister</Affiliation>'s ability to eliminate the backlog and manage human resources and his plan to outsource service delivery to a private contractor. Veterans tell me that VAC's quality of service has been slipping and that they and their families are the ones paying the price.</ParaText>
+              <ParaText id="7397347">Madam Speaker, the Union of Veterans' Affairs Employees has been raising the alarm about service delivery at Veterans Affairs Canada. They have serious concerns about the <Affiliation DbId="246259" Type="4">minister</Affiliation>'s ability to eliminate the backlog and manage human resources and his plan to outsource service delivery to a private contractor. Veterans tell me that VAC's quality of service has been slipping and that they and their families are the ones paying the price.</ParaText>
               <ParaText id="7397348">Does the <Affiliation DbId="246259" Type="4">minister</Affiliation> understand that veterans need him to step up or step out?</ParaText>
             </Content>
           </Intervention>
@@ -1795,13 +1800,6 @@
         <SubjectOfBusinessContent>
           <ParaText id="7397373">The House resumed consideration of the motion that Bill <Document DbId="11873796" Type="3">C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</Document>, be read the second time and referred to a committee.</ParaText>
           <ProceduralText TocType="TPC" id="6">Bill C‑27. Second reading</ProceduralText>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="11908637">
-            <PersonSpeaking>
-              <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7397374">The Minister of Innovation, Science and Industry has eight minutes to finish his speech.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Champagne" id="11908638">
             <PersonSpeaking>
               <Affiliation DbId="271243" Type="4">Hon. François-Philippe Champagne (Minister of Innovation, Science and Industry, Lib.)</Affiliation>: </PersonSpeaking>
@@ -1958,7 +1956,7 @@
               <ParaText id="7397446">However, Bill <Document DbId="11873796" Type="3">C-27</Document> would take something that was meant to be quite exceptional for consent in the European Union's privacy laws and make it a potentially more mainstream basis for the use of data without acknowledging consent. Why would it do this? It is because Bill C-27 places privacy on par with commercial interests in using personal data, something that would not happen if privacy was noted in the bill as a fundamental right for Canadians. </ParaText>
               <ParaText id="7397447">Additionally, we need to be wary of consent. As a mandatory, consent should be made easier. Has anyone ever looked at their iPhone when agreeing to consent and scrolled down? Has anyone actually read all that? Has anyone read Google's 38 pages of consent every time they sign up or use Google? </ParaText>
               <ParaText id="7397448">Consent is not easy. It is not simple, and certainly this proposed law would not make it any simpler. We need to be wary of consent, and we need to ensure that consent is consensual, both in language and intent, and that we all know exactly what we are signing up to do, to give and to receive.</ParaText>
-              <ParaText id="7397449">There is another term I want to explain as well called “de-identification”. The bill talks a lot about de-identification, and its definition is that it “means to modify personal information so that an individual cannot be directly identified from it,” and then goes on to say “a risk of the individual being identified remains.” Therefore, an individual would lose all their information, but a risk of identifying an individual would remain.</ParaText>
+              <ParaText id="7397449">There is another term I want to explain as well called “de-identification”. The bill talks a lot about de-identification, and its definition is that it “means to modify personal information so that an individual cannot be directly identified from it,” and then goes on to say, “a risk of the individual being identified remains.” Therefore, an individual would lose all their information, but a risk of identifying an individual would remain.</ParaText>
               <ParaText id="7397450">Members will remember my Telus data for good example. Telus gave this information to the government during COVID, even though a risk of the individual being identified remained. It should be scrapped, and instead we should be using the word “anonymize”, which is also in the bill. This is what the GDPR does. In the bill, it “means to irreversibly and permanently modify personal information, in accordance with generally accepted best practices, to ensure that no individual can be identified from the information, whether directly or indirectly, by any means.”</ParaText>
               <ParaText id="7397451">I would ask members which one they would prefer. Would they like to be re-identified, as there is a possibility, or would they like no identification by any means?</ParaText>
               <ParaText id="7397452">Another major flaw in Bill <Document DbId="11873796" Type="3">C-27</Document> is the creation of a bureaucratic tribunal instead of giving the Privacy Commissioner more bite. The creation of a tribunal is a time-waster, and the Privacy Commissioner should be allowed to levy fines. The Privacy Commissioner should be given more power and more bite. This is unclear because the EU, the U.K., New Zealand and Australia do not have tribunals that mediate their fines for privacy violations. Furthermore, it would no doubt cause those who have had their privacy violated to have to wait for years for the right of action.</ParaText>
@@ -1990,7 +1988,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279317" Type="18">Mr. Mark Gerretsen (Parliamentary Secretary to the Leader of the Government in the House of Commons (Senate), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7397473">Mr. Speaker,I found the hon. member's intervention to be quite fascinating. He spent a lot of time talking about fundamental human rights and using rights-based language, yet today the Conservatives' provincial cousins in Ontario are literally trampling all over those rights by using the notwithstanding clause in legislation to force people to work before even allowing a court to weigh in on whether it is appropriate or if the law that they created was appropriate.</ParaText>
+              <ParaText id="7397473">Mr. Speaker, I found the hon. member's intervention to be quite fascinating. He spent a lot of time talking about fundamental human rights and using rights-based language, yet today the Conservatives' provincial cousins in Ontario are literally trampling all over those rights by using the notwithstanding clause in legislation to force people to work before even allowing a court to weigh in on whether it is appropriate or if the law that they created was appropriate.</ParaText>
               <ParaText id="7397474">I am wondering, with all of this talk about fundamental rights, would the member agree that these should be rights that are not subject to a notwithstanding clause or should not be able to be trampled all over, like their provincial cousins are doing in Ontario right now.</ParaText>
             </Content>
           </Intervention>
@@ -2224,7 +2222,7 @@
             <Content>
               <ParaText id="7397568">Madam Speaker, I thank my hon. colleague for that excellent question. At this point, we do need some parameters we can use to define the tribunal's role and the Privacy Commissioner's role. I think the commissioner should have a little more power.</ParaText>
               <ParaText id="7397569">I am usually on the Standing Committee on Access to Information, Privacy and Ethics, but this time around, I will be on the Standing Committee on Industry and Technology because I want to make sure this work gets done. I will make sure that we do this work rigorously, that we take a non-partisan approach to assessing this bill and that we get everyone on board with the bill.</ParaText>
-              <ParaText id="7397570">Let me reiterate that this bill will have an impact on people's lives in the future. That is why we cannot let it become a political tool. I do not think it is one at this point, but I want to make sure it never becomes one. We will have to clearly define the roles of the tribunal and the Conflict of Interest and Ethics Commissioner, as well as those of the higher courts, which may want to rule on these matters. There is some confusion about these roles that needs to be cleared up.</ParaText>
+              <ParaText id="7397570">Let me reiterate that this bill will have an impact on people's lives in the future. That is why we cannot let it become a political tool. I do not think it is one at this point, but I want to make sure it never becomes one. We will have to clearly define the roles of the tribunal and the Privacy Commissioner, as well as those of the higher courts, which may want to rule on these matters. There is some confusion about these roles that needs to be cleared up.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -2406,6 +2404,13 @@
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="11908637">
+            <PersonSpeaking>
+              <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="7397374">The hon. member for Calgary Forest Lawn has five minutes for his right of reply.</ParaText>
+            </Content>
+          </Intervention>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mr. Hallan" id="11909428">
             <PersonSpeaking>
               <Affiliation DbId="278453" Type="2">Mr. Jasraj Singh Hallan (Calgary Forest Lawn, CPC)</Affiliation>: </PersonSpeaking>

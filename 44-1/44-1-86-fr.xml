@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11754394">
-  <StartPageNumber>6517</StartPageNumber>
+  <StartPageNumber>6515</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -46,7 +46,7 @@
       <SubjectOfBusiness id="11754513">
         <Timestamp Hr="10" Mn="00">(1000)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>	Affaire émanant du gouvernement n<Sup>o</Sup> 16 — Les délibérations sur le projet de loi C‑11</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'affaire émanant du gouvernement n<Sup>o</Sup> 16 — Les délibérations sur le projet de loi C‑11</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Fortier (au nom du leader du gouvernement à la Chambre des communes)" id="11754484">
             <PersonSpeaking>
@@ -648,7 +648,7 @@
     </OrderOfBusiness>
     <OrderOfBusiness id="11754733" Rubric="OralQuestionPeriod">
       <OrderOfBusinessTitle>QUESTIONS ORALES</OrderOfBusinessTitle>
-      <CatchLine> Questions orales</CatchLine>
+      <CatchLine>Questions orales</CatchLine>
       <SubjectOfBusiness id="11754737">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La santé</SubjectOfBusinessTitle>
@@ -1148,7 +1148,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11754852">
-        <SubjectOfBusinessTitle>Les changements climatiques</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le changement climatique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Louis" id="11754851">
             <PersonSpeaking>
@@ -1357,8 +1357,13 @@
               <ParaText id="7230831">Monsieur le Président, ArriveCAN continue d'être un outil essentiel et intuitif pour protéger les Canadiens alors que nous rouvrons les frontières et que nous relançons l'économie. Grâce à cette application, nous avons simplifié le processus de réouverture, et les voyages ont en conséquence augmenté de 707 % par rapport au sommet de la pandémie. Il ne faut que quelques minutes aux voyageurs vaccinés pour remplir le formulaire d'ArriveCAN. Plus de 99 % des voyageurs par voies aérienne et maritime et 94 % des voyageurs par voie terrestre se sont conformés, ce qui a permis de gagner en efficacité.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11754800">
+        <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les passeports</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lehoux" id="11754901">
             <PersonSpeaking>
               <Affiliation DbId="278404" Type="2">M. Richard Lehoux (Beauce, PCC)</Affiliation>: </PersonSpeaking>
@@ -2315,11 +2320,8 @@
             <Content>
               <ParaText id="7231075">Je suis désolé de devoir interrompre le député, mais le temps est écoulé.</ParaText>
               <ParaText id="7231076">Nous passons aux questions et observations. Le député de Lac‑Saint‑Louis a la parole.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7231077">La parole est à l'honorable député de Lac-Saint‑Louis pour les questions et commentaires.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Scarpaleggia" id="11755655">
             <PersonSpeaking>
               <Affiliation DbId="278347" Type="2">M. Francis Scarpaleggia (Lac-Saint-Louis, Lib.)</Affiliation>: </PersonSpeaking>

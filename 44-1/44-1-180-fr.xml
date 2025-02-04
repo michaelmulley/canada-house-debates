@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12143654">
-  <StartPageNumber>13121</StartPageNumber>
+  <StartPageNumber>13119</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -1199,8 +1199,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12145200" Rubric="PointofOrder">
-      <OrderOfBusinessTitle>
-       Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="12145214">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1295,6 +1294,7 @@
         <SubjectOfBusinessContent>
           <ParaText id="7697862">	
 La Chambre reprend l'étude, interrompue le 18 avril, de la motion.</ParaText>
+          <ProceduralText TocType="TPC" id="4">Motion d'adoption</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12144009">
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -1658,7 +1658,7 @@ La Chambre reprend l'étude, interrompue le 18 avril, de la motion.</ParaText>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7697866">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="4">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Adoption de la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1672,7 +1672,7 @@ La Chambre reprend l'étude, interrompue le 18 avril, de la motion.</ParaText>
         <SubjectOfBusinessTitle>La Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7697867">La Chambre reprend l'étude, interrompue le 18 avril, de la motion portant que le projet de loi <Document DbId="11543535" Type="4">C‑239, Loi modifiant la Loi permettant de faire certains paiements fiscaux aux provinces et autorisant la conclusion d’accords avec les provinces pour la perception de l’impôt, </Document> soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="5">Projet de loi C-239. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Projet de loi C-239. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12144027">
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -2033,7 +2033,7 @@ La Chambre reprend l'étude, interrompue le 18 avril, de la motion.</ParaText>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7697870">Je déclare la motion rejetée.</ParaText>
-              <ProceduralText TocType="TPC" id="6"> Rejet de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7"> Rejet de la motion</ProceduralText>
               <ParaText id="7697871">Je désire informer la Chambre que, en raison des votes par appel nominal différés, l'étude des ordres émanant du gouvernement sera prolongée de 25 minutes.</ParaText>
             </Content>
           </Intervention>
@@ -2473,7 +2473,7 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
         <SubjectOfBusinessTitle>Le budget</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>L'exposé financier de la ministre des Finances</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
+          <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
           <ParaText id="7697958">La Chambre reprend l'étude, interrompue le 18 avril, de la motion portant que la Chambre approuve la politique budgétaire générale du gouvernement.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Therrien" id="12144158">
             <PersonSpeaking>
@@ -2804,7 +2804,7 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
               <Affiliation DbId="293768" Type="18">Mme Rachel Bendayan</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7698103">Monsieur le Président, je suis heureuse de pouvoir parler de notre soutien à l'Ukraine. Ce n'est pas un sujet dont j'ai parlé en détail dans mon discours, mais je suis ravie d'en parler maintenant.</ParaText>
-              <ParaText id="7698104">Le gouvernement a octroyé plus de 5 milliards de dollars au soutien des Ukrainiens dans leur lutte contre la Russie. Le président Zelenski a reconnu le Canada comme l'un des principaux pays soutenant l'Ukraine. On nous a remerciés à maintes reprises du rôle prépondérant que nous avons joué dans les discussions au G7 et au G20 pour garantir que l'Ukraine reçoive du soutien de partout dans le monde. Par ailleurs, nos chars Leopard sont arrivés en Ukraine.</ParaText>
+              <ParaText id="7698104">Le gouvernement a octroyé plus de 5 milliards de dollars au soutien des Ukrainiens dans leur lutte contre la Russie. Le président Zelensky a reconnu le Canada comme l'un des principaux pays soutenant l'Ukraine. On nous a remerciés à maintes reprises du rôle prépondérant que nous avons joué dans les discussions au G7 et au G20 pour garantir que l'Ukraine reçoive du soutien de partout dans le monde. Par ailleurs, nos chars Leopard sont arrivés en Ukraine.</ParaText>
               <ParaText id="7698105">Cela dit, je voudrais souligner que le député d'en face a voté en faveur d'une levée des sanctions imposées à la Russie en ce qui concerne les engrais. Ce n'est pas le moment de lever les sanctions contre la Russie. Il est temps de faire preuve de fermeté à l'égard de la Russie, et il est gênant que les conservateurs souhaitent affaiblir notre régime de sanctions.</ParaText>
             </Content>
           </Intervention>
@@ -2849,7 +2849,7 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
               <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
               <ParaText id="7698125">Les Canadiens ont plus que jamais besoin de soins en matière de santé mentale, mais le gouvernement libéral refuse d'activer la ligne d'urgence 988 que mon collègue, le député de <Affiliation DbId="278547" Type="2">Cariboo—Prince George</Affiliation>, réclame depuis des années, en vain.</ParaText>
               <ParaText id="7698126">Au cours des deux dernières années, le gouvernement a embauché des milliers de fonctionnaires. La fonction publique compte maintenant 31 000 employés à temps plein de plus. Pourtant, les délais d'attente sont plus longs que lorsqu'il y avait moins de fonctionnaires. Le gouvernement dépense plus d'argent, mais la population obtient moins de services. C'est ça, le gouvernement libéral-néo-démocrate.</ParaText>
-              <ParaText id="7698127">Le Canada doit miser plus que jamais sur l'immigration pour combler la pénurie de main-d'oeuvre. Pourtant, l'arriéré des demandes d'immigration augmente de jour en jour. En juillet 2021, l'arriéré s'élevait à 1,5 million de demandes, un chiffre ahurissant. Le gouvernement a promis de s'attaquer en priorité à ce problème en embauchant plus de personnel, mais cela a entraîné une augmentation encore plus grande de l'arriéré. Il y a maintenant 2,15 millions de demandes en attente de traitement. Voilà un autre exemple qui montre que les contribuables paient davantage mais reçoivent moins.</ParaText>
+              <ParaText id="7698127">Le Canada doit miser plus que jamais sur l'immigration pour combler la pénurie de main-d'œuvre. Pourtant, l'arriéré des demandes d'immigration augmente de jour en jour. En juillet 2021, l'arriéré s'élevait à 1,5 million de demandes, un chiffre ahurissant. Le gouvernement a promis de s'attaquer en priorité à ce problème en embauchant plus de personnel, mais cela a entraîné une augmentation encore plus grande de l'arriéré. Il y a maintenant 2,15 millions de demandes en attente de traitement. Voilà un autre exemple qui montre que les contribuables paient davantage mais reçoivent moins.</ParaText>
               <ParaText id="7698128">Nous savons tous que le prix des maisons a doublé, mais le gouvernement pense que la solution à ce problème est une subvention au logement de 500 $.</ParaText>
               <ParaText id="7698129">Les crimes violents sont en hausse, la violence par arme à feu est en hausse, la criminalité liée aux drogues est en hausse et le nombre de policiers tués en service augmente à un rythme effrayant. Pendant ce temps, le gouvernement se contente d'offrir ses pensées et ses prières aux familles des victimes.</ParaText>
               <ParaText id="7698130">Si j'avais sincèrement l'impression que le budget de 2023 du gouvernement était vraiment à la hauteur de la situation, je le dirais. Par le passé, j'ai fait l'éloge de certaines parties des budgets libéraux, mais ce budget-ci est une véritable déception pour les Canadiens. Il n'y a pas de plan pour rendre le logement abordable. Il n'y a pas de plan pour réduire la criminalité. Il n'y a pas de plan pour contrôler l'inflation. Il n'y a pas de plan pour assurer une véritable sécurité alimentaire. Il n'y a pas de plan pour aujourd'hui, et pas de plan pour demain.</ParaText>
@@ -3417,20 +3417,20 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7698201">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="8">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="9">Adoption de la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12145303">
-        <SubjectOfBusinessTitle>Les travaux de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Affaires émanant des députés</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Les projets de loi C‑318 et C‑319</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Romanado" id="12145270">
             <PersonSpeaking>
               <Affiliation DbId="278753" Type="2">Mme Sherry Romanado (Longueuil—Charles-LeMoyne, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7698202">Monsieur le Président, je prends la parole pour répondre à votre déclaration du 30 mars 2023 concernant les 15 nouvelles affaires émanant des députés inscrites à l'ordre de priorité le 10 mars 2023.</ParaText>
+              <ParaText id="7698202">Monsieur le Président, je prends la parole pour répondre à votre déclaration du 30 mars concernant les 15 nouvelles affaires émanant des députés inscrites à l'ordre de priorité le 10 mars 2023.</ParaText>
               <ParaText id="7698203">En particulier, je prends la parole pour soulever deux arguments concernant la prérogative financière de la Couronne et la question de savoir si deux projets de loi d'initiative parlementaire empiètent sur la prérogative de la Couronne à cet égard.</ParaText>
               <ParaText id="7698204"> Sans me prononcer sur le bien-fondé du projet de loi <Document DbId="12260777" Type="4">C‑318</Document>, Loi modifiant la Loi sur l’assurance-emploi et le Code canadien du travail relativement aux parents adoptifs et aux parents d’intention, qui est parrainé par la députée de <Affiliation DbId="278203" Type="2">Battlefords—Lloydminster</Affiliation>, et du projet de loi <Document DbId="12261855" Type="4">C‑319</Document>, Loi modifiant la Loi sur la sécurité de la vieillesse relativement au montant de la pleine pension, qui est parrainé par le député de <Affiliation DbId="278450" Type="2">Calgary Shepard</Affiliation>, je soutiens que les deux projets de loi nécessitent une recommandation royale.</ParaText>
               <ParaText id="7698205">Le projet de loi <Document DbId="12260777" Type="4">C‑318</Document> vise à créer une nouvelle prestation spéciale pour les parents adoptifs et les parents d'enfants conçus par une mère porteuse dans le cadre de la Loi sur l'assurance‑emploi ainsi qu'à modifier le Code canadien du travail en conséquence. Étant donné que le projet de loi prévoit un nouveau type de prestations au titre de la Loi sur l'assurance‑emploi, une recommandation royale serait requise. En effet, ces nouvelles prestations ne sont pas prévues actuellement dans la Loi sur l'assurance‑emploi et elles entraîneraient de nouvelles dépenses distinctes pour le Trésor à des fins et selon des modalités qui ne sont pas autorisées par la loi. J'estime donc que, sans recommandation royale, le projet de loi ne devrait pas faire l'objet d'un vote en troisième lecture.</ParaText>
@@ -3463,7 +3463,7 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
             </PersonSpeaking>
             <Content>
               <ParaText id="7698208">propose que le projet de loi <Document DbId="11818690" Type="4">C‑280</Document>, Loi modifiant la Loi sur la faillite et l’insolvabilité et la Loi sur les arrangements avec les créanciers des compagnies (fiducie réputée — fruits et légumes périssables), soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-              <ProceduralText TocType="TPC" id="9"> Projet de loi C‑280. Deuxième lecture</ProceduralText>
+              <ProceduralText TocType="TPC" id="10"> Projet de loi C‑280. Deuxième lecture</ProceduralText>
               <ParaText id="7698209"> — Monsieur le Président, nous sommes très heureux ce soir pour les producteurs de fruits et légumes frais du Canada. Je suis honoré d'avoir enfin l'occasion de parler de la loi sur la protection financière pour les producteurs de fruits et légumes frais, le projet de loi <Document DbId="11818690" Type="4">C‑280</Document>. Ce projet de loi propose de modifier la Loi sur la faillite et l'insolvabilité et la Loi sur les arrangements avec les créanciers des compagnies afin de soutenir les producteurs et les vendeurs de fruits et légumes frais du Canada par l'établissement d'une fiducie réputée.</ParaText>
               <ParaText id="7698210">Dans ma circonscription, York—Simcoe, on trouve la région de Holland Marsh, connue comme « le potager du Canada ». On y produit plus de carottes, de céleris, d'oignons, de laitues et de légumes verts que dans n'importe quelle autre région du pays. Nous aimerions que les députés participent au festival de la carotte cet été. Chaque fois que je regarde le sol noir et riche dans les basses terres de la région de Holland Marsh et les interminables rangées de légumes verts qui y sont cultivés, je vois de belles perspectives, la perspective de rendre le Canada encore plus concurrentiel sur le marché mondial d'exportation de fruits et de légumes; la perspective de rendre les produits canadiens frais et durables plus accessibles et abordables que les importations étrangères pour toutes les familles canadiennes; et la perspective d'encourager l'innovation et le courage de nos vaillants agriculteurs partout au pays.</ParaText>
               <ParaText id="7698211">Malheureusement, dans cette région et dans l'ensemble du Canada, dans les champs et les serres d'endroits comme Leamington, Kentville, Morrell et Brookfield, ces perspectives sont limitées par les risques considérables associés à la culture, à la récolte, à l'emballage, à la commercialisation et à la distribution de fruits et de légumes frais, des risques qui mettent régulièrement en péril les exploitations agricoles et le gagne-pain des agriculteurs. Les coûts indirects et les coûts en capital sont considérables. Les marges dans le secteur sont minces, habituellement entre 3 et 5 %. Les agriculteurs doivent souvent attendre la vente de leurs produits pour en toucher un revenu, et le paiement est seulement perçu bien après cette vente, à un stade avancé de la chaîne d'approvisionnement ou longtemps après la consommation de ces produits.</ParaText>
@@ -3657,7 +3657,7 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
               <ParaText id="7698314">Je ne doute pas un seul instant que mes collègues seront nombreux à vanter les mérites de ce texte législatif. En ce qui me concerne, je me concentrerai sur les changements qu'il apporterait au régime d'insolvabilité du pays, et plus particulièrement la place qu'il accorderait aux vendeurs de fruits et légumes périssables par rapport aux autres créanciers, y compris les agriculteurs qui produisent d'autres types d'aliments périssables, les employés, les retraités et peut-être même certains fournisseurs pouvant être de petite taille et d'envergure plutôt locale.</ParaText>
               <ParaText id="7698315">Pour bien comprendre le projet de loi <Document DbId="11818690" Type="4">C‑280</Document>, il faut commencer par comprendre la législation canadienne sur l'insolvabilité. Deux grandes lois régissent l'insolvabilité au Canada: la Loi sur la faillite et l'insolvabilité et la Loi sur les arrangements avec les créanciers des compagnies. À elles deux, ces lois englobent à la fois les faillites personnelles et commerciales.</ParaText>
               <ParaText id="7698316"> Il existe des options en cas d'insolvabilité d'une entreprise. Les options de restructuration et de liquidation offertes aux entreprises en difficulté permettent de tirer le meilleur parti possible d'une mauvaise situation et d'en atténuer les effets néfastes. Si une restructuration est impossible et qu'il faut procéder à la liquidation de l'entreprise, la liquidation des actifs et la distribution du produit aux créanciers se déroulent de manière méthodique, conformément à la Loi sur la faillite et l'insolvabilité. En tête de liste se trouvent les fiducies présumées et les créanciers prioritaires. On prévoit notamment des sommes limitées à l'intention des agriculteurs, des pêcheurs et des fournisseurs qui n'ont pas été payés — y compris les fournisseurs de fruits et légumes frais qui sont censés bénéficier du projet de loi à l'étude —, ainsi que des sommes à l'intention des employés dont le salaire n'a pas été payé. Viennent ensuite les créanciers garantis, puis les créanciers privilégiés et les créanciers non garantis, ce qui comprend la plupart des fournisseurs non payés, par exemple les propriétaires de locaux et les entreprises de construction et de réparation.</ParaText>
-              <ParaText id="7698317">Tout d'abord, comme je l'ai mentionné brièvement, les agriculteurs, les pêcheurs et les aquiculteurs canadiens sont déjà considérés comme des créanciers prioritaires, ce qui leur permet d'avoir droit à un paiement avant d'autres créanciers pour les produits livrés dans les 15 jours précédant la faillite. La priorité que cette disposition accorde aux agriculteurs s'applique aux stocks de l'acheteur en faillite ou au produit de la vente des stocks. Contrairement à ce que propose le projet de loi <Document DbId="11818690" Type="4">C‑280</Document>, la priorité qui existe déjà s'applique à tous les agriculteurs canadiens, y compris aux producteurs d'autres denrées périssables comme le lait et les oeufs.</ParaText>
+              <ParaText id="7698317">Tout d'abord, comme je l'ai mentionné brièvement, les agriculteurs, les pêcheurs et les aquiculteurs canadiens sont déjà considérés comme des créanciers prioritaires, ce qui leur permet d'avoir droit à un paiement avant d'autres créanciers pour les produits livrés dans les 15 jours précédant la faillite. La priorité que cette disposition accorde aux agriculteurs s'applique aux stocks de l'acheteur en faillite ou au produit de la vente des stocks. Contrairement à ce que propose le projet de loi <Document DbId="11818690" Type="4">C‑280</Document>, la priorité qui existe déjà s'applique à tous les agriculteurs canadiens, y compris aux producteurs d'autres denrées périssables comme le lait et les œufs.</ParaText>
               <ParaText id="7698318">Deuxièmement, tout fournisseur n'ayant pas été payé, y compris les vendeurs de fruits et légumes, peut récupérer les produits non vendus et identifiables auprès d'un acheteur en faillite dans les 30 jours suivant la livraison. La loi canadienne sur l'insolvabilité tient compte de l'équilibre entre les intérêts des débiteurs et des créanciers, ce qui permet aux entreprises, y compris celles du domaine de l'agriculture et de l'agroalimentaire, d'avoir accès à du crédit, d'investir, de créer des emplois et de traiter les créanciers équitablement.</ParaText>
               <ParaText id="7698319">Habituellement, les changements à la liste des paiements prioritaires en cas d'insolvabilité sont seulement apportés dans des circonstances exceptionnelles. Par exemple, les députés se souviennent probablement du projet de loi <Document DbId="11527631" Type="4">C‑228</Document>, qui assure le paiement en priorité des montants dus aux retraités en cas d'insolvabilité de l'employeur. En effet, dans certaines situations malheureuses, l'insolvabilité de l'employeur avait eu comme conséquence de réduire les pensions et les autres avantages des retraités.</ParaText>
               <ParaText id="7698320">Le projet de loi <Document DbId="11818690" Type="4">C‑280</Document> prévoit une fiducie réputée pour payer aux vendeurs de fruits et légumes périssables la somme qu'ils réclament. Une fiducie réputée est un outil juridique extraordinaire qui, lorsqu'il est utilisé, fait en sorte que les recettes d'une vente sont la propriété du vendeur et non de l'acheteur. Dans un cas d'insolvabilité, même si un vendeur n'a pas encore été payé, la fiducie réputée lui permet de recouvrer l'argent qui lui est dû en passant devant tous les créanciers, avant même que commence le processus d'insolvabilité. C'est un outil juridique bien plus puissant que ce qui existe à l'heure actuelle pour tout autre groupe de détenteurs privés d'une créance commerciale, en cas d'insolvabilité.</ParaText>
@@ -3784,7 +3784,7 @@ Réponse du gouvernement à des pétitions</SubjectOfBusinessTitle>
             <PersonSpeaking>
               <Affiliation DbId="278504" Type="2">M. Kyle Seeback</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7698366">Madame la Présidente, c'est le jour de la marmotte ici sur la Colline du Parlement. Lorsque j'ai soulevé la question la première fois, on m'a seulement répondu que les libéraux en avaient discuté sérieusement avec leurs interlocuteurs. Un mois et demi plus tard, ils nous répètent qu'une sérieuse discussion a eu lieu ou qu'ils n'ont pas accrédité quelqu'un. Ce genre d'inaction encourage les gens à continuer de se comporter de la même manière. Je me souviens de mon père qui me disait : « ne fais pas cela » ou « tu ne devrais pas faire cela ». Si mon père me voyait recommencer six ou sept fois et se contentait de me dire d'arrêter, il est certain que ses paroles ne changeaient rien. Ce que nous faisons pour tenter d'endiguer ce comportement ne fonctionne pas. Ce que fait le gouvernement pour tenter de limiter l'ingérence étrangère ne fonctionne pas. Nous avons besoin de mesures audacieuses, à l'instar des 36 arrestations aux États‑Unis. Ils prennent la situation très au sérieux. Pourquoi le gouvernement ne le fait-il pas?</ParaText>
+              <ParaText id="7698366">Madame la Présidente, c'est le jour de la marmotte ici sur la Colline du Parlement. Lorsque j'ai soulevé la question la première fois, on m'a seulement répondu que les libéraux en avaient discuté sérieusement avec leurs interlocuteurs. Un mois et demi plus tard, ils nous répètent qu'une sérieuse discussion a eu lieu ou qu'ils n'ont pas accrédité quelqu'un. Ce genre d'inaction encourage les gens à continuer de se comporter de la même manière. Je me souviens de mon père qui me disait: « ne fais pas cela » ou « tu ne devrais pas faire cela ». Si mon père me voyait recommencer six ou sept fois et se contentait de me dire d'arrêter, il est certain que ses paroles ne changeaient rien. Ce que nous faisons pour tenter d'endiguer ce comportement ne fonctionne pas. Ce que fait le gouvernement pour tenter de limiter l'ingérence étrangère ne fonctionne pas. Nous avons besoin de mesures audacieuses, à l'instar des 36 arrestations aux États‑Unis. Ils prennent la situation très au sérieux. Pourquoi le gouvernement ne le fait-il pas?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12145438">

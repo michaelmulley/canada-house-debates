@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11985041">
-  <StartPageNumber>10545</StartPageNumber>
+  <StartPageNumber>10541</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -217,7 +217,7 @@
             <Content>
               <ParaText id="7493439">Monsieur le Président, c'est bientôt Noël et j'ai envie de rêver un peu. Je rêve qu'il y ait plus de coopératives d'habitation pour les familles, les personnes seules et les aînés. Je rêve de logements sociaux pour les étudiants et les personnes en situation de handicap, d'un toit pour les personnes en situation d'itinérance, les membres des Premières Nations et les vétérans.</ParaText>
               <ParaText id="7493440"> Je pourrais aussi souhaiter plus de projets comme L'appart à moi, qui permet à des personnes vivant avec la trisomie 21 et la déficience intellectuelle de vivre en appartement. Les locataires de cet organisme de ma circonscription sont d'ailleurs présents ici aujourd'hui.</ParaText>
-              <ParaText id="7493441">Je remercie Marie‑Claude, Marc, Valérie, Chloé, Mylène, Nadia, David, Étienne, Raphaël, et toute l'équipe de L'appart à moi de contribuer à ma vision d'un monde plus juste et solidaire. Je les remercie tous de nous faire rêver à un monde où tous ont droit à la plus grande des justices, un toit chaleureux, sûr et abordable.</ParaText>
+              <ParaText id="7493441">Je remercie Marie‑Claude, Marc, Valérie, Cloé, Mylène, Nadia, David, Étienne, Raphaël, et toute l'équipe de L'appart à moi de contribuer à ma vision d'un monde plus juste et solidaire. Je les remercie tous de nous faire rêver à un monde où tous ont droit à la plus grande des justices, un toit chaleureux, sûr et abordable.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -303,7 +303,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11985159">
-        <SubjectOfBusinessTitle>La violence fondée sur le sexe</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La violence fondée sur le genre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Lambropoulos" id="11985160">
             <PersonSpeaking>
@@ -513,7 +513,7 @@
       <SubjectOfBusiness id="11985214">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>
-       Les mesures d’urgence visant la COVID‑19</SubjectOfBusinessTitle>
+       Les finances</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Lewis (Haldimand—Norfolk)" id="11985212">
             <PersonSpeaking>
@@ -583,7 +583,12 @@
               <ParaText id="7493524">Contrairement aux conservateurs, nous commençons par établir un climat de confiance. Voilà la raison d'être de la Prestation dentaire canadienne, de l'Allocation canadienne pour le logement, des services de garde d'enfants et du doublement du crédit d'impôt pour la TPS. Quand le besoin se fait sentir, le gouvernement intervient, et nous allons continuer à le faire.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11985234">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Le Bureau du gouverneur général</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Berthold" id="11985233">
             <PersonSpeaking>
               <Affiliation DbId="278386" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
@@ -1185,8 +1190,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278258" Type="2">L’hon. Andrew Scheer (Regina—Qu’Appelle, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7493667"> Monsieur le Président, il y a eu consultations entre les leaders parlementaires, et j'ai bon espoir que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante.</ParaText>
-              <ParaText id="7493668"> Je propose:</ParaText>
+              <ParaText id="7493667"> Monsieur le Président, il y a eu consultations entre les leaders parlementaires, et j'ai bon espoir que vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante:</ParaText>
               <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="7493669">
                 <Quote>
@@ -1600,7 +1604,22 @@ La Chambre reprend l'étude, interrompue le 6 décembre, du projet de loi <Doc
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278428">Deltell</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278200">Hoback</Affiliation>
+              <Affiliation DbId="278363">Kitchen</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278109">O'Regan</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278235">Sidhu (Brampton South)</Affiliation>
+              <Total> -- 14</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11985431">
@@ -2000,7 +2019,22 @@ La Chambre reprend l'étude, interrompue le 6 décembre, du projet de loi <Doc
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278428">Deltell</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278200">Hoback</Affiliation>
+              <Affiliation DbId="278363">Kitchen</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278109">O'Regan</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278235">Sidhu (Brampton South)</Affiliation>
+              <Total> -- 14</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11985446">
@@ -2009,9 +2043,6 @@ La Chambre reprend l'étude, interrompue le 6 décembre, du projet de loi <Doc
             <Content>
               <ParaText id="7493695"> Je déclare la motion adoptée.</ParaText>
               <ProceduralText TocType="TPC" id="8"> Adoption de la motion</ProceduralText>
-              <ParaText id="7493696"> Quand procéderons-nous à la troisième lecture du projet de loi?</ParaText>
-              <ParaText id="7493697">
-                <B>Des voix:</B> D'accord.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2403,7 +2434,22 @@ La Chambre reprend l'étude, interrompue le 6 décembre, du projet de loi <Doc
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278428">Deltell</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278200">Hoback</Affiliation>
+              <Affiliation DbId="278363">Kitchen</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278109">O'Regan</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278235">Sidhu (Brampton South)</Affiliation>
+              <Total> -- 14</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11985460">
@@ -2424,7 +2470,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, du projet de loi <Doc
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7493709">Conformément à l'ordre adopté le jeudi 23 juin, la Chambre passe maintenant au vote par appel nominal différé sur la motion d'adoption du huitième rapport duComité permanent de la santé concernant la prolongation du délai prévu pour l'étude du projet de loi <Document DbId="11546288" Type="4">C‑252</Document>.</ParaText>
+              <ParaText id="7493709">Conformément à l'ordre adopté le jeudi 23 juin, la Chambre passe maintenant au vote par appel nominal différé sur la motion d'adoption du huitième rapport du Comité permanent de la santé concernant la prolongation du délai prévu pour l'étude du projet de loi <Document DbId="11546288" Type="4">C‑252</Document>.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -2795,7 +2841,22 @@ La Chambre reprend l'étude, interrompue le 6 décembre, du projet de loi <Doc
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278428">Deltell</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278200">Hoback</Affiliation>
+              <Affiliation DbId="278363">Kitchen</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278109">O'Regan</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278235">Sidhu (Brampton South)</Affiliation>
+              <Total> -- 14</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11985474">
@@ -3160,7 +3221,22 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278428">Deltell</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278200">Hoback</Affiliation>
+              <Affiliation DbId="278363">Kitchen</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278109">O'Regan</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278235">Sidhu (Brampton South)</Affiliation>
+              <Total> -- 14</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11985539">
@@ -3227,6 +3303,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11985807">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Affaires autochtones et du Nord</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Garneau" id="11985548">
@@ -3242,7 +3319,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
       <SubjectOfBusiness id="11985734">
         <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier> Justice et droits de la personne</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Justice et droits de la personne</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Sarai" id="11985562">
             <PersonSpeaking>
@@ -3875,7 +3952,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
               <Affiliation DbId="278564" Type="2">M. Frank Caputo</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7493895">D'accord, parlons du régime de pensions.</ParaText>
-              <ParaText id="7493896">Je demande le consentement unanime pour permettre à mon collègue d'en face d'en parler pendant 30 secondes.</ParaText>
+              <ParaText id="7493896">Monsieur le Président, je demande le consentement unanime pour permettre à mon collègue d'en face d'en parler pendant 30 secondes.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11986119">
@@ -4629,7 +4706,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11987159">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Femmes et filles autochtones disparues et assassinées </SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les femmes et filles autochtones disparues et assassinées </SubjectOfBusinessTitle>
         <ProceduralText TocType="TCC" TocText="Formation de la Chambre en comité plénier, sous la présidence de Mme Carol Hugues, pour l'étude de l'affaire du gouvernement no 23" id="24">
       
 (La Chambre se forme en comité plénier, sous la présidence de Mme Carol Hugues, pour étudier l'affaire du gouvernement n<Sup>o</Sup> 23.)</ProceduralText>
@@ -5097,8 +5174,6 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
               <ParaText id="7494364">Ce ne sont là que quelques-unes des mesures concrètes que prend le gouvernement pour remédier aux causes profondes de la violence contre les femmes autochtones et corriger les inégalités systémiques de longue date. Un peu partout au Canada, des collectivités interviennent aussi localement.</ParaText>
               <ParaText id="7494365">Je suis conscient que cela ne soulage aucunement la douleur constante des Canadiens ni la souffrance et les traumatismes qui accompagnent la nouvelle de ces horribles meurtres. Il n'existe pas de solution rapide au racisme et aux inégalités systémiques profondément ancrés qui entraînent l'intimidation, le traitement violent et le meurtre de femmes et de filles autochtones. Je sais que tous les députés reconnaissent que des changements généralisés s'imposent au sein du système pour remédier à cette tragédie nationale, et ce, pour le bien des générations d'aujourd'hui et de demain, donc pour le bien de mes enfants et de mes petits-enfants.</ParaText>
               <ParaText id="7494366">J'exprime mes sincères condoléances aux familles et aux communautés qui ont perdu un être cher. Je suis profondément navré de cette perte.</ParaText>
-              <ParaText id="7494367">
-                <I>Meegwetch</I>, <I>qujannamiik</I>, <I>marsi</I>.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Schmale" id="11987207">
@@ -5405,7 +5480,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
               <ParaText id="7494480">
                 <B>M. Matthew Green:</B> Il s'agit de femmes assassinées.</ParaText>
               <ParaText id="7494481">
-                <B>Mme Laila Goodridge:</B> J'en suis consciente, mais je ne vais pas le laisser dire qu'une industrie entière est en quelque sorte responsable du problème, car nous voyons des femmes, des jeunes filles et des personnes exploitées disparaître de Winnipeg, de Vancouver et d'autres régions du pays. Franchement, on n'a pas une vue d'ensemble de la question si on rejette la faute sur l'industrie extractive ou le secteur des ressources naturelles.</ParaText>
+                <B>Mme Laila Goodridge:</B> Monsieur le Président, j'en suis consciente, mais je ne vais pas le laisser dire qu'une industrie entière est en quelque sorte responsable du problème, car nous voyons des femmes, des jeunes filles et des personnes exploitées disparaître de Winnipeg, de Vancouver et d'autres régions du pays. Franchement, on n'a pas une vue d'ensemble de la question si on rejette la faute sur l'industrie extractive ou le secteur des ressources naturelles.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="20" Mn="30">(2030)</Timestamp>
@@ -5443,7 +5518,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
               <ParaText id="7494495">Le Canada doit faire mieux pour toutes les familles, les survivants et les communautés qui vivent avec les conséquences.</ParaText>
               <Timestamp Hr="20" Mn="35">(2035)</Timestamp>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="7494496">Dans le rapport final de l'Enquête nationale sur les femmes et les filles autochtones disparues et assassinées, il est précisé clairement que le gouvernement fédéral, tous les autres pouvoirs publics, le secteur privé et la société civile ont tous la responsabilité de résoudre cette crise nationale persistante. Le rapport a montré clairement que le terme « champ de compétence » est empoisonné qui contribue au meurtre de femmes et de filles autochtones.</ParaText>
+              <ParaText id="7494496">Dans le rapport final de l'Enquête nationale sur les femmes et les filles autochtones disparues et assassinées, il est précisé clairement que le gouvernement fédéral, tous les autres pouvoirs publics, le secteur privé et la société civile ont tous la responsabilité de résoudre cette crise nationale persistante. Le rapport a montré clairement que le terme « champ de compétence » est un mot empoisonné qui contribue au meurtre de femmes et de filles autochtones.</ParaText>
               <ParaText id="7494497">Même si notre attention est retenue par un meurtre très tragique et les circonstances l'entourant, nous devons, en tant que parlementaires et que citoyens, mettre l'accent sur tout ce qui a contribué à rendre vulnérables ces femmes et ces filles autochtones. De nos jours, les femmes dans la rue se trouvent peut-être dans une situation semblable.</ParaText>
               <ParaText id="7494498">À la suite du rapport final sur les femmes et les filles autochtones assassinées ou portées disparues, le Canada a financé des projets pour aider les familles et les survivantes, créer des espaces culturels, renforcer la capacité des organisations pour les femmes, filles et personnes 2ELGBTQI+ autochtones, ainsi que lancer des initiatives autochtones relatives aux données. Cela inclut les nombreuses initiatives manitobaines qui ont été mentionnées par beaucoup de députés.</ParaText>
               <ParaText id="7494499">Au cours de l'année passée, le Canada a subventionné 65 espaces culturels et a investi dans des infrastructures qui répondent spécifiquement aux priorités identifiées dans l'appel à la justice 2.3. Malgré ces investissements et malgré le travail que nous faisons pour mettre en œuvre les appels à l'action, les progrès sont lents et nous continuons à manquer à notre devoir envers les femmes et les filles autochtones de ce pays. Malheureusement, c'est avec honte que je me présente à la Chambre en disant que je ne sais pas avec certitude si un seul de ces investissements, s'il avait été effectué là où cela était nécessaire, aurait permis de sauver des vies.</ParaText>
@@ -5846,7 +5921,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
             <Content>
               <ParaText id="7494645">Madame la présidente, je remercie ma collègue de Calgary Nose Hill de son discours de ce soir. Je remercie également ma collègue de Winnipeg‑Centre d'avoir demandé la tenue de ce débat, car cela nous a permis de présenter nos observations à la Chambre des communes ce soir.</ParaText>
               <ParaText id="7494646">L'une des principales responsabilités d'un gouvernement consiste à assurer la sécurité du pays. Nous pensons souvent que cela renvoie à un mécanisme de défense contre un pays entier, mais la sécurité de tous les citoyens dans ce pays en est un aspect secondaire. Nous parlons ce soir de la façon dont la sécurité de quatre personnes a été complètement compromise ainsi que des résultats de ces actions, dont certaines découlent de nombreuses situations différentes en ce qui concerne le bien-être et la sécurité non seulement de ces personnes, mais aussi d'autres personnes au Canada.</ParaText>
-              <ParaText id="7494647">Je termine en posant la question suivante. Ma collègue a dit que 78,7 milliards de dollars ont été versés en soutien aux sans-abri depuis 2017 et que ces fonds n'ont manifestement pas été suffisants ou pas été utilisés correctement. Peut-elle préciser pourquoi il faudra beaucoup plus que de l'argent pour régler cette situation et ce qu'elle recommande à cet égard?</ParaText>
+              <ParaText id="7494647">Je termine en posant la question suivante. Ma collègue a dit que 78 milliards de dollars ont été versés en soutien aux sans-abri depuis 2017 et que ces fonds n'ont manifestement pas été suffisants ou pas été utilisés correctement. Peut-elle préciser pourquoi il faudra beaucoup plus que de l'argent pour régler cette situation et ce qu'elle recommande à cet égard?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="21" Mn="40">(2140)</Timestamp>
@@ -6110,7 +6185,7 @@ La Chambre reprend l'étude, interrompue le 6 décembre, de la motion portant q
               <ParaText id="7494742">Dans ma circonscription, Vancouver-Est, la situation est très semblable à celle de Winnipeg-Centre, la circonscription de ma collègue. Quand j'étais une simple militante il y a de nombreuses années, je me souviens d'avoir marché dans la rue, d'avoir participé à des rassemblements et d'avoir manifesté pour dénoncer les crimes commis par un tueur en série dans Vancouver-Est. Les gens étaient dans le déni. Quand nous avons soulevé ce problème, des gens nous accusaient de porter entrave à la justice parce que nous disions qu'il y avait un tueur en série et que nous exigions une enquête.</ParaText>
               <Timestamp Hr="22" Mn="20">(2220)</Timestamp>
               <ParaText id="7494743">Aux noms des personnes évoquées aujourd'hui qui ont disparu et qui ont été assassinées, soit Morgan Harris, Marcedes Myran, Rebecca Contois et Buffalo Woman, j'ajoute ces noms: Tatyanna Harrison, Chelsea Poorman, Noelle O'Soup et Ramona Wilson. Ce ne sont que les dernières en date, et il y en a de nombreuses autres. </ParaText>
-              <ParaText id="7494744">Elles n'avaient pas à mourir. Elles n'avaient pas à mourir de cette façon. Il n'est pas nécessaire qu'il en soit ainsi. Pour ce soir, une fois pour toutes, le gouvernement va-t-il agir et mettre en œuvre les 231 appels à la justice ? </ParaText>
+              <ParaText id="7494744">Elles n'avaient pas à mourir. Elles n'avaient pas à mourir de cette façon. Il n'est pas nécessaire qu'il en soit ainsi. Pour ce soir, une fois pour toutes, le gouvernement va-t-il agir et mettre en œuvre les 231 appels à la justice? </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Morrice" id="11987425">

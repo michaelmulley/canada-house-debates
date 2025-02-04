@@ -151,7 +151,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11620538">
-        <SubjectOfBusinessQualifier>	Le prélèvement d'organes humains</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>	Le trafic d'organes humains</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Bragdon" id="11620519">
             <PersonSpeaking>
@@ -292,7 +292,7 @@
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11620548">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La Loi constitutionnelle de 1867</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Loi sur le maintien de la représentation des provinces à la Chambre des communes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. LeBlanc" id="11620549">
             <PersonSpeaking>
@@ -1671,7 +1671,7 @@
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Lalonde" id="11622123">
             <PersonSpeaking>
-              <Affiliation DbId="279300" Type="18">Mme Marie-France Lalonde (secrétaire parlementaire du ministre de l’Immigration, des Réfugiés et de la Citoyenneté, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278415" Type="2">Mme Marie-France Lalonde (Orléans, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7067948">Monsieur le Président, le lundi 4 avril, j’ai eu le privilège de participer à une collecte de fonds locale en appui à l’Ukraine.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2011,11 +2011,6 @@
               <ParaText id="7068029">Monsieur le Président, si je ne m'abuse, l'échange d'hier portait sur l'efficacité des investissements du gouvernement. Je me permets donc de citer certains investissements qui ont été faits en Ontario, la province du député: 6 milliards de dollars chez GM à Oshawa pour une usine de fabrication de véhicules électriques et 5 milliards de dollars que se partageront LG et Stellantis à Windsor dans une coentreprise pour assurer la transition aux véhicules électriques. Ce ne sont là que quelques-uns de nos investissements. En fait, les émissions de gaz à effet de serre ont déjà baissé de 30 millions de tonnes et ce n'est que le début. </ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="11622526">
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Seeback" id="11622231">
             <PersonSpeaking>
               <Affiliation DbId="278504" Type="2">M. Kyle Seeback (Dufferin—Caledon, PCC)</Affiliation>: </PersonSpeaking>
@@ -2045,7 +2040,7 @@
               <Affiliation DbId="278653" Type="2">M. Alain Therrien (La Prairie, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7068035">Monsieur le Président, hier, à 15 h 20, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> annonçait qu'il était choisi par l'ONU pour promouvoir le développement durable dans le monde.</ParaText>
-              <ParaText id="7068036">À peine une heure et demie plus tard, notre champion de l'environnement approuvait Bay du Nord, un projet pétrolier d'un milliard de barils qui va polluer pendant 30 ans.</ParaText>
+              <ParaText id="7068036">À peine une heure et demie plus tard, notre champion de l'environnement approuvait Bay du Nord, un projet pétrolier de 1 milliard de barils qui va polluer pendant 30 ans.</ParaText>
               <ParaText id="7068037">Cela lui a pris une heure et demie avant de bafouer son mandat et de montrer au monde entier que non seulement le Canada est un État pétrolier, mais aussi un État voyou. Le premier ministre réinvente littéralement l'art de parler des deux côtés de la bouche.</ParaText>
               <ParaText id="7068038">Quelle crédibilité lui reste‑t‑il aujourd'hui en matière d'environnement?</ParaText>
             </Content>
@@ -2063,7 +2058,7 @@
               <Affiliation DbId="278653" Type="2">M. Alain Therrien (La Prairie, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7068041">Monsieur le Président, le pire, c'est que, pas plus tard que lundi, l'ONU elle‑même avertissait qu'il fallait refuser tout nouveau projet pétrolier pour avoir une chance de freiner les changements climatiques.</ParaText>
-              <ParaText id="7068042">Cela n'a pas empêché le gouvernement, hier, d'approuver Bay du Nord, qui va pomper jusqu'à 100 000 barils de pétrole chaque jour. « <I>Drill, baby, drill</I> ».</ParaText>
+              <ParaText id="7068042">Cela n'a pas empêché le gouvernement, hier, d'approuver Bay du Nord, qui va pomper jusqu'à 100 000 barils de pétrole chaque jour. « <I>Drill, baby, drill.</I> »</ParaText>
               <ParaText id="7068043">Ce gouvernement‑là prend le rapport des scientifiques experts en climat de tous les pays du monde et sacre ça aux vidanges, même pas dans le recyclage. Il met le rapport aux vidanges.</ParaText>
               <ParaText id="7068044">Comment peut‑il encore prétendre aujourd'hui qu'il fonde ses décisions sur la science?</ParaText>
             </Content>
@@ -2084,14 +2079,14 @@
               <ParaText id="7068048">Monsieur le Président, il y a quelques jours à peine, le GIEC a publié un rapport alarmant.</ParaText>
               <ParaText id="7068049">Nous sommes dans l'urgence. L'avenir de nos enfants et de nos petits‑enfants est menacé. Il faut prendre des mesures courageuses.</ParaText>
               <ParaText id="7068050">Alors, le ministre de l'Environnement a agi: il a approuvé un nouveau projet de combustibles fossiles. Il va continuer à distribuer des milliards de dollars aux compagnies pétrolières et gazières. Il aurait pu dire non à ce projet, mais il a dit oui à plus de pétrole et à plus d'émissions.</ParaText>
-              <ParaText id="7068051">Le ministre comprend‑il qu'un milliard de barils de pétrole de plus, ce n'est pas un projet vert?</ParaText>
+              <ParaText id="7068051">Le ministre comprend‑il que 1 milliard de barils de pétrole de plus, ce n'est pas un projet vert?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="M. Guilbeault" id="11622251">
             <PersonSpeaking>
               <Affiliation DbId="278910" Type="4">L’hon. Steven Guilbeault (ministre de l’Environnement et du Changement climatique, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7068052">Monsieur le Président, j'aimerais rappeler à mon honorable collègue de Rosemont—La Petite‑Patrie que le GIEC a dit que, pour éviter 1,5 degré Celsius de réchauffement, les pays devaient réduire leurs émissions de 43 %d'ici 2030. L'objectif du Canada est de moins 40 % à moins 45 %.</ParaText>
+              <ParaText id="7068052">Monsieur le Président, j'aimerais rappeler à mon honorable collègue de Rosemont—La Petite‑Patrie que le GIEC a dit que, pour éviter 1,5 degré Celsius de réchauffement, les pays devaient réduire leurs émissions de 43 % d'ici 2030. L'objectif du Canada est de moins 40 % à moins 45 %.</ParaText>
               <ParaText id="7068053">Le GIEC a dit qu'il fallait que tous les secteurs d'activités réduisent leurs émissions de gaz à effet de serre. Le plan que nous avons déposé à la Chambre la semaine dernière démontre clairement comment tous les secteurs d'activités au Canada sont en mode de réduction des émissions de gaz à effet de serre.</ParaText>
               <ParaText id="7068054">Le GIEC a également rappelé que, malgré tout ce que nous allons faire, nous allons continuer à consommer du pétrole, à savoir 35 millions de barils en 2050. Or, il faut que ce pétrole‑là soit le moins émetteur possible et il faut séquestrer toutes les émissions.</ParaText>
             </Content>
@@ -2415,7 +2410,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11622331">
-        <SubjectOfBusinessTitle>Les affaires du Nord</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'éducation postsecondaire</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Hanley" id="11622330">
             <PersonSpeaking>
@@ -2442,7 +2437,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278408" Type="2">L’hon. Michael Chong (Wellington—Halton Hills, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7068129">Monsieur le Président, la Russie commet des crimes de guerre. Les rapports en provenance de Boutcha selon lesquels des civils ont été abattus les mains attachées dans le dos et d'autres ont été jetés dans des fosses communes improvisées ont choqué le monde entier. En réponse, les alliés ont expulsé quelque 400 diplomates russes et le président Zelenski a supplié le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> de lui fournir des systèmes Harpoon afin que l'Ukraine puisse à l'avenir se défendre contre ce type de massacres.</ParaText>
+              <ParaText id="7068129">Monsieur le Président, la Russie commet des crimes de guerre. Les rapports en provenance de Boutcha selon lesquels des civils ont été abattus les mains attachées dans le dos et d'autres ont été jetés dans des fosses communes improvisées ont choqué le monde entier. En réponse, les alliés ont expulsé quelque 400 diplomates russes et le président Zelensky a supplié le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> de lui fournir des systèmes Harpoon afin que l'Ukraine puisse à l'avenir se défendre contre ce type de massacres.</ParaText>
               <ParaText id="7068130">Pourquoi le gouvernement n'a-t-il pas expulsé les diplomates russes? Pourquoi n'a-t-il pas fourni les systèmes Harpoon demandés? Pourquoi le Canada est-il en décalage par rapport à certains de ses plus proches alliés?</ParaText>
             </Content>
           </Intervention>
@@ -2854,7 +2849,7 @@
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11622457">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La Loi constitutionnelle de 1867</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Loi sur le maintien de la représentation des provinces à la Chambre des communes</SubjectOfBusinessTitle>
         <ProceduralText TocType="TPC" id="2">Projet de loi C‑14. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="7068213">	
@@ -3011,7 +3006,7 @@ La Chambre reprend l'étude de la motion portant que le projet de loi <Document
               <Affiliation DbId="278704" Type="2">Mme Lori Idlout (Nunavut, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7068260">
-                <I>Qujannamiik, uqaqtitiji</I>.</ParaText>
+                <I>Qujannamiik, uqaqtittiji</I>.</ParaText>
               <ParaText id="7068261">Ce projet de loi protège le nombre de sièges non seulement pour le Québec, mais également pour l'ensemble des provinces et des territoires. Le NPD continuera de veiller à ce que le Québec conserve une représentation équitable ici, à la Chambre des communes.</ParaText>
               <ParaText id="7068262">Ma question pour le député est la suivante: la décision de la Cour suprême de 1991 qu'il vient de citer devrait-elle aussi servir à accroître la représentation autochtone?</ParaText>
             </Content>

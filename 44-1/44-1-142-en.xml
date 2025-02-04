@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11979642">
-  <StartPageNumber>10463</StartPageNumber>
+  <StartPageNumber>10459</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -521,9 +521,16 @@
               <ParaText id="7486959">The hon. member for Rosemont—La Petite-Patrie is rising on a point of order.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11979745">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11489713">
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Alleged Use of Unparliamentary Language</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11979745" ToCText="Mr. Boulerice">
             <PersonSpeaking>
-              <Affiliation DbId="278284" Type="2">Mr. Alexandre Boulerice</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278284" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7486960">Madam Speaker, it is unfortunate to hear such language in the House, but the member for <Affiliation DbId="278653" Type="2">La Prairie</Affiliation> used unparliamentary and insulting language as a personal attack against me. I would very much like the member for La Prairie to apologize to the House.</ParaText>
             </Content>
@@ -532,9 +539,17 @@
             <PersonSpeaking>
               <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7486961">Noted.</ParaText>
+              <ParaText id="7486961">It is noted.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11504815">
+        <SubjectOfBusinessTitle>Fall Economic Statement Implementation Act, 2022</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Bill C-32—Time Allocation Motion</SubjectOfBusinessQualifier>
+        <CatchLine>Government Orders</CatchLine>
+        <SubjectOfBusinessContent>
+          <ParaText id="7493405">The House resumed consideration of the motion.</ParaText>
           <Intervention Type="Interjection" ToC="No" id="11979747">
             <PersonSpeaking>
               <Affiliation DbId="278941" Type="96">Hon. Randy Boissonnault</Affiliation>: </PersonSpeaking>
@@ -1114,7 +1129,20 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278301">Carr</Affiliation>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278372">Normandin</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278471">Williams</Affiliation>
+              <Total> -- 12</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="11980317">
@@ -2867,7 +2895,7 @@ The House resumed from December 5 consideration of Bill <Document DbId="12038143
             <PersonSpeaking>
               <Affiliation DbId="278688" Type="2">Mr. Rob Morrison (Kootenay—Columbia, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7487555">Mr Speaker, Mary called me on the weekend. She is a senior on a fixed income, and her doctor is 230 kilometres away. She cannot afford the fuel inflation. </ParaText>
+              <ParaText id="7487555">Mr. Speaker, Mary called me on the weekend. She is a senior on a fixed income, and her doctor is 230 kilometres away. She cannot afford the fuel inflation. </ParaText>
               <ParaText id="7487556">The Auditor General today revealed $32 billion in questionable spending, including $54 million to build a $250,000 app, billions in wage subsidies to wealthy corporations, and issuing cheques to prisoners and organized crime.</ParaText>
               <ParaText id="7487557">Will the <Affiliation DbId="214329" Type="4">minister</Affiliation> apologize for questioning the independence of the Auditor General?</ParaText>
             </Content>
@@ -2884,7 +2912,7 @@ The House resumed from December 5 consideration of Bill <Document DbId="12038143
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11982997">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Veterans</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Veterans Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Paul-Hus" id="11981972">
             <PersonSpeaking>
@@ -3486,7 +3514,7 @@ The House resumed consideration of Bill <Document DbId="12038143" Type="3">C-32,
             <PersonSpeaking>
               <Affiliation DbId="278397" Type="2">Mr. Kody Blois</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7487759">Madam Speaker, I did not hear the comments made by the <Affiliation DbId="214329" Type="4">Minister of National Revenue</Affiliation> during oral question period. I understand the importance of the Office of the Auditor General of Canada, of course. Since I did not hear the the Minister of National Revenue's comments, it is hard for me to answer my colleague's question.</ParaText>
+              <ParaText id="7487759">Madam Speaker, I did not hear the comments made by the <Affiliation DbId="214329" Type="4">Minister of National Revenue</Affiliation> during oral question period. I understand the importance of the Office of the Auditor General of Canada, of course. Since I did not hear the Minister of National Revenue's comments, it is hard for me to answer my colleague's question.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -3728,7 +3756,7 @@ The House resumed consideration of Bill <Document DbId="12038143" Type="3">C-32,
             <PersonSpeaking>
               <Affiliation DbId="278348" Type="2">Mr. Martin Champoux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7487863">Madam Speaker, I thought I was going to to be taken to task by the Liberals after my speech, but instead, in hockey parlance, they are giving me an assist. I thank my colleague, who is also a member of the Standing Committee on Canadian Heritage. He knows where I stand on the media, artists and the cultural industry.</ParaText>
+              <ParaText id="7487863">Madam Speaker, I thought I was going to be taken to task by the Liberals after my speech, but instead, in hockey parlance, they are giving me an assist. I thank my colleague, who is also a member of the Standing Committee on Canadian Heritage. He knows where I stand on the media, artists and the cultural industry.</ParaText>
               <ParaText id="7487864">There are two extremely important bills that really should be passed quickly. One is stuck in the Senate, which is outrageous. The Senate needs to stop playing games with Bill <Document DbId="11528728" Type="3">C-11</Document>. The cultural industry is depending on it. The web giants need to pay their fair share in every sector in which they are making a profit in Canada and Quebec, and that includes both the cultural industry and the broadcasting industry. This is also about protecting our news media.</ParaText>
               <ParaText id="7487865">We are working hard on Bill <Document DbId="11668222" Type="3">C-18</Document>, which is currently being examined in committee. Things are moving along well, and there is goodwill. I completely agree with my colleague. We need to do everything we can to ensure that the web giants contribute in sectors where they are making exponential profits.</ParaText>
             </Content>
@@ -4179,9 +4207,6 @@ The House resumed consideration of Bill <Document DbId="12038143" Type="3">C-32,
               <ParaText id="7488038"> Is that agreed?</ParaText>
               <ParaText id="7488039">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="7488040">
-                <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</B>: It being 6.30 p.m., the House will now proceed to the consideration of Private Members' Business as listed on today's Order Paper.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4323,6 +4348,8 @@ The House resumed consideration of Bill <Document DbId="12038143" Type="3">C-32,
               <ParaText id="7488126">Is that a triumph of Canadian federalism, the imposition and creation of this framework? That is exactly the kind of imposition on western provinces that is sadly eroding people's faith in Canadian federalism, just like under Pierre Trudeau when he was prime minister, when he destroyed the Canadian energy industry for a generation in a spectacular abuse of Canadian federalism. No, the bill is not a triumph of Canadian federalism. It would not be a springboard for some abstract, mythical, undefined, so-called green economy. It would not help Canadian workers. </ParaText>
               <ParaText id="7488127">This government has been promising green job retraining for oil and gas workers for years, and it does not exist. This will not help western municipalities. This is a bill that people in western Canada do not want. It is a bill that nobody asked for. It is a bill that would at best do nothing and at worst harm my constituents. </ParaText>
               <ParaText id="7488128">I am aware, following this debate, that this is likely to pass third reading. If it does, I offer the member for <Affiliation DbId="278301" Type="2">Winnipeg South Centre</Affiliation> my personal congratulations. The passage of a private member's bill is no small thing. To him, I wish the very best, but I do not support the bill and I will oppose it. </ParaText>
+              <ParaText id="7865060">
+                <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès):</B> We will now go to the hon. member for Winnipeg South Centre for his right of reply.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="55">(1855)</Timestamp>
@@ -4551,7 +4578,7 @@ The House resumed consideration of Bill <Document DbId="12038143" Type="3">C-32,
             <Content>
               <ParaText id="7488211">Madam Speaker, I am very concerned to hear again “Let us have a round table” and “Let us have a conversation.” We need action in our communities. </ParaText>
               <ParaText id="7488212">Rural and remote health care is hurting because of many specific challenges. I am happy to inform the member that finding a family doctor is getting harder and harder. Accessing walk-in clinics is harder. Waiting too long for much-needed surgery in rural and remote communities is a long-term challenge. There is delay in medical test results and other medical services due to a lack of medical personnel. It is harder to attract people to rural and remote communities. This needs to be addressed in a more profound way.</ParaText>
-              <ParaText id="7488213"> Having to travel very long distances outside of the community to access regular and specialized medical services is very hard on families. Seniors waiting for long-term care are often in the hospital because they cannot get into a long-term care facility. There is a complete lack of mental health services that are comprehensive and support people in my riding. So, I am—</ParaText>
+              <ParaText id="7488213"> Having to travel very long distances outside of the community to access regular and specialized medical services is very hard on families. Seniors waiting for long-term care are often in the hospital because they cannot get into a long-term care facility. There is a complete lack of mental health services that are comprehensive and support people in my riding. I am—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11984075">

@@ -39,19 +39,27 @@
     <Intro>
       <ParaText id="6875157">The House met at 10 a.m.</ParaText>
       <Prayer>Prayer</Prayer>
-      <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
-      <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-      <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11452356">
-        <PersonSpeaking>
-          <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-        <Content>
-          <ParaText id="6875158">Pursuant to order made Thursday, November 25, 2021, it is my duty to inform the House that today we will begin using the electronic voting system.</ParaText>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <ParaText id="6875159">As a result, as of today and until June 23, 2022, members who are voting remotely will use the electronic voting system. </ParaText>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <ParaText id="6875160">Members are reminded that IT ambassadors are available to help them confirm their access to the system.</ParaText>
-        </Content>
-      </Intervention>
+    </Intro>
+    <OrderOfBusiness id="11453879" Rubric="Other">
+      <OrderOfBusinessTitle>Routine Proceedings</OrderOfBusinessTitle>
+      <CatchLine>Routine Proceedings</CatchLine>
+      <SubjectOfBusiness>
+        <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11452356">
+            <PersonSpeaking>
+              <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6875158">Pursuant to order made Thursday, November 25, 2021, it is my duty to inform the House that today we will begin using the electronic voting system.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6875159">As a result, as of today and until June 23, 2022, members who are voting remotely will use the electronic voting system. </ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6875160">Members are reminded that IT ambassadors are available to help them confirm their access to the system.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
       <SubjectOfBusiness id="11452409">
         <SubjectOfBusinessTitle>Privacy Commissioner</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -139,6 +147,7 @@
               <ParaText id="6875176">I note, as members may note, that we have recently received a similar government bill, Bill <Document DbId="11482450" Type="3">C-5</Document>, that also aims to eliminate mandatory minimum penalties. However, Bill C-5 only removes some, not even all, of those that have already been found to violate the charter by the courts in Canada.</ParaText>
               <ParaText id="6875177">I was the member for Saanich—Gulf Islands representing my constituents when mandatory minimums were increased. It was during the Parliament when Mr. Harper was the Prime Minister. It was then that we dove deeply into the evidence around mandatory minimum penalties. It became very clear that no criminologists anywhere in the world, nor any jurisdictions, had found that using mandatory minimum penalties actually reduced or addressed crime. They did have the effect, though, of increasing the number of people incarcerated, with additional financial burdens on the provinces.</ParaText>
               <ParaText id="6875178">I am very honoured to put forward the bill this morning, and I hope that it will meet with the approval of my colleagues.</ParaText>
+              <ProceduralText TocType="TCC" id="4">(Motions deemed adopted, bill read the first time and printed)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -227,7 +236,7 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </Intro>
+    </OrderOfBusiness>
     <OrderOfBusiness id="11452426" Rubric="Other">
       <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
       <CatchLine>Business of Supply</CatchLine>
@@ -242,7 +251,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6875199"> moved:</ParaText>
-              <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
               <ParaText id="6875200">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That, given that,</QuotePara>
@@ -295,7 +304,7 @@
             <Content>
               <ParaText id="6875209">Mr. Speaker, it gives me pleasure to stand here on the last opposition day of the year. It also gives me great pleasure to split my time with the hon. member for <Affiliation DbId="278683" Type="2">Saskatoon West</Affiliation>.</ParaText>
               <ParaText id="6875210">There is a housing crisis facing Canadians. Across the country, there are places where a couple with a dual income can simply no longer afford to live, where seniors cannot afford their monthly payments, and where university and college students have completely given up on ever owning property.</ParaText>
-              <ParaText id="6875211">The average home price in Canada is $717,000. Do members want to know what it was last year? It was $606,000. That is an 18.2% increase. To put this in perspective, when the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> came into office it was $450,000. We are seeing house prices rise this year over last year by 20%. Newbuild homes dropped 5.2%. We have the lowest supply of homes in the G7, with the fastest-rising house prices in the G7. This simply cannot continue.</ParaText>
+              <ParaText id="6875211">The average home price in Canada is $717,000. Do members want to know what it was last year? It was $606,000. That is an 18.2% increase. To put this in perspective, when the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> came into office it was $450,000. We are seeing house prices rise this year over last year by 20%. New-build homes dropped 5.2%. We have the lowest supply of homes in the G7, with the fastest-rising house prices in the G7. This simply cannot continue.</ParaText>
               <ParaText id="6875212">I want to highlight an example of a young couple right here in Ottawa. They reached out to me and shared their story. Tony and Amanda live in a 667-square-foot apartment. They just had a baby named Clara. A 667-square-foot apartment is a small place to raise a new baby, so Tony and Amanda are looking for a new home. They searched for months and months, and put in 26 offers on 26 different homes. All their offers were above the asking price. Do members know how many homes they got? Zero.</ParaText>
               <ParaText id="6875213"> I also want to share the story of Samy, a nurse in Calgary, Alberta. Samy has been saving since he was in high school for his future. He told me that he grew up in a family where the values were to work hard, get a good education and eventually own a home. Samy checks realtor.ca almost every day. He says he is just devastated seeing the prices. One area of the city where he thought he would be able to afford five years ago is now selling above asking price consistently. To this day, Samy still rents, Samy still checks realtor.ca every day and Samy is slowly losing hope.</ParaText>
               <ParaText id="6875214">Let me tell members about another couple. They are from Burnaby, British Columbia. Ryan and Sarah both graduated from university in the last three years and have good jobs. Ryan is a financial analyst and Sarah is a teacher. Both were raised with a dream that if they work hard and study hard, they will be able to afford a home one day. However, they spent the last two years looking, put in some offers, but again, zero offers were accepted. They do not want to rent forever, but what Sarah said to me is heartbreaking. She said she has simply given up. This is a young couple on the cusp of their future together. They have the majority of their lives ahead of them, but have simply given up.</ParaText>
@@ -376,7 +385,7 @@
               <ParaText id="6875242">I also want to thank the <Affiliation DbId="263838" Type="9">leader of the official opposition</Affiliation> for appointing me as deputy shadow minister for citizenship and immigration.</ParaText>
               <ParaText id="6875243">The last speech I gave in the House was in June, six months ago. Instead of coming back after the summer break, we had an unnecessary election, and it saddens me to say that on August 15, when Kabul was falling to the Taliban and when Afghan interpreters, who had risked their lives for our troops, were fearing for their own lives, our <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> was scheming with his party to call an election. We know the outcome of that election: $600 million spent to keep the status quo and Parliament quiet for five months. Now, we are back to the same old game of the New Democrats supporting the Liberals. The sad part is that it was not necessary.</ParaText>
               <ParaText id="6875244">Before the election, the leader of the NDP pledged his unwavering support to the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. In February he said, “We will vote to keep the government going.” In August, he tweeted a plea to the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to not hold an election, saying that New Democrats were eager to help expedite legislation. Just in November, he said that, if the government wanted to pass legislation, it could count on them. Meanwhile, tens of thousands of Afghans wait.</ParaText>
-              <ParaText id="6875245">Speaking of elections, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has been quick to mis-characterize our election platform when it comes to housing. This gives me a chance to remind him and the entire Liberal caucus of our real plan.</ParaText>
+              <ParaText id="6875245">Speaking of elections, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has been quick to mischaracterize our election platform when it comes to housing. This gives me a chance to remind him and the entire Liberal caucus of our real plan.</ParaText>
               <ParaText id="6875246"> Canada's Conservatives committed to building one million homes in the next three years; addressing corrupt practices, such as money laundering, which have driven up prices; making it easier for more families to get mortgages; building more homes near publicly funded transit; banning foreign investors from buying homes if they are not planning to move to Canada; partnering with municipalities and the private sector to build new rental units; encouraging foreign investment in affordable, purpose-built rental housing for Canadians; addressing, in the spirit of reconciliation, the housing needs of our indigenous communities; and redeploying underutilized government buildings as housing. This is the Conservative plan for housing in action.</ParaText>
               <ParaText id="6875247">Someday soon, we will be in government. When we are, Parliament will be sitting and ministers will have mandate letters. We will implement sound legislation that builds Canada up instead of tearing it down. In the meantime, we will do our best to hold the government to account. Our motion today is just one of the ways that we can do that.</ParaText>
               <ParaText id="6875248">We know that the government, with over 37,000 buildings, is the largest property owner in the country. We also know that much of this space is underutilized. Conservatives want to turn over at least 15% of this space for homes. </ParaText>
@@ -387,14 +396,14 @@
               <Timestamp Hr="10" Mn="35">(1035)</Timestamp>
               <ParaText id="6875253">First, they talked about the price of homes, which is continuing to rise. In Saskatoon it is not as high as in the bigger centres, but it is still increasing by 6% year over year. Even at that rate, a house will increase in price by 70% in 10 years. For a young couple, it seems impossible to save up enough for a down payment, and it forces nearly everyone to opt for the 5% down payment option. The problem is that CMHC insurance fees eat up almost all of that down payment, so the typical first-time homebuyer claws and scratches to save, only to give that down payment to the government. </ParaText>
               <ParaText id="6875254">At least interest rates are low, but they will not be for long. The historic lows are coming to an end, meaning big surprises for homeowners at renewal time. To provide context, my first mortgage 30 years ago was at 13%. Do members know why rates were that high? If they stay tuned, I will talk about it in a minute.</ParaText>
-              <ParaText id="6875255">The second thing I heard was that the cost of rent keeps getting higher. A cheap place in Saskatoon is $1,000 a month now. That is well beyond the affordability of many lower income folks. It forces people to share housing, couch surf or simply live on the streets. I have had many immigrants say to me that they came to Saskatoon because rent and house prices were low. This is no longer the case, causing some of them to have to move away to larger centres.</ParaText>
+              <ParaText id="6875255">The second thing I heard was that the cost of rent keeps getting higher. A cheap place in Saskatoon is $1,000 a month now. That is well beyond the affordability of many lower-income folks. It forces people to share housing, couch surf or simply live on the streets. I have had many immigrants say to me that they came to Saskatoon because rent and house prices were low. This is no longer the case, causing some of them to have to move away to larger centres.</ParaText>
               <ParaText id="6875256">Third, people spoke about the direct impact on our homeless population. More and more people are sleeping on the streets. Besides COVID, addictions and mental health problems, the cost of housing is now further complicating the lives of our homeless population. Just this morning, Saskatoon city council was forced to approve a plan for a temporary shelter to house 50 people over the winter as an emergency measure.</ParaText>
               <ParaText id="6875257">What about the Liberals' rapid housing initiative? As our local paper said, “Saskatoon struck out in the first round of...$1 billion”. Apparently, Saskatoon was not a target area for the Liberals' spending. Finally, last week the government did pledge $7.5 million to build 34 homes, but it is a very modest start, and I believe the government should be embarrassed, considering that Saskatoon is one of Canada's 20 largest cities.</ParaText>
               <ParaText id="6875258">I mentioned that 30 years ago my first mortgage was 13%. Do members know why rates were so high back then? Out-of-control government spending led to inflation. Which government was in power for most of the years leading up to this crisis? It was the Liberals. Who was the prime minister who started all the excessive spending? It was Pierre Elliott Trudeau. There is a direct link between excess government spending and inflation. Excess spending increases inflation, which increases interest rates. It is just a matter of time, and it appears that time is now.</ParaText>
               <ParaText id="6875259">We cannot just blame COVID. The Liberal spending spree started long before COVID, as reported by the Parliamentary Budget Officer this week. The Liberals have been adding programs and civil servants from the first day they were elected. Their philosophy is that government is the solution to every problem. The more government and the bigger it is, the better. The finance <Affiliation DbId="263831" Type="4">minister</Affiliation> said it would be irresponsible not to borrow money, since interest rates are so low. The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> famously said he does not think about monetary policy, which means he is not worried about inflation or the economy.</ParaText>
-              <ParaText id="6875260">The Liberals made a trillion-dollar bet that interest rates would stay low. It appears that they were wrong, and homeowners will pay the price. We have seen food inflation at 15% and housing inflation at more than 20%. Average pay cheques are barely rising. These are real-life consequences for a <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and a <Affiliation DbId="263831" Type="4">finance minister</Affiliation> who have clearly stated they do not care about the economic consequences of their actions. Inflation is rising, and interest rates will surely follow.</ParaText>
+              <ParaText id="6875260">The Liberals made a trillion-dollar bet that interest rates would stay low. It appears that they were wrong, and homeowners will pay the price. We have seen food inflation at 15% and housing inflation at more than 20%. Average paycheques are barely rising. These are real-life consequences for a <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and a <Affiliation DbId="263831" Type="4">finance minister</Affiliation> who have clearly stated they do not care about the economic consequences of their actions. Inflation is rising, and interest rates will surely follow.</ParaText>
               <ParaText id="6875261">We can contrast that with the Conservative plan, which has two underlying foundations. One is that deficit spending and massive debt will hurt our long-term prosperity. Any Canadian who has piled credit card debt on top of credit card debt knows that reality. Eventually it gets out of control. The second is that the current macroeconomic reality means that inflation is out of control. Wages are stagnant and prices are going up. Purchasing power goes down and people get poorer.</ParaText>
-              <ParaText id="6875262">The Conservative party has always been the party Canadians turn to when the economy needs mending. We are here to provide solutions to Canada's housing crisis. Conservatives have always fixed the mess created by the Liberals, and we will do it again.</ParaText>
+              <ParaText id="6875262">The Conservative Party has always been the party Canadians turn to when the economy needs mending. We are here to provide solutions to Canada's housing crisis. Conservatives have always fixed the mess created by the Liberals, and we will do it again.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="10" Mn="40">(1040)</Timestamp>
@@ -590,7 +599,7 @@
               <Affiliation DbId="278710" Type="2">Ms. Jenny Kwan (Vancouver East, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875335">Madam Speaker, the reality is that Canada is actually losing more affordable housing and social housing than it is creating. During the campaign, the Liberal government only committed to 20,000 units of non-profit affordable housing to be built and created.</ParaText>
-              <ParaText id="6875336">My question to the parliamentary secretary is this. Would she call on her own government to do what the NDP has been advocating for? That is to build 500,000 units of affordable, cooperative housing so that we can, in fact, give people who need housing and who are unhoused the opportunity to have a home?</ParaText>
+              <ParaText id="6875336">My question to the parliamentary secretary is this. Would she call on her own government to do what the NDP has been advocating for? That is to build 500,000 units of affordable, co-operative housing so that we can, in fact, give people who need housing and who are unhoused the opportunity to have a home?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -618,7 +627,7 @@
               <ParaText id="6875341">I have noticed, and I am sending them the signal, that this issue has been very much on the table since we resumed two weeks ago. I am pleased with that. The Conservatives have been asking a lot of questions, and the Liberals have even been planting questions on this issue to pretend that they are dealing with it. In fact, one of the things I hate most in the House is seeing a Liberal backbencher read out a question to a minister, who then thanks them for asking such a good question and doing such a wonderful job. I think it is bad acting and a huge waste of everyone's time.</ParaText>
               <ParaText id="6875342">That is where we stand. Six months down the road, we are going to talk about housing. I remember doing a speech about housing in June. Unfortunately, the situation has not changed. It has gotten even worse.</ParaText>
               <ParaText id="6875343">There is quite a contradiction that I need to point out, because it makes no sense. We just had a totally useless election. We wasted a lot of time, energy and, most of all, money. We just spent $600 million on an election that yielded the same results as the previous one. Do my colleagues know how many social housing units $600 million would build? We could have helped 3,000 people, like women fleeing domestic violence, people with mental health issues, and seniors made more vulnerable by the pandemic. We could have used that money to house these people.</ParaText>
-              <ParaText id="6875344">It is shocking how much time we wasted, all to end up with the same result. We have the same Parliament: the Conservatives are in the same place, the Liberals are in the same place, the NDP is in the same place, near the door. It is all the same in the same Parliament. It is outrageous.</ParaText>
+              <ParaText id="6875344">It is shocking how much time we wasted, all to end up with the same result. We have the same Parliament: The Conservatives are in the same place, the Liberals are in the same place, the NDP is in the same place, near the door. It is all the same in the same Parliament. It is outrageous.</ParaText>
               <ParaText id="6875345">During the election campaign, one thing kept coming up. At least, the people in the Bloc Québécois heard it a lot, and I cannot help but mention it today because it is very important. We kept hearing that the Bloc Québécois will never be in power, which means that, on a number of issues, there is nothing it can do or decide, and that the Bloc will never be the one making the decisions. We heard that a lot during the election campaign.</ParaText>
               <ParaText id="6875346">Consider Montreal, for example. Right now, 23,000 people in Montreal are on the waiting list for low-cost housing. Since 2015, when the Liberals came to power, the numbers have only grown. If we look at the electoral map, Montreal is almost entirely red. Some 25 Liberal MPs, including nine ministers, are supposed to be sitting down making decisions. There are nine federal government ministers on the Island of Montreal, including the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. They were told that they should be sitting at the table where decisions are made. I imagine that the Prime Minister is also at that table and that he can make decisions. His own riding, <Affiliation DbId="278369" Type="2">Papineau</Affiliation>, is one of the ridings struggling most with the housing crisis on the Island of Montreal. That is something worth mentioning. What is our Prime Minister working on? What does he do all day?</ParaText>
               <ParaText id="6875347">Let us be honest. We are going through a difficult time. There is a housing crisis, but that is not the only crisis there is. In fact, right now, there are four major crises in Canada.</ParaText>
@@ -861,7 +870,7 @@
             <Content>
               <ParaText id="6875457">Madam Speaker, once again, it is the same thing. Is housing a problem for seniors in this country? Yes, it is. These individuals are often on a fixed income and they are seeing rents go up. It is a real problem.</ParaText>
               <ParaText id="6875458">However, the Conservatives offer no real solutions. If the federal land they want to free up is used by developers to build condos for the wealthy, that will not help impoverished seniors who are struggling and have very minimal resources.</ParaText>
-              <ParaText id="6875459">In Montreal, the Peel Basin is federal land and it has potential. I hope it will be used for affordable social housing and not for a baseball stadium, which would be a waste of space. I at least hope that neither government, Quebec or Ottawa, puts a penny into that, because it would be madness.</ParaText>
+              <ParaText id="6875459">In Montreal, the Peel Basin is federal land and it has potential. I hope it will be used for affordable social housing and not for a baseball stadium, which would be a waste of space. I at least hope that neither government, Quebec nor Ottawa, puts a penny into that, because it would be madness.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -899,7 +908,7 @@
               <ParaText id="6875468">Madam Speaker, I thank my hon. colleague for his speech and the ideas he has shared about the housing crisis.</ParaText>
               <ParaText id="6875469">My colleague stated earlier that the Conservatives cannot say the words “social housing”. I am therefore going to say them: “social housing”.</ParaText>
               <ParaText id="6875470">In 2009 and 2011, when I was here in the House of Commons under a Conservative government, funding was made available for housing co-operatives in my riding. Members cannot say that Conservatives never did that. On the contrary, we did so several times.</ParaText>
-              <ParaText id="6875471">Regardless of the percentage of land available or not, what we proposed in our election platform was to make land available to volunteer oragnizations or co-operatives in order to create social housing. I will say it again, “social housing”. Does my colleague think that is a good solution?</ParaText>
+              <ParaText id="6875471">Regardless of the percentage of land available or not, what we proposed in our election platform was to make land available to volunteer organizations or co-operatives in order to create social housing. I will say it again, “social housing”. Does my colleague think that is a good solution?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
@@ -963,9 +972,9 @@
             <PersonSpeaking>
               <Affiliation DbId="278265" Type="2">Mrs. Karen Vecchio (Elgin—Middlesex—London, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6875495">Madam Speaker, I thank the member for <Affiliation DbId="278710" Type="2">Vancouver East</Affiliation> for her speech. I know her passion. I have watched her work on this file for a number of a years for those who are in need of social supports. To any candidate who has ever questioned how hard she works on this, I would say they should look at her record, because she has made many speeches on these types of actions.</ParaText>
+              <ParaText id="6875495">Madam Speaker, I thank the member for <Affiliation DbId="278710" Type="2">Vancouver East</Affiliation> for her speech. I know her passion. I have watched her work on this file for a number of years for those who are in need of social supports. To any candidate who has ever questioned how hard she works on this, I would say they should look at her record, because she has made many speeches on these types of actions.</ParaText>
               <ParaText id="6875496">Some of the greatest concerns I see, though, are with home ownership, recognizing the difficulties of getting a down payment. My son has about $30,000 in the bank, which does not give him much of an option to try to get into the housing market. I believe that the inability to save money is because of inflation and the cost of living. Everything is going up. How can someone afford to get into a home if they cannot afford to save money?</ParaText>
-              <ParaText id="6875497">I do not mean to sound silly, but does the member for Vancouver East believe this is because of “justinflation”?</ParaText>
+              <ParaText id="6875497">I do not mean to sound silly, but does the member for Vancouver East believe this is because of “just inflation”?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11452919">
@@ -1007,7 +1016,7 @@
               <Affiliation DbId="252898" Type="2">Ms. Lindsay Mathyssen (London—Fanshawe, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875507">Madam Speaker, I truly appreciate the incredible work done by my colleague from <Affiliation DbId="278710" Type="2">Vancouver East</Affiliation>, who is such a strong advocate for those in need of the affordable housing piece that New Democrats fight for on a daily basis. </ParaText>
-              <ParaText id="6875508">In my riding, in the city of London, there are 5,000 people on the waitlist for affordable housing. It is indeed at a crisis level. One of the things I am always upset with regarding what has happened through government inaction over the years is the role the federal government has played.</ParaText>
+              <ParaText id="6875508">In my riding, in the city of London, there are 5,000 people on the wait-list for affordable housing. It is indeed at a crisis level. One of the things I am always upset with regarding what has happened through government inaction over the years is the role the federal government has played.</ParaText>
               <ParaText id="6875509">It used to be that the government would build en masse affordable, co-operative housing. This was done at the provincial and federal levels, but—</ParaText>
             </Content>
           </Intervention>
@@ -1042,7 +1051,7 @@
               <ParaText id="6875514">It is always an honour to rise in the House and to speak, especially on the important motion we have before us today, which is our opposition day motion. Before I get started, I would like to give some credit. I am a shameless team promoter. I love this team. I will say it time and again. I want to give credit to the member for <Affiliation DbId="278473" Type="2">Mission—Matsqui—Fraser Canyon</Affiliation> for all of the incredible work he did on this file in the last Parliament. In fact, his work was used as the basis for a lot of our platform development. It received accolades from many groups across the country for the great ideas within our platform regarding housing. I wish him the best in the Asia-Pacific development file as he continues on. I also wish the best for the residents of B.C. as they come out of the difficult time they have been going through.</ParaText>
               <ParaText id="6875515">I would also like to recognize the wonderful member of Parliament for <Affiliation DbId="278744" Type="2">Edmonton Riverbend</Affiliation>, who gave me the honour of speaking here today. I do not know if members know this, but he is the father of three children, including the beautiful baby Hugh. He knows this issue very well, because he is a family man. I have family who lives in his riding. I have mentioned that to him before. This affects him and his family and everyone in his community, so I am really happy to see him taking the charge on this motion and on the discussion here today.</ParaText>
               <ParaText id="6875516">I held this file under families, children and social development when I served as the shadow minister in that role. With that, I would like to recognize the new member for <Affiliation DbId="278548" Type="2">Fort McMurray—Cold Lake</Affiliation>. What a fireball she is. I love that lady. She is a new mother and a strong voice for her constituents and for Albertans. When she got this role, I told her that this file was hard. I will tell members what I saw when I held that role of families, children and social development and housing was still under that file.</ParaText>
-              <ParaText id="6875517">I saw government members traipse across the country, announce new housing initiatives, pat themselves on the backs and call it a day. They would make outrageous claims. In fact, the <Affiliation DbId="278914" Type="4">Minister of Housing and Diversity and Inclusion</Affiliation> continues to make claims. For example on November 29 of this year, he said, “Mr. Speaker, every Canadian deserves a safe and affordable place to call home. Since we came into office, we have helped over a million families get the housing they need”. He also said, on December 2, 2021, “We will keep working to make sure every Canadian has an affordable place to call home.”</ParaText>
+              <ParaText id="6875517">I saw government members traipse across the country, announce new housing initiatives, pat themselves on the backs and call it a day. They would make outrageous claims. In fact, the <Affiliation DbId="278914" Type="4">Minister of Housing and Diversity and Inclusion</Affiliation> continues to make claims. For example, on November 29 of this year, he said, “Mr. Speaker, every Canadian deserves a safe and affordable place to call home. Since we came into office, we have helped over a million families get the housing they need”. He also said, on December 2, 2021, “We will keep working to make sure every Canadian has an affordable place to call home.”</ParaText>
               <ParaText id="6875518">That is not what I saw in my role at that time. I read the files. I looked around my community and I saw two things. I saw a government destroying my local economy with glee and forcing businesses and residents to vacate buildings, because all the business was gone and all the jobs had been lost. These buildings were being purchased by the government for a song and being turned into subsidized housing, and then the government declared a victory. This is what I saw time and again.</ParaText>
               <ParaText id="6875519">I will repeat that. The government would destroy the economy, force all the businesses to close, take all the good jobs away, purchase the buildings for a song, turn them into subsidized housing and say it had done a great job. It was terrible. There are no winners in that model.</ParaText>
               <ParaText id="6875520">While the government was passing Bill <Document DbId="9630600" Type="3">C-69</Document>, the no-more-pipelines bill, Bill <Document DbId="8936657" Type="3">C-48</Document>, the tanker moratorium bill, and the clean fuel standard, jumping, cheering and drinking out of their soggy paper straws, my constituents were suffering. They were wondering whether they could keep their houses or if they would have to move in with their sisters. They wondered how they were going to make rent that month, but the government did not care. Its members would show up on this floor week after week, claiming victory.</ParaText>
@@ -1180,7 +1189,7 @@
               <Affiliation DbId="278648" Type="2">Mr. Denis Trudel (Longueuil—Saint-Hubert, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875567">Madam Speaker, we are facing a housing crisis, and the market alone will not fix it. It has failed to do so thus far.</ParaText>
-              <ParaText id="6875568">Groups involved in housing advocacy in Quebec, such as the Réseau québécois des OSBL d'habitation, FRAPRU, federations of housing cooperatives and even municipalities across Canada are unanimous. Somewhere in the process, the federal government must invest money to house the most vulnerable. The market alone will never do it. </ParaText>
+              <ParaText id="6875568">Groups involved in housing advocacy in Quebec, such as the Réseau québécois des OSBL d'habitation, FRAPRU, federations of housing co-operatives and even municipalities across Canada are unanimous. Somewhere in the process, the federal government must invest money to house the most vulnerable. The market alone will never do it. </ParaText>
               <ParaText id="6875569">If the Conservatives were in power, would my colleague agree that the government should invest 1% of its budget to house the most vulnerable in this country?</ParaText>
             </Content>
           </Intervention>
@@ -1201,7 +1210,7 @@
               <ParaText id="6875573">Madam Speaker, I want to expand upon the question I posed to my colleague across the way. There are serious fundamental flaws with this motion. Over the years I have seen many opposition motions. When I look at this motion, I really do not know where it is coming from. I do not know what math the member for <Affiliation DbId="278241" Type="2">Carleton</Affiliation>, who is likely one of the authors behind it, used. </ParaText>
               <ParaText id="6875574">I want to be very specific about clause (a), which reads, “review and consolidate all federal real estate and properties in Canada in order to make at least”, and I would underline this part, “at least 15% available for residential development”. The member who introduced the motion said there are 41 million hectares, so it would be 15% of that 41 million hectares. Basic math tells me that we are talking about over six million hectares.</ParaText>
               <ParaText id="6875575">
-                <B>An hon member:</B> That is ridiculous.</ParaText>
+                <B>An hon. member:</B> That is ridiculous.</ParaText>
               <ParaText id="6875576">
                 <B>Mr. Kevin Lamoureux:</B> The Conservative member says it is ridiculous. It is a Conservative motion. I agree it is ridiculous.</ParaText>
               <ParaText id="6875577">Let us think about it. Parks Canada has 35.7 million hectares, Environment Canada has 2.3 hectares and National Defence has 2.2 million hectares. If we add up those three, it equals 40 million hectares. The Conservatives are saying 15% of 41 million, so are they suggesting that we get rid of parklands? Yes, based on their own numbers, they are. I do not understand where the Conservatives are getting their numbers. When we read the motion, we see that this is just one example.</ParaText>
@@ -1225,12 +1234,12 @@
               <ParaText id="6875593">We have resident groups, as an example, in our communities. We have advocates for people who are financially challenged. We have people who do not have homes. There are so many people who are out there. The idea of having that debate on the floor of the House is far better than what is being proposed today, even though I am still allowed to talk about it, but that is not what we are actually voting on.</ParaText>
               <ParaText id="6875594">What we are voting on has significant flaws to it. I made reference to the land usage, and yes, we need to see more land and more homes. That is nothing new. We all know that, but it is not going to be the federal government releasing 41 million hectares and closing down our parks and so forth. The way we are going to see the number of homes that are needed being built is not by Ottawa opening the purse and building them all.</ParaText>
               <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
-              <ParaText id="6875595">Ottawa needs to keep doing what is has been doing, coming to the table with substantial financial resources, working with the different organizations and levels of government, trying to develop a strategy that will see more homes being built in our communities. That is why the motion before us misses the mark.</ParaText>
+              <ParaText id="6875595">Ottawa needs to keep doing what it has been doing, coming to the table with substantial financial resources, working with the different organizations and levels of government, trying to develop a strategy that will see more homes being built in our communities. That is why the motion before us misses the mark.</ParaText>
               <ParaText id="6875596">The primary recommendations I would have put forward in a resolution dealing with housing in Canada would be all-encompassing. They would address the finances, but I do not believe there is a member in the House who can say that as a government we have not committed enough financial resources. If members attempt to do that, I would ask them to reflect on their own election platforms.</ParaText>
               <ParaText id="6875597">We are at the table. We want to work with the different stakeholders toward a resolution that encourages not only Ottawa, but provincial jurisdictions of all political stripes and municipalities of all different sizes to recognize that we have a national situation, from coast to coast to coast, with which Canadians want us to deal. We want to build the consensus. We want to see the different levels of government move forward on the file. We want to empower the many different stakeholders that have the ability to contribute.</ParaText>
-              <ParaText id="6875598">The riding of Winnipeg North has a lot of things within it that could be carried throughout the country, such as the demographics and economic fabric of the community. In Amber Trails, for example, beautiful brand-new homes are being built, ranging from $600,000 to $700,000 or even more. More modest homes, around the $300,000 range, are being build in Tyndall Park. Some of the older and more established homes with a great deal of character are in the traditional north end, ranging from $150,000 to $200,000 in the Point Douglas area. I could be out somewhat with my prices, but the point is that we need to take a holistic approach to dealing with housing in Canada.</ParaText>
+              <ParaText id="6875598">The riding of Winnipeg North has a lot of things within it that could be carried throughout the country, such as the demographics and economic fabric of the community. In Amber Trails, for example, beautiful brand-new homes are being built, ranging from $600,000 to $700,000 or even more. More modest homes, around the $300,000 range, are being built in Tyndall Park. Some of the older and more established homes with a great deal of character are in the traditional north end, ranging from $150,000 to $200,000 in the Point Douglas area. I could be out somewhat with my prices, but the point is that we need to take a holistic approach to dealing with housing in Canada.</ParaText>
               <ParaText id="6875599"> For the first time in generations, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, the <Affiliation DbId="278914" Type="4">Minister of Housing</Affiliation> and the Liberal caucus are committed to being at the table and making a difference when it comes to housing. We would appeal to all members of the House of Commons to get on board, to realize what actually is on the table and to start to work with the different levels of government. They can talk to their MLAs, city councillors, rural municipal reeves and mayors, and reach out to organizations like Habitat for Humanity and the many other non-profit social progressive-minded organizations and others to tap into how they might be able to contribute to a housing plan, a plan that the Prime Minister and all of us want to see. </ParaText>
-              <ParaText id="6875600">People have a right to have a home. We need to continue to talking about that and saying it. It is important we do that.</ParaText>
+              <ParaText id="6875600">People have a right to have a home. We need to continue talking about that and saying it. It is important we do that.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
@@ -1381,9 +1390,9 @@
               <ParaText id="6875641">The government now takes enormous credit for its national housing strategy, which includes its signature program first announced just before the 2019 election: the first-time homebuyer incentive. I want to talk about this program, because as recently as during these past two weeks, the beginning of this Parliament, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has cited this program in question period in response to questions from the opposition about inflation and housing affordability. </ParaText>
               <ParaText id="6875642">This program was designed to help first-time homebuyers struggling to access mortgage credit under the government's so-called stress test. The stress test was actually put in the first place to try to cool the housing market by restricting access to mortgages. When the government realized the people who were being punished the most by the stress test were first-time buyers in real estate markets other than Vancouver and Toronto, it announced this program and called it “transformational”, claiming 100,000 Canadian families would achieve the dream of home ownership through the program.</ParaText>
               <Timestamp Hr="13" Mn="15">(1315)</Timestamp>
-              <ParaText id="6875643">Under this program, a would-be homebuyer must be an absolute top-tier borrower in terms of credit eligibility, employment and whatnot. They would had to have saved 5% down from their own resources, and they may apply to have the government supply another 5%, which would have the effect of very slightly reducing the amount that they need to borrow from the bank and therefore slightly reduce their monthly payment. The borrower can repay the government later, either when they sell the home or by paying out and discharging the government's interest in the property based on a future appraised value. This was the government's 2019 solution for access to home ownership. </ParaText>
+              <ParaText id="6875643">Under this program, a would-be homebuyer must be an absolute top-tier borrower in terms of credit eligibility, employment and whatnot. They would have to have saved 5% down from their own resources, and they may apply to have the government supply another 5%, which would have the effect of very slightly reducing the amount that they need to borrow from the bank and therefore slightly reduce their monthly payment. The borrower can repay the government later, either when they sell the home or by paying out and discharging the government's interest in the property based on a future appraised value. This was the government's 2019 solution for access to home ownership. </ParaText>
               <ParaText id="6875644">This solution is to offer something to people who would have qualified anyway and would have had access to mortgage credit. By giving them the chance to have the government be an equity partner with them in their own home, when the homeowner eventually sells the property, the government gets half of the profit, but if the property goes down in value, the taxpayer shares in the loss. This was the Liberals' solution to access home ownership before the 2019 election. They are still talking about it now as if this is somehow part of their solution to the current crisis that we are in. This program was launched just before the election, and it is now entering its third year. As of July, only 9,000 Canadians had accessed this program; this “transformational” program, they claimed.</ParaText>
-              <ParaText id="6875645">Last night, during committee of the whole, I asked the <Affiliation DbId="278905" Type="4">Associate Minister of Finance</Affiliation> for an up-to-date figure, because that 9,000 figure was from July. He had several, very capable Finance Department officials around the table, but he chose to ignore that question, and so the July number is the most up to date one we have. However, there is no question that this program has been a complete failure. It has not really addressed anything. It is hardly “transformational”. The problem of affordability and home ownership being out of reach for so many Canadians has gotten much worse since this program was announced.</ParaText>
+              <ParaText id="6875645">Last night, during committee of the whole, I asked the <Affiliation DbId="278905" Type="4">Associate Minister of Finance</Affiliation> for an up-to-date figure, because that 9,000 figure was from July. He had several, very capable Finance Department officials around the table, but he chose to ignore that question, and so the July number is the most up-to-date one we have. However, there is no question that this program has been a complete failure. It has not really addressed anything. It is hardly “transformational”. The problem of affordability and home ownership being out of reach for so many Canadians has gotten much worse since this program was announced.</ParaText>
               <ParaText id="6875646">Today, Conservatives are proposing meaningful solutions that will actually address some of the limitations on housing supply while assuring existing homeowners and prospective homeowners that owning a principal residence, we believe and the House affirms, is an important foundation for stable families and communities, and that the government will not tax the primary residences upon sale.</ParaText>
               <ParaText id="6875647"> The Conservatives are proposing that the federal government review and consolidate federal real estate properties and make 15% available for residential development. We heard today that the federal government owns tens of thousands of buildings. These buildings are in various states of repair or disrepair, with wildly varying degrees of functionality or obsolescence. Many of these buildings may not be worthwhile and may not be in the public interest for the Crown to continue to hold them. Commercial buildings have a life cycle, and the highest and best use for land varies over time. We ask the government to take a serious look at whether it is in the public interest to continue to own many of these properties. With large amounts of land and thousands of buildings, surely there are some that the federal government can use to add to the supply of housing to do something to arrest this out-of-control, continuing inflation in real estate.</ParaText>
               <ParaText id="6875648">Another factor limiting the supply of homes is the existence of unoccupied homes in Canada. Conservatives are proposing to prevent foreign investors from parking their money in Canada as a place to sit money in a vacant property. For many years now, it has been widely known that Canada's real estate market has been a prime destination for wealthy foreigners to, at best, take advantage of Canada's relative stability and rule of law as a hedge on their foreign wealth or, at worst, use as a haven for money laundering among the world's kleptocrats. It is time for meaningful action. No foreign national should be permitted to buy a home in Canada just to have it sit vacant while Canadian families give up the dream of ownership.</ParaText>
@@ -1477,7 +1486,7 @@
               <ParaText id="6875666">Madam Speaker, why? That is the most basic question anyone asks when something strange happens anywhere in nature. Why is it that a family in Riverside South, a suburban community 25 minutes from here, has been bid out on seeking a house eight times, most recently watching one normal middle-class house go $400,000 over the asking price, from $800,000 to $1.2 million? Why? Why have housing prices gone up 32% in a period of just a year and a half, while the economy has actually shrunk? </ParaText>
               <ParaText id="6875667">Why are housing prices going up while wages in real, inflation-adjusted terms are going down? Why is this incredible bubble filling with air? Let us go through the reasons that we have been given for the recent housing bubble. Some people blame house prices in Canada wrongly on immigration. We know that cannot be true, because throughout COVID there was almost no immigration, yet house prices went up. The normal flow of roughly 300,000 newcomers seeking houses nearly came to a grinding halt. Immigration cannot explain the ballooning house prices.</ParaText>
               <ParaText id="6875668">Some have blamed inflation in general on supply chain problems, but of course land does not have supply chains. It is already right beneath our feet. We do not import land on a ship. It is not stuck at a port. It was put here by billions of years of geological development. We cannot blame foreign supply chains for the booming price of housing.</ParaText>
-              <ParaText id="6875669">Nor can we blame it on global factors, because housing inflation here has been far worse than in any other nation, with the exception of New Zealand. According to Bloomberg, Canada has the second-most-inflated housing bubble. Similarly, The Economist magazine has named Canada along with New Zealand and Australia as the countries it thinks might experience a massive crash on the scale of the 2008 crisis in the United States of America. If this was a global problem, we would not be suffering a much bigger bubble than the rest of the globe. </ParaText>
+              <ParaText id="6875669">Nor can we blame it on global factors, because housing inflation here has been far worse than in any other nation, with the exception of New Zealand. According to Bloomberg, Canada has the second most inflated housing bubble. Similarly, The Economist magazine has named Canada along with New Zealand and Australia as the countries it thinks might experience a massive crash on the scale of the 2008 crisis in the United States of America. If this was a global problem, we would not be suffering a much bigger bubble than the rest of the globe. </ParaText>
               <ParaText id="6875670">Some trendy commentators have said it is just that Canadians' preferences have changed. Because of all of the cabin fever that came with lockdowns, people want to live in the countryside and have more space; therefore, they are paying more for real estate. If that were true, we could verify it simply by seeing a drop in housing prices for inner-city condos. If people were all unloading those condos to go and live in the countryside, we would see the prices of urban condos drop. In fact, they too are up 15%.</ParaText>
               <ParaText id="6875671">Finally, and more plausibly, some people have pointed to the fact that it is very hard to build anything here in Canada. That is true, and that is one of the long-term structural reasons why we have inordinately high real estate prices in Canada. We all are aware of the incompetent municipal and provincial governments that drive up housing prices with their bureaucracies, and the rich urban snobs who like to prevent people from living in their neighbourhoods by lobbying city councillors to prevent development. </ParaText>
               <ParaText id="6875672">That is all true, but it does not explain the rocketing prices that began in the spring of 2020 because, of course, snob-zoning and incompetent bureaucracies are nothing new. They did not appear in Canada. We did not suddenly have an airdrop of one million inner-city snobs on Canada when COVID hit. They have long been here with the bureaucracies backing them up, blocking us from building housing for other communities for a very long time.</ParaText>
@@ -1512,7 +1521,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6875684">Do the hon. members know and realize that they have to speak through the Chair? This is not a tier. The hon. member speaks through the Chair.</ParaText>
+              <ParaText id="6875684">Do the hon. members know and realize that they have to speak through the Chair? This is not a theatre. The hon. member speaks through the Chair.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11453199">
@@ -1525,7 +1534,7 @@
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">review and consolidate all federal real estate and properties in Canada in order to make at least 15% available for residential development;</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="6875687">It is not the Parks Canada land. Parks Canada land does not have buildings. The motion says “federal real estate and properties”. That member should—</ParaText>
+              <ParaText id="6875687">It is not the Parks Canada land. Parks Canada land does not have buildings. The motion says, “federal real estate and properties”. That member should—</ParaText>
               <ParaText id="6875688">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
@@ -1930,7 +1939,7 @@
               <ParaText id="6875792"> His Highness continues to inspire the Ismaili community to serve our fellow citizens and improve the quality of life of those around us every day. </ParaText>
               <ParaText id="6875793">As Ismailis prepare to celebrate 50 years of settlement in Canada, they recall the partnership between Canada and the Aga Khan, which enabled our community to flee hardship in East Africa in the 1970s and make this our home. Since then, Ismailis from Syria, Iran, Bangladesh and Afghanistan have found refuge in Canada, embracing the Canadian values of pluralism, kindness and compassion.</ParaText>
               <ParaText id="6875794"> As we mark the 85th birthday of His Highness Prince Karim Aga Khan, we express our gratitude for his leadership.</ParaText>
-              <ParaText id="6875795">I ask all members of the House to join me in wishing Ismailis across Canada <I>Salgirah Khushiali Mubarak.</I></ParaText>
+              <ParaText id="6875795">I ask all members of the House to join me in wishing Ismailis across Canada <I>Salgirah Khushali Mubarak.</I></ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2022,7 +2031,7 @@
             <Content>
               <ParaText id="6875814">Mr. Speaker, we are guaranteed freedom of expression in our Constitution except, apparently, according to the Toronto District School Board, when it comes to calling out anti-Semitism. </ParaText>
               <ParaText id="6875815">School board trustee Alexandra Lulka was unfairly singled out for her criticism of anti-Semitic resources distributed back in May. They promoted terrorism. Even a review concluded that the pamphlets were anti-Semitic and Lulka was right, but the TDSB's integrity commissioner went ahead and recommended censure of this trustee.</ParaText>
-              <ParaText id="6875816">The threat of censuring trustee Lulka not only shows that the TDSB does not consider the lived experiences of Jews who have faced dangerous consequences of vile hate to be valid, it shows that it does not care. It is extremely concerning given we have spent the last year facing a reckoning on racism. </ParaText>
+              <ParaText id="6875816">The threat of censuring trustee Lulka not only shows that the TDSB does not consider the lived experiences of Jews who have faced dangerous consequences of vile hate to be valid; it also shows that it does not care. It is extremely concerning given we have spent the last year facing a reckoning on racism. </ParaText>
               <ParaText id="6875817">Last night, TDSB trustees listened to reason and made the only justifiable decision. They voted no; it was 10 to seven. It should have been 17 to zero. This should have never been considered, and it is far from over in the largest taxpayer-funded school board in the country. I will never let it go unnoticed in the House.</ParaText>
             </Content>
           </Intervention>
@@ -2060,7 +2069,7 @@
               <Affiliation DbId="263838" Type="9">Hon. Erin O'Toole (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875824">Mr. Speaker, half of Canadians under 30 have given up on owning a home. The Canadian dream used to be that we worked hard so that our kids would have even more opportunity than we had. The Liberals have dashed that dream.</ParaText>
-              <ParaText id="6875825"> Inflation is driving up the price of everything. Even a quarter of those who can afford a home are vulnerable to next year's interest-rate hikes.</ParaText>
+              <ParaText id="6875825"> Inflation is driving up the price of everything. Even a quarter of those who can afford a home are vulnerable to next year's interest rate hikes.</ParaText>
               <ParaText id="6875826">Why is the <Affiliation DbId="263831" Type="4">finance minister</Affiliation> still ignoring the inflation crisis hitting Canadian families?</ParaText>
             </Content>
           </Intervention>
@@ -2255,7 +2264,7 @@
               <Affiliation DbId="278941" Type="96">Hon. Randy Boissonnault (Minister of Tourism and Associate Minister of Finance, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875869">Mr. Speaker, we saw through the campaign that the Conservative Party was skilled at flip-flopping, but I find it particularly shocking that the flip-flopping is happening during the same question period. </ParaText>
-              <ParaText id="6875870">Do they actually want us to invest more or less in Canadians, because if it is more, then they should vote for Bill <Document DbId="11473161" Type="3">C-2</Document>.</ParaText>
+              <ParaText id="6875870">Do they actually want us to invest more or less in Canadians? Because if it is more, then they should vote for Bill <Document DbId="11473161" Type="3">C-2</Document>.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -2279,7 +2288,7 @@
               <Affiliation DbId="278521" Type="2">Mr. Richard Martel (Chicoutimi—Le Fjord, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875874">Mr. Speaker, the Liberal government may well wash its hands of the situation. That is not exactly surprising, since it has never assumed its responsibilities.</ParaText>
-              <ParaText id="6875875">The Liberals have been accumulating deficits since 2015 and are increasing our debt. The government is keeping the prime rate artificially low and printing more and more money, and we have the second biggest housing bubble in the world. This <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has told us that he does not think about monetary policy.</ParaText>
+              <ParaText id="6875875">The Liberals have been accumulating deficits since 2015 and are increasing our debt. The government is keeping the prime rate artificially low and printing more and more money, and we have the second-biggest housing bubble in the world. This <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has told us that he does not think about monetary policy.</ParaText>
               <ParaText id="6875876">When will he take responsibility and do what is necessary to reduce inflation?</ParaText>
             </Content>
           </Intervention>
@@ -2828,7 +2837,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11453557">
-        <SubjectOfBusinessTitle>Disaster Assistance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Emergency Preparedness</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Barron" id="11453556">
             <PersonSpeaking>
@@ -2942,7 +2951,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278744" Type="2">Mr. Matt Jeneroux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876014">Mr. Speaker, I am absolutely certain that if you seek it, you shall find unanimous consent for the following motion: “That the House condemn the failed Liberal housing strategy, including its elections promise, found on page 13 of the platform, to impose a capital gains tax on the sale of primary residences.”</ParaText>
+              <ParaText id="6876014">Mr. Speaker, I am absolutely certain that if you seek it, you will find unanimous consent for the following motion: “That the House condemn the failed Liberal housing strategy, including its elections promise, found on page 13 of the platform, to impose a capital gains tax on the sale of primary residences.”</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11453729">
@@ -2962,15 +2971,15 @@
       <CatchLine>Government Orders</CatchLine>
       <SubjectOfBusiness id="11453754">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Criminal Code and Canada Labour Code</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Criminal Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="6876017">The House resumed from December 8 consideration of the motion that Bill <Document DbId="11474302" Type="3">C-3, An Act to amend the Criminal Code and the Canada Labour Code</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="5">Bill C-3. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Bill C-3. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="11453582">
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876018">Pursuant to the special order adopted by the House on November 25, 2021, the House will now use, for the first time in this Parliament, the remote voting application. Accordingly, before proceeding with the vote, I would like to share some information on the process for the taking of recorded divisions that members may find useful.</ParaText>
+              <ParaText id="6876018">Pursuant to the special order adopted by the House on November 25, the House will now use, for the first time in this Parliament, the remote voting application. Accordingly, before proceeding with the vote, I would like to share some information on the process for the taking of recorded divisions that members may find useful.</ParaText>
               <ParaText id="6876019">As per the special order, votes will continue to take place as per the usual process for those in the chamber. Members present in the House must stay in their seats for the duration of the voting period and should not vote via the electronic system.</ParaText>
               <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -2984,7 +2993,7 @@
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6876025"> IT ambassadors are available before, during and after a vote to assist members if they encounter difficulties with the system or for any technical matter related to the virtual sitting. It remains the responsibility of members to ensure that they have adequate connectivity to fully participate in the proceedings and that they fully complete all steps of the voting process.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="6876026">It being 3:12 p.m., pursuant to order made Thursday, November 25, 2021, the House will now proceed to the taking of the deferred recorded division on the motion at second reading stage of Bill <Document DbId="11474302" Type="3">C‑3</Document>.</ParaText>
+              <ParaText id="6876026">It being 3:12 p.m., pursuant to order made Thursday, November 25, the House will now proceed to the taking of the deferred recorded division on the motion at second reading stage of Bill <Document DbId="11474302" Type="3">C‑3</Document>.</ParaText>
               <ParaText id="6876027">Call in the members.</ParaText>
             </Content>
           </Intervention>
@@ -3348,8 +3357,8 @@
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876029">I declare the motion carried. Accordingly, the bill stands referred to the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities.</ParaText>
-              <ProceduralText TocType="TPC" id="6">Motion agreed to</ProceduralText>
-              <ProceduralText TocType="TCC" id="7">(Bill read the second time and referred to a committee)</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TCC" id="8">(Bill read the second time and referred to a committee)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3372,7 +3381,7 @@
             <Content>
               <ParaText id="6876031">Order. I cannot hear what the hon. member is saying.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6876032">Order. We are trying to conduct business on the floor of the chamber and would appreciate a bit of quiet.</ParaText>
+              <ParaText id="6876032">We are trying to conduct business on the floor of the chamber and would appreciate a bit of quiet.</ParaText>
               <ParaText id="6876033">The hon. leader of the opposition in the House has the floor.</ParaText>
             </Content>
           </Intervention>
@@ -3403,7 +3412,7 @@
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Alleged Breaches of Privilege of Two Members—Speaker's Ruling</SubjectOfBusinessQualifier>
-        <CatchLine>	Speaker's Ruling</CatchLine>
+        <CatchLine>Speaker's Ruling</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="11453655">
             <PersonSpeaking>
@@ -3446,7 +3455,7 @@
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6876057">A very similar formulation can be found in a previous edition of Erskine May, the procedural authority for the United Kingdom. As indicated by the member for <Affiliation DbId="278257" Type="2">Winnipeg North</Affiliation>, it is not found in the current edition. The circumstances in which such an issue may be raised are, however, more limited than this citation suggests.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6876058">In fact, we find very few precedents where questions of privilege from a previous Parliament were raised during a new Parliament. The member for <Affiliation DbId="278390" Type="2">Leeds—Grenville—Thousand Islands and Rideau Lakes</Affiliation> listed some of them in an intervention on November 24, 2001.</ParaText>
+              <ParaText id="6876058">In fact, we find very few precedents where questions of privilege from a previous Parliament were raised during a new Parliament. The member for <Affiliation DbId="278390" Type="2">Leeds—Grenville—Thousand Islands and Rideau Lakes</Affiliation> listed some of them in an intervention on November 24, 2021.</ParaText>
               <ParaText id="6876059"> Distinctions must be made between the matter at hand and the precedents cited. When we examine the latter, the House had not expressed itself beforehand, because the incident or problem that occurred during the previous Parliament was brought to the House's attention for the first time in light of new facts. Speaker Parent, in his ruling of October 9, 1997, found no grounds in the absence of a committee report. When the questions of privilege were raised during the second session of the 43rd Parliament, they took account of the orders then in effect.</ParaText>
               <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -3460,15 +3469,11 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11453879" Rubric="Other">
-      <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
-      <CatchLine>Business of Supply</CatchLine>
       <SubjectOfBusiness id="11453738">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Opposition Motion—Housing Supply</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
+        <CatchLine>Business of Supply</CatchLine>
+        <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="6876064">The House resumed consideration of the motion.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Samson" id="11453680">
@@ -3643,7 +3648,7 @@
               <Affiliation DbId="278722" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876128">Mr. Speaker, I want to begin by welcoming the hon. member for <Affiliation DbId="278517" Type="2">Kenora</Affiliation> here. I have had the opportunity to exchange with him in the House, and I did not have the chance to say it, but I find his approach very respectful. I really enjoy engaging with him.</ParaText>
-              <ParaText id="6876129">I want to ask whether he thinks there is a benefit, and this is not in the Conservative motion, to creating programs that encourage the building of purpose-built rental housing. It is big gap, and I wonder if he has any thoughts on that.</ParaText>
+              <ParaText id="6876129">I want to ask whether he thinks there is a benefit, and this is not in the Conservative motion, to creating programs that encourage the building of purpose-built rental housing. It is a big gap, and I wonder if he has any thoughts on that.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
@@ -3714,7 +3719,7 @@
               <ParaText id="6876155">I think of my constituents. What are they going to do? We have some of the best real estate agents and some of the best home builders. I think of Doug Tarry Homes, which has been part of the Ontario Home Builders' Association and does a lot of things with NRCan to make sure we have housing that is efficient. We are coming up with solutions. I am part of the LSTAR Libro housing coalition. We are working together in our region on what we can do better and look for some of the solutions. Therefore, land is something that we know is a problem.</ParaText>
               <ParaText id="6876156">I am going to refer back to the motion. When we talk about giving up some of the federal assets so we can build land, we are talking about, sometimes, open spaces. I think of my own downtown in St. Thomas. It is about two kilometres long. We know that there are a lot of offices. We know that there are a lot of private and government spaces that could be used for housing. </ParaText>
               <ParaText id="6876157">When it comes to working with our municipalities and our provinces, I urge members to make sure that, when we take a bite out of the housing problem we have, we have to work together. We have to look at how we can take some of these places and change them, and how we can take them from commercial entities to residential entities. That is the type of work we need to do.</ParaText>
-              <ParaText id="6876158">We have talked a lot about what the future is for our children. I just want to read from a recent report from the Mustel Group and Sotheby's International Realty Canada. It revealed the issue of the dream. I just want to read from these statistics, which read “75% of urban [Canadian] Generation Z adults are likely to buy and own a primary residence in their lifetime”.</ParaText>
+              <ParaText id="6876158">We have talked a lot about what the future is for our children. I just want to read from a recent report from the Mustel Group and Sotheby's International Realty Canada. It revealed the issue of the dream. I just want to read from these statistics, which read, “75% of urban [Canadian] Generation Z adults are likely to buy and own a primary residence in their lifetime”.</ParaText>
               <ParaText id="6876159">It then states that currently one in 10 people owns their own home, so that is a very small amount. One in 10 individuals owns their own home in generation Z. The article continues, saying that 82% are worried that they will not be able to buy in their community of choice due to the rising real estate costs.</ParaText>
               <ParaText id="6876160">I can say that is exactly what we are seeing. I am on that 401 corridor where we have seen people migrate from the GTA. I always say it is because we are one of the most beautiful constituencies in the entire country, but it is also because the cost of housing is lower there. </ParaText>
               <ParaText id="6876161">The article also states that 70% of people want to buy a family single home and that 50% have already given up the traditional dream.</ParaText>
@@ -3846,7 +3851,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278514" Type="2">Mr. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876204">Mr. Speaker, the cosy coalition between the Conservatives and the Bloc continues.</ParaText>
+              <ParaText id="6876204">Mr. Speaker, the cozy coalition between the Conservatives and the Bloc continues.</ParaText>
               <ParaText id="6876205">The member just said that the motion makes sense. The motion calls for 15% of the 41 million hectares of federal land, of which 97% are Environment, Parks Canada and National Defence. </ParaText>
               <ParaText id="6876206">I will ask a question back to the member. Can he tell us what part of those lands in Quebec he wants to give up in order to make this motion successful?</ParaText>
             </Content>
@@ -3931,8 +3936,8 @@
               <Affiliation DbId="278625" Type="2">Ms. Laurel Collins (Victoria, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876235">Mr. Speaker, in my riding, we have an incredible organization, the Aboriginal Coalition to End Homelessness. It does incredible work in our community, but it needs permanent, stable core funding.</ParaText>
-              <ParaText id="6876236"> Indigenous advocates and the NDP have been calling on the government to develop and fund a for indigenous, by indigenous housing strategy. Although the funding component is critically important, it is also important that indigenous people be directly involved in developing and governing the strategy.</ParaText>
-              <ParaText id="6876237">Why has this not happened yet? The Liberals have been in power for six years. Will the member commit to pushing her government for a for indigenous, by indigenous housing strategy?</ParaText>
+              <ParaText id="6876236"> Indigenous advocates and the NDP have been calling on the government to develop and fund a “for indigenous, by indigenous” housing strategy. Although the funding component is critically important, it is also important that indigenous people be directly involved in developing and governing the strategy.</ParaText>
+              <ParaText id="6876237">Why has this not happened yet? The Liberals have been in power for six years. Will the member commit to pushing her government for a “for indigenous, by indigenous” housing strategy?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11453963">
@@ -3956,7 +3961,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278213" Type="2">Mrs. Salma Zahid</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876243">Mr. Speaker, yes, we are seeing inflation. It is a global phenomena.</ParaText>
+              <ParaText id="6876243">Mr. Speaker, yes, we are seeing inflation. It is a global phenomenon.</ParaText>
               <ParaText id="6876244">If the hon. member really wants to help Ontario families, it is really very important to talk to his Conservative cousins in the Ontario government on $10 a day child care. That program will put more money in the hands of families in Ontario. They will save approximately $1,000 every month if the Ontario government agrees to sign onto the $10 a day child care and early learning program. It will be direct money to buy better and healthier groceries and to put their kids into programs.</ParaText>
             </Content>
           </Intervention>
@@ -3996,7 +4001,7 @@
               <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
               <ParaText id="6876261">Our motion today touches on something very serious. There is a lot of foreign money flowing into Canada's housing market. Some of this is being funded through money laundering and proceeds of crime. In some cases, foreign investors are sitting on the investments and leaving homes empty. There are 1.3 million empty homes in Canada. Obviously, we know this pushes prices up, putting home ownership further and further out of reach for more and more Canadians. The government's solution is to actually tax them 1%. Billionaires have the government on their Christmas card list because of how absolutely generous it is at the cost of Canadians.</ParaText>
               <ParaText id="6876262">Today's motion offers something better for Canadians. It is to ban foreign ownership. Billionaires abroad will not like it, but Canadians will, and our motion today has solutions. In fact, so many of my colleagues have provided thoughtful solutions in the House.</ParaText>
-              <ParaText id="6876263"> We can take, for example, the vast amount of land and number of buildings the federal government owns, more than 37,000 of them, and we have heard that number before, and nearly 41 million hectares of land. This is a substantial amount of property and buildings that could immediately provide the municipalities and provinces with help on supply. This is, after all, a supply side problem. These are tangible solutions, and we are faced with a government that simply spends more to get less.</ParaText>
+              <ParaText id="6876263"> We can take, for example, the vast amount of land and number of buildings the federal government owns, more than 37,000 of them, and we have heard that number before, and nearly 41 million hectares of land. This is a substantial amount of property and buildings that could immediately provide the municipalities and provinces with help on supply. This is, after all, a supply-side problem. These are tangible solutions, and we are faced with a government that simply spends more to get less.</ParaText>
               <ParaText id="6876264">I have more in the way of solutions. What can work well is if we tie the building of houses to infrastructure funding, infrastructure has dollars that the government spends on housing supply; that is if the infrastructure dollars ever get out the door. I know there is some trouble with that, but we suggested building more in high-density areas, working with municipalities that are already getting cash for infrastructure. Stakeholders agreed, communities in which they would be built welcomed it and it seemed the government also agreed to at least announce them over and over again, stopping short of just building them.</ParaText>
               <ParaText id="6876265">The motion makes clear that we also never want the government to commit to introducing a capital gains tax on the sale of primary residences. For communities like mine, for people like my parents who came to this country in the seventies and fulfilled their dream of home ownership through hard work, they did not have the benefit of fancy financial advisers or a retirement savings plan. For them, the equity in their homes is their retirement plan. That is it, and that is how it is for many. With that tax, I am sure we would not see very many home sales, regardless.</ParaText>
               <ParaText id="6876266">I hope members opposite understand that this is not a phenomenon that exists just in Thornhill. It exists for many others.</ParaText>
@@ -4086,9 +4091,9 @@
               </ParaText>
               <ParaText id="6876288">The motion is that simple.</ParaText>
               <ParaText id="6876289">I just received a message from my colleague from <Affiliation DbId="278177" Type="2">Lévis—Lotbinière</Affiliation> that is hot off the press. It is a press release that was just issued by one of my colleagues, the finance critic, the member for <Affiliation DbId="278241" Type="2">Carleton</Affiliation>.</ParaText>
-              <ParaText id="6876290">The press release reads as follows: “JustinFlation is coming to a grocery store near you. Families will pay an extra $1,000 to feed themselves in 2022 as inflation balloons. Inflation hurts Canadians, and 80% say that the cost-of-living crisis is making their lives less affordable. Sixty per cent of families with children under the age of 18 are afraid that they will not have enough money to buy food. The report released today only makes the situation worse. The Prime Minister's inflation tax is eating into the paychecks of middle-class Canadians while the Liberals plan to spend even more, pouring inflationary gas on the fire. Government spending increases the cost of living. Spending more money to buy fewer goods results in price increases. Enough is enough.”</ParaText>
+              <ParaText id="6876290">The press release reads as follows: “‘Just inflation’ is coming to a grocery store near you. Families will pay an extra $1,000 to feed themselves in 2022 as inflation balloons. Inflation hurts Canadians, and 80% say that the cost-of-living crisis is making their lives less affordable. Sixty per cent of families with children under the age of 18 are afraid that they will not have enough money to buy food. The report released today only makes the situation worse. The Prime Minister's inflation tax is eating into the paychecks of middle-class Canadians while the Liberals plan to spend even more, pouring inflationary gas on the fire. Government spending increases the cost of living. Spending more money to buy fewer goods results in price increases. Enough is enough.”</ParaText>
               <ParaText id="6876291">That is exactly what we are talking about today. There is a report that tells us the cost of living is going up, not just for housing, but across society, particularly when it comes to groceries. That is worrisome. </ParaText>
-              <ParaText id="6876292">The last line in the press release is also worth reading. It says, “It is clear that the Conservatives are the only party looking to lower prices, fight the rising cost of food, and bring an end to just inflation”.</ParaText>
+              <ParaText id="6876292">The last line in the press release is also worth reading. It says, “It is clear that the Conservatives are the only party looking to lower prices, fight the rising cost of food, and bring an end to ‘just inflation’.”</ParaText>
               <ParaText id="6876293">I thank my colleague from Lévis—Lotbinière for sending me this press release. I thought that it was important to share it with all of my colleagues in the House, because this is exactly what we are talking about. We are talking about the cost of living. We are talking about young families who are struggling to make ends meet and are stretching their budgets so that they can have a decent standard of living. We are talking today about how more and more young families across Canada are having a tough time realizing their dream of owning their own home.</ParaText>
               <ParaText id="6876294">The member for <Affiliation DbId="278509" Type="2">Durham</Affiliation>, the leader of the Conservative Party and the official opposition, said that a poll released yesterday shows that half of Canadians under the age of 30 have given up on the dream of home ownership. Canada is a country of wide open spaces, with room for everyone, and everyone should be able to realize that dream. When half of all young people under 30 give up on the dream of one day owning a home, we certainly have a problem as a society.</ParaText>
               <ParaText id="6876295">To make things worse, this dream will become even less attainable in the coming days, weeks and years, because real estate prices continue to rise. Some say that prices could rise by over 9% again next year. Add to that an expected rise in interest rates, and the dream of home ownership for young Canadian families is becoming increasingly out of reach.</ParaText>
@@ -4197,7 +4202,7 @@
               <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
               <ParaText id="6876337">That is better than nothing, but what did we get over three years? Nothing. Quebec wanted to be able to spend and invest that money in accordance with its own model. It wanted the money to be transferred, it wanted things to be easy and fluid so it could help people now while they need help. They went back and forth for three years because Ottawa wanted a cute maple leaf in the corner of each cheque. The government is really focused on being there during announcements. People in Quebec could not even watch those announcements because they did not have a house or a living room where they could tune in. That is what happened.</ParaText>
               <ParaText id="6876338">Here is why I will support the motion. I think housing is important, I think we need to talk about it more often and more constructively, and I think there has to be a dialogue. What we are doing today is starting that dialogue. That is why I will support the spirit of the motion.</ParaText>
-              <ParaText id="6876339">Now, I would like to talk about the Conservatives for a bit. There are some ambiguities in this motion. The Conservatives' definition of inflation, or at least their crusade against “Justinflation”, is characterized by verbal inflation. In homage to the Conservative leader, I might even suggest that they are employing a little verbal “Erinflation”. </ParaText>
+              <ParaText id="6876339">Now, I would like to talk about the Conservatives for a bit. There are some ambiguities in this motion. The Conservatives' definition of inflation, or at least their crusade against “just inflation”, is characterized by verbal inflation. In homage to the Conservative leader, I might even suggest that they are employing a little verbal “erin-flation”. </ParaText>
               <ParaText id="6876340">From the preamble to the motion, it seems as though the Conservatives never wanted to help people during the pandemic. They make it sound like the government took a bunch of Hercules aircraft, landed them across the street at the Bank of Canada, filled them with cash and then gave it to so many people that the price of houses went up.</ParaText>
               <ParaText id="6876341">I would remind the House that all parties in this place agreed to help Canadians in a time of crisis in a non-partisan way. Was it done how we wanted and exactly when we wanted? Not necessarily. Were all the amounts right? Not necessarily. Was there the necessary accountability? Perhaps not. Did it go on too long? Did we miss the mark? Maybe, but everyone agreed to it. </ParaText>
               <ParaText id="6876342">This suggests that the Conservatives may not be as willing as the Bloc to help those who are most vulnerable. Let us take the example of the federal lands. The Liberals are going to ask me what land we want. We want Mirabel back.</ParaText>
@@ -4243,7 +4248,7 @@
             <Content>
               <ParaText id="6876355">Madam Speaker, I thank the member for a very spirited debate. It is just great that we are talking about housing as a whole.</ParaText>
               <ParaText id="6876356">Now, I am not sure about Quebec, but in Toronto right now, to start and finish an apartment building is taking about 10 years. That is 10 years with the planning processes, and we are not even talking about the amount of time it takes to talk about it in the House. </ParaText>
-              <ParaText id="6876357">My question to the member is this: Does it not make sense in this motion that we would be taking the federal buildings that are available now, today, that are up, and talking about their various uses and making them into housing? Does that makes sense?</ParaText>
+              <ParaText id="6876357">My question to the member is this: Does it not make sense in this motion that we would be taking the federal buildings that are available now, today, that are up, and talking about their various uses and making them into housing? Does that make sense?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -4352,7 +4357,7 @@
             <Content>
               <ParaText id="6876403">Madam Speaker, part of the problem is that members do not necessarily know. The example just given is happening today. Civil servants are already looking at buildings with the idea of conversion. In fact the member who asked the question will know about Kapyong Barracks, former federal land now being converted to indigenous-led housing. </ParaText>
               <ParaText id="6876404">This motion is fundamentally flawed. There is all sorts of misinformation and the numbers just do not add up, yet the Bloc is cozy with the Conservatives and is supporting it blindly.</ParaText>
-              <ParaText id="6876405">Would the member not rather support a motion that provides for co-op housing and other progressive measures, some of which the member himself referred to? Why not have that in a housing motion, a motion that calls upon the federal government to work with other stakeholders to make it happen? I wonder if the member would prefer a motion of that nature, as opposed to what he is obligated to vote in favour of today?</ParaText>
+              <ParaText id="6876405">Would the member not rather support a motion that provides for co-op housing and other progressive measures, some of which the member himself referred to? Why not have that in a housing motion, a motion that calls upon the federal government to work with other stakeholders to make it happen? I wonder if the member would prefer a motion of that nature, as opposed to what he is obligated to vote in favour of today.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -4360,7 +4365,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278407" Type="2">Mr. Sébastien Lemire</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876406">Madam Speaker, in answer to my colleague from Winnipeg North, what I would have liked to vote in favour of would be a throne speech that made access to social and affordable housing a priority. The government has a responsibility to take action on that file. </ParaText>
+              <ParaText id="6876406">Madam Speaker, in answer to my colleague from Winnipeg North, what I would have liked to vote in favour of is a throne speech that made access to social and affordable housing a priority. The government has a responsibility to take action on that file. </ParaText>
               <ParaText id="6876407">The Bloc Québécois's approach is constructive. We put forward proposals, such as allocating 1% of the government's annual revenue to housing construction from now on. Knowing that there is money available to build that housing could send a message to the housing construction industry. That is one potential solution.</ParaText>
               <ParaText id="6876408">The national housing strategy could also include an acquisition fund that would enable co-operatives and non-profits to acquire housing unit buildings so as to protect that housing stock from speculation and ensure it remains truly affordable.</ParaText>
               <ParaText id="6876409">Those are two solutions that I hope the government will implement, and I would be very happy to support them. </ParaText>
@@ -4402,7 +4407,7 @@
               <ParaText id="6876425">In the last Parliament, we had another motion come before this place on affordable housing. That motion called on the government to, “examine a temporary freeze on home purchases by non-resident foreign buyers who are squeezing Canadians out of the housing market”. That is not only a completely reasonable motion, but something that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> himself promised Canadians he would do in 2019.</ParaText>
               <ParaText id="6876426">Guess what happened? Do we even need to guess? Despite all the opposition parties voting for that motion, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> voted against it. Of course, he whipped up his whole caucus to vote against it as well. Let us think about this for a moment. This is a <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> who promised to take action on foreign buyers driving up housing costs, and then, when he had the chance to vote for what he had promised Canadians he would do, he turned around and voted against it. It is literally unconscionable.</ParaText>
               <ParaText id="6876427">It is this type of thing that creates cynicism and distrust from everyday Canadians about what goes on here. These are concerns, by the way, that this <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> also professed to care about. Of course, it did not just end there. </ParaText>
-              <ParaText id="6876428">During this most recent election, an election only called by the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> because he believed he could win a majority government, he had the gall to say, “Houses shouldn’t sit empty when so many Canadians are trying to buy a home. So, we’re going to ban foreign ownership in Canada for the next two years”.</ParaText>
+              <ParaText id="6876428">During this most recent election, an election only called by the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> because he believed he could win a majority government, he had the gall to say, “Houses shouldn’t sit empty when so many Canadians are trying to buy a home. So, we’re going to ban foreign ownership in Canada for the next two years.”</ParaText>
               <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
               <ParaText id="6876429">Seriously, this is the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> who, in the 2019 election, promised to take action against foreign buyers. He then, when presented with an affordable housing motion that would allow him to honour the very promise to Canadians that he made, he turned around and voted against his own promise. In yet another election, just three months after voting against taking action on foreign owners, he promised once again that he would ban foreign ownership in Canada for the next two years.</ParaText>
               <ParaText id="6876430">To recap, he made a promise, broke that promise, made the promise again, voted against that promise and then, finally made the promise yet another time. Who does that? No one who is serious about taking action on affordable action would do that. This is six years of demonstrated inaction, failure, broken promises, blatant hypocrisy and total failure. This <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is the <I>Groundhog Day</I> of failure when it comes to broken promises on affordable housing.</ParaText>
@@ -4469,7 +4474,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278471" Type="2">Mr. Ryan Williams (Bay of Quinte, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876450">Madam Speaker, I think it is high time that we started not just using the word “crisis” when it comes to talking about our housing. As Elvis said, we need “A little less conversation, a little more action”. We need to declare housing a crisis. We need to swing hammers and get homes built in this country.</ParaText>
+              <ParaText id="6876450">Madam Speaker, I think it is high time that we started not just using the word “crisis” when it comes to talking about our housing. As Elvis said, we need “a little less conversation, a little more action”. We need to declare housing a crisis. We need to swing hammers and get homes built in this country.</ParaText>
               <ParaText id="6876451">In my home riding of Bay of Quinte, housing is in an existential crisis that needs action. The lack of homes has resulted in sky-high costs for both housing and rental units. Only a massive increase of supply will fix the situation. We need to double new builds of homes in Canada right now, utilizing the private sector with government-assisted, affordable housing, utilizing existing housing inventory from the government, at 15%, and utilizing full collaboration among all levels of government. In Canada, it is the top issue right now, with a housing bubble that has absolutely been exacerbated by COVID-19 and the amount of cheap cash that entered this country's economy.</ParaText>
               <ParaText id="6876452">What does the housing crisis mean for Canadians? It means more poverty, further out-of-reach affordable housing and a further out-of-reach ability for first-time homebuyers to afford a home in this country. It has also resulted in increased homelessness. My riding has double the homelessness rate in the last two years that it did in the four years prior. Mortgage payments now eat 45% of an average homeowner's income, which is already being eroded by massive inflation. Speaking of the inflationary tax, rental in Vancouver, Toronto and Halifax is up over 16% while paycheques are down over 3% because of inflation. </ParaText>
               <ParaText id="6876453">When we talk about a crisis, we talk about citizens who are having trouble deciding whether to pay for rent, groceries, mortgages or medication, or having to take several jobs in order to afford a down payment for a first home. </ParaText>
@@ -4958,7 +4963,7 @@
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876497">I declare the motion defeated.</ParaText>
-              <ProceduralText TocType="TPC" id="9">Motion negatived</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">Motion negatived</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4971,7 +4976,7 @@
               <Affiliation DbId="278907" Type="4">Hon. Mona Fortier (President of the Treasury Board, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="10">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="11">Motion for concurrence</ProceduralText>
               <ParaText id="6876498"> moved: </ParaText>
               <ParaText id="6876499">
                 <Quote>
@@ -5353,7 +5358,7 @@
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876503">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TPC" id="11">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Motion agreed to</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -5363,8 +5368,8 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6876504"> moved for leave to introduce Bill <Document DbId="11488565" Type="3">C-6, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2022</Document>.</ParaText>
-              <ProceduralText TocType="TCC" id="12">(Motions deemed adopted, bill read the first time and printed)</ProceduralText>
-              <ProceduralText TocType="TPC" id="13">Bill C‑6. Introduction and first reading</ProceduralText>
+              <ProceduralText TocType="TCC" id="13">(Motions deemed adopted, bill read the first time and printed)</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Bill C‑6. Introduction and first reading</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -5374,7 +5379,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6876505"> moved that the bill be read the second time and referred to a committee of the whole. </ParaText>
-              <ProceduralText TocType="TPC" id="14">Second reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Second reading</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -5784,10 +5789,10 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="15">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="16">Motion agreed to</ProceduralText>
               <ParaText id="6876515">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TCC" id="16">(Bill read the second time and the House went into committee of the whole thereon, Mr. Chris d'Entremont in the chair)</ProceduralText>
-              <ProceduralText TocType="TCC" id="17">(On clause 2)</ProceduralText>
+              <ProceduralText TocType="TCC" id="17">(Bill read the second time and the House went into committee of the whole thereon, Mr. Chris d'Entremont in the chair)</ProceduralText>
+              <ProceduralText TocType="TCC" id="18">(On clause 2)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. McCauley" id="11454282">
@@ -5816,7 +5821,7 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876520">
                 <B> Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="18"> (Clause 2 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="19"> (Clause 2 agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6876521">
                 <B>The Chair:</B> Shall clause 3 carry?</ParaText>
@@ -5824,14 +5829,14 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876523">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="19">(Clause 3 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="20">(Clause 3 agreed to)</ProceduralText>
               <ParaText id="6876524">
                 <B>The Chair:</B> Shall clause 4 carry?</ParaText>
               <ParaText id="6876525">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876526">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="20">(Clause 4 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="21">(Clause 4 agreed to)</ProceduralText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6876527">
                 <B>The Chair:</B> Shall clause 5 carry?</ParaText>
@@ -5839,28 +5844,28 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876529">
                 <B> Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="21"> (Clause 5 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="22"> (Clause 5 agreed to)</ProceduralText>
               <ParaText id="6876530">
                 <B>The Chair:</B> Shall the schedule carry?</ParaText>
               <ParaText id="6876531">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876532">
                 <B> Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="22"> (Schedule agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="23"> (Schedule agreed to)</ProceduralText>
               <ParaText id="6876533">
                 <B>The Chair:</B> Shall clause 1 carry?</ParaText>
               <ParaText id="6876534">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876535">
                 <B> Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="23"> (Clause 1 agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="24"> (Clause 1 agreed to)</ProceduralText>
               <ParaText id="6876536">
                 <B>The Chair:</B> Shall the preamble carry?</ParaText>
               <ParaText id="6876537">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876538">
                 <B> Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="24"> (Preamble agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="25"> (Preamble agreed to)</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6876539">
                 <B>The Chair:</B> Shall the title carry?</ParaText>
@@ -5868,14 +5873,14 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876541">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="25"> (Title agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="26"> (Title agreed to)</ProceduralText>
               <ParaText id="6876542">
                 <B>The Chair:</B> Shall the bill carry?</ParaText>
               <ParaText id="6876543">
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="6876544">
                 <B>Some hon. members:</B> On division.</ParaText>
-              <ProceduralText TocType="TCC" id="26">(Bill agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="27">(Bill agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -5886,7 +5891,7 @@
               <ParaText id="6876545">Shall I rise and report the bill?</ParaText>
               <ParaText id="6876546">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <ProceduralText TocType="TCC" id="27">(Bill reported without amendment) </ProceduralText>
+              <ProceduralText TocType="TCC" id="28">(Bill reported without amendment) </ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Fortier" id="11454336">
@@ -6306,7 +6311,7 @@
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876556">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TPC" id="28">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="29">Motion agreed to</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11454362">
@@ -6323,7 +6328,7 @@
               <Affiliation DbId="278907" Type="4">Hon. Mona Fortier (President of the Treasury Board, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="29">Third reading </ProceduralText>
+              <ProceduralText TocType="TPC" id="30">Third reading </ProceduralText>
               <ParaText id="6876559"> moved that the bill be read the third time and passed.</ParaText>
             </Content>
           </Intervention>
@@ -6733,9 +6738,9 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="30">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="31">Motion agreed to</ProceduralText>
               <ParaText id="6876568">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TCC" id="31">(Bill read the third time and passed) </ProceduralText>
+              <ProceduralText TocType="TCC" id="32">(Bill read the third time and passed) </ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -6771,8 +6776,8 @@
               <Affiliation DbId="278254" Type="2">Ms. Lianne Rood (Lambton—Kent—Middlesex, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876571">Mr. Speaker, on November 30, I asked the minister why the Liberal government was always leaving rural Canadians behind, and I did not receive an answer to that question. In fact, what I did receive was a bunch of talking points on what the government hopes to accomplish with broadband by 2030. While I certainly will not downplay the importance of a well-formulated plan for rural broadband, what the government is offering is not that. There are many questions that deserve an answer, such as why 2030 was chosen as the target year. If rural Canadians are important to the government, then why not set a target for 2025, which is what the Conservatives proposed?</ParaText>
-              <ParaText id="6876572">That is not all. I also wonder why the government is only targeting 5010 megabytes per second, a speed that certainly is not fast when compared with urban centres, which can have speeds of a gigabyte available. What about the cost of broadband in rural areas?</ParaText>
-              <ParaText id="6876573">Constituents are calling my office about this all the time. They are very frustrated because they are paying upwards of $1,000 a month for their cell phone bills because there is no high-speed Internet available. People are trying to work from home and take their time to do school from home, and they just cannot stream into the video options without using cellular data.</ParaText>
+              <ParaText id="6876572">That is not all. I also wonder why the government is only targeting 50/10 megabits per second, a speed that certainly is not fast when compared with urban centres, which can have speeds of a gigabyte available. What about the cost of broadband in rural areas?</ParaText>
+              <ParaText id="6876573">Constituents are calling my office about this all the time. They are very frustrated because they are paying upwards of $1,000 a month for their cell phone bills because there is no high-speed Internet available. People are trying to work from home and kids are trying to do school from home, and they just cannot stream and do the video options without using cellular data.</ParaText>
               <ParaText id="6876574">I want to know what the government's plan is to deal with affordability and stability. There is no accountability for service providers, which take the federal funding for projects bringing broadband to rural areas and then delay the last mile. Why is there no accountability to get that last mile finished? Given the government's record on managing other affordability crises, I am really skeptical of any grand promises of help from the government.</ParaText>
               <ParaText id="6876575">Rural Canadians have little choice than to wait and rely on action from the government when they are consistently faced with a downward spiral for their livelihoods. Allow me to name a few priorities for the minister that go beyond broadband, priorities that would also make a difference in the lives of rural Canadians from coast to coast to coast. Our migration from urban areas is driving the need for housing support and infrastructure. With municipalities unable to run a deficit, they often struggle to meet demands for such resources without assistance from provincial or federal governments.</ParaText>
               <ParaText id="6876576">Where does the minister stand on committing funding to partnerships with municipalities in need? It should come as no surprise that small businesses are a concern to rural Canada because they are the backbone of our economy. In rural Canada, a shortage of labour hurts the small community businesses that provide goods and services to towns. If it hurts small towns, it hurts our agriculture sector and our natural resource sector. It is a domino effect that will also affect revenue from exports. </ParaText>
@@ -6870,7 +6875,7 @@
               <Affiliation DbId="279287" Type="18">Ms. Julie Dabrusin</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876613">Mr. Speaker, I mentioned some of the initiatives we are working on, but there are many initiatives on energy efficiency in homes and buildings, and on hydrogen and nature-based solutions. The bottom line is that we know it will take nothing less than an all-out effort to confront this crisis, and that is how we are approaching this challenge.</ParaText>
-              <ParaText id="6876614">I urge the member opposite to consider the broad range of measures in our climate plan. I will refer the member back to the fact that Canada maintains a higher price on pollution than even California, and is set to pass the E.U. next year. We are set to move forward on a cap on emissions for our oil and gas sector, and we have made significant investments in energy efficiency and renewable energy.</ParaText>
+              <ParaText id="6876614">I urge the member opposite to consider the broad range of measures in our climate plan. I will refer the member back to the fact that Canada maintains a higher price on pollution than even California, and is set to pass the EU next year. We are set to move forward on a cap on emissions for our oil and gas sector, and we have made significant investments in energy efficiency and renewable energy.</ParaText>
               <ParaText id="6876615">We know there is a lot of work to do, and that is exactly what we are doing.</ParaText>
             </Content>
           </Intervention>
@@ -6884,7 +6889,7 @@
               <Affiliation DbId="278471" Type="2">Mr. Ryan Williams (Bay of Quinte, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876616">Mr. Speaker, this is my first late show, and I am happy to have the opportunity to speak again on housing. At question period, I asked whether the government believed that the supply issue was serious and whether the lack of supply and supply inflation were causing the housing crisis.</ParaText>
-              <ParaText id="6876617">I come from a region that is very much like all the other regions across Canada seeing such a dire position on housing, and this comes down to our lack of supply. Where did our numbers come from? When we compare ourselves with other G7 nations, we are dead last in supply per capita, even though we are the country with the second-most amount of land on the planet. That means all of those countries, even the U.K., an island, have way more supply per capita than Canada does, a nation with an incredible amount of land.</ParaText>
+              <ParaText id="6876617">I come from a region that is very much like all the other regions across Canada seeing such a dire position on housing, and this comes down to our lack of supply. Where did our numbers come from? When we compare ourselves with other G7 nations, we are dead last in supply per capita, even though we are the country with the second-largest amount of land on the planet. That means all of those countries, even the U.K., an island, have way more supply per capita than Canada does, a nation with an incredible amount of land.</ParaText>
               <ParaText id="6876618">When it comes to what is happening, we have all seen it and have been talking about it all day. We have people who right now, because of the lack of supply, are having trouble deciding whether they can afford rent or groceries. We have individuals who have become homeless by no choice of their own. My region has seen double the homeless population at a time when we do not need that because we have so many other problems. We also have many people who cannot find affordable housing.</ParaText>
               <ParaText id="6876619">When I talk to home builders in my region, those who are building homes, they say it is harder now than at any other time in their existence to build a home, and they are not finding support from the local government. We are now seeing it take up to two or three years before we even get subdivisions started in the ground. We have seen the conditions in Toronto, where from start to finish an apartment building now takes a decade. We have seen the conditions created when people want to put plans together and go into certain neighbourhoods. We get Nimbyism, or “not in my backyard”, because people are saying it is not something they desire. We are finding that it takes longer and longer in this country to build a home.</ParaText>
               <ParaText id="6876620">Let us look at how many homes we need. To meet the average number of houses in the rest of the G7 countries, we need, right now, 1.8 million homes. We have been hearing all week from the government about the programming that is going into building homes. However, as confirmed by the <Affiliation DbId="278908" Type="4">Minister of Immigration</Affiliation> this week in the House, the government only built 100,000 homes over six years, spending $29 billion. That is not enough.</ParaText>
@@ -6899,7 +6904,7 @@
             <Content>
               <ParaText id="6876623">Mr. Speaker, I am thrilled that the member opposite would like to speak about the economy. Around the world, governments, including Canada, are taking immediate action to address the omicron variant. Earlier this week, Canada announced strong action at our borders and in regard to testing and entry. This is another reminder that all Canadians who can, should get their vaccines as soon as possible. There is no more important economic policy for Canada today than finishing the fight against COVID.</ParaText>
               <ParaText id="6876624">Today's renewed COVID fears are also a reminder of why the measures in Bill <Document DbId="11473161" Type="3">C-2</Document>, which provides targeted personal income and business supports, are so urgent and essential. Over the last 20 months, Canadians have faced tough times. Various health and safety precautions have caused financial and emotional distress for many people, not to mention those who have also had to care for or who have lost loved ones at the same time.</ParaText>
-              <ParaText id="6876625">Across the country, many businesses have had to close, some temporarily and others permanently. The majority have experienced reduced revenues, even when they were open. This has translated into many people losing their jobs or having their hours reduced. That is why when the crisis hit, the government rapidly rolled out a full range of effective, broad-based programs under the economic response plan with much needed support for individuals, businesses and communities to see Canadians through our country's greatest economic shock since the Great Depression.</ParaText>
+              <ParaText id="6876625">Across the country, many businesses have had to close, some temporarily and others permanently. The majority have experienced reduced revenues, even when they were open. This has translated into many people losing their jobs or having their hours reduced. That is why when the crisis hit, the government rapidly rolled out a full range of effective, broad-based programs under the economic response plan with much-needed support for individuals, businesses and communities to see Canadians through our country's greatest economic shock since the Great Depression.</ParaText>
               <ParaText id="6876626">In terms of its scale, Canada's economic response, including budget 2021 investments, was one of the largest and most expeditious among G7 countries. It helped engineer a near-term economic turnaround at a faster than anticipated pace compared with some industrialized countries. This support has worked. Many businesses are now safely reopening. Employment has recovered to pre-recession levels and of the three million jobs that were lost at the peak of the crisis, all have now been recouped, faster than any other recession. Canada's economic recovery is well on track and the pandemic economy is fading from view.</ParaText>
               <ParaText id="6876627">As our government looks to secure a more prosperous future for Canadians, it is helpful to look back and consider the key measures that have helped us to get to where we are today. These include the Canada emergency response benefit, the Canada emergency wage subsidy, the Canada emergency rent subsidy and lockdown support and the Canada emergency business account. Federal support also includes significant financing for the provinces and territories through its top-ups to the Canadian health transfer, as well as through the safe restart agreement, the safe return to class fund and the essential workers support fund. All told, more than $8 out of every $10 spent to fight COVID-19 and support Canadians has come from the federal government.</ParaText>
               <ParaText id="6876628">In budget 2021, the government promised that if additional flexibility was required, based on public health considerations later in the year, it would continue to do whatever it takes to be there for Canadians. That is why in October, we announced the Canada worker lockdown benefit. We are working to ensure continued support to Canadians throughout this pandemic.</ParaText>

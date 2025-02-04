@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="12492629">
-  <StartPageNumber>19537</StartPageNumber>
+  <StartPageNumber>19527</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -336,7 +336,7 @@
       <SubjectOfBusiness id="12492715">
         <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Poilievre" id="12492714">
             <PersonSpeaking>
@@ -500,7 +500,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12492929">
-        <SubjectOfBusinessTitle>Indigenous Affairs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Housing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Idlout" id="12492759">
             <PersonSpeaking>
@@ -940,7 +940,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12492967">
         <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
-        <SubjectOfBusinessTitle>Veterans</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Veterans Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Desilets" id="12492965">
             <PersonSpeaking>
@@ -1000,7 +1000,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278430" Type="2">Mr. Terry Dowdall (Simcoe—Grey, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8090899">Mr Speaker, Liberal-appointed senators voted yesterday to keep the carbon tax pain on Canadian families and once again betray farmers by gutting Bill <Document DbId="11538831" Type="4">C-234</Document>. With food bank usage at a record high, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> should have the courage to explain why he instructed senators to keep food prices high for struggling Canadians. After eight years, the NDP-Liberal government is not worth the cost.</ParaText>
+              <ParaText id="8090899">Mr. Speaker, Liberal-appointed senators voted yesterday to keep the carbon tax pain on Canadian families and once again betray farmers by gutting Bill <Document DbId="11538831" Type="4">C-234</Document>. With food bank usage at a record high, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> should have the courage to explain why he instructed senators to keep food prices high for struggling Canadians. After eight years, the NDP-Liberal government is not worth the cost.</ParaText>
               <ParaText id="8090900">Will the Prime Minister listen to Canadians and take the carbon tax off farmers, first nations and families who are struggling to get by?</ParaText>
             </Content>
           </Intervention>
@@ -1140,7 +1140,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12493029">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Indigenous Affairs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Emergency Preparedness</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Ms. Ashton" id="12493027">
             <PersonSpeaking>
@@ -1236,7 +1236,7 @@
               <ParaText id="8090952">
                 <B>Some hon. members:</B> Oh, oh!</ParaText>
               <ParaText id="8090953">
-                <B>Hon. Pierre Poilievre:</B> Oh, that is what they are calling for. What a terrible shame.</ParaText>
+                <B>Hon. Pierre Poilievre:</B> Oh, Mr. Speaker, that is what they are calling for. What a terrible shame.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2027,7 +2027,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12493139">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Privilege </SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Reference to Standing Committee on Procedure and House Affairs</SubjectOfBusinessQualifier>
         <CatchLine>Privilege</CatchLine>
         <SubjectOfBusinessContent>
@@ -3710,7 +3710,8 @@
             <PersonSpeaking>
               <Affiliation DbId="278307" Type="2">Hon. Bardish Chagger (Waterloo, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8091052">I have the honour to present, in both official languages, the 32nd report of the Standing Committee on Procedure and House Affairs. The committee advises the following.</ParaText>
+              <ProceduralText TocType="TPC" id="15">Motion for concurrence</ProceduralText>
+              <ParaText id="8091052">Madam Speaker, I have the honour to present, in both official languages, the 32nd report of the Standing Committee on Procedure and House Affairs. The committee advises the following.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="8091053">Pursuant to Standing Order 91.1(2), the Subcommittee on Private Members' Business met to consider the item added to the order of precedence on Thursday, November 9, 2023, and recommended that the item listed herein, which has been determined should not be designated non-votable, be considered by the House.</ParaText>
             </Content>
@@ -3721,6 +3722,7 @@
               <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8091054">Pursuant to Standing Order 91.1(2), the report is deemed adopted.</ParaText>
+              <ProceduralText TocType="TCC" id="16">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3732,7 +3734,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278131" Type="2">Ms. Lena Metlege Diab (Halifax West, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8091055"> I have the honour to present, in both official languages, two reports from the Standing Committee on Justice and Human Rights.</ParaText>
+              <ParaText id="8091055">Madam Speaker, I have the honour to present, in both official languages, two reports from the Standing Committee on Justice and Human Rights.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="8091056">The first is the 17th report of the Standing Committee on Justice and Human Rights in relation to Bill <Document DbId="12177676" Type="4">C-321</Document>, an act to amend the Criminal Code, assaults against health care professionals and first responders. The committee has studied the bill and has decided to report the bill back to the House with amendments.</ParaText>
               <ParaText id="8091057">The second is the 18th report of the Standing Committee on Justice and Human Rights, and is about a motion adopted by the committee on Tuesday, December 5, 2023. It is entitled “Measures to Protect Canadians”.</ParaText>
@@ -3973,6 +3975,16 @@
               <ParaText id="8091110">Madam Speaker, furthermore, if the government's responses to Questions Nos. 1848, 1851 to 1853, 1856, 1857 and 1859 could be made orders for return, these returns would be tabled immediately.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="12493798">
+            <PersonSpeaking>
+              <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8091125">Is it agreed?</ParaText>
+              <ParaText id="8091126">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+            </Content>
+          </Intervention>
           <FloorLanguage language="Text">[<I>Text</I>]</FloorLanguage>
           <WrittenQuestionResponse>
             <QuestionID>Question No.<Sup> </Sup>1848—</QuestionID>
@@ -4058,16 +4070,6 @@
               <ParaText id="8091124">(Return tabled)</ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
-          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="12493798">
-            <PersonSpeaking>
-              <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="8091125">Is it agreed?</ParaText>
-              <ParaText id="8091126">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-            </Content>
-          </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" id="12493799">
             <PersonSpeaking>
@@ -4137,13 +4139,17 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="12180903" Rubric="Other">
+      <OrderOfBusinessTitle>Orders of the Day</OrderOfBusinessTitle>
+      <CatchLine>Privilege</CatchLine>
       <SubjectOfBusiness id="12494155">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Reference to Standing Committee on Procedure and House Affairs</SubjectOfBusinessQualifier>
-        <CatchLine>Privilege</CatchLine>
-        <ProceduralText TocType="TPC" id="15">Motion</ProceduralText>
+        <ProceduralText TocType="TPC" id="17">Motion</ProceduralText>
         <SubjectOfBusinessContent>
-          <ParaText id="8091138">The House resumed from December 5 consideration of the motion, as amended.</ParaText>
+          <ParaText id="8091138">The House resumed consideration of the motion.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calkins" id="12493848">
             <PersonSpeaking>
               <Affiliation DbId="278568" Type="2">Mr. Blaine Calkins (Red Deer—Lacombe, CPC)</Affiliation>: </PersonSpeaking>
@@ -4670,7 +4676,7 @@
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="8091330">Accordingly, the order will be rescheduled for another sitting.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="8091331">Questions and comments. The hon. member for Abitibi—Témiscamingue.</ParaText>
+              <ParaText id="8091331">Questions and comments, the hon. member for Abitibi—Témiscamingue.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lemire" id="12495147">
@@ -4743,7 +4749,7 @@
                 <B>Some hon. members:</B> Agreed.</ParaText>
               <ParaText id="8091347">
                 <B>The Assistant Deputy Speaker (Mrs. Alexandra Mendès):</B> I declare the motion, as amended, carried and referred to the Standing Committee on Procedure and House Affairs.</ParaText>
-              <ProceduralText TocType="TCC" id="16">(Motion as amended agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="18">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12495178">

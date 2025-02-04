@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12085338">
-  <StartPageNumber>12069</StartPageNumber>
+  <StartPageNumber>12067</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -303,7 +303,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12085405">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'ingérence étrangère</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les institutions démocratiques</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="M. Nater" id="12085406">
             <PersonSpeaking>
@@ -318,7 +318,7 @@
       <SubjectOfBusiness id="12085415">
         <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
         <SubjectOfBusinessTitle>
-      Dignité International</SubjectOfBusinessTitle>
+      Dignity International</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mme Bradford" id="12085416">
             <PersonSpeaking>
@@ -342,7 +342,7 @@
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7622079">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a déclaré à répétition qu'il n'était au courant d'aucune contribution financière qui aurait été versée à des candidats aux élections fédérales par la dictature de Pékin. Aujourd'hui, nous apprenons que ce n'est pas vrai. Son Cabinet a préparé un document d'information révélant qu'un montant important destiné aux élections fédérales a d'abord été envoyé clandestinement à Toronto par la République populaire de Chine , puis a été transféré à un député provincial par l'intermédiaire d'un membre du personnel d'un candidat aux élections fédérales de 2019.</ParaText>
+              <ParaText id="7622079">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a déclaré à répétition qu'il n'était au courant d'aucune contribution financière qui aurait été versée à des candidats aux élections fédérales par la dictature de Pékin. Aujourd'hui, nous apprenons que ce n'est pas vrai. Son Cabinet a préparé un document d'information révélant qu'un montant important destiné aux élections fédérales a d'abord été envoyé clandestinement à Toronto par la République populaire de Chine, puis a été transféré à un député provincial par l'intermédiaire d'un membre du personnel d'un candidat aux élections fédérales de 2019.</ParaText>
               <ParaText id="7622080">Pourquoi le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a-t-il dit le contraire de ce qu'il savait être vrai?</ParaText>
             </Content>
           </Intervention>
@@ -555,7 +555,7 @@
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7622123">Monsieur le Président, oui ou non?</ParaText>
+              <ParaText id="7622123">Monsieur le Président, est-ce oui ou non?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Trudeau" id="12085513">
@@ -1070,9 +1070,16 @@
                 <B>Des voix:</B> Bravo!</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="12085678">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12085570">
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Les questions orales</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="12085678" ToCText="Mme Hajdu">
             <PersonSpeaking>
-              <Affiliation DbId="278942" Type="96">L’hon. Patty Hajdu</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278942" Type="96">L’hon. Patty Hajdu (ministre des Services aux Autochtones et ministre responsable de l’Agence fédérale de développement économique pour le Nord de l’Ontario, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7622233">Monsieur le Président, j'invoque le Règlement.</ParaText>
               <ParaText id="7622234">C'est aujourd'hui la Journée internationale des femmes. Or, alors que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> répondait à une question de la députée de <Affiliation DbId="278413" Type="2">Scarborough—Agincourt</Affiliation>, le député de <Affiliation DbId="278139" Type="2">South Shore—St. Margarets</Affiliation> a crié que la députée mérite une médaille de participation.</ParaText>
@@ -1080,16 +1087,16 @@
               <ParaText id="7622236">Toutes les femmes se sont battues pour être ici et méritent de l'être. Je demande donc au député de retirer ses propos.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="12085683">
+          <Intervention Type="Debate" ToC="Yes" id="12085683" ToCText="M. Perkins">
             <PersonSpeaking>
-              <Affiliation DbId="278139" Type="2">M. Rick Perkins</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278139" Type="2">M. Rick Perkins (South Shore—St. Margarets, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7622237">Monsieur le Président, je retire mes propos.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="12085685">
+          <Intervention Type="Debate" ToC="Yes" id="12085685" ToCText="Mme Vecchio">
             <PersonSpeaking>
-              <Affiliation DbId="278265" Type="2">Mme Karen Vecchio</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278265" Type="2">Mme Karen Vecchio (Elgin—Middlesex—London, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7622238">Monsieur le Président, je veux faire un commentaire bien simple. Nous avons tous travaillé fort pour pouvoir siéger ici. Peu importe notre sexe, nous nous sommes tous durement battus pour être ici ou, devrais‑je dire, c'est ce qu'ont fait la majorité d'entre nous.</ParaText>
               <ParaText id="7622239">J'écoute cette discussion, et je la trouve très déshonorante. Cela vaut pour les deux côtés. J'aimerais dire que nous devrions tous être respectueux les uns envers les autres, en cette Journée internationale des femmes.</ParaText>
@@ -2596,13 +2603,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
             <Content>
               <ProceduralText TocType="TPC" id="11">Adoption de la motion</ProceduralText>
               <ParaText id="7622257">Je déclare la motion adoptée.</ParaText>
-            </Content>
-          </Intervention>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Le président" id="12085887">
-            <PersonSpeaking>
-              <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7622258">Je désire informer la Chambre qu'en raison des votes par appel nominal différés, l'étude des ordres émanant du gouvernement sera prolongée de 50 minutes. </ParaText>
               <ParaText id="7622259">Je crois que le député de Notre‑Dame‑de‑Grâce—Westmount a quelque chose à nous annoncer. </ParaText>
             </Content>
@@ -2755,7 +2756,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
             <PersonSpeaking>
               <Affiliation DbId="278722" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7622329"> Je remercie mon cher collègue de <Affiliation DbId="278379" Type="2">Notre‑Dame-de‑Grâce—Westmount</Affiliation>. Tous les Canadiens considèrent cet être humain extraordinaire comme un héros canadien, et j'ai l'honneur — incroyable — d'être devenue son amie. Quand j'ai été élue, en 2011, le député était le leader parlementaire de ce qui était alors le troisième parti de cette assemblée. Il a toujours fait preuve d'une grande gentillesse et d'une grande générosité à mon égard. </ParaText>
+              <ParaText id="7622329"> Monsieur le Président, je remercie mon cher collègue de <Affiliation DbId="278379" Type="2">Notre‑Dame-de‑Grâce—Westmount</Affiliation>. Tous les Canadiens considèrent cet être humain extraordinaire comme un héros canadien, et j'ai l'honneur — incroyable — d'être devenue son amie. Quand j'ai été élue, en 2011, le député était le leader parlementaire de ce qui était alors le troisième parti de cette assemblée. Il a toujours fait preuve d'une grande gentillesse et d'une grande générosité à mon égard. </ParaText>
               <ParaText id="7622330">J'étais alors la seule députée du Parti vert à la Chambre. Bien entendu, notre caucus s'est prodigieusement agrandi depuis. Il a doublé. J'ai demandé l'aide du député à maintes reprises, et il n'a jamais hésité. J'avoue que cette amitié a été une expérience extraordinaire. Comme l'a si bien souligné le député de <Affiliation DbId="278709" Type="2">New Westminster—Burnaby</Affiliation>, il s'agit d'un député très apprécié de tous ici. C'est un choc d'apprendre que, d'ici quelques relâches passées dans notre circonscription respective, il ne siégera plus parmi nous. C'est un départ est tellement soudain et tellement inattendu.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="7622331">Il va beaucoup nous manquer. Il manquera à chaque député qui a eu l'honneur de travailler avec lui.</ParaText>
@@ -2778,8 +2779,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
       <SubjectOfBusiness id="12085997">
         <SubjectOfBusinessTitle>
       Les comités de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-      Procédure et affaires de la Chambre</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Procédure et affaires de la Chambre</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Chagger" id="12085993">
             <PersonSpeaking>
@@ -2905,7 +2905,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
               <Affiliation DbId="278451" Type="2">M. Damien Kurek (Battle River—Crowfoot, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7622360">Monsieur le Président, je suis honoré, comme toujours, de prendre la parole dans cette enceinte afin d'attirer l'attention du <Affiliation DbId="278945" Type="96">ministre de la Justice et procureur général du Canada</Affiliation> sur ce qui suit: la Cour suprême du Canada, dans l'affaire <I>R. c. Bissonnette</I>, a invalidé l'article 745.51 du Code criminel, qui permettait de faire en sorte que les périodes d'inadmissibilité à la libération conditionnelle soient purgées de manière consécutive dans le cas des tueurs en série. Par conséquent, les meurtriers et certains des plus terribles auteurs de massacre du Canada verront leur période d'inadmissibilité à la libération conditionnelle réduite puisqu'ils sont dorénavant admissibles à une demande de libération conditionnelle après seulement 25 ans.</ParaText>
-              <ParaText id="7622361">Le jugement rendu dans l'affaire <I>R. c. Bissonnette</I>, entre autres exemples, est une décision injuste qui fait passer les intérêts de certains des pires criminels du Canada avant les droits de leurs victimes. Les audiences de libération conditionnelle récurrentes peuvent traumatiser de nouveau les familles et les victimes de tuerie, et le gouvernement du Canada dispose d'outils pour répondre à des situations comme celle-ci, notamment le recours à la disposition de dérogation. Par conséquent, des pétitionnaires de l'Alberta et d'ailleurs au Canada exhortent le ministre de la Justice et procureur général du Canada à invoquer la disposition de dérogation afin d'invalider cette décision judiciaire injuste.</ParaText>
+              <ParaText id="7622361">Le jugement rendu dans l'affaire <I>R. c Bissonnette</I>, entre autres exemples, est une décision injuste qui fait passer les intérêts de certains des pires criminels du Canada avant les droits de leurs victimes. Les audiences de libération conditionnelle récurrentes peuvent traumatiser de nouveau les familles et les victimes de tuerie, et le gouvernement du Canada dispose d'outils pour répondre à des situations comme celle-ci, notamment le recours à la disposition de dérogation. Par conséquent, des pétitionnaires de l'Alberta et d'ailleurs au Canada exhortent le ministre de la Justice et procureur général du Canada à invoquer la disposition de dérogation afin d'invalider cette décision judiciaire injuste.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2926,59 +2926,15 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12086481">
         <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
-        <SubjectOfBusinessQualifier>Le secteur des épiceries</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le secteur de l'alimentation au détail</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Desjarlais" id="12086126">
             <PersonSpeaking>
               <Affiliation DbId="278619" Type="2">M. Blake Desjarlais (Edmonton Griesbach, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7622365">Monsieur le Président, j'aimerais présenter une pétition au nom de plus de 17 000 Canadiens qui réclament justice sur le plan économique et qui veulent que les entreprises du secteur de l'alimentation qui ont réalisé des profits excessifs soient véritablement tenues de rendre des comptes. La pétition se lit comme suit:</ParaText>
-              <ParaText id="7622366">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Attendu que:</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622367">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Loblaws/Provigo possède actuellement une épicerie dans un rayon de 10 km autour de la résidence de 90 % des Canadiens;</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622368">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Loblaws/Provigo affiche des profits records pendant que de nombreux Canadiens peinent à se nourrir;</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622369">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Loblaws/Provigo a monopolisé les produits de première nécessité sur lesquels comptent les Canadiens;</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622370">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Loblaws/Provigo a commencé à geler les prix, mais n’a pas réussi à honorer sa promesse à cet égard;</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622371">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Le coût du panier d’épicerie ne cesse d’augmenter et les Canadiens sont de plus en plus nombreux à se tourner vers les banques alimentaires pour nourrir leur famille;</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622372">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">En pleine pandémie, Loblaws/Provigo a réduit la prime liée à la pandémie versée à ses travailleurs.</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622373">Par conséquent, les 17 000 signataires canadiens demandent que soient prises les mesures suivantes:</ParaText>
-              <ParaText id="7622374">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">1. Lancer une enquête parlementaire au sujet des profits de Loblaws/Provigo pendant la pandémie, de sa cupidité et des prix abusifs que l’entreprise continue de faire payer aux Canadiens;</QuotePara>
-                </Quote>
-              </ParaText>
-              <ParaText id="7622375">
-                <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> 2. Lancer une enquête sur le monopole exercé par les grandes épiceries canadiennes, et d’adopter une loi pour empêcher que cela ne se reproduise.</QuotePara>
-                </Quote>
-              </ParaText>
+              <ParaText id="7622365">Monsieur le Président, j'aimerais présenter une pétition au nom de plus de 17 000 Canadiens qui réclament justice sur le plan économique et qui veulent que les entreprises du secteur de l'alimentation qui ont réalisé des profits excessifs soient véritablement tenues de rendre des comptes.</ParaText>
+              <ParaText id="7865079">Les pétitionnaires affirment que Loblaws/Provigo possède actuellement une épicerie dans un rayon de 10 kilomètres autour de la résidence de 90 % des Canadiens; affiche des profits records pendant que de nombreux Canadiens peinent à se nourrir; a monopolisé les produits de première nécessité sur lesquels comptent les Canadiens; a commencé à geler les prix, mais n’a pas réussi à honorer sa promesse à cet égard. Les pétitionnaires notent que le coût du panier d’épicerie ne cesse d’augmenter et que les Canadiens sont de plus en plus nombreux à se tourner vers les banques alimentaires pour nourrir leur famille, et qu'en pleine pandémie, Loblaws/Provigo a réduit la prime liée à la pandémie versée à ses travailleurs.</ParaText>
+              <ParaText id="7865080">Par conséquent, les 17 000 signataires canadiens demandent au gouvernement de lancer une enquête parlementaire au sujet des profits de Loblaws/Provigo pendant la pandémie, de sa cupidité et des prix abusifs que l’entreprise continue de faire payer aux Canadiens; et de lancer une enquête sur le monopole exercé par les grandes épiceries canadiennes, et d’adopter une loi pour empêcher que cela ne se reproduise.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3019,8 +2975,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12087418" Rubric="Other">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="12087406">
         <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
@@ -3028,7 +2983,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
         <SubjectOfBusinessTitle>
       Loi sur la diffusion continue en ligne</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Interjection" ToC="No" id="12087422">
+          <Intervention Type="Debate" ToC="Yes" id="12087422" ToCText="Mme St-Onge (au nom du ministre du Patrimoine canadien)">
             <PersonSpeaking>
               <Affiliation DbId="278932" Type="4">L’hon. Pascale St-Onge</Affiliation> (au nom du ministre du Patrimoine canadien) </PersonSpeaking>
             <Content>
@@ -3036,7 +2991,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
               <ParaText id="7622382">propose:</ParaText>
               <ParaText id="7622383">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Qu’un message soit envoyé au Sénat pour informer Leurs Honneurs que, en ce qui concerne le projet de loi C‑11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois, la Chambre :</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Qu’un message soit envoyé au Sénat pour informer Leurs Honneurs que, en ce qui concerne le projet de loi C‑11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois, la Chambre:</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="7622384">
@@ -3066,12 +3021,12 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
               </ParaText>
               <ParaText id="7622389">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">propose que l’amendement 7a) soit remplacé par ce qui suit :</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">propose que l’amendement 7a) soit remplacé par ce qui suit:</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="7622390">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">« a) À la page 18, remplacer les lignes 28 à 33 par ce qui suit :</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">« a) À la page 18, remplacer les lignes 28 à 33 par ce qui suit:</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="7622391">
@@ -3661,7 +3616,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7622654">Les fonds sont versés directement aux provinces et aux territoires dans le cadre d'accords bilatéraux négociés pour les aider à élargir l'accès aux services communautaires en santé mentale et en toxicomanie destinés aux enfants et aux jeunes, à élargir les services intégrés pour les personnes ayant des besoins complexes et à étendre les modèles éprouvés de soins de santé mentale communautaires et d’interventions adaptées à la culture et liées aux services de santé primaires.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7622655">Dès le début de la pandémie, nous avons lancé le portail Espace Mieux-être Canada pour que les Canadiens aient accès à de l'information en ligne sur les enjeux de santé mentale, les programmes en santé mentale, du soutien immédiat par texto, et même des séances de counseling confidentielles par téléphone, par vidéo et par texto avec des travailleurs sociaux, des psychologues et d'autres professionnels.</ParaText>
+              <ParaText id="7622655">Dès le début de la pandémie, nous avons lancé le portail Espace mieux-être Canada pour que les Canadiens aient accès à de l'information en ligne sur les enjeux de santé mentale, les programmes en santé mentale, du soutien immédiat par texto, et même des séances de counseling confidentielles par téléphone, par vidéo et par texto avec des travailleurs sociaux, des psychologues et d'autres professionnels.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7622656">Nous finançons également la Ligne d'écoute d'espoir pour le mieux-être, qui offre des services d'intervention d'urgence par téléphone ou par clavardage. Les services sont offerts en anglais, en français, en cri, en ojibwé et en inuktitut.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -3772,7 +3727,7 @@ La Chambre reprend l'étude, interrompue le 16 février, de la motion portant q
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12087447">
-        <SubjectOfBusinessQualifier> La tarification du carbone</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La tarification du carbone</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Seeback" id="12087434">
             <PersonSpeaking>

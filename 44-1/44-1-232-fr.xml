@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12363249">
-  <StartPageNumber>17407</StartPageNumber>
+  <StartPageNumber>17401</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -60,8 +60,7 @@
       </SubjectOfBusiness>
     </Intro>
     <OrderOfBusiness id="12363267" Rubric="PrivateMembersBusiness">
-      <OrderOfBusinessTitle>
-      Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="12363268">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -171,7 +170,11 @@
             <Content>
               <ParaText id="7956223">Madame la Présidente, il y a eu consultations entre les partis, et vous constaterez qu'il y a consentement unanime à l'égard de la motion suivante:</ParaText>
               <ProceduralText TocType="TPC" id="2">Motion</ProceduralText>
-              <ParaText id="7956224"> Qu'un débat exploratoire sur la situation en Israël, à Gaza et en Cisjordanie, ait lieu plus tard aujourd'hui, conformément à l'article 53.1 du Règlement et que, nonobstant tout article du Règlement, ordre spécial ou usage habituel de la Chambre : a) tout député qui se lève pour prendre la parole pendant le débat puisse indiquer à la présidence qu'il partagera son temps avec un autre député; b) la période prévue pour le débat soit prolongée au-delà de quatre heures, au besoin, de manière à inclure un minimum de 12 périodes de 20 minutes chacune; c) la présidence ne reçoive ni demande de quorum, ni motion dilatoire, ni demande de consentement unanime. </ParaText>
+              <ParaText id="7956224">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Qu'un débat exploratoire sur la situation en Israël, à Gaza et en Cisjordanie, ait lieu plus tard aujourd'hui, conformément à l'article 53.1 du Règlement et que, nonobstant tout article du Règlement, ordre spécial ou usage habituel de la Chambre: a) tout député qui se lève pour prendre la parole pendant le débat puisse indiquer à la présidence qu'il partagera son temps avec un autre député; b) la période prévue pour le débat soit prolongée au-delà de quatre heures, au besoin, de manière à inclure un minimum de 12 périodes de 20 minutes chacune; c) la présidence ne reçoive ni demande de quorum, ni motion dilatoire, ni demande de consentement unanime. </QuotePara>
+                </Quote>
+              </ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
@@ -339,8 +342,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12364224" Rubric="PrivateMembersBusiness">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="12364248">
         <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
@@ -516,7 +518,7 @@
               <Affiliation DbId="299995" Type="4">L’hon. Jonathan Wilkinson</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7956326">Madame la Présidente, en ce qui concerne la protection des espaces, le gouvernement a pris l'engagement de protéger 30 % des terres et des eaux du Canada d'ici 2030. Lorsqu'il a pris le pouvoir en 2015, moins de 1 % des aires marines étaient protégées. Aujourd'hui, c'est près de 15 %, et notre objectif est d'en protéger 30 %. </ParaText>
-              <ParaText id="7956327">La députée sait qu'il y a différentes sortes de protection : les aires marines protégées, les refuges marins et d'autres mesures de conservation efficaces par zone. Chaque catégorie est régie par des règles. Le Canada suit les lignes directrices internationales et est, en fait, un chef de file mondial de la protection.</ParaText>
+              <ParaText id="7956327">La députée sait qu'il y a différentes sortes de protection: les aires marines protégées, les refuges marins et d'autres mesures de conservation efficaces par zone. Chaque catégorie est régie par des règles. Le Canada suit les lignes directrices internationales et est, en fait, un chef de file mondial de la protection.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Williams" id="12364194">
@@ -652,9 +654,9 @@
               <ParaText id="7956361">Sur le plan du développement économique, l'objectif consiste à faire en sorte que les collectivités de la Nouvelle‑Écosse et de Terre‑Neuve‑et‑Labrador bénéficient de retombées durables à long terme. C’est exactement pourquoi les premiers ministres de ces deux provinces sont extrêmement impatients de voir le projet de loi être adopté par le Parlement, afin qu’ils fassent avancer les choses dans leur assemblée législative et que nous commencions à mettre en place une structure réglementaire qui permettra aux projets d'aller de l'avant.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Small" id="12364274">
+          <Intervention Type="Interjection" ToC="No" id="12364274">
             <PersonSpeaking>
-              <Affiliation DbId="278784" Type="2">M. Clifford Small (Coast of Bays—Central—Notre Dame, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278784" Type="2">M. Clifford Small</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7956362">Madame la Présidente, je reviens sur la question que j'ai posée au <Affiliation DbId="299995" Type="4">ministre</Affiliation>.</ParaText>
               <ParaText id="7956363">Je vais lire le paragraphe g) du sommaire. Le texte modifierait l'Accord atlantique afin, entre autres:</ParaText>
@@ -741,7 +743,6 @@
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7956389">Le vote porte sur la motion.</ParaText>
               <ParaText id="7956390"> Si un député participant en personne désire que la motion soit adoptée ou adoptée avec dissidence ou si un député d'un parti reconnu participant en personne désire demander un vote par appel nominal, je l'invite à se lever et à l'indiquer à la présidence.</ParaText>
-              <ParaText id="7956391">Le secrétaire parlementaire de la leader du gouvernement à la Chambre a la parole.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12364370">
@@ -1215,7 +1216,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12364614">
-        <SubjectOfBusinessTitle>La Loi de mise en œuvre de l’Accord atlantique Canada —  Terre‑Neuve‑et‑Labrador.</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La Loi de mise en œuvre de l’Accord atlantique Canada — Terre‑Neuve‑et‑Labrador.</SubjectOfBusinessTitle>
         <CatchLine>Ordres émanant du gouvernement</CatchLine>
         <SubjectOfBusinessContent>
           <ParaText id="7956423">La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que le projet de loi <Document DbId="12458211" Type="3">C‑49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
@@ -1531,7 +1532,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12364692">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle> Journée mondiale de l'alimentation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La  Journée mondiale de l'alimentation</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Turnbull" id="12364693">
             <PersonSpeaking>
@@ -1638,7 +1639,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12364736">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Israël</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La situation au Moyen-Orient</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Paul-Hus" id="12364737">
             <PersonSpeaking>
@@ -1679,18 +1680,10 @@
               <ParaText id="7956547">En cette Journée mondiale de l'alimentation, mes collègues néo-démocrates et moi-même faisons de nouveau le serment de nous battre contre la cupidité des grandes sociétés afin que les Canadiens puissent de nouveau se nourrir sans peine.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12364746">
-            <PersonSpeaking>
-              <Affiliation DbId="300999" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7956548">J'aimerais faire un rappel aux députés de parler moins fort parce que j'ai de la misère à entendre les députés qui sont loin de moi.</ParaText>
-              <ParaText id="7956549">L'honorable député de Beloeil—Chambly a la parole.</ParaText>
-            </Content>
-          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12364747">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Hubert Reeves</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="M. Blanchet" id="12364748">
@@ -2187,7 +2180,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12364920">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La santé</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'assurance-médicaments</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Davies" id="12364918">
             <PersonSpeaking>
@@ -2814,7 +2807,7 @@
             <PersonSpeaking>
               <Affiliation DbId="300999" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7956857">Que tous ceux qui s'opposent à ce que la députée propose la motion veuillent bien dire non.</ParaText>
+              <ParaText id="7956857">Que tous ceux qui s'opposent à ce que la députée demande veuillent bien dire non.</ParaText>
               <ParaText id="7956858">
                 <B>Des voix:</B> Non.</ParaText>
             </Content>
@@ -2829,8 +2822,12 @@
             <PersonSpeaking>
               <Affiliation DbId="278307" Type="2">L’hon. Bardish Chagger (Waterloo, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
+              <ProceduralText TocType="TPC" id="11">Motion d'adoption</ProceduralText>
               <ParaText id="7956859">Monsieur le Président, j'ai l'honneur de présenter, dans les deux langues officielles, le 50<Sup>e</Sup> rapport du Comité permanent de la procédure et des affaires de la Chambre.</ParaText>
               <ParaText id="7956860">Le comité signale que, conformément à l'article 91.1(2) du Règlement, le Sous-comité des affaires émanant des députés s'est réuni pour examiner les affaires inscrites à l'ordre de priorité le mercredi 20 septembre 2023 ainsi que l'ordre portant deuxième lecture de projets de loi d'intérêt public émanant du Sénat et il a recommandé que les affaires indiquées dans le rapport ne soient pas désignées non votables et qu'elles soient examinées par la Chambre.</ParaText>
+              <ParaText id="8220139">
+                <B>La vice-présidente adjointe (Mme Alexandra Mendès):</B> Conformément à l'article 91.1(2) du Règlement, le rapport est réputé adopté.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="12">(La motion est adoptee.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2849,7 +2846,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12365430">
-        <SubjectOfBusinessQualifier>Les droits de la personne</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La liberté d'expression politique</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Genuis" id="12365312">
             <PersonSpeaking>
@@ -2903,7 +2900,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12365357">
-        <SubjectOfBusinessQualifier>L'application ArriveCAN</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les restrictions liées à la COVID-19</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Viersen" id="12365321">
             <PersonSpeaking>
@@ -2942,8 +2939,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12365360">
-        <SubjectOfBusinessQualifier>
-       La liberté de religion</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les droits de la personne en Inde</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Viersen" id="12365327">
             <PersonSpeaking>
@@ -3002,7 +2998,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12365350">
         <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Allégation de réponse trompeuse à une question inscrite au Feuilleton</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La récusation du Président</SubjectOfBusinessQualifier>
         <CatchLine>Privilège</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Rempel Garner" id="12365352">
@@ -3150,7 +3146,7 @@
         <SubjectOfBusinessTitle>Loi de mise en œuvre de l'Accord atlantique Canada — Terre‑Neuve‑et‑Labrador</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7956946">La Chambre reprend l'étude portant que le projet de loi <Document DbId="12458211" Type="3">C‑49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre‑Neuve‑et‑Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle‑Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</Document>, soit lu pour la deuxième fois et renvoyé à un comité. </ParaText>
-          <ProceduralText TocType="TPC" id="11">Projet de loi C‑49. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="13">Projet de loi C‑49. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Kelloway" id="12365460">
             <PersonSpeaking>
               <Affiliation DbId="300683" Type="18">M. Mike Kelloway (secrétaire parlementaire de la ministre des Pêches, des Océans et de la Garde côtière canadienne, Lib.)</Affiliation>: </PersonSpeaking>
@@ -3258,7 +3254,7 @@
       <SubjectOfBusiness id="12365925">
         <SubjectOfBusinessTitle>Loi de mise en œuvre de l’Accord atlantique Canada — Terre‑Neuve‑et‑Labrador</SubjectOfBusinessTitle>
         <CatchLine>Ordres émanant du gouvernement</CatchLine>
-        <ProceduralText TocType="TPC" id="12">Projet de loi C‑49. Deuxième lecture</ProceduralText>
+        <ProceduralText TocType="TPC" id="14">Projet de loi C‑49. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="7956983">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="12458211" Type="3">C‑49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre‑Neuve‑et‑Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle‑Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Dreeshen" id="12365678">
@@ -3745,7 +3741,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278387" Type="2">M. Gerald Soroka (Yellowhead, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7957159">Monsieur le Président. Je me lève aujourd'hui pour parler du projet de loi <Document DbId="12458211" Type="3">C‑49</Document>, une mesure législative qui suscite beaucoup d'attention, de préoccupations et de débats, tant au sein de cette Chambre que dans l'ensemble de notre vaste pays. En tant que représentant de Yellowhead, une région connue pour son engagement profond en faveur d'un développement énergétique responsable, je me dois d'exprimer les préoccupations de mes concitoyens.</ParaText>
+              <ParaText id="7957159">Madame la Présidente, je me lève aujourd'hui pour parler du projet de loi <Document DbId="12458211" Type="3">C‑49</Document>, une mesure législative qui suscite beaucoup d'attention, de préoccupations et de débats, tant au sein de cette Chambre que dans l'ensemble de notre vaste pays. En tant que représentant de Yellowhead, une région connue pour son engagement profond en faveur d'un développement énergétique responsable, je me dois d'exprimer les préoccupations de mes concitoyens.</ParaText>
               <ParaText id="7957160">À première vue, le projet de loi <Document DbId="12458211" Type="3">C‑49</Document> peut sembler être une simple mesure réglementaire. Cependant, en creusant un peu, on découvre des couches de paperasserie bureaucratique qui pourraient étouffer les ambitions énergétiques de notre pays. L'histoire a montré que l'Ouest du Canada, qui est riche en ressources et en détermination, a le potentiel d'être le moteur de notre économie nationale. Pourtant, à maintes reprises, nous nous retrouvons aux prises avec une mesure législative qui semble plus encline à créer des obstacles qu'à ouvrir des voies.</ParaText>
               <ParaText id="7957161">Le projet de loi <Document DbId="9630600" Type="3">C‑69</Document>, que beaucoup ont qualifié de projet de loi anti-pipelines, en est un bon exemple. Alors que ce projet de loi promettait de simplifier les procédures et d'augmenter le taux d'approbation des projets, les résultats sont loin d'être encourageants. La stagnation n'est pas seulement préoccupante, elle est alarmante.</ParaText>
               <ParaText id="7957162">Récemment, des pans entiers du projet de loi <Document DbId="9630600" Type="3">C‑69</Document> ont été déclarés inconstitutionnels, ce qui a jeté un doute sur sa légitimité et son efficacité. Comme on n'a tiré aucune leçon de ces erreurs, le projet de loi <Document DbId="12458211" Type="3">C‑49</Document> risque de les répéter.</ParaText>
@@ -3861,7 +3857,7 @@
               <ParaText id="7957223">Cela me ramène à ce que j’ai dit plus tôt: c’est peut-être exactement le résultat souhaité par le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. À aucun moment il n’a agi comme défenseur du secteur énergétique canadien sur l’échiquier mondial. Au contraire, il s’est plutôt excusé de son existence, ce qui a fait fuir les investisseurs vers d’autres pays et anéanti les débouchés pour les travailleurs canadiens. Outre les ressources et la main-d’œuvre, nous avons aussi des leaders de l’industrie. Le Canada a tout ce qu’il faut pour occuper un rôle de leader mondial du secteur énergétique. Le premier ministre préfère céder les parts du marché à des dictateurs à l’étranger qui n'appliquent aucune norme en matière de droits de la personne et d'environnement.</ParaText>
               <ParaText id="7957224">Il est temps de donner la priorité à l'énergie canadienne. Il est temps de donner la priorité aux Canadiens et aux emplois pour les Canadiens. Il est temps de ramener à la maison de gros chèques de paie. Il nous faut un premier ministre conservateur qui donnera le feu vert aux nouvelles technologies, réduira les délais d'approbation et éliminera les barrières des libéraux afin qu'il soit enfin de nouveau possible de construire de grands projets d'infrastructure énergétique au pays. </ParaText>
               <ParaText id="7957225">Sur ce, je propose, avec l'appui de la députée de <Affiliation DbId="278382" Type="2">Lakeland</Affiliation>, que la motion soit modifiée par substitution, aux mots suivant le mot « Que », de ce qui suit: </ParaText>
-              <ProceduralText TocType="TPC" id="13">Amendement</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Amendement</ProceduralText>
               <ParaText id="7957226">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> la Chambre refuse de donner deuxième lecture au projet de loi C‑49, Loi modifiant la Loi de mise en œuvre de l’Accord atlantique Canada — Terre‑Neuve‑et‑Labrador et la Loi de mise en œuvre de l’Accord Canada — Nouvelle‑Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d’autres lois, car les articles 61 à 64 du projet de loi C‑69, Loi édictant la Loi sur l’évaluation d’impact et la Loi sur la Régie canadienne de l’énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d’autres lois, ont été déclarés inconstitutionnels par la Cour suprême du Canada et ces mêmes articles sont incorporés dans le projet de loi C‑49. </QuotePara>
@@ -3884,7 +3880,7 @@
               <Affiliation DbId="300691" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7957229"> Madame la Présidente, je vais entrer dans les détails sous peu, mais je voulais simplement savoir ce que le député pense de certains propos.</ParaText>
-              <ParaText id="7957230">Ce sont les propos de quelqu'un que je vais nommer tout de suite. C'est au sujet de ce projet de loi. Cet homme a dit que Terre‑Neuve‑et‑Labrador se réjouit des modifications proposées par le gouvernement fédéral à la Loi de mise en oeuvre de l'Accord atlantique Canada—Terre‑Neuve‑et‑Labrador et qu'il a hâte qu'elles soient adoptées.</ParaText>
+              <ParaText id="7957230">Ce sont les propos de quelqu'un que je vais nommer tout de suite. C'est au sujet de ce projet de loi. Cet homme a dit que Terre‑Neuve‑et‑Labrador se réjouit des modifications proposées par le gouvernement fédéral à la Loi de mise en œuvre de l'Accord atlantique Canada—Terre‑Neuve‑et‑Labrador et qu'il a hâte qu'elles soient adoptées.</ParaText>
               <ParaText id="7957231">Ce sont les propos tenus par le premier ministre Andrew Furey. Il y a tellement d'autres exemples que je ne citerai pas tout tout de suite, mais j'espère les mentionner sous peu.</ParaText>
               <ParaText id="7957232">Je me demande si le député a des observations à faire sur le consensus qui existe pour que ce projet de loi soit renvoyé à l'étape de l'étude en comité. Appuie-t-il l'un ou l'autre de ces intervenants?</ParaText>
             </Content>
@@ -4252,7 +4248,7 @@
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7957367">Conformément à l'article 45 du Règlement, le vote par appel nominal est différé jusqu'au mardi 17 octobre à la fin de la période prévue pour les questions orales.</ParaText>
-              <ProceduralText TocType="TPC" id="14">Report du vote sur l'amendement</ProceduralText>
+              <ProceduralText TocType="TPC" id="16">Report du vote sur l'amendement</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -4280,7 +4276,7 @@
       <SubjectOfBusiness id="12366902">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>La situation en Israël, à Gaza et en Cisjordanie</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TCC" TocText="Formation de la Chambre en comité plénier, sous la présidence de M. Chris d'Entremont, pour l'étude de l'affaire du gouvernement no 29" id="15">(La Chambre se forme en comité plénier, sous la présidence de M. Chris d'Entremont, pour étudier l'affaire du gouvernement n<Sup>o</Sup> 29.)</ProceduralText>
+        <ProceduralText TocType="TCC" TocText="Formation de la Chambre en comité plénier, sous la présidence de M. Chris d'Entremont, pour l'étude de l'affaire du gouvernement no 29" id="17">(La Chambre se forme en comité plénier, sous la présidence de M. Chris d'Entremont, pour étudier l'affaire du gouvernement n<Sup>o</Sup> 29.)</ProceduralText>
         <SubjectOfBusinessContent>
           <Intervention ToC="No" id="12366903" Type="Debate">
             <PersonSpeaking>
@@ -4298,7 +4294,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="7957376">propose:</ParaText>
-              <ProceduralText TocType="TPC" id="16">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="18">Motion</ProceduralText>
               <ParaText id="7957377">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que le comité prenne note de la situation en Israël, à Gaza et en Cisjordanie.</QuotePara>
@@ -4910,7 +4906,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278368" Type="2">Mme Heather McPherson (Edmonton Strathcona, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7957571">Monsieur le président, je sais que le député est un homme d'une grande bonté. Je suis de tout coeur avec lui et avec sa communauté. La semaine qui vient de s'écouler a sûrement été très difficile pour le député, étant juif, et j'en suis profondément désolée.</ParaText>
+              <ParaText id="7957571">Monsieur le président, je sais que le député est un homme d'une grande bonté. Je suis de tout cœur avec lui et avec sa communauté. La semaine qui vient de s'écouler a sûrement été très difficile pour le député, étant juif, et j'en suis profondément désolée.</ParaText>
               <ParaText id="7957572">Voici toutefois ce que je trouve préoccupant. Le député dit qu'Israël a le droit d'éradiquer le Hamas, et je suis tout à fait d'accord avec lui: Israël a absolument le droit d'éradiquer le Hamas. Le problème, c'est que je m'inquiète pour les enfants de Gaza. Israël n'a pas le droit d'infliger une punition collective. Voici ce qu'a dit Noi Katzman, dont le frère a été assassiné par le Hamas: « Ce qui est le plus important pour moi et pour mon frère, c'est qu'on ne se serve pas de sa mort pour justifier le meurtre de personnes innocentes. »</ParaText>
               <ParaText id="7957573">Il doit y avoir un moyen de protéger les civils mais, pour le moment, rien n'est fait en ce sens. Il n'y a pas de corridor humanitaire. Les familles n'ont aucun endroit sécuritaire où aller. Les enfants n'ont aucun endroit sécuritaire où aller. Ils ne peuvent aller nulle part pour échapper aux bombardements. Comment peut-on rester les bras croisés et affirmer que le meurtre d'enfants innocents viendra compenser le meurtre d'autres personnes innocentes?</ParaText>
             </Content>
@@ -5023,7 +5019,7 @@
               <Affiliation DbId="278383" Type="2">M. Anthony Housefather (Mont-Royal, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7957612">Monsieur le président, je remercie mon honorable collègue de son excellent discours.</ParaText>
-              <ParaText id="7957613">Malheureusement, peut-être que l'honorable député n'a pas entendu que les corps de deux des trois Canadiens que nous pensions peut-être être des otages ont été trouvés aujourd'hui. Il y a donc sept Canadiens décédés. Je crois que c'était une attaque.</ParaText>
+              <ParaText id="7957613">Malheureusement, peut-être que l'honorable député n'a pas entendu que les corps de deux des trois Canadiens que nous pensions peut-être être des otages ont été trouvés aujourd'hui. Il y a donc sept Canadiens décédés.</ParaText>
               <ParaText id="7957614">Est-ce que mon honorable collègue est d'accord avec moi quand je dis que c'était non seulement une attaque contre Israël, mais que c'était une attaque contre le Canada, contre les États-Unis et contre l'humanité?</ParaText>
             </Content>
           </Intervention>
@@ -5227,7 +5223,7 @@
               <Affiliation DbId="300662" Type="18">Mme Rachel Bendayan (secrétaire parlementaire de la vice-première ministre et ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7957685">Monsieur le Président, j'aimerais parler d'Alexandre Look, un homme de 33 ans de Montréal.</ParaText>
-              <ParaText id="7957686">« Il nous a appelés en videocall vers 11 h 15 de notre heure en me disant : “Maman, nous sommes dans une attaque terroriste”. C'est ce qu'a expliqué sa mère en entrevue à RDI. Son père a ajouté ceci: « On a assisté à l'assassinat de notre fils ».</ParaText>
+              <ParaText id="7957686">« Il nous a appelés en videocall vers 11 h 15 de notre heure en me disant: “Maman, nous sommes dans une attaque terroriste”. C'est ce qu'a expliqué sa mère en entrevue à RDI. Son père a ajouté ceci: « On a assisté à l'assassinat de notre fils ».</ParaText>
               <ParaText id="7957687">Le jeune Alexandre est allé se réfugier dans un abri avec une trentaine d'autres personnes. « [D]es survivants qui se trouvaient avec Alexandre Look dans l'abri ont expliqué qu'il avait cherché à bloquer l'entrée du refuge, qui n'avait pas de porte. C'est ainsi qu'il aurait été victime de tirs d'armes à feu par des combattants […] » Une des survivantes a dit ceci à propos d'Alexandre: « Je vous le jure, il a été notre bouclier. S'il n'avait pas été là, nous serions tous morts. » Ce Montréalais a donné sa vie pour en sauver d'autres.</ParaText>
               <ParaText id="7957688">Shir Georgy, 22 ans, Ben Mizrachi, 22 ans, Adi Vital‑Kaploun, 33 ans et Netta Epstein, 21 ans, sont tous Canadiens.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -5381,7 +5377,7 @@
               <ParaText id="7957732">Monsieur le Président, le 7 octobre 2023 est maintenant inscrit à jamais dans l'histoire comme le jour où le monde a été témoin du mal dans sa forme la plus pure. Les Israéliens terminaient les festivités de Souccot lorsque les sirènes ont retenti. Israël était la cible d'une attaque violente. À l'instar de nombreux Canadiens, j'ai été horrifiée par les nouvelles, les images et les vidéos en provenance d'Israël qui m'attendaient à mon réveil. Cette attaque délibérée et coordonnée par les terroristes du Hamas était méprisable et injustifiée et je la condamne sans équivoque.</ParaText>
               <ParaText id="7957733">Israël a le droit de se défendre, tout comme le Canada en aurait le droit si cette attaque était perpétrée sur notre territoire. Cela ne devrait pas être difficile à dire, mais certains politiciens canadiens et certains médias n'ont pas trouvé le courage moral de le faire. Nous avons vu des déclarations de politiciens libéraux et néo-démocrates qui étaient tellement scandaleuses et immorales qu'elles ont dû être retirées ou supprimées.</ParaText>
               <ParaText id="7957734">La CBC a ordonné à ses employés d'éviter de qualifier le Hamas d'organisation terroriste. Notre propre radiodiffuseur d'État a ignoré le fait que le gouvernement du Canada a inscrit le Hamas sur la liste des entités terroristes en 2002 et décrit le Hamas comme « une organisation terroriste islamiste-nationaliste radicale ».</ParaText>
-              <ParaText id="7957735">Nous avons été témoins de réjouissances répréhensibles en réaction à ces attaques terroristes ici même, au Canada, y compris, honteusement, dans ma propre collectivité en Colombie‑Britannique. Vendredi, dans ma collectivité, un rabbin a vu sa maison vandalisée avec des oeufs, et une croix gammée a été dessinée sur sa fenêtre. C'est dégoûtant et inacceptable. Cette haine ne devrait pas être tolérée dans notre pays, un point c'est tout.</ParaText>
+              <ParaText id="7957735">Nous avons été témoins de réjouissances répréhensibles en réaction à ces attaques terroristes ici même, au Canada, y compris, honteusement, dans ma propre collectivité en Colombie‑Britannique. Vendredi, dans ma collectivité, un rabbin a vu sa maison vandalisée avec des œufs, et une croix gammée a été dessinée sur sa fenêtre. C'est dégoûtant et inacceptable. Cette haine ne devrait pas être tolérée dans notre pays, un point c'est tout.</ParaText>
               <ParaText id="7957736">Je condamne ces réjouissances et je condamne l'idéologie haineuse, qui n'a pas sa place au Canada. Il n'y a aucune équivalence morale entre les terroristes du Hamas qui massacrent des innocents, qui violent sauvagement des femmes et des enfants, qui décapitent des bébés et qui utilisent leur propre peuple comme boucliers humains, et Israël qui exerce son droit de se défendre. Le moment est venu de faire preuve de clarté morale.</ParaText>
               <ParaText id="7957737">J'espère que CBC/Radio-Canada m'écoute attentivement lorsque je dis que le Hamas n'est pas une organisation militante, un groupe de résistance ou un groupe d'activistes. Le Hamas est une secte sadique, barbare et terroriste qui n'a aucun respect pour la vie humaine. Il ne peut pas y avoir de négociations avec le Hamas. Il faut vaincre et détruire le Hamas. Leurs complices doivent être dénoncés pour les ignobles antisémites qu'ils sont. Cela comprend les États qui parrainent le terrorisme, y compris la dictature de Téhéran.</ParaText>
               <ParaText id="7957738">J'ai vu de mes propres yeux la force du peuple israélien et la façon dont les Israéliens vivent sous la menace existentielle du Hamas, qui est financé par l'Iran et d'autres acteurs hostiles dans la région. Cette menace est maintenant bien réelle.</ParaText>
@@ -5431,7 +5427,7 @@
               <Affiliation DbId="278717" Type="2">M. Mike Morrice (Kitchener-Centre, PV)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7957753">Monsieur le Président, je veux donner suite à la question soulevée par la députée d'Edmonton Strathcona.</ParaText>
-              <ParaText id="7957754">Il ne fait aucun doute que le Hamas a violé le droit international. Je pense que nous pouvons nous entendre là-dessus. Ma collègue convient-elle qu'il serait inapproprié qu'un État enfreigne le droit international dans des zones à risque et qu'un État doit faire tout son possible pour protéger la vie de civils?</ParaText>
+              <ParaText id="7957754">Il ne fait aucun doute que le Hamas a violé le droit international. Je pense que nous pouvons nous entendre là-dessus. Ma collègue convient-elle qu'il serait inapproprié qu'un État réponde en enfreignant le droit international et qu'un État doit faire tout son possible pour protéger la vie de civils?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="22" Mn="10">(2210)</Timestamp>
@@ -5470,7 +5466,7 @@
               <ParaText id="7957763">Le samedi 7 octobre, j'ai participé à un déjeuner du sabbat en compagnie d'un rabbin de ma circonscription. Ce déjeuner a eu lieu à son domicile, qui est également une synagogue. À ce moment-là, on ne mesurait pas encore l'ampleur des événements qui se déroulaient, de l'escalade de violence, et de la terreur causée par le Hamas. Nous avons pris place à table, et le rabbin s'est dit honoré de recevoir des invités qui n'appartenaient pas à la communauté, car cela concluait la célébration de la Souccoth. Nous faisons tous partie du même casse-tête. Nous faisons tous partie de la grande famille de l'humanité. Nous nous complétons les uns les autres, et nous avons tous un rôle à jouer.</ParaText>
               <ParaText id="7957764">Une semaine plus tard, ou à peu près, il s’est passé beaucoup de choses. On a vu des choses inouïes se produire en Israël et une violence terrible à Gaza. Des gens sont morts et d'autres meurent en ce moment même. Cela devrait nous troubler profondément et nous garder éveillés la nuit. Pourquoi en est-il ainsi? Est-ce parce que des vies sont perdues en ce moment même? On sait bien que ce n'est pas fini. On sait que la violence restera déchaînée. Est-ce que cela résoudra la question que nous essayons tous de résoudre, qui est essentiellement de bâtir un milieu sûr et pacifique au Moyen‑Orient pour les Israéliens et les Palestiniens?</ParaText>
               <ParaText id="7957765">Que l'on examine la situation au Canada. On constate les effets de la situation chez nous. Je discutais avec un rabbin de ma circonscription plus tôt aujourd’hui, et il me racontait que des enfants sont restés à la maison vendredi à cause d’une menace venant de l'étranger. Les enfants ne sont pas allés à l’école parce qu’ils étaient inquiets.</ParaText>
-              <ParaText id="7957766">Dans ma famille, ma belle-soeur porte le hidjab. Ce matin, alors qu’elle conduisait à l'école ma nièce de neuf ans, sa fille, on l'a accostée. Deux personnes de ma circonscription lui ont fait un doigt d’honneur. L’une d’entre elles l’a suivie. Elle s'est alors dit qu’il était trop dangereux de poursuivre son trajet et elle est rentrée chez elle. Il se passe des choses dans nos collectivités. Il faut le reconnaître. Il est essentiel de le faire.</ParaText>
+              <ParaText id="7957766">Dans ma famille, ma belle-sœur porte le hidjab. Ce matin, alors qu’elle conduisait à l'école ma nièce de neuf ans, sa fille, on l'a accostée. Deux personnes de ma circonscription lui ont fait un doigt d’honneur. L’une d’entre elles l’a suivie. Elle s'est alors dit qu’il était trop dangereux de poursuivre son trajet et elle est rentrée chez elle. Il se passe des choses dans nos collectivités. Il faut le reconnaître. Il est essentiel de le faire.</ParaText>
               <ParaText id="7957767">Nous devons tenir des débats vigoureux à la Chambre et même dans nos collectivités, mais il y a des limites. Il y a des limites, et nous devons les connaître et les reconnaître. Pour en venir au cœur du problème, comment pouvons‑nous briser ce cycle qui se poursuit depuis si longtemps? Au bout du compte, nous devons choisir de faire en sorte que tous les habitants de la région vivent dans la paix et la dignité, et cela ne peut se faire que par la création d'États viables pour les Israéliens et les Palestiniens, ce qui comprend un État viable pour les Palestiniens. Ce n'est que lorsque tout le monde dans la région pourra vivre en paix et en sécurité, et lorsque notre voisin pourra vivre en paix et en sécurité, que nous pourrons vivre en paix et en sécurité.</ParaText>
             </Content>
           </Intervention>
@@ -5890,7 +5886,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278717" Type="2">M. Mike Morrice (Kitchener-Centre, PV)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7957909">Monsieur le Président, je veux commencer par remercier ma collègue de Saint‑Jean de son discours nuancé et de son empathie. C'est tellement important dans les moments comme celui-ci. Ma question porte sur le fait que, toutes les quinze minutes, un autre jeune palestinien meurt. Quand la députée pense à cela, à quel point pense-t-elle qu'il est approprié de faire une demande de cessez-le-feu? Est-ce que ce devrait être maintenant, ou à un autre moment à l'avenir?</ParaText>
+              <ParaText id="7957909">Monsieur le Président, je veux commencer par remercier ma collègue de Saint‑Jean de son discours nuancé et de son empathie. C'est tellement important dans les moments comme celui-ci. Ma question porte sur le fait que, toutes les quinze minutes, un autre jeune palestinien est tué. Quand la députée pense à cela, à quel point pense-t-elle qu'il est approprié de faire une demande de cessez-le-feu? Est-ce que ce devrait être maintenant, ou à un autre moment à l'avenir?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12367262">
@@ -5945,9 +5941,9 @@
             </Content>
           </Intervention>
           <Timestamp Hr="23" Mn="30">(2330)</Timestamp>
-          <Intervention Type="Question" ToC="Yes" ToCText="M. Morrice" id="12367274">
+          <Intervention Type="Interjection" ToC="No" id="12367274">
             <PersonSpeaking>
-              <Affiliation DbId="278717" Type="2">M. Mike Morrice (Kitchener-Centre, PV)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278717" Type="2">M. Mike Morrice</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7957928">Monsieur le Président, ce soir, plusieurs de nos collègues juifs et musulmans ont partagé avec nous leurs inquiétudes face à la montée de l'antisémitisme et de l'islamophobie ici, chez nous, au courant de la semaine passée.</ParaText>
               <ParaText id="7957929">Que pense la députée de Saint-Jean à ce sujet? Peut-elle partager avec nous ce qu'elle pense que le gouvernement du Canada peut faire pour faire face à cette réalité?</ParaText>
@@ -5966,7 +5962,7 @@
             <Content>
               <ParaText id="7957931">Je remercie la députée de Saint-Jean ainsi que tous les députés qui ont participé au débat ce soir.</ParaText>
               <ParaText id="7957932">Comme il est 23 h 31, conformément à l'article 53.1 du Règlement, le comité s'ajourne.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Rapport de l'affaire émanent du gouvernement no 29" id="17">(Rapport est fait de l’affaire émanant du gouvernement n<Sup>o</Sup> 29.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Rapport de l'affaire émanent du gouvernement no 29" id="19">(Rapport est fait de l’affaire émanant du gouvernement n<Sup>o</Sup> 29.)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12367279">

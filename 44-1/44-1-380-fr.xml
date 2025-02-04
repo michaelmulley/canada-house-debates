@@ -2309,7 +2309,7 @@
         <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Décision de la présidence — La désignation des journées des subsides</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La désignation des journées des subsides — Décision de la présidence</SubjectOfBusinessQualifier>
         <CatchLine>Décision de la présidence</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="13032969">
@@ -2347,16 +2347,13 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="13033016" Rubric="Other">
-      <OrderOfBusinessTitle>Ordre du jour</OrderOfBusinessTitle>
-      <CatchLine>Privilège</CatchLine>
       <SubjectOfBusiness id="13033017">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Le renvoi au Comité permanent de la procédure et des affaires de la Chambre</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessTitle>Les comités de la Chambre</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Affaires autochtones et du Nord</SubjectOfBusinessQualifier>
+        <CatchLine>Affaires courantes</CatchLine>
         <SubjectOfBusinessContent>
-          <ParaText id="8753804">La Chambre reprend l'étude de la motion, ainsi que de l'amendement modifié et du sous-amendement.</ParaText>
+          <ParaText id="8753804">La Chambre reprend l'étude de la motion.</ParaText>
+          <ProceduralText TocType="TPC" id="6">Motion d'adoption</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Gerretsen" id="13033020">
             <PersonSpeaking>
               <Affiliation DbId="278514" Type="2">M. Mark Gerretsen (Kingston et les Îles, Lib.)</Affiliation>: </PersonSpeaking>
@@ -2434,7 +2431,7 @@
               <ParaText id="8753835">Il y a plusieurs leçons à tirer de cette controverse. Premièrement, nous devons exiger une plus grande transparence de la part des fonctionnaires, en particulier lorsqu'ils prennent part à des décisions qui touchent des communautés vulnérables. Deuxièmement, nous devons renforcer les mesures de protection pour empêcher l'exploitation des programmes d'approvisionnement destinés aux entreprises autochtones. Le public doit avoir l'assurance que tous les élus respectent les normes d'éthique les plus rigoureuses, ce qui veut dire qu'il faut une enquête indépendante et approfondie sur la conduite du député d'<Affiliation DbId="278761" Type="2">Edmonton-Centre</Affiliation> et sur les infractions à la Loi sur les conflits d'intérêts qu'il pourrait avoir commises. Il faut déterminer de façon transparente si ses intérêts financiers dans Global Health Imports ont influé sur l'attribution des marchés publics et si des règles ont été enfreintes dans le cadre de ce processus. Cela signifie que nous devons également examiner et même réexaminer la force des règles qui concerne l'éthique et les peuples autochtones, y compris celles qui visent les programmes d'approvisionnement auprès des Autochtones, et veiller à ce que ces programmes ne soient pas utilisés à mauvais escient par des fonctionnaires qui cherchent à en tirer profit aux dépens des communautés autochtones. Si cela se produit, nous devons savoir quelles mesures nous pouvons prendre pour renforcer nos systèmes, éliminer ces échappatoires et veiller à ce que ces programmes soient utilisés aux fins prévues, à savoir donner plus de ressources et de soutien aux peuples autochtones, au lieu d'enrichir quelques privilégiés.</ParaText>
               <ParaText id="8753836">Nous ne pouvons pas faire fi de ces préoccupations. Il faut que les gens en position d'autorité respectent les normes d'éthique les plus rigoureuses: l'intégrité même de nos institutions démocratiques en dépend. Il est temps que le député d'<Affiliation DbId="278761" Type="2">Edmonton-Centre</Affiliation> réponde de ses actes et que le gouvernement prenne les mesures nécessaires pour que ce type de comportement ne soit plus toléré à l'avenir. Bien sûr, lorsque nous examinons les conséquences globales de cette affaire, nous devons nous demander combien d'autres cas semblables existent. Combien d'autres personnes tentent de se faire passer pour des Autochtones afin d'accéder à des ressources et à des avantages qui devraient être réservés aux communautés que nous nous efforçons de soutenir?</ParaText>
               <ParaText id="8753837">En terminant, j'aimerais présenter une motion, avec l'appui du député de <Affiliation DbId="278420" Type="2">St. Albert—Edmonton</Affiliation>. Je propose:</ParaText>
-              <ProceduralText TocType="TPC" id="6">Amendement</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Amendement</ProceduralText>
               <ParaText id="8753838">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Que la motion soit modifiée par substitution, aux mots suivant le mot « Que », de ce qui suit: « le 18<Sup>e</Sup> rapport du Comité permanent des affaires autochtones et du Nord, présenté à la Chambre le lundi 25 novembre 2024, ne soit pas maintenant agréé, mais qu'il soit renvoyé au Comité pour plus ample considération, avec l'instruction de faire rapport à la Chambre au plus tard le lundi 27 janvier 2025, sur la question de savoir si le député d'Edmonton-Centre, qui était ministre de l'Emploi, du Développement de la main-d'œuvre et des Langues officielles lorsque la Chambre a adopté, le mardi 19 novembre 2024, un ordre exigeant sa comparution devant ce Comité, a comparu en conformité avec cet ordre ».</QuotePara>
@@ -3435,7 +3432,7 @@
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8754152">Conformément à l'article 45 du Règlement, le vote est reporté au mardi 3 décembre, à la fin de la période prévue pour les questions orales.</ParaText>
-              <ProceduralText TocType="TPC" id="7">Report du vote sur l'amendement</ProceduralText>
+              <ProceduralText TocType="TPC" id="8">Report du vote sur l'amendement</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

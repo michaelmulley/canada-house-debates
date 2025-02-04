@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="12519703">
-  <StartPageNumber>20065</StartPageNumber>
+  <StartPageNumber>20055</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -146,7 +146,7 @@
             <PersonSpeaking>
               <Affiliation DbId="300666" Type="18">Mr. Paul Chiang (Parliamentary Secretary to the Minister of Immigration, Refugees and Citizenship, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8122839">Mr. Speaker, I have the honour to present, in both official languages, the 18th report of the Standing Committee on Citizenship and and Immigration, entitled “In Demand Yet Unprocessed: Endemic Immigration Backlog”.</ParaText>
+              <ParaText id="8122839">Mr. Speaker, I have the honour to present, in both official languages, the 18th report of the Standing Committee on Citizenship and Immigration, entitled “In Demand Yet Unprocessed: Endemic Immigration Backlog”.</ParaText>
               <ParaText id="8122840">Pursuant to Standing Order 109, the committee requests that the government table a comprehensive response to this report.</ParaText>
             </Content>
           </Intervention>
@@ -170,10 +170,13 @@
               <Affiliation DbId="278514" Type="2">Mr. Mark Gerretsen (Kingston and the Islands, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
+              <ProceduralText TocType="TPC" id="1">Introduction</ProceduralText>
               <ParaText id="8122844"> moved for leave to introduce an Act to establish a national day to honour Canadian women's contributions to science, technology, engineering and mathematics.</ParaText>
               <ParaText id="8122845">He said: Mr. Speaker, it is an honour to introduce a private member's bill entitled “An Act to establish a national day to honour Canadian women's contributions to science, technology, engineering and mathematics”.</ParaText>
-              <ParaText id="8122846">While I am on my feet, I move:</ParaText>
-              <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
+              <ProceduralText TocType="TCC" id="2">(Motion deemed adopted)</ProceduralText>
+              <ParaText id="8122846">
+                <B>Mr. Mark Gerretsen:</B> Mr. Speaker, while I am on my feet, I move:</ParaText>
+              <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="8122847">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the House do now proceed to orders of the day.</QuotePara>
@@ -550,7 +553,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="2">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="4">Motion agreed to</ProceduralText>
               <ParaText id="8122852">I declare the motion carried.</ParaText>
             </Content>
           </Intervention>
@@ -604,7 +607,7 @@
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Canada Labour Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" id="3">   (Bill C-58. On the Order: Resumption of debate:)</ProceduralText>
+          <ProceduralText TocType="TCC" id="5">   (Bill C-58. On the Order: Resumption of debate:)</ProceduralText>
           <ParaText id="8122862">
             <Quote>
               <QuotePara Align="Left" IndentFirst="2" IndentRest="1">November 27, 2023 — Resuming consideration of the
@@ -992,7 +995,7 @@ Disabilities.
         <SubjectOfBusinessTitle>Canada Labour Code</SubjectOfBusinessTitle>
         <CatchLine>Government Orders</CatchLine>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="4">Bill C-58.  Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Bill C-58.  Second reading</ProceduralText>
           <ParaText id="8122992">The House resumed consideration of the motion that <Document DbId="12692679" Type="3">C-58, An Act to amend the Canada Labour Code and the Canada Industrial Relations Board Regulations, 2012</Document>, be read the second time and referred to a committee.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Blaney" id="12520504">
             <PersonSpeaking>
@@ -1006,7 +1009,7 @@ Disabilities.
               <ParaText id="8122998">This bill is so important because it really is about looking at the system we have in Canada and understanding that, all too often, workers lose their power because replacement workers are able to go in and fill those positions when they are doing their important work of standing up against employers on issues that really matter.</ParaText>
               <ParaText id="8122999">The reality is that we know workers across this country deserve a lot more respect. They are working hard every day doing what is best, and they are still falling behind. This is an epidemic we are seeing in this country that needs to be dealt with. We need to see better wages, and we need to see better working conditions. The NDP has a long documented history of always working on the side of workers and listening to those voices.</ParaText>
               <ParaText id="8123000">In fact, when it comes to this legislation, the NDP is in an agreement that forced the Liberal government to move forward with this meaningful piece of legislation. We know this because the NDP introduced anti-scab legislation in this place eight times in the last 15 years. In fact, the last time it came up for a vote, the Liberals and the Conservatives voted against it. This just tells us that there is a long history of the NDP being here, and we took what power we had with 25 members to make sure workers are better represented in this country and have more power in this country, and it is about time.</ParaText>
-              <ParaText id="8123001">Like unions, and like workers across Canada, we did not give up. We kept working diligently. We know the fight is hard and significant. We know that because right now, across this country, people cannot afford the food they desperately need to exist. As that is happening, grocery stores are making some of the biggest profits, especially those big box ones. It is not those local ones in our communities, which often do so much for the community, such as pay for sports clubs and help out. An example of this is Quality Foods in Campbell River ans what it does with the fireworks every Canada Day. It is those big box stores that are taking home huge profits at the expense of workers.</ParaText>
+              <ParaText id="8123001">Like unions, and like workers across Canada, we did not give up. We kept working diligently. We know the fight is hard and significant. We know that because right now, across this country, people cannot afford the food they desperately need to exist. As that is happening, grocery stores are making some of the biggest profits, especially those big box ones. It is not those local ones in our communities, which often do so much for the community, such as pay for sports clubs and help out. An example of this is Quality Foods in Campbell River and what it does with the fireworks every Canada Day. It is those big box stores that are taking home huge profits at the expense of workers.</ParaText>
               <ParaText id="8123002">We know, for example, that Galen Weston makes 431 times the average of the workers who work for him. Those folks who work every day on the front lines are interacting constantly with people. They are seeing people who cannot afford the groceries they have in their carts and need to put items back on the shelves. Often, workers in those grocery stores cannot afford to shop at the grocery store they work at. They have to go to food banks to make ends meet, and Galen Weston is making over 400 times the amount those workers are. That just tells us one of the things we need to address in this country is that growing inequity. It is happening. We can see it. </ParaText>
               <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
               <ParaText id="8123003">There is a lot of research showing that the top 1% continue to make more money and pay less in taxes while everyday workers work hard, get paid about the same and, knowing that inflation is impacting their income, keep working hard and paying their fair share in taxes. I hope that we, as a place that understands the bar of dignity for all Canadians, start considering that. Even though Galen Weston makes that much, the average these top CEOs are making is 235 times what their workers are making. I think that is totally unacceptable. It is something that all of us in this place should be addressing, and this is one step toward doing that.</ParaText>
@@ -1296,7 +1299,7 @@ Disabilities.
               <Affiliation DbId="300663" Type="18">Mr. Chris Bittle (Parliamentary Secretary to the Minister of Housing, Infrastructure and Communities, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8123082">Madam Speaker, there have been discussions among the parties, and I believe if you seek it you will find unanimous consent for the following motion:</ParaText>
-              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
               <ParaText id="8123083">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That, notwithstanding any standing order or usual practice of the House, during the debate pursuant to Standing Order 66 on Motion No. 44 to concur in the first report of the Standing Committee on Agriculture and Agri-Food, no quorum calls, dilatory motions or requests for unanimous consent shall be received by the Chair and at the conclusion of the time provided for debate or when no member rises to speak, whichever is earlier, all questions necessary to dispose of the motion be deemed put and a recorded division deemed requested and deferred pursuant to Standing Order 66.</QuotePara>
@@ -1312,7 +1315,7 @@ Disabilities.
               <ParaText id="8123084">All those opposed to the hon. parliamentary secretary moving the motion will please say nay. </ParaText>
               <ParaText id="8123085">It is agreed.</ParaText>
               <ParaText id="8123086">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="6">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="8">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1320,7 +1323,7 @@ Disabilities.
       <SubjectOfBusiness id="12521053">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Canada Labour Code</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="7">Bill C-58. Second reading</ProceduralText>
+        <ProceduralText TocType="TPC" id="9">Bill C-58. Second reading</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="8123087">The House resumed consideration of the motion that Bill <Document DbId="12692679" Type="3">C-58, An Act to amend the Canada Labour Code and the Canada Industrial Relations Board Regulations, 2012</Document>, be read the second time and referred to a committee.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Cannings" id="12520812">
@@ -1626,7 +1629,7 @@ Disabilities.
               <ParaText id="8123183">What we saw then was that Ronald Reagan targeted the union movement and from then on, we started to see the loss of rights of workers, the loss of wages and the loss of security. In Canada, that effort was undertaken, but thankfully, we had the solid backing of some very strong labour leaders. At the time, Bob White and United Auto Workers, before it became Canadian Auto Workers, came out with a no-concessions policy. Under no circumstances were they going to give concessions. They stood up to Chrysler. They stood up to GM. They stood up at factory after factory to defend the rights of workers. We know that modern Conservatives would not support that. Bill Davis, who was an old-style Conservative, actually sided on a number of occasions, with the auto workers along the 401 belt to say that they did have rights, even at a time of massive job losses.</ParaText>
               <ParaText id="8123184">We saw the damage that was done from the 1980s on. We can count it in the lost wages and lost security. The neo-liberal attack on worker rights was so overwhelming. Let us talk about the RAND Corporation. Under the present <Affiliation DbId="291215" Type="9">Conservative leader</Affiliation>, one might think the RAND Corporation is a rabid lefty, but it actually usually works for the U.S. military. The RAND Corporation did a study of economic inequality to deal with the issue of democratic instability in the United States.</ParaText>
               <ParaText id="8123185">Certainly, we have seen what is happening with MAGA, and the issue of economic precarity, the loss of the North American working class, and the creation of economic instability and political instability. From the period around 1980, when the attack on organized labour in the United States began, to what followed in Canada, we have, in the United States today, a Black worker making $26,000 less than they would if the 1980 wages remained constant. A college-educated worker is earning between $48,000 and $63,000 less a year. All that wealth, according to the RAND Corporation, was plundered directly for the benefit of the 1%.</ParaText>
-              <ParaText id="8123186">What we are seeing is that it identified the loss of wages, pension security and benefits to be in the order of $50 trillion of lost money that belonged to the working and middle class. It was then was hoovered up and put in the pockets of the 1%. That is what created the political and economic instability of our age. In the United States, that loss of income means that for every worker, it lost $1,114 a month, for every single month for the last 40 years. That is what created MAGA.</ParaText>
+              <ParaText id="8123186">What we are seeing is that it identified the loss of wages, pension security and benefits to be in the order of $50 trillion of lost money that belonged to the working and middle class. It was then hoovered up and put in the pockets of the 1%. That is what created the political and economic instability of our age. In the United States, that loss of income means that for every worker, it lost $1,114 a month, for every single month for the last 40 years. That is what created MAGA.</ParaText>
               <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
               <ParaText id="8123187">Although we hear the Conservatives talking about inflation and how hard it is, we have seen no efforts by the Conservatives, ever, to stand with workers, ever to stand up on these issues, but this is the issue that has to be dealt with. This is why workers came to us again and again, to talk about anti-scab legislation so that we could restore the balance of negotiations with labour and management, the right of workers to have a seat at the table.</ParaText>
               <ParaText id="8123188">I want to quote Paul Mason from his book, <I>Postcapitalism</I>. This is a really instructive statement that:</ParaText>
@@ -2207,7 +2210,7 @@ Disabilities.
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12521318">
-        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Tax</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Thomas" id="12521319">
             <PersonSpeaking>
@@ -2585,7 +2588,7 @@ Disabilities.
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12521419">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Dental Care</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. DeBellefeuille" id="12521418">
             <PersonSpeaking>
@@ -2942,7 +2945,7 @@ Disabilities.
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12521552">
-        <SubjectOfBusinessTitle>Indigenous Affairs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Housing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Carr" id="12521549">
             <PersonSpeaking>
@@ -3183,7 +3186,7 @@ Disabilities.
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12522078">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>The Economy</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Finance</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gourde" id="12521614">
             <PersonSpeaking>
@@ -3408,14 +3411,14 @@ Disabilities.
               <ParaText id="8123611">All those opposed to the hon. member's moving the motion will please say nay.</ParaText>
               <ParaText id="8123612">It is agreed.</ParaText>
               <ParaText id="8123613">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="8">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="10">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12521668">
             <PersonSpeaking>
               <Affiliation DbId="278428" Type="2">Mr. Gérard Deltell</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8123614">Mr. Speaker, on a point of order. Twice this week, I tried to table a document that the parliamentary secretary on environment quoted this morning in committee. I am convinced that, now—</ParaText>
+              <ParaText id="8123614">Mr. Speaker, on a point of order, twice this week, I tried to table a document that the parliamentary secretary on environment quoted this morning in committee. I am convinced that, now—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="12521669">
@@ -3520,7 +3523,7 @@ Disabilities.
       <SubjectOfBusiness id="12521782">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Canada Labour Code</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="9">Bill C‑58. Second reading</ProceduralText>
+        <ProceduralText TocType="TPC" id="11">Bill C‑58. Second reading</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="8123643">The House resumed consideration of the motion that Bill <Document DbId="12692679" Type="3">C‑58, An Act to amend the Canada Labour Code and the Canada Industrial Relations Board Regulations, 2012</Document>, be read the second time and referred to a committee.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Gill" id="12521697">
@@ -3699,7 +3702,7 @@ Disabilities.
             <PersonSpeaking>
               <Affiliation DbId="300676" Type="18">Mr. Terry Sheehan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8123712">I wish a merry Christmas to all my constituents.</ParaText>
+              <ParaText id="8123712">Madam Speaker, I wish a merry Christmas to all my constituents.</ParaText>
               <ParaText id="8123713">Those two pieces of legislation made it very difficult for unions to operate. It made it difficult to certify their members, easy to decertify them and tried to bury them in red tape. I was pleased to run under that banner and run again when we put pro-union and pro-worker legislation in our platform. This is a promise made and a promise kept.</ParaText>
             </Content>
           </Intervention>
@@ -3807,7 +3810,7 @@ Disabilities.
         <SubjectOfBusinessTitle>Canada Labour Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="8123744">The House resumed consideration of the motion that Bill <Document DbId="12692679" Type="3">C-58, An Act to amend the Canada Labour Code and the Canada Industrial Relations Board Regulations, 2012</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="10">Bill C-58. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="12">Bill C-58. Second reading</ProceduralText>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Lamoureux" id="12521931">
             <PersonSpeaking>
               <Affiliation DbId="300691" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
@@ -4428,7 +4431,7 @@ Disabilities.
         <SubjectOfBusinessTitle>Prohibition of the Export of Horses by Air for Slaughter Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="8123958">The House resumed from November 20 consideration of the motion that Bill <Document DbId="12566934" Type="4">C-355, An Act to prohibit the export by air of horses for slaughter and to make related amendments to certain Acts</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="11">Bill C-355. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="13">Bill C-355. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Mazier" id="12522421">
             <PersonSpeaking>
               <Affiliation DbId="278380" Type="2">Mr. Dan Mazier (Dauphin—Swan River—Neepawa, CPC)</Affiliation>: </PersonSpeaking>
@@ -4458,7 +4461,7 @@ Disabilities.
             <PersonSpeaking>
               <Affiliation DbId="278660" Type="2">Mr. Yves Perron (Berthier—Maskinongé, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8123976">Mr. Speaker, I am pleased to rise in the House to speak to Bill <Document DbId="12566934" Type="4">C‑355</Document>, which seeks to prohibit the export by air of live horses for the purpose of being slaughtered. That is a very specific bill.</ParaText>
+              <ParaText id="8123976">Madam Speaker, I am pleased to rise in the House to speak to Bill <Document DbId="12566934" Type="4">C‑355</Document>, which seeks to prohibit the export by air of live horses for the purpose of being slaughtered. That is a very specific bill.</ParaText>
               <ParaText id="8123977">I listened to my colleague who spoke before me, and I think he made some interesting points in the Conservative way, obviously. He raised concerns about where this bill will take us.</ParaText>
               <ParaText id="8123978">This bill is one of the most irritating bills I have had to analyze. I want to say at the outset that the Bloc Québécois's initial position is that we disagree with the principle of this bill. However, we will listen to the arguments that are presented.</ParaText>
               <ParaText id="8123979">As my colleague who spoke before me mentioned, this bill appeals to people's feelings and emotions. There have been many comments made and testimony given by people who said that Canada was built on the backs of horses and so on. They are making horses out to be more like pets than commercial farm animals. They are implying that people have the same relationship with horses as they do with cats or dogs, rather than with cows or sheep. I think that is what they are getting at, but it is unclear. </ParaText>
@@ -4477,7 +4480,7 @@ Disabilities.
               <ParaText id="8123991">We are of the opinion that the issue that is being raised here might be a cultural one. Perhaps it is a matter of sensitivity. Perhaps horses are more important than other animals. That is what concerns us because we eat a lot of animals. Are we going to stop exporting live poultry or live hogs? Are we going to stop exporting live cattle at some point? Let us talk about sensitivity. Many people have presented the argument that horses are very sensitive animals, but so are pigs. Pigs are so sensitive that clear directives have been issued for how pigs are to be transported to reduce their stress. For example, the number of hours that they can travel without water was lowered and a size limit was established. Thousands of live animals are exported every year.</ParaText>
               <ParaText id="8123992">I have the impression that this bill, which is relatively minimal, focuses on only one species. It bothered us quite a bit to say that we supported the bill. That is why we are against the principle. My colleagues can try to convince us, but for the moment, we see no reason to prohibit the export of a single animal species by air. I believe that all animals are important and that all animals deserve proper treatment.</ParaText>
               <ParaText id="8123993">Perhaps the goal is to ensure animal welfare without compromising livestock production. Perhaps that is the underlying, hidden objective of this bill. Once again, I am not accusing anyone, but it does raise some questions. If the goal is to ensure animal welfare, we should be sitting down and reviewing animal transportation standards. However, those standards were reviewed relatively recently. The Bloc Québécois does not deny the fact that, in certain circumstances, there may be things that need to be reviewed.</ParaText>
-              <ParaText id="8123994">If it is a question of supporting the bill in its current form, we are not yet convinced, and we will will be watching closely to see what happens next.</ParaText>
+              <ParaText id="8123994">If it is a question of supporting the bill in its current form, we are not yet convinced, and we will be watching closely to see what happens next.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
@@ -4546,7 +4549,7 @@ Disabilities.
             <PersonSpeaking>
               <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8124039">The hon. member for <Affiliation DbId="278775" Type="2">Kitchener—Conestoga</Affiliation> for his right of reply.</ParaText>
+              <ParaText id="8124039">The hon. member for <Affiliation DbId="278775" Type="2">Kitchener—Conestoga</Affiliation> has his right of reply.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Louis" id="12522495">
@@ -4587,7 +4590,7 @@ Disabilities.
               <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8124049">Pursuant to Standing Order 93, the recorded division stands deferred until Wednesday, January 31, 2024, at the expiry of the time provided for Oral Questions.</ParaText>
-              <ProceduralText TocType="TPC" id="12">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4602,7 +4605,7 @@ Disabilities.
         <SubjectOfBusinessQualifier>Agriculture and Agri-Food</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <ParaText id="8124050">The House resumed from November 29 consideration of the motion.</ParaText>
-          <ProceduralText TocType="TPC" id="13">Motion for concurrence</ProceduralText>
+          <ProceduralText TocType="TPC" id="15">Motion for concurrence</ProceduralText>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Barrett" id="12522511">
             <PersonSpeaking>
               <Affiliation DbId="278390" Type="2">Mr. Michael Barrett (Leeds—Grenville—Thousand Islands and Rideau Lakes, CPC)</Affiliation>: </PersonSpeaking>
@@ -4777,7 +4780,7 @@ Disabilities.
               <Affiliation DbId="278460" Type="2">Mr. Pat Kelly (Calgary Rocky Ridge, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8124115">Madam Speaker, it is a pleasure to rise. I am not going to speak at length about the report. </ParaText>
-              <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="16">Amendment</ProceduralText>
               <ParaText id="8124116">I move:</ParaText>
               <ParaText id="8124117">
                 <Quote>
@@ -4797,7 +4800,7 @@ Disabilities.
             <Content>
               <ParaText id="8124119">The amendment is in order.</ParaText>
               <ParaText id="8124120">There being no further members rising, pursuant to order made earlier today, all questions necessary to dispose of the motion are deemed put and recorded divisions are deemed requested.</ParaText>
-              <ProceduralText TocType="TPC" id="15">Divisions deemed demanded and deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Divisions deemed demanded and deferred</ProceduralText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="8124121">Pursuant to Standing Order 66, the recorded divisions stand deferred until Wednesday, January 31, 2024, at the expiry of the time provided for Oral Questions.</ParaText>
             </Content>

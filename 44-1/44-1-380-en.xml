@@ -91,9 +91,7 @@
       <SubjectOfBusiness id="13030706">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Reference to Standing Committee on Procedure and House Affairs
-
-</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Reference to Standing Committee on Procedure and House Affairs</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <ParaText id="8753155">The House resumed from November 29 consideration of the motion, of the amendment as amended and of the amendment to the amendment.
 </ParaText>
@@ -2306,7 +2304,7 @@
         <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>	Points of Order</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Speaker's Ruling—Designation of Supply Days</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Designation of Supply Days—Speaker's Ruling</SubjectOfBusinessQualifier>
         <CatchLine>Speaker's Ruling</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="13032969">
@@ -2344,16 +2342,13 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="13033016" Rubric="Other">
-      <OrderOfBusinessTitle>Orders of the Day</OrderOfBusinessTitle>
-      <CatchLine>Privilege</CatchLine>
       <SubjectOfBusiness id="13033017">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Privilege</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Reference to Standing Committee on Procedure and House Affairs</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Indigenous and Northern Affairs</SubjectOfBusinessQualifier>
+        <CatchLine>Routine Proceedings</CatchLine>
         <SubjectOfBusinessContent>
-          <ParaText id="8753804">The House resumed consideration of the motion, of the amendment as amended and of the amendment to the amendment.</ParaText>
+          <ParaText id="8753804">The House resumed consideration of the motion.</ParaText>
+          <ProceduralText TocType="TPC" id="6">Motion for concurrence</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gerretsen" id="13033020">
             <PersonSpeaking>
               <Affiliation DbId="278514" Type="2">Mr. Mark Gerretsen (Kingston and the Islands, Lib.)</Affiliation>: </PersonSpeaking>
@@ -2431,7 +2426,7 @@
               <ParaText id="8753835"> As we move forward, there are several lessons we must learn from this controversy. First, we must demand greater transparency from public officials, in particular when they are involved in decisions that affect vulnerable communities. Second, we must strengthen the safeguards in place to prevent the exploitation of procurement programs meant for indigenous businesses. The public must have confidence that all elected officials are held to the highest standard of ethical conduct and that means an independent, thorough investigation into the member for <Affiliation DbId="278761" Type="2">Edmonton Centre</Affiliation>'s actions and his potential breaches of the Conflict of Interest Act. We must have transparency into whether his financial interests in GHI influenced the awarding of government contracts and whether any rules were broken in that process. It means we must also examine and even re-examine the strength of our ethics laws and those covering indigenous peoples, including the indigenous procurement programs, and ensure that these programs are not abused by officials looking to profit at the expense of indigenous communities. If they are, we need to know what measures we can take to strengthen our systems, close those loopholes and ensure that these programs are used for that intended purpose to empower and uplift indigenous peoples, not enrich the privileged few.</ParaText>
               <ParaText id="8753836"> We cannot ignore these concerns. The very integrity of our democratic institutions depends on the people who hold positions of power living up to the highest ethical standards. It is time for the member for <Affiliation DbId="278761" Type="2">Edmonton Centre</Affiliation> to answer for his actions and for the government to take the necessary steps to ensure that this type of behaviour is not tolerated in the future. Of course, as we look into the broader implications of the case, we must ask ourselves how many other cases like this are out there. How many more individuals are attempting to pass themselves off as indigenous to access resources and advantages that should be reserved for the very communities we are striving to support?</ParaText>
               <ParaText id="8753837"> As I wrap up I would like to move a motion, seconded by the member for <Affiliation DbId="278420" Type="2">St. Albert—Edmonton</Affiliation>. I move:</ParaText>
-              <ProceduralText TocType="TPC" id="6">Amendment</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Amendment</ProceduralText>
               <ParaText id="8753838">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> That the motion be amended by deleting all the words after the word "That" and substituting the following: "the 18th report of the Standing Committee on Indigenous and Northern Affairs presented to the House of Monday, November 25, 2024, be not now concurred in but that it be recommitted to the committee for further consideration, with instruction that it report back to the House no later than Monday January 27, 2025, on whether the Member for Edmonton Centre, who was the Minister of Employment, Workforce Development and Official Languages when the House adopted an order on Tuesday, November 19, 2024, requiring his attendance before that committee, has appeared in conformity with that order. </QuotePara>
@@ -2801,9 +2796,9 @@
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
-          <Intervention Type="Debate" ToC="No" id="13033972">
+          <Intervention Type="Interjection" ToC="No" id="13033972">
             <PersonSpeaking>
-              <Affiliation DbId="278407" Type="2">M. Sébastien Lemire</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278407" Type="2">Mr. Sébastien Lemire</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8753964">Madam Speaker, I thank my colleague for speaking French with so much passion. I thank him for reaching out to the Bloc Québécois in these circumstances and for expressing his affection for first nations' members.</ParaText>
               <ParaText id="8753965">I would like to answer his question by giving an example. There is a difference between cultural appropriation, which we must speak out against as we are today, and cultural appreciation. When I went to Wendake, I visited Bastien Industries. Their owner, Jason, gave me a great lesson in this. We can appreciate elements that are indigenous as long as they are truly indigenous, but Jason raised a major issue. If he wants to sell his moccasins in the U.S., he has to provide his Indian status card. If he wants to sell his moccasins in Canada, they do not even ask for it. This means that anyone can sell moccasins, the Hudson's Bays of this world, without them actually being made by indigenous people. It is a major issue.</ParaText>
@@ -3432,7 +3427,7 @@
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8754152">Pursuant to Standing Order 45, the division stands deferred until Tuesday, December 3, at the expiry of the time provided for Oral Questions.</ParaText>
-              <ProceduralText TocType="TPC" id="7">Division on amendment deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="8">Division on amendment deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

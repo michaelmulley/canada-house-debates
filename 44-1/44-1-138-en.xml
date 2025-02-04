@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11964184">
-  <StartPageNumber>10209</StartPageNumber>
+  <StartPageNumber>10205</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -1542,7 +1542,16 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 8</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11964641">
@@ -1909,7 +1918,16 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 8</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11964680">
@@ -1929,13 +1947,19 @@
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469259">I wish to inform the House that because of the deferred recorded division, Government Orders will be extended by 25 minutes.</ParaText>
-              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="7469260">The hon. member for Louis-Saint-Laurent on a point of order.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11964688">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11964320">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Comments by Minister of National Revenue</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11964688" ToCText="Mr. Deltell">
             <PersonSpeaking>
-              <Affiliation DbId="278428" Type="2">Mr. Gérard Deltell</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278428" Type="2">Mr. Gérard Deltell (Louis-Saint-Laurent, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469261">Mr. Speaker, on Tuesday, May 3, during question period, after the member for <Affiliation DbId="278532" Type="2">Northumberland—Peterborough South</Affiliation> asked a question, the <Affiliation DbId="214329" Type="4">Minister of National Revenue</Affiliation> said, “Mr. Speaker, I can well understand, during this Mental Health Week, how warped the thinking is on the other side of the House and that they do not understand what we mean.”</ParaText>
               <ParaText id="7469262">In response to such a comment making a parallel between mental health problems and the argument of an opposition member, the Speaker rose and said, “Perhaps it would be appropriate for the minister to phrase her words differently. Maybe she could apologize for that last statement. It was a little inflammatory.” Reclaiming the floor, the minister said, “I apologize, Mr. Speaker.”</ParaText>
@@ -1970,9 +1994,9 @@
               <ParaText id="7469273">The hon. member for Salaberry—Suroît.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11964713">
+          <Intervention Type="Debate" ToC="Yes" id="11964713" ToCText="Mrs. DeBellefeuille">
             <PersonSpeaking>
-              <Affiliation DbId="278185" Type="2">Mrs. Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278185" Type="2">Mrs. Claude DeBellefeuille (Salaberry—Suroît, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469274">Mr. Speaker, had my colleague next to me not mentioned it, I would not have risen to concur in his point of order. I, too, was affected and felt insulted and even scorned by my colleague's comments.</ParaText>
               <ParaText id="7469275">I believe my colleagues know that I am a social workers and member of my professional association. I also find that it is an insult to the profession to make a clinical judgment without an assessment about colleagues she does not know. Even with 25 years' experience in mental health, one is not necessarily an expert capable of making a clinical judgment about all of one's opposition colleagues.</ParaText>
@@ -2119,7 +2143,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11964809">
-        <SubjectOfBusinessQualifier>Human Rights</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Discrimination on the Basis of Political Belief</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Genuis" id="11964816">
             <PersonSpeaking>
@@ -2500,7 +2524,7 @@ The House resumed from November 29 consideration of the motion that Bill <Docume
             <PersonSpeaking>
               <Affiliation DbId="278478" Type="2">Mr. Gary Vidal (Desnethé—Missinippi—Churchill River, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7469399">Madam Speaker, the process was a very collaborative one at committee and I appreciate that process.</ParaText>
+              <ParaText id="7469399">Mr. Speaker, the process was a very collaborative one at committee and I appreciate that process.</ParaText>
               <ParaText id="7469400">The hon. member spoke a couple of times about the amendment that was made to call on the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to respond to the annual report, rather than the <Affiliation DbId="278922" Type="4">minister</Affiliation>, as was in the original legislation. It was agreed upon at committee that we would do that.</ParaText>
               <ParaText id="7469401">I am just curious if the member has a reason why that was not included in the draft legislation in the first place, as that was very specifically a response to call to action 56 of the Truth and Reconciliation Commission.</ParaText>
             </Content>
@@ -2741,7 +2765,7 @@ The House resumed from November 29 consideration of the motion that Bill <Docume
               <ParaText id="7469484">Mr. Speaker, it is a pleasure to rise and speak to such important legislation.</ParaText>
               <ParaText id="7469485">Before us, we have what I believe has been a priority not only for me personally but also for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, as has been demonstrated time and time again when he has talked about how important our nation-to-nation relationship with indigenous people is today and will be in the future. It is in the best interests of all.</ParaText>
               <ParaText id="7469486">Truth and reconciliation is so important. That is why shortly after the commission's report was tabled back in 2015, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>, who was leader of the third party at the time, made it very clear that if we were in government, we would be in favour of enacting and encouraging in any way we can all 94 calls to action.</ParaText>
-              <ParaText id="7469487">Today, we are talking about a piece of legislation that creates the national council for reconciliation. It would be an important, powerful and influential council. The <Affiliation DbId="278922" Type="4">minister</Affiliation> responsible has put forward an interim board, or a committee, if I can put it that way, to make sure that the the council we are creating today gets off on the right foot.</ParaText>
+              <ParaText id="7469487">Today, we are talking about a piece of legislation that creates the national council for reconciliation. It would be an important, powerful and influential council. The <Affiliation DbId="278922" Type="4">minister</Affiliation> responsible has put forward an interim board, or a committee, if I can put it that way, to make sure that the council we are creating today gets off on the right foot.</ParaText>
               <ParaText id="7469488">I am a little concerned regarding what we do as legislators, what takes place in the House of Commons and how information is disseminated in our communities, especially on the issue of reconciliation. Members will try to marginalize the types of things we are doing inside the House, as if the government is not responding to the calls to action. Nothing could be further from the truth.</ParaText>
               <ParaText id="7469489">When members go outside of this chamber and start saying that the government is not acting on the calls to action or has only done 14 of 94, that is misrepresentation at its worst. It is misrepresentation because at the end of the day, many of the 94 recommendations are not even federal responsibility. Many of the recommendations are a joint responsibility between the federal government and provincial governments. Most of the recommendations are a work in progress, just like Bill <Document DbId="11893577" Type="3">C-29</Document>, which has been worked on for years and will, once passed, incorporate four calls to action.</ParaText>
               <ParaText id="7469490">Let us look at the idea that every child matters and at residential schools. The people of Winnipeg North, and I believe Canadians as a whole, recognize how important that theme, idea and reality is. If we look at it, we see the government has been actively working on that file. We are working with different indigenous people to ensure they have the financial resources to do the things that are so critically important. Those are calls to action 72 to 76 and they are in progress.</ParaText>
@@ -2822,7 +2846,7 @@ The House resumed from November 29 consideration of the motion that Bill <Docume
             <PersonSpeaking>
               <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7469523">Mr. Speaker, I want us to imagine we are of indigenous background, and we look at the calls to action. We are looking for leadership. What we see often from this House is a high sense of co-operation where in fact we are are moving forward. We see a sense of hope that, for the first time, we have Canadians looking at truth and reconciliation and acting on the calls to action.</ParaText>
+              <ParaText id="7469523">Mr. Speaker, I want us to imagine we are of indigenous background, and we look at the calls to action. We are looking for leadership. What we see often from this House is a high sense of co-operation where in fact we are moving forward. We see a sense of hope that, for the first time, we have Canadians looking at truth and reconciliation and acting on the calls to action.</ParaText>
               <ParaText id="7469524">Then, we have some members of Parliament who are going out and about spreading misinformation and trying to give the impression that Ottawa does not care and Ottawa is not acting on the calls to action. That sort of misinformation takes hopes away from young people and it takes hope away from indigenous people. </ParaText>
               <ParaText id="7469525">Nothing could be further from the truth. This is a government and a House of Commons that want to deliver, and we are delivering, whether it is financially or on the calls to action. As I say, there are 94 calls to action, and we are responsible, wholly or in part, for well over 80% either being complete or in process. Hopefully after today we will be able to say four of those calls to action have passed third reading.</ParaText>
             </Content>
@@ -2835,7 +2859,7 @@ The House resumed from November 29 consideration of the motion that Bill <Docume
               <ParaText id="7469527">
                 <B>Mr. Mark Gerretsen:</B> That is not a fact. That is a lie.</ParaText>
               <ParaText id="7469528">
-                <B>Mr. Gord Johns:</B> In fact, I was just at an announcement. There is some good news in here. </ParaText>
+                <B>Mr. Gord Johns:</B> In fact, Mr. Speaker, I was just at an announcement. There is some good news in here. </ParaText>
               <ParaText id="7469529">Is that member telling me that the Nuu-chah-nulth are lying—</ParaText>
             </Content>
           </Intervention>
@@ -3270,7 +3294,7 @@ The House resumed from November 29 consideration of the motion that Bill <Docume
               <ParaText id="7469693">The approach in the bill is interesting. It proposes sitting down with everyone, which I like, and determining the economic strengths outside fossil fuels and creating favourable conditions for their development. Whether it is infrastructure, training or regulations, a development plan calls for coordination. It calls for the public's participation because the economy has to serve the people. Getting everyone on the same page from the get-go is hardly a waste of time. Doing so saves the proponent from constantly going back to the drawing board because the initial proposal lacks social licence. We save time by getting everyone around the same table from day one. That is truly one of the strong points of the bill.</ParaText>
               <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
               <ParaText id="7469694">My colleague's reasons and arguments are interesting. It is a good premise, but it clearly represents interference in provincial jurisdictions. I would like to remind members that over the years, it was the decisions of both Conservative and Liberal governments that made it possible to develop the oil sands. </ParaText>
-              <ParaText id="7469695">Let us look back. There was Pearson's energy policy. Then budgetary policy fostered the development of oil. In 2009, under the Harper government, Canada made a commitment at the G20 to eliminate its inefficient fossil fuel subsidies. However, there has been no progress since then. The Auditor General and the commissioner of the environment indicated in three reports that 13 years after the G20 commitment, the government is still unable to define what it considers to be an inefficient subsidy. Therefore, it it not getting rid of those subsidies.</ParaText>
+              <ParaText id="7469695">Let us look back. There was Pearson's energy policy. Then budgetary policy fostered the development of oil. In 2009, under the Harper government, Canada made a commitment at the G20 to eliminate its inefficient fossil fuel subsidies. However, there has been no progress since then. The Auditor General and the commissioner of the environment indicated in three reports that 13 years after the G20 commitment, the government is still unable to define what it considers to be an inefficient subsidy. Therefore, it is not getting rid of those subsidies.</ParaText>
               <ParaText id="7469696">The Bloc Québécois has long called for an end to support for fossil fuels. We would be very pleased if the money and subsidies that are currently being spent on fossil fuels were instead redirected to the western provinces' transition to renewable energy. Given the magnitude of the challenges they will face, we think that is a good idea.</ParaText>
               <ParaText id="7469697">We believe that the energy revolution we face will be on the same scale as the industrial revolution. That is quite significant. The revolution would never have happened if it had to rely solely on government legislation. It happened because all the actors in the economy, in particular the financial sector that enables investments, contributed to it. The same holds true for the renewable energy revolution and the green economy. Developing this sector of the future will mean relying on the strength of the financial sector and the experts in the field.</ParaText>
               <ParaText id="7469698">In 2021, Greenpeace published a study on investments in fossil fuels. Since late 2015, when the Paris Agreement was signed, Canada's five big banks have pumped nearly $700 billion into fossil fuels. That makes no sense. To this day, even though several banks say they are committed to the 2050 net-zero goal, there is no indication that the banking community is looking to shift away from fossil fuels: Investments have increased from $122 billion in 2016 to $160 billion in 2019, and the trend keeps going strong. Canada's five big banks are all on the list of the world's top 25 investors in fossil fuels. I find that disturbing.</ParaText>

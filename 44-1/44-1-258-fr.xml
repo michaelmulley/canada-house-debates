@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12472343">
-  <StartPageNumber>19199</StartPageNumber>
+  <StartPageNumber>19189</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -241,7 +241,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12472434">
         <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
-        <SubjectOfBusinessTitle> Les services publics et l'approvisionnement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle> L'innovation, les sciences et l'industrie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Barrett" id="12472435">
             <PersonSpeaking>
@@ -380,7 +380,7 @@
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8068738">Monsieur le Président, les Canadiens qui ouvrent leur réfrigérateur ne trouvent aucune nourriture et doivent se rendre dans les banques alimentaires. Après huit de ce premier ministre, ils vivent déjà l'austérité dans leur vie quotidienne. Le premier ministre veut rendre leur situation encore pire en créant un autre déficit de dépenses inflationnistes de 20 milliards de dollars et en augmentant les taux d'intérêt et l'inflation sur le dos des Canadiens.</ParaText>
+              <ParaText id="8068738">Monsieur le Président, les Canadiens qui ouvrent leur réfrigérateur ne trouvent aucune nourriture et doivent se rendre dans les banques alimentaires. Après huit ans de ce premier ministre, ils vivent déjà l'austérité dans leur vie quotidienne. Le premier ministre veut rendre leur situation encore pire en créant un autre déficit de dépenses inflationnistes de 20 milliards de dollars et en augmentant les taux d'intérêt et l'inflation sur le dos des Canadiens.</ParaText>
               <ParaText id="8068739">Va-t-il renverser ses politiques inflationnistes pour que les Canadiens puissent manger?</ParaText>
             </Content>
           </Intervention>
@@ -411,6 +411,11 @@
               <ParaText id="8068746">Le gouvernement demeure déterminé à investir dans le logement, à répondre aux besoins des Canadiens, à favoriser une concurrence accrue pour contribuer à stabiliser les prix à l'épicerie et à créer d'excellents emplois et des carrières de choix pour les Canadiens dans les décennies à venir.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12472818">
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Poilievre" id="12472481">
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
@@ -427,11 +432,6 @@
               <ParaText id="8068750">Tandis que le <Affiliation DbId="291215" Type="9">chef de l’opposition</Affiliation> continue de défendre les géants du Web et ses amis milliardaires au sud, nous continuerons de défendre le journalisme local et le travail qu'effectuent les professionnels pour soutenir notre démocratie dans les villages et les municipalités de partout au pays.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="12472818">
-        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Poilievre" id="12472488">
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
@@ -1140,7 +1140,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12472750">
-        <SubjectOfBusinessTitle>Les affaires autochtones</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Idlout" id="12472749">
             <PersonSpeaking>
@@ -3206,7 +3206,7 @@ La Chambre reprend l'étude, interrompue le 27 novembre, de la motion.</ParaTex
       <SubjectOfBusiness id="12473556">
         <SubjectOfBusinessTitle>
       Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Motion des voies et moyens n<Sup>o</Sup> 19</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La motion des voies et moyens n<Sup>o</Sup> 19 — Décision de la présidence</SubjectOfBusinessQualifier>
         <CatchLine>Décision de la présidence</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="12473036">
@@ -3292,7 +3292,7 @@ La Chambre reprend l'étude, interrompue le 27 novembre, de la motion.</ParaTex
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12473193">
-        <SubjectOfBusinessQualifier>Le commerce international </SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Commerce international </SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sgro" id="12473053">
             <PersonSpeaking>
@@ -3753,9 +3753,9 @@ La Chambre reprend l'étude, interrompue le 27 novembre, de la motion.</ParaTex
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Arya" id="12474062">
+          <Intervention Type="Interjection" ToC="No" id="12474062">
             <PersonSpeaking>
-              <Affiliation DbId="278409" Type="2">M. Chandra Arya (Nepean, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278409" Type="2">M. Chandra Arya</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8069156">Madame la Présidente, le Sénat est actuellement saisi d'une mesure législative d'initiative parlementaire, le projet de loi <Document DbId="11829353" Type="4">C‑282</Document>, qui a été présenté par un député du Bloc québécois. L'Alliance canadienne du commerce agroalimentaire, qui représente 90 % des exportateurs du secteur agroalimentaire, estime que l'entrée en vigueur du projet de loi C‑282 menacerait l'avenir des exportations agroalimentaires canadiennes. En fait, cette mesure législative empêcherait le gouvernement de traiter de la gestion de l'offre dans toutes négociations commerciales futures. Dans une telle éventualité, cela n'affecterait-il pas le secteur agricole, qui est l'un des plus performants de l'économie canadienne au chapitre des exportations? </ParaText>
             </Content>
@@ -3814,13 +3814,6 @@ La Chambre reprend l'étude, interrompue le 27 novembre, de la motion.</ParaTex
               <ParaText id="8069187">La recommandation d'établir un code de conduite pour les épiceries est extrêmement importante, car il y a toujours un déséquilibre de pouvoir dans la relation entre les grandes chaînes d'alimentation et les producteurs et les transformateurs qui les approvisionnent. Cinq grands épiciers contrôlent 80 % du marché. Quand on peut étendre à ce point son emprise sur le marché, on peut dicter en grande partie les conditions et décider quels seront les produits sur les rayons. Par conséquent, un transformateur ou un producteur qui veut faire de l'argent risque de devoir vendre ses produits à Metro ou à Loblaws parce que c'est la seule façon de faire des profits.</ParaText>
               <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
               <ParaText id="8069188">Il y a là un déséquilibre du pouvoir. Dans bien des cas, les personnes qui fournissaient les aliments que nous achetons à l'épicerie constataient que ces transformateurs se faisaient imposer une foule de frais cachés. Il y avait des frais quand ils fournissaient une trop grande quantité, quand ils fournissaient une quantité insuffisante, quand ils avaient un jour de retard, etc. Il n'y avait rien de logique à cette tarification, mais ils ne pouvaient rien faire contre cette pratique. C'est pourquoi les producteurs et les transformateurs réclament avec force un code de conduite pour les épiceries.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="12474237">
-            <PersonSpeaking>
-              <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="8069189">Il est de mon devoir d'interrompre maintenant les délibérations sur la motion. Conformément à l'article 66(1) du Règlement, le débat sur la motion est transféré sous la rubrique Ordres émanant du gouvernement.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3950,7 +3943,7 @@ La Chambre reprend l'étude, interrompue le 27 novembre, de la motion.</ParaTex
             <PersonSpeaking>
               <Affiliation DbId="299805" Type="2">M. Ben Carr (Winnipeg-Centre-Sud, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8069252">Madame la Présidente, c'est un honneur de prendre la parole pour exprimer mon appui au projet de loi <Document DbId="12260842" Type="4">C‑322</Document>, Loi concernant l’élaboration d’un cadre national visant l’établissement d’un programme d’alimentation en milieu scolaire. </ParaText>
+              <ParaText id="8069252">Madame la Présidente, c'est un honneur de prendre la parole pour exprimer mon appui au projet de loi <Document DbId="12260842" Type="4">C-322</Document>, Loi concernant l’élaboration d’un cadre national visant l’établissement d’un programme d’alimentation en milieu scolaire. </ParaText>
               <ParaText id="8069253">Je tiens à remercier mon collègue le député d'<Affiliation DbId="278104" Type="2">Acadie—Bathurst</Affiliation> d'avoir présenté le projet de loi. </ParaText>
               <ParaText id="8069254">J'ai eu le plaisir d'avoir une carrière où j'ai été enseignant, directeur, directeur de district et entraîneur. Pendant ma carrière, j'ai eu la chance de travailler avec des milliers d'étudiants, avec leur famille et avec des éducateurs de tout le Manitoba. J'ai appris l'importance de manger à sa faim et d'avoir accès à des choix alimentaires nutritifs pendant une journée à l'école, ainsi qu'avant et après cette journée. </ParaText>
               <ParaText id="8069255">L'accès à des aliments nutritifs est important pour un certain nombre de raisons pour un étudiant: son énergie, sa concentration et la durée de son attention, son sentiment d'identité et une attitude positive au quotidien. Comme le soulignait il y a un instant mon collègue, le Canada est le seul pays du G7 à ne pas avoir de norme ou de cadre nationaux relatifs aux programmes d'alimentation scolaire. Avant de poursuivre mon discours, je veux affirmer clairement que nous savons que les provinces sont responsables d'à peu près tout ce qui touche l'éducation au Canada. Le projet de loi se veut un catalyseur visant à inciter tous les pouvoirs publics à collaborer pour assurer le bien-être des jeunes partout au pays. </ParaText>
@@ -3958,18 +3951,33 @@ La Chambre reprend l'étude, interrompue le 27 novembre, de la motion.</ParaTex
               <ParaText id="8069256">Je comprends, comme mon honorable collègue du Bloc québécois l'a mentionné il y a quelques minutes, que l'éducation relève des provinces. En même temps, je pense qu'il y a plusieurs exemples qui montrent que lorsque plusieurs paliers de gouvernement collaborent, on peut créer des politiques positives au Canada. Je crois que ce n'est pas différent dans le cas de ce projet de loi. C'est une occasion de travailler ensemble. </ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="8069257">J'aimerais lire quelques paroles que m'a transmises Alan Campbell, un Manitobain comme moi qui est actuellement président de l'Association canadienne des commissions/conseils scolaires. Pendant le court laps de temps qui s'est écoulé depuis mon élection au Parlement, j’ai fait de mon mieux pour présenter les observations des gens qui habitent mon coin de pays, parce que je crois qu’il est de ma responsabilité, et de notre responsabilité dans cette enceinte, de faire entendre leur voix aux Canadiens par l’entremise de la Chambre, dans le cadre de nos fonctions.</ParaText>
-              <ParaText id="8069258">Voici ce que M. Campbell a dit au sujet de ce projet de loi: « Les conseils scolaires de partout au pays sont prêts et disposés à travailler avec les gouvernements fédéral et provinciaux à la création d'un cadre national sur un programme d'alimentation en milieu scolaire. Ils sont conscients que de nombreuses collectivités rurales et urbaines du pays ont des programmes d'alimentation dans les écoles grâce au soutien direct d’organismes de bienfaisance et de conseils scolaires locaux de sorte qu'il existe déjà de nombreux modèles très efficaces sur lesquels nous pouvons nous appuyer pour créer rapidement un cadre sur un programme d’alimentation en milieu scolaire accessible à tous dans toutes les écoles du Canada ».</ParaText>
-              <ParaText id="8069259">Il a ajouté « Au Manitoba, les conseils scolaires soulignent le succès de longue date du Child Nutrition Council of Manitoba [...] un organisme de bienfaisance qui, depuis des décennies, œuvre en partenariat avec l'association des conseils scolaires du Manitoba ainsi que les secteurs public et privé afin d'offrir des programmes de nutrition solides et durables dans de nombreuses écoles de la province. Le nouveau premier ministre du Manitoba, Wab Kinew, et son gouvernement [...] se sont engagés à travailler avec les conseils scolaires et le Child Nutrition Council of Manitoba afin d'offrir des programmes d'alimentation à plus d'écoles. Ce partenariat manitobain pourrait bien servir à documenter [positivement] l'élaboration du cadre national souhaité [dans ce projet de loi]. »</ParaText>
+              <ParaText id="8069258">Voici ce que M. Campbell a dit au sujet de ce projet de loi:</ParaText>
+              <ParaText id="8719297">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Les conseils scolaires de partout au pays sont prêts et disposés à travailler avec les gouvernements fédéral et provinciaux à la création d'un cadre national sur un programme d'alimentation en milieu scolaire. Ils sont conscients que de nombreuses collectivités rurales et urbaines du pays ont des programmes d'alimentation dans les écoles grâce au soutien direct d’organismes de bienfaisance et de conseils scolaires locaux de sorte qu'il existe déjà de nombreux modèles très efficaces sur lesquels nous pouvons nous appuyer pour créer rapidement un cadre sur un programme d’alimentation en milieu scolaire accessible à tous dans toutes les écoles du Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8069259">Il a ajouté:</ParaText>
+              <ParaText id="8719298">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Au Manitoba, les conseils scolaires soulignent le succès de longue date du Child Nutrition Council of Manitoba [...] un organisme de bienfaisance qui, depuis des décennies, œuvre en partenariat avec l'association des conseils scolaires du Manitoba ainsi que les secteurs public et privé afin d'offrir des programmes de nutrition solides et durables dans de nombreuses écoles de la province. Le nouveau premier ministre du Manitoba, Wab Kinew, et son gouvernement [...] se sont engagés à travailler avec les conseils scolaires et le Child Nutrition Council of Manitoba afin d'offrir des programmes d'alimentation à plus d'écoles. Ce partenariat manitobain pourrait bien servir à documenter [positivement] l'élaboration du cadre national souhaité [dans ce projet de loi].</QuotePara>
+                </Quote>
+              </ParaText>
               <ParaText id="8069260">Hier, j'ai discuté avec le premier ministre Kinew et je lui ai dit que je parlerais de ce dossier à la Chambre aujourd'hui. Il voulait simplement que je réitère que les valeurs du gouvernement du Manitoba correspondent aux intentions de ce projet de loi. Nous serons fiers de travailler avec lui et son gouvernement afin d'adopter ce projet de loi et de répondre aux besoins des enfants de tout le pays. </ParaText>
               <ParaText id="8069261">J'aimerais parler un instant des impacts disproportionnés qu'a la pauvreté sur les communautés autochtones du Manitoba. Je sais que quelques-uns de mes collègues, ainsi que la députée de Winnipeg-Centre, connaissent bien la nature tragique de ces statistiques. </ParaText>
               <Timestamp Hr="19" Mn="05">(1905)</Timestamp>
               <ParaText id="8069262">Au cours des dernières années, le taux d'obtention de diplôme pour les étudiants des Premières Nations au Manitoba a descendu jusqu'à 50 %. Ce taux peut être comparé à celui des élèves non autochtones du système public du Manitoba, qui est d'environ 95 %. Sur les 11 000 enfants du Manitoba qui sont confiés à des organismes de protection de la jeunesse, 90 % sont autochtones. Par conséquent, il est crucial pour la réconciliation et pour lutter contre les conséquences tragiques de la pauvreté qui sévit dans les collectivités — et, comme je viens de le dire, de manière disproportionnée dans les communautés autochtones de Winnipeg et du Manitoba — de nous pencher sur la question de la nutrition. </ParaText>
               <ParaText id="8069263">Il existe également de nombreuses occasions, toujours dans l'optique de la réconciliation, de tenir compte des valeurs et des perspectives autochtones en ce qui concerne l'alimentation, le régime alimentaire et la santé, et la manière dont ces éléments sont reflétés dans les programmes scolaires. Il existe des moyens d'intégrer les enseignements et les visions du monde autochtones dans le site Web Aliments sains dans les écoles ainsi que dans les programmes scolaires et dans les conversations. </ParaText>
-              <ParaText id="8069264">J'ai appris à admirer le travail d'une organisation communautaire appelée Teach For Canada, qui fait un travail formidable pour développer et soutenir l'éducation dans les réserves du Nord du Canada. Voici ce que son directeur général, Ken Sanderson, a déclaré au sujet du projet de loi. Il a déclaré: « En défendant le projet de loi C‑322 et la création d'un programme national d'alimentation scolaire, il est essentiel de reconnaître les inégalités persistantes auxquelles font face les Premières Nations. Teach For Canada-Gakinaamaage, dont la mission est de remédier aux disparités en matière d'éducation au sein des Premières Nations, met en évidence l'interconnexion entre ces défis et souligne la nécessité d'une approche locale et communautaire pour assurer la réussite des élèves dans les salles de classe. Pour nous engager véritablement à mettre fin à la faim chez les enfants, nous devons avant tout consulter les communautés et adapter nos efforts pour créer un milieu d'apprentissage bien équilibré qui répond aux besoins liés à l'éducation et à l'alimentation. Cela nécessite une approche nuancée qui prend en compte des facteurs tels que le coût des aliments, l'insécurité et la nécessité d'une nutrition adaptée à la culture et proposée par les Autochtones. »</ParaText>
+              <ParaText id="8069264">J'ai appris à admirer le travail d'une organisation communautaire appelée Teach For Canada, qui fait un travail formidable pour développer et soutenir l'éducation dans les réserves du Nord du Canada. Voici ce que son directeur général, Ken Sanderson, a déclaré au sujet du projet de loi. Il a déclaré:</ParaText>
+              <ParaText id="8719299">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">En défendant le projet de loi C-322 et la création d'un programme national d'alimentation scolaire, il est essentiel de reconnaître les inégalités persistantes auxquelles font face les Premières Nations. Teach For Canada-Gakinaamaage, dont la mission est de remédier aux disparités en matière d'éducation au sein des Premières Nations, met en évidence l'interconnexion entre ces défis et souligne la nécessité d'une approche locale et communautaire pour assurer la réussite des élèves dans les salles de classe. Pour nous engager véritablement à mettre fin à la faim chez les enfants, nous devons avant tout consulter les communautés et adapter nos efforts pour créer un milieu d'apprentissage bien équilibré qui répond aux besoins liés à l'éducation et à l'alimentation. Cela nécessite une approche nuancée qui prend en compte des facteurs tels que le coût des aliments, l'insécurité et la nécessité d'une nutrition adaptée à la culture et proposée par les Autochtones.</QuotePara>
+                </Quote>
+              </ParaText>
               <ParaText id="8069265">Mon ancien employeur le district scolaire de Winnipeg, où j'ai fait mes premiers pas comme enseignant il y a des années, est le plus grand district scolaire de Winnipeg et même du Manitoba. Bon nombre des écoles du district se trouvent dans ma circonscription, et beaucoup de gens qui y travaillent vivent aussi dans ma circonscription. Le district scolaire de Winnipeg continue d'offrir des programmes de nutrition dans ses 79 écoles. L'École Gladstone, située dans ma circonscription, offre un solide programme de petit-déjeuner; ainsi, tous les élèves sont bien disposés à apprendre. Le problème, c'est que la plupart des programmes de nutrition sont financés par des subventions limitées et selon le bon vouloir des organismes caritatifs. Pour bâtir une société robuste, il est essentiel de fournir à tous les élèves — pas seulement ceux du district scolaire de Winnipeg, mais bien les élèves de partout au Canada — une source d'aliments nutritifs ciblée et viable. </ParaText>
-              <ParaText id="8069266">Chez nous, au Manitoba, le gouvernement finance le Conseil de la nutrition de l'enfant du Manitoba, dont j'ai parlé plus tôt, qui accorde des subventions aux écoles. En 2021‑2022, les subventions du Conseil ont permis d'aider près de 34 000 enfants dans le cadre de 302 programmes. En tant que directeur d'école, j'avais l'habitude de demander ces subventions très utiles au nom des élèves. Elles permettent d'offrir un soutien incroyable dont les jeunes ont désespérément besoin, mais ce n'est pas suffisant. J'ai vu les retombées de ce genre de programmes sur les élèves dans les écoles où je travaillais, dans celles où certains collègues travaillaient et dans d'autres, que les enfants de mes amis fréquentaient. Ce constat a fait ressortir l'importance d'avoir accès à ce type de soutien pour que les enfants vivent une expérience positive à l'école.</ParaText>
+              <ParaText id="8069266">Chez nous, au Manitoba, le gouvernement finance le Conseil de la nutrition de l'enfant du Manitoba, dont j'ai parlé plus tôt, qui accorde des subventions aux écoles. En 2021-2022, les subventions du Conseil ont permis d'aider près de 34 000 enfants dans le cadre de 302 programmes. En tant que directeur d'école, j'avais l'habitude de demander ces subventions très utiles au nom des élèves. Elles permettent d'offrir un soutien incroyable dont les jeunes ont désespérément besoin, mais ce n'est pas suffisant. J'ai vu les retombées de ce genre de programmes sur les élèves dans les écoles où je travaillais, dans celles où certains collègues travaillaient et dans d'autres, que les enfants de mes amis fréquentaient. Ce constat a fait ressortir l'importance d'avoir accès à ce type de soutien pour que les enfants vivent une expérience positive à l'école.</ParaText>
               <ParaText id="8069267">En terminant, je répète qu'il est urgent de mettre en œuvre un programme national d'alimentation en milieu scolaire. J'espère que nous pourrons obtenir un appui bipartite à la Chambre pour ce projet de loi. Je sais qu'il y a des questions sur lesquelles d'autres députés et moi ne sommes pas d'accord, comme l'origine de l'inflation et ce qui fait augmenter le coût de la vie et diminuer le pouvoir d'achat au pays, mais je pense que nous pouvons nous entendre sur l'importance de veiller à ce que de tels programmes existent.</ParaText>
-              <ParaText id="8069268">Lorsque les gouvernements fédéral et provinciaux travaillent ensemble, de grandes choses peuvent se produire au Canada. On a pu le constater dans le cas entre autres des ententes sur les garderies, des transferts en santé et de la lutte contre les changements climatiques. J'espère que le projet de loi <Document DbId="12260842" Type="4">C‑322</Document> nous donnera une autre occasion de le faire.</ParaText>
+              <ParaText id="8069268">Lorsque les gouvernements fédéral et provinciaux travaillent ensemble, de grandes choses peuvent se produire au Canada. On a pu le constater dans le cas entre autres des ententes sur les garderies, des transferts en santé et de la lutte contre les changements climatiques. J'espère que le projet de loi <Document DbId="12260842" Type="4">C-322</Document> nous donnera une autre occasion de le faire.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="19" Mn="10">(1910)</Timestamp>

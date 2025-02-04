@@ -1984,15 +1984,11 @@
             <Content>
               <ProceduralText TocType="TPC" id="4">Motion agreed to</ProceduralText>
               <ParaText id="8377240">I declare the motion carried.</ParaText>
+              <ParaText id="8544462">
+                <I>And the Clerk having announced the results of the vote:</I>
+              </ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="12730127">
-        <SubjectOfBusinessContent>
-          <ParaText id="8377241">
-            <I>And the Clerk having announced the results of the vote:</I>
-          </ParaText>
           <Intervention Type="Interjection" ToC="No" id="12730032">
             <PersonSpeaking>
               <Affiliation DbId="278785" Type="2">Mr. Wilson Miao</Affiliation>: </PersonSpeaking>
@@ -4482,7 +4478,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278278" Type="2">Mr. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8377662">Madam Speaker, we have just seen the <Affiliation DbId="278910" Type="4">Minister of Environment</Affiliation> announce that there will be a gag order on Bill <Document DbId="12739107" Type="3">C‑59</Document>, an omnibus bill of nearly 550 pages with 60 different measures and 31 acts and regulations. It is the implementation bill for last year's budget and the fall economic statement.</ParaText>
+              <ParaText id="8377662">Madam Speaker, we have just seen the <Affiliation DbId="278910" Type="4">Minister of Environment</Affiliation> announce that there will be a gag order on Bill <Document DbId="12739107" Type="3">C-59</Document>, an omnibus bill of nearly 550 pages with 60 different measures and 31 acts and regulations. It is the implementation bill for last year's budget and the fall economic statement.</ParaText>
               <ParaText id="8377663">However, the government delayed introducing it in the House so that we could study it in committee. The government has organized its time poorly and here we are in May sitting until midnight with limited time to debate a subject as important as this.</ParaText>
               <ParaText id="8377664">Does the hon. parliamentary secretary agree with me that the government manages its priorities very badly?</ParaText>
             </Content>
@@ -4540,7 +4536,7 @@
               <ParaText id="8377676">The second good thing that we did was to strengthen the Competition Act. The testimony of the commissioner of competition was very important. The consumer advocacy group Option consommateurs also made a very valuable contribution. Last but not least, I want to once again recognize the member for Vancouver Kingsway for his hard work. Unfortunately, we did not have time to compare the commissioner's analysis with the senior departmental officials' analysis, which meant we had some tough decisions to make.</ParaText>
               <ParaText id="8377677">The third good thing we did was to strengthen the right to repair.</ParaText>
               <ParaText id="8377678">During the committee study, I came away very disappointed about one aspect that still has not been clarified. I am talking about how the association representing Quebec's orders of mental health professionals is being treated. This association represents the Ordre des psychoéducateurs et psychoéducatrices du Québec, the Ordre des conseillers et conseillères d'orientation du Québec, the Ordre professionnel des sexologues du Québec, the Ordre professionnel des criminologues du Québec, as well as the Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec. We are talking about 2,500 professionals in private practice who must charge their clients tax.</ParaText>
-              <ParaText id="8377679">However, clause 137 of Bill C‑59 seeks to remove the GST from psychotherapy and counselling services. The professionals represented by the orders I just listed work in professions that have been covered by Quebec's Professional Code since 2012, such as mental health and human relations. Ordinarily, they should therefore be included in the measure set out in Bill C‑59.</ParaText>
+              <ParaText id="8377679">However, clause 137 of Bill C-59 seeks to remove the GST from psychotherapy and counselling services. The professionals represented by the orders I just listed work in professions that have been covered by Quebec's Professional Code since 2012, such as mental health and human relations. Ordinarily, they should therefore be included in the measure set out in Bill C-59.</ParaText>
               <ParaText id="8377680">I would like to quote Mr. Soucis, president of the Ordre des psychoéducateurs et psychoéducatrices du Québec, who said:</ParaText>
               <ParaText id="8377681">
                 <CommitteeQuote>
@@ -4557,21 +4553,21 @@
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> We would point out that under the Professional Code, our professional orders have a mandate to be the regulatory and supervisory body for their profession in Quebec and that they are capable of doing that.</QuotePara>
                 </CommitteeQuote>
               </ParaText>
-              <ParaText id="8377684">In committee, the department told us that these Quebec professionals would not have to charge GST and would be included in the measure. However, this conflicts with what the Canada Revenue Agency and Revenu Québec are saying. We tried to clarify this part of Bill C‑59, but we were unsuccessful. I sincerely hope that Quebec professionals are not excluded from the measure.</ParaText>
+              <ParaText id="8377684">In committee, the department told us that these Quebec professionals would not have to charge GST and would be included in the measure. However, this conflicts with what the Canada Revenue Agency and Revenu Québec are saying. We tried to clarify this part of Bill C-59, but we were unsuccessful. I sincerely hope that Quebec professionals are not excluded from the measure.</ParaText>
               <ParaText id="8377685">That was a summary of some of the work we did in committee.</ParaText>
-              <ParaText id="8377686">However, given that the bulk of Bill C‑59 was adopted in committee by the majority, we are now seized with the improved text at report stage. At this stage, again, Bill C‑59 contains some good and some bad elements, but the Bloc Québécois is opposing it once again because of two measures.</ParaText>
+              <ParaText id="8377686">However, given that the bulk of Bill C-59 was adopted in committee by the majority, we are now seized with the improved text at report stage. At this stage, again, Bill C-59 contains some good and some bad elements, but the Bloc Québécois is opposing it once again because of two measures.</ParaText>
               <ParaText id="8377687">The first is the $30.3 billion in subsidies to oil companies in the form of tax credits. This means that taxpayers will be paying oil companies to pollute less, when they do not need that money.</ParaText>
               <ParaText id="8377688">The second is the creation of a federal department of municipal affairs called the Department of Housing, Infrastructure and Communities. This is a sign that we can expect more interference, more bickering and more delays, at a time when the housing crisis demands swift action.</ParaText>
               <Timestamp Hr="19" Mn="20">(1920)</Timestamp>
               <ParaText id="8377689">Let us look at the oil subsidies.</ParaText>
               <ParaText id="8377690">On April 30, the Parliamentary Budget Officer released a study indicating that the latest budget would lead to a shortfall of $39 billion by 2029. The budget includes $61 billion in new spending, including tax expenditures, and there is $22 billion in new revenue, mostly from capital gains.</ParaText>
-              <ParaText id="8377691">Bill <Document DbId="12739107" Type="3">C‑59</Document> alone contains more than $30 billion in tax gifts to the oil companies. Roughly half goes to wasting public money on carbon sequestration, while the other half would enable them to use nuclear energy to extract the tar from the tar sands. This represents more than 80% of the $39‑billion shortfall that the Parliamentary Budget Officer unveiled in his recent study, the same shortfall the Conservatives are making such a big fuss about. </ParaText>
+              <ParaText id="8377691">Bill <Document DbId="12739107" Type="3">C-59</Document> alone contains more than $30 billion in tax gifts to the oil companies. Roughly half goes to wasting public money on carbon sequestration, while the other half would enable them to use nuclear energy to extract the tar from the tar sands. This represents more than 80% of the $39-billion shortfall that the Parliamentary Budget Officer unveiled in his recent study, the same shortfall the Conservatives are making such a big fuss about. </ParaText>
               <ParaText id="8377692">Since 2022, the government has announced $83 billion in tax gifts for the oil companies. That is twice the shortfall that the Parliamentary Budget Officer was talking about early last week. Need I remind the House that the oil companies do not need any gifts? According to the Centre for Future Work, the oil and gas extraction sector has made record profits these past few years, specifically $38 billion over three years, in 2020, 2021 and 2022, and half of that in 2022 alone. Apparently, 2023 was just as profitable. Since 70% of the shareholders are foreign, that is money that has left the country.</ParaText>
               <ParaText id="8377693">In the last two budgets, the government announced its intention to introduce six tax credits largely aimed at oil companies. According to information provided by the Department of Finance, these tax credits will total a whopping $83 billion by 2035.</ParaText>
               <ParaText id="8377694">Bill C-59 amends the Income Tax Act to create two of these tax credits, which are tailor-made for oil companies: a clean technology investment tax credit and a tax credit for carbon capture and storage. The first, worth $17.8 billion, aims to replace the use of gas to extract oil from the oil sands with nuclear power, all in order to export more gas. The second tax credit is worth $12.5 billion. Instead of accelerating the transition to renewable energy, the federal government would rather help oil companies pump every last drop of oil, hoping that they will pollute less in the course of their operations. That is the aim of this refundable tax credit for oil companies. It is only available to companies in Saskatchewan, Alberta and British Columbia, and not anywhere else.</ParaText>
               <ParaText id="8377695">As we know, carbon capture and storage is an experimental technique that is supposed to enable major polluters to recover some of their carbon emissions and bury them in the ground, usually in old, empty oil wells. Carbon capture is a central plank of the oil companies' pseudo-environmental strategy, in much the same way as cigarette manufacturers used to argue that filtered cigarettes were better for smokers' health in the 1970s.</ParaText>
               <ParaText id="8377696">The International Energy Agency, an OECD affiliate, believes that countries will be making a serious mistake if they put carbon capture at the heart of their environmental strategy. It believes that carbon capture is an illusion, that the technology is unproven and that, even if could someday be made to work on an industrial scale, it would deliver only marginal results at an exorbitant cost.</ParaText>
-              <ParaText id="8377697">Bill C‑59 confirms that the government has acceded to the oil companies' demands. No surprise there. The independent media outlet The Narwhal published a document it had obtained through the Access to Information Act showing that the oil company Suncor had a hand in drafting the government's environmental policy, particularly the section on carbon capture that Bill C‑59 brings to fruition.</ParaText>
+              <ParaText id="8377697">Bill C-59 confirms that the government has acceded to the oil companies' demands. No surprise there. The independent media outlet The Narwhal published a document it had obtained through the Access to Information Act showing that the oil company Suncor had a hand in drafting the government's environmental policy, particularly the section on carbon capture that Bill C-59 brings to fruition.</ParaText>
               <ParaText id="8377698">This is what former Liberal environment minister Catherine McKenna had to say about the carbon capture tax credit in an interview with the newspaper 24 heures, on December 5, 2023:</ParaText>
               <ParaText id="8377699">
                 <Quote>
@@ -4584,7 +4580,7 @@
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">We are giving special access to companies that are making historic profits, that are not investing those profits into the transition and clean solutions. They are returning those profits to their shareholders, who for the most part are not Canadian, and then they ask to be subsidized for the pollution they cause, while Canadians have to pay more for oil and gas for heating.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="8377702">Those are some of the reasons why we are voting against Bill C‑59.</ParaText>
+              <ParaText id="8377702">Those are some of the reasons why we are voting against Bill C-59.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="19" Mn="25">(1925)</Timestamp>
@@ -4706,7 +4702,7 @@
               <Affiliation DbId="278278" Type="2">Mr. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8377752">Madam Speaker, I was not expecting such a lively debate tonight. I thank the hon. member for Vancouver Kingsway for his speech, and I congratulate him on the six amendments that he was able to get passed in committee. He touched on them briefly. I would like him to tell us more about that, but I will ask my question.</ParaText>
-              <ParaText id="8377753">There have been a lot of changes and improvements to the Competition Act, some of which were requested by the commissioner of competition. When it comes to the Competition Act, we know that Canada had a long way to go. Bill <Document DbId="12569206" Type="3">C‑56</Document> improved the act, and Bill <Document DbId="12739107" Type="3">C‑59</Document> and its amendments are improving it even more.</ParaText>
+              <ParaText id="8377753">There have been a lot of changes and improvements to the Competition Act, some of which were requested by the commissioner of competition. When it comes to the Competition Act, we know that Canada had a long way to go. Bill <Document DbId="12569206" Type="3">C-56</Document> improved the act, and Bill <Document DbId="12739107" Type="3">C-59</Document> and its amendments are improving it even more.</ParaText>
               <ParaText id="8377754">Does the member think that the system is now robust enough that consumers can expect healthy competition at all times, or is there still more work to do in that regard?</ParaText>
             </Content>
           </Intervention>
@@ -4782,7 +4778,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278278" Type="2">Mr. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8377782">Madam Speaker, in Bill <Document DbId="12739107" Type="3">C‑59</Document>, there is a $17.8-billion tax credit that will help oil companies reduce their use of natural gas by financing the installation of small nuclear power plants to extract bitumen from the tar sands. The gas would then be exported to Asia, including from the LNG terminal in British Columbia.</ParaText>
+              <ParaText id="8377782">Madam Speaker, in Bill <Document DbId="12739107" Type="3">C-59</Document>, there is a $17.8-billion tax credit that will help oil companies reduce their use of natural gas by financing the installation of small nuclear power plants to extract bitumen from the tar sands. The gas would then be exported to Asia, including from the LNG terminal in British Columbia.</ParaText>
               <ParaText id="8377783">Does the member believe that this is an environmental plan to reduce our greenhouse gas emissions?</ParaText>
             </Content>
           </Intervention>
@@ -4932,7 +4928,7 @@
               <Affiliation DbId="278278" Type="2">Mr. Gabriel Ste-Marie (Joliette, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8377824">Mr. Speaker, I am fortunate to work with my hon. colleague on the Standing Committee on Finance. He always has a thorough knowledge of the issues and makes constructive suggestions.</ParaText>
-              <ParaText id="8377825"> I want to ask him about the amendment to the Competition Act. He referred to it in his speech. For years, the <Affiliation DbId="271243" Type="4">Minister of Innovation, Science and Industry</Affiliation> has been announcing a comprehensive reform. However, the reforms have come in bits and pieces, in Bill <Document DbId="12569206" Type="3">C‑56</Document> and Bill <Document DbId="12739107" Type="3">C‑59</Document>.</ParaText>
+              <ParaText id="8377825"> I want to ask him about the amendment to the Competition Act. He referred to it in his speech. For years, the <Affiliation DbId="271243" Type="4">Minister of Innovation, Science and Industry</Affiliation> has been announcing a comprehensive reform. However, the reforms have come in bits and pieces, in Bill <Document DbId="12569206" Type="3">C-56</Document> and Bill <Document DbId="12739107" Type="3">C-59</Document>.</ParaText>
               <ParaText id="8377826"> The commissioner of competition told us it was not enough, that it would take this and that. Public officials replied that if we did such and such, it would affect something else that was not in the bill. In fact, we were supposed to have a bill to reform the entire Competition Act.</ParaText>
               <ParaText id="8377827">Does my colleague think that doing things this way amounts to incompetence on the part of the government?</ParaText>
             </Content>

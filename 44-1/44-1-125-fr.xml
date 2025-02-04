@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11908082">
-  <StartPageNumber>9331</StartPageNumber>
+  <StartPageNumber>9327</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -51,7 +51,7 @@
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Fortier (au nom de la vice-première ministre et ministre des Finances) " id="11908136">
             <PersonSpeaking>
-              <Affiliation DbId="278907" Type="4">L'honorable Mona Fortier </Affiliation> (au nom de la vice-première ministre et ministre des Finances)  </PersonSpeaking>
+              <Affiliation DbId="278907" Type="4">L'honorable Mona Fortier </Affiliation> (au nom de la ministre des Finances)  </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="1">Motion d'adoption</ProceduralText>
               <ParaText id="7397047">propose que la motion des voies et moyens en vue de modifier la Loi de l'impôt sur le revenu, des textes connexes et d'autres textes soit adoptée.</ParaText>
@@ -428,7 +428,7 @@
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11908256" ToCText="Mrs. Fortier (for the Deputy Prime Minister and Minister of Finance)">
             <PersonSpeaking>
-              <Affiliation DbId="278314" Type="2">L’hon. Mona Fortier</Affiliation> (au nom de la vice-première ministre et ministre des Finances) </PersonSpeaking>
+              <Affiliation DbId="278314" Type="2">L’hon. Mona Fortier</Affiliation> (au nom de la ministre des Finances) </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="3">Projet de loi C‑32. Présentation et première lecture</ProceduralText>
               <ParaText id="7397054">propose que le projet de loi <Document DbId="12038143" Type="3">C-32, Loi portant exécution de certaines dispositions de l'énoncé économique de l'automne déposé au Parlement le 3 novembre 2022 et de certaines dispositions du budget déposé au Parlement le 7 avril 2022</Document>, soit lu pour la première fois et imprimé.</ParaText>
@@ -882,8 +882,13 @@
               <ParaText id="7397174">Madame la Présidente, je suis heureux de parler de l'énoncé économique de l'automne, car il présente un plan qui accroît notre avantage financier en continuant à réduire le ratio de la dette au PIB. Ce plan crée de nouveaux emplois durables grâce au Fonds de croissance du Canada, réduit les coûts de transaction des cartes de crédit pour les petites entreprises, accélère la transition du Canada vers une économie carboneutre, prévoit la commercialisation de la recherche et du développement de classe mondiale du Canada, investit dans les emplois pour les jeunes et réduit les impôts des petites entreprises. Nous rendons la vie plus abordable. Nous assurons la croissance d'une économie qui fonctionne pour tout le monde.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11908738">
+        <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Berthold" id="11908338">
             <PersonSpeaking>
               <Affiliation DbId="278386" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
@@ -1003,7 +1008,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11908369">
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="M. Hallan" id="11908368">
             <PersonSpeaking>
@@ -1415,7 +1420,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11908515">
         <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
-        <SubjectOfBusinessTitle>Les changements climatiques</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le changement climatique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Pauzé" id="11908514">
             <PersonSpeaking>
@@ -1442,7 +1447,7 @@
             <Content>
               <ParaText id="7397307">Madame la Présidente, ces chiffres sont bien, mais Joe Biden va à la COP 27, Emmanuel Macron aussi. </ParaText>
               <ParaText id="7397308">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> aurait même pu rencontrer pour une première fois son homologue du Royaume-Uni, M. Sunak. En fait c'est simple: plus de 100 chefs d'État sont attendus à la COP 27, y compris tous les principaux alliés du Canada, mais pas le premier ministre. </ParaText>
-              <ParaText id="7397309">Qu'est-ce qu'il a de plus important à faire qu'aller à la COP 27 discuter de la lutte contre les changements climatiques? Coudon, est-ce qu'il y a un Tim Hortons à inaugurer quelque part?</ParaText>
+              <ParaText id="7397309">Qu'est-ce qu'il a de plus important à faire qu'aller à la COP 27 discuter de la lutte contre les changements climatiques? Coudon, est-ce qu'il y a un restaurant Tim Hortons à inaugurer quelque part?</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1796,13 +1801,6 @@
         <SubjectOfBusinessContent>
           <ParaText id="7397373">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="11873796" Type="3">C‑27, Loi édictant la Loi sur la protection de la vie privée des consommateurs, la Loi sur le Tribunal de la protection des renseignements personnels et des données et la Loi sur l'intelligence artificielle et les données et apportant des modifications corrélatives et connexes à d'autres lois</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <ProceduralText TocType="TPC" id="6">Projet de loi C‑27. Deuxième lecture</ProceduralText>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="11908637">
-            <PersonSpeaking>
-              <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7397374">Le ministre de l'Innovation, des Sciences et de l'Industrie dispose de huit minutes pour finir son discours.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Champagne" id="11908638">
             <PersonSpeaking>
               <Affiliation DbId="271243" Type="4">L’hon. François-Philippe Champagne (ministre de l’Innovation, des Sciences et de l’Industrie, Lib.)</Affiliation>: </PersonSpeaking>
@@ -2225,7 +2223,7 @@
             <Content>
               <ParaText id="7397568">Madame la Présidente, je remercie ma collègue de sa question fort pertinente. Actuellement, il y a quelques petits balisages à faire pour définir la fonction du tribunal et la fonction du commissaire à la protection de la vie privée. Je crois qu'on devrait accorder un pouvoir un peu plus grand au commissaire. </ParaText>
               <ParaText id="7397569">Je siège habituellement au Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique. Cette fois-ci, je siègerai au Comité permanent de l'industrie et de la technologie afin de m'assurer que ce travail est fait. Je vais m'assurer que la justesse est préservée, que l'on peut évaluer sans aucune partisanerie ce projet de loi et que tout le monde est en accord avec le projet de loi.</ParaText>
-              <ParaText id="7397570">Je répète que ce projet de loi aura des répercussions sur vie des gens à l'avenir. Par conséquent, je ne crois pas que cela peut être un outil politique. Je ne pense pas que c'en soit un actuellement, mais j'aimerais m'assurer que cela n'en deviendra pas un. Il faudra tracer des lignes claires entre les rôles du tribunal et du commissaire aux conflits d'intérêts et à l'éthique, ainsi que celui des cours supérieures, qui pourraient vouloir statuer. Il y a une petite confusion en ce qui a trait aux rôles, qui doivent être éclaircis.</ParaText>
+              <ParaText id="7397570">Je répète que ce projet de loi aura des répercussions sur vie des gens à l'avenir. Par conséquent, je ne crois pas que cela peut être un outil politique. Je ne pense pas que c'en soit un actuellement, mais j'aimerais m'assurer que cela n'en deviendra pas un. Il faudra tracer des lignes claires entre les rôles du tribunal et du commissaire à la protection de la vie privée, ainsi que celui des cours supérieures, qui pourraient vouloir statuer. Il y a une petite confusion en ce qui a trait aux rôles, qui doivent être éclaircis.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2356,7 +2354,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278450" Type="2">M. Tom Kmiec (Calgary Shepard, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7397627">Madame la Présidente, au nom des concitoyens de ma circonscription, Calgary Shepard, je suis ravi de prendre la parole au sujet du projet de loi <Document DbId="11777172" Type="4">S‑245</Document> . C'est toujours un grand honneur et un privilège pour moi d'être capable de parler au nom des citoyens canadiens.</ParaText>
+              <ParaText id="7397627">Madame la Présidente, au nom des concitoyens de ma circonscription, Calgary Shepard, je suis ravi de prendre la parole au sujet du projet de loi <Document DbId="11777172" Type="4">S‑245</Document>. C'est toujours un grand honneur et un privilège pour moi d'être capable de parler au nom des citoyens canadiens.</ParaText>
               <ParaText id="7397628">En effet, je ne suis pas comme tout le monde à la Chambre. Comme 23 % ou 24 % des Canadiens, je suis un immigrant en ce pays. J'en parlais justement avec mon collègue le député de <Affiliation DbId="278453" Type="2">Calgary Forest Lawn</Affiliation>, qui est né à Dubaï.</ParaText>
               <ParaText id="7397629">Pour moi, qui suis né en Pologne, la citoyenneté canadienne est extrêmement importante. Le Canada représente non seulement ma patrie, mais également le pays qui a accepté mon père, ma mère, mon frère et moi-même quand notre pays d'origine, celui où je suis né, ne nous voulait pas. Mon père était un membre de Solidarnosc. Il était un travailleur, un ouvrier, un ingénieur pour les chantiers navals de Gdansk dans la période où la Pologne était communiste. Mon père a quitté la Pologne en 1983 pour venir au Canada, et c'est le Canada qui lui a offert l'occasion de rester. Il est devenu ouvrier dans un chantier naval, à Sorel. C'est d'ailleurs à Sorel, où j'habitais avec mon père en 1985, que j'ai appris le français.</ParaText>
               <ParaText id="7397630">La Pologne nous avait permis de quitter le pays, mais sans notre passeport, puisque les ouvriers et les familles des ouvriers polonais du chantier naval de Gdansk, le chantier Lénine, n'avaient pas le droit de retourner dans ce pays. Comme je l'ai dit, la citoyenneté canadienne représente pour moi la patrie, mais aussi le grand honneur d'avoir pu devenir Canadien, en 1989. J'ai maintenant le grand honneur de représenter les gens de ma circonscription en tant qu'immigrant polonais dans ce beau pays qui nous a offert tellement de possibilités. </ParaText>
@@ -2407,6 +2405,13 @@
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="11908637">
+            <PersonSpeaking>
+              <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="7397374">Le député de Calgary Forest Lawn dispose de cinq minutes pour son droit de réplique.</ParaText>
+            </Content>
+          </Intervention>
           <Intervention Type="Statement" ToC="Yes" ToCText="M. Hallan" id="11909428">
             <PersonSpeaking>
               <Affiliation DbId="278453" Type="2">M. Jasraj Singh Hallan (Calgary Forest Lawn, PCC)</Affiliation>: </PersonSpeaking>

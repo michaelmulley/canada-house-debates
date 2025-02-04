@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12372543">
-  <StartPageNumber>17587</StartPageNumber>
+  <StartPageNumber>17579</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -901,12 +901,7 @@
               <ParaText id="7959569">Les Canadiens ont besoin d'un gouvernement pour les soutenir, faire construire plus de logements et continuer d'offrir des programmes comme l'Allocation canadienne pour enfants et les programmes de soins dentaires et de garde d'enfants. Les conservateurs s'opposent à tous ces programmes.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="12372979">
-        <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
-        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Kusie" id="12372845">
             <PersonSpeaking>
               <Affiliation DbId="278362" Type="2">Mme Stephanie Kusie (Calgary Midnapore, PCC)</Affiliation>: </PersonSpeaking>
@@ -924,12 +919,7 @@
               <ParaText id="7959574">Les conservateurs font de beaux discours à la Chambre, mais lorsqu'il s'agit de défendre les intérêts des Albertains, ils restent les bras croisés, et c'est nous qui nous en chargeons.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="12372853">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Berthold" id="12372852">
             <PersonSpeaking>
               <Affiliation DbId="278386" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
@@ -974,8 +964,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12372869">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>
-      L'itinérance</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Kwan" id="12372868">
             <PersonSpeaking>
@@ -1396,13 +1385,6 @@
                 <B>Des voix:</B> Non.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le président" id="12373066">
-            <PersonSpeaking>
-              <Affiliation DbId="300999" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7959677">Je crains qu'il n'y ait pas de consentement unanime pour la motion du député. </ParaText>
-            </Content>
-          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
     </OrderOfBusiness>
@@ -1432,8 +1414,8 @@
             <PersonSpeaking>
               <Affiliation DbId="300999" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7959682">La question est la suivante.</ParaText>
-              <ParaText id="7959683">Puis-je me dispenser de faire la lecture de la motion?</ParaText>
+              <ParaText id="7959682">Le vote porte sur la motion suivante.</ParaText>
+              <ParaText id="7959683">Puis-je me dispenser d'en faire la lecture?</ParaText>
               <ParaText id="7959684">
                 <B>Des voix:</B> Non.</ParaText>
               <ParaText id="7959685">[<I>La présidence donne lecture de la motion.</I>]</ParaText>
@@ -1803,17 +1785,15 @@
               <ParaText id="7959687">Je déclare la motion rejetée.</ParaText>
               <ProceduralText TocType="TPC" id="2">Rejet de la motion</ProceduralText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="7959688">Je signale à la Chambre que c'était la première fois aujourd'hui que notre greffière au Bureau, Jubilee Jackson, faisait l'appel nominal. Nous félicitons Jubilee de son excellent travail. </ParaText>
+              <ParaText id="7959688">Je signale à la Chambre que c'était la première fois aujourd'hui que notre greffière au Bureau, Jubilee Jackson, faisait l'appel nominal. Nous félicitons Jubilee pour son excellent travail. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12373285" Rubric="Divisions">
-      <OrderOfBusinessTitle>
-        <B>	Affaires émanant des députés</B>
-      </OrderOfBusinessTitle>
-      <CatchLine>	Affaires émanant des députés</CatchLine>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
+      <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="12373286">
         <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1825,7 +1805,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7959690">La Chambre passe maintenant au vote par appel nominal différé, à l'étape de la deuxième lecture du projet de loi <Document DbId="12261855" Type="4">C‑319</Document>, sous la rubrique Affaires émanant des députés.</ParaText>
+              <ParaText id="7959690">La Chambre passe maintenant au vote par appel nominal différé, à l'étape de la deuxième lecture du projet de loi <Document DbId="12261855" Type="4">C‑319</Document>, sous la rubrique des affaires émanant des députés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2208,7 +2188,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7959695">La Chambre passe maintenant au vote par appel nominal différé, à l'étape de la deuxième lecture du projet de loi <Document DbId="12210462" Type="4">C‑314</Document>, sous la rubrique Affaires émanant des députés.</ParaText>
+              <ParaText id="7959695">La Chambre passe maintenant au vote par appel nominal différé, à l'étape de la deuxième lecture du projet de loi <Document DbId="12210462" Type="4">C‑314</Document>, sous la rubrique des affaires émanant des députés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2579,7 +2559,7 @@ La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7959699">La Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la troisième lecture du projet de loi C‑244 sous la rubrique affaires émanant des députés.</ParaText>
+              <ParaText id="7959699">La Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la troisième lecture du projet de loi C‑244 sous la rubrique des affaires émanant des députés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2956,7 +2936,7 @@ La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7959703">La Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi C‑325 sous la rubrique affaires émanant des députés.</ParaText>
+              <ParaText id="7959703">La Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi C‑325 sous la rubrique des affaires émanant des députés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4048,8 +4028,7 @@ La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que
       <SubjectOfBusiness id="12374031">
         <SubjectOfBusinessTitle>
       Les comités de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-      Commerce international</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Commerce international</SubjectOfBusinessQualifier>
         <ProceduralText TocType="TPC" id="21">
       Motion d'adoption</ProceduralText>
         <SubjectOfBusinessContent>
@@ -4069,7 +4048,7 @@ La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que
                 <B>M. Larry Brock:</B> Madame la Présidente, mes amis peuvent rire tant qu'ils veulent, mais c'est la triste réalité. Ce sont les faits. Un scandale n'attend pas l'autre. Il y a eu des manquements à l'éthique. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> est le seul premier ministre de l'histoire du Canada à avoir été reconnu coupable de manquements à l'éthique non pas une, mais deux fois. Il ne s'agit pas seulement de lui, mais aussi de plusieurs ministres et d'autres députés ministériels. Il y a eu les scandales de l'organisme UNIS, de l'Aga Khan et de SNC‑Lavalin, pour ne mentionner que ceux-là.</ParaText>
               <ParaText id="7959797">Il y a plus d'un an, on a découvert que cette application tellement essentielle au gouvernement pour assurer la sécurité des Canadiens était une véritable farce. Elle était très inefficace, elle n'avait rien de scientifique et, pour ne rien arranger, elle avait coûté 54 millions de dollars aux contribuables canadiens. Nous n'avons pas entendu le moindre mot de la part du gouvernement ou du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> concernant ce prix jusqu'à ce qu'il soit révélé aux Canadiens à la Chambre. </ParaText>
               <ParaText id="7959798">Qu'a dit le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>? Il a dit que le coût lui semblait être « hautement illogique » et dénoter une manière de procéder « inefficace ». Il a essentiellement mené son propre examen. La vérificatrice générale se penche effectivement sur ce dossier, tout comme la GRC maintenant. Son examen a montré que, malgré l'ampleur de la fonction publique, le gouvernement n'était pas parvenu à trouver qui que ce soit parmi ses propres experts-conseils pour créer l'application. Le nombre de fonctionnaires a augmenté de façon exponentielle sous le gouvernement libéral, en particulier depuis la pandémie de COVID. Plus important encore pour l'enquête actuelle de la GRC, le contrat pour l'application a été octroyé à une très petite société de génie logiciel, à Montréal, au Québec, appelée Botler.</ParaText>
-              <ParaText id="7959799">Non, le gouvernement ne pouvait pas le faire lui-même. Il a dû  faire appel à d'autres experts-conseils. On a appris qu'il y en a eu trois. Je vais les nommer parce qu'il importe que les Canadiens sachent que des individus au sein de ces sociétés ont plumé les contribuables de notre pays. Les trois sociétés étaient les suivantes: GCStrategies, Dalian Enterprises et Coradix. Les deux dernières ont pratiquement les mêmes administrateurs et PDG.</ParaText>
+              <ParaText id="7959799">Non, le gouvernement ne pouvait pas le faire lui-même. Il a dû  faire appel à d'autres experts-conseils. On a appris qu'il y en a eu trois. Je vais les nommer parce qu'il importe que les Canadiens sachent que des individus au sein de ces sociétés ont plumé les contribuables de notre pays. Les trois sociétés étaient les suivantes: GC Strategies, Dalian Enterprises et Coradix. Les deux dernières ont pratiquement les mêmes administrateurs et PDG.</ParaText>
               <ParaText id="7959800">On parle de trois sociétés ayant un total de six ou sept employés. L'immense appareil gouvernemental actuel a retenu leurs services alors qu'il aurait dû lui-même trouver les personnes pour faire le travail. Les sociétés le font en échange d'une prime substantielle, qui varie entre 30 % et 40 %. Lorsque les contribuables canadiens considèrent la situation, ils se disent qu'ils paient déjà des impôts pour financer la fonction publique. Ils se demandent pourquoi il faut gaspiller encore plus d'argent pour que le gouvernement trouve des ingénieurs en logiciels dans notre pays.</ParaText>
               <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
               <ParaText id="7959801">Je salue la bravoure de cette petite entreprise de génie logiciel appelée Botler, car elle a dit la vérité. Voici ce qu'on a pu lire dans le <I>Globe and Mail</I>: « [...] ils savent que s'ils en parlent, leur financement fédéral pourrait se tarir et qu’ils prennent un grand risque sans savoir comment les choses vont tourner. » Un des administrateurs a dit que la question ne concerne pas que Botler.</ParaText>
@@ -4203,7 +4182,7 @@ La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que
               <ParaText id="7959839">Nous pouvons voir pourquoi le Parti conservateur dit vouloir adopter telle ou telle chose. C'est parce qu'il veut empêcher le gouvernement de faire adopter des projets de loi pour ensuite critiquer le gouvernement parce qu'il est incapable de faire adopter des projets de loi ou parce qu'il présente des motions d'attribution de temps. C'est absurde, surtout quand on sait quel genre de projets de loi nous proposons. Comme je l'ai dit, aujourd'hui, tout portait sur l'emploi.</ParaText>
               <ParaText id="7959840">Je pense à ce que le motionnaire et le comotionnaire ont dit au sujet de cette motion d'adoption du rapport. Ce que leurs discours avaient en commun, outre l'utilisation du mot « ArriveCAN », c'était la tentative de salir la réputation du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. Dans leurs discours, ils ont tous deux parlé du premier ministre. L'un d'eux a parlé de dictature, alors que c'est notre parti qui a fait adopter la Charte des droits. En parlant d'ArriveCAN, le député d'en face a dit que le premier ministre est un dictateur. Je suppose qu'il tente d'alimenter la fausse information que le Parti conservateur propage sans arrêt.</ParaText>
               <ParaText id="7959841">Lorsque le député a pris la parole, il ne voulait parler que de scandales. C'est ainsi que pensent les conservateurs. Nous le constatons depuis le début. Même à l'époque où j'étais député de l'opposition, avant de faire partie du gouvernement, ils se livraient à des attaques personnelles contre le chef du Parti libéral. Rien n'a changé. C'est là-dessus qu'ils axent leurs efforts. J'ai déjà pris la parole pour dire que, tandis que les conservateurs s'emploient à répandre des calomnies, nous continuerons à nous concentrer sur les Canadiens, sur les intérêts du Canada et sur la construction de quelque chose de solide pour la classe moyenne et ceux qui aspirent à en faire partie.</ParaText>
-              <ParaText id="7959842">Des principes, des idées et un raisonnement tout à fait valables ont présidé à l'adoption de l'application ArriveCan. C'était ce qu'il fallait faire. Au lieu de chercher à tenir un débat constructif sur des questions qui touchent les Canadiens, les conservateurs choisissent encore une fois d'en empêcher la tenue. Le texte de l'amendement nous montre bien ce que le Parti conservateur essaie vraiment de faire.</ParaText>
+              <ParaText id="7959842">Des principes, des idées et un raisonnement tout à fait valables ont présidé à l'adoption de l'application ArriveCAN. C'était ce qu'il fallait faire. Au lieu de chercher à tenir un débat constructif sur des questions qui touchent les Canadiens, les conservateurs choisissent encore une fois d'en empêcher la tenue. Le texte de l'amendement nous montre bien ce que le Parti conservateur essaie vraiment de faire.</ParaText>
               <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
               <ParaText id="7959843">Permettez-moi de dire à ceux qui suivent le débat que cette motion d'adoption, qui a été renforcée par le type d'amendement qu'ils ont présenté, n'avait pas besoin d'être débattue ici. Elle aurait tout aussi bien pu être soumise à un comité permanent puisqu'en fin de compte, ce que les députés du parti conservateur essaient de dire, c'est qu'ils ont d'autres préoccupations et qu'ils veulent que le comité s'en occupe.</ParaText>
               <ParaText id="7959844">Rien n'empêche la Chambre d'agréer le rapport. En fait, je crois que le gouvernement a réagi très favorablement à un certain nombre de recommandations. Toutefois, le fait demeure que ce n'était pas l'objectif des conservateurs lorsqu'ils ont voulu entreprendre les travaux ayant mené à ce rapport. Nous voyons quel était leur objectif lorsque nous lisons l'amendement qu'ils ont présenté. Ils ne se soucient pas des enjeux eux-mêmes. Ce qui les préoccupe vraiment, c'est de trouver des moyens de diffamer le camp adverse. C'est cela, leur véritable préoccupation. C'est tout ce que cherche aujourd'hui le Parti conservateur du Canada, et c'est la raison pour laquelle un ministre a dû présenter une motion d'attribution de temps à l'égard du projet de loi <Document DbId="12525473" Type="3">C‑50</Document>. Les conservateurs s'écrient alors: « Eh bien, voilà. Regardez ça! Ils limitent le temps de parole ».</ParaText>
@@ -4376,10 +4355,10 @@ La Chambre reprend l'étude, interrompue le 6 octobre, de la motion portant que
               <ParaText id="7959904">Donc, on se retrouve encore avec deux gars qui reçoivent un contrat et qui le distribuent à d'autres pour développer une application, supposément parce que, parmi ses 340 000 fonctionnaires, le gouvernement fédéral n'a aucun fonctionnaire spécialisé dans le développement d'applications. Nous sommes en 2023. À ce moment-là, nous étions en 2020. C'est problématique, et c'est là où je veux amener la réflexion. Comment se fait-il que 1 % de la population travaille pour le gouvernement fédéral et que personne, dans ce 1 % de population, ne soit spécialisé dans le développement des applications?</ParaText>
               <ParaText id="7959905">Nos fonctionnaires sont formés. Nos fonctionnaires ont des cotes de sécurité. Nos fonctionnaires sont capables de faire le travail qu'on leur demande, à un moindre coût, oui, et de façon beaucoup plus sécuritaire.</ParaText>
               <ParaText id="7959906">Actuellement, on se trouve devant une situation où il y a des allégations d'usurpation d'identité, de faux CV, de vol de contrat et de facturation frauduleuse. Ce n'est pas rien. Où est le contrôle qu'il devait y avoir dans l'octroi et le suivi de ce contrat? On ne le voit pas avec les allégations qui ont été déposées auprès de la Gendarmerie royale du Canada, ou GRC. Comment cela se fait que des fonctionnaires qui savaient que la GRC était en train de faire une enquête n'en aient pas informé la vérificatrice générale?</ParaText>
-              <ParaText id="7959907">Avec ArriveCan et avec d'autres contrats, on est dans un milieu extrêmement opaque. C'est cela qu'il faut souligner. Les gens ne veulent pas d'opacité, ils veulent de la transparence. Nous ne demandons pas de donner le code source de l'application. Nous demandons de savoir où, comment, par qui et pour qui notre argent est dépensé.</ParaText>
-              <ParaText id="7959908">Avec ArriveCan et dans les consultations que nous avons faites dans mon comité, le puissant Comité permanent des opérations gouvernementales et des prévisions budgétaires comme le dirait le président du Comité, nous avons entendu des syndicats, des chercheurs universitaires et des fonctionnaires. Avec les syndicats, nous avons été époustouflés d'apprendre qu'ils n'ont pas été consultés alors que c'est eux qui devaient s'assurer que cela fonctionnait et qui devaient faire le suivi avec les gens à l'aéroport et faire vite pour que cela ne traîne pas et pour qu'il n'y ait pas de retards. Or, ils n'ont pas été consultés, ni dans la création, ni dans la demande du besoin exact aux frontières, ni dans les mises à jour. À aucun moment, ils n'ont été consultés, mais c'est eux qui devaient aider les passagers, utiliser l'application ArriveCan en fin de compte et vivre avec au quotidien. Il me semble qu'il faut inclure son monde quand on développe quelque chose.</ParaText>
+              <ParaText id="7959907">Avec ArriveCAN et avec d'autres contrats, on est dans un milieu extrêmement opaque. C'est cela qu'il faut souligner. Les gens ne veulent pas d'opacité, ils veulent de la transparence. Nous ne demandons pas de donner le code source de l'application. Nous demandons de savoir où, comment, par qui et pour qui notre argent est dépensé.</ParaText>
+              <ParaText id="7959908">Avec ArriveCAN et dans les consultations que nous avons faites dans mon comité, le puissant Comité permanent des opérations gouvernementales et des prévisions budgétaires comme le dirait le président du Comité, nous avons entendu des syndicats, des chercheurs universitaires et des fonctionnaires. Avec les syndicats, nous avons été époustouflés d'apprendre qu'ils n'ont pas été consultés alors que c'est eux qui devaient s'assurer que cela fonctionnait et qui devaient faire le suivi avec les gens à l'aéroport et faire vite pour que cela ne traîne pas et pour qu'il n'y ait pas de retards. Or, ils n'ont pas été consultés, ni dans la création, ni dans la demande du besoin exact aux frontières, ni dans les mises à jour. À aucun moment, ils n'ont été consultés, mais c'est eux qui devaient aider les passagers, utiliser l'application ArriveCAN en fin de compte et vivre avec au quotidien. Il me semble qu'il faut inclure son monde quand on développe quelque chose.</ParaText>
               <ParaText id="7959909">Comme j'en ai déjà parlé, cela a été un contrat de gré à gré. Il n'y a pas eu d'enquête diligente. Qui sont ces gars-là? Qui sont les autres personnes à qui nous donnons des parties du contrat? Ces gens sont-ils solvables? Sont-ils fiables? On ne le sait pas. Depuis quatre ans, j'ai l'impression que cette expression revient souvent dans mes discours. Nous ne savons pas parce que nous n'avons pas de réponse. Les gens à qui nous posons cette question n'ont pas plus de réponses.</ParaText>
-              <ParaText id="7959910">Il n'y a eu aucune enquête sur la capacité de gérer l'application à l'interne ni même de la créer dès le départ. On ne s'est même pas demandé si on avait du monde capable de créer une application. On donne tout de suite un contrat. Cela ne prend pas 15 ans demander si on a des développeurs à l'interne. Normalement, dans les fiches, quand on engage quelqu'un, il y a ses compétences. Avec les millions de dollars qu'on donne en informatique au Canada, on n'a jamais cherché à savoir si quelqu'un était capable de développer des applications. C'est une foule de problèmes intrinsèques à l'appareil fédéral qu'ArriveCan a tout simplement mis en lumière et il faut les traiter à la source.</ParaText>
+              <ParaText id="7959910">Il n'y a eu aucune enquête sur la capacité de gérer l'application à l'interne ni même de la créer dès le départ. On ne s'est même pas demandé si on avait du monde capable de créer une application. On donne tout de suite un contrat. Cela ne prend pas 15 ans demander si on a des développeurs à l'interne. Normalement, dans les fiches, quand on engage quelqu'un, il y a ses compétences. Avec les millions de dollars qu'on donne en informatique au Canada, on n'a jamais cherché à savoir si quelqu'un était capable de développer des applications. C'est une foule de problèmes intrinsèques à l'appareil fédéral qu'ArriveCAN a tout simplement mis en lumière et il faut les traiter à la source.</ParaText>
               <ParaText id="7959911">Cela peut faire suer du monde que nous prenions trois heures pour discuter d'un rapport de comité. Or, ce rapport de comité n'est que l'arbre qui cache la forêt, et la forêt, c'est l'incapacité de l'appareil fédéral actuel d'assumer sa responsabilité envers ses propres fonctionnaires, envers ses propres citoyens, et envers la...</ParaText>
             </Content>
           </Intervention>
@@ -4636,11 +4615,9 @@ La Chambre reprend l’étude, interrompue le 12 juin, de la motion portant que
               <ParaText id="7960016">De toute évidence, il est plus que temps d'agir. Nous devons nous acquitter de notre devoir de parlementaires et, pour bon nombre de députés, de notre devoir de parents, afin de préserver la santé des enfants. Nous devons tenir compte des appels des Nations Unies et de l'Organisation mondiale de la santé, qui se sont montrées résolues et qui ont adopté une position sans équivoque quant au tort très évident que la commercialisation de certains aliments et boissons visant les enfants peut leur causer, nuisant ainsi à leur bien-être dans son ensemble.</ParaText>
               <ParaText id="7960017">Comme les députés le savent peut-être, le gouvernement de la Norvège a adopté une mesure législative très semblable en juin dernier. La Norvège ne fait pas cavalier seul dans ce dossier; de plus en plus d'États, y compris le Royaume‑Uni et l'Espagne, élaborent aussi des mesures législatives semblables après avoir constaté l'inefficacité de l'autoréglementation des industries pendant des années. La communauté internationale est sur la bonne voie en faisant des démarches et en prenant des mesures législatives pour s'attaquer au problème de la publicité destinée aux enfants. Tirons une leçon de la Norvège et d'autres pays qui accordent la priorité à la santé des enfants, et non aux intérêts financiers d'industries multimilliardaires. Adoptons le projet de loi <Document DbId="11546288" Type="4">C‑252</Document> et faisons-le dès maintenant.</ParaText>
               <ParaText id="7960018">J'aimerais remercier les intervenants et les chercheurs qui ont milité pour l'adoption du projet de loi <Document DbId="11546288" Type="4">C‑252</Document> et remercier sincèrement mes collègues de la Chambre et du comité de la santé pour leurs observations et leurs questions. Voter pour le projet de loi C‑252, c'est soutenir tous les parents canadiens inquiets qui doivent actuellement lutter contre l'influence d'une industrie multimilliardaire. C'est soutenir les parents qui essaient d'apprendre à leurs enfants à développer des habitudes alimentaires saines. C'est accepter les meilleures données scientifiques disponibles sur cette question et écouter le chœur grandissant des chercheurs et des professionnels de la santé qui nous réclament un tel projet de loi depuis des années. C'est se joindre à la communauté internationale dans ses efforts croissants pour améliorer le bien-être des enfants partout dans le monde. Bref, voter pour ce projet de loi, c'est donner la priorité à la santé des enfants et au bien-être des enfants de Saint-Léonard—Saint-Michel et de tout le Canada.</ParaText>
-              <Timestamp Hr="19" Mn="25">(1925)</Timestamp>
-              <ParaText>
-              </ParaText>
             </Content>
           </Intervention>
+          <Timestamp Hr="19" Mn="25">(1925)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="12374672">
             <PersonSpeaking>
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>

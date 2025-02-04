@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11966540">
-  <StartPageNumber>10257</StartPageNumber>
+  <StartPageNumber>10253</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -141,7 +141,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278703" Type="2">Mr. Gord Johns (Courtenay—Alberni, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7472974">Mr. Speaker, it is an honour to table this petition on behalf of constituents from my riding of Courtenay—Alberni. The petitioners are calling on the Government of Canada to enact just transition legislation that reduces emissions by at least 60% below 2005 levels by 2030, to make significant contributions to emissions reductions in countries in the global south, and to create new public economic institutions that expand public ownership of services and utilities across the economy to implement this transition; that create good, green jobs, driving inclusive workforce development led by and including affected workers in communities and ensuring decent low-carbon work for all workers; that protect and strengthen human rights and workers' rights; that respect indigenous rights, sovereignty and knowledge by including them in the creation and implemention of this legislation; and that pay for the transition by increasing taxes on the wealthiest corporations and financing through a public national bank.</ParaText>
+              <ParaText id="7472974">Mr. Speaker, it is an honour to table this petition on behalf of constituents from my riding of Courtenay—Alberni. The petitioners are calling on the Government of Canada to enact just transition legislation that reduces emissions by at least 60% below 2005 levels by 2030, to make significant contributions to emissions reductions in countries in the global south, and to create new public economic institutions that expand public ownership of services and utilities across the economy to implement this transition; that create good, green jobs, driving inclusive workforce development led by and including affected workers in communities and ensuring decent low-carbon work for all workers; that protect and strengthen human rights and workers' rights; that respect indigenous rights, sovereignty and knowledge by including them in the creation and implementation of this legislation; and that pay for the transition by increasing taxes on the wealthiest corporations and financing through a public national bank.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -267,7 +267,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11966672">
-        <SubjectOfBusinessQualifier>Human Rights</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Consular Affairs</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Genuis" id="11966673">
             <PersonSpeaking>
@@ -874,8 +874,6 @@
               <ParaText id="7473221">Is there agreement for the member to split his time?</ParaText>
               <ParaText id="7473222">
                 <B>Some hon. members:</B> Agreed.</ParaText>
-              <ParaText id="7473223">
-                <B>The Deputy Speaker:</B> The hon. member for Elmwood—Transcona.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11967406">
@@ -1737,7 +1735,7 @@
             <Content>
               <ParaText id="7473563">Mr. Speaker, December 2 marks the International Day for the Abolition of Slavery.</ParaText>
               <ParaText id="7473564">Slavery has been a blight on humanity since the dawn of time. Canadians unwittingly participate in this scourge by purchasing products made by slaves. We can hardly decry the plight of these slaves if we simultaneously create a market for their products. A transparency bill works on the theory that sunlight is the best disinfectant. Yesterday, Bill <Document DbId="11474494" Type="4">S-211</Document> returned to this place for its final reading. Is it enough? Should we stop here? Of course not. The bill is merely a marker on this journey. </ParaText>
-              <ParaText id="7473565">However, I hope colleagues will reflect on the legislative genuis of William Wilberforce. When the legislative path to the abolition of slavery was blocked, he got the trading of slaves abolished instead, thereby making the ownership of slaves worthless. Shortly thereafter, the British Empire abolished slavery forever.</ParaText>
+              <ParaText id="7473565">However, I hope colleagues will reflect on the legislative genius of William Wilberforce. When the legislative path to the abolition of slavery was blocked, he got the trading of slaves abolished instead, thereby making the ownership of slaves worthless. Shortly thereafter, the British Empire abolished slavery forever.</ParaText>
               <ParaText id="7473566">On this occasion of the International Day for the Abolition of Slavery it is important to remember that sometimes one has to do indirectly what cannot be done directly.</ParaText>
             </Content>
           </Intervention>
@@ -1803,7 +1801,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11968335">
-        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Tax</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mr. Williamson" id="11968336">
             <PersonSpeaking>
@@ -1902,7 +1900,7 @@
       <SubjectOfBusiness id="11968365">
         <Timestamp Hr="14" Mn="20">(1420)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Firearms</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Poilievre" id="11968363">
             <PersonSpeaking>
@@ -2311,7 +2309,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11968503">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Firearms</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Paul-Hus" id="11968502">
             <PersonSpeaking>
@@ -2380,7 +2378,7 @@
       <SubjectOfBusiness id="11968521">
         <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Firearms</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mrs. Chatel" id="11968520">
             <PersonSpeaking>
@@ -3169,7 +3167,18 @@ The House resumed from November 30 consideration of the motion that Bill <Docume
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278235">Sidhu (Brampton South)</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Affiliation DbId="278265">Vecchio</Affiliation>
+              <Affiliation DbId="278471">Williams</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Statement" ToC="No" ToCText="The Speaker" id="11968776">
@@ -3809,7 +3818,7 @@ The House resumed from November 30 consideration of the motion that Bill <Docume
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Canada remains a target for malicious cyber-enabled espionage, sabotage, foreign influence, and terrorism related activities, which pose significant threats to Canada's national security, its interests and its economic stability.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="7474027">The report states that “[c]yber actors conduct malicious activities to advance their political, economic, military, security, and ideological interests. They seek to compromise government and private sector computer systems by manipulating their users or exploiting security vulnerabilities”.</ParaText>
+              <ParaText id="7474027">The report states, “Cyber actors conduct malicious activities to advance their political, economic, military, security, and ideological interests. They seek to compromise government and private sector computer systems by manipulating their users or exploiting security vulnerabilities”.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="7474028">The CSIS report also highlighted the increasing cyber-threat that ransomware poses. The Communications Security Establishment has similarly raised concerns about threats like ransomware in recent public threat assessments. We have seen how such attacks by criminal actors threaten to publish a victim's data or block access to it unless a ransom is paid. However, it is not just cybercriminals doing this. CSIS warned that state actors are increasingly using these tactics, often through proxies, to advance their objectives and evade attribution.</ParaText>
               <ParaText id="7474029">To be sure, Canadians, industry and government have, to this point, worked hard to defend our telecom system, but we must always be on the alert, always guarding against the next attacks. This has become more important as people now are often working remotely from home office environments. </ParaText>
@@ -4315,7 +4324,7 @@ The House resumed from November 30 consideration of the motion that Bill <Docume
               <ParaText id="7474235">Madam Speaker, I would like to begin by mentioning Mathieu Caron, a man from Sherbrooke whose podcast helped me better understand what it is like to be an adult living with autism. Hi Mathieu.</ParaText>
               <ParaText id="7474236">Today I am talking about Bill <Document DbId="11474384" Type="4">S-203</Document>, which would provide for the development of a federal framework designed to support autistic Canadians, their families and their caregivers. It directs the Minister of Health to develop a federal framework on autism spectrum disorder. The national framework must identify measures relating to research, culture and tax benefits, among other things. The minister must consult with other relevant federal ministers, civil society groups, and provincial governments and the Government of Quebec, including their ministers of health. Lastly, the bill provides for the tabling of a report in Parliament, as proposed by Quebec senator Marie‑Françoise Mégie, who is also a doctor.</ParaText>
               <ParaText id="7474237">The Bloc Québécois will vote in favour of the bill at second reading so that it can go to committee and be amended in such a way as to respect Quebec's jurisdiction. In my speech, I will discuss the pros and cons of this bill, share examples from Quebec and conclude with a reminder about the importance of investing in health. </ParaText>
-              <ParaText id="7474238">To begin with, in 2019, the Minister of Health's mandate letter directed her to “[w]ork collaboratively with provinces, territories, families and stakeholders toward the creation of a national autism strategy”. On October 27, 2020, the Government of Canada announced $1.46 million for the Canadian Academy of Health Sciences, or CAHS, to lead consultations on a national autism strategy. The CAHS report was released in May 2022, and the Public Health Agency of Canada hosted a national virtual conference on November 15 and 16, 2022, to inform the development of a national strategy.</ParaText>
+              <ParaText id="7474238">To begin with, in 2019, the Minister of Health's mandate letter directed her to “Work collaboratively with provinces, territories, families and stakeholders toward the creation of a national autism strategy”. On October 27, 2020, the Government of Canada announced $1.46 million for the Canadian Academy of Health Sciences, or CAHS, to lead consultations on a national autism strategy. The CAHS report was released in May 2022, and the Public Health Agency of Canada hosted a national virtual conference on November 15 and 16, 2022, to inform the development of a national strategy.</ParaText>
               <ParaText id="7474239">As a reminder, autism spectrum disorder is a neurodevelopmental condition. The term refers to a range of disorders characterized by difficulties with social skills, repetitive behaviours, speech and non-verbal communication. Individuals on the autism spectrum may also have co-occurring health conditions that affect their overall physical health, including their mental health.</ParaText>
               <ParaText id="7474240"> According to the Public Health Agency of Canada, approximately one in 50 Canadian children and youth, or 2%, have autism. That number has gone up over time. In Quebec, the annual prevalence of ASD in children aged one to 17 has been growing strongly, rising from one per 1,000 in 2000-01 to more than four per 1,000 in 2014-15. This prevalence differs according to the child's sex and age. It was 7.3 and 1.8 per 1,000 among boys and girls, respectively, in 2014-15.</ParaText>
               <ParaText id="7474241">People on the autism spectrum need support in various areas, such as housing, employment, education and, of course, health services. Within its areas of jurisdiction, the federal government can play a role in supporting these people and their families. Autism intersects with other identities such as race, ethnicity, culture, socio-economic status, gender and sexuality, and that intersectionality creates diversity in experiences and needs that must be taken into account. People with autism do not always feel safe or meaningfully included in their communities. Such experiences can have harmful outcomes to their health, safety and quality of life. We must work harder to include them. </ParaText>
@@ -4348,7 +4357,7 @@ The House resumed from November 30 consideration of the motion that Bill <Docume
               <Affiliation DbId="278631" Type="2">Ms. Rachel Blaney (North Island—Powell River, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7474261">Madam Speaker, I am honoured to speak to Bill <Document DbId="11474384" Type="4">S-203</Document>, respecting a federal framework on autism spectrum disorder.</ParaText>
-              <ParaText id="7474262">Before I speak about this really important bill, I want to recognize that today is my grandson's birthday. I want to wish him a very happy birthday. I wish I could be with him. As so many of us in this place know, we miss a lot of important days. It is hard for me to miss his birthday today, so I just wanted to wish him all the best.</ParaText>
+              <ParaText id="7474262">Before I speak about this really important bill, I want to recognize that today is my grandson's birthday. I want to wish Dude a very happy birthday. I wish I could be with him. As so many of us in this place know, we miss a lot of important days. It is hard for me to miss his birthday today, so I just wanted to wish him all the best.</ParaText>
               <ParaText id="7474263">I want to give many thanks to the member for <Affiliation DbId="278530" Type="2">Edmonton—Wetaskiwin</Affiliation>. I know about his advocacy. I have certainly seen this bill in this place before. I hope that we finally get it through. It is so important.</ParaText>
               <ParaText id="7474264">I think the basis of this is really about how we look at this whole country and make sure that everyone feels like they belong. One thing that is very clearly a challenge in a country as big as ours is that often different provinces and territories have different services that do not always meet the need. It is really important that when we look at this framework, we understand that by bringing everyone together. We want to see the best supports in place for those living with autism spectrum disorder and for those who love them the most.</ParaText>
               <ParaText id="7474265">Whenever one of our fellow members brings their human experience, their lived experience, to this place to say, as a person who lived through these realities, here is a way we can make life better for everyone, we should all pay attention. We should all listen and make sure that when we speak to this issue, we speak in a collective voice. I certainly hope that is what happens.</ParaText>
@@ -4413,7 +4422,7 @@ The House resumed from November 30 consideration of the motion that Bill <Docume
               <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7474291"> I declare the motion carried on division. Accordingly, the bill stands referred to the Standing Committee on Health.</ParaText>
-              <ProceduralText TocType="TCC" id="9">(Motion agreed to, bill read the second time and referred to a committee)</ProceduralText>
+              <ProceduralText TocType="TCC" id="9">(Bill read the second time and referred to a committee)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

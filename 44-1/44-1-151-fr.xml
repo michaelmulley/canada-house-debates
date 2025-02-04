@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12020891">
-  <StartPageNumber>11085</StartPageNumber>
+  <StartPageNumber>11083</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -93,8 +93,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12020900">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>
-       Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Lalonde" id="12020901">
             <PersonSpeaking>
@@ -125,7 +124,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12020908">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Hepfner" id="12020909">
             <PersonSpeaking>
@@ -356,7 +355,7 @@
               <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7549783">Monsieur le Président, nous comprenons à quel point c'est important pour les Canadiens d'en avoir pour leur argent.</ParaText>
-              <ParaText id="7549784">J'ai demandé aux ministres associés, à la <Affiliation DbId="278907" Type="4">présidente du Conseil du Trésor</Affiliation> et à la <Affiliation DbId="291171" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation> de faire un suivi à l'égard de tous ces contrats pour nous assurer que toutes les règles ont été suivies et que tous les paramètres sont respectés, et d'être ouverts avec les comités sur ce qui a été fait et comment cela a été fait.</ParaText>
+              <ParaText id="7549784">J'ai demandé aux ministres concernées, la <Affiliation DbId="278907" Type="4">présidente du Conseil du Trésor</Affiliation> et la <Affiliation DbId="291171" Type="4">ministre des Services publics et de l'Approvisionnement</Affiliation>, de faire un suivi à l'égard de tous ces contrats pour nous assurer que toutes les règles ont été suivies et que tous les paramètres sont respectés, et d'être ouverts avec les comités sur ce qui a été fait et comment cela a été fait.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -825,7 +824,12 @@
               <ParaText id="7549891">Pendant que le chef conservateur vante les mérites des bitcoins aux Canadiens aux prises avec l'inflation, nous avons réduit de moitié les frais de garderie partout au pays. Nous avons éliminé les intérêts sur les prêts d'études. Nous avons fait en sorte que les parents n'aient pas à choisir entre faire les courses et emmener leurs enfants chez le dentiste. Les conservateurs ont voté contre toutes ces mesures.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="14" Mn="55">(1455)</Timestamp>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12021140">
+        <Timestamp Hr="14" Mn="55">(1455)</Timestamp>
+        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Lewis (Haldimand—Norfolk)" id="12021139">
             <PersonSpeaking>
               <Affiliation DbId="278208" Type="2">Mme Leslyn Lewis (Haldimand—Norfolk, PCC)</Affiliation>: </PersonSpeaking>
@@ -873,7 +877,12 @@
               <ParaText id="7549902">La députée de Bellechasse—Les Etchemins—Lévis a la parole.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12021063">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Vien" id="12021184">
             <PersonSpeaking>
               <Affiliation DbId="278366" Type="2">Mme Dominique Vien (Bellechasse—Les Etchemins—Lévis, PCC)</Affiliation>: </PersonSpeaking>
@@ -1202,7 +1211,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7549978">Comme il est 15 h 16, conformément à l'ordre adopté le jeudi 23 juin, la Chambre passe maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi <Document DbId="12138647" Type="3">C‑35</Document>.</ParaText>
+              <ParaText id="7549978">Comme il est 15 h 16, conformément à l'ordre adopté le jeudi 23 juin 2022, la Chambre passe maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi <Document DbId="12138647" Type="3">C‑35</Document>.</ParaText>
               <ParaText id="7549979">Convoquez les députés.</ParaText>
             </Content>
           </Intervention>
@@ -1549,7 +1558,10 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278170">Chen</Affiliation>
+              <Affiliation DbId="278766">Villemure</Affiliation>
+              <Total> -- 2</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12021329">
@@ -1580,7 +1592,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7549984">Conformément à l'ordre adopté le jeudi 23 juin, la Chambre passe maintenant au vote par appel nominal différé sur l'amendement de la députée de <Affiliation DbId="278710" Type="2">Vancouver‑Est</Affiliation> à la motion M‑62 sous la rubrique des affaires émanant des députés.</ParaText>
+              <ParaText id="7549984">Conformément à l'ordre adopté le jeudi 23 juin 2022, la Chambre passe maintenant au vote par appel nominal différé sur l'amendement de la députée de <Affiliation DbId="278710" Type="2">Vancouver‑Est</Affiliation> à la motion M‑62 sous la rubrique des affaires émanant des députés.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1924,7 +1936,10 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278170">Chen</Affiliation>
+              <Affiliation DbId="278766">Villemure</Affiliation>
+              <Total> -- 2</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12021385">
@@ -2285,7 +2300,10 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278170">Chen</Affiliation>
+              <Affiliation DbId="278766">Villemure</Affiliation>
+              <Total> -- 2</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12021454">
@@ -2657,7 +2675,10 @@ La Chambre reprend l'étude, interrompue le 31 janvier, de la motion portant qu
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278170">Chen</Affiliation>
+              <Affiliation DbId="278766">Villemure</Affiliation>
+              <Total> -- 2</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12021488">
@@ -2860,8 +2881,6 @@ La Chambre reprend l'étude, interrompue le 31 janvier, de la motion portant qu
               <ParaText id="7550026">La députée a-t-elle le consentement unanime pour partager son temps de parole?</ParaText>
               <ParaText id="7550027">
                 <B>Des voix:</B> D'accord.</ParaText>
-              <ParaText id="7550028">
-                <B>La vice-présidente adjointe (Mme Carole Hughes):</B> La ministre a la parole.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12021532">
@@ -3668,7 +3687,7 @@ La Chambre reprend l'étude, interrompue le 31 janvier, de la motion portant qu
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="18">Report du vote sur la motion</ProceduralText>
-              <ParaText id="7550329">Conformément à l'ordre adopté le jeudi 23 juin, le vote par appel nominal est reporté au jeudi 2 février, à la fin de la période prévue pour les questions orales.</ParaText>
+              <ParaText id="7550329">Conformément à l'ordre adopté le jeudi 23 juin 2022, le vote par appel nominal est reporté au jeudi 2 février, à la fin de la période prévue pour les questions orales.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3912,6 +3931,15 @@ La Chambre reprend l'étude, interrompue le 31 janvier, de la motion portant qu
               <ParaText id="7550465">À mon avis, nous devons nous pencher sur les services offerts par le gouvernement du Canada. S'il y a des façons d'améliorer la prestation de ces services, nous devrions les envisager. Cela dit, cette réflexion ne doit pas mener à démanteler le Canada, ce qui est le grand objectif des séparatistes, peu importe leur province, et l'objet de la mesure législative, comme les observations de l'intervenant précédent le laissaient entendre.</ParaText>
             </Content>
           </Intervention>
+          <Timestamp Hr="19" Mn="30">(1930)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="11044119">
+            <PersonSpeaking>
+              <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="7551215">La période réservée à l'étude des affaires émanant des députés est maintenant écoulée, et l’affaire retombe au bas de l’ordre de priorité du Feuilleton.</ParaText>
+            </Content>
+          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
     </OrderOfBusiness>
@@ -3925,7 +3953,6 @@ La Chambre reprend l'étude, interrompue le 31 janvier, de la motion portant qu
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12022881">
-        <Timestamp Hr="19" Mn="30">(1930)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>Les personnes handicapées</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>

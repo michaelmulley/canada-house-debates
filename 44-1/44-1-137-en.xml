@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11958293">
-  <StartPageNumber>10123</StartPageNumber>
+  <StartPageNumber>10119</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -108,7 +108,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11958433">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessQualifier>Motions in amendment</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Motions in Amendment</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Khera (for the Minister of Crown-Indigenous Relations)" id="11958435">
             <PersonSpeaking>
@@ -976,7 +976,7 @@
               <ParaText id="7464921">That was pretty clear. Members across the way in committee were all listening to the testimony like I was. We would think that amendment would pass with overwhelming support, but sadly, it did not.</ParaText>
               <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
               <ParaText id="7464922">When we put the amendment forward, among the other parties, one NDP member, one Bloc member and four out of five Liberals voted down the amendment to give an indigenous economic national organization a seat on the board of directors. I would compliment one of the Liberal members for voting for this amendment, and we had other support for it as well.</ParaText>
-              <ParaText id="7464923">This gets down to the whole purpose of why we are even seeking economic reconciliation. It is really so that indigenous people can thrive and prosper in our country. That is what we were asked to do and that is what reconciliation seeks to re-establish. It is meant to to re-establish a relationship, and if we can do that with this legislation, complementing it with economic reconciliation as a key component, it would be a far better piece of legislation. There is still hope that the government will fix it, but it does not look like that will be the case, which is sad to say. </ParaText>
+              <ParaText id="7464923">This gets down to the whole purpose of why we are even seeking economic reconciliation. It is really so that indigenous people can thrive and prosper in our country. That is what we were asked to do and that is what reconciliation seeks to re-establish. It is meant to re-establish a relationship, and if we can do that with this legislation, complementing it with economic reconciliation as a key component, it would be a far better piece of legislation. There is still hope that the government will fix it, but it does not look like that will be the case, which is sad to say. </ParaText>
               <ParaText id="7464924">I want to read a quote by Chief Willie Sellars of the Williams Lake First Nation. He stated:</ParaText>
               <ParaText id="7464925">
                 <Quote>
@@ -1382,7 +1382,7 @@
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="7465078">After coming so far, it would be unwise to let the opportunity to accelerate the legislation slip through our hands.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="7465079">Creating the national council for reconciliation is one of of the best tools we have available to achieve true reconciliation in this country.</ParaText>
+              <ParaText id="7465079">Creating the national council for reconciliation is one of the best tools we have available to achieve true reconciliation in this country.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="7465080">While there is much work to be done on reconciliation, there is innovative work happening across the country. Part of the council's mandate would be to conduct research on new and promising practices to advance efforts on reconciliation.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -1837,8 +1837,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11960651">
-        <SubjectOfBusinessTitle>International Day of Solidarity with the Palestinian
-People</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>International Day of Solidarity with the Palestinian People</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Arya" id="11960652">
             <PersonSpeaking>
@@ -2660,12 +2659,7 @@ People</SubjectOfBusinessTitle>
               <ParaText id="7465415">The member and his party opposite have been in the forefront of the Harper era implementing policies targeting indigenous, Black and marginalized people. Those policies did not protect our communities. In fact, even Conservatives in the U.S. are abandoning mandatory minimum penalties and recognizing that they do not work.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="11960951">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Fortin" id="11960949">
             <PersonSpeaking>
               <Affiliation DbId="278276" Type="2">Mr. Rhéal Fortin (Rivière-du-Nord, BQ)</Affiliation>: </PersonSpeaking>
@@ -2983,7 +2977,7 @@ The House resumed consideration of Bill <Document DbId="11893577" Type="3">C-29,
       <SubjectOfBusiness id="11961198">
         <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
         <SubjectOfBusinessContent>
-          <ParaText id="7465481">(The House divided on the motion, which was agreed to on the following division:)</ParaText>
+          <ParaText id="7465481">(The House divided on Motion No. 1, which was agreed to on the following division:)</ParaText>
           <Division id="11958255" DivisionNumber="224">
             <DivisionNumber>(Division No. 224)</DivisionNumber>
             <DivisionType vote-type="Yeas">
@@ -3319,7 +3313,18 @@ The House resumed consideration of Bill <Document DbId="11893577" Type="3">C-29,
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278203">Falk (Battlefords—Lloydminster)</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278191">Oliphant</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11961107">
@@ -3391,7 +3396,7 @@ The House resumed consideration of Bill <Document DbId="11893577" Type="3">C-29,
       <SubjectOfBusiness id="11961447">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessContent>
-          <ParaText id="7465491">(The House divided on the motion, which was agreed to on the following division:)</ParaText>
+          <ParaText id="7465491">(The House divided on Motion No. 2, which was agreed to on the following division:)</ParaText>
           <Division id="11958257" DivisionNumber="225">
             <DivisionNumber>(Division No. 225)</DivisionNumber>
             <DivisionType vote-type="Yeas">
@@ -3726,7 +3731,18 @@ The House resumed consideration of Bill <Document DbId="11893577" Type="3">C-29,
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278203">Falk (Battlefords—Lloydminster)</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278191">Oliphant</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11961128">
@@ -4133,7 +4149,18 @@ The House resumed consideration of Bill <Document DbId="11893577" Type="3">C-29,
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278203">Falk (Battlefords—Lloydminster)</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278191">Oliphant</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11961144">
@@ -4548,7 +4575,18 @@ The House resumed consideration of Bill <Document DbId="11893577" Type="3">C-29,
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRED</Type>
-              <Nil>Nil</Nil>
+              <Title>Members</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278203">Falk (Battlefords—Lloydminster)</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278191">Oliphant</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11961161">

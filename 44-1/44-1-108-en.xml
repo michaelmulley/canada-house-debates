@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11839498">
-  <StartPageNumber>8139</StartPageNumber>
+  <StartPageNumber>8135</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -344,6 +344,11 @@
               <ParaText id="7316967">I thank Heather for her service. She leaves behind a legacy of excellence and hundreds of grateful colleagues who will miss her.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11839602">
+        <SubjectOfBusinessTitle>Retirement Congratulations</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Rota" id="11839582">
             <PersonSpeaking>
               <Affiliation DbId="278667" Type="2">Hon. Anthony Rota (Nipissing—Timiskaming, Lib.)</Affiliation>: </PersonSpeaking>
@@ -371,7 +376,7 @@
       <CatchLine>Oral Questions</CatchLine>
       <SubjectOfBusiness id="11839589">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Poilievre" id="11839588">
             <PersonSpeaking>
@@ -578,7 +583,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11839646">
-        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Barlow" id="11839645">
             <PersonSpeaking>
@@ -1158,17 +1163,17 @@
               <ParaText id="7317159">That is why Hockey Canada has lost the trust not only of our government, not only of Canadian parents, but also of other affiliated organizations such as Hockey Québec. I know that in the coming days, more organizations will say enough is enough and will stop doing business with Hockey Canada. Maybe then Hockey Canada will realize that it is time to get off the ice. </ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11839848">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11839659">
+        <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
+        <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Oral Questions</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11839855" ToCText="Mrs. Chatel">
             <PersonSpeaking>
-              <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7317160">That is all the time we have for oral question period today.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11839855">
-            <PersonSpeaking>
-              <Affiliation DbId="278309" Type="2">Mrs. Sophie Chatel</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278309" Type="2">Mrs. Sophie Chatel (Pontiac, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317161">Mr. Speaker, I rise on a point of order.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -1183,9 +1188,9 @@
               <ParaText id="7317164">The member for <Affiliation DbId="278722" Type="2">Saanich—Gulf Islands</Affiliation> is rising on a point of order.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11839857">
+          <Intervention Type="Debate" ToC="Yes" id="11839857" ToCText="Ms. May  (Saanich—Gulf Islands)">
             <PersonSpeaking>
-              <Affiliation DbId="278722" Type="2">Ms. Elizabeth May</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278722" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317165">Mr. Speaker, I am rising just to suggest that the Standing Orders say we must not speak disrespectfully of each other here as members. I am not questioning your ruling, but in light of Standing Order 16, I think that might have been within the rubric of a point of order.</ParaText>
             </Content>
@@ -2708,6 +2713,7 @@
               <ProceduralText TocType="TPC" id="8">Motion agreed to</ProceduralText>
               <ParaText id="7317184">I declare the motion carried.</ParaText>
               <ParaText id="7317185">Accordingly, the bill stands referred to the Standing Committee on Industry and Technology.</ParaText>
+              <ProceduralText TocType="TCC" id="9">(Bill read the second time and referred to a committee)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2925,7 +2931,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11840445">
-        <SubjectOfBusinessTitle>Speaker’s Ruling</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Speaker’s Ruling</SubjectOfBusinessQualifier>
         <CatchLine>Speaker’s Ruling</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="11840101">
@@ -2946,7 +2952,7 @@
         <SubjectOfBusinessTitle>Cost of Living Relief Act, No. 1</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7317228">The House resumed from October 4 consideration of the motion that <Document DbId="11924004" Type="3">C-30, An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)</Document>, be read the third time and passed.</ParaText>
-          <ProceduralText TocType="TPC" id="9">Bill C-30. Third reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="10">Bill C-30. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="11840106">
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
@@ -3145,7 +3151,7 @@
               <ParaText id="7317316">The Bloc Québécois immediately called for adjustments to assistance programs to make them more efficient and avoid a unilateral approach. The aim is to better respond to the difficulties facing workers and businesses while limiting expenditures. The Liberals took far too long to review the programs. We have the same message when it comes to stimulus: yes to stimulus spending, provided it is targeted and thoughtful and serves to help those most affected by the situation.</ParaText>
               <ParaText id="7317317">Once again, this must include things like social housing, the purchasing power of seniors, maintaining the independence of the central bank and fighting the labour shortage, which I have discussed at length. It also includes creating a tax credit for graduates, appreciating experienced workers, transferring the temporary foreign workers program, reforming employment insurance, strengthening supply chains and the competition regime, and reducing our dependence on oil.</ParaText>
               <ParaText id="7317318">In closing, I would like to address the residents of the most beautiful riding in the world and all other Quebeckers. I want to assure them that the Bloc Québécois will continue to work hard and pester the government until the minister understands the absolute urgency of adjusting the mandatory eligibility criteria for employment insurance. </ParaText>
-              <ParaText id="7317319">I would like to to quote one of the most famous Quebec bands, Harmonium:</ParaText>
+              <ParaText id="7317319">I would like to quote one of the most famous Quebec bands, Harmonium:</ParaText>
               <ParaText id="7317320">
                 <Poetry OriginalReceived="True">
                   <Verse>
@@ -3211,7 +3217,7 @@
               <Affiliation DbId="278345" Type="2">Mrs. Caroline Desbiens</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317333">Mr. Speaker, that is a very big question and it deserves a very big answer, but I think members would agree that we do not have much time. I quite agree with my colleague.</ParaText>
-              <ParaText id="7317334">However, I believe fundamentally in the economic resiliency of our regions, as well as as our urban centres and businesses. There has to be a balance, and we must achieve it domestically, not by letting foreign companies and investments boost or extrapolate production and supply costs, which is the crux of the problem.</ParaText>
+              <ParaText id="7317334">However, I believe fundamentally in the economic resiliency of our regions, as well as our urban centres and businesses. There has to be a balance, and we must achieve it domestically, not by letting foreign companies and investments boost or extrapolate production and supply costs, which is the crux of the problem.</ParaText>
               <ParaText id="7317335">We really need to take care of our own business. That is where things happen. That is how we will overcome and slow the skyrocketing inflation.</ParaText>
             </Content>
           </Intervention>
@@ -3651,17 +3657,12 @@
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317503">Pursuant to order made on Monday, October 3, the division stands deferred until Thursday, October 6, at the expiry of the time provided for Oral Questions.</ParaText>
-              <ProceduralText TocType="TPC" id="10">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="11">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11841429" Rubric="Other">
-      <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
-      <CatchLine>Government Orders</CatchLine>
       <SubjectOfBusiness id="11841433">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Cost of Living Relief Act, No. 2</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Lamoureux" id="11841297">
@@ -3669,7 +3670,7 @@
               <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317504">Mr. Speaker, there have been discussions among the parties, and if you seek it, I believe you will find unanimous consent to adopt two motions, of which this is the first. I move:</ParaText>
-              <ProceduralText TocType="TPC" id="11">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
               <ParaText id="7317505">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That, notwithstanding any Standing Order, special order or usual practice of the House, later today, the House shall continue to sit beyond the ordinary hour of daily adjournment for the purpose of considering Bill C-31, An Act respecting cost of living relief measures related to dental care and rental housing, at the second reading stage, that during the debate, no quorum calls, dilatory motions or requests for unanimous consent shall be received by the Chair, and when no Member rises to speak, or at 10 p.m., whichever is earlier, the debate be deemed adjourned, the House shall adjourn until the next sitting day and that the debate pursuant to Standing Order 38 not take place.</QuotePara>
@@ -3683,17 +3684,12 @@
             <Content>
               <ParaText id="7317506">All those opposed to the hon. member's moving the motion will please say nay. It is agreed.</ParaText>
               <ParaText id="7317507">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="12">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="13">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11841466" Rubric="Other">
-      <OrderOfBusinessTitle>Routine Proceedings</OrderOfBusinessTitle>
-      <CatchLine>Routine Proceedings</CatchLine>
       <SubjectOfBusiness id="11841468">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Medical Assistance in Dying</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
@@ -3702,7 +3698,7 @@
               <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317508">Mr. Speaker, this is the second request for unanimous consent. I move:</ParaText>
-              <ProceduralText TocType="TPC" id="13">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
               <ParaText id="7317509">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That, notwithstanding paragraph (e) of the order made Monday, May 2, 2022, the deadline for the Special Joint Committee on Medical Assistance in Dying to submit to Parliament a final report of its review, including a statement of any recommended changes, be no later than Friday, February 17, 2023, and that a message be sent to the Senate to acquaint Their Honours that this House has passed this order.</QuotePara>
@@ -3716,7 +3712,7 @@
             <Content>
               <ParaText id="7317510">All those opposed to the hon. member's moving the motion will please say nay. It is agreed.</ParaText>
               <ParaText id="7317511">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="14">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="15">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11841321">
@@ -3744,7 +3740,7 @@
       <SubjectOfBusiness id="11841329">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Bank of Canada Accountability Act</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="15">Bill C-253. Second reading</ProceduralText>
+        <ProceduralText TocType="TPC" id="16">Bill C-253. Second reading</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="7317516">The House resumed from May 19 consideration of the motion that Bill <Document DbId="11538111" Type="4">C‑253, An Act to amend the Bank of Canada Act and to make consequential amendments to other Acts</Document>, be read the second time and referred to a committee.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Sinclair-Desgagné" id="11841333">
@@ -3788,7 +3784,7 @@
               <ParaText id="7317542">I am a little confused about this bill, to be honest. I read it through and looked at the reality and cannot quite understand why the member would pick this particular pathway to express his concerns about the country.</ParaText>
               <ParaText id="7317543">I think of some of the private member's bills that I have tabled. I am really focused on things like the right to housing and making sure that seniors get their guaranteed income supplement, even if they get their taxes done a little late. For me, people really matter. I know that the member would argue that this is about accountability, because it intends to have the Auditor General audit the Bank of Canada. I will get to that a little, but when I look at the role of the Auditor General, there is some significant and important work that is done in the country by that role.</ParaText>
               <ParaText id="7317544">The first thing that it made me think about is that, earlier this year, the Auditor General of Canada presented a report called “Processing Disability Benefits for Veterans” and I found that report to be incredibly helpful. The purpose of this report by the AG was to measure if Veterans Affairs Canada, or VAC, as it is called, is taking steps to reduce the wait times for disability benefits. If anybody has been paying attention to the House, we have heard, for numerous years, that many veterans in the country are applying for their disability benefit and they are waiting far too long. It is having a profoundly negative impact on the veteran and on the people who love them most.</ParaText>
-              <ParaText id="7317545">If we are going to look at how how we hold departments accountable, the Auditor General does important work. This is a perfect example of it. The report said that veterans are still waiting too long for their compensation and that veterans are still waiting to get the benefits that they need just to get through everyday life.</ParaText>
+              <ParaText id="7317545">If we are going to look at how we hold departments accountable, the Auditor General does important work. This is a perfect example of it. The report said that veterans are still waiting too long for their compensation and that veterans are still waiting to get the benefits that they need just to get through everyday life.</ParaText>
               <ParaText id="7317546">I hear this a lot. I hear this from veterans across the country, who contact my office and let me know that they are still waiting. I also get calls from the loved ones of veterans, who are worried because the veteran that they love and hold dear is struggling profoundly because they do not have those supports.</ParaText>
               <ParaText id="7317547">I think that this is an important conversation for the House, because it often feels like veterans serve this country and just get nothing back. The fact that they have to wait so long takes away from that commitment and sacrifice that they made, and the value of it to this country. That is something that I hope all parliamentarians are hearing from the veterans in their riding and that they are standing up for them in this place.</ParaText>
               <ParaText id="7317548">What the AG found was that the median waiting time was 39 weeks. Imagine that: Someone is a veteran, they served the country, they have a disability based on that service, and they are waiting around 39 weeks for a decision to be made. Their family is waiting. The people and their loved ones who are surrounding them are caring for them and they are not able to get the supports that they need to be better, to be stronger, to take the next step in their own evolution.</ParaText>
@@ -3949,7 +3945,7 @@
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317632">Pursuant to order made on Thursday, June 23, the division stands deferred until Wednesday, October 19, at the expiry of the time provided for Oral Questions.</ParaText>
-              <ProceduralText TocType="TPC" id="16">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Division on motion deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3963,7 +3959,7 @@
         <SubjectOfBusinessTitle>Cost of Living Relief Act, No. 2</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7317633">The House resumed from October 3 consideration of the motion that Bill <Document DbId="11924005" Type="3">C-31, An Act respecting cost of living relief measures related to dental care and rental housing</Document>, be read the second time and referred to a committee, and of the amendment.</ParaText>
-          <ProceduralText TocType="TPC" id="17">Bill C-31. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="18">Bill C-31. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="11841472">
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
@@ -4119,22 +4115,22 @@
               <Affiliation DbId="278361" Type="2">Mrs. Cathay Wagantall (Yorkton—Melville, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317694">Mr. Speaker, it is a privilege for me to be able to stand tonight and speak to this bill. I am going to speak slowly, because I just decided to do this and do not have anything to provide to the translators, so I promised them I would do my best to make it as easy as possible for them to translate what I have to say tonight.</ParaText>
-              <ParaText id="7317695">It is really important we go back to the beginning of the current government, which was my first time in the House, and remember what happened as early as preCOVID. We tend to focus on things as they are right now, but how did we get here? We have heard over and over again tonight the word “crisis” and that we are in a crisis. Absolutely, I agree, but why are we in the crisis we are in today, where Canadians are suffering so much within an economy that is simply not functioning the way it should?</ParaText>
+              <ParaText id="7317695">It is really important we go back to the beginning of the current government, which was my first time in the House, and remember what happened as early as pre-COVID. We tend to focus on things as they are right now, but how did we get here? We have heard over and over again tonight the word “crisis” and that we are in a crisis. Absolutely, I agree, but why are we in the crisis we are in today, where Canadians are suffering so much within an economy that is simply not functioning the way it should?</ParaText>
               <ParaText id="7317696">We heard about sunny ways and how amazing life was going to be for Canadians with a new government. Honestly, it is true, there was a real sense of hope in Canada when the Liberal government came to power. However, seven years later, we are in a situation where the government, when it runs out of answers, goes all the way back to 2017 to talk about the amazing things it did. </ParaText>
               <ParaText id="7317697">It brought in a Canada child benefit, which, it claims, lifted all of these children out of poverty and no longer gave money to the wealthy, and which was just an amazing service that it gave to Canadians.</ParaText>
               <ParaText id="7317698">However, what the government does not talk about is how many of those whom they raised out of poverty were also being raised out of poverty previously, and also that the way it runs this program, where it picks winners and losers, costs a lot more. The way the government functions, bureaucratically, costs Canadians more. </ParaText>
               <ParaText id="7317699">As I walked along, knocking on doors, people would say to me that they get the child benefit but have to give it all back. At that point, I would ask if they owned their home, how many cars they had and if they both worked. In that circumstance, they did not need that money. I would tell them to set it aside, and when the time came, to pay it back to the government through their taxes.</ParaText>
               <ParaText id="7317700">However, what if something happened whereby that family lost its means of income in the course of that year? Let us say they worked in the oil field when the government came into power, and all of a sudden their jobs are gone. The way this program is set up, they would need to wait until the next year, after they filed their taxes, to show how desperate they were, and then have their child benefit reinstated. The way the program used to run, if someone hit the end of that year and things were bad, they would have that money. </ParaText>
               <ParaText id="7317701">On the circumstances around lowering the taxes on the middle class and raising them on the wealthy, there are reasons to go that route to some degree, yet the government claimed it was revenue neutral. We know it was not. We are talking millions of dollars in difference that it did not make up by doing that, so already we were in a situation where the government was not managing money well. It was not managing the funds from Canadians' money well in the way it was providing its programs.</ParaText>
-              <ParaText id="7317702">That was all preCOVID, when it signalled to the world that Canada was not going to be open for business anymore. All kinds of small businesses and medium-sized businesses that were involved in our oil and gas industry left this country in an instant. I am sure the members on the other side of the floor must understand that when one does that and all of a sudden creates chaos in the source of funding for our economy, it is not a good thing. Canadians were left in very dire straights.</ParaText>
+              <ParaText id="7317702">That was all pre-COVID, when it signalled to the world that Canada was not going to be open for business anymore. All kinds of small businesses and medium-sized businesses that were involved in our oil and gas industry left this country in an instant. I am sure the members on the other side of the floor must understand that when one does that and all of a sudden creates chaos in the source of funding for our economy, it is not a good thing. Canadians were left in very dire straights.</ParaText>
               <ParaText id="7317703">We were no longer open for business. We lost the confidence of investors in this nation. As a matter of fact, the government had to buy a pipeline, or maybe chose to buy a pipeline, because it wanted to control the future of our oil and gas industry in a way that was not beneficial toward a green economy in the future, because we were hampering our own country at a time when the world, and it knows this as well, will continue to need oil for a long time.</ParaText>
               <Timestamp Hr="19" Mn="50">(1950)</Timestamp>
-              <ParaText id="7317704">Therefore, we are saying to a world that needs our products that are clean and ethical and enable our people to earn a living and to pay taxes so that the current and future governments can provide for the true needs of Canadians, that all of a sudden it is not there. These measures that we are looking at today are temporary measures. They are like putting one's finger in a dike. </ParaText>
+              <ParaText id="7317704">Therefore, we are saying to a world that needs our products, which are clean and ethical and enable our people to earn a living and to pay taxes so that current and future governments can provide for the true needs of Canadians, that all of a sudden those products are not there. These measures that we are looking at today are temporary measures. They are like putting one's finger in a dike. </ParaText>
               <ParaText id="7317705">I know Canadians are desperate enough to say that they want this and need this and that it is better than nothing, but the frustrating thing is that we never should have gotten here in the first place. The government promised a $10-billion over-expenditure on an annual basis. It has never met that promise, and we are facing almost a trillion and a half dollars in debt as a nation, larger than all the debt combined throughout the history of our country. That is where we are today.</ParaText>
               <ParaText id="7317706">Of course, Canadians are in a circumstance that is very difficult. I grew up in Saskatchewan. As I was growing up, we had an NDP government. I grew up during that time when things were really tough. My husband has four siblings and I have five. Out of 11 of us, everybody but two left our province. There was no work. There was no income for our government to do the things it needed to do. We were in a situation where government knew best and wanted to provide for everybody, and it shut down productivity in our province. People left because there was no work. There was no encouragement for people to become small business men or women and make a difference for their own family by becoming productive on their own.</ParaText>
               <ParaText id="7317707">With respect to these measures that I am seeing here now, they are trying to put a stopgap in a situation that is really bad. That is what happened during COVID as well, because people were not allowed to work. Small business owners in my communities could have maintained their ability to be active in their communities. They could have continued to pay their employees and produce their products in a way that worked within that environment, but the government shut everything down. Yes, it provided in that circumstance, but it created the problem as well.</ParaText>
               <ParaText id="7317708">I experienced having a small business in the early 1980s. It says here that this is the worst inflation in 40 years. Do members know what was happening about 40 years ago? I experienced losing our business, as did many business owners, because interest rates rose to 22% overnight because of the fiscal approach of Pierre Elliott Trudeau. Here we are today. The apple does not fall far from the tree.</ParaText>
-              <ParaText id="7317709">I just want to put a shout-out for the fact that yes, as the NDP members are saying, large corporations should not be receiving benefits from the government. The Liberal government handed out incredible money for fridges for a large corporation that these people spoke against, yet here it is now, supporting them.</ParaText>
+              <ParaText id="7317709">I just want to put a shout-out for the fact that yes, as the NDP members are saying, large corporations should not be receiving benefits from the government. The Liberal government handed out incredible amounts of money for fridges for a large corporation that these people spoke against, yet here it is now, supporting them.</ParaText>
               <ParaText id="7317710">I want to speak for corporations that put incredible amounts of tax dollars into our provincial and federal governments and provide amazing community resources. I know, because I live where there is one. They provide benefits to their employees that are unmatched. We have a lot for which to thank those corporations that do good work and are fiscally and environmentally responsible. We should not be painting them all with the same brush.</ParaText>
             </Content>
           </Intervention>
@@ -4208,7 +4204,7 @@
               <ParaText id="7317730">What happens when inflation increases is that it hurts Canadians of course because everything becomes increasingly more expensive, which creates increased pain for Canadians. The truth of the matter is that we will certainly hear the members of the NDP talk about the price gouging and the profit-taking. There is one organization that has taken more profits than all corporations combined. That is the federal government. If we want to talk about profiteering, that starts and begins with the federal government. The revenues overfloweth because of the inflation tax. Every week the current government hits new revenue highs and new revenue increases. This is coming off the backs of Canadians.</ParaText>
               <ParaText id="7317731">If we look at people who are making $50,000 a year, those individuals have seen their purchasing power decrease by thousands of dollars. They have seen a pay decrease of thousands of dollars. I can tell members that this story is hundreds of years old, even thousands of years old. Every time the government goes about this, right back to the Roman government, when it starts printing money, or at that point reducing the amount of valuable material in coins, when it starts increasing that, what always happens is that the people get hurt. </ParaText>
               <ParaText id="7317732">With that more spending, the rules of supply and demand kick in. Money is worth less and it is harder for everyone, but who it hurts the most is not the wealthy. The wealthy are doing quite well. They have seen their million-dollar houses become $2-million houses. They have seen their businesses and stock portfolios potentially increase in value. Even that is being hit now with the current Liberal government's poor economic stewardship, but it is the most vulnerable. If people are earning $20,000 or $30,000 a year, with food prices going up by 10%, it is a much bigger deal for them than if they are earning $100,000 and they just have to reduce their Netflix subscription. That is the difference between a single mom being able to feed her family or not.</ParaText>
-              <ParaText id="7317733">I will tell members that if they want a true rental and dental bill, it is called eliminating the carbon tax. That will provide Canadians with a lot more tax relief, which will provide a lot more more dollars, and to the most vulnerable, than this rental-dental bill ever would. </ParaText>
+              <ParaText id="7317733">I will tell members that if they want a true rental and dental bill, it is called eliminating the carbon tax. That will provide Canadians with a lot more tax relief, which will provide a lot more dollars, and to the most vulnerable, than this rental-dental bill ever would. </ParaText>
               <ParaText id="7317734">We have to understand the very basics of this. Food inflation has increased the cost of food by $1,300. The rental bill will provide $500 for rent. The math is simple. The reality is monetary. Continuing to spend money, which is funded by the Bank of Canada, will create a disillusionment.</ParaText>
               <Timestamp Hr="20" Mn="05">(2005)</Timestamp>
               <ParaText id="7317735">What happens when the government spends money is that there is an initial excitement and exuberance. When that money hits the bank accounts of Canadians, they are excited, which has happened many times throughout history, but that exuberance quickly turns into a deep sense of disillusionment as they realize that it is just a nasty trick because the cost of everything has increased. Once again, the main beneficiary of this is the government. Its revenues continue to increase while Canadians continue to suffer.</ParaText>
@@ -4361,7 +4357,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278628" Type="2">Mr. Richard Cannings (South Okanagan—West Kootenay, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7317793">Mr. Speaker, as usual, it is an honour to rise to speak. Tonight it is especially an honour because rarely do we actually debate life-changing bills here in this Parliament. We talk about a lot of important things, but we do not often talk about bills that will literally change the lives of not a few Canadians but million of Canadians. </ParaText>
+              <ParaText id="7317793">Mr. Speaker, as usual, it is an honour to rise to speak. Tonight it is especially an honour because rarely do we actually debate life-changing bills here in this Parliament. We talk about a lot of important things, but we do not often talk about bills that will literally change the lives of not a few Canadians but millions of Canadians. </ParaText>
               <ParaText id="7317794">Bill <Document DbId="11924005" Type="3">C-31</Document> is one of them because the main part of the bill is an interim measure to provide dental care to millions of Canadian children. It is a down payment on the full dental care program that the NDP has put forward to provide dental coverage, like two-thirds of Canadians have and one-third do not. Those people making under $90,000 a year, by the end of the three-year program, will have dental coverage just like most Canadians. This is a down payment on that. It is truly life changing.</ParaText>
               <ParaText id="7317795">I want to tell the story of my friend, Joan. I talk to Joan every month or so. She heard about the agreement between the NDP and the Liberals. Part of that agreement was that the Liberal government agreed to implement the NDP's dental care plan. When I phoned her just to catch up, she just said, “I have to talk about dental care.” I was a bit taken aback. Usually we do not talk about political stuff. She said, “I grew up in rural Alberta. We were a poor family when I was a kid. We couldn't afford to go to a dentist.” </ParaText>
               <ParaText id="7317796">Like most kids in those days, especially, she got cavities. Her friends who had parents who were more well off got to go to the dentist and have those cavities filled. Joan's parents could not afford that so they did not go to the dentist. Eventually, her teeth were in such bad shape that she had to have many of them taken out and replaced with ill-fitting dentures. She was a kid getting dentures. As a result, she was painfully shy about how her mouth looked and how her teeth looked. That shyness has followed her the rest of her life. She is still very uncomfortable in social situations. </ParaText>
@@ -4420,7 +4416,7 @@
               <ParaText id="7317820">
                 <B>An hon. member:</B> No, they didn't.</ParaText>
               <ParaText id="7317821">
-                <B>Mr. Mark Gerretsen:</B> They did. It was 400 billion dollars' worth.</ParaText>
+                <B>Mr. Mark Gerretsen:</B> Mr. Speaker, they did. It was 400 billion dollars' worth.</ParaText>
               <ParaText id="7317822">Can this member give us his insight into what he thinks is causing inflation? Does he agree with the Conservatives' principal argument that we should not be spending money on this very important piece of legislation because it is just going to add to inflation, despite the fact that economists resoundingly say it will not?</ParaText>
             </Content>
           </Intervention>

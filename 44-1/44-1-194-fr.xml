@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12202166">
-  <StartPageNumber>14283</StartPageNumber>
+  <StartPageNumber>14281</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -1422,7 +1422,7 @@
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>
        Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Renvoi au Comité permanent de la procédure et des affaires de la Chambre</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le renvoi au Comité permanent de la procédure et des affaires de la Chambre</SubjectOfBusinessQualifier>
         <CatchLine>Privilège</CatchLine>
         <SubjectOfBusinessContent>
           <ParaText id="7763029">
@@ -2751,13 +2751,12 @@ La Chambre reprend l'étude, interrompue le 26 avril, du projet de loi <Docum
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12203600" Rubric="PrivateMembersBusiness">
-      <OrderOfBusinessTitle>
-       Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="12203601">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>
-       L'inclusion d'étudiants en situation de handicap</SubjectOfBusinessTitle>
+       L'inclusion des personnes en situation de handicap</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lake" id="12203462">
             <PersonSpeaking>
@@ -2766,7 +2765,11 @@ La Chambre reprend l'étude, interrompue le 26 avril, du projet de loi <Docum
             <Content>
               <ParaText id="7763315"> propose:</ParaText>
               <ProceduralText TocType="TPC" id="6">Motion</ProceduralText>
-              <ParaText id="7763316">Que:</ParaText>
+              <ParaText id="7763316">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que:</QuotePara>
+                </Quote>
+              </ParaText>
               <ParaText id="7763317">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="2">a) la Chambre reconnaisse que,</QuotePara>

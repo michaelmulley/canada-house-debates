@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="12342482">
-  <StartPageNumber>17067</StartPageNumber>
+  <StartPageNumber>17061</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -176,7 +176,7 @@
         <Timestamp Hr="10" Mn="10">(1010)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Opposition Motion—Carbon Tax</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Opposition Motion—Carbon Taxes</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Poilievre" id="12342573">
             <PersonSpeaking>
@@ -1139,7 +1139,12 @@
               <ParaText id="7932854">However, on that particular issue, I think it is pretty easy. We have legislation and bills on the carbon tax that we have introduced in the past to simply remove the carbon tax. Government members do not have to create a new bill. It is already there in the ones they voted against. They could reintroduce it and vote for it.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12345241">
+        <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+        <SubjectOfBusinessTitle>Business of the House</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Kramp-Neuman" id="12344458">
             <PersonSpeaking>
               <Affiliation DbId="278689" Type="2">Mrs. Shelby Kramp-Neuman (Hastings—Lennox and Addington, CPC)</Affiliation>: </PersonSpeaking>
@@ -1162,10 +1167,17 @@
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="7932859">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
               <ProceduralText TocType="TCC" id="3">(Motion agreed to)</ProceduralText>
-              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="7932860"> The hon. member for Esquimalt—Saanich—Sooke.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12345471">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Opposition Motion—Carbon Taxes</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessContent>
+          <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
+          <ParaText id="8220138">The House resumed consideration of the motion.</ParaText>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Garrison" id="12344485">
             <PersonSpeaking>
               <Affiliation DbId="278615" Type="2">Mr. Randall Garrison (Esquimalt—Saanich—Sooke, NDP)</Affiliation>: </PersonSpeaking>
@@ -1307,7 +1319,7 @@
               </ParaText>
               <ParaText id="7932901">Like many members in the House, I went across my riding this summer and talked to people about what was affecting them the most. I would be very surprised if most members did not hear the feedback that the cost of living is really hampering everyone across the country. The cost of mortgages has doubled. Twenty-five per cent of mortgages in Canada have increased rapidly, and those Canadians are struggling to make their mortgage payments.</ParaText>
               <ParaText id="7932902">The cost of groceries is going nowhere but up. Carrots and oranges are up 75%. Potatoes are up 74%. Lettuce is up 94%. That is hitting people's pocketbooks each and every time they go to the grocery store.</ParaText>
-              <ParaText id="7932903">With regard to the cost of home heating and the the cost of gas, in Saskatchewan we do not have the luxury of going on a transit system to and from work very often. People drive to work. Moms have to drive their kids to soccer, football and hockey. My colleague from <Affiliation DbId="278422" Type="2">Banff—Airdrie</Affiliation> put it very rightly when he said that it is not a luxury to heat our homes in the winter in Saskatchewan.</ParaText>
+              <ParaText id="7932903">With regard to the cost of home heating and the cost of gas, in Saskatchewan we do not have the luxury of going on a transit system to and from work very often. People drive to work. Moms have to drive their kids to soccer, football and hockey. My colleague from <Affiliation DbId="278422" Type="2">Banff—Airdrie</Affiliation> put it very rightly when he said that it is not a luxury to heat our homes in the winter in Saskatchewan.</ParaText>
               <ParaText id="7932904">Saskatchewan gets pretty cold in the winter. I am not sure if other members have been there in January, but -40°C is quite a regular occurrence. I say that because I want to tell a bit of a personal story about what happened to my family and a friend of mine and their kids on the way home from hockey one night a couple of years ago.</ParaText>
               <ParaText id="7932905">They were coming home from the rink and a blizzard just came in. They were halfway home and the people from the rink all stopped in the middle of the road to make sure they could see. They could not, so they were stuck. Actually, eventually, my wife and kids and my friend ended up hitting the ditch. The temperature that day when they got to hockey practice was -10°C. By eight o'clock at night, when they were in the ditch, it was -30°C.</ParaText>
               <ParaText id="7932906">This is one thing I always think about when we talk about the use of electric vehicles, which sometimes and in some places are useful. That night, my wife, my three kids, my friend and his kids spent nine hours in a vehicle in -40°C. If that was an electric vehicle, they would all be dead right now. There are places where electric vehicles can be used, but this is a situation where it would have been catastrophic. There were 10 to 12 cars lined up in a row when this snowstorm hit. </ParaText>
@@ -1652,7 +1664,7 @@
           <Timestamp Hr="13" Mn="40">(1340)</Timestamp>
           <Intervention Type="Interjection" ToC="No" id="12345065">
             <PersonSpeaking>
-              <Affiliation DbId="278428" Type="2">M. Gérard Deltell</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278428" Type="2">Mr. Gérard Deltell</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7933041"> Madam Speaker, during the famous and historic Quebec speech, the hon. leader of the Conservative Party of Canada said the following clearly:</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -2277,7 +2289,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12345506">
         <Timestamp Hr="14" Mn="35">(1435)</Timestamp>
-        <SubjectOfBusinessTitle>Carbon Tax</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Carbon Pricing</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Berthold" id="12345318">
             <PersonSpeaking>
@@ -2854,7 +2866,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12345525">
         <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
-        <SubjectOfBusinessTitle>Climate Change</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Oil and Gas Industry</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Morrice" id="12345524">
             <PersonSpeaking>
@@ -2934,7 +2946,7 @@
         <SubjectOfBusinessTitle>Business of Supply</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Opposition Motion—Carbon Taxes</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
+          <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
           <ParaText id="7933359">The House resumed consideration of the motion.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Gerretsen" id="12345549">
             <PersonSpeaking>
@@ -3244,7 +3256,7 @@
           <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. van Koeverden" id="12346029">
             <PersonSpeaking>
-              <Affiliation DbId="278728" Type="2">Mr. Adam van Koeverden (Milton, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="300664" Type="18">Mr. Adam van Koeverden (Parliamentary Secretary to the Minister of Environment and Climate Change and to the Minister of Sport and Physical Activity, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7933466">Madam Speaker, my colleague's argument is, in fact, doomed to fail. Quebec has had a cap-and-trade program for over a decade. Perhaps that is because, unlike the Conservatives here, Premier Legault's government genuinely believes in fighting climate change.</ParaText>
               <ParaText id="7933467">Quebec's food inflation is equivalent to Ontario's, and we are looking to implement real solutions for affordability. The Conservatives have no credibility when it comes to issues of affordability or climate change.</ParaText>
@@ -3696,7 +3708,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278514" Type="2">Mr. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7933631">Madam Speaker, I know that the member for <Affiliation DbId="278707" Type="2">Pitt Meadows—Maple Ridge</Affiliation> really wants to get up. I believe if you seek it you will find unanimous consent to allow the inventor of the carbon tax in British Columbia to ask a question at this time.</ParaText>
+              <ParaText id="7933631">Madam Speaker, on a point of order, I know that the member for <Affiliation DbId="278707" Type="2">Pitt Meadows—Maple Ridge</Affiliation> really wants to get up. I believe if you seek it you will find unanimous consent to allow the inventor of the carbon tax in British Columbia to ask a question at this time.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="12347128">
@@ -3738,7 +3750,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="5">Division deemed demanded and deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="6">Division deemed demanded and deferred</ProceduralText>
               <ParaText id="7933651">It being 5:15 p.m., pursuant to order made earlier today, all questions necessary to dispose of the opposition motion are deemed put and a recorded division deemed requested and deferred until Wednesday, October 4, 2023, at the expiry of the time provided for Oral Questions.</ParaText>
               <ParaText id="7933652">The hon. deputy House leader is rising on a point of order.</ParaText>
             </Content>
@@ -3768,7 +3780,7 @@
       <SubjectOfBusiness id="12347261">
         <SubjectOfBusinessTitle>National Strategy for Eye Care Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="6">Bill C-284. Report stage</ProceduralText>
+          <ProceduralText TocType="TPC" id="7">Bill C-284. Report stage</ProceduralText>
           <ParaText id="7933656">The House proceeded to the consideration of Bill <Document DbId="11816445" Type="4">C-284,  An Act to establish a national strategy for eye care</Document>, as reported (with amendments) from the committee.</ParaText>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
@@ -3796,7 +3808,7 @@
               <Affiliation DbId="278356" Type="2">Hon. Judy A. Sgro (Humber River—Black Creek, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="7">Motion No. 1</ProceduralText>
+              <ProceduralText TocType="TPC" id="8">Motion No. 1</ProceduralText>
               <ParaText id="7933659"> moved:</ParaText>
               <ParaText id="7933660">
                 <Quote>
@@ -3850,22 +3862,15 @@
               <Affiliation DbId="278514" Type="2">Mr. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7933671">Madam Speaker, I think we can carry this on division.</ParaText>
+              <ProceduralText TocType="TCC" id="9">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="12347293">
+          <Intervention Type="Interjection" ToC="No" id="12347503">
             <PersonSpeaking>
-              <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7933672">I declare Motion No. 1 carried on division.</ParaText>
-              <ProceduralText TocType="TCC" id="8">(Motion No. 1 agreed to)</ProceduralText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Sgro" id="12347503">
-            <PersonSpeaking>
-              <Affiliation DbId="278356" Type="2">Hon. Judy A. Sgro (Humber River—Black Creek, Lib.) </Affiliation>
+              <Affiliation DbId="278356" Type="2">Hon. Judy A. Sgro </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="9">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">Motion for concurrence</ProceduralText>
               <ParaText id="7933673"> moved that the bill, as amended, be concurred in at report stage with a further amendment.</ParaText>
             </Content>
           </Intervention>
@@ -3884,14 +3889,7 @@
               <Affiliation DbId="278514" Type="2">Mr. Mark Gerretsen</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7933676">Madam Speaker, we request that it be carried on division.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="12347508">
-            <PersonSpeaking>
-              <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7933677">I declare the motion carried.</ParaText>
-              <ProceduralText TocType="TCC" id="10">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="11">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12347584">
@@ -3909,7 +3907,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="7933680"> moved that the bill be now read the third time and passed.</ParaText>
-              <ProceduralText TocType="TPC" id="11">Third reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Third reading</ProceduralText>
               <ParaText id="7933681">She said: Madam Speaker, I want to begin, as always, by acknowledging my colleagues who are here, because it takes all of us for anything to get passed in this House.</ParaText>
               <ParaText id="7933682"> Bill <Document DbId="11816445" Type="4">C-284</Document> is important to me, but it is very important to the communities that we all represent: CNIB, Fighting Blindness and all of those organizations plus all of the people who are suffering from blindness and vision problems, and I know that there are many in this room itself.</ParaText>
               <ParaText id="7933683">Now that I have managed to get the bill to third reading, I want to begin by thanking all members for getting it that far, and I hope that this is the last time that I am speaking to it. Maybe we can get this bill eventually moved over to the Senate and get the work done there that needs to be done that will improve vision for thousands and thousands of Canadians. There are many MPs who have vision loss or vision problems themselves, and I am hoping that a nationalized strategy will bring all of the partners together as we move forward.</ParaText>
@@ -4103,7 +4101,7 @@
               <ParaText id="7933763">Madam Speaker, I am thankful for this opportunity to discuss Bill <Document DbId="11816445" Type="4">C-284,</Document> which advocates for a comprehensive strategy to address eye health.</ParaText>
               <ParaText id="7933764">I would like to begin, as my colleague before me did, by thanking my esteemed colleague, the hon. member for Humber River—Black Creek, for the extensive work she has done on this bill.</ParaText>
               <ParaText id="7933765">I might dare to call myself a poster person of someone who has faced eye health care challenges since my early forties. Late detection of glaucoma with a delay in having it addressed caused me to go through a very complicated cataract surgery and then another surgery of the cataracts, so I had two cataract surgeries with two detached retinas back to back, followed by two glaucoma surgeries. Because of the medication, I then had to have a cornea replacement last year. That was all due to the late identification and treatment of the condition of glaucoma in my eyes. Unfortunately, all of them were in my right eye.</ParaText>
-              <ParaText id="7933766"> I dare to call myself a poster person for this bill, and once again, I thank the hon. member. I also thank the doctors who helped restore my eyesight to the level that it is now so that I can function. I would like to specifically highlight Dr. Amrahdyan, who is my ophthalmologist; Dr. Berger, who is my retina specialist; Dr. Berke, who is my glaucoma specialist; and Dr. Chiu, who is my cornea specialist. They all worked very successfully on restoring the health of my eye.</ParaText>
+              <ParaText id="7933766"> I dare to call myself a poster person for this bill, and once again, I thank the hon. member. I also thank the doctors who helped restore my eyesight to the level that it is now so that I can function. I would like to specifically highlight Dr. Ahadian, who is my ophthalmologist; Dr. Berger, who is my retina specialist; Dr. Birt, who is my glaucoma specialist; and Dr. Chew, who is my cornea specialist. They all worked very successfully on restoring the health of my eye.</ParaText>
               <ParaText id="7933767">That is all to say how important eye health is. The key part is about how important it is for it to be part of our overall health. Vision loss can have a massive impact on daily life. I could spend hours talking about the impact it had on me. Two back-to-back detached retinas basically meant that I had to lie flat on my face for 18 weeks, over two nine-week periods, without being able to move. That stopped me from eating something for more than five minutes. The rest of the time I was basically flat on my face, and I could not actively participate in any activity, whether it was work or family events or anything.</ParaText>
               <ParaText id="7933768">It is important for us to make sure we really support this bill and work across the aisle to make sure that it passes to develop the strategy that is needed and embed it into the health care system. As Canada's population ages, the importance of maintaining good eye health and preventing vision loss is imperative. Vision loss can be caused by several common eye diseases, including macular degeneration, cataracts, glaucoma and diabetic retinopathy. I am glad to say that I do not have diabetic retinopathy, but I unfortunately have to say that I have suffered through all of the others.</ParaText>
               <ParaText id="7933769">According to a report from Deloitte and the Canadian Council of the Blind, more than eight million Canadians had a common eye disease in 2019 and were at serious risk of losing their vision, as I was. Throughout a person's lifetime, and especially as they age, it is important to maintain good eye health. Routine vision care can help to reduce the risks of blindness and vision loss later in life and improve the outcomes associated with eye diseases such as cataracts and glaucoma. I cannot emphasize how important it is to ensure that everyone has access to an optometrist and an ophthalmologist and they go through routine eye examinations as early as they can.</ParaText>
@@ -4116,11 +4114,9 @@
               <ParaText id="7933775">The Government of Canada recognizes that supporting research is key to a fulsome understanding of eye health, including how to prevent vision loss. The Canadian Institutes of Health Research has supported key vision-related research that has strengthened the evidence base. Health Canada also regulates drugs and medical devices, including those intended for eye diseases and conditions.</ParaText>
               <ParaText id="7933776">Finally, the government fully supports Canada's public health system, which provides coverage for any vision care services that must be performed in a hospital. There are those who have glaucoma and they receive special consideration when they visit a doctor. However, those who do not have it have to pay for the services when they go to their ophthalmologist or optometrist. I am hoping that some of this shared priority focuses on making sure those services are provided as part of the health care system. The efforts to protect Canadians' vision in the long term is something that all members and all Canadians would benefit from and stand behind.</ParaText>
               <ParaText id="7933777">Once again, I wish to thank the hon. member for <Affiliation DbId="278356" Type="2">Humber River—Black Creek</Affiliation> for putting forward this bill meaningful bill. I hope that we can all continue to support Bill <Document DbId="11816445" Type="4">C-284</Document> to strengthen the work under way across Canada to prevent and treat eye—</ParaText>
-              <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
-              <ParaText>
-              </ParaText>
             </Content>
           </Intervention>
+          <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
           <Intervention Type="Debate" ToC="No" ToCText="Mrs. Hughes" id="12347522">
             <PersonSpeaking>
               <Affiliation DbId="279178" Type="92">The Assistant Deputy Speaker (Mrs. Carol Hughes)</Affiliation>: </PersonSpeaking>

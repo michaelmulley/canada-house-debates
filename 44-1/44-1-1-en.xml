@@ -101,9 +101,9 @@
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6857906">I am very happy to be with you today.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="6857907">This is the twelfth time that I have been elected and the fifth time that I have had the pleasure of presiding over the election of the Speaker.</ParaText>
+              <ParaText id="6857907">This is the 12th time that I have been elected and the fifth time that I have had the pleasure of presiding over the election of the Speaker.</ParaText>
               <ParaText id="6857908">Before the election, a journalist asked me if I had thought long and hard about seeking election. I told him that I had. I realized that Joe Biden and I were the same age. If he was able to run the United States, I should be able to run a riding.</ParaText>
-              <ParaText id="6857909">After the election, the same journalist asked me if that was my last election campaign. After giving it some thought, I answered that I would only run two or three more times.</ParaText>
+              <ParaText id="6857909">After the election, the same journalist asked me if that was my last election campaign. After giving it some thought, I answered that I would run only two or three more times.</ParaText>
               <ParaText id="6857910">I apologize for speaking only in French for the time being. If I were to speak in English, I think you would still need interpretation. I will say a few words in English shortly.</ParaText>
               <ParaText id="6857911">Earlier, when we were entering, a member asked me what it takes to stay in shape and do this job at my age with such determination and so forth. I gave him three pieces of advice. I told him to eat what he does not want to eat, drink what he does not want to drink and to do the exercises that he does not want to do.</ParaText>
               <ParaText id="6857912">Let us turn our attention to serious matters.</ParaText>
@@ -229,7 +229,7 @@
               <ParaText id="6857968">As Speaker of the House of Commons, I will have a zero tolerance policy for any show of disrespect between colleagues, employees or any other person associated with this Parliament.</ParaText>
               <ParaText id="6857969">I would like to note that we must have the best technological tools to make our work more efficient and effective.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6857970"> We must plan so we can be ready to face the the next crisis. We must implement mechanisms that respect and protect our members of Parliament.</ParaText>
+              <ParaText id="6857970"> We must plan so we can be ready to face the next crisis. We must implement mechanisms that respect and protect our members of Parliament.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6857971">Finally, we must reinforce respect for our country's two official languages, English and French. That must start here in the House of Commons.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -471,8 +471,6 @@
               <Affiliation DbId="279079" Type="96">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6858059"> Before I suspend the sitting, I wish to remind hon. members that, when the counting has been completed, the bells to call the members back to the House will be sounded for about 10 minutes. The sitting is suspended to the call of the Chair.</ParaText>
-              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6858060">The sitting is suspended to the call of the Chair.</ParaText>
               <ProceduralText TocType="TCC" id="4">(The sitting of the House was suspended at 3:33 p.m.)</ProceduralText>
             </Content>
           </Intervention>
@@ -480,10 +478,11 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11426762">
         <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>Sitting Resumed</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ParaText id="6858061">(The Clerk of the House having provided the Presiding Officer with the name of the member having received a majority of the votes cast:)</ParaText>
           <ProceduralText TocType="TCC" id="5">(The House resumed at 4:35 p.m.)</ProceduralText>
+          <ParaText id="6858061">(The Clerk of the House having provided the Presiding Officer with the name of the member having received a majority of the votes cast:)</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Plamondon" id="11426746">
             <PersonSpeaking>
               <Affiliation DbId="279079" Type="96">The Presiding Officer (Mr. Louis Plamondon)</Affiliation>: </PersonSpeaking>
@@ -501,9 +500,12 @@
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6858065">I humbly thank all hon. members in this House for the great honour they have bestowed upon me in selecting me as Speaker.</ParaText>
-              <ParaText id="6858066">[<I>The Speaker spoke in aboriginal language</I>]</ParaText>
+              <ParaText id="6858066">[<I>The Speaker spoke in Ojibwa and provided the following text:</I>]</ParaText>
+              <ParaText id="6869889">Meegwetch. Anthony Rota nindishinikaaz, Nipissing-Timiskaming ndojeba.</ParaText>
+              <ParaText id="6869890">[<I>The Speaker provided the following translation:</I>]</ParaText>
+              <ParaText id="6869891">Thank you. My name is Anthony Rota. I am from Nipissing-Timiskaming.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6858067">Thank you again for the confidence that you have placed in me as Speaker for a second term. I am very honoured to be up here, both politically and personally. This is something I know I will treasure for the rest of my life. I guess one of the good things about being Speaker is that I probably upset both sides equally, so I appreciate you working this out.</ParaText>
+              <ParaText id="6858067">Thank you again for the confidence that you have placed in me as Speaker for a second term. I am very honoured to be up here, both politically and personally. This is something I know I will treasure for the rest of my life. I guess one of the good things about being Speaker is that I probably upset both sides equally, so I appreciate your working this out.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6858068">I would also like to thank the dean of the House, the hon. member for Bécancour—Nicolet—Saurel, who gets a real kick out of sitting here. He did a great job. Just like the other two times I was elected, I was very happy to see him in the chair and to hear his announcements. I must say that he made a very good choice.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
@@ -557,9 +559,9 @@
               <ParaText id="6858094">Our spouses go through things that most Canadians and most people never experience, yet they always support us and stand by us. We are most grateful to our spouses for that. I thank all the spouses, and especially Chantal.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="6858095">One of the things that I know the leaders of both the government and the opposition feel very strongly about is children, so I want to reach out to my daughter who is studying on the other side of the pond. She cannot be here today, but I know she is watching on CPAC, so I say to Samantha that I love her dearly.</ParaText>
-              <ParaText id="6858096">There are a lot of benefits to being the Speaker, but there are also some things that I cannot do as Speaker during a regular session. One is that I cannot do an S. O. 31 and recognize special people in my riding. If I could do an S. O. 31, what I would do is thank the constituents who elected me in September. I am very honoured that they would choose me to represent them here in the House. To the people of Nipissing—Timiskaming, if I could do an S. O. 31 I would tell them “thank you”. I would then thank all the volunteers who were there, who showed up every day and who helped on a regular basis. If I could do an S. O. 31, I would say “thank you” to all the volunteers.</ParaText>
-              <ParaText id="6858097">Sometimes we get to this place and we look back and wonder, “How did we get here?” I remember back in 2004 trying to get in as a candidate. I have this history of having more than one person get on by acclamation. I kind of look to them and think, “That would be great.” I had four the first time. In an S. O. 31, I would point out three people who have been there with me right from the beginning of my nomination. Peter and Barb have been there. They are great organizers and have done an amazing job. Garth, one of the elder statesmen, as I call him, in North Bay, is in his 80s now. I know he is watching, and he is going to love this. I say that I love him and I thank him very much for everything he has done. Without the three of them working together, and the whole team coming together, I am not sure I would have gotten the nomination on my own or who would be up here giving a speech right now. I want to thank them. </ParaText>
-              <ParaText id="6858098">As I said, as the Speaker I will not be able to do S. O. 31s and would not be able to deliver these messages. I want to remind members that one rule in the House is that one cannot do indirectly what one cannot do directly, so I just want to make sure we will be enforcing that in the coming months. </ParaText>
+              <ParaText id="6858096">There are a lot of benefits to being the Speaker, but there are also some things that I cannot do as Speaker during a regular session. One is that I cannot do an S.O. 31 and recognize special people in my riding. If I could do an S.O. 31, what I would do is thank the constituents who elected me in September. I am very honoured that they would choose me to represent them here in the House. To the people of Nipissing—Timiskaming, if I could do an S.O. 31 I would tell them “thank you”. I would then thank all the volunteers who were there, who showed up every day and who helped on a regular basis. If I could do an S.O. 31, I would say “thank you” to all the volunteers.</ParaText>
+              <ParaText id="6858097">Sometimes we get to this place and we look back and wonder, “How did we get here?” I remember back in 2004 trying to get in as a candidate. I have this history of having more than one person get on by acclamation. I kind of look to them and think, “That would be great.” I had four the first time. In an S.O. 31, I would point out three people who have been there with me right from the beginning of my nomination. Peter and Barb have been there. They are great organizers and have done an amazing job. Garth, one of the elder statesmen, as I call him, in North Bay, is in his 80s now. I know he is watching, and he is going to love this. I say that I love him and I thank him very much for everything he has done. Without the three of them working together, and the whole team coming together, I am not sure I would have gotten the nomination on my own or who would be up here giving a speech right now. I want to thank them. </ParaText>
+              <ParaText id="6858098">As I said, as the Speaker I will not be able to do S.O. 31s and would not be able to deliver these messages. I want to remind members that one rule in the House is that one cannot do indirectly what one cannot do directly, so I just want to make sure we will be enforcing that in the coming months. </ParaText>
               <ParaText id="6858099">I have been told that my minute is up. I am glad somebody is watching the timer.</ParaText>
               <ParaText id="6858100">Now that we have a Speaker, it is time to get back to work.</ParaText>
               <ParaText id="6858101"> Once again I thank you. <I>Meegwetch</I>.</ParaText>
@@ -665,9 +667,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Deltell" id="11426784">
+          <Intervention Type="Interjection" ToC="No" id="11426784">
             <PersonSpeaking>
-              <Affiliation DbId="278428" Type="2">Mr. Gérard Deltell (Louis-Saint-Laurent, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278428" Type="2">Mr. Gérard Deltell</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6858145"> Mr. Speaker, at this point in the proceedings, only leaders of parties duly recognized in the House of Commons may address the House.</ParaText>
               <ParaText id="6858146">The member is not the leader of a party duly recognized in the House.</ParaText>
@@ -710,7 +712,7 @@
               </ParaText>
               <ParaText id="6858155">
                 <Quote>
-                  <QuotePara Align="Right" IndentFirst="2" IndentRest="1"> November 22, 2021</QuotePara>
+                  <QuotePara Align="Right" IndentFirst="2" IndentRest="1"> November 17, 2021</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6858156">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12281426">
-  <StartPageNumber>15733</StartPageNumber>
+  <StartPageNumber>15729</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -325,7 +325,6 @@
               <Affiliation DbId="279182" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7853602">Conformément à l'article 67.1 du Règlement, il y aura maintenant une période de questions de 30 minutes. J'invite les députés qui souhaitent poser des questions à se lever ou à activer la fonction « main levée » pour que la présidence ait une idée du nombre de députés qui désirent participer à cette période de questions.</ParaText>
-              <ParaText id="7853603">Le député de Barrie—Innisfil a la parole.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Brassard" id="12282174">
@@ -1292,6 +1291,7 @@
               <ParaText id="7853792">Cette année marque également un jalon important, car nous commémorons 70 années de relations entre le Canada et le Portugal. En guise de témoignage de notre amitié et de nos liens étroits, le Portugal a envoyé 120 pompiers portugais se joindre aux efforts de leurs homologues canadiens pour éteindre les incendies de forêt.</ParaText>
               <ParaText id="7853793">Aujourd'hui, profitons de l'occasion pour célébrer et honorer les réalisations, le riche patrimoine et l'intégration harmonieuse de la communauté luso-canadienne.</ParaText>
               <ParaText id="7853794">[<I>Le député s'exprime en portugais.</I>]</ParaText>
+              <ParaText Continuation="True" id="8020239">[<I>Traduction</I>]</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1438,7 +1438,7 @@
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Gerretsen" id="12283199">
             <PersonSpeaking>
-              <Affiliation DbId="293780" Type="18">M. Mark Gerretsen (secrétaire parlementaire du leader du gouvernement à la Chambre des communes (Sénat), Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278514" Type="2">M. Mark Gerretsen (Kingston et les Îles, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7853830">Monsieur le Président, il y a une semaine aujourd'hui, le chef de l'opposition affirmait être prêt à se servir de tous les outils procéduraux pour empêcher l'adoption du budget, dont la présentation de 900 amendements et de très longs discours. </ParaText>
               <ParaText id="7853831">Même si le discours qu'il a prononcé mercredi soir dernier a duré près de 4 heures, pendant lesquelles il a parlé de Churchill, d'Henry VIII, de son animateur de balado préféré, Jordan Peterson, de la maçonnerie du Parlement et des raisons qui expliquent pourquoi les planchers ici sont verts, le chef de l'opposition n'a pas mentionné une seule fois l'aide que le budget apportera aux Canadiens grâce à l'élargissement de l'accès aux soins dentaires, à la création du compte d'épargne libre d'impôt pour l'achat d'une première propriété et aux investissements dans l'économie propre, qui générera des milliers d'emplois pour les Canadiens. </ParaText>
@@ -1925,7 +1925,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278466" Type="2">M. Yvan Baker (Etobicoke-Centre, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7853939">Monsieur le Président, la fin de semaine dernière, alors que les Ukrainiens poursuivaient leur vaillant combat pour défendre leur liberté et la nôtre, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et la <Affiliation DbId="263835" Type="20">vice-première ministre</Affiliation> se sont rendu une nouvelle vois à Kiev pour rencontrer le président Zelenski et le premier ministre Chmyhal.</ParaText>
+              <ParaText id="7853939">Monsieur le Président, la fin de semaine dernière, alors que les Ukrainiens poursuivaient leur vaillant combat pour défendre leur liberté et la nôtre, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et la <Affiliation DbId="263835" Type="20">vice-première ministre</Affiliation> se sont rendu une nouvelle vois à Kiev pour rencontrer le président Zelensky et le premier ministre Chmyhal.</ParaText>
               <ParaText id="7853940">Depuis plus d'un an, le Canada demeure un allié indéfectible de l'Ukraine, à qui il apporte une importante aide militaire, une aide financière et du soutien pour les Ukrainiens qui fuient les zones de guerre, en plus d'avoir imposé des sanctions à la Russie et appliqué bien d'autres mesures encore. </ParaText>
               <ParaText id="7853941"> À la lumière de la visite du premier ministre, la <Affiliation DbId="278918" Type="4">ministre des Affaires étrangères</Affiliation> peut-elle présenter aux Canadiens certaines des plus récentes mesures annoncées par le gouvernement du Canada pour soutenir les Ukrainiens et obliger la Russie à répondre de ses actes? </ParaText>
             </Content>
@@ -4284,7 +4284,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12284694">
-        <SubjectOfBusinessQualifier>La justice et les droits de la personne</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Justice et droits de la personne</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Genuis" id="12284418">
             <PersonSpeaking>
@@ -4625,7 +4625,7 @@
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7854347">Conformément à l'ordre adopté le mardi 15 novembre 2022, la motion est adoptée d'office.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="19">(La motion est réputée adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="19">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4636,7 +4636,7 @@
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="12284988">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Affaire émanant du gouvernement n<Sup>o </Sup> 26 — Les modifications au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'affaire émanant du gouvernement n<Sup>o </Sup> 26 — Les modifications au Règlement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Holland" id="12284990">
             <PersonSpeaking>
@@ -6572,7 +6572,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278434" Type="2">M. Dave Epp</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7855028">Madame la Présidente, le Parti conservateur respecte les traditions de longue date de la Chambre. Nous avons même vu, au cours de la présente session parlementaire, le gouvernement faire obstruction à son propre projet de loi, le projet de loi <Document DbId="11814598" Type="3">C‑2</Document>, durant son étude en comité.</ParaText>
+              <ParaText id="7855028">Madame la Présidente, le Parti conservateur respecte les traditions de longue date de la Chambre. Nous avons même vu, au cours de la présente session parlementaire, le gouvernement faire obstruction à son propre projet de loi, le projet de loi <Document DbId="11814598" Type="3">C‑21</Document>, durant son étude en comité.</ParaText>
               <ParaText id="7855029">Je ne suis pas en mesure de répondre à la question de la députée. Le bilan de notre parti montre que nous respectons les traditions de la Chambre et que nous tentons de trouver des compromis. Nous nous sommes conformés aux traditions parlementaires centenaires du système de Westminster, qui nous ont si bien servis. Je recommande aux autres partis de suivre notre exemple.</ParaText>
             </Content>
           </Intervention>
@@ -6597,11 +6597,11 @@
               <Timestamp Hr="23" Mn="10">(2310)</Timestamp>
               <ParaText id="7855042">Il faut s'assurer de faire des réévaluations de manière assez structurée pour réviser la situation de nos interprètes en matière de santé et de sécurité.</ParaText>
               <ParaText id="7855043">Dans la motion qui nous est présentée, il n'y a aucune attention portée à ce personnel, qui nous suit chaque jour dans nos comités ou à la Chambre des communes pour s'assurer que les travaux se passent dans les deux langues officielles. Il n'y a rien comme mesure, à part le casque obligatoire qui est conforme à la norme de qualité ISO. À part cela, il n'y a aucune attention de ce côté.</ParaText>
-              <ParaText id="7855044">Bien que j'aie déjà été gênée de le dire, je ne suis plus gênée de dire que je suis unilingue francophone. Alors, les interprètes, ce sont mes oreilles. J'en ai besoin. Je pense que j'ai assez souvent des choses intéressantes à dire, et, quand je m'exprime, j'aime aussi que ceux qui sont unilingues anglophones m'entendent. Il faut qu'ils puissent être capables de m'entendre.</ParaText>
+              <ParaText id="7855044">Bien que j'aie déjà été gênée de le dire, je ne suis plus gênée de dire que je suis unilingue francophone. Alors, les interprètes, ce sont mes oreilles. J'en ai besoin. Je pense que j'ai assez souvent des choses intéressantes à dire, et, quand je m'exprime, j'aime aussi que ceux qui sont unilingues anglophones m'entendent. Il faut qu'ils puissent être capables de me comprendre.</ParaText>
               <ParaText id="7855045">On le sait et c'est documenté, la réalité du Parlement hybride a un impact plus grand chez les députés francophones, parce que c'est souvent quand les députés du Bloc québécois parlent en français ou quand un témoin parle en français qu'il y a des problèmes techniques, d'interprétation, de son ou de connectivité. Dans le fond, ce que le gouvernement est en train de nous dire, avec son manque de sensibilité relativement aux interprètes, c'est que ce serait le <I>fun</I> si tout le monde parlait en anglais et qu'il y aurait moins de problèmes. Non, les travaux doivent se faire dans les deux langues officielles.</ParaText>
               <ParaText id="7855046">Malheureusement, avec un Parlement hybride sans condition et sans encadrement, ce sont les députés francophones et nos témoins francophones qui sont les plus touchés. Je peux dire qu'il y a des témoins francophones que nous invitons qui préfèrent témoigner en anglais parce qu'ils savent qu'ils ont ainsi moins de chance de se faire interrompre, soit par des problèmes techniques ou des problèmes liés à l'interprétation.</ParaText>
               <ParaText id="7855047">J'ai écouté avec grande attention le discours de mon collègue le <Affiliation DbId="278913" Type="4">leader du gouvernement à la Chambre des communes</Affiliation> et député d'Ajax. Sincèrement, je ne l'ai pas entendu parler de cette réalité et je n'ai pas l'impression qu'il s'agit d'une réalité qui le préoccupe beaucoup, ni lui ni son gouvernement. Je dirais la même chose du NPD d'ailleurs, parce que je n'ai pas entendu cette sensibilité à la réalité des députés francophones et à la santé et la sécurité de nos interprètes.</ParaText>
-              <ParaText id="7855048">J'ai été surprise de l'entendre dire dans son discours que, avant la pandémie, il y avait de l'interprétation, et que, en personne ou en virtuel, c'est pareil. Non. Ce soir, nous parlons beaucoup d'impressions, de sentiments et de la manière dont nous nous sentons. Nous racontons un bout de notre vie personnelle. Or, je peux dire que la question des interprètes est très documentée. Un Parlement hybride nécessite beaucoup plus d'heures de travail de la part des interprètes qu'un Parlemement entièrement en présentiel. C'est documenté et ce n'est pas une impression. Il y a des données qui appuient ce fait.</ParaText>
+              <ParaText id="7855048">J'ai été surprise de l'entendre dire dans son discours que, avant la pandémie, il y avait de l'interprétation, et que, en personne ou en virtuel, c'est pareil. Non. Ce soir, nous parlons beaucoup d'impressions, de sentiments et de la manière dont nous nous sentons. Nous racontons un bout de notre vie personnelle. Or, je peux dire que la question des interprètes est très documentée. Un Parlement hybride nécessite beaucoup plus d'heures de travail de la part des interprètes qu'un Parlement entièrement en présentiel. C'est documenté et ce n'est pas une impression. Il y a des données qui appuient ce fait.</ParaText>
               <ParaText id="7855049">Ce qui m'a beaucoup surprise, c'est de voir qu'on faisait comme si ces données n'existaient pas. Je sais que le leader du gouvernement à la Chambre des communes et le <Affiliation DbId="278812" Type="7">leader à la Chambre du Nouveau Parti démocratique</Affiliation> connaissent les données puisque nous siégeons ensemble au Bureau de régie interne. Cela fait deux ans que nous parlons du problème de la qualité du son, de la difficulté à recruter des interprètes, de la pénurie d'interprètes et des blessures des interprètes. C'est quelque chose qui est très documenté. Ce soir, je n'ai pas entendu les députés du gouvernement en parler. Je n'ose pas dire qu'ils n'en ont pas parlé une seule fois, parce que j'ai peut-être manqué quelques discours, mais je ne l'ai pas entendu et je ne l'ai pas remarqué.</ParaText>
               <ParaText id="7855050">J'ai travaillé fort et avec diligence pour documenter l'utilisation du Parlement hybride. C'est rare que je fasse des affirmations qui ne sont pas appuyées par des données. Le constat, c'est que cela ne va pas super bien, le Parlement hybride. Quand j'entends dire que cela fait trois ans que cela roule, qu'on est correct et que cela va, je dis non, pas du tout. C'est complètement le contraire. Je peux dire que les données que j'ai démontrent que cela ne va pas si bien que cela.</ParaText>
               <ParaText id="7855051">Tous les jours, il y a des problèmes techniques dans les comités, tous les jours il y a des problèmes d'interprètes. On annule des comités parce qu'il manque de ressources. Le Bureau de la traduction nous a même dit qu'il ne sait pas ce qu'il va faire en septembre prochain, parce qu'il n'y a pas de solutions à la pénurie d'interprètes. Nous, à la Chambre, nous débattons ensemble de cette question. C'est beau, que nous soyons à la maison et que nous soyons près de nos enfants et de nos maris. Toutefois, le gouvernement ne parle pas beaucoup de la possibilité que les travaux ne se passent pas dans les deux langues, qu'on annule des comités et que les débats ne se fassent pas entièrement.</ParaText>
@@ -6617,7 +6617,7 @@
               <Timestamp Hr="23" Mn="20">(2320)</Timestamp>
               <ParaText id="7855060">Pour cette raison, je mets en doute la prémisse selon laquelle le gouvernement a été à l'écoute des partis de l'opposition, à l'écoute des données qui documentent le problème actuellement et à l'écoute des demandes des interprètes. Il me semble que cela ne peut pas être plus clair que ce que je viens de dire. Il y a plusieurs mesures qui ont été prises durant les dernières années. Je veux dire qu'on a travaillé fort. Personnellement, j'ai mis beaucoup d'efforts pour sensibiliser l'ensemble de mes collègues à savoir ce que nous pouvons faire, ce qui est dans notre pouvoir de faire et qui ne coûte pas cher. </ParaText>
               <ParaText id="7855061">J'ai demandé un tableau de bord pour voir comment les choses vont dans les comités. On documente les problèmes liés à l'interprétation au Parlement hybride. Depuis le 26 novembre 2020, les membres du Bureau de régie interne, dont le leader, le whip du gouvernement, le leader du NPD font partie, ont entre les mains ces données. Ils ne peuvent pas conclure que tout va bien ni que le Parlement hybride n'a pas de conséquences sur nos précieux interprètes. Depuis 2020, les députés du Bloc québécois ont mené une offensive. Ce n'est pas des farces, nous sommes obligés, au Bloc québécois, de nous entendre pour faire une offensive dans les comités pour faire modifier les motions pour affaire courante pour que chaque comité maître fasse des prétests. Cela vient de nous, du Bloc québécois. Nous avons mis en place cette initiative qui favorise la santé et la sécurité des interprètes et qui garantit, par la même occasion, la qualité de l'interprétation francophone.</ParaText>
-              <ParaText id="7855062">Les députés du Bloc ont eu la consigne. Si l'interprétation n'est pas bonne, si les interprètes signalent que le son n'est pas bon, il faut interrompre les travaux. J'ai participé à des questions de privilège et à de nombreux recours au Règlement sur la question de l'utilisation du casque d'écoute approuvé par la Chambre. Même le programme de travail d'Emploi et Développement social Canada a donné gain de cause aux interprètes du Parlement. Le Président a été obligé d'en tenir compte.</ParaText>
+              <ParaText id="7855062">Les députés du Bloc ont eu la consigne. Si l'interprétation n'est pas bonne, si les interprètes signalent que le son n'est pas bon, il faut interrompre les travaux. J'ai participé à des questions de privilège et à de nombreux recours au Règlement sur la question de l'utilisation du casque d'écoute approuvé par la Chambre. Même le Programme du travail (Labour Program) d'Emploi et Développement social Canada a donné gain de cause aux interprètes du Parlement. Le Président a été obligé d'exiger que les députés portent le casque d'écoute approuvé par la Chambre.</ParaText>
               <ParaText id="7855063">On aurait pu faire cela bien avant. Il y a un laxisme, une résistance de la part des députés à porter l'équipement requis pour toutes sortes de raisons que je ne comprends pas. Il y a encore aujourd'hui des députés qui votent dans leur auto, qui participent à des comités dans leur auto, sans l'équipement adéquat. Cela se fait encore aujourd'hui. C'est inacceptable.</ParaText>
               <ParaText id="7855064">Il y a une mesure qui me fait dire que la volonté politique n'est pas du côté du gouvernement, parce que sans règlements et sans modifications permanentes des règlements, tout ce que je dis aurait pu être mis en place par une volonté politique. La présidente du Comité permanent de la procédure et des affaires de la Chambre a pu faire régner le respect. Elle a été proactive. C'est un bel exemple. Je le mentionne souvent. Ses collègues auraient dû en être davantage inspirés. </ParaText>
               <ParaText id="7855065">Le fait qu'on manque d'interprètes a comme résultat la réduction de réunions de comités. On annule des réunions de comités où se fait le travail démocratique, où l'on améliore les projets de loi, où l'on fait des études pour documenter des problématiques. Dans le fond, c'est laissé à l'abandon. Je pense, quelque part, que cela doit faire l'affaire du gouvernement que les comités ne puissent pas siéger ou améliorer ses propres projets de loi. Peut-être qu'il préfère cela, au fond, parce qu'il y a un grand nombre de réunions de comités qui sont annulées chaque fois que le Parlement prolonge ses travaux. Juste aujourd'hui, la réunion du Comité permanent de la citoyenneté et de l'immigration a été annulée. On a aussi écourté le travail du Comité spécial sur la relation entre le Canada et la République populaire de Chine. Ce que nous vivons est grave.</ParaText>
@@ -6639,7 +6639,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278185" Type="2">Mme Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7855071">Madame la Présidente, oui, cela fait du bien de parler en français. Je pense que je suis une des premières à faire un discours entièrement en français à la Chambre. </ParaText>
+              <ParaText id="7855071">Madame la Présidente, oui, cela fait du bien de parler en français. Je pense que je suis une des premières à faire un discours entièrement en français à la Chambre ce soir. </ParaText>
               <ParaText id="7855072">Pour répondre à la question précise, l'obstruction fait partie de la joute parlementaire. Parfois, on l'utilise à mauvais escient, comme l'ont fait les conservateurs lors des derniers votes pour faire subir des représailles au gouvernement en raison de son comportement et de son arrogance. </ParaText>
               <ParaText id="7855073">C'est un jeu qui se joue à deux. Un gouvernement qui est provocant, qui est irritant, qui ne fait pas de compromis ni de négociation et qui fait fi de l'opposition s'attire des bosses, comme on le dit en bon québécois. Je ne suis pas d'accord avec le comportement des conservateurs, qui utilisent l'application de vote de manière abusive, mais je peux comprendre que, parfois, il ne reste plus aucun outil pour réagir à un gouvernement qui fait preuve d'arrogance et qui ne prend pas en considération les partis de l'opposition.</ParaText>
             </Content>
@@ -6703,7 +6703,7 @@
               <Affiliation DbId="278185" Type="2">Mme Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7855090">Madame la Présidente, effectivement, je suis très sensible à la question de la conciliation travail-famille. J'estime que quand on est malade, on prend soin de soi. Il se peut qu'un député prenne congé pour prendre soin de lui. En tant que whip, j'accepte cela. Je ne veux pas qu'un député se connecte au Parlement hybride. Je veux qu'il prenne soin de lui. Si on accompagne un membre de sa famille qui est malade, j'accepte que le député de mon caucus en prenne soin et qu'il ne se branche pas, parce qu'il faut qu'il se dédie à la personne qu'il aide. </ParaText>
-              <ParaText id="7855091">En 2010, j'étais whip adjointe, et ma mère a fait une tentative de suicide. Sincèrement, est-ce que quelqu'un pense que je voulais me connecter de manière hybride? Bien sûr que non, je voulais avoir un congé pour être entièrement dédiée au membre de ma famille.</ParaText>
+              <ParaText id="7855091">En 2010, j'étais whip adjointe, et ma mère a fait une tentative de suicide. Sincèrement, est-ce que quelqu'un pense que je voulais me connecter de manière hybride? Bien sûr que non, je voulais avoir un congé pour être entièrement dédiée aux membres de ma famille.</ParaText>
               <ParaText id="7855089">En terminant, je pense sincèrement qu'il existe plein de choses que le gouvernement pourrait faire pour démontrer sa vraie sensibilité pour la conciliation travail-famille. Entre autres, il ne devrait pas y avoir de réunions comités les vendredis. C'est lourd pour les familles. Là, avec le Parlement hybride, on est obligé d'en tenir. Il pourrait réviser les horaires du Parlement. Cela aurait vraiment un effet très concret sur la vie des familles et de ceux qui vivent plus loin de la Colline du Parlement.</ParaText>
             </Content>
           </Intervention>
@@ -6713,7 +6713,7 @@
             <Content>
               <ParaText id="7855092">Madame la Présidente, je remercie ma collègue de son discours; elle a partagé de l'information pertinente pendant ses 20 minutes.</ParaText>
               <ParaText id="7855093"> Je veux d'abord dire que la présidente du Comité permanent de la procédure et des affaires de la Chambre a fait un travail extraordinaire. Je suis allé au comité à quelques reprises, et elle m'a beaucoup impressionnée. Elle n'est pas biaisée. Elle est très ouverte à la discussion. Je voulais noter cela, également.</ParaText>
-              <ParaText id="7855094">Je veux mentionner que les choses sont faciles pour l'opposition que pour le gouvernement. Je comprends que vous n'êtes pas au gouvernement et que vous ne le serez jamais, à cause du parti que vous représentez. Je le dis en tout respect.</ParaText>
+              <ParaText id="7855094">Je veux mentionner que les choses sont plus faciles pour l'opposition que pour le gouvernement. Je comprends que vous n'êtes pas au gouvernement et que vous ne le serez jamais, à cause du parti que vous représentez. Je le dis en tout respect.</ParaText>
               <ParaText id="7855095"> Je me rappelle que, de 2015 à 2019, le député qui était là avant moi…</ParaText>
             </Content>
           </Intervention>
@@ -6867,8 +6867,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12285894" Rubric="LateShow">
-      <OrderOfBusinessTitle>
-      Motion d'ajournement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Motion d'ajournement</OrderOfBusinessTitle>
       <CatchLine>Motion d'ajournement</CatchLine>
       <SubjectOfBusiness id="12285896">
         <SubjectOfBusinessContent>

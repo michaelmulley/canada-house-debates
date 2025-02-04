@@ -806,6 +806,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12579328">
         <SubjectOfBusinessTitle>Government Business No. 34—Proceedings on Bill C-62</SubjectOfBusinessTitle>
+        <CatchLine>Government Orders</CatchLine>
         <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="8196352">The House resumed from February 12 consideration of the motion, and of the amendment.</ParaText>
@@ -3038,7 +3039,8 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12581967">
         <SubjectOfBusinessTitle>Points of Order</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier> Alleged Inadmissibility of Amendment to Motion, Government Business No. 34</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Alleged Inadmissibility of Amendment to Motion, Government Business No. 34</SubjectOfBusinessQualifier>
+        <CatchLine>Points of Order</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Scheer" id="12581669">
             <PersonSpeaking>
@@ -3563,11 +3565,9 @@
               <ParaText id="8197211">The principles we stand for concerning medical assistance in dying are equally valid in cases of mental illness. Let us not forget that the possibility of access to MAID does not mean automatic eligibility. However, when the Quebec select committee was doing its work, it made a distinction between mental disorders and neurodegenerative diseases. The commission concluded that although there was no consensus on mental disorders, there was a consensus on neurodegenerative diseases. With that in mind, the Quebec government opened the door to advance requests. Advance requests allow an individual to determine the conditions under which MAID should be administered when they have lost the capacity to consent because of their illness.</ParaText>
               <ParaText id="8197212">In its second report, the Special Joint Committee on Medical Assistance in Dying expressed its support for advance requests. All parties, except the Conservatives, who are against any form of medical assistance in dying, voted in favour of the recommendations.</ParaText>
               <ParaText id="8197213">As a final point, the federal government therefore has no reason to drag its feet or to deny Quebec's request.</ParaText>
-              <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
-              <ParaText>
-              </ParaText>
             </Content>
           </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Lamoureux" id="12582886">
             <PersonSpeaking>

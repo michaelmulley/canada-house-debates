@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12023182">
-  <StartPageNumber>11137</StartPageNumber>
+  <StartPageNumber>11135</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -106,7 +106,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12023281">
-        <SubjectOfBusinessQualifier> Les affaires étrangères</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les affaires étrangères</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Dabrusin" id="12023280">
             <PersonSpeaking>
@@ -119,7 +119,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12023299">
-        <SubjectOfBusinessQualifier> La santé</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La santé</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="12023206">
             <PersonSpeaking>
@@ -1745,7 +1745,7 @@
               <Affiliation DbId="278702" Type="2">M. Patrick Weiler (West Vancouver—Sunshine Coast—Sea to Sky Country, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7551819">Monsieur le Président, les pensionnats ont causé un tort indicible aux peuples, aux langues et aux cultures autochtones. Le fait de reconnaître ces préjudices et d'offrir un dédommagement a été un catalyseur essentiel du processus de réconciliation. </ParaText>
-              <ParaText id="7551820">Il a fallu un leadership visionnaire et convaincu pour lutter en faveur de la même justice pour les survivants et les descendants de ceux qui ont été victimes des externats. La destruction systématique de l'identité autochtone qui a eu lieu dans ces établissements n'a pas seulement touché les individus: elle a eu aussi un impact sur la nation dans son ensemble. </ParaText>
+              <ParaText id="7551820">Il a fallu un leadership visionnaire et convaincu pour lutter en faveur de la même justice pour les survivants et les descendants de ceux qui ont été victimes des externats. La destruction systématique de l'identité autochtone qui a eu lieu dans ces établissements n'a pas seulement touché les individus: elle a eu aussi un impact sur les nations dans leur ensemble. </ParaText>
               <ParaText id="7551821">Après plus d'une décennie de procédures judiciaires, un accord sans précédent a été conclu le 21 janvier pour indemniser les bandes pour le préjudice collectif subi. Un nouveau fonds a été créé pour soutenir leur guérison, leur bien-être, leur éducation, leur patrimoine et leurs langues afin de contribuer à réparer les dommages causés.</ParaText>
               <ParaText id="7551822">Je veux rendre hommage aux nombreuses personnes qui se sont battues pour cela, notamment <I>hiwus</I> Garry Feschuk de la nation shíshálh, sans qui la justice aurait été refusée. </ParaText>
               <ParaText id="7551823">
@@ -2341,7 +2341,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12025306">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. MacGregor" id="12025303">
             <PersonSpeaking>
@@ -3109,7 +3109,12 @@ La Chambre reprend l'étude, interrompue le 1<Sup>er</Sup> février, de la moti
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278491">Drouin</Affiliation>
+              <Affiliation DbId="278452">Godin</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278766">Villemure</Affiliation>
+              <Total> -- 4</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12025549">
@@ -3125,8 +3130,7 @@ La Chambre reprend l'étude, interrompue le 1<Sup>er</Sup> février, de la moti
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12025552">
         <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-       Question au Feuilleton — Décision de la présidence</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les question au Feuilleton — Décision de la présidence</SubjectOfBusinessQualifier>
         <CatchLine>Décision de la présidence</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="12025553">
@@ -3190,7 +3194,7 @@ La Chambre reprend l'étude, interrompue le 1<Sup>er</Sup> février, de la moti
       <SubjectOfBusiness id="12025703">
         <SubjectOfBusinessTitle>
       Travaux des subsides</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Motion de l'opposition — Réforme des libérations sous caution</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Motion de l'opposition — La réforme des libérations sous caution</SubjectOfBusinessQualifier>
         <CatchLine>Travaux des subsides</CatchLine>
         <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
         <SubjectOfBusinessContent>
@@ -4154,10 +4158,10 @@ La Chambre reprend l'étude, interrompue le 1<Sup>er</Sup> février, de la moti
               <ParaText id="7552463">Madame la Présidente, je suis heureux de prendre la parole pour appuyer le projet de loi de mon ami de <Affiliation DbId="278218" Type="2">Huron—Bruce</Affiliation>, le projet de loi <Document DbId="11538831" Type="4">C‑234</Document>, Loi modifiant la Loi sur la tarification de la pollution causée par les gaz à effet de serre ou, ce que nous appelons plus communément l'exemption des agriculteurs de la taxe sur le carbone.</ParaText>
               <ParaText id="7552464">J'ai pu me joindre au Comité permanent de l'agriculture alors que ce projet de loi était en cours d'examen par ce dernier. Je tiens à remercier mes collègues du comité de l'agriculture, le député néo-démocrate de <Affiliation DbId="278712" Type="2">Cowichan—Malahat—Langford</Affiliation>, le député de <Affiliation DbId="278404" Type="2">Beauce</Affiliation>, le ministre de notre cabinet fantôme, soit le député de <Affiliation DbId="278374" Type="2">Foothills</Affiliation>, la députée de <Affiliation DbId="278254" Type="2">Lambton—Kent—Middlesex</Affiliation> — et j'ai l'impression de poser ma candidature pour être le prochain président de la Chambre, mais je vous assure que ce n'est pas le cas — et une merveilleuse députée du Bloc également.</ParaText>
               <ParaText id="7552465">Je suis d'accord avec mon collègue néo-démocrate: le comité de l'agriculture travaille très bien ensemble. Certains amendements ont été acceptés par tous les membres. Je tiens à les remercier de leur contribution pour faire en sorte que ce texte soit adopté. C'est un projet de loi qui est très important pour le comité de l'agriculture et les gens du pays en entier, et de surcroît pour les gens de la Saskatchewan, de l'Alberta et de l'Ouest canadien.</ParaText>
-              <ParaText id="7552466">Nous avons parlé des conséquences de l'ajout du gaz naturel et du propane comme exemption à la loi, ainsi que de séchoirs à grains, de pompes d'irrigation et du chauffage des étables pour le bétail.</ParaText>
+              <ParaText id="7552466">Nous avons parlé des conséquences de l'ajout du gaz naturel et du propane comme exemption à la loi pour alimenter les séchoirs à grains, les pompes d'irrigation et le chauffage des étables pour le bétail.</ParaText>
               <ParaText id="7552467">Les chiffres n'ont pas été examinés aussi bien que je l'aurais souhaité. J'aimerais que soient consignés au procès-verbal certains des chiffres indiquant combien d'argent nous remettons dans les poches des agriculteurs, afin qu'ils puissent réinvestir dans leur exploitation et investir dans les nouvelles technologies, pour que leurs exploitations puissent devenir plus durables sur le plan environnemental, car c'est un objectif pour eux. Plus leurs terres sont bien entretenues, plus elles peuvent être mises en production, plus nous pouvons contribuer à résoudre la crise alimentaire mondiale.</ParaText>
               <ParaText id="7552468">Nous avons quelques chiffres de l'Agricultural Producers Association of Saskatchewan, ou APAS. Selon ses calculs, la taxe sur le carbone, à 50 $ la tonne, coûtera aux agriculteurs entre 13 000 $ et 17 000 $, ce qui équivaut à une baisse de 12 % du revenu net.</ParaText>
-              <ParaText id="7552469">Si nous tenons à ce que ce projet de loi soit adopté aussi vite que possible, c'est notamment parce que, comme on s'en souvient peut-être, les libéraux ont promis pendant la dernière campagne électorale que la taxe sur le carbone ne dépasserait jamais 50 $ la tonne. Eh bien, cette promesse a volé en éclats. D'ici 2030, la taxe sur le carbone atteindra 170 $ la tonne. Selon les estimations de l'APAS, à 170 $ la tonne, la taxe sur le carbone coûtera aux producteurs céréaliers 12,52 $ l'acre d'ici 2030, dont 4,44 $ seulement pour faire sécher le grain. On cherche donc à laisser des sommes considérables dans les poches des producteurs.</ParaText>
+              <ParaText id="7552469">Si nous tenons à ce que ce projet de loi soit adopté aussi vite que possible, c'est notamment parce que, comme les députés s'en souviennent peut-être, les libéraux ont promis pendant la dernière campagne électorale que la taxe sur le carbone ne dépasserait jamais 50 $ la tonne. Eh bien, cette promesse a volé en éclats. D'ici 2030, la taxe sur le carbone atteindra 170 $ la tonne. Selon les estimations de l'APAS, à 170 $ la tonne, la taxe sur le carbone coûtera aux producteurs céréaliers 12,52 $ l'acre d'ici 2030, dont 4,44 $ seulement pour faire sécher le grain. On cherche donc à laisser des sommes considérables dans les poches des producteurs.</ParaText>
               <ParaText id="7552470">Nous pouvons tous convenir, je crois, que cela favorisera grandement l'innovation dans le secteur agricole.</ParaText>
               <ParaText id="7552471">D'autres chiffres ont aussi été publiés. Selon les calculs de l'association des producteurs de canola, la taxe sur le carbone a coûté 52,1 millions de dollars à l'industrie en 2022 à un tarif de 50 $ la tonne, c'est-à-dire au tarif que les libéraux ont promis de ne jamais dépasser, mais nous savons tous maintenant qu'ils rompront cette promesse et qu'ils visent 170 $ la tonne en 2030, ce qui fera grimper la facture à 277,9 millions de dollars.</ParaText>
               <ParaText id="7552472">Je pense que c’est un point qui est très souvent soulevé par les producteurs agricoles. Le député du NPD a entièrement raison de dire qu’un grand nombre de producteurs, et beaucoup de groupes qui les représentent d’un bout à l’autre du pays, se sont présentés devant le comité de l’agriculture pour déclarer qu’il s’agit d’un élément très important pour leur industrie.</ParaText>
@@ -4196,7 +4200,7 @@ La Chambre reprend l'étude, interrompue le 1<Sup>er</Sup> février, de la moti
             <PersonSpeaking>
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7552488">La période réservée à l'étude des initiatives parlementaires est maintenant écoulée, et l'affaire retombe au bas de l'ordre de priorité du Feuilleton. </ParaText>
+              <ParaText id="7552488">La période réservée à l'étude des affaires émanant des députés est maintenant écoulée, et l'affaire retombe au bas de l'ordre de priorité du Feuilleton. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

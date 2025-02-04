@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12349004">
-  <StartPageNumber>17185</StartPageNumber>
+  <StartPageNumber>17179</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -372,7 +372,7 @@
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" TocText="Reprise de la séance à 11 h 16" id="2">(La séance reprend à 11 h 16)</ProceduralText>
+          <ProceduralText TocType="TCC" TocText="Reprise de la séance à 11 h 16" id="2">(La séance reprend à 11 h 16.)</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le président d'élection (L’hon. Louis Plamondon)" id="12349098">
             <PersonSpeaking>
               <Affiliation DbId="300942" Type="15">Le président d'élection (L’hon. Louis Plamondon)</Affiliation>: </PersonSpeaking>
@@ -521,7 +521,7 @@
               <ParaText id="7936408">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="7936409">
-                <B>L'hon. Pierre Poilievre:</B> Je constate que certains députés ministériels n'aiment pas entendre parler de « bon sens ». Nous pouvons comprendre pourquoi c'est le cas, mais n'est-il pas intéressant de s'arrêter sur le fait que la Chambre des communes ne se nomme pas ainsi par hasard? La sagesse, les ressources, le patrimoine et l'avenir que nous avons en commun sont déterminés par les gens qui sont élus pour siéger ici. Nous devons toujours le faire avec bon sens, avec le bon sens du bon peuple, et nous unir pour le bien commun. Ramenons le gros bon sens chez eux, chez nous et à la Chambre.</ParaText>
+                <B>L'hon. Pierre Poilievre:</B> Monsieur le Président, je constate que certains députés ministériels n'aiment pas entendre parler de « bon sens ». Nous pouvons comprendre pourquoi c'est le cas, mais n'est-il pas intéressant de s'arrêter sur le fait que la Chambre des communes ne se nomme pas ainsi par hasard? La sagesse, les ressources, le patrimoine et l'avenir que nous avons en commun sont déterminés par les gens qui sont élus pour siéger ici. Nous devons toujours le faire avec bon sens, avec le bon sens du bon peuple, et nous unir pour le bien commun. Ramenons le gros bon sens chez eux, chez nous et à la Chambre.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -593,8 +593,8 @@
         <Timestamp Hr="15" Mn="00">(1500)</Timestamp>
         <SubjectOfBusinessQualifier>Reprise de la séance</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ParaText id="7936430">L'huissier du bâton noir apporte le message suivant:</ParaText>
           <ProceduralText TocType="TCC" TocText="Reprise de la séance à 14 h 24" id="6">(La séance reprend à 14 h 24.)</ProceduralText>
+          <ParaText id="7936430">L'huissier du bâton noir apporte le message suivant:</ParaText>
           <ParaText id="7936431">
             <Quote>
               <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Monsieur le Président, c'est le plaisir de Son Excellence la gouverneure générale que cette honorable Chambre se rende immédiatement auprès d'elle dans la salle du Sénat.</QuotePara>
@@ -604,7 +604,7 @@
           <ParaText id="7936433">
             <I>Et les députés étant revenus à la Chambre des communes:</I>
           </ParaText>
-          <Intervention Type="Interjection" ToC="No" ToCText="Le Président" id="12349435">
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="12349435">
             <PersonSpeaking>
               <Affiliation DbId="300999" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
@@ -1287,7 +1287,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12351124">
-        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Deltell" id="12351123">
             <PersonSpeaking>
@@ -1315,6 +1315,11 @@
               <ParaText id="7936601">Quand je compare notre plan à celui des conservateurs, les députés peuvent avoir la certitude que nous ferons construire davantage de logements, ce qui a été confirmé par des fonctionnaires du ministère des Finances qui ont témoigné devant le comité.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12349898">
+        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Seeback" id="12351140">
             <PersonSpeaking>
               <Affiliation DbId="278504" Type="2">M. Kyle Seeback (Dufferin—Caledon, PCC)</Affiliation>: </PersonSpeaking>
@@ -2318,7 +2323,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7936886">Le député a-t-il le consentement unanime pour déposer la motion?</ParaText>
+              <ParaText id="7936886">Le député a-t-il le consentement unanime?</ParaText>
               <ParaText id="7936887">
                 <B>Des voix:</B> Non.</ParaText>
             </Content>
@@ -2335,7 +2340,7 @@
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7936889"> Cela devient un débat.</ParaText>
-              <ParaText id="7936890">Le député a-t-il le consentement unanime pour déposer la motion?</ParaText>
+              <ParaText id="7936890">Le député a-t-il le consentement unanime?</ParaText>
               <ParaText id="7936891">
                 <B>Des voix:</B> Non.</ParaText>
               <ParaText id="7936892">
@@ -2545,7 +2550,7 @@
             <Content>
               <ParaText id="7936971">À l'ordre. Il commence à y avoir un peu plus de bruit à la Chambre.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="7936972"> Il commence à y avoir de plus en plus de bruit. J'invite les députés qui ne souhaitent pas écouter le débat et qui veulent discuter à sortir de la Chambre. </ParaText>
+              <ParaText id="7936972">J'invite les députés qui ne souhaitent pas écouter le débat et qui veulent discuter à sortir de la Chambre. </ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="7936973">L'honorable député de Berthier—Maskinongé a la parole.</ParaText>
             </Content>
@@ -2594,7 +2599,7 @@
               <ParaText id="7936996">Tandis que les produits électroniques, par exemple, peuvent être récupérés par le vendeur, les produits maraîchers hautement périssables sont perdus pour une raison évidente: ils se gâtent. Ils pourrissent très rapidement, ce qui coûte en moyenne 19 millions de dollars par an aux entreprises canadiennes et américaines qui opèrent au Canada. Il y a pourtant une solution politique. En 1984, le Congrès américain a inscrit la notion de « fiducie réputée » dans la loi sur les denrées agricoles périssables pour protéger les expéditeurs en cas d'insolvabilité de l'acheteur. Cette fiducie réputée aide les fournisseurs de produits périssables à se faire payer rapidement par les acheteurs.</ParaText>
               <ParaText id="7936997">La fiducie confère aux fournisseurs des droits sur les actifs du débiteur. La création d'un cadre juridique équivalent au Canada, par l'entremise d'une loi fédérale qui définirait une « fiducie réputée » semblable, ne coûterait rien aux trésors publics fédéraux ou provinciaux, mais elle donnerait aux producteurs et aux fournisseurs canadiens les moyens de recouvrer les créances auprès de leurs clients américains, et vice-versa.</ParaText>
               <ParaText id="7936998">Mes collègues sont entrés dans les détails du projet de loi. J'aimerais adopter une approche un peu différente. Je veux exprimer un point de vue personnel et raconter un peu mon expérience dans le secteur des produits frais afin d'expliquer à la Chambre en quoi le projet de loi serait bénéfique aux producteurs et aux expéditeurs.</ParaText>
-              <ParaText id="7936999">J'ai grandi dans une ferme de fruits et de légumes. Je suis une agricultrice de troisième génération et mes grands-parents, des deux côtés de la famille, étaient essentiellement des pionniers de l'industrie des fruits et des légumes dans la région où j'ai grandi, c'est-à-dire Grand Bend, en Ontario. Les parents de mon père, mon Oma et mon Opa, ont immigré de Hollande et ont été l'une des cinq premières familles à cultiver la terre dans ce que l'on appelle le marais du Klondike. Les parents de ma mère sont partis de Pologne pour immigrer au Canada. Ils sont passés par l'Allemagne, puis ils ont vécu dans la région de Chatham, où ils ont commencé à cultiver des légumes, avant de s'installer à Grand Bend. </ParaText>
+              <ParaText id="7936999">J'ai grandi dans une ferme de fruits et de légumes. Je suis une agricultrice de troisième génération et mes grands-parents, des deux côtés de la famille, étaient essentiellement des pionniers de l'industrie des fruits et des légumes dans la région où j'ai grandi, c'est-à-dire Grand Bend, en Ontario. Les parents de mon père, mon Oma et mon Opa, ont immigré de Hollande et ont été l'une des cinq premières familles à cultiver la terre dans ce que l'on appelle le marais du Klondyke. Les parents de ma mère sont partis de Pologne pour immigrer au Canada. Ils sont passés par l'Allemagne, puis ils ont vécu dans la région de Chatham, où ils ont commencé à cultiver des légumes, avant de s'installer à Grand Bend. </ParaText>
               <ParaText id="7937000">Ils ont défriché leur terre et ont commencé à cultiver la tourbière de Grand Bend, qui était un lac peu profond et qui a été drainé pour devenir une riche terre agricole. Au fil des ans, ils ont cultivé des pommes de terre, des oignons, des carottes et de la laitue. Finalement, les parents de mon père ont pris leur retraite, et l'exploitation familiale créée par mes grands-parents, qui regroupe aujourd'hui deux familles, a repris la culture de certains légumes que cultivaient ma grand-mère et mon grand-père. Les agriculteurs sont des innovateurs. J'aimerais donner un exemple tiré de mon expérience personnelle.</ParaText>
               <ParaText id="7937001">Tout au long de ma jeunesse, pendant la période des récoltes, mon père se rendait dans les champs et creusait à la main pour vérifier le stade de croissance des pommes de terre. Les agriculteurs peuvent automatiser de nombreuses tâches, mais pas celle-là. Encore aujourd'hui, ils suivent la méthode traditionnelle. Ils plongent les mains dans la terre et déterrent ces petits trésors. Après en avoir vérifié la taille, mon père rapportait ces petits trésors à la maison, et nous ne les gaspillions jamais. Nous les faisions cuire et les mangions au souper. Je peux avouer à tous qu'elles étaient absolument délicieuses.</ParaText>
               <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
@@ -2668,12 +2673,8 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12351967" Rubric="LateShow">
-      <OrderOfBusinessTitle>Motion d'ajournement
-
-</OrderOfBusinessTitle>
-      <CatchLine>Motion d'ajournement
-
-</CatchLine>
+      <OrderOfBusinessTitle>Motion d'ajournement</OrderOfBusinessTitle>
+      <CatchLine>Motion d'ajournement</CatchLine>
       <SubjectOfBusiness id="12351968">
         <SubjectOfBusinessContent>
           <ParaText id="7937025">L'ajournement de la Chambre est proposé d'office conformément à l'article 38 du Règlement.</ParaText>

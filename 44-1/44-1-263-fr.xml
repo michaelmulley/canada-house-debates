@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12492629">
-  <StartPageNumber>19537</StartPageNumber>
+  <StartPageNumber>19527</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -78,8 +78,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12492648">
-        <SubjectOfBusinessTitle>
-       	Joyeuses Fêtes</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>De joyeuses Fêtes</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mme Rood" id="12492649">
             <PersonSpeaking>
@@ -339,7 +338,7 @@
       <SubjectOfBusiness id="12492715">
         <Timestamp Hr="14" Mn="25">(1425)</Timestamp>
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Poilievre" id="12492714">
             <PersonSpeaking>
@@ -482,7 +481,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12492755">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La violence fondée sur le sexe</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La violence fondée sur le genre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Mathyssen" id="12492752">
             <PersonSpeaking>
@@ -503,7 +502,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12492929">
-        <SubjectOfBusinessTitle>Les affaires autochtones</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Idlout" id="12492759">
             <PersonSpeaking>
@@ -843,7 +842,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12492932">
         <SubjectOfBusinessTitle>
-      La violence faite aux femmes</SubjectOfBusinessTitle>
+      La violence fondée sur le genre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Sgro" id="12492931">
             <PersonSpeaking>
@@ -1144,7 +1143,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12493029">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Les affaires autochtones</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La protection civile</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mme Ashton" id="12493027">
             <PersonSpeaking>
@@ -1240,7 +1239,7 @@
               <ParaText id="8090952">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="8090953">
-                <B>L’hon. Pierre Poilievre:</B> Oh, c'est ce qu'ils souhaitent. C'est une vraie honte.</ParaText>
+                <B>L’hon. Pierre Poilievre:</B> Monsieur le Président, oh, c'est ce qu'ils souhaitent. C'est une vraie honte.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3714,7 +3713,8 @@
             <PersonSpeaking>
               <Affiliation DbId="278307" Type="2">L’hon. Bardish Chagger (Waterloo, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8091052">J'ai l'honneur de présenter, dans les deux langues officielles, le 32<Sup>e</Sup> rapport du Comité permanent de la procédure et des affaires de la Chambre. Le Comité signale ce qui suit.</ParaText>
+              <ProceduralText TocType="TPC" id="15">Motion d'adoption</ProceduralText>
+              <ParaText id="8091052">Madame la Présidente, j'ai l'honneur de présenter, dans les deux langues officielles, le 32<Sup>e</Sup> rapport du Comité permanent de la procédure et des affaires de la Chambre. Le Comité signale ce qui suit.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="8091053"> Conformément à l'article 91.1(2) du Règlement, le Sous-comité des affaires émanant des députés s'est réuni pour examiner l'affaire inscrite à l'ordre de priorité le jeudi 9 novembre 2023, et il a recommandé que cette affaire ne soit pas désignée non votable et qu'elle soit examinée par la Chambre.</ParaText>
             </Content>
@@ -3725,6 +3725,7 @@
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8091054">Conformément à l'article 91.1(2) du Règlement, le rapport est réputé adopté.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="16">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3736,7 +3737,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278131" Type="2">Mme Lena Metlege Diab (Halifax-Ouest, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8091055">J'ai l'honneur de présenter, dans les deux langues officielles, deux rapports du Comité permanent de la justice et des droits de la personne.</ParaText>
+              <ParaText id="8091055">Madame la Présidente, j'ai l'honneur de présenter, dans les deux langues officielles, deux rapports du Comité permanent de la justice et des droits de la personne.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="8091056">Le premier est le 17<Sup>e</Sup> rapport du Comité permanent de la justice et des droits de la personne, qui porte sur le projet de loi <Document DbId="12177676" Type="4">C‑321</Document>, la Loi modifiant le Code criminel relativement aux voies de fait contre un professionnel de la santé ou un premier répondant. Le comité a étudié le projet de loi et a convenu d'en faire rapport à la Chambre avec des propositions d'amendement.</ParaText>
               <ParaText id="8091057">Le deuxième est le 18<Sup>e</Sup> rapport du Comité permanent de la justice et des droits de la personne, qui porte sur une motion adoptée par le Comité le mardi 5 décembre 2023. Il s'intitule « Mesures pour protéger les Canadiens ».</ParaText>
@@ -3977,6 +3978,16 @@
               <ParaText id="8091110">De plus, madame la Présidente, si les réponses du gouvernement aux questions n<Sup>os</Sup> 1848, 1851 à 1853, 1856, 1857 et 1859 pouvaient être transformées en ordres de dépôt de documents, les documents seraient déposés immédiatement.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="12493798">
+            <PersonSpeaking>
+              <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8091125">D'accord?</ParaText>
+              <ParaText id="8091126">
+                <B>Des voix: </B>D'accord.</ParaText>
+            </Content>
+          </Intervention>
           <FloorLanguage language="Text">[<I>Texte</I>]</FloorLanguage>
           <WrittenQuestionResponse>
             <QuestionID>Question n<Sup>o</Sup> 1848 — </QuestionID>
@@ -4062,16 +4073,6 @@
               <ParaText id="8091124">(Le document est déposé.)</ParaText>
             </ResponseContent>
           </WrittenQuestionResponse>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="12493798">
-            <PersonSpeaking>
-              <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="8091125">Est-on d'accord?</ParaText>
-              <ParaText id="8091126">
-                <B>Des voix: </B>D'accord.</ParaText>
-            </Content>
-          </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" id="12493799">
             <PersonSpeaking>
@@ -4142,13 +4143,17 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="12180903" Rubric="Other">
+      <OrderOfBusinessTitle>Ordre du jour</OrderOfBusinessTitle>
+      <CatchLine>Privilège</CatchLine>
       <SubjectOfBusiness id="12494155">
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Le renvoi au Comité permanent de la procédure et des affaires de la Chambre</SubjectOfBusinessQualifier>
-        <CatchLine>Privilège</CatchLine>
-        <ProceduralText TocType="TPC" id="15">Motion</ProceduralText>
+        <ProceduralText TocType="TPC" id="17">Motion</ProceduralText>
         <SubjectOfBusinessContent>
-          <ParaText id="8091138">La Chambre reprend l'étude, interrompue le 5 décembre, de la motion, telle que modifiée.</ParaText>
+          <ParaText id="8091138">La Chambre reprend l'étude de la motion.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Calkins" id="12493848">
             <PersonSpeaking>
               <Affiliation DbId="278568" Type="2">M. Blaine Calkins (Red Deer—Lacombe, PCC)</Affiliation>: </PersonSpeaking>
@@ -4236,7 +4241,7 @@
               <Affiliation DbId="278460" Type="2">M. Pat Kelly (Calgary Rocky Ridge, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8091168">Madame la Présidente, c'est habituellement avec grand plaisir que je prends la parole à la Chambre, cette vénérable enceinte où les Canadiens envoient les gens qu'ils élisent pour s'exprimer et voter sur des questions de politique nationale. Or, ce débat ne me réjouit absolument pas.</ParaText>
-              <ParaText id="8091169">C'est une situation très malheureuse qui nous amène à débattre de cette question. Nous sommes au beau milieu de la deuxième crise de confiance de l'automne à l’endroit du Président. Moins de trois mois se sont écoulés depuis la démission de l'ancien Président, ce que personne ici n'a vu de son vivant, à la suite de l'incident que tout le monde connaît: le Président a rendu hommage à une personne à la tribune qui s'est révélée par la suite être un membre de la Waffen-SS nazie, et ce, en présence du président ukrainien, M. Zelenski.</ParaText>
+              <ParaText id="8091169">C'est une situation très malheureuse qui nous amène à débattre de cette question. Nous sommes au beau milieu de la deuxième crise de confiance de l'automne à l’endroit du Président. Moins de trois mois se sont écoulés depuis la démission de l'ancien Président, ce que personne ici n'a vu de son vivant, à la suite de l'incident que tout le monde connaît: le Président a rendu hommage à une personne à la tribune qui s'est révélée par la suite être un membre de la Waffen-SS nazie, et ce, en présence du président ukrainien, M. Zelensky.</ParaText>
               <ParaText id="8091170">Cet ancien Président a été abandonné par le Cabinet du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, qui avait manqué à sa responsabilité fondamentale d'assurer l'intégrité de la réputation du Canada. Le fait est que le Président a ensuite compris que ce fiasco était suffisamment grave pour rendre sa position intenable. Par conséquent, il a fait le bon choix, qui était d'ailleurs le seul choix possible dans les circonstances, c'est-à-dire démissionner.</ParaText>
               <ParaText id="8091171">Voici qu'un peu plus de deux mois plus tard, nous sommes aux prises avec une autre crise de confiance à l'endroit du Président. Les faits sont assez bien connus. Le Président a décidé d'utiliser son poste de Président de la Chambre des communes afin de participer à un événement politique. Il est apparu dans son bureau, vêtu de la toge du Président, dans une vidéo destinée à rendre hommage à un législateur provincial élu en exercice dans le cadre d'un congrès libéral. </ParaText>
               <ParaText id="8091172">Après son élection, lors de son discours d'acceptation, le Président a dit à la Chambre que les symboles comptent. C'est le cas. Lorsque le Président se présente à la télévision dans sa toge, depuis son bureau, dans le cadre d'un congrès politique, il y a toute une symbolique en jeu. Les symboles de son poste sont conçus de manière à transmettre une neutralité politique absolue, ce qui est impossible lorsque, arborant ces symboles, il apparaît à un congrès libéral, un événement partisan, afin de rendre hommage à un titulaire d'une charge élu. C'est une erreur de jugement qui remet totalement en question l'apparence de neutralité. </ParaText>
@@ -4747,7 +4752,7 @@
                 <B>Des voix:</B> D'accord. </ParaText>
               <ParaText id="8091347">
                 <B>La vice-présidente adjointe (Mme Alexandra Mendès):</B> Je déclare la motion modifiée adoptée et renvoyée au Comité permanent de la procédure et des affaires de la Chambre.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion modifiée" id="16">(La motion modifiée est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="18">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12495178">

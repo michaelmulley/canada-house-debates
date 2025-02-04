@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11964184">
-  <StartPageNumber>10209</StartPageNumber>
+  <StartPageNumber>10205</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -62,7 +62,7 @@
       <CatchLine>Déclarations de députés</CatchLine>
       <SubjectOfBusiness id="11964196">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La violence fondée sur le sexe</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La violence fondée sur le genre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Sorbara" id="11964197">
             <PersonSpeaking>
@@ -135,9 +135,9 @@
             <PersonSpeaking>
               <Affiliation DbId="278621" Type="2">M. Irek Kusmierczyk (Windsor—Tecumseh, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7469016">Monsieur le Président, la Société des Timbres de Pâques de l'Ontario a été fondée il y a 100 ans dans ma ville, Windsor, grâce à la vision des clubs Rotary, notamment le club Rotary de Windsor (1918).</ParaText>
-              <ParaText id="7469017">La Société des Timbres de Pâques est devenue un organisme national qui soutient d'innombrables enfants handicapés grâce à des programmes, des camps et du financement pour de l'équipement de mobilité. Qui plus est, l'organisme est un champion résolu à bâtir un Canada plus inclusif et exempt d'obstacles. En novembre, la Société des Timbres de Pâques a célébré son centenaire en organisant des événements, comme le 40<Sup>e</Sup> téléthon annuel des Timbres de Pâques de Windsor-Essex, qui a recueilli la somme incroyable de 235 000 $.</ParaText>
-              <ParaText id="7469018">Samedi, nous célébrerons la Journée internationale des personnes handicapées. J'invite les députés à se joindre à moi pour célébrer le 100<Sup>e</Sup> anniversaire de la Société des Timbres de Pâques de l'Ontario et pour saluer les bénévoles remarquables, chez nous et partout au Canada, qui bâtissent un Canada plus inclusif et ainsi meilleur.</ParaText>
+              <ParaText id="7469016">Monsieur le Président, la Société des timbres de Pâques de l'Ontario a été fondée il y a 100 ans dans ma ville, Windsor, grâce à la vision des clubs Rotary, notamment le club Rotary de Windsor (1918).</ParaText>
+              <ParaText id="7469017">La Société des timbres de Pâques est devenue un organisme national qui soutient d'innombrables enfants handicapés grâce à des programmes, des camps et du financement pour de l'équipement de mobilité. Qui plus est, l'organisme est un champion résolu à bâtir un Canada plus inclusif et exempt d'obstacles. En novembre, la Société des timbres de Pâques a célébré son centenaire en organisant des événements, comme le 40<Sup>e</Sup> téléthon annuel des Timbres de Pâques de Windsor-Essex, qui a recueilli la somme incroyable de 235 000 $.</ParaText>
+              <ParaText id="7469018">Samedi, nous célébrerons la Journée internationale des personnes handicapées. J'invite les députés à se joindre à moi pour célébrer le 100<Sup>e</Sup> anniversaire de la Société des timbres de Pâques de l'Ontario et pour saluer les bénévoles remarquables, chez nous et partout au Canada, qui bâtissent un Canada plus inclusif et ainsi meilleur.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1546,7 +1546,16 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 8</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11964641">
@@ -1914,7 +1923,16 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278564">Caputo</Affiliation>
+              <Affiliation DbId="278529">Joly</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278544">Lametti</Affiliation>
+              <Affiliation DbId="278559">Martinez Ferrada</Affiliation>
+              <Affiliation DbId="278513">Muys</Affiliation>
+              <Affiliation DbId="278262">Schmale</Affiliation>
+              <Affiliation DbId="278655">Sinclair-Desgagné</Affiliation>
+              <Total> -- 8</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11964680">
@@ -1934,13 +1952,19 @@
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469259">Je désire informer la Chambre qu'en raison du vote par appel nominal différé, l'étude des ordres émanant du gouvernement sera prolongée de 25 minutes.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7469260">L'honorable député de Louis-Saint-Laurent invoque le Règlement.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11964688">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11964320">
+        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Les propos de la ministre du Revenu national</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11964688" ToCText="M. Deltell">
             <PersonSpeaking>
-              <Affiliation DbId="278428" Type="2">M. Gérard Deltell</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278428" Type="2">M. Gérard Deltell (Louis-Saint-Laurent, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469261">Monsieur le Président, le mardi 3 mai dernier, lors de la période des questions orales, à la suite d'une question du député de <Affiliation DbId="278532" Type="2">Northumberland—Peterborough-Sud</Affiliation>, la <Affiliation DbId="214329" Type="4">ministre du Revenu national</Affiliation> a affirmé ce qui suit: « Monsieur le Président, je peux bien comprendre en cette Semaine de la santé mentale à quel point c'est tordu de l'autre côté de la Chambre et qu'ils ne comprennent pas ce qu'on veut dire. »</ParaText>
               <ParaText id="7469262">Devant un tel propos établissant un parallèle entre les problèmes de santé mentale et l'argument d'un député de l'opposition, la présidence s'est levée et a affirmé ceci: « Il serait peut‑être acceptable que la ministre formule ses propos autrement. Elle devrait peut-être s'excuser pour cette dernière déclaration. C'était un peu incendiaire. » Reprenant la parole, la ministre a affirmé: « Monsieur le Président, je m'excuse. »</ParaText>
@@ -1975,9 +1999,9 @@
               <ParaText id="7469273">L'honorable députée de Salaberry—Suroît a la parole.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11964713">
+          <Intervention Type="Debate" ToC="Yes" id="11964713" ToCText="Mme DeBellefeuille">
             <PersonSpeaking>
-              <Affiliation DbId="278185" Type="2">Mme Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278185" Type="2">Mme Claude DeBellefeuille (Salaberry—Suroît, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469274">Monsieur le Président, si mon collègue de la banquette d'à côté n'en avait pas parlé, je n'aurais pas pris la parole pour me joindre à son recours au Règlement. Moi aussi, j'ai été touchée et je me suis sentie insultée, et même méprisée par les propos de ma collègue.</ParaText>
               <ParaText id="7469275">Je pense que mes collègues le savent, je suis une travailleuse sociale et je suis membre de mon ordre professionnel. Je trouve aussi que c'est une insulte à la profession que de poser un jugement clinique sans évaluation sur des collègues qu'on ne connaît pas. Même si on a 25 ans d'expérience dans le domaine de la santé mentale, cela ne veut pas dire qu'on est un expert capable de poser un jugement clinique sur l'ensemble de ses collègues de l'opposition.</ParaText>
@@ -2070,8 +2094,7 @@
         <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Pétitions</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-      La responsabilité sociale des entreprises</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La responsabilité sociale des entreprises</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Naqvi" id="11964733">
             <PersonSpeaking>
@@ -2125,7 +2148,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11964809">
-        <SubjectOfBusinessQualifier>Les droits de la personne</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La discrimination fondée sur la croyance politique</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Genuis" id="11964816">
             <PersonSpeaking>
@@ -2237,8 +2260,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11964912">
-        <SubjectOfBusinessQualifier>
-      L'Afghanistan</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>L'Afghanistan</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Genuis" id="11964907">
             <PersonSpeaking>
@@ -2507,7 +2529,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278478" Type="2">M. Gary Vidal (Desnethé—Missinippi—Rivière Churchill, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7469399">Madame la Présidente, les travaux du comité se sont déroulés de façon très collaborative, et je l'apprécie. </ParaText>
+              <ParaText id="7469399">Monsieur le Président, les travaux du comité se sont déroulés de façon très collaborative, et je l'apprécie. </ParaText>
               <ParaText id="7469400">Le député a parlé à quelques reprises de l'amendement qui a été proposé afin que ce soit le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> et non le <Affiliation DbId="278922" Type="4">ministre</Affiliation> qui réponde au rapport annuel, comme l'indiquait le libellé d'origine de la mesure législative. Le comité a accepté cet amendement. </ParaText>
               <ParaText id="7469401">Je me demande si le député sait pourquoi cette exigence n'avait pas été incluse dans la mesure législative en premier lieu, car cela répond précisément à l'appel à l'action n<Sup>o</Sup> 56 de la Commission de vérité et réconciliation. </ParaText>
             </Content>
@@ -2762,7 +2784,7 @@
               <ParaText id="7469497">Il faut être conscients que tout ceci va bien au-delà des gens dans cette pièce. Ce fut merveilleux de voir le pape au Canada. Cette visite faisait suite à un appel à l'action. Oui, le gouvernement fédéral et les députés de l'opposition ont peut-être joué un rôle, mais il ne fait aucun doute que ce sont les Autochtones qui, au bout du compte, sont parvenus à convaincre le pape de venir ici, de faire ce qui est juste et de présenter des excuses officielles. Le mérite ne revient pas au gouvernement fédéral ou aux provinces. Ce sont les communautés autochtones qui ont collaboré avec le pape, qui a fait ce qui s'imposait. C'est ainsi que cet appel à l'action a été réglé. </ParaText>
               <ParaText id="7469498">Il s'agit des gens dans nos collectivités, comme Diane Redsky, la directrice générale de Ma Mawi Wi Chi Itata, qui prend sa retraite après avoir dirigé cet organisme pendant de nombreuses années. Ma Mawi Wi Chi Itata est sur le terrain auprès des Autochtones pour s'occuper des questions des soins de santé, des problèmes sociaux et des problèmes de justice. Je souhaite à Mme Redsky la meilleure des chances.</ParaText>
               <ParaText id="7469499">Au bout du compte, il s'agit des communautés, des organismes comme Ma Mawi et bien d'autres, et des dirigeants autochtones. Ce sont eux qui, espérons-le, pourront faire en sorte que nous continuions à rendre des comptes. Cette tâche reviendra en grande partie au conseil national de réconciliation, que nous créons aujourd'hui.</ParaText>
-              <ParaText id="7469500">Je n'ai pas assez de temps pour parler de toutes les choses sur lesquelles j'aimerais attirer l'attention, mais je peux me pencher sur quelques autres aux députés.</ParaText>
+              <ParaText id="7469500">Je n'ai pas assez de temps pour parler de toutes les choses sur lesquelles j'aimerais attirer l'attention des députés, mais je peux me pencher sur quelques autres.</ParaText>
               <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
               <ParaText id="7469501">Je me réjouis de la décision d'instaurer un jour férié et de ce qui en a découlé. Dans ma ville, à Winnipeg, beaucoup de gens s'étaient rassemblés la première année pour une marche de La Fourche jusqu'au parc St. John's. Cette année, la marche s'est déroulée de La Fourche jusqu'au centre des congrès. Des milliers de Winnipegois et de Manitobains et probablement aussi de nombreuses personnes de l'extérieur ont participé à la marche pour souligner l'importance d'avancer vers la réconciliation.</ParaText>
               <ParaText id="7469502">Selon moi, c'est l'essence même du but à atteindre. Le concept de la vérité et de la réconciliation n'est pas seulement pour les politiciens de cette enceinte, de l'Assemblée législative du Manitoba ou de toute autre assemblée. J'oserais même dire que ce n'est pas seulement pour les dirigeants autochtones. C'est pour tout le monde. C'est l'une des raisons pour lesquelles je pense que les mesures législatives que nous adoptons pour avancer vers la vérité et la réconciliation peuvent nous faire grandir tous et améliorer notre pays. En effet, la population est mieux sensibilisée et elle donne du crédit à la vérité.</ParaText>
@@ -2842,7 +2864,7 @@
               <ParaText id="7469527">
                 <B>M. Mark Gerretsen:</B> Ce n'est pas un fait. C'est un mensonge.</ParaText>
               <ParaText id="7469528">
-                <B>M. Gord Johns:</B> D'ailleurs, je viens d'entendre une annonce. Il y a quelques bonnes nouvelles.</ParaText>
+                <B>M. Gord Johns:</B> Monsieur le Président, d'ailleurs, je viens d'entendre une annonce. Il y a quelques bonnes nouvelles.</ParaText>
               <ParaText id="7469529">Ce député est-il en train de me dire que les Nuu-chah-nulth mentent...</ParaText>
             </Content>
           </Intervention>
@@ -3126,8 +3148,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11965742" Rubric="PrivateMembersBusiness">
-      <OrderOfBusinessTitle>
-      Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="11965743">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3518,7 +3539,7 @@
               <Affiliation DbId="279225" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7469793">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à 10 heures, conformément à l'article 24(1) du Règlement.</ParaText>
-              <ParaText id="7469794">(La séance est levée à 19 h 08.)</ParaText>
+              <ParaText id="7469794">(La séance est levée à 19 h 8.)</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

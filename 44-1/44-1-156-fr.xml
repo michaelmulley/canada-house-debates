@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12042417">
-  <StartPageNumber>11407</StartPageNumber>
+  <StartPageNumber>11405</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -1240,7 +1240,35 @@
               <ParaText id="7564275">Nous ne ménagerons pas les efforts tant que nous n'aurons pas protégé le rêve de l'accession à la propriété.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12042448">
+        <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
+        <SubjectOfBusinessTitle>Présence à la tribune</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="11827207">
+            <PersonSpeaking>
+              <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="7566124">Je voudrais signaler aux députés la présence à notre tribune du Président de la Chambre des représentants du peuple de la République fédérale démocratique d'Éthiopie, l'honorable Ato Tagesse Chaffo Dullo.</ParaText>
+              <ParaText id="7566125">
+                <B>Des voix:</B> Bravo!</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12042766">
+        <SubjectOfBusinessTitle>Les séismes en Turquie et en Syrie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="11827639">
+            <PersonSpeaking>
+              <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="7566126">À la suite de discussions entre les représentants de tous les partis à la Chambre, je crois comprendre qu'il y a consentement pour observer un moment de silence à la mémoire des victimes des tremblements de terre survenus en Turquie et en Syrie.</ParaText>
+              <ParaText id="7566127">J'invite maintenant les députés à se lever.</ParaText>
+              <ParaText id="7566128">[<I>La Chambre observe un moment de silence.</I>]</ParaText>
+            </Content>
+          </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12042763">
             <PersonSpeaking>
@@ -1269,8 +1297,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12042773" Rubric="Divisions">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Travaux des subsides</CatchLine>
       <SubjectOfBusiness id="12042774">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1624,7 +1651,14 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278383">Housefather</Affiliation>
+              <Affiliation DbId="278450">Kmiec</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Total> -- 6</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12042796">
@@ -1994,7 +2028,14 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278383">Housefather</Affiliation>
+              <Affiliation DbId="278450">Kmiec</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Total> -- 6</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12042845">
@@ -2360,7 +2401,14 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278383">Housefather</Affiliation>
+              <Affiliation DbId="278450">Kmiec</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Total> -- 6</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le président" id="12043026">
@@ -2724,7 +2772,14 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278383">Housefather</Affiliation>
+              <Affiliation DbId="278450">Kmiec</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Total> -- 6</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12043000">
@@ -2741,7 +2796,7 @@
       <SubjectOfBusiness id="12043005">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>La protection contre l'obstruction: les difficultés techniques liées aux services d'interprétation</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les difficultés techniques liées aux services d'interprétation</SubjectOfBusinessQualifier>
         <CatchLine>Privilège</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Scheer" id="12043007">
@@ -2793,7 +2848,7 @@
               <Affiliation DbId="278386" Type="2">M. Luc Berthold (Mégantic—L'Érable, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7564314">Monsieur le Président, je souhaite aussi intervenir sur cette question de privilège, parce que je considère également qu'il y a eu atteinte à mes privilèges de parlementaire lors de la réunion du caucus ce matin. Mes collègues francophones du caucus conservateur et moi-même n'avons malheureusement pas eu accès à l'interprétation durant cette réunion.</ParaText>
-              <ParaText id="7564315">On sait comment cela se déroule présentement sur la Colline. Mme Linda Ballantyne, présidente de la section canadienne de l'Association internationale des interprètes de conférence, a déclaré, en octobre dernier, au Comité permanent de la procédure et des affaires de la Chambre:</ParaText>
+              <ParaText id="7564315">On sait comment cela se déroule présentement sur la Colline. Mme Linda Ballantyne, présidente de la section canadienne de l'Association internationale des interprètes de conférence, a déclaré, en octobre dernier, au Comité permanent de la procédure et des affaires de la Chambre. Je dois lire sa déclaration en anglais puisqu'elle a parlé en anglais et les mots sont vraiment justes en anglais:</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7564316">
                 <Quote>
@@ -2950,8 +3005,6 @@
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7564389">D’accord?</ParaText>
-              <ParaText id="7564390">
-                <B>Des voix:</B> D’accord</ParaText>
               <ParaText id="7564391">
                 <B>Des voix:</B> Non.</ParaText>
               <ParaText id="7564392">
@@ -3132,11 +3185,11 @@
       <SubjectOfBusiness id="12043751">
         <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La Loi sur la modernisation de l'examen des investissements relativement à la sécurité nationale</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Loi sur la modernisation de l'examen des investissements relativement à la sécurité nationale</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7564415">
-         La Chambre reprend l'étude, interrompue le 6 février, de la motion portant que le projet de loi <Document DbId="12130509" Type="3">C‑34, Loi modifiant la Loi sur Investissement Canada</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="13">Projet de loi C‑34. Deuxième lecture</ProceduralText>
+         La Chambre reprend l'étude, interrompue le 6 février, de la motion portant que le projet de loi <Document DbId="12130509" Type="3">C-34, Loi modifiant la Loi sur Investissement Canada</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
+          <ProceduralText TocType="TPC" id="13">Projet de loi C-34. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="12043407">
             <PersonSpeaking>
               <Affiliation DbId="293762" Type="18">M. Kevin Lamoureux (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
@@ -3148,7 +3201,7 @@
             <PersonSpeaking>
               <Affiliation DbId="293780" Type="18">M. Mark Gerretsen (secrétaire parlementaire du leader du gouvernement à la Chambre des communes (Sénat), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7564417">Tout d'abord, madame la Présidente, je veux profiter de l'occasion pour souhaiter la bienvenue à Duncan Vendetti sur la Colline du Parlement aujourd'hui. Duncan est un élève de 6<Sup>e</Sup> année de l'école Our Lady of Lourdes à Kingston. Il ne fait aucun doute — retenez-bien ce que je dis — qu'il siégera un jour à la Chambre. Je suis sûr qu'il sera de ce côté-ci de l'allée. La bonne nouvelle pour mes collègues conservateurs est qu'ils s'entendront sans doute beaucoup mieux avec Duncan qu'avec moi.</ParaText>
+              <ParaText id="7564417">Tout d'abord, madame la Présidente, je veux profiter de l'occasion pour souhaiter la bienvenue à Duncan Venditti sur la Colline du Parlement aujourd'hui. Duncan est un élève de 6<Sup>e</Sup> année de l'école Our Lady of Lourdes à Kingston. Il ne fait aucun doute — retenez-bien ce que je dis — qu'il siégera un jour à la Chambre. Je suis sûr qu'il sera de ce côté-ci de l'allée. La bonne nouvelle pour mes collègues conservateurs est qu'ils s'entendront sans doute beaucoup mieux avec Duncan qu'avec moi.</ParaText>
               <ParaText id="7564418"> En ce qui concerne l'usine de fabrication de batteries, il s'agit d'un excellent exemple de l'utilité de la mesure législative pour permettre au ministre d'établir des relations avec des acteurs de l'industrie et les convaincre de venir au Canada, tout comme il l'a fait en amenant au pays le projet Umicore, qui verra naître la plus grande usine de fabrication de batteries pour véhicules électriques en Amérique du Nord, tout près de ma circonscription, dans celle d'<Affiliation DbId="278689" Type="2">Hastings—Lennox and Addington</Affiliation>.</ParaText>
             </Content>
           </Intervention>
@@ -3463,14 +3516,6 @@
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mme Hughes" id="12044165">
-            <PersonSpeaking>
-              <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7564540">Je demande à l'honorable député de Rimouski-Neigette—Témiscouata—Les Basques de répondre à la question brièvement, car nous devons passer à une autre question.</ParaText>
-              <ParaText id="7564541">L'honorable député a la parole.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12044167">
             <PersonSpeaking>
               <Affiliation DbId="278273" Type="2">M. Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
@@ -4079,7 +4124,7 @@
               <ParaText id="7564774">
                 <B>M. Brian Masse:</B> Vous essayez de parler en leur nom. </ParaText>
               <ParaText id="7564775">
-                <B>M. Kevin Lamoureux:</B> Il dit qu'il parle en leur nom.</ParaText>
+                <B>M. Kevin Lamoureux:</B> Madame la Présidente, il dit qu'il parle en leur nom.</ParaText>
               <ParaText id="7564776">
                 <B>M. Brian Masse:</B> Non, j'ai dit que vous tentez de parler en leur nom.</ParaText>
               <ParaText id="7564777">
@@ -4209,7 +4254,7 @@
               <ParaText id="7564844">Imaginons un modèle innovant propre à Windsor, où les communautés autochtones et les groupes écologistes assureraient de concert la conception et l'intendance du parc urbain national Ojibway. Imaginons un processus qui permette à d'autres groupes communautaires de s'exprimer sur l'aménagement de ce parc. Puisque c'est le Mois de l'histoire des Noirs, nous souhaitons entendre des représentants du musée de la liberté d'Amherstburg ou de la Black Historical Research Society du comté d'Essex, afin de faire le lien entre ce parc et l'histoire du chemin de fer clandestin.</ParaText>
               <ParaText id="7564845">Une fois de plus, je tiens à saluer le travail de mon collègue le député de <Affiliation DbId="278412" Type="2">Windsor‑Ouest</Affiliation> qui, depuis des années, milite avec ferveur pour la création de ce parc. On ne saurait trop insister sur sa contribution dans ce dossier.</ParaText>
               <ParaText id="7564846">Toutefois, le projet de loi <Document DbId="11547876" Type="4">C‑248</Document> ne prévoit pas de consultations communautaires, il ne respecte pas notre obligation de consulter les Premières Nations et il entraîne une duplication de processus, ce qui pourrait compromettre les progrès réalisés et les partenariats déjà établis par Parcs Canada.</ParaText>
-              <ParaText id="7564847">Voici mes principales préoccupations au sujet du projet de loi <Document DbId="11547876" Type="4">C‑248</Document>:</ParaText>
+              <ParaText id="7564847">Voici mes principales préoccupations au sujet du projet de loi <Document DbId="11547876" Type="4">C‑248</Document>...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="M. d'Entremont" id="12044912">
@@ -4223,7 +4268,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12044930" Rubric="LateShow">
-      <OrderOfBusinessTitle> Motion d'ajournement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Motion d'ajournement</OrderOfBusinessTitle>
       <CatchLine>Motion d'ajournement</CatchLine>
       <SubjectOfBusiness id="12044931">
         <SubjectOfBusinessContent>
@@ -4420,7 +4465,7 @@ L'ajournement de la Chambre est proposé d'office conformément à l'article 38
               <Affiliation DbId="293765" Type="18">M. Vance Badawey</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7564926">Monsieur le Président, il s'agit d'une question très sérieuse. </ParaText>
-              <ParaText id="7564927">Personne ne voudrait qu'un aîné de sa famille soit obligé de parcourir de longues distances pour obtenir des soins médicaux adéquats. Le gouvernement est conscient du problème. Il sait que cela cause du stress et du tort aux familles et aux communautés inuites et c'est pourquoi il travaille fort pour améliorer les soins de santé au Nunavut. Nous travaillons sans relâche avec les partenaires autochtones et avec les autorités territoriales afin de développer des soins de santé adaptés à la culture qui répondront aux besoins de la communauté. <ForceColumnBreak /></ParaText>
+              <ParaText id="7564927">Personne ne voudrait qu'un aîné de sa famille soit obligé de parcourir de longues distances pour obtenir des soins médicaux adéquats. Le gouvernement est conscient du problème. Il sait que cela cause du stress et du tort aux familles et aux communautés inuites et c'est pourquoi il travaille fort pour améliorer les soins de santé au Nunavut. Nous travaillons sans relâche avec les partenaires autochtones et avec les autorités territoriales afin de développer des soins de santé adaptés à la culture qui répondront aux besoins de la communauté.<ForceColumnBreak /></ParaText>
               <ParaText id="7564928">Nous avons soutenu les besoins du système de santé au Nunavut et dans les autres territoires pendant et après la pandémie et nous allons continuer de soutenir les gouvernements des territoires et la population du Nunavut afin que sa santé et son bien-être demeurent des priorités. </ParaText>
             </Content>
           </Intervention>

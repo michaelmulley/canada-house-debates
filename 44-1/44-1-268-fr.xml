@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12519703">
-  <StartPageNumber>20065</StartPageNumber>
+  <StartPageNumber>20055</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -170,10 +170,13 @@
               <Affiliation DbId="278514" Type="2">M. Mark Gerretsen (Kingston et les Îles, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
+              <ProceduralText TocType="TPC" id="1">Présentation</ProceduralText>
               <ParaText id="8122844"> demande à présenter la Loi instituant une journée nationale pour célébrer la contribution des Canadiennes à la science, à la technologie, à l’ingénierie et aux mathématiques.</ParaText>
               <ParaText id="8122845">— Monsieur le Président, c’est un honneur pour moi de présenter un projet de loi d’initiative parlementaire intitulé « Loi instituant une journée nationale pour célébrer la contribution des Canadiennes à la science, à la technologie, à l’ingénierie et aux mathématiques ».</ParaText>
-              <ParaText id="8122846">Pendant que j’ai la parole, je propose:</ParaText>
-              <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="2">(La motion est réputée adoptée.)</ProceduralText>
+              <ParaText id="8122846">
+                <B>M. Mark Gerretsen:</B> Monsieur le Président, pendant que j’ai la parole, je propose:</ParaText>
+              <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
               <ParaText id="8122847">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que la Chambre passe maintenant à l’ordre du jour.</QuotePara>
@@ -550,7 +553,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="2">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="4">Adoption de la motion</ProceduralText>
               <ParaText id="8122852">Je déclare la motion adoptée.</ParaText>
             </Content>
           </Intervention>
@@ -604,7 +607,7 @@
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TCC" TocText="Projet de loi C-58. L'ordre du jour: Reprise du débat:" id="3">(Projet de loi C-58. L’ordre du jour appelle: Reprise du débat:)</ProceduralText>
+          <ProceduralText TocType="TCC" TocText="Projet de loi C-58. L'ordre du jour: Reprise du débat:" id="5">(Projet de loi C-58. L’ordre du jour appelle: Reprise du débat:)</ProceduralText>
           <ParaText id="8122862">
             <Quote>
               <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> Le 27 novembre 2023 — Reprise de l’étude de la motion de M. O’Regan (ministre du Travail et des Aînés), appuyé par Mme Ng (ministre de la Promotion des exportations, du Commerce international et du Développement économique) — Que le projet de loi C-58, Loi modifiant le Code canadien du travail et le Règlement de 2012 sur le Conseil canadien des relations industrielles, soit maintenant lu une deuxième fois et renvoyé au Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées.</QuotePara>
@@ -887,8 +890,7 @@
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>
        Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-      Le projet de loi C‑59 — Proposition d'appliquer l'article 69.1 du Règlement</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le projet de loi C‑59 — Proposition d'appliquer l'article 69.1 du Règlement</SubjectOfBusinessQualifier>
         <CatchLine>Recours au Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="12520319">
@@ -897,7 +899,7 @@
             <Content>
               <ParaText id="8122957">Monsieur le Président, si la Chambre veut bien avoir la patience de me le permettre, j'invoque le Règlement. C'est en réponse à l'application de l'article 69.1 du Règlement au projet de loi <Document DbId="12739107" Type="3">C‑59</Document>, mieux connu sous le nom d'énoncé économique de l'automne.</ParaText>
               <ParaText id="8122958">Je prends la parole pour répondre au recours au Règlement soulevé le 12 décembre 2023 concernant l’application de l’article 69.1 du Règlement aux dispositions du projet de loi <Document DbId="12739107" Type="3">C‑59</Document> qui ont été annoncées dans l’énoncé économique de l’automne, mais qui ne figurent pas dans le budget de 2023.</ParaText>
-              <ParaText id="8122959">Permettez-moi de citer l'article en question, qui se lit comme suit:</ParaText>
+              <ParaText id="8122959">Permettez-moi de citer l'article en question, libellé comme suit:</ParaText>
               <ParaText id="8122960">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> (1) Lorsqu’un projet de loi émanant du gouvernement vise à modifier, à abroger ou à édicter plus d’une loi dans les cas où le projet de loi n’a aucun fil directeur ou porte sur des sujets qui n’ont rien en commun les uns avec les autres, le Président peut diviser les questions, aux fins du vote, sur toute motion tendant à la deuxième lecture et au renvoi à un comité et à la troisième lecture et l’adoption du projet de loi. Le Président peut combiner des articles du projet de loi thématiquement et mettre aux voix les questions susmentionnées sur chacun de ces groupes d’articles séparément, pourvu qu’un seul débat soit tenu pour chaque étape.</QuotePara>
@@ -985,7 +987,7 @@
         <SubjectOfBusinessTitle> Le Code canadien du travail</SubjectOfBusinessTitle>
         <CatchLine>Ordres émanant du gouvernement</CatchLine>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="4">Projet de loi C‑58. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Projet de loi C‑58. Deuxième lecture</ProceduralText>
           <ParaText id="8122992">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="12692679" Type="3">C‑58, Loi modifiant le Code canadien du travail et le Règlement de 2012 sur le Conseil canadien des relations industrielles</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Blaney" id="12520504">
             <PersonSpeaking>
@@ -1010,7 +1012,7 @@
               <ParaText id="8123008">Autrement dit, chaque fois que des travailleurs sont remplacés, les employeurs peuvent continuer comme si de rien n’était, sans tenir compte des questions de sécurité et du montant des indemnités versées. Toutes ces questions deviennent difficiles à régler, mais ce projet de loi va changer les choses.</ParaText>
               <ParaText id="8123009">Je tiens à remercier la présidente du Congrès du travail du Canada, Bea Bruske, qui a dit: « Nous avons vu les entreprises réaliser des profits records pendant des années alors que les salaires accusaient beaucoup de retard. Les travailleurs exigent à juste titre des salaires plus équitables, des normes de sécurité plus élevées et le respect de leur employeur . » Elle a ajouté: «  Si nous interdisons une fois pour toutes le recours aux briseurs de grève, nous ferons des progrès réels dans la réduction des conflits de travail, la prévention des arrêts de travail et l’instauration d’une économie plus équilibrée, et nous accroîtrons les avantages et le respect que les travailleurs méritent. »</ParaText>
               <ParaText id="8123010">Les travailleurs doivent être mieux reconnus au pays, et nous devons leur accorder le pouvoir dont ils ont besoin et qu’ils devraient avoir. Ce que nous voulons à la Chambre, c’est une plus grande cohésion afin de pouvoir soutenir ces travailleurs. On sait que lorsque les employeurs ont recours à des briseurs de grève, les conflits durent souvent six fois plus longtemps que sans ce recours. Pour moi, cela suffit amplement. Nous devons corriger la situation. </ParaText>
-              <ParaText id="8123011">Encore et encore, les libéraux et les conservateurs ont appuyé des projets de loi de retour au travail. Il est absolument temps de mettre fin à cette tendance. Or, nous réussirons en mettant en oeuvre cette mesure.</ParaText>
+              <ParaText id="8123011">Encore et encore, les libéraux et les conservateurs ont appuyé des projets de loi de retour au travail. Il est absolument temps de mettre fin à cette tendance. Or, nous réussirons en mettant en œuvre cette mesure.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
@@ -1122,7 +1124,7 @@
               <ParaText id="8123039">Une fois de plus, nous constatons que nous ne pouvons tout simplement pas nous fier aux promesses des néo-démocrates. Nous ne pouvons tout simplement pas nous fier à ce qu’ils disent vouloir accomplir. Dans cet accord de coalition, les libéraux ont soit mené certaines des pires négociations que nous ayons jamais vues, soit acceptés de simplement jouer le jeu en entretenant cette idée ténue de pouvoir ou de sécurité, car ils craignent peut-être d’affronter l’électorat du pays.</ParaText>
               <ParaText id="8123040">La députée a prouvé la justesse de mon argument sur la colère des néo-démocrates à ce sujet. Ils semblent en colère contre tout ce que font les libéraux, mais ils continuent de les soutenir. La situation dans laquelle nous nous trouvons le montre on ne peut mieux. Nous débattons d’un projet de loi sur les travailleurs de remplacement. Or, les néo-démocrates soutiennent le gouvernement qui fait venir des milliers de travailleurs de remplacement étrangers pour travailler sur des projets subventionnés par le gouvernement. Des dizaines de milliards de dollars sont dépensés pour subventionner des usines de production de batteries.</ParaText>
               <ParaText id="8123041">Je me permets d'ouvrir une brève parenthèse. Je suis pleinement convaincu que le secteur de l'énergie au Canada recèle un énorme potentiel économique, aussi bien pour les formes traditionnelles d’énergie que pour les nouvelles technologies propres. Ce que je trouve absolument tragique, c’est que les libéraux, dans leur idéologie, sont tellement aveuglés par l’idée d'être aux commandes qu’ils refusent de laisser notre économie prospérer. Ils refusent à mes électeurs de prospérer.</ParaText>
-              <ParaText id="8123042">Je suis fier que ma région soit au cœur de l’industrie énergétique du Canada. Pour tout dire, 87 % du pétrole brut canadien transitent par un village appelé Hardisty, dans ma circonscription. Les députés des partis de gauche en auraient peut-être honte. Or, lorsqu’il est question de l’énergie qui alimente notre pays , qui peut alimenter le monde et qui fournit non seulement des emplois bien rémunérés aux personnes que je représente, mais aussi les revenus et les recettes fiscales qui financent une grande partie de ce dont les Canadiens en sont venus à dépendre, ce qui me fait complètement honte, c'est que les libéraux et les néo-démocrates aient abandonné ces Canadiens qui travaillent dur dans leur quête d'un fantasme idéologique qui n’en vaut tout simplement pas le coût.</ParaText>
+              <ParaText id="8123042">Je suis fier que ma région soit au cœur de l’industrie énergétique du Canada. Pour tout dire, 87 % du pétrole brut canadien transitent par un village appelé Hardisty, dans ma circonscription. Les députés des partis de gauche en auraient peut-être honte. Or, lorsqu’il est question de l’énergie qui alimente notre pays, qui peut alimenter le monde et qui fournit non seulement des emplois bien rémunérés aux personnes que je représente, mais aussi les revenus et les recettes fiscales qui financent une grande partie de ce dont les Canadiens en sont venus à dépendre, ce qui me fait complètement honte, c'est que les libéraux et les néo-démocrates aient abandonné ces Canadiens qui travaillent dur dans leur quête d'un fantasme idéologique qui n’en vaut tout simplement pas le coût.</ParaText>
               <ParaText id="8123043">Revenons aux travailleurs de remplacement étrangers. À l'heure actuelle, les libéraux ne ratent pas une occasion de se vanter des accords qu’ils ont signés. Cependant, ce qui est très troublant, c’est qu’alors qu’ils se vantent publiquement de ces accords, ils refusent de nous dire en quoi ils consistent.</ParaText>
               <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
               <ParaText id="8123044">Ils parlent du nombre d’emplois qu’ils créent, mais la mésinformation, la désinformation et les renseignements contradictoires que véhiculent les libéraux donnent en comparaison l'impression que les affirmations mathématiques du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, pour qui les budgets s’équilibrent d’eux-mêmes, tiennent du génie. Par rapport aux différentes estimations que nous avons vues sur le nombre de personnes que l'on fait venir au Canada, aux frais des contribuables canadiens, et les sommes envoyées à des travailleurs qui ne viennent pas de notre pays, l'écart est abyssal.</ParaText>
@@ -1289,7 +1291,7 @@
               <Affiliation DbId="300663" Type="18">M. Chris Bittle (secrétaire parlementaire du ministre du Logement, de l’Infrastructure et des Collectivités, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8123082">Madame la Présidente, il y a eu consultations entre les partis et vous constaterez qu’il y a consentement unanime à l’égard de la motion suivante:</ParaText>
-              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Motion</ProceduralText>
               <ParaText id="8123083">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant tout article du Règlement ou usage habituel de la Chambre, durant le débat conformément à l’article 66 du Règlement relatif à la motion n<Sup>o</Sup> 44 portant adoption du premier rapport du Comité permanent de l’agriculture et de l’agroalimentaire, la présidence ne reçoive ni demande de quorum, ni motion dilatoire, ni demande de consentement unanime et, à la fin de la période prévue pour le débat ou lorsqu’aucun député ne se lève pour prendre la parole, selon la première éventualité, toute question nécessaire pour disposer de la motion soit réputée mise aux voix et qu’un vote par appel nominal soit réputé demandé et différé conformément à l’article 66 du Règlement.</QuotePara>
@@ -1305,7 +1307,7 @@
               <ParaText id="8123084">Que tous ceux qui s'opposent à ce que l'honorable secrétaire parlementaire propose la motion veuillent bien dire non.</ParaText>
               <ParaText id="8123085">Le consentement est accordé.</ParaText>
               <ParaText id="8123086">La Chambre a entendu l'énoncé de la motion. Que tous ceux qui s'opposent à la motion veuillent bien dire non.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="6">(La motion est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="8">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1313,7 +1315,7 @@
       <SubjectOfBusiness id="12521053">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="7">Projet de loi C‑58. Deuxième lecture</ProceduralText>
+        <ProceduralText TocType="TPC" id="9">Projet de loi C‑58. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="8123087">	
 La Chambre reprend l’étude de la motion portant que le projet de loi <Document DbId="12692679" Type="3">C‑58, Loi modifiant le Code canadien du travail et le Règlement de 2012 sur le Conseil canadien des relations industrielles</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
@@ -2201,7 +2203,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12521318">
-        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La taxe sur le carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Thomas" id="12521319">
             <PersonSpeaking>
@@ -2916,7 +2918,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12522116">
         <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
-        <SubjectOfBusinessTitle>Les changements climatiques</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le changement climatique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Bachrach" id="12521543">
             <PersonSpeaking>
@@ -2937,7 +2939,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12521552">
-        <SubjectOfBusinessTitle>Les affaires autochtones</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le logement</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Carr" id="12521549">
             <PersonSpeaking>
@@ -3178,7 +3180,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12522078">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les finances</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Gourde" id="12521614">
             <PersonSpeaking>
@@ -3403,7 +3405,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
               <ParaText id="8123611">Que tous ceux qui s'opposent à ce que l'honorable député propose la motion veuillent bien dire non.</ParaText>
               <ParaText id="8123612">C'est d'accord.</ParaText>
               <ParaText id="8123613">La Chambre a entendu l'énoncé de la motion. Que tous ceux qui s'opposent à la motion veuillent bien dire non.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="8">(La motion est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="10">(La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12521668">
@@ -3515,7 +3517,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
       <SubjectOfBusiness id="12521782">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="9">Projet de loi C‑58. Deuxième lecture</ProceduralText>
+        <ProceduralText TocType="TPC" id="11">Projet de loi C‑58. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="8123643">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="12692679" Type="3">C‑58, Loi modifiant le Code canadien du travail et le Règlement de 2012 sur le Conseil canadien des relations industrielles</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gill" id="12521697">
@@ -3601,7 +3603,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
               <Affiliation DbId="278188" Type="2">Mme Marilène Gill</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8123675">Madame la Présidente, je dois fouiller dans mes notes. J'ai toujours un foisonnement d'idées. Bien entendu, je suis d'accord avec mon collègue d'Abitibi—Témiscamingue sur la question des mois. Cela ne tient pas la route.</ParaText>
-              <ParaText id="8123676">On est prêt. On l'est depuis 50 ans, fort probablement. On vote pour le projet de loi et on y va. S'il y a des questions à poser, par exemple au sujet de ce délai de 18 mois, cela pourra se faire lorsque le projet de loi sera étudié en comité. Cela pourrait être mis en oeuvre rapidement. Je ne pense pas que ce soit complexe à ce point. Nous avons souvent vu le gouvernement agir très rapidement lorsqu'il en avait la volonté. Je pense que c'est une question de volonté, et pas une question de possibilité.</ParaText>
+              <ParaText id="8123676">On est prêt. On l'est depuis 50 ans, fort probablement. On vote pour le projet de loi et on y va. S'il y a des questions à poser, par exemple au sujet de ce délai de 18 mois, cela pourra se faire lorsque le projet de loi sera étudié en comité. Cela pourrait être mis en œuvre rapidement. Je ne pense pas que ce soit complexe à ce point. Nous avons souvent vu le gouvernement agir très rapidement lorsqu'il en avait la volonté. Je pense que c'est une question de volonté, et pas une question de possibilité.</ParaText>
               <ParaText id="8123677">Par ailleurs, je ne pourrais pas dire quel est mon huitième point. Nous pourrons en discuter plus tard, étant donné qu'il ne me reste plus de temps. Bref, nous sommes prêts à voter. </ParaText>
             </Content>
           </Intervention>
@@ -3694,7 +3696,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
             <PersonSpeaking>
               <Affiliation DbId="300676" Type="18">M. Terry Sheehan</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8123712">Je souhaite un joyeux Noël à tous mes concitoyens.</ParaText>
+              <ParaText id="8123712">Madame la Présidente, je souhaite un joyeux Noël à tous mes concitoyens.</ParaText>
               <ParaText id="8123713">Ces deux mesures législatives ont rendu très difficile l’activité des syndicats. Elles ont compliqué l’accréditation de leurs membres, facilité la révocation de leur accréditation et a constitué une tentative pour les noyer dans la paperasserie. J’ai été heureux de me présenter sous cette bannière et de me présenter de nouveau lorsque nous avons inscrit dans notre programme une mesure législative favorable aux syndicats et aux travailleurs. C’est une promesse faite et tenue.</ParaText>
             </Content>
           </Intervention>
@@ -3802,7 +3804,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
         <SubjectOfBusinessTitle>Le Code canadien du travail</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="8123744">La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="12692679" Type="3">C‑58, Loi modifiant le Code canadien du travail et le Règlement de 2012 sur le Conseil canadien des relations industrielles</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="10">Projet de loi C‑58. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="12">Projet de loi C‑58. Deuxième lecture</ProceduralText>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Lamoureux" id="12521931">
             <PersonSpeaking>
               <Affiliation DbId="300691" Type="18">M. Kevin Lamoureux (secrétaire parlementaire de la leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
@@ -4423,7 +4425,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
         <SubjectOfBusinessTitle>Loi sur l'interdiction de l'exportation par voie aérienne de chevaux destinés à l'abattage</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="8123958">La Chambre reprend l'étude, interrompue le 20 novembre, de la motion portant que le projet de loi <Document DbId="12566934" Type="4">C‑355, Loi visant à interdire l’exportation par voie aérienne de chevaux destinés à l’abattage et apportant des modifications connexes à certaines lois</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="11">Projet de loi C‑355. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="13">Projet de loi C‑355. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Mazier" id="12522421">
             <PersonSpeaking>
               <Affiliation DbId="278380" Type="2">M. Dan Mazier (Dauphin—Swan River—Neepawa, PCC)</Affiliation>: </PersonSpeaking>
@@ -4582,7 +4584,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
               <Affiliation DbId="279178" Type="92">La vice-présidente adjointe (Mme Carol Hughes)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8124049">Conformément à l’article 93 du Règlement, le vote par appel nominal est différé jusqu’au mercredi 31 janvier 2024, à la fin de la période prévue pour les questions orales.</ParaText>
-              <ProceduralText TocType="TPC" id="12">Report du vote sur la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4599,7 +4601,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
         <SubjectOfBusinessContent>
           <ParaText id="8124050">
          La Chambre reprend l'étude, interrompue le 29 novembre, de la motion.</ParaText>
-          <ProceduralText TocType="TPC" id="13">
+          <ProceduralText TocType="TPC" id="15">
          Motion d'adoption</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Barrett" id="12522511">
             <PersonSpeaking>
@@ -4775,7 +4777,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
               <Affiliation DbId="278460" Type="2">M. Pat Kelly (Calgary Rocky Ridge, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8124115">Madame la Présidente, je suis heureux de prendre la parole. Je ne parlerai pas longuement du rapport.</ParaText>
-              <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="16">Amendement</ProceduralText>
               <ParaText id="8124116">Je propose:</ParaText>
               <ParaText id="8124117">
                 <Quote>
@@ -4795,7 +4797,7 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
             <Content>
               <ParaText id="8124119">L'amendement est recevable.</ParaText>
               <ParaText id="8124120"> Comme aucun autre député ne souhaite intervenir, conformément à l'ordre adopté plus tôt aujourd'hui, toutes les questions nécessaires pour disposer de la motion sont réputées mises aux voix et les votes par appel nominal sont réputés demandés.</ParaText>
-              <ProceduralText TocType="TPC" id="15"> Demande et report d'office des votes</ProceduralText>
+              <ProceduralText TocType="TPC" id="17"> Demande et report d'office des votes</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="8124121">Conformément à l'article 66 du Règlement, les votes par appel nominal sont différés jusqu'au mercredi 31 janvier 2024 à la fin de la période prévue pour les questions orales.</ParaText>
             </Content>
@@ -4804,12 +4806,8 @@ La Chambre reprend l’étude de la motion portant que le projet de loi <Docume
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12522662" Rubric="LateShow">
-      <OrderOfBusinessTitle>Motion d'ajournement
-
-</OrderOfBusinessTitle>
-      <CatchLine>Motion d'ajournement
-
-</CatchLine>
+      <OrderOfBusinessTitle>Motion d'ajournement</OrderOfBusinessTitle>
+      <CatchLine>Motion d'ajournement</CatchLine>
       <SubjectOfBusiness id="12522664">
         <SubjectOfBusinessContent>
           <ParaText id="8124122">L'ajournement de la Chambre est proposé d'office conformément à l'article 38 du Règlement.</ParaText>

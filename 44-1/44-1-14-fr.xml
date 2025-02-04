@@ -39,19 +39,27 @@
     <Intro>
       <ParaText id="6875157">La séance est ouverte à 10 heures.</ParaText>
       <Prayer>Prière</Prayer>
-      <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
-      <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-      <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11452356">
-        <PersonSpeaking>
-          <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-        <Content>
-          <ParaText id="6875158">Conformément à l'ordre adopté le jeudi 25 novembre 2021, je dois informer la Chambre que nous utiliserons le système de vote électronique à compter d'aujourd'hui.</ParaText>
-          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <ParaText id="6875159">En conséquence, à partir d'aujourd'hui et jusqu'au 23 juin 2022, les députés votant à distance utiliseront le système de vote électronique.</ParaText>
-          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-          <ParaText id="6875160">Je rappelle aux députés que les ambassadeurs des TI sont disponibles pour les aider à confirmer qu'ils ont bien accès au système.</ParaText>
-        </Content>
-      </Intervention>
+    </Intro>
+    <OrderOfBusiness id="11453879" Rubric="Other">
+      <OrderOfBusinessTitle>Affaires courantes</OrderOfBusinessTitle>
+      <CatchLine>Affaires courantes</CatchLine>
+      <SubjectOfBusiness>
+        <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
+        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11452356">
+            <PersonSpeaking>
+              <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6875158">Conformément à l'ordre adopté le jeudi 25 novembre 2021, je dois informer la Chambre que nous utiliserons le système de vote électronique à compter d'aujourd'hui.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="6875159">En conséquence, à partir d'aujourd'hui et jusqu'au 23 juin 2022, les députés votant à distance utiliseront le système de vote électronique.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="6875160">Je rappelle aux députés que les ambassadeurs des TI sont disponibles pour les aider à confirmer qu'ils ont bien accès au système.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
       <SubjectOfBusiness id="11452409">
         <SubjectOfBusinessTitle>Le commissaire à la protection de la vie privée</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
@@ -140,6 +148,7 @@
               <ParaText id="6875176">Je constate, comme les députés le constatent peut-être, que nous avons récemment été saisis d'un projet de loi semblable émanant du gouvernement, le projet de loi <Document DbId="11482450" Type="3">C‑5</Document>, qui vise également à éliminer des peines minimales obligatoires. Toutefois, plutôt que de supprimer toutes les peines qui ont été jugées contraires à la Charte par les tribunaux du Canada, le projet de loi C‑5 n'en supprime que quelques-unes. </ParaText>
               <ParaText id="6875177">J'étais la députée élue pour représenter les habitants de Saanich—Gulf Islands lorsque les peines minimales obligatoires ont été augmentées. M. Harper était premier ministre durant cette législature. C'est à cette époque que l'on s'est mis à étudier de manière approfondie les données sur les peines minimales obligatoires. Il est devenu évident qu'aucun criminologue dans le monde entier ni aucun gouvernement n'ont conclu que le recours aux peines minimales obligatoires réduit véritablement la criminalité ou s'attaque à ses causes. Cependant, elles ont pour effet d'augmenter le nombre de personnes incarcérées, ce qui accroît le fardeau financier des provinces. </ParaText>
               <ParaText id="6875178">Je suis très honorée de présenter le projet de loi ce matin et j'espère qu'il recevra l'approbation des députés.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="4">(Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -228,7 +237,7 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </Intro>
+    </OrderOfBusiness>
     <OrderOfBusiness id="11452426" Rubric="Other">
       <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Travaux des subsides</CatchLine>
@@ -243,7 +252,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6875199"> propose:</ParaText>
-              <ProceduralText TocType="TPC" id="4">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="5">Motion</ProceduralText>
               <ParaText id="6875200">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, étant donné que,</QuotePara>
@@ -459,7 +468,7 @@
               <ParaText id="6875276">L'honorable député de <Affiliation DbId="278509" Type="2">Durham</Affiliation> et les autres collègues de l'autre côté de la Chambre aiment parler d'un impôt sur les gains en capital sur les résidences principales des Canadiens. D'emblée, je tiens à préciser qu'ils sont les seuls à en parler. Ils en parlent depuis des mois, même après que nous avons dit clairement, à maintes reprises, que notre gouvernement ne lèvera pas un tel impôt. Cela n'arrivera tout simplement pas.</ParaText>
               <ParaText id="6875277">Les Canadiens peuvent voir clairement à travers un narratif politique partisan sans fondement. Notre approche en matière de logement est visionnaire et vise à réparer un manque flagrant d'investissements par le Parti conservateur qui a laissé un lourd passé d'inaction. </ParaText>
               <ParaText id="6875278">Nous avons confirmé dans le discours du Trône que notre gouvernement veut continuer d'investir pour rendre les logements plus abordables. Le nouveau fonds pour accélérer la construction de logements et les autres engagements énoncés dans le discours du Trône ne sont que les mesures les plus récentes parmi une série de mesures que notre gouvernement a prises pour soutenir l'abordabilité du logement depuis 2015. </ParaText>
-              <ParaText id="6875279">En fait, les investissements da le logement abordable sont au cœur des efforts de notre gouvernement pour bâtir des collectivités diversifiées et inclusives qui renforcent notre économie et soutiennent notre prospérité. </ParaText>
+              <ParaText id="6875279">En fait, les investissements dans le logement abordable sont au cœur des efforts de notre gouvernement pour bâtir des collectivités diversifiées et inclusives qui renforcent notre économie et soutiennent notre prospérité. </ParaText>
               <ParaText id="6875280">Plus tôt cette année, la <Affiliation DbId="263831" Type="4">ministre des Finances</Affiliation> a déposé le cinquième budget consécutif dans lequel notre gouvernement reconnaît l'importance du logement pour les Canadiens. Nous proposons des investissements concrets pour améliorer les résultats en matière de logement pour la population canadienne. Nous faisons ces investissements parce que nous croyons que tout le monde mérite un foyer. </ParaText>
               <ParaText id="6875281">Quand j'étais très jeune, je me rappelle que ma mère a cherché un logement pendant longtemps. Nous nous sommes retrouvés au troisième étage dans un tout petit logement de quatre pièces et demie avec mon frère handicapé en fauteuil roulant dans un appartement non adapté aux besoins. Je pense à Mohammed, je pense à Johanne et je pense à tous ces gens, même dans ma circonscription, qui cherchent un logement. Il faut des logements stables et abordables qui offrent non seulement un refuge en période d'incertitude comme celle qu'on vit en ce moment depuis deux ans, mais qui donne à chaque Canadien et Canadienne la chance de réussir, à chaque enfant le bon départ dans la vie qu'il mérite et à chaque famille la possibilité de prospérer. </ParaText>
               <ParaText id="6875282">Le logement est un moteur clé de l'activité économique et contribue à créer des emplois bien rémunérés pour la classe moyenne. La construction et la réparation des maisons permettent plus d'emplois pour un grand nombre de travailleurs qualifiés partout au pays. Les investissements dans le logement augmentent également la demande des produits et services offerts au Canada, générant des retombées importantes dans les collectivités. </ParaText>
@@ -524,7 +533,7 @@
             <Content>
               <ParaText id="6875315">Madame la Présidente, je remercie mon proche voisin de sa question. En effet, il n'y a pas de fleuve entre nous deux. Je le félicite aussi pour le travail qu'il fait dans sa circonscription.</ParaText>
               <ParaText id="6875316"> Mon collègue et moi comprenons que la crise du logement qui sévit à Montréal et la hausse des prix des logements se font ressentir partout. Je suis tout comme lui préoccupée par les gens de ma circonscription qui cherchent des solutions.</ParaText>
-              <ParaText id="6875317">J'aimerais tout de même lui rappeler que c'est notre gouvernement qui a mis en placela Stratégie nationale sur le logement, soit la toute première stratégie sur le logement. Le gouvernement libéral a fait des investissements historiques en logement et j'en suis très fière.</ParaText>
+              <ParaText id="6875317">J'aimerais tout de même lui rappeler que c'est notre gouvernement qui a mis en place la Stratégie nationale sur le logement, soit la toute première stratégie sur le logement. Le gouvernement libéral a fait des investissements historiques en logement et j'en suis très fière.</ParaText>
               <ParaText id="6875318">J'ai bien hâte de travailler avec mon collègue sur les dossiers et les projets de logement dans nos circonscriptions respectives.</ParaText>
             </Content>
           </Intervention>
@@ -564,8 +573,8 @@
             <PersonSpeaking>
               <Affiliation DbId="279302" Type="18">Mme Soraya Martinez Ferrada</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6875328">Madame la Présidente, je remercie mon collègue de sa question. Cela me permet de rappeler que c'est le gouvernement conservateur s'est retiré de tous les partenariats en matière de logement, délaissant le dossier du logement dans son ensemble.</ParaText>
-              <ParaText id="6875329"> Aujourd'hui, les fonds que nous avons mis en place, dont le Fonds national de coinvestissement pour le logement, vont nous permettre de créer sur plusieurs années au moins 60 000 nouveaux logements et d'investir près de 13 milliards de dollars sur 10 ans. Grâce à ces investissements historiques, je suis convaincue que nous allons avoir des résultats concrets chaque année pour tous les Canadiens et les Canadiens partout au pays.</ParaText>
+              <ParaText id="6875328">Madame la Présidente, je remercie mon collègue de sa question. Cela me permet de rappeler que c'est le gouvernement conservateur qui s'est retiré de tous les partenariats en matière de logement, délaissant le dossier du logement dans son ensemble.</ParaText>
+              <ParaText id="6875329"> Aujourd'hui, les fonds que nous avons mis en place, dont le Fonds national de coinvestissement pour le logement, vont nous permettre de créer sur plusieurs années au moins 60 000 nouveaux logements et d'investir près de 13 milliards de dollars sur 10 ans. Grâce à ces investissements historiques, je suis convaincue que nous allons avoir des résultats concrets chaque année pour tous les Canadiens et les Canadiennes partout au pays.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Pauzé" id="11452504">
@@ -620,7 +629,7 @@
               <ParaText id="6875342">Nous en sommes là aujourd'hui. Six mois plus tard, nous allons parler de logement. Je me rappelle avoir fait un discours sur le logement en juin dernier. Malheureusement, la situation n'a pas changé; elle est même pire.</ParaText>
               <ParaText id="6875343">Ce n'est pas la moindre des contradictions; il faut que je la souligne, parce que cela n'a aucun bon sens. On vient de tenir une élection totalement inutile. On a perdu beaucoup de temps et d'énergie, mais surtout d'argent. On vient de dépenser 600 millions de dollars pour une élection qui a mené aux mêmes résultats qu'avant. Sait-on combien de logements sociaux on aurait pu construire avec 600 millions de dollars? On aurait pu aider 3 000 personnes, comme des femmes qui sont victimes de violence conjugale, des gens ayant des problèmes de santé mentale et des aînés fragilisés pendant la pandémie. On aurait pu loger ces personnes avec cet argent.</ParaText>
               <ParaText id="6875344">La perte de temps n'a aucun bon sens. Tout cela pour en arriver aux mêmes résultats. On a le même Parlement: les conservateurs sont à la même place, les libéraux sont à la même place, le NPD est à la même place, près de la porte. C'est la même affaire et c'est le même Parlement. C'est un scandale.</ParaText>
-              <ParaText id="6875345">Pendant la campagne électorale, il y a une chose qu'on a beaucoup entendu une chose; du moins, les gens du Bloc québécois l'ont beaucoup entendue, et je ne peux m'empêcher de le noter aujourd'hui tellement je trouve que c'est important. On a beaucoup entendu que le Bloc québécois ne sera jamais au pouvoir, ce qui fait que sur plein d'enjeux, il ne peut rien faire ou décider, et que ce n'est pas le Bloc qui va prendre les décisions. On nous disait cela pendant la campagne électorale.</ParaText>
+              <ParaText id="6875345">Pendant la campagne électorale, il y a une chose qu'on a beaucoup entendu; du moins, les gens du Bloc québécois l'ont beaucoup entendue, et je ne peux m'empêcher de le noter aujourd'hui tellement je trouve que c'est important. On a beaucoup entendu que le Bloc québécois ne sera jamais au pouvoir, ce qui fait que sur plein d'enjeux, il ne peut rien faire ou décider, et que ce n'est pas le Bloc qui va prendre les décisions. On nous disait cela pendant la campagne électorale.</ParaText>
               <ParaText id="6875346">Prenons l'exemple de Montréal. En ce moment, 23 000 personnes sont en attente de HLM. Depuis que les libéraux ont pris le pouvoir, en 2015, cela n'a fait qu'augmenter. Si on regarde la carte électorale, le rouge est partout à Montréal. Environ 25 députés libéraux, dont neuf ministres, sont censés être assis quelque part pour prendre des décisions. Il y a neuf ministres du gouvernement canadien sur l'île de Montréal, dont le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>. On leur a dit qu'ils devaient être assis à la table des pouvoirs. J'imagine que le premier ministre l'est aussi et qu'il peut décider quelque chose. Sa propre circonscription, <Affiliation DbId="278369" Type="2">Papineau</Affiliation>, est l'une des pires en ce qui a trait à la crise du logement sur l'île. C'est quand même quelque chose. De quoi notre premier ministre s'occupe-t-il? À quoi passe-t-il ses journées?</ParaText>
               <ParaText id="6875347">On va se le dire, en ce moment, on vit une période difficile. Il y a une crise du logement, mais ce n'est pas la seule. En fait, en ce moment, il y a quatre grandes crises au Canada.</ParaText>
               <ParaText id="6875348">Il y a évidemment la crise sanitaire, dont on espère sortir le plus rapidement possible. Il y a aussi la crise climatique, pour laquelle les libéraux ne font absolument rien. Ils ont l'un des pires bilans du G7. Ce n'est pas parce qu'on a nommé un ancien militant environnementaliste que nous pensons que les choses vont avancer rapidement. C'est l'une des pires crises de notre époque.</ParaText>
@@ -641,7 +650,7 @@
               <ParaText id="6875362">Selon une étude du FRAPRU, si le gouvernement avait réinvesti depuis 1993 au même rythme que durant les années 1960, 1970 et 1980, près de 80 000 logements sociaux auraient pu être construits au Québec. On aurait donc pu loger un tas de monde, toutes sortes de gens qui ont toutes sortes de problèmes, comme on le voit en ce moment dans la rue. </ParaText>
               <ParaText id="6875363">Pourtant, pendant 30 ans, il ne s'est rien passé.</ParaText>
               <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
-              <ParaText id="6875364">Il y a trois ou quatre ans, le Parti libéral a décidé de lancer un programme. Or, comme ma collègue l'a si bien dit tout à l'heure,la Stratégie nationale sur le logement contient de gros chiffres, notamment 70 milliards de dollars. Cependant, ce sont des chiffres gonflés à l'hélium, car, d'une part, les investissements seront faits sur 10 ans, et, d'autre part, ils comprennent les investissements des municipalités, des organismes et des provinces. Voilà où on en est. </ParaText>
+              <ParaText id="6875364">Il y a trois ou quatre ans, le Parti libéral a décidé de lancer un programme. Or, comme ma collègue l'a si bien dit tout à l'heure, la Stratégie nationale sur le logement contient de gros chiffres, notamment 70 milliards de dollars. Cependant, ce sont des chiffres gonflés à l'hélium, car, d'une part, les investissements seront faits sur 10 ans, et, d'autre part, ils comprennent les investissements des municipalités, des organismes et des provinces. Voilà où on en est. </ParaText>
               <ParaText id="6875365">D'ailleurs, la stratégie nationale a occasionné de gros problèmes au Québec, parce que, pendant trois ans, rien ne s'est passé. En effet, comme il s'agit d'une compétence provinciale et que le gouvernement fédéral tardait à s'entendre avec Québec, pendant trois ans, on n'a pas dépensé d'argent pour loger les gens les plus vulnérables. </ParaText>
               <ParaText id="6875366">D'ailleurs, au mois de mai dernier, une mère de Longueuil victime de violence conjugale a fait la première page du <I>Journal de Montréal</I>, car elle ne pouvait pas trouver de logement pour elle et ses trois enfants. Elle était prise dans une relation difficile et toxique, mais ne trouvait pas de logement et elle était très anxieuse. Cette femme habite à Longueuil. </ParaText>
               <ParaText id="6875367">Or, si l'entente avec le Québec avait été conclue au moment où on a lancé la stratégie nationale en 2017, on aurait pu lui trouver un logement. Cette dame a besoin d'un appartement adéquat pour elle et ses trois enfants. Un 5 et demi à Longueuil coûte 1 500 $ par mois, et c'est considéré comme abordable. Il s'agit en ce moment du prix moyen des 5 et demi à Longueuil. Qui peut se payer cela? Cela n'a aucun bon sens. Bref, si cette entente avait été signée, on aurait pu loger les gens. </ParaText>
@@ -651,7 +660,7 @@
               <ParaText id="6875371">Parlons maintenant de l'Initiative pour la création rapide de logements, l'ICRL, qui est intéressante. Il y a deux ans, le gouvernement s'est un peu réveillé. Il s'est rendu compte que la situation n'avait pas de sens, qu'il devait investir pour loger les plus vulnérables, pas seulement ceux qui ont des moyens financiers. C'est pour cette raison que le gouvernement a lancé l'ICRL. Ce programme n'est pas mauvais, mais il est largement sous-financé. </ParaText>
               <ParaText id="6875372">On a annoncé qu'un montant de 1 milliard de dollars serait investi pour construire des logements. On allait rapidement rénover des HLM en décrépitude et des petits motels sur le bord des autoroutes pour en faire des 1 et demi pour loger les gens en situation d'itinérance, par exemple. C'est un bon programme.</ParaText>
               <ParaText id="6875373">Cependant, il y avait un gros problème dans ce programme de 1 milliard de dollars, qui comportait un volet de 500 millions de dollars pour les grandes villes. Dans le volet pour les grandes villes, 200 millions de dollars étaient versés à Toronto, alors que 57 millions de dollars étaient versés à Montréal. Nous n'avons pas du tout compris cela. </ParaText>
-              <ParaText id="6875374">En tout, 63 millions de dollars étaient versés au Québec dans le volet pour les grandes villes, ce qui représente à peu près 13 % des sommes, alors que le Québec représente 23 % de la population canadienne. Les décisions se prennent à Ottawa et le ministre responsable de ce dossier est à Toronto. Je ne sais pas c'est relié, mais quelque chose ne fonctionne pas du tout. Cela n'a aucun sens que le Québec verse 50 milliards de dollars par année en impôts et qu'une partie de ce montant serve à aider des gens qui ont des problèmes de logement à Toronto. Cela n'a aucun sens.</ParaText>
+              <ParaText id="6875374">En tout, 63 millions de dollars étaient versés au Québec dans le volet pour les grandes villes, ce qui représente à peu près 13 % des sommes, alors que le Québec représente 23 % de la population canadienne. Les décisions se prennent à Ottawa et le ministre responsable de ce dossier est à Toronto. Je ne sais pas si c'est relié, mais quelque chose ne fonctionne pas du tout. Cela n'a aucun sens que le Québec verse 50 milliards de dollars par année en impôts et qu'une partie de ce montant serve à aider des gens qui ont des problèmes de logement à Toronto. Cela n'a aucun sens.</ParaText>
               <ParaText id="6875375">Cette initiative de 1 milliard de dollars n'était pas mauvaise, mais elle ne versait pas assez d'argent. Sait-on combien de demandes pour des projets servant à loger les plus vulnérables le gouvernement a reçues quand il a lancé ce programme?</ParaText>
               <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
               <ParaText id="6875376">D'ailleurs, il s'agissait d'un bon programme; les gens avaient trois mois pour déposer leur demande et il fallait que les locataires puissent rentrer dans le logement un an après. En soi, c'était très bon. En fait, c'était quasiment trop rapide, parce que les organismes qui n'ont pas les moyens de déposer les projets avaient seulement trois mois pour le faire. Il y a même des organismes qui ont demandé des subventions à la SCHL, soit la Société canadienne d'hypothèques et de logement.</ParaText>
@@ -707,7 +716,7 @@
               <ParaText id="6875400">Madame la Présidente, j'aime vraiment les discours de mon collègue du Bloc. Ils sont toujours très dynamiques et passionnés, et je crois sincèrement qu'il est profondément préoccupé par la situation du logement au Canada. </ParaText>
               <ParaText id="6875401">Cette situation est très grave. Dans ma circonscription, Cowichan—Malahat—Langford, on voit régulièrement des surenchères de 100 000 $ pour des propriétés à vendre. La crise est réelle. </ParaText>
               <ParaText id="6875402">Je suis d'accord avec les commentaires du député au sujet de l'inutilité des dernières élections, qui ont coûté 600 millions de dollars. Par contre, le fait que des représentants de tous les principaux partis aient parlé du logement avec autant de passion et d'éloquence me porte à croire et à espérer qu'on pourrait s'attaquer à la situation pendant cette législature. </ParaText>
-              <ParaText id="6875403">La motion conservatrice dont il est question aujourd'hui est une occasion ratée car ne elle parle pas d'une stratégie de logement pour les Autochtones. Il n'y est pas question non plus d'aider les municipalités à décider de l'utilisation des terres, ni de construire des logements sociaux abordables et tellement nécessaires. </ParaText>
+              <ParaText id="6875403">La motion conservatrice dont il est question aujourd'hui est une occasion ratée car elle ne parle pas d'une stratégie de logement pour les Autochtones. Il n'y est pas question non plus d'aider les municipalités à décider de l'utilisation des terres, ni de construire des logements sociaux abordables et tellement nécessaires. </ParaText>
               <ParaText id="6875404">Je me demande si mon collègue du Bloc pourrait nous en dire plus sur les occasions ratées de cette motion. </ParaText>
             </Content>
           </Intervention>
@@ -1202,7 +1211,7 @@
               <ParaText id="6875573">Madame la Présidente, je vais développer la question que j’ai posée au député d’en face. Cette motion présente de graves lacunes fondamentales. Au fil des ans, j’ai vu beaucoup de motions de l’opposition. Quand je regarde celle-ci, je ne comprends pas d’où elle vient. Je ne sais pas comment le député de <Affiliation DbId="278241" Type="2">Carleton</Affiliation>, qui en est probablement l’un des auteurs, a fait ses calculs.</ParaText>
               <ParaText id="6875574">Je tiens à être très précis au sujet du point a), qui est ainsi libellé: « faire l’examen et la consolidation de toutes les propriétés immobilières et de tous les terrains au Canada appartenant au gouvernement fédéral dans le but d’en débloquer au moins », et je soulignerai cette partie, « au moins 15 % pour la construction résidentielle ». Le député qui a présenté la motion a dit qu’il y a 41 millions d’hectares. Ce serait donc 15 % de ces 41 millions d’hectares. Un simple calcul me dit que nous parlons de plus de 6 millions d’hectares.</ParaText>
               <ParaText id="6875575">
-                <B>Une voix: </B> C’est ridicule.</ParaText>
+                <B>Une voix:</B> C’est ridicule.</ParaText>
               <ParaText id="6875576">
                 <B>M. Kevin Lamoureux:</B> Le député conservateur dit que c’est ridicule. Il s’agit d’une motion des conservateurs. Je suis d’accord que c’est ridicule.</ParaText>
               <ParaText id="6875577">Réfléchissons-y un instant. Parcs Canada a 35,7 millions d’hectares, Environnement Canada en a 2,3 millions et la Défense nationale, 2,2 millions. Si nous additionnons les trois, nous arrivons à 40 millions d’hectares. Les conservateurs disent 15 % de 41 millions. Proposent-ils donc de se débarrasser des parcs nationaux? Oui, d’après leurs propres chiffres. Je ne sais pas d’où les conservateurs sortent leurs chiffres. Quand nous lisons la motion, nous voyons que ce n’est qu’un exemple.</ParaText>
@@ -1354,7 +1363,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279317" Type="18">M. Mark Gerretsen (secrétaire parlementaire du leader du gouvernement à la Chambre des communes (Sénat), Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6875628">Madame la Présidente, si le député de <Affiliation DbId="278214" Type="2">Central Okanagan—Similkameen—Nicola</Affiliation> veut savoir pourquoi nous parlons de 41 millions d'hectares de terrains, il lui suffit de lire attentivement le discours du député d' <Affiliation DbId="278744" Type="2">Edmonton Riverbend</Affiliation>. C'est lui qui a lancé ce chiffre un peu plus tôt aujourd'hui.</ParaText>
+              <ParaText id="6875628">Madame la Présidente, si le député de <Affiliation DbId="278214" Type="2">Central Okanagan—Similkameen—Nicola</Affiliation> veut savoir pourquoi nous parlons de 41 millions d'hectares de terrains, il lui suffit de lire attentivement le discours du député d'<Affiliation DbId="278744" Type="2">Edmonton Riverbend</Affiliation>. C'est lui qui a lancé ce chiffre un peu plus tôt aujourd'hui.</ParaText>
               <ParaText id="6875629">Je vais revenir sur un autre propos du député d'<Affiliation DbId="278744" Type="2">Edmonton Riverbend</Affiliation>. Il m'a accusé, dans mon précédent rôle de politicien municipal, de ne pas avoir fait construire suffisamment de logements abordables, comme si cette responsabilité échouait aux conseils municipaux partout au pays. Voici un fait intéressant: lorsque j'étais au conseil municipal, le gouvernement de l'Ontario investissait dans le logement abordable, et le logement de façon plus générale, à Kingston et partout dans la province, mais qui n'était pas de la partie? Stephen Harper.</ParaText>
               <ParaText id="6875630">Le député siège depuis un bon moment. Pourrait-il nous parler du legs de Stephen Harper en matière de logement abordable?</ParaText>
             </Content>
@@ -1652,7 +1661,7 @@
               <Affiliation DbId="278307" Type="2">L'hon. Bardish Chagger</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6875713">Madame la Présidente, je tiens moi aussi à remercier toutes les personnes qui, peu importe leur allégeance politique, ont donné de leur temps, posé des questions difficiles, travaillé sans relâche, contribué de bien des manières, voté et participé à la démocratie de notre pays. Je suis fière de continuer à être leur députée.</ParaText>
-              <ParaText id="6875714">Je dis souvent qu’autant le monde a besoin de plus de Canada, autant le Canada a besoin de plus de Waterloo. Le mois dernier, j’ai participé virtuellement aux célébrations de la 20<Sup>e</Sup> Journée nationale de l’habitation dans la région de Waterloo. J’y ai entendu des histoires formidables. Je crois que tous les Canadiens méritent d’avoir un logement sûr et a abordable où ils peuvent élever des enfants en santé et profiter des possibilités de bâtir une vie meilleure pour eux mêmes et leur famille et, du même coup, d’apporter leur contribution à nos collectivités, à notre pays et à notre économie.</ParaText>
+              <ParaText id="6875714">Je dis souvent qu’autant le monde a besoin de plus de Canada, autant le Canada a besoin de plus de Waterloo. Le mois dernier, j’ai participé virtuellement aux célébrations de la 20<Sup>e</Sup> Journée nationale de l’habitation dans la région de Waterloo. J’y ai entendu des histoires formidables. Je crois que tous les Canadiens méritent d’avoir un logement sûr et abordable où ils peuvent élever des enfants en santé et profiter des possibilités de bâtir une vie meilleure pour eux mêmes et leur famille et, du même coup, d’apporter leur contribution à nos collectivités, à notre pays et à notre économie.</ParaText>
               <ParaText id="6875715">Comme nous l’avons appris durant la pandémie, le foyer est un refuge où nous nous sentons en sécurité et à l’abri. Ce devrait être le cas, mais ce ne l’est pas pour tout le monde. La pandémie de COVID-19 a mis en lumière les inégalités qui existent au sein de notre société. La pandémie a eu des répercussions dans le monde entier, sur l’ensemble des Canadiens et, d’une manière disproportionnée, sur certains segments de notre population et certains secteurs de notre économie. Nous savons qu’en restant à la maison et en respectant une distance physique, nous avons contribué à aplanir la courbe et à réduire la propagation de COVID-19 dans les collectivités. De plus, en nous faisant vacciner, nous contribuons encore davantage à réduire la propagation, en dépit de la découverte de nouveaux variants.</ParaText>
               <ParaText id="6875716">Je tiens à remercier les Canadiens qui se sont fait vacciner. J’encourage ceux qui hésitent à parler de leurs inquiétudes avec des professionnels et à faire ce qu’il faut pour protéger leurs amis, leur famille et leurs voisins. Quant à moi, j’avais une raison personnelle de me faire vacciner. Mon père, qui était mon soutien, a subi une grave crise cardiaque en octobre 2020. Notre pharmacien, qui est décédé depuis et qui nous manque, ainsi que le médecin de famille de mon père lui ont dit d’aller à l’hôpital et ma mère l’y a conduit.</ParaText>
               <ParaText id="6875717">Je serai éternellement reconnaissante envers le médecin urgentiste de garde qui a appelé le cardiologue. Ils ont dû ranimer mon père qui a subi des dommages irréparables. Je vais donc faire tout ce qu’il faut pour assurer la sécurité de mon père, de ma famille et de mes proches. Permettez-moi d’exprimer mes plus sincères remerciements aux extraordinaires professionnels de la santé de l’Hôpital général St. Mary’s de Kitchener d’avoir sauvé la vie de mon père.</ParaText>
@@ -1684,7 +1693,7 @@
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Le gouvernement continuera de travailler avec les deux autres provinces pour conclure des ententes qui donneront des services de garde à dix dollars par jour pour les familles qui en ont tant besoin. Investir dans des services de garde abordables, ou dans le logement, ne profite pas uniquement aux familles. Cela fait croître toute l’économie. </QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="6875733">L'Ontario est l'une des deux provinces dont il est question. De toute évidence, les conservateurs font de beaux discours quand ils sont dans l'opposition mais, lorsqu'ils sont au pouvoir, leurs actes en disent plus long que leurs paroles. La pandémie en mis en évidence l'effet des coupes budgétaires faites par les conservateurs au détriment des Canadiens. </ParaText>
+              <ParaText id="6875733">L'Ontario est l'une des deux provinces dont il est question. De toute évidence, les conservateurs font de beaux discours quand ils sont dans l'opposition mais, lorsqu'ils sont au pouvoir, leurs actes en disent plus long que leurs paroles. La pandémie a mis en évidence l'effet des coupes budgétaires faites par les conservateurs au détriment des Canadiens. </ParaText>
               <ParaText id="6875734">Depuis le début, notre gouvernement se concentre sur les Canadiens et sur les personnes les plus vulnérables. Quand nous avons réduit l'impôt de la classe moyenne et augmenté celui du 1 % le plus riche du Canada, les conservateurs ont voté contre ces changements. Quand nous avons offert l'Allocation canadienne pour enfants, une allocation non imposable, aux familles avec enfants qui en avaient le plus besoin et demandé aux familles les mieux nanties de ne pas y avoir accès, les conservateurs ont voté contre ce programme. Chaque fois que nous avons consacré des fonds à la Stratégie nationale sur le logement, les conservateurs ont voté contre ces efforts. Les conservateurs savent très bien que le gouvernement n'imposera pas les résidences principales mais, dans leur motion de l'opposition, ils répètent encore cette idée fallacieuse.</ParaText>
               <ParaText id="6875735">Les temps sont si durs pour tant de personnes, et les conservateurs ajoutent à cette insécurité. La pandémie a mis au jour certains des meilleurs traits de l’être humain et, de toute évidence, certains des pires. Tout le monde mérite d’avoir un endroit sûr et abordable où vivre, et le gouvernement poursuivra ses efforts pour mettre en œuvre une vision commune à long terme afin d'atteindre cet objectif.</ParaText>
             </Content>
@@ -1931,7 +1940,7 @@
               <ParaText id="6875792"> Son Altesse continue d'inspirer les membres de la communauté ismaélienne et de les inciter à rendre service à leurs concitoyens et à améliorer sans relâche la qualité de vie de leurs prochains. </ParaText>
               <ParaText id="6875793">Alors que les ismaéliens se préparent à célébrer le 50<Sup>e</Sup> anniversaire de leur arrivée au Canada, ils se souviennent du partenariat qui s'est formé entre le Canada et l'Aga Khan et qui a permis aux nôtres de fuir les difficultés de l'Afrique de l'Est dans les années 1970 et de s'établir ici. Depuis, des ismaéliens de Syrie, d'Iran, du Bangladesh et de l'Afghanistan ont trouvé refuge au Canada, adoptant les valeurs canadiennes de pluralisme, de bonté et de compassion. </ParaText>
               <ParaText id="6875794"> Nous profitons du 85<Sup>e</Sup> anniversaire de naissance de Son Altesse le prince Karim Aga Khan pour le remercier de son leadership. </ParaText>
-              <ParaText id="6875795">Je demande à tous les membres de la Chambre de se joindre à moi pour souhaiter aux ismaéliens du Canada <I>Salgirah Khushiali Mubarak</I>. </ParaText>
+              <ParaText id="6875795">Je demande à tous les membres de la Chambre de se joindre à moi pour souhaiter aux ismaéliens du Canada <I>Salgirah Khushali Mubarak</I>. </ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2092,7 +2101,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278941" Type="96">L’hon. Randy Boissonnault (ministre du Tourisme et ministre associé des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6875832">Monsieur le Président, le député d'en face sait que le mandat de la Banque du Canada est assujetti à une révision quinquennale. Le processus est en cours d'examen à l'heure actuelle. La banque à entrepris un processus exhaustif sur cette question. Des discussions fructueuses ont eu lieu entre le gouvernement et la Banque du Canada. C'est avec plaisir que nous divulguerons les résultats de ce processus en temps opportun.</ParaText>
+              <ParaText id="6875832">Monsieur le Président, le député d'en face sait que le mandat de la Banque du Canada est assujetti à une révision quinquennale. Le processus est en cours d'examen à l'heure actuelle. La banque a entrepris un processus exhaustif sur cette question. Des discussions fructueuses ont eu lieu entre le gouvernement et la Banque du Canada. C'est avec plaisir que nous divulguerons les résultats de ce processus en temps opportun.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="M. O'Toole" id="11453336">
@@ -2298,7 +2307,7 @@
             <Content>
               <ParaText id="6875879">Monsieur le Président, la taxe libérale de l'inflation frappe maintenant les épiceries. </ParaText>
               <ParaText id="6875880">Aujourd'hui, un rapport montre que la famille moyenne va devoir dépenser 15 000 $ pour se nourrir. Il s'agit d'une augmentation de 1 000 $. Les Canadiens et les familles canadiennes n'ont pas 1 000 $, surtout après l'inflation immobilière et le prix de l'essence à 1,50 $. </ParaText>
-              <ParaText id="6875881">Hier, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a admis, en anglais, qu'il y a quelque chose qui s'appelle « <I>just inflation </I> ». Pour respecter la dualité linguistique, peut-il répéter, en français, que c'est juste de l'inflation?</ParaText>
+              <ParaText id="6875881">Hier, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a admis, en anglais, qu'il y a quelque chose qui s'appelle « <I>just inflation</I> ». Pour respecter la dualité linguistique, peut-il répéter, en français, que c'est juste de l'inflation?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Boissonnault" id="11453417">
@@ -2829,8 +2838,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11453557">
-        <SubjectOfBusinessTitle>
-      L'aide aux sinistrés</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La protection civile</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Barron" id="11453556">
             <PersonSpeaking>
@@ -2964,15 +2972,15 @@
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11453754">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Code criminel et Code canadien du travail</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le code criminel</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="6876017">La Chambre reprend l’étude, interrompue le 8 décembre, de la motion portant que le projet de loi <Document DbId="11474302" Type="3">C‑3, Loi modifiant le Code criminel et le Code canadien du travail</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="5">Projet de loi C‑3. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="6">Projet de loi C‑3. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="11453582">
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6876018">Conformément à l’ordre spécial adopté par la Chambre le 25 novembre 2021, la Chambre utilisera, pour la première fois de la présente législature, l’application de vote électronique. Par conséquent, avant de procéder au vote, j’aimerais communiquer des renseignements que les députés pourraient trouver utiles concernant la procédure des votes par appel nominal. </ParaText>
+              <ParaText id="6876018">Conformément à l’ordre spécial adopté par la Chambre le 25 novembre, la Chambre utilisera, pour la première fois de la présente législature, l’application de vote électronique. Par conséquent, avant de procéder au vote, j’aimerais communiquer des renseignements que les députés pourraient trouver utiles concernant la procédure des votes par appel nominal. </ParaText>
               <ParaText id="6876019">Comme le prévoit l’ordre spécial, les votes continueront de se dérouler comme à l'habitude pour ceux qui sont présents à la Chambre. Les députés présents à la Chambre doivent s'assurer de ne pas changer de siège pendant toute la période de vote et ils ne doivent pas voter en utilisant le système électronique.</ParaText>
               <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -2986,7 +2994,7 @@
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6876025">Les ambassadeurs des TI sont disponibles avant, durant et après les votes pour aider les députés qui pourraient éprouver des difficultés avec le système ou qui pourraient avoir des problèmes techniques concernant la séance virtuelle. Les députés doivent s’assurer d’avoir une bonne connectivité qui leur permet de participer pleinement aux délibérations. Ils doivent pouvoir aussi compléter correctement toutes les étapes du processus de vote.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="6876026">Comme il est 15 h 12, conformément à l'ordre adopté le jeudi 25 novembre 2021, la Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi <Document DbId="11474302" Type="3">C‑3</Document>.</ParaText>
+              <ParaText id="6876026">Comme il est 15 h 12, conformément à l'ordre adopté le jeudi 25 novembre, la Chambre procédera maintenant au vote par appel nominal différé sur la motion à l'étape de la deuxième lecture du projet de loi <Document DbId="11474302" Type="3">C‑3</Document>.</ParaText>
               <ParaText id="6876027">Convoquez les députés.</ParaText>
             </Content>
           </Intervention>
@@ -3351,8 +3359,8 @@
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876029">Je déclare la motion adoptée. En conséquence, le projet de loi est renvoyé au Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées.</ParaText>
-              <ProceduralText TocType="TPC" id="6">Adoption de la motion</ProceduralText>
-              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi; renvoi à un comité" id="7">(Le projet de loi est lu pour la deuxième fois et renvoyé à un comité.)</ProceduralText>
+              <ProceduralText TocType="TPC" id="7">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi; renvoi à un comité" id="8">(Le projet de loi est lu pour la deuxième fois et renvoyé à un comité.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3375,7 +3383,7 @@
             <Content>
               <ParaText id="6876031">À l'ordre. Je ne peux pas entendre ce que dit l'honorable député.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6876032">À l'ordre. La Chambre essaie de mener ses travaux et voudrait un peu de tranquillité.</ParaText>
+              <ParaText id="6876032">La Chambre essaie de mener ses travaux et voudrait un peu de tranquillité.</ParaText>
               <ParaText id="6876033">Le leader de l'opposition à la Chambre a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -3422,7 +3430,7 @@
               <ParaText id="6876045">Lorsqu’il a soulevé à nouveau sa question de privilège dans la session en cours, le député de Louis‑St‑Laurent a soutenu que la demande du gouvernement du 23 juin 2021 devant la Cour fédérale était sans précédent dans l’histoire canadienne. Bien que la contestation judiciaire a pris fin avec la dissolution, le député a argumenté que contester ouvertement l’autorité de la Chambre devant les tribunaux, en s’attaquant à ses droits fondamentaux, constitue un outrage.</ParaText>
               <ParaText id="6876046">Citant l’autorité en la matière, il a mentionné qu’un outrage commis dans une législature précédente peut être puni dans une nouvelle législature. Selon lui, la dissolution n’a pas eu pour effet de tuer les questions de privilège.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6876047"> Le député de<Affiliation DbId="278574" Type="2">Barrie—Innisfil</Affiliation> a également souligné que la Chambre peut se pencher sur un outrage commis lors d’une législature précédente. En se référant à la question de privilège soulevée précédemment par le député de <Affiliation DbId="278390" Type="2">Leeds—Grenville—Thousand Islands et Rideau Lakes</Affiliation>, il a expliqué que le rapport du Comité — qui n’a pas été adopté par la Chambre — exposait plusieurs atteintes au privilège. Parmi celles-ci, des personnes citées à comparaître ne se sont pas présentées pour témoigner, le gouvernement a commis de l’ingérence en leur donnant instruction de ne pas se présenter et la députée de <Affiliation DbId="278307" Type="2">Waterloo</Affiliation>, alors ministre, a donné des réponses trompeuses et évasives lors de son témoignage. </ParaText>
+              <ParaText id="6876047"> Le député de <Affiliation DbId="278574" Type="2">Barrie—Innisfil</Affiliation> a également souligné que la Chambre peut se pencher sur un outrage commis lors d’une législature précédente. En se référant à la question de privilège soulevée précédemment par le député de <Affiliation DbId="278390" Type="2">Leeds—Grenville—Thousand Islands et Rideau Lakes</Affiliation>, il a expliqué que le rapport du Comité — qui n’a pas été adopté par la Chambre — exposait plusieurs atteintes au privilège. Parmi celles-ci, des personnes citées à comparaître ne se sont pas présentées pour témoigner, le gouvernement a commis de l’ingérence en leur donnant instruction de ne pas se présenter et la députée de <Affiliation DbId="278307" Type="2">Waterloo</Affiliation>, alors ministre, a donné des réponses trompeuses et évasives lors de son témoignage. </ParaText>
               <ParaText id="6876048">Le <Affiliation DbId="278913" Type="4">leader du gouvernement à la Chambre</Affiliation> est intervenu sur les deux questions de privilège en répondant que toutes les affaires de la législature précédente ont pris fin au moment de la dissolution. Ainsi, selon lui, avant de pouvoir soulever une question de privilège sur ces enjeux, une motion ou un rapport de comité serait nécessaire dans la nouvelle législature pour que la Chambre puisse en être saisie. Il a plus tard fait part de la volonté du gouvernement de collaborer avec les partis de l’opposition afin de trouver un mécanisme approprié pour examiner les documents qui contiennent des renseignements confidentiels en matière de sécurité nationale, à l’instar de ce qui a été fait en 2010 concernant les documents liés aux prisonniers afghans. Le député de <Affiliation DbId="278428" Type="2">Louis‑St‑Laurent</Affiliation> a répliqué que selon lui, une telle approche n’était pas nécessaire dans ce cas-ci au vu des mécanismes qui ont déjà été proposés pour protéger les renseignements de nature délicate. </ParaText>
               <ParaText id="6876049"> Le député de <Affiliation DbId="278257" Type="2">Winnipeg-Nord</Affiliation> est aussi intervenu pour répondre à la question de privilège du député de <Affiliation DbId="278574" Type="2">Barrie—Innisfil</Affiliation>. Il a fait valoir que la citation tirée de la 20<Sup>e</Sup> édition d'<I>Erskine May</I> comme quoi un outrage peut être puni au cours d'une autre législature ne s'applique plus au contexte actuel. De plus, contrairement aux membres du personnel ministériel qui ont été appelés à comparaître devant le comité, ce sont les ministres qui sont responsables et qui doivent rendre des comptes au Parlement. </ParaText>
               <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
@@ -3448,7 +3456,7 @@
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6876057">Une formulation très similaire peut être trouvée dans une édition antérieure d'Erskine May, l'autorité procédurale du Royaume-Uni. Comme l’a mentionné le député de <Affiliation DbId="278257" Type="2">Winnipeg-Nord</Affiliation>, on ne la retrouve pas dans l'édition actuelle. Les circonstances permettant de ramener une telle question sont toutefois plus limitées que ce qui est suggéré par cette citation.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-              <ParaText id="6876058">En effet, on ne recense dans nos précédents que très peu d'occurrences de questions de privilège émanant d'une législature précédente et soulevées au cours d'une nouvelle législature. Le député de <Affiliation DbId="278390" Type="2">Leeds—Grenville—Thousand Islands et Rideau Lakes</Affiliation> en a énumérées dans une intervention le 24 novembre 2001. </ParaText>
+              <ParaText id="6876058">En effet, on ne recense dans nos précédents que très peu d'occurrences de questions de privilège émanant d'une législature précédente et soulevées au cours d'une nouvelle législature. Le député de <Affiliation DbId="278390" Type="2">Leeds—Grenville—Thousand Islands et Rideau Lakes</Affiliation> en a énumérées dans une intervention le 24 novembre 2021. </ParaText>
               <ParaText id="6876059">Des distinctions doivent être faites entre les questions qui nous occupent et les précédents cités. Lorsqu’on examine ces derniers, on constate que la Chambre ne s’était pas prononcée au préalable, car l’incident ou le problème survenu lors de la législature précédente était porté à l’attention de la Chambre pour la première fois à la lumière de faits nouveaux. Le Président Parent, dans sa décision du 9 octobre 1997, a d’ailleurs jugé la question non fondée en l’absence d’un rapport de comité. Lorsque les questions de privilège ont été soulevées dans la deuxième session de la 43<Sup>e</Sup> législature, elles tenaient compte des ordres alors en vigueur.</ParaText>
               <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -3462,15 +3470,11 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11453879" Rubric="Other">
-      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
-      <CatchLine>Travaux des subsides</CatchLine>
       <SubjectOfBusiness id="11453738">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Travaux des subsides</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Motion de l'opposition — L'offre de logements</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TPC" id="8">Motion</ProceduralText>
+        <CatchLine>Travaux des subsides</CatchLine>
+        <ProceduralText TocType="TPC" id="9">Motion</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="6876064">La Chambre reprend l'étude de la motion.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Samson" id="11453680">
@@ -3950,7 +3954,7 @@
               <Affiliation DbId="278561" Type="2">M. Colin Carrie (Oshawa, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876240">Monsieur le Président, ma collègue vit tout près de chez moi. Je me demande ce qu'elle pense des propositions du gouvernement visant à rendre les choses plus abordables.</ParaText>
-              <ParaText id="6876241">Beaucoup de jeunes me font part de leurs doléances. Pour bien nous situer, à Oshawa, le prix moyen des maisons était de 362 958 $ en 2015. On prévoit qu'en mars prochain, ce prix moyen dépassera 1 million de dollars et s'élèvera à 1, 157 million de dollars. Bien des jeunes me disent que leur rêve de devenir propriétaire est inatteignable. Ils en viennent même à penser qu'il n'y a aucun moyen de le réaliser.</ParaText>
+              <ParaText id="6876241">Beaucoup de jeunes me font part de leurs doléances. Pour bien nous situer, à Oshawa, le prix moyen des maisons était de 362 958 $ en 2015. On prévoit qu'en mars prochain, ce prix moyen dépassera 1 million de dollars et s'élèvera à 1,157 million de dollars. Bien des jeunes me disent que leur rêve de devenir propriétaire est inatteignable. Ils en viennent même à penser qu'il n'y a aucun moyen de le réaliser.</ParaText>
               <ParaText id="6876242">Ma collègue pourrait-elle nous dire ce que son gouvernement prévoit plus particulièrement pour les jeunes?</ParaText>
             </Content>
           </Intervention>
@@ -4088,9 +4092,9 @@
               </ParaText>
               <ParaText id="6876288">La motion est aussi simple que cela. </ParaText>
               <ParaText id="6876289">Je reçois à l'instant même un message de mon collègue de <Affiliation DbId="278177" Type="2">Lévis—Lotbinière</Affiliation>, une nouvelle de dernière minute. Il s'agit d'un communiqué de presse qui vient d'être publié par un de mes collègues, le ministre responsable des finances au cabinet fantôme, le député de <Affiliation DbId="278241" Type="2">Carleton</Affiliation>.</ParaText>
-              <ParaText id="6876290">Le communiqué dit ceci: « La Justinflation arrive dans une épicerie près de chez vous. Les familles paient 1 000 $ de plus pour se nourrir en 2022 alors que l'inflation flambe. L'inflation nuit aux Canadiens et 80 % d'entre eux disent que la crise du coût de la vie rend leur vie moins abordable. Soixante pour cent des familles ayant des enfants de moins de 18 ans craignent de ne pas avoir assez d'argent pour se nourrir. Le rapport qui a été publié aujourd'hui ne fait qu'empirer la situation. La taxe d'inflation du premier ministre gruge le chèque de paie des Canadiens de la classe moyenne pendant que les libéraux prévoient dépenser encore plus, ce qui ne fera qu'aggraver l'inflation. Le coût du gouvernement augmente le coût de la vie. Le fait de dépenser plus de dollars pour acheter moins de biens fait en sorte que les prix augmentent. Cela suffit. »</ParaText>
+              <ParaText id="6876290">Le communiqué dit ceci: « La JustinFlation arrive dans une épicerie près de chez vous. Les familles paient 1 000 $ de plus pour se nourrir en 2022 alors que l'inflation flambe. L'inflation nuit aux Canadiens et 80 % d'entre eux disent que la crise du coût de la vie rend leur vie moins abordable. Soixante pour cent des familles ayant des enfants de moins de 18 ans craignent de ne pas avoir assez d'argent pour se nourrir. Le rapport qui a été publié aujourd'hui ne fait qu'empirer la situation. La taxe d'inflation du premier ministre gruge le chèque de paie des Canadiens de la classe moyenne pendant que les libéraux prévoient dépenser encore plus, ce qui ne fera qu'aggraver l'inflation. Le coût du gouvernement augmente le coût de la vie. Le fait de dépenser plus de dollars pour acheter moins de biens fait en sorte que les prix augmentent. Ça suffit. »</ParaText>
               <ParaText id="6876291">C'est exactement ce dont nous parlons aujourd'hui. Un rapport nous dit que le coût de la vie va augmenter non seulement pour le logement, mais dans l'ensemble de la société, particulièrement pour l'épicerie. Cela est inquiétant. </ParaText>
-              <ParaText id="6876292">La dernière phrase du communiqué mérite également d'être lue: « Il est clair que les conservateurs sont le seul parti qui cherche à réduire les prix, à lutter contre l'augmentation des prix des aliments et à mettre un terme à la juste inflation. » </ParaText>
+              <ParaText id="6876292">La dernière phrase du communiqué mérite également d'être lue: « Il est clair que les conservateurs sont le seul parti qui cherche à réduire les prix, à lutter contre l'augmentation des prix des aliments et à mettre un terme à la [Justinflation]. » </ParaText>
               <ParaText id="6876293">Je remercie mon collègue de Lévis—Lotbinière de m'avoir fait parvenir ce communiqué. Je trouvais important de le partager avec l'ensemble de mes collègues de la Chambre des communes, parce que c'est exactement ce dont nous parlons. Nous parlons du coût de la vie. Nous parlons des jeunes familles qui ont de la misère à joindre les deux bouts et qui étirent leur capacité de payer pour que leur famille puisse vivre convenablement. Nous parlons aujourd'hui de la difficulté qu'ont de plus en plus de jeunes familles, partout au Canada, à pouvoir réaliser leur rêve d'accéder à la propriété.</ParaText>
               <ParaText id="6876294">Le député de <Affiliation DbId="278509" Type="2">Durham</Affiliation>, le chef du Parti conservateur et de l'opposition officielle, a dit qu'un sondage publié hier révélait que la moitié des Canadiens de moins de 30 ans avaient renoncé au rêve de devenir propriétaire. Le Canada est un pays de grands espaces, où il y a de la place pour tout le monde, et chacun devrait pouvoir accéder à ce rêve. Lorsque la moitié des jeunes de moins de 30 ans renoncent au rêve de posséder un jour une maison, on a certainement un problème en tant que société.</ParaText>
               <ParaText id="6876295">Pour aggraver les choses, ce rêve deviendra encore moins réalisable au cours des prochains jours, des prochaines semaines et des prochaines années, parce que les prix de l'immobilier continuent d'augmenter. On prétend que les prix pourraient encore augmenter de plus de 9 % l'année prochaine. Si on ajoute à cela une hausse anticipée des taux d'intérêt, le rêve de devenir propriétaire pour les jeunes familles canadiennes s'évapore de plus en plus.</ParaText>
@@ -4113,9 +4117,9 @@
               <ParaText id="6876303">Le coût moyen d'un logement à louer est de 1 302 $ dans la région métropolitaine de recensement de Montréal, soit 8 % de plus que l'an passé. À Sherbrooke, Trois-Rivières et Granby, la situation est intenable parce que, là aussi, les prix ont augmenté. La situation est difficile parce qu'on a atteint une augmentation d'à peu près 12 % par rapport à l'an dernier afin que les gens se logent. </ParaText>
               <ParaText id="6876304">D'autres villes du Québec sont aussi touchées: Granby voit ses loyers augmenter de 15 % par rapport à l'an dernier. Le prix a bondi de 10 % dans les villes de Drummondville, Joliette, Saint-Hyacinthe et Victoriaville. Bref, cela n'arrête pas. </ParaText>
               <ParaText id="6876305">Un article tout récent publié dans <I>Le Devoir </I>le 8 décembre indique que le prix des maisons grimpe de 21 %. L'Association professionnelle des courtiers immobiliers du Québec nous dit que les ventes de propriétés résidentielles dans la région de Montréal et les nouvelles inscriptions à la vente ont reculé. Il y en a moins, mais les prix ont grimpé de plus de 20 % par rapport à l'an dernier, pas par rapport à il y a six ans, mais bien par rapport à l'an dernier. C'est incroyable. Ces gens le savent bien parce que ce sont eux qui vendent les maisons et qui font les transactions; ils doivent savoir de quoi ils parlent. </ParaText>
-              <ParaText id="6876306">la croissance du prix médian des immeubles de deux à cinq logements est de 15 %. Le prix médian d'une maison unifamiliale a grimpé de 21 % pour atteindre 525 000 $, tandis que celui des copropriétés est de 374 000 $, une hausse de 18 %. </ParaText>
+              <ParaText id="6876306">La croissance du prix médian des immeubles de deux à cinq logements est de 15 %. Le prix médian d'une maison unifamiliale a grimpé de 21 % pour atteindre 525 000 $, tandis que celui des copropriétés est de 374 000 $, une hausse de 18 %. </ParaText>
               <ParaText id="6876307">Je vais continuer, j'en ai d'autres. Malheureusement, j'ai tout plein de belles pages remplies de mauvais exemples qui vont décourager les Canadiens, les Canadiennes et les jeunes familles de trouver les moyens d'acheter et de posséder une maison. </ParaText>
-              <ParaText id="6876308">La motion à l'étude est simple et claire. Elle demande au gouvernement d'agir après six ans d'inaction. Selon moi,si le gouvernement est sincère dans sa volonté de faire en sorte que les jeunes familles de moins de 30 ans puissent réaliser leur rêve d'accéder à la propriété, il va faire la seule chose logique à la Chambre: appuyer la motion de mon collègue d'<Affiliation DbId="278744" Type="2">Edmonton Riverbend</Affiliation> et voter avec l'opposition et le Bloc québécois en faveur de la motion.</ParaText>
+              <ParaText id="6876308">La motion à l'étude est simple et claire. Elle demande au gouvernement d'agir après six ans d'inaction. Selon moi, si le gouvernement est sincère dans sa volonté de faire en sorte que les jeunes familles de moins de 30 ans puissent réaliser leur rêve d'accéder à la propriété, il va faire la seule chose logique à la Chambre: appuyer la motion de mon collègue d'<Affiliation DbId="278744" Type="2">Edmonton Riverbend</Affiliation> et voter avec l'opposition et le Bloc québécois en faveur de la motion.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
@@ -4205,7 +4209,7 @@
               <ParaText id="6876342">Ce que cela sous-entend, c’est que les conservateurs ne sont peut-être pas prêts autant que le Bloc à aider les gens qui sont les plus vulnérables. Prenons l’exemple des terrains fédéraux. Les libéraux vont me demander quel terrain on veut: qu’ils nous redonnent Mirabel. </ParaText>
               <ParaText id="6876343">Cela dit, lorsqu’on décide de construire plus de logements, lorsqu’on décide d’augmenter l’offre — parce que oui il faut augmenter l’offre de logements — c’est bien important de commencer par ceux qui sont les plus dans le trouble, ceux qui en ont le plus besoin. Des fois, on dira que tous ces marchés, les marchés du logement, sont tous des vases communicants. Comme économiste, je le sais bien. On nous dira que, si on fait une maison à 1 million de dollars, il y a une famille millionnaire qui s'y installera et que cela libérera une plus petite maison pour une famille moins riche qui en libérera une autre plus petite pour une autre famille et que cela libérera finalement un logement de cinq pièces et demie pour ceux qui en ont le plus besoin. Toutefois, ces vases communicants communiquent lentement. Ça prend du temps. Pendant ce temps-là, il y a des gens qui souffrent. Pendant ce temps-là, des centaines de milliers de ménages au Québec seulement consacrent plus de 30 % de leur revenu à leur loyer. C’est inacceptable.</ParaText>
               <ParaText id="6876344">Oui, j’appuie cette motion, parce que je pense que c’est un geste d’introspection de la part des conservateurs qui ont eux aussi fait d’énormes dommages pendant l’ère Harper. Je l’appuie et je le dis aux libéraux. </ParaText>
-              <ParaText id="6876345">Évidemment, il y a quelques actions qui ont été faites, mais ces actions sont imparfaites. Elles sont beaucoup plus imparfaites que ce qu’ils veulent bien admettre. On a besoin de cette introspection, parce que, pendant ça niaise, pendant qu’on négocie trop longtemps avec Québec, pendant qu’on ne redonne pas l’argent des Québécois aux Québécois pour qu’il y ait une stratégie québécoise à l’image du Québec, il y a trop de gens qui attendent, il y a trop de gens qui en souffrent.</ParaText>
+              <ParaText id="6876345">Évidemment, il y a quelques actions qui ont été faites, mais ces actions sont imparfaites. Elles sont beaucoup plus imparfaites que ce qu’ils veulent bien admettre. On a besoin de cette introspection, parce que, pendant que ça niaise, pendant qu’on négocie trop longtemps avec Québec, pendant qu’on ne redonne pas l’argent des Québécois aux Québécois pour qu’il y ait une stratégie québécoise à l’image du Québec, il y a trop de gens qui attendent, il y a trop de gens qui en souffrent.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
@@ -4396,7 +4400,7 @@
               <Affiliation DbId="278214" Type="2">M. Dan Albas (Central Okanagan—Similkameen—Nicola, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876419">Madame la Présidente, c'est pour moi un honneur de prendre la parole au nom des gens de Central Okanagan—Similkameen—Nicola pour débattre de cette importante question. Je partagerai mon temps de parole avec le député de <Affiliation DbId="278471" Type="2">Baie de Quinte</Affiliation>. J'en suis très fier d'ailleurs. </ParaText>
-              <ParaText id="6876420">Je crois que tous les députés sont bien au fait de la crise de l'abordabilité du logement qui touche de nombreux Canadiens. Nous en sommes tous conscients et nous savons que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> aussi en est conscient. Pourquoi le savons-nous? Parce que, le 9 septembre 2015, le Parti libéral du Canada a publié un communiqué. Le titre du communiqué affirmait que le député <Affiliation DbId="278369" Type="2">Papineau</Affiliation> promettait des logements abordables pour les Canadiens. On pouvait ensuite lire que les libéraux affirmaient avoir un plan pour rendre le logement plus abordable pour les plus vulnérables. Où est ce plan? C'était une promesse faite en 2015. </ParaText>
+              <ParaText id="6876420">Je crois que tous les députés sont bien au fait de la crise de l'abordabilité du logement qui touche de nombreux Canadiens. Nous en sommes tous conscients et nous savons que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> aussi en est conscient. Pourquoi le savons-nous? Parce que, le 9 septembre 2015, le Parti libéral du Canada a publié un communiqué. Le titre du communiqué affirmait que le député de <Affiliation DbId="278369" Type="2">Papineau</Affiliation> promettait des logements abordables pour les Canadiens. On pouvait ensuite lire que les libéraux affirmaient avoir un plan pour rendre le logement plus abordable pour les plus vulnérables. Où est ce plan? C'était une promesse faite en 2015. </ParaText>
               <ParaText id="6876421">Nous savons maintenant qu'il n'y a pas de plan. Ce n'était que les promesses irréfléchies habituelles du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, qui n'a jamais été lui-même confronté à une crise du logement abordable. Pire encore, en 2017, le premier ministre a dépouillé la Société canadienne d'hypothèques et de logement de 4 milliards de dollars. Cet argent provenait des primes de la SCHL que les acheteurs d'une première propriété avaient payées. Cet argent devait permettre à la SCHL d'aider davantage d'acheteurs d'une première propriété. Au lieu de cela, le premier ministre a versé cet argent dans les recettes générales, ce qui n'a aidé aucun acheteur d'une première propriété.</ParaText>
               <ParaText id="6876422">En 2019, alors qu'une élection approchait à grands pas, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> s'est rendu compte qu'il n'avait pas réussi à fournir des logements abordables comme il l'avait promis lors de l'élection de 2015 et a fait une autre annonce. L'Incitatif à l'achat d'une première propriété que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> avait promis allait « aider 100 000 familles canadiennes à acheter leur première propriété ».</ParaText>
               <ParaText id="6876423">En 2020, après les élections, nous avons appris que seulement 3 252 demandes avaient été présentées à la SCHL et que, de ce nombre, 2 730 ont été acceptées. Ce programme était non seulement un échec, mais un désastre total. Toutefois, ce n'est pas tout. En 2019, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a également promis de s'attaquer aux acheteurs étrangers qui font grimper le coût des logements. Il a fait cette promesse juste avant les élections.</ParaText>
@@ -4412,7 +4416,7 @@
               <ParaText id="6876432">Cette motion demande aussi au gouvernement de s’engager à ne jamais prélever d’impôt sur les gains en capital provenant de la vente d’une résidence principale. Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> avait également promis de ne jamais faire une telle chose, mais n'oublions pas qu'il avait aussi promis de ne jamais proroger le Parlement. Nous savons aussi que le premier ministre ne se soucie pas beaucoup de respecter ses promesses. Espérons que cette fois-ci, pour une fois, il votera en faveur d'une motion qui lui permettrait de tenir les promesses qu'il a faites aux Canadiens. </ParaText>
               <ParaText id="6876433"> Nous savons également que la motion propose d'augmenter l'offre de logements au Canada, ce que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a promis de faire à maintes reprises depuis qu'il est au pouvoir. En définitive, cette motion est responsable et raisonnable. Cela étant dit, et compte tenu des arguments que j'ai présentés, je ne suis pas tout à fait certain que le premier ministre soit vraiment déterminé à respecter ses promesses ou ses engagements en matière de logement abordable. Il est en effet difficile de croire un premier ministre qui a promis tant de choses aux Canadiens, mais qui en a réalisé si peu. Je ne sais pas vraiment comment les gens peuvent croire qu'il veut sincèrement respecter son engagement en matière de logement abordable.</ParaText>
               <ParaText id="6876434"> Nous savons que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> était déterminé à légaliser le cannabis. Il l'a fait, et ce, au cours de son premier mandat. Toutefois, en ce qui concerne le logement abordable, il n'y a que des promesses qui n'ont pas été tenues. </ParaText>
-              <ParaText id="6876435">En conclusion, je voterai en faveur de cette motion. Que peut-on trouver à y redire? Certains députés essaient de faire grand cas de notre proposition d'examiner et d'utiliser les immeubles fédéraux existants — sur les 37 000 que compte actuellement le parce immobilier du gouvernement fédéral —, dont beaucoup sont situés dans des centres urbains comme Vancouver, Toronto, Ottawa et Gatineau. Il y en a tellement, et la proposition parle d'utiliser seulement 15 % d'entre eux. C'est de cela qu'il est question, et non des affirmations scandaleuses du député de <Affiliation DbId="278257" Type="2">Winnipeg-Nord</Affiliation> ou du député de <Affiliation DbId="278514" Type="2">Kingston et les Îles</Affiliation>. </ParaText>
+              <ParaText id="6876435">En conclusion, je voterai en faveur de cette motion. Que peut-on trouver à y redire? Certains députés essaient de faire grand cas de notre proposition d'examiner et d'utiliser les immeubles fédéraux existants — sur les 37 000 que compte actuellement le parc immobilier du gouvernement fédéral —, dont beaucoup sont situés dans des centres urbains comme Vancouver, Toronto, Ottawa et Gatineau. Il y en a tellement, et la proposition parle d'utiliser seulement 15 % d'entre eux. C'est de cela qu'il est question, et non des affirmations scandaleuses du député de <Affiliation DbId="278257" Type="2">Winnipeg-Nord</Affiliation> ou du député de <Affiliation DbId="278514" Type="2">Kingston et les Îles</Affiliation>. </ParaText>
               <ParaText id="6876436">Une bonne partie des mesures proposées correspondent à des promesses du <Affiliation DbId="214296" Type="1">premier ministre</Affiliation>, certaines faites plus d'une fois. Le logement abordable est important et, dans ma circonscription, des localités comme Merritt et Princeton, qui ont été victimes d'inondations dévastatrices, vont avoir besoin de logements abordables comme jamais auparavant. Sinon, certaines personnes n'auront nulle part où aller. N'oublions pas que, pour beaucoup de gens, Merritt et Princeton étaient des options plus abordables que Vancouver ou Surrey, par exemple. Nous devons aider à la reconstruction. Nous devons aider tout le pays à construire et à donner aux Canadiens un chez-soi.</ParaText>
             </Content>
           </Intervention>
@@ -4487,7 +4491,7 @@
               <ParaText id="6876462">Il serait approprié que le gouvernement fédéral réagisse à la situation en se fondant sur le plan des conservateurs. Je propose également qu'on considère cette situation comme une crise nationale. Il faut reconnaître qu'il existe, pour régler cette situation de crise, des solutions plus vastes qui requièrent la collaboration de tous les partis et de tous les ordres de gouvernement. Le gouvernement fédéral peut jouer un rôle de premier plan pour faciliter certaines solutions, par exemple en réduisant les tracasseries administratives afin d'augmenter les mises en chantier et de faciliter une approche d'intensification résidentielle du centre-ville pour la construction d'unités de logement.</ParaText>
               <ParaText id="6876463">On pourrait notamment faire le nécessaire pour que l'approbation des projets de construction ne prenne pas plus de 120 jours. Comme je l'ai mentionné plus tôt, à Toronto, il faut en moyenne 10 ans pour que la construction d'un immeuble à appartements soit approuvée. Il faut commencer à bâtir dès maintenant et bâtir dès maintenant.</ParaText>
               <ParaText id="6876464">Il nous faut une politique de préparation et de développement pour chaque municipalité, de manière à toujours avoir des terrains prêts pour la mise en chantier sur une période de cinq ans. S'il en manque, elles devraient avoir les outils nécessaires pour ajouter des terrains constructibles. Il ne devrait y avoir aucune raison pour que toutes les municipalités n'aient pas de chantiers en cours en toutes saisons, étant donné la crise actuelle.</ParaText>
-              <ParaText id="6876465"> Nous devons terminer une évaluation des besoins en logement d'ici la fin de 2022, évaluation qui s'arrimera aux lois provinciales et plans d'urbanisme municipaux existants, et qui élaborera les détails des modifications nouvellement recommandées à ces lois et plans. Trop souvent, nous voyons des projets de développement être soumis aux conseils municipaux sans que le public ne sache où en est la situation du logement ou quels types de logements sont nécessaires pour résoudre le problème de pénurie. Cela donne lieu au réflexe du « pas dans ma cour » ou fait monter aux barricades les tenants du « ne construisez absolument rien nulle part près de qui que ce soit ». C'est terrible. Lorsqu'il s'agit des besoins en matière de logement, nous devons envisager les choses sur une période 25 ans et communiquer clairement nos intentions afin de convertir ceux qui sont réfractaires à toute forme de changement. Il existe des exemples sur la planète où les gouvernements travaillent de concert avec les promoteurs et les résidants, et réussissent à faire accepter des projets immobiliers dans la cour de ces derniers. </ParaText>
+              <ParaText id="6876465"> Nous devons terminer une évaluation des besoins en logement d'ici la fin de 2022, évaluation qui s'arrimera aux lois provinciales et plans d'urbanisme municipaux existants, et qui élaborera les détails des modifications nouvellement recommandées à ces lois et plans. Trop souvent, nous voyons des projets de développement être soumis aux conseils municipaux sans que le public ne sache où en est la situation du logement ou quels types de logements sont nécessaires pour résoudre le problème de pénurie. Cela donne lieu au réflexe du « pas dans ma cour » ou fait monter aux barricades les tenants du « ne construisez absolument rien nulle part près de qui que ce soit ». C'est terrible. Lorsqu'il s'agit des besoins en matière de logement, nous devons envisager les choses sur une période de 25 ans et communiquer clairement nos intentions afin de convertir ceux qui sont réfractaires à toute forme de changement. Il existe des exemples sur la planète où les gouvernements travaillent de concert avec les promoteurs et les résidants, et réussissent à faire accepter des projets immobiliers dans la cour de ces derniers. </ParaText>
               <ParaText id="6876466"> Nous devons travailler avec les provinces, les responsables de l'immigration et nos établissements d'enseignement locaux pour attirer et former les travailleurs spécialisés dont nous avons besoin pour faire rouler l'industrie du logement et construire de nouvelles habitations. Il nous manque un nombre considérable de travailleurs pour exercer ces métiers spécialisés — pour lesquels on paie au Canada des salaires incroyables —, et nous devons nous assurer de nous remettre à dire que les métiers spécialisés sont formidables. Les gens devraient adopter ces métiers. </ParaText>
               <ParaText id="6876467">Nous devons améliorer les infrastructures requises pour soutenir l'augmentation de logements dans tous les secteurs. Cela comprend le développement des systèmes de transport en commun, des systèmes d'adduction d'eau, des égouts, des usines de traitement des eaux et le développement des énergies vertes. Il s'agit entre autres choses de construire des villes et des quartiers axés sur les piétons et d'accorder une importance particulière à la croissance urbaine dans une perspective régionale, pour ne nommer que celles‑là. </ParaText>
               <ParaText id="6876468">Nous devons construire une gamme de logements à l'image des demandes et des besoins locaux et régionaux, et nous devons développer les centres-ville dans les régions rurales. La densification s'impose.</ParaText>
@@ -4960,20 +4964,20 @@
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876497"> Je déclare la motion rejetée.</ParaText>
-              <ProceduralText TocType="TPC" id="9">Rejet de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="10">Rejet de la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11454320">
-        <SubjectOfBusinessTitle>Le Budget supplémentaire des dépenses (B) 2021‑2022</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Budget supplémentaire des dépenses (B) 2021-2022</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Fortier" id="11454322">
             <PersonSpeaking>
               <Affiliation DbId="278907" Type="4">L’hon. Mona Fortier (présidente du Conseil du Trésor, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="10">Motion d’adoption</ProceduralText>
+              <ProceduralText TocType="TPC" id="11">Motion d’adoption</ProceduralText>
               <ParaText id="6876498">propose: </ParaText>
               <ParaText id="6876499">
                 <Quote>
@@ -5355,7 +5359,7 @@
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876503">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="11">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Adoption de la motion</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -5365,8 +5369,8 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6876504"> demande à présenter le projet de loi <Document DbId="11488565" Type="3">C-6, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2022</Document>.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="12"> (Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.) </ProceduralText>
-              <ProceduralText TocType="TPC" id="13">Projet de loi C-6. Présentation et première lecture</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption des motions; première lecture et impression du projet de loi" id="13"> (Les motions sont réputées adoptées, le projet de loi est lu pour la première fois et imprimé.) </ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Projet de loi C-6. Présentation et première lecture</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -5376,7 +5380,7 @@
             </PersonSpeaking>
             <Content>
               <ParaText id="6876505"> propose que le projet de loi soit lu pour la deuxième fois et renvoyé au comité plénier.</ParaText>
-              <ProceduralText TocType="TPC" id="14">Deuxième lecture</ProceduralText>
+              <ProceduralText TocType="TPC" id="15">Deuxième lecture</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -5786,10 +5790,10 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="15"> Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="16"> Adoption de la motion</ProceduralText>
               <ParaText id="6876515">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi;formation de la Chambre en comité plénier sous la présidence de M. Chris d'Entremont" id="16">(Le projet de loi est lu pour la deuxième fois et la Chambre se constitue en comité plénier sous la présidence de M. Chris d'Entremont.) </ProceduralText>
-              <ProceduralText TocType="TCC" TocText="Article 2" id="17">Article 2</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi;formation de la Chambre en comité plénier sous la présidence de M. Chris d'Entremont" id="17">(Le projet de loi est lu pour la deuxième fois et la Chambre se constitue en comité plénier sous la présidence de M. Chris d'Entremont.) </ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Article 2" id="18">À propos de l'article 2.</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Question" ToC="Yes" ToCText="M. McCauley" id="11454282">
@@ -5818,7 +5822,7 @@
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876520">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de l'article 2" id="18">(L'article 2 est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de l'article 2" id="19">(L'article 2 est adopté.)</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6876521">
                 <B>Le président:</B> L'article 3 est-il adopté?</ParaText>
@@ -5826,14 +5830,14 @@
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876523">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de l'article 3" id="19">(L'article 3 est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de l'article 3" id="20">(L'article 3 est adopté.)</ProceduralText>
               <ParaText id="6876524">
                 <B>Le président</B>: L'article 4 est-il adopté?</ParaText>
               <ParaText id="6876525">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876526">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de l'article 4" id="20">(L'article 4 est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de l'article 4" id="21">(L'article 4 est adopté.)</ProceduralText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="6876527">
                 <B>Le président:</B> L'article 5 est-il adopté?</ParaText>
@@ -5841,28 +5845,28 @@
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876529">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de l'article 5" id="21">(L'article 5 est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de l'article 5" id="22">(L'article 5 est adopté.)</ProceduralText>
               <ParaText id="6876530">
                 <B>Le président:</B> L'annexe est-elle adoptée?</ParaText>
               <ParaText id="6876531">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876532">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de l'annexe" id="22"> (L'annexe est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de l'annexe" id="23"> (L'annexe est adoptée.)</ProceduralText>
               <ParaText id="6876533">
                 <B>Le président:</B> L'article 1 est-il adopté?</ParaText>
               <ParaText id="6876534">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876535">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de l'article 1" id="23">(L'article 1 est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de l'article 1" id="24">(L'article 1 est adopté.)</ProceduralText>
               <ParaText id="6876536">
                 <B>Le président:</B> Le préambule est-il adopté?</ParaText>
               <ParaText id="6876537">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876538">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption du préambule" id="24">(Le préambule est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption du préambule" id="25">(Le préambule est adopté.)</ProceduralText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="6876539">
                 <B>Le président:</B> Le titre est-il adopté?</ParaText>
@@ -5870,14 +5874,14 @@
                 <B>Des voix:</B> D'accord. </ParaText>
               <ParaText id="6876541">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption du titre" id="25">(Le titre est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption du titre" id="26">(Le titre est adopté.)</ProceduralText>
               <ParaText id="6876542">
                 <B>Le président:</B> Le projet de loi est-il adopté?</ParaText>
               <ParaText id="6876543">
                 <B>Des voix:</B> D'accord.</ParaText>
               <ParaText id="6876544">
                 <B>Des voix:</B> Avec dissidence.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption du projet de loi" id="26">(Le projet de loi est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption du projet de loi" id="27">(Le projet de loi est adopté.)</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -5888,7 +5892,7 @@
               <ParaText id="6876545"> Dois-je faire rapport du projet de loi?</ParaText>
               <ParaText id="6876546">
                 <B>Des voix:</B> D'accord.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Rapport du projet de loi sans propositon d'amendement" id="27">(Rapport est fait du projet de loi sans proposition d'amendement.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Rapport du projet de loi sans propositon d'amendement" id="28">(Rapport est fait du projet de loi sans proposition d'amendement.)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Fortier" id="11454336">
@@ -6308,7 +6312,7 @@
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876556">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TPC" id="28">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="29">Adoption de la motion</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Le président" id="11454362">
@@ -6325,7 +6329,7 @@
               <Affiliation DbId="278907" Type="4">L’hon. Mona Fortier (présidente du Conseil du Trésor, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="29">Troisième lecture </ProceduralText>
+              <ProceduralText TocType="TPC" id="30">Troisième lecture </ProceduralText>
               <ParaText id="6876559">propose que le projet de loi soit lu pour la troisième fois et adopté.</ParaText>
             </Content>
           </Intervention>
@@ -6736,9 +6740,9 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="30">Adoption de la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="31">Adoption de la motion</ProceduralText>
               <ParaText id="6876568">Je déclare la motion adoptée.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Troisième lecture et adoption du projet de loi" id="31"> (Le projet de loi, lu pour la troisième fois, est adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Troisième lecture et adoption du projet de loi" id="32"> (Le projet de loi, lu pour la troisième fois, est adopté.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -6776,7 +6780,7 @@ L'ajournement de la Chambre est proposé d'office conformément à l'article 38
               <Affiliation DbId="278254" Type="2">Mme Lianne Rood (Lambton—Kent—Middlesex, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6876571">Monsieur le Président, le 30 novembre, j'ai demandé à la ministre pourquoi le gouvernement libéral délaisse toujours les Canadiens des régions rurales et je n'ai pas reçu de réponse à cette question. On m'a plutôt servi des phrases creuses sur ce que le gouvernement espère accomplir avec la large bande d'ici 2030. Je ne veux certainement pas minimiser l'importance d'un plan bien formulé pour les services à large bande dans les régions rurales, mais ce n'est pas ce qu'offre le gouvernement. Il y a beaucoup de questions qui méritent une réponse. Par exemple, pourquoi a-t-on choisi 2030 comme année cible? Si les Canadiens des régions rurales importent au gouvernement, pourquoi ne pas viser l'année 2025, comme le proposent les conservateurs? </ParaText>
-              <ParaText id="6876572">Ce n'est pas tout. Je me demande aussi pourquoi le gouvernement vise une vitesse de seulement 5010 mégaoctets par seconde, ce qui n'est certainement pas rapide si on la compare à celle des centres urbains, où on peut avoir accès à une vitesse de 1 gigaoctet. Qu'en est-il du prix des services à large bande dans les régions rurales?</ParaText>
+              <ParaText id="6876572">Ce n'est pas tout. Je me demande aussi pourquoi le gouvernement vise une vitesse de seulement 50-10 mégaoctets par seconde, ce qui n'est certainement pas rapide si on la compare à celle des centres urbains, où on peut avoir accès à une vitesse de 1 gigaoctet. Qu'en est-il du prix des services à large bande dans les régions rurales?</ParaText>
               <ParaText id="6876573">Mon bureau reçoit constamment des appels des gens de ma circonscription à ce sujet. Ils sont très frustrés parce qu'ils paient jusqu'à 1 000 $ par mois pour des services de téléphonie cellulaire parce qu'il n'y a pas de services Internet haute vitesse. Les gens tentent de travailler et de faire leurs travaux scolaires à la maison, et il leur est impossible de visionner des vidéos sans utiliser leurs données cellulaires.</ParaText>
               <ParaText id="6876574">J'aimerais savoir ce que le gouvernement compte faire en ce qui concerne l'abordabilité et la stabilité. Il n'y a pas de mesures de reddition de comptes à l'égard des fournisseurs de service qui reçoivent des fonds fédéraux pour des projets visant à offrir des services à large bande dans les régions rurales et qui tardent à les terminer. Pourquoi n'y a-t-il aucune mesure de reddition de comptes pour que ces projets soient terminés? Compte tenu du bilan du gouvernement en ce qui concerne la gestion des crises liées à l'abordabilité, je suis très sceptique dès qu'il fait de belles promesses.</ParaText>
               <ParaText id="6876575">Les Canadiens des régions rurales n'ont d'autre choix que d'attendre et de compter sur l'intervention du gouvernement alors qu'ils peinent constamment à gagner leur vie. Je me permets d'énumérer quelques dossiers qui vont au-delà des services à large bande et dont la ministre devrait s'occuper de façon prioritaire pour améliorer le sort des résidants de toutes les collectivités rurales du pays. Les gens qui quittent les régions urbaines font croître la demande en aide au logement et en infrastructures. Comme les municipalités ne peuvent pas faire de déficit, elles ont souvent de la difficulté à répondre à la demande pour ce genre de ressources sans une aide du gouvernement provincial ou du gouvernement fédéral.</ParaText>

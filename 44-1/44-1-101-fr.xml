@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11812454">
-  <StartPageNumber>7603</StartPageNumber>
+  <StartPageNumber>7601</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -597,7 +597,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11812793">
-        <SubjectOfBusinessTitle>L'emploi des immigrants</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'emploi</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Gray" id="11812794">
             <PersonSpeaking>
@@ -849,7 +849,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11812946">
         <SubjectOfBusinessTitle>
-       L'emploi</SubjectOfBusinessTitle>
+       Le travail</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Green" id="11812867">
             <PersonSpeaking>
@@ -1021,6 +1021,11 @@
               <ParaText id="7300390">Monsieur le Président, nous avons été présents pour les travailleurs tout au long de la pandémie et nous continuerons d'être présents pour les travailleurs. Comme je viens de le dire, même si certains programmes temporaires de prestations liés à la pandémie arrivent à échéance, les travailleurs pourront toujours bénéficier des prestations d'assurance-emploi régulières. Nous avons hâte de lancer notre plan à long terme visant à améliorer le régime d'assurance-emploi du pays pour des années à venir. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11814007">
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Doherty" id="11812930">
             <PersonSpeaking>
               <Affiliation DbId="278547" Type="2">M. Todd Doherty (Cariboo—Prince George, PCC)</Affiliation>: </PersonSpeaking>
@@ -1049,8 +1054,8 @@
             <PersonSpeaking>
               <Affiliation DbId="279282" Type="18">M. Terry Beech (secrétaire parlementaire de la vice-première ministre et ministre des Finances, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7300397">Monsieur le Président, je souligne que le député vient de ma province, la Colombie‑Britannique, où nous avons une tarification de la pollution depuis 2008. Or, parallèlement à cette tarification de la pollution, nous avons connu la croissance économique la plus rapide de tout le pays.</ParaText>
-              <ParaText id="7300398">En fait, si les conservateurs réussissent à mettre fin à notre lutte contre les changements climatiques, cela se traduira en Colombie‑Britannique par des économies d'exactement zéro dollar et zéro cent. Il est important que les Canadiens entendent les faits.</ParaText>
+              <ParaText id="7300397">Monsieur le Président, je souligne que le député vient de ma province, la Colombie-Britannique, où nous avons une tarification de la pollution depuis 2008. Or, parallèlement à cette tarification de la pollution, nous avons connu la croissance économique la plus rapide de tout le pays.</ParaText>
+              <ParaText id="7300398">En fait, si les conservateurs réussissent à mettre fin à notre lutte contre les changements climatiques, cela se traduira en Colombie-Britannique par des économies d'exactement zéro dollar et zéro cent. Il est important que les Canadiens entendent les faits.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1294,11 +1299,6 @@
               <ParaText id="7300444">Monsieur le Président, il y a à peine deux semaines, j'ai annoncé un programme de 250 millions de dollars pour aider des dizaines de milliers de Canadiens à cesser de chauffer leur maison au mazout et à accéder à de l'électricité, moins chère et plus propre, pour chauffer leur maison et servir à d'autres usages domestiques. Il s'agit d'un autre exemple de manière dont nous pouvons affronter la crise climatique et aider les Canadiens en ce qui concerne l'abordabilité. Malheureusement, les conservateurs n'ont rien à offrir aux Canadiens sur ces deux fronts.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="11814007">
-        <SubjectOfBusinessTitle>L'agriculture et l'agroalimentaire</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Kurek" id="11813002">
             <PersonSpeaking>
               <Affiliation DbId="278451" Type="2">M. Damien Kurek (Battle River—Crowfoot, PCC)</Affiliation>: </PersonSpeaking>
@@ -1316,12 +1316,7 @@
               <ParaText id="7300449">Les Canadiens ne veulent pas des pirouettes des conservateurs: ils veulent des mesures concrètes et sérieuses pour lutter contre les changements climatiques et créer un environnement plus sain et une économie plus verte. </ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="11813009">
-        <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Godin" id="11813007">
             <PersonSpeaking>
               <Affiliation DbId="278452" Type="2">M. Joël Godin (Portneuf—Jacques-Cartier, PCC)</Affiliation>: </PersonSpeaking>
@@ -1343,7 +1338,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11813014">
-        <SubjectOfBusinessTitle>L'environnement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le changement climatique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Lapointe" id="11813013">
             <PersonSpeaking>
@@ -2019,8 +2014,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11813625" Rubric="PrivateMembersBusiness">
-      <OrderOfBusinessTitle>
-      Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="11813627">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>

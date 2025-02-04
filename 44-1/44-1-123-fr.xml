@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11901675">
-  <StartPageNumber>9203</StartPageNumber>
+  <StartPageNumber>9199</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -325,7 +325,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11901748" Rubric="OralQuestionPeriod">
-      <OrderOfBusinessTitle> Questions orales</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Questions orales</OrderOfBusinessTitle>
       <CatchLine>Questions orales</CatchLine>
       <SubjectOfBusiness id="11901752">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
@@ -424,7 +424,12 @@
               <ParaText id="7390560">L'inflation est un phénomène mondial en ce moment, et nous appliquons des mesures d'aide ciblées, afin d'améliorer les choses pour les familles. Malheureusement, malgré tous leurs beaux discours, les conservateurs refusent d'aider les familles.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11901946">
+        <Timestamp Hr="14" Mn="30">(1430)</Timestamp>
+        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Poilievre" id="11901773">
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
@@ -962,7 +967,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11901929">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La sécurité publique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La justice</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Moore" id="11901927">
             <PersonSpeaking>
@@ -1607,8 +1612,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11902112" Rubric="Divisions">
-      <OrderOfBusinessTitle>
-      Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="11902113">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2734,7 +2738,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11902549">
         <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
-        <SubjectOfBusinessQualifier>La disponibilité des médicaments pour enfants </SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La disponibilité des médicaments pour enfants</SubjectOfBusinessQualifier>
         <CatchLine>Article 52 du Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Interjection" ToC="No" id="11902868" ToCText="Mr. d'Entremont">
@@ -3392,7 +3396,7 @@
               <ParaText id="7391123">Comme mes collègues l'ont aussi mentionné, le Comité permanent aux opérations gouvernementales et aux prévisions budgétaires a publié un rapport en 2017, sauf erreur, et les recommandations de ce rapport n'ont pas été suivies. On attend toujours. C'est ce que le projet de loi de mon collègue prévoit faire. Il permettra à ce rapport de prendre vie et, surtout, il permettra de réellement protéger les fonctionnaires qui voient des choses répréhensibles.</ParaText>
               <ParaText id="7391124">Le projet de loi <Document DbId="11875762" Type="4">C‑290</Document> veut donner du mordant à la Loi. Pour ce faire, il propose une série de mesures correctrices. Je ne présenterai pas toute la liste. Quand j'étudie un projet de loi, je prends la loi originale et le projet de loi, et je souligne tout ce qui est différent, tout ce qui est amélioré, tout ce qui est enlevé et tout ce qui est ajouté. Cela prend des heures et je ne ferai pas subir cela à mes collègues. J'ai seulement dix minutes. Je vais donc essayer d'être brève.</ParaText>
               <ParaText id="7391125">D'abord, le projet de loi permet d'élargir la définition d'actes répréhensibles. Par exemple, dans la Loi originale, il était question de cas grave de malversation. Qu'est-ce que « grave » veut dire? C'est un peu flou, parce que cela peut changer d'une personne à l'autre. Par exemple, pour moi, voler un œuf, c'est voler un bœuf. Cela veut dire que, peu importe la malversation qui est faite, qu'elle soit considérée comme petite ou grande, c'est une malversation. C'est grave pour moi. Or, la Loi ne précisait pas ce que le mot « grave » voulait exactement dire. Le mot « grave » sera donc enlevé. Si on voit une malversation, c'en est une et on gère la situation. Il n'y a pas de petites ou de grandes malversations. Je ne sais pas si tout le monde pense comme moi, mais j'espère que oui. </ParaText>
-              <ParaText id="7391126">On ajoute également la notion d'ingérence politique. Ensuite, il y a une incongruité, parce que, dans le cas d'un événement majeur, le ministère doit enquêter sur lui-même selon la Loi actuelle. Le projet de loi <Document DbId="11875762" Type="4">C‑290</Document> va modifier la Loi. Je trouve que c'est une incongruité, parce que si une personne dans la société de nos jours fait un acte répréhensible, ce n'est pas elle qui enquêtera sur son propre acte. C'est la police qui va le faire. On demande au ministère d'enquêter sur lui-même. J'ai un peu de difficulté avec cela. Le projet de loi <Document DbId="11875762" Type="4">C‑290</Document> corrige cela.</ParaText>
+              <ParaText id="7391126">On ajoute également la notion d'ingérence politique. Ensuite, il y a une incongruité, parce que, dans le cas d'un événement majeur, le ministère doit enquêter sur lui-même selon la Loi actuelle. Le projet de loi <Document DbId="11875762" Type="4">C‑290</Document> va modifier cela. Je trouve que c'est une incongruité, parce que si une personne dans la société de nos jours fait un acte répréhensible, ce n'est pas elle qui enquêtera sur son propre acte. C'est la police qui va le faire. On demande au ministère d'enquêter sur lui-même. J'ai un peu de difficulté avec cela. Le projet de loi <Document DbId="11875762" Type="4">C‑290</Document> corrige cela.</ParaText>
               <ParaText id="7391127">En conclusion, pour rétablir la confiance de la population envers l'État et ses fonctionnaires, cet État et ces fonctionnaires doivent être exemplaires. Pour qu'ils le soient, il faut que les gens qui y travaillent se sentent eux-mêmes suffisamment en confiance pour dénoncer tout acte qu'ils jugent répréhensible et qu'il y ait de vraies conséquences, une vraie suite à ces dénonciations, pas seulement pour les fonctionnaires, mais aussi pour les contractuels et les anciens fonctionnaires qui se sont parfois tus très longtemps.</ParaText>
             </Content>
           </Intervention>
@@ -3586,7 +3590,7 @@
               <Affiliation DbId="279225" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7391198">La motion d'ajournement étant adoptée d'office, la Chambre s'ajourne à demain, à 10 heures, conformément au paragraphe 24(1) du Règlement.</ParaText>
-              <ParaText id="7391199">(La séance est levée à 19 h 01.)</ParaText>
+              <ParaText id="7391199">(La séance est levée à 19 h 1.)</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

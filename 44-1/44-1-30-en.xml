@@ -42,13 +42,12 @@
     </Intro>
     <OrderOfBusiness id="11519180" Rubric="PointofOrder">
       <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
-      <CatchLine>Government Orders</CatchLine>
+      <CatchLine>S. O. 57</CatchLine>
       <SubjectOfBusiness id="11518446">
         <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Act Respecting Certain Measures Related to COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>An Act Respecting Certain Measures Related to COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Motion That Debate Be Not Further Adjourned</SubjectOfBusinessQualifier>
-        <CatchLine>Standing Order 57</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duclos" id="11518447">
             <PersonSpeaking>
@@ -219,9 +218,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="11518643">
+          <Intervention Type="Interjection" ToC="No" id="11518643">
             <PersonSpeaking>
-              <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6936922">Madam Speaker, I wonder if the <Affiliation DbId="278906" Type="4">Minister of Health</Affiliation> could provide those following the debate with an explanation of what the federal government's role is, with respect to rapid tests. I think it is an excellent example of a team Canada approach where provinces, territories and communities are working with Ottawa to ensure that rapid testing is done.</ParaText>
               <ParaText id="6936923">Could the minister just go over the process of why the federal government is the governing body that is actually buying and procuring these rapid tests?</ParaText>
@@ -261,11 +260,9 @@
               <Affiliation DbId="278704" Type="2">Ms. Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6936934">
-                <I>Qujannamiik uqaqtittiji</I>. </ParaText>
+                <I>Qujannamiik, Uqaqtittiji</I>. </ParaText>
               <ParaText id="6936935">On January 6, the Government of Nunavut announced it would limit testing to preserve tests only for health care workers. By January 12, the federal government announced that 140,000 tests would be sent to Nunavut. Nunavut's population is more than double that. </ParaText>
               <ParaText id="6936936">Can the minister confirm more than 155,000 tests will be sent to Nunavut so that any resident requiring the test will be able to take it?</ParaText>
-              <ParaText id="6936937">
-                <I>Qujannamiik</I>.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11518730">
@@ -758,7 +755,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11519295">
-        <SubjectOfBusinessQualifier>Resuming Debate on Government Business No. 8—Proceedings on Bill C‑10</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessTitle>Government Business No. 8—Proceedings on Bill C-10</SubjectOfBusinessTitle>
         <CatchLine>Government Orders</CatchLine>
         <ProceduralText TocType="TPC" id="3">Motion</ProceduralText>
         <SubjectOfBusinessContent>
@@ -1020,7 +1017,7 @@
               <ParaText id="6937062">As I was saying, unfortunately, it is probable that this pandemic will last for some time and that more will emerge in the future. The federal government must therefore plan ahead—an important phrase—and provide Quebec and the provinces with the financial means to manage this crisis and all those that will follow.</ParaText>
               <ParaText id="6937063">The Bloc Québécois knows how to improve this situation. It is not complicated: The government must increase provincial health transfers. Why does the federal government always wait for things to become a crisis before doing what needs to be done? Why on earth is it not doing what is required when we are in the midst of the crisis? This government does not know how to plan ahead, and the Prime Minister does not know how to lead. In my opinion, the protests that have been paralyzing Ottawa for almost three weeks provide yet more proof of these two serious flaws.</ParaText>
               <ParaText id="6937064">Quebec is fortunate to have one of the best health care systems in the world. The next step is to improve what we have. The increase in health transfers that we are calling for will not solve all our problems instantaneously, but it is nevertheless a crucial step in the process of building a universal, public and high-quality health care system worthy of a G7 nation. </ParaText>
-              <ParaText id="6937065">Simply put, I think that the Liberal government's stubbornness during this crisis has only highlighted the urgent need for Quebec to take its economic future into its own hands. Jacques Parizeau, may he rest in peace, said that he believed that the main reason Quebec should become independent was so that it could take responsibility for itself in a democracy in which the government is fully accountable to its citizens. In an ideal world, the Quebec government would be the only one responsible for collecting taxes from Quebeckers, and it would not need the the approval of a foreign parliament to govern itself as it sees fit. It also goes without saying that the Quebec government would be fully and completely accountable to its citizens.</ParaText>
+              <ParaText id="6937065">Simply put, I think that the Liberal government's stubbornness during this crisis has only highlighted the urgent need for Quebec to take its economic future into its own hands. Jacques Parizeau, may he rest in peace, said that he believed that the main reason Quebec should become independent was so that it could take responsibility for itself in a democracy in which the government is fully accountable to its citizens. In an ideal world, the Quebec government would be the only one responsible for collecting taxes from Quebeckers, and it would not need the approval of a foreign parliament to govern itself as it sees fit. It also goes without saying that the Quebec government would be fully and completely accountable to its citizens.</ParaText>
               <ParaText id="6937066">Today, the fact that the Liberals will not listen to the call for health transfers reminds everyone why the Bloc Québécois is so necessary and why independence is so desirable.</ParaText>
             </Content>
           </Intervention>
@@ -1178,7 +1175,7 @@
               <ParaText id="6937124">I want to read a quote from Barry Hunt, president of the Canadian Association of Personal Protective Equipment Manufacturers. He said: </ParaText>
               <ParaText id="6937125">
                 <Quote>
-                  <QuotePara Align="Left"> The prime minister himself and the federal government made a commitment to our industry to buy products. What we've seen is the exact opposite: buying only from multinationals, buying only commodity products, locking health-care workers out of new and innovative products, and essentially, decimating the new PPE industry.</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="1"> The prime minister himself and the federal government made a commitment to our industry to buy products. What we've seen is the exact opposite: buying only from multinationals, buying only commodity products, locking health-care workers out of new and innovative products, and essentially, decimating the new PPE industry.</QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="6937126">That is the exact opposite of what we need to do, so today, I call on all parliamentarians to recognize the urgent situation we are in, pass this legislation quickly and get rapid tests into the hands of Canadians to help them get through this pandemic as soon as possible.</ParaText>
@@ -1235,7 +1232,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278623" Type="2">Mr. Don Davies</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6937140">Madam Speaker, where I think the New Democrats and the Bloc join together is on our position that we need the federal government to play a proper role in funding health care in this country. Notionally, 50% is what the federal government should be paying. Where I disagree with my hon. colleague is on what role the federal government plays. The federal government has shared jurisdiction in health, and when we talk about conditions of health transfers, I have three words for my hon. colleague: Canada Health Act. The Canada Health Act has five conditions that must be be met, and no province gets any funding from the federal government unless they agree to abide by those five conditions. My hon. colleague is simply wrong when he thinks that the federal government is an ATM machine and is obligated to give money to the provinces with no obligation whatsoever on how the provinces spend the money. That is constitutionally wrong, and it is belied by the Canada Health Act.</ParaText>
+              <ParaText id="6937140">Madam Speaker, where I think the New Democrats and the Bloc join together is on our position that we need the federal government to play a proper role in funding health care in this country. Notionally, 50% is what the federal government should be paying. Where I disagree with my hon. colleague is on what role the federal government plays. The federal government has shared jurisdiction in health, and when we talk about conditions of health transfers, I have three words for my hon. colleague: Canada Health Act. The Canada Health Act has five conditions that must be met, and no province gets any funding from the federal government unless they agree to abide by those five conditions. My hon. colleague is simply wrong when he thinks that the federal government is an ATM machine and is obligated to give money to the provinces with no obligation whatsoever on how the provinces spend the money. That is constitutionally wrong, and it is belied by the Canada Health Act.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="13" Mn="35">(1335)</Timestamp>
@@ -1595,14 +1592,14 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11519832">
-        <SubjectOfBusinessTitle>COVID-19 Emergency Measures Timeline</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Federal Vaccine Mandates</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Block" id="11519833">
             <PersonSpeaking>
               <Affiliation DbId="278365" Type="2">Mrs. Kelly Block (Carlton Trail—Eagle Creek, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6937251">Mr. Speaker, I would like to congratulate Premier Scott Moe for being the first Canadian leader to announce the end of vaccine mandates. Today in Saskatchewan, anyone who wants to will be able to go to a restaurant and celebrate Valentine's Day with their loved ones, with no proof of vaccination required.</ParaText>
-              <ParaText id="6937252">When making the announcement, Premier Moe stated, “The benefits no longer outweigh the costs.” ... “It's time for proof of vaccination requirements to end.”</ParaText>
+              <ParaText id="6937252">When making the announcement, Premier Moe stated, “The benefits no longer outweigh the costs.... It's time for proof of vaccination requirements to end.”</ParaText>
               <ParaText id="6937253">I am pleased to see other premiers following suit. Unfortunately, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is refusing to do the same. Canada was founded on the principles of peace, order and good government. When we do not have good government, peace and order become harder to maintain.</ParaText>
               <ParaText id="6937254">I call on the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to stop using the pandemic to divide Canadians for political purposes. I call on the federal government to follow Saskatchewan's lead and end all federal mandates.</ParaText>
             </Content>
@@ -1663,7 +1660,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11519847">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>COVID-19 Emergency Measures Timeline</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Federal Vaccine Mandates</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duncan (Stormont—Dundas—South Glengarry)" id="11519848">
             <PersonSpeaking>
@@ -1679,7 +1676,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11519850">
-        <SubjectOfBusinessTitle>COVID-19 Emergency Measures Timeline</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>COVID-19 Protests</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Khalid" id="11519851">
             <PersonSpeaking>
@@ -1919,7 +1916,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278366" Type="2">Mrs. Dominique Vien (Bellechasse—Les Etchemins—Lévis, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6937327">Mr. Speaker, to govern is to make decisions. This government's lack of vision has caused division within its own caucus. After two years of efforts and sacrifices, it is time, as Dr. Theresa Tam says, to reevaluate the public health measures.</ParaText>
+              <ParaText id="6937327">Mr. Speaker, to govern is to make decisions. This government's lack of vision has caused division within its own caucus. After two years of efforts and sacrifices, it is time, as Dr. Theresa Tam says, to re-evaluate the public health measures.</ParaText>
               <ParaText id="6937328">Will the government choose to move forward or will it keep spinning its wheels by dividing and stigmatizing people?</ParaText>
             </Content>
           </Intervention>
@@ -2090,7 +2087,12 @@
               <ParaText id="6937371">We must work closely with the City of Ottawa and the City of Windsor and with all the provinces to address this crisis. We must protect all Canadians. That is our government's priority.</ParaText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11520029">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Ms. Gladu" id="11520022">
             <PersonSpeaking>
               <Affiliation DbId="278446" Type="2">Ms. Marilyn Gladu (Sarnia—Lambton, CPC)</Affiliation>: </PersonSpeaking>
@@ -2107,11 +2109,6 @@
               <ParaText id="6937375">This is a very critical moment, and that is why the government will continue to provide the people, the resources and all of the tools that law enforcement require to ensure that our ports remain open and that our critical infrastructure remains protected. We have to continue to do that to uphold the law.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="11520029">
-        <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Hoback" id="11520027">
             <PersonSpeaking>
               <Affiliation DbId="278200" Type="2">Mr. Randy Hoback (Prince Albert, CPC)</Affiliation>: </PersonSpeaking>
@@ -2127,11 +2124,6 @@
               <ParaText id="6937378">Mr. Speaker, the opposition would like someone, perhaps the health minister, to declare that COVID-19 will end on a particular date. Unfortunately, that is not how the virus operates and that is not what science tells us. What science has told us is that we need to be prudent and responsible in assuming federal leadership. The federal government does not dictate everything. A lot of the restrictions to which the opposition is alluding are restrictions imposed by provinces and territories, and we are going to support them in whatever manner we need to.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="11520066">
-        <SubjectOfBusinessTitle>COVID-19 Protests</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Bragdon" id="11520033">
             <PersonSpeaking>
               <Affiliation DbId="278114" Type="2">Mr. Richard Bragdon (Tobique—Mactaquac, CPC)</Affiliation>: </PersonSpeaking>
@@ -2226,7 +2218,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11520936">
         <Timestamp Hr="14" Mn="50">(1450)</Timestamp>
-        <SubjectOfBusinessTitle>Innovation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Innovation, Science and Industry</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Sorbara" id="11520054">
             <PersonSpeaking>
@@ -3152,11 +3144,9 @@
               <ParaText id="6937513">If we flash back to November of last year, there were tens of millions of surplus rapid tests in storage waiting to be used. There was no pent-up demand; there was a pent-up supply ready to be used. Once we experienced the omicron variant of the coronavirus, the numbers started to shoot up rapidly, and those rapid tests became absolutely essential. We stepped up, as we have done for Canadians since the very beginning. Tens of millions of tests that Ottawa was able to acquire were distributed. For the month of January alone, we had well over 100 million additional rapid tests. I would challenge any member of the opposition to tell me of a country in the world that has acquired more in one month, on a per capita basis, than Canada for distribution to its population. I do not believe we would be able to find such a member or country. It is possible I could be wrong, but I say that because I know how much this issue has been on the minds of the <Affiliation DbId="278934" Type="4">Minister of Procurement</Affiliation>, cabinet as a whole and many other members inside this House. We saw the benefits. We realized how important these rapid tests are. </ParaText>
               <ParaText id="6937514">This legislation is absolutely critical to moving forward. If we did not bring the closure motion and do not pass this legislation, it would bring into jeopardy all sorts of things, either directly or indirectly, such as the legislation dealing with the GIS, not to mention anything else that might be coming up, including being able to support opposition days, such as I believe the Bloc has coming up on Thursday, or dealing with the short days on Wednesdays and Fridays.</ParaText>
               <ParaText id="6937515">Today is the day for us to have this debate, because this is legislation that is necessary in order for us to continue the fight against the coronavirus. I would like to see the Conservative Party be consistent, recognize the science, support the health care professionals, get behind the legislation, get behind the motion and recognize the importance of passing it here today.</ParaText>
-              <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
-              <ParaText>
-              </ParaText>
             </Content>
           </Intervention>
+          <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Deltell" id="11520298">
             <PersonSpeaking>
@@ -3513,7 +3503,7 @@
               <Affiliation DbId="278615" Type="2">Mr. Randall Garrison (Esquimalt—Saanich—Sooke, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6937641">Mr. Speaker, I have to give a shout-out to my husband on Valentine's Day as well.</ParaText>
-              <ParaText id="6937642">I wonder if the hon. member would agree with me that there is a danger in all the rhetoric about freedom that we forget the people who are actually the real victims of COVID. As of last Friday, there were 87 people in the hospital in my community and 14 in intensive care. We were averaging two deaths per day and over 200 new cases. We have 22 outbreaks in long-term care homes. We are still delaying over 500 surgeries a week for things like hip replacements. </ParaText>
+              <ParaText id="6937642">I wonder if the hon. member would agree with me that there is a danger in all the rhetoric about freedom that we forget the people who are actually the real victims of COVID. As of last Friday, there were 87 people in the hospital in my community and 14 in intensive care. We were averaging as many as two deaths per day and over 200 new cases. We have 22 outbreaks in long-term care homes. We are still delaying over 500 surgeries a week for things like hip replacements. </ParaText>
               <ParaText id="6937643">I know there is a lot of frustration about how long the pandemic has gone on, but would he agree with me that we have to keep in mind that some people are suffering the real impacts of COVID?</ParaText>
             </Content>
           </Intervention>
@@ -3559,7 +3549,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278532" Type="2">Mr. Philip Lawrence (Northumberland—Peterborough South, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6937667">Mr. Speaker, I would like to wish the member a happy Valentine's Day, but I am hoping he would join me and indeed join his caucus member, Joel Lightbound, in calling for a more—</ParaText>
+              <ParaText id="6937667">Mr. Speaker, I would like to wish the member a happy Valentine's Day, but I am hoping he would join me and indeed join his caucus member, Joël Lightbound, in calling for a more—</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="11521078">
@@ -3901,7 +3891,7 @@
               <ParaText id="6937783">However, then I heard the member for <Affiliation DbId="278126" Type="2">Cumberland—Colchester</Affiliation> question whether or not rapid tests are even effective and scientifically proven. He said, “I find it very unusual that it has now become an absolute urgency...without any consideration at all”. Let us not forget that this is from the same party that days and weeks ago called on the government to have these rapid tests yesterday. He then went on to say that this is without any consideration for “the changes in science we have seen in this dynamic situation.” He even said that there is a need “to have a look at the science”. The member for Cumberland—Colchester actually said that. One of the Conservative Party's senior representatives on the health committee said that. He is questioning the science of rapid tests.</ParaText>
               <ParaText id="6937784">This leaves me to wonder where the Conservatives are on this. Do they believe in rapid tests and think they effectively work or do they question the science, demanding that we look at the science of it, as though somehow the health committee of Parliament is going to better understand the science than the people who have authorized the use of these tests in Canada? I find it absolutely remarkable.</ParaText>
               <ParaText id="6937785">The member for <Affiliation DbId="278473" Type="2">Mission—Matsqui—Fraser Canyon</Affiliation> said in his speech today, “in my province”, which is British Columbia, “the public health officer is telling us that, for the majority of the population, they are not needed anymore”. We have the Conservative <Affiliation DbId="285642" Type="7">House leader</Affiliation> saying we need them, want them and support them, but Conservatives just do not like the way the government is doing it. We have the member for <Affiliation DbId="278442" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> saying the exact same thing, but he never brought up in his speech the need for them or questioned this bill whatsoever. We have the member for <Affiliation DbId="278126" Type="2">Cumberland—Colchester</Affiliation> questioning the science and validity of rapid tests, and then we have the member for Mission—Matsqui—Fraser Canyon saying they are not even needed anymore. </ParaText>
-              <ParaText id="6937786">I am sorry if I am a little confused as to where the Conservative Party is coming from on this and if my default reaction, as usual, unfortunately, is to assume that its members are trying to play games, but their actions and words in the House only lead one to conclude this. I have been watching. I have been here for the entire debate and there is no absolutely no consistency. It is as though Conservatives are trying filibuster this and make it last as long as it can. That is not going to benefit Canadians, it is not going to benefit the people who need these rapid tests and it is not going to be a good partner with the provinces and territories that deliver these supplies across the country. At the end of the day, all it is going to do is slow this government down so that the opposition can say that we did not get them quick enough. I am sorry I end up at this place where I assume this, but it is based on everything that I have heard here today.</ParaText>
+              <ParaText id="6937786">I am sorry if I am a little confused as to where the Conservative Party is coming from on this and if my default reaction, as usual, unfortunately, is to assume that its members are trying to play games, but their actions and words in the House only lead one to conclude this. I have been watching. I have been here for the entire debate and there is absolutely no consistency. It is as though Conservatives are trying filibuster this and make it last as long as it can. That is not going to benefit Canadians, it is not going to benefit the people who need these rapid tests and it is not going to be a good partner with the provinces and territories that deliver these supplies across the country. At the end of the day, all it is going to do is slow this government down so that the opposition can say that we did not get them quick enough. I am sorry I end up at this place where I assume this, but it is based on everything that I have heard here today.</ParaText>
               <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
               <ParaText id="6937787">I appreciate the time to contribute to this debate today. I think these tests are absolutely critical to making sure we have the supplies in the hands of the provinces and territories, the health agencies they work with, and the various partners that will help distribute them. </ParaText>
               <ParaText id="6937788">As members will recall, a short six to eight weeks ago we did not know we would need this many tests. Suddenly we do, and we do not know what we are going to need six, seven or eight weeks from now. We need to make sure that we have these rapid tests in hand so if there is another variant like omicron, or something similar, we are prepared to make sure we can deploy rapid tests to the various organizations that will help us distribute them throughout the country.</ParaText>
@@ -4197,7 +4187,7 @@
               <Affiliation DbId="278557" Type="2">Ms. Michelle Ferreri</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6937906">Madam Speaker, I thank the member for her kind words on our first exchange.</ParaText>
-              <ParaText id="6937907">I heard an infectious disease doctor on the CBC this morning doing an interview and he had a great point about assessing our individual risk tolerance, learning to live with COVID and doing things that help with our personal protection. I think it is absolutely critical that when we go to visit grandma, grandpa or somebody who is at high risk, we have honest conversations with them so that we are making sure they feel safe and we feel safe and that we have have what we need to make everybody safe.</ParaText>
+              <ParaText id="6937907">I heard an infectious disease doctor on the CBC this morning doing an interview and he had a great point about assessing our individual risk tolerance, learning to live with COVID and doing things that help with our personal protection. I think it is absolutely critical that when we go to visit grandma, grandpa or somebody who is at high risk, we have honest conversations with them so that we are making sure they feel safe and we feel safe and that we have what we need to make everybody safe.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
@@ -4374,7 +4364,7 @@
               <ParaText id="6937962">I would also like to take this opportunity to point out that this is the evening of February 14 and I would like to say hello to my girlfriend. I want to let her know that I am here for a good reason today, which is to participate in this important debate.</ParaText>
               <ParaText id="6937963">Why is this debate important?</ParaText>
               <ParaText id="6937964">We are debating Bill <Document DbId="11525611" Type="3">C-10</Document>, which is not to be confused with the government’s defunct broadcasting bill. In fact, this Bill C-10 seeks to allow the government to spend $2.5 billion to buy and distribute rapid tests to the various Canadian provinces, and obviously to Quebec, which we wish were not a province.</ParaText>
-              <ParaText id="6937965">We might be tempted to say that this seems fairly uncontroversial and few people people would object to having access to tests. Such a position would be irresponsible.</ParaText>
+              <ParaText id="6937965">We might be tempted to say that this seems fairly uncontroversial and few people would object to having access to tests. Such a position would be irresponsible.</ParaText>
               <ParaText id="6937966">However, this goes far beyond simply being for or against spending $2.5 billion on rapid tests. I think that debate would be a short one, or at least it would be for us. That may be why the government did not want us to study the bill in depth and chose to issue a gag order. That may be why it did not want us to dig deeper. If we were to dig deeper and look closer, we might start questioning why the federal government needs to pump extra money into the provinces and Quebec, which need it to deal with the pandemic.</ParaText>
               <ParaText id="6937967">We are talking about an additional $2.5 billion, which seems to have come out of nowhere, and the federal government is swooping in with this money like Santa Claus or a superhero. They want to show just how wonderful, generous and excellent they are. We all know, however, that that money is our tax money. It did come from somewhere, namely our own pockets. We are all paying. </ParaText>
               <ParaText id="6937968">Quebec's health care system is short on money, and the same is probably true for the health care systems in the other Canadian provinces. That is why this bill calls for deeper consideration. Even though the federal government keeps bragging about how amazing it is, every time we ask if there is going to be more money for the health care system, it tells us it spent money like never before during the pandemic.</ParaText>
@@ -4750,7 +4740,7 @@
             <Content>
               <ParaText id="6938113">Mr. Speaker, I must say that was entertaining. When we follow the debate of the Conservatives today, we have to wonder where they are on the issue of tests.</ParaText>
               <ParaText id="6938114">We have some members who stand up to ridicule it. It is almost as if they do not believe rapid tests play a valuable role at all in society. They are asking why we are spending this money. Then there are other members who stand up to say they are going to vote in favour of the legislation.</ParaText>
-              <ParaText id="6938115">I guess the question to ask the member is whether he will be be voting in favour of the legislation. Is he against the legislation? Where is the Conservative Party today, Mr. Trump? Oh, I meant that for the member.</ParaText>
+              <ParaText id="6938115">I guess the question to ask the member is whether he will be voting in favour of the legislation. Is he against the legislation? Where is the Conservative Party today, Mr. Trump? Oh, I meant that for the member.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="20" Mn="00">(2000)</Timestamp>
@@ -4780,7 +4770,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="6938120">It being 8 p.m., pursuant to an order made earlier today, it is my duty to interrupt the proceedings to put forthwith every question necessary to dispose of Motion No. 8 under government business now before the House.</ParaText>
+              <ParaText id="6938120">It being 8 p.m., pursuant to an order made earlier today, it is my duty to interrupt the proceedings to put forthwith every question necessary to dispose of Government Business No. 8 now before the House.</ParaText>
               <ParaText id="6938121">The question is on the amendment.</ParaText>
               <ParaText id="6938122">If a member of a recognized party wishes to request a recorded division or that the amendment be adopted on division, I would invite them to rise and indicate it to the Chair.</ParaText>
             </Content>
@@ -5572,7 +5562,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11522461">
-        <SubjectOfBusinessTitle>Act Respecting Certain Measures Related to COVID-19</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>An Act Respecting Certain Measures Related to COVID-19</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duclos" id="11522530">
             <PersonSpeaking>
@@ -5625,13 +5615,13 @@
               <ParaText id="6938153">Since the introduction of Bill <Document DbId="11496808" Type="3">C-8</Document>, which provided additional funding for the purchase and distribution of rapid tests, Canada experienced an exponential increase in the number of cases and hospitalizations. The spread of omicron also led to an abrupt increase in demand for rapid tests. This is putting pressure on global supply, where supply chains are very tight, so clearly we need to get more of these tests, and we need to do it now.</ParaText>
               <ParaText id="6938154">Bill <Document DbId="11525611" Type="3">C-10</Document> will allow Health Canada to purchase and distribute hundreds of millions of rapid tests across the country and help ensure equitable access in all jurisdictions. It also builds on commitments made in last December's economic and fiscal update, which included an additional $1.7 billion in funding for the procurement and distribution of rapid tests across the country.</ParaText>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6938155">Bill <Document DbId="11525611" Type="3">C-10</Document> would also allow Health Canada and the Public Health Agency of Canada to continue supporting provinces and territories by securing the rapid tests that they need to keep Canadians safe and healthy, including through expanded schoolplace and workplace testing programs.</ParaText>
+              <ParaText id="6938155">Bill <Document DbId="11525611" Type="3">C-10</Document> would also allow Health Canada and the Public Health Agency of Canada to continue supporting provinces and territories by securing the rapid tests that they need to keep Canadians safe and healthy, including through expanded school and workplace testing programs.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6938156">Finally, Bill C-10 would allow us to continue supporting businesses of all sizes by providing rapid tests for workplace screening programs through direct delivery and partners such as chambers of commerce and pharmacies.</ParaText>
               <ParaText id="6938157">Throughout the pandemic, the Canadian government has worked closely with its provincial and territorial partners to ensure they have the tools they need to manage outbreaks and ensure the safety and health of everyone.</ParaText>
               <Timestamp Hr="21" Mn="10">(2110)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="6938158">The federal government starting buying and providing rapid tests free of charge to the provinces and territories in October 2020. The Government of Canada delivered more than 35 million rapid tests to provinces and territories in December 2021, and 140 million additional tests were delivered to Canada in January alone.</ParaText>
+              <ParaText id="6938158">The federal government started buying and providing rapid tests free of charge to the provinces and territories in October 2020. The Government of Canada delivered more than 35 million rapid tests to provinces and territories in December 2021, and 140 million additional tests were delivered to Canada in January alone.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6938159">The Government of Canada also supports the Canadian Red Cross in its delivery efforts.</ParaText>
               <ParaText id="6938160">Companies with 200 employees or more, including federally regulated companies, can receive rapid tests free of charge directly from the Government of Canada. Small and medium-sized businesses and other organizations can also receive and have access to rapid tests through one of the Canadian government's delivery partners.</ParaText>
@@ -5680,7 +5670,7 @@
               <ParaText id="6938177">Mr. Speaker, I would also like to wish my lovely wife Sheryl Palm a happy Valentine's Day, since I do not want to be left out in this. She is my sweetheart.</ParaText>
               <ParaText id="6938178">We have known from the beginning of the pandemic that testing and tracing are critical components of dealing with it, and I think that is still true today. We know that the authorization for $2.5 billion would purchase about 400 million tests because that is the information I got when I asked the minister's staff at a briefing.</ParaText>
               <ParaText id="6938179">Dr. David Juncker, department chair of biomedical engineering at McGill University, estimates that with the omicron variant, Canada could require 600 million to 700 million tests a month and then two tests per person every week once the wave subsides.</ParaText>
-              <ParaText id="6938180">Does the the minister think that 400 million tests are going to be anywhere near enough? If not, how many tests do Canadians need for the rest of 2022 to deal with this virus?</ParaText>
+              <ParaText id="6938180">Does the minister think that 400 million tests are going to be anywhere near enough? If not, how many tests do Canadians need for the rest of 2022 to deal with this virus?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11522324">
@@ -6248,7 +6238,7 @@
               <ParaText id="6938405">The federal government has been giving out rapid tests since October 2020, for a year and five months. I am not being partisan about this. It bothers me that my Province of British Columbia was given seven million free tests by the Government of Canada and no one knows how the tests are being handed out. British Columbians keep writing to me saying they cannot get a test to save their life and do not know where to find them. At the same time, I have grandchildren in Ontario who can get rapid tests at school and bring them home.</ParaText>
               <ParaText id="6938406">Let us talk about saving lives here. Let us talk about dealing with a virus that does not really care what political party we belong to or what province we live in. It does not give a hoot about the Constitution. It does not care about legislation or anything. It is a virus and it knows how to do only one thing, and that is to spread and make people ill. The longer it stays with us, the more we are going to see it change, evolve and mutate into different forms. Right now, we all think of omicron, that it is easy to pick up. Omicron is actually very mild.</ParaText>
               <ParaText id="6938407">On the other hand, we need to talk about why we should have rapid tests and what the importance of rapid tests is in this. We have identified the vector. We have decided how it is spread. We have decided we are going to contain it. We have vaccines. We have treatments ready. The question then is what the rapid tests are going to do. We know the tests are not always very reliable, but the important thing that rapid tests do is the third part of public health protocol, and that is surveillance and tracking. </ParaText>
-              <ParaText id="6938408">If we can find out where omicron is, or B.1 or whatever the new strain is, we are able to do not only a widespread, scattered approach, but we can look at that little town, little village, little space or little part of the city where there are more positive tests. Surveillance is a part of public health. It is a part of looking at a pandemic. They get surveillance and track it. The federal government put in a tracking mechanism, an app. Most provinces ignored it and the app became useless because nobody was tracking. Surveillance went by the board. Surveillance is key to knowing where to expend the resources and where they are going to find the virust spread so as to be able to curb it. It is scientific. It is a simple, basic method.</ParaText>
+              <ParaText id="6938408">If we can find out where omicron is, or B.1 or whatever the new strain is, we are able to do not only a widespread, scattered approach, but we can look at that little town, little village, little space or little part of the city where there are more positive tests. Surveillance is a part of public health. It is a part of looking at a pandemic. They get surveillance and track it. The federal government put in a tracking mechanism, an app. Most provinces ignored it and the app became useless because nobody was tracking. Surveillance went by the board. Surveillance is key to knowing where to expend the resources and where they are going to find the virus spread so as to be able to curb it. It is scientific. It is a simple, basic method.</ParaText>
               <ParaText id="6938409">Therefore, it is important that we get rapid tests out to everyone as soon as possible. Yes, it helps people if they want to visit their grandma to know that they are okay and that they will not give her omicron. That is all very good, but the bottom line is it is important for surveillance and for tracking. Because we did not have an app that everybody used, there was a problem. </ParaText>
               <Timestamp Hr="23" Mn="05">(2305)</Timestamp>
               <ParaText id="6938410">Again, I want to say that I am certainly not being partisan tonight. I am talking about Ontario having done one good thing. My daughter-in-law who lives in Ontario went out one day with her friends. They went for dinner. It was the friend's birthday, and there were three of them. When she got home, she got a message from the app in Ontario, the same federal app we are talking about, which told her she may have been in a room with and in touch with people with omicron.</ParaText>
@@ -6292,7 +6282,7 @@
               <Affiliation DbId="278507" Type="2">Hon. Hedy Fry</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="6938423">Mr. Speaker, I think this is hilarious. In the first instance, the member spoke tonight about provincial jurisdictions. The provinces are being given these rapid tests. They are being shipped to them. We are actually seeking in this bill to get them shipped directly to provinces, so provinces can distribute them.</ParaText>
-              <ParaText id="6938424">If the hon. member cannot find them in her province, she is going to have to ask her provincial government why they have received so many hundreds of millions of tests they they have not distributed yet. That has to be my answer. We cannot have it both ways.</ParaText>
+              <ParaText id="6938424">If the hon. member cannot find them in her province, she is going to have to ask her provincial government why they have received so many hundreds of millions of tests they have not distributed yet. That has to be my answer. We cannot have it both ways.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Wagantall" id="11522604">
@@ -6976,7 +6966,7 @@
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="13">Division on motion deferred</ProceduralText>
-              <ParaText id="6938623">Pursuant to an order made earlier today, the division stands deferred until Tuesday, February 15, 2022, at the expiry of the time provided for Oral Questions.</ParaText>
+              <ParaText id="6938623">Pursuant to an order made earlier today, the division stands deferred until Tuesday, February 15, at the expiry of the time provided for Oral Questions.</ParaText>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
               <ParaText id="6938624">Accordingly, pursuant to order made earlier today, the House stands adjourned until Tuesday, February 15, at <?bk ?>10 a.m.<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
               <ParaText id="6938625">(The House adjourned at 12:19 a.m.)</ParaText>

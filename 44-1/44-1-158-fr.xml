@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12051021">
-  <StartPageNumber>11541</StartPageNumber>
+  <StartPageNumber>11539</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -553,7 +553,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12051799">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La première position mondiale en développement durable pour l'Université de Sherbrooke</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le classement international STARS</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Brière" id="12051800">
             <PersonSpeaking>
@@ -839,7 +839,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12051935">
-        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Scheer" id="12051933">
             <PersonSpeaking>
@@ -902,11 +902,6 @@
               <ParaText id="7569143">Madame la Présidente, il s'agit d'une autre question importante, mais il y a aussi une réponse importante. Voici la réponse: lorsque nous essayons de cibler un problème aussi urgent que le changement climatique à l'échelle nationale et internationale, nous devons intervenir directement. C'est le genre de réponse que mes enfants exigent de moi chaque soir à table. Ils me demandent ce que je fais pour lutter contre la pollution croissante et les changements de température. Je leur réponds que nous mettons en place une tarification de la pollution qui a une incidence sur le comportement des gens et qui nous aide à prendre de meilleures décisions pour nos familles et le Canada. Voilà le genre de réponses que les Canadiens méritent.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="12051948">
-        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Seeback" id="12051947">
             <PersonSpeaking>
               <Affiliation DbId="278504" Type="2">M. Kyle Seeback (Dufferin—Caledon, PCC)</Affiliation>: </PersonSpeaking>
@@ -922,12 +917,7 @@
               <ParaText id="7569146">Madame la Présidente, je trouve très paradoxal d'entendre les conservateurs répéter constamment qu'ils se préoccupent des aînés alors qu'ils ne cessent de voter contre toutes les mesures que nous proposons pour venir en aide à ce segment de la population. Voici quelques exemples. Ils ont voté contre la majoration annuelle du Supplément de revenu garanti de 947 $ pour 900 000 aînés célibataires. Ils ont voté contre la bonification de 50 % du Régime de pensions du Canada pour les futurs retraités, et ils ont voté contre le rétablissement de l'âge d'admissibilité à la Sécurité de la vieillesse de 67 à 65 ans, ce qui obligeait les aînés à travailler deux ans de plus pour obtenir les prestations auxquelles ils avaient droit.</ParaText>
             </Content>
           </Intervention>
-        </SubjectOfBusinessContent>
-      </SubjectOfBusiness>
-      <SubjectOfBusiness id="12052507">
-        <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
-        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
-        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Motz" id="12051952">
             <PersonSpeaking>
               <Affiliation DbId="278222" Type="2">M. Glen Motz (Medicine Hat—Cardston—Warner, PCC)</Affiliation>: </PersonSpeaking>
@@ -958,16 +948,21 @@
               <Affiliation DbId="293786" Type="18">Mme Marie-France Lalonde (secrétaire parlementaire du ministre de l’Immigration, des Réfugiés et de la Citoyenneté, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7569154">Madame la Présidente, je crois que tous les députés s'entendent pour dire que nulle personne handicapée ne devrait vivre dans la pauvreté. Voilà pourquoi nous sommes déterminés à créer la prestation canadienne pour les personnes handicapées, un supplément de revenu conçu soigneusement qui pourrait sérieusement réduire la pauvreté et améliorer la sécurité financière de centaines de milliers de personnes handicapées en âge de travailler, d'un océan à l'autre.</ParaText>
-              <ParaText id="7569155">Le 3 février, la Chambre a adopté à l'unanimité le projet de loi <Document DbId="11826019" Type="3">C‑22</Document> et...</ParaText>
+              <ParaText id="7569155">Le 3 février, la Chambre a adopté à l'unanimité le projet de loi <Document DbId="11826019" Type="3">C-22</Document> et...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Mendès" id="12051962">
             <PersonSpeaking>
               <Affiliation DbId="279225" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7569156">Le député de Northumberland—Peterborough‑Sud a la parole.</ParaText>
+              <ParaText id="7569156">Le député de Northumberland—Peterborough-Sud a la parole.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="12052507">
+        <SubjectOfBusinessTitle>L'économie</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Lawrence" id="12051963">
             <PersonSpeaking>
               <Affiliation DbId="278532" Type="2">M. Philip Lawrence (Northumberland—Peterborough-Sud, PCC)</Affiliation>: </PersonSpeaking>
@@ -1668,7 +1663,7 @@
             <Content>
               <ProceduralText TocType="TPC" id="2">Projet de loi C‑314. Présentation et première lecture </ProceduralText>
               <ParaText id="7569300"> demande à présenter le projet de loi <Document DbId="12210462" Type="4">C‑314, Loi modifiant le Code criminel (aide médicale à mourir)</Document>.</ParaText>
-              <ParaText id="7569301">Madame la Présidente, j'ai le plaisir de déposer aujourd'hui le projet de loi sur la protection de la santé mentale. Comme les députés le savent, l'aide médicale au suicide a été légalisée au Canada en 2016. En vertu du projet de loi <Document DbId="8177165" Type="3">C‑14</Document>, cette aide médicale était expressément limitée aux adultes aptes atteints d'une maladie incurable causant des souffrances persistantes et intolérables qui ne peuvent être soulagées, et dont la mort naturelle est raisonnablement prévisible.</ParaText>
+              <ParaText id="7569301">Madame la Présidente, j'ai le plaisir de déposer aujourd'hui le projet de loi sur la protection de la santé mentale. Comme les députés le savent, l'aide médicale à mourir a été légalisée au Canada en 2016. En vertu du projet de loi <Document DbId="8177165" Type="3">C‑14</Document>, cette aide médicale était expressément limitée aux adultes aptes atteints d'une maladie incurable causant des souffrances persistantes et intolérables qui ne peuvent être soulagées, et dont la mort naturelle est raisonnablement prévisible.</ParaText>
               <ParaText id="7569302">À l'époque, le gouvernement et les parties prenantes qui soutenaient le projet de loi ont assuré aux Canadiens qu'on ne s'engageait pas sur une pente glissante, et que le champ d'application de l'aide médicale à mourir ne serait pas continuellement élargi pour inclure d'autres Canadiens. Il n'est pas surprenant qu'au cours des sept années qui se sont écoulées depuis, le gouvernement ait élargi le champ d'application de l'aide médicale à mourir en l'étendant de facto aux personnes qui ne sont pas mourantes, mais qui vivent avec un handicap.</ParaText>
               <ParaText id="7569303">Plus récemment, le gouvernement a élargi l'aide médicale à mourir aux personnes atteintes de maladie mentale et a également signalé son intention d'étendre ce droit aux enfants mineurs matures. Manifestement, nous nous trouvons sur la pente glissante contre laquelle beaucoup d'entre nous avaient formulé des mises en garde, et les Canadiens sont en droit de se demander qui sont les prochains à figurer sur la liste. Est-ce que ce sera les toxicomanes, les indigents, les sans-abri ou les anciens combattants dans le besoin? Qu'en est-il des aînés consentants qui en ont assez de la vie? Où s'arrêtera-t-on?</ParaText>
               <ParaText id="7569304">Mon projet de loi inverserait cette tendance et annulerait la décision du gouvernement d'étendre l'aide médicale à mourir aux personnes atteintes de maladie mentale. Les données provenant des experts en santé mentale sont très claires. Au Canada, il n'y a pas de consensus sur le fait que les personnes atteintes de maladie mentale devraient être admissibles au régime d'aide médicale à mourir. Les questions entourant le caractère irrémédiable, la compétence et les pensées suicidaires sont loin d'être suffisamment résolues pour justifier cet important changement en faveur de la mort dans la politique. </ParaText>
@@ -1707,8 +1702,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12052451">
-        <SubjectOfBusinessQualifier>
-      La Société canadienne des postes</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La Société canadienne des postes</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Mazier" id="12052238">
             <PersonSpeaking>
@@ -1950,9 +1944,6 @@
               <ParaText id="7569379">D'accord?</ParaText>
               <ParaText id="7569380">
                 <B>Des voix:</B> D'accord.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7569381">
-                <B>La vice-présidente adjointe (Mme Alexandra Mendès):</B> Comme il est 13 h 30, la Chambre abordera maintenant l'étude des affaires émanant des députés selon l'ordre indiqué au Feuilleton d'aujourd'hui.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>

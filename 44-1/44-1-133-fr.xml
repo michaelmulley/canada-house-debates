@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11940972">
-  <StartPageNumber>9889</StartPageNumber>
+  <StartPageNumber>9885</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -118,7 +118,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11941022">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Une initiative contre la violence faite aux femmes à l'École secondaire d'Oka</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Une initiative contre la violence fondée sur le genre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Garon" id="11941023">
             <PersonSpeaking>
@@ -179,7 +179,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11941048">
-        <SubjectOfBusinessTitle>L'aide aux étudiants</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>L'éducation postsecondaire</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Kusmierczyk" id="11941049">
             <PersonSpeaking>
@@ -392,7 +392,7 @@
             <PersonSpeaking>
               <Affiliation DbId="291215" Type="9">L’hon. Pierre Poilievre (chef de l’opposition, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7444305">Le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> continue de fermer les yeux sur la crise qui guette les ménages canadiens vu que leur facture de chauffage résidentiel monte en flèche. Dans de nombreuses municipalités, on s'attend à ce que ces factures doublent. Certains ménages seront contraints de payer de 5 000 $ à 6 000 $ par année. Pourtant, le premier ministre veut non seulement maintenir, mais même tripler la taxe sur le carbone qu'il impose aux Canadiens.</ParaText>
+              <ParaText id="7444305">Monsieur le Président, le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> continue de fermer les yeux sur la crise qui guette les ménages canadiens vu que leur facture de chauffage résidentiel monte en flèche. Dans de nombreuses municipalités, on s'attend à ce que ces factures doublent. Certains ménages seront contraints de payer de 5 000 $ à 6 000 $ par année. Pourtant, le premier ministre veut non seulement maintenir, mais même tripler la taxe sur le carbone qu'il impose aux Canadiens.</ParaText>
               <ParaText id="7444306">Il joue peut-être un jeu en en retardant l'application dans quelques provinces, mais pourquoi ne prend-il pas de mesures décisives pour réparer les torts qu'il a causés à tous les Canadiens et à toutes leurs habitations en soustrayant complètement le chauffage résidentiel à la taxe sur le carbone?</ParaText>
             </Content>
           </Intervention>
@@ -1548,7 +1548,18 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278568">Calkins</Affiliation>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278126">Ellis</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278656">Powlowski</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Affiliation DbId="278473">Vis</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11941477">
@@ -1912,7 +1923,18 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278568">Calkins</Affiliation>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278126">Ellis</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278656">Powlowski</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Affiliation DbId="278473">Vis</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11941565">
@@ -2291,7 +2313,18 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278568">Calkins</Affiliation>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278126">Ellis</Affiliation>
+              <Affiliation DbId="278108">Jones</Affiliation>
+              <Affiliation DbId="278407">Lemire</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278656">Powlowski</Affiliation>
+              <Affiliation DbId="278238">Sajjan</Affiliation>
+              <Affiliation DbId="278373">Savard-Tremblay</Affiliation>
+              <Affiliation DbId="278473">Vis</Affiliation>
+              <Total> -- 10</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11941650">
@@ -2367,8 +2400,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11941670">
         <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-       Scission du projet de loi C‑27 aux fins du vote</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La scission du projet de loi C-27 aux fins du vote</SubjectOfBusinessQualifier>
         <CatchLine>Recours au Règlement</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Lamoureux" id="11941663">
@@ -2699,9 +2731,9 @@
               <ParaText id="7444613">Le projet de loi <Document DbId="11482450" Type="3">C‑5</Document> ressemble beaucoup au projet de loi <Document DbId="11554508" Type="3">S‑4</Document> dans la mesure où les deux visent la modernisation. Nous examinons les données scientifiques et la technologie dont nous disposons au XXI<Sup>e</Sup> siècle et nous menons des réformes très importantes qui nous permettront de moderniser le système judiciaire et le système de justice.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="M. Caputo" id="11941824">
+          <Intervention Type="Interjection" ToC="No" id="11941824">
             <PersonSpeaking>
-              <Affiliation DbId="278564" Type="2">M. Frank Caputo (Kamloops—Thompson—Cariboo, PCC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278564" Type="2">M. Frank Caputo</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7444614">Monsieur le Président, le <Affiliation DbId="279279" Type="18">secrétaire parlementaire</Affiliation> a parlé d'efficacité. La mise en liberté sous caution est probablement la procédure la plus inefficace. Dans ma province, la Colombie‑Britannique, les gens utilisent l'expression « capture et remise en liberté » pour en parler. Des propriétaires d'entreprise et des concitoyens, qui ne sont pas nécessairement des personnes passionnées par la loi, l'ordre et la justice, me disent constamment que cela est devenu un problème important.</ParaText>
               <ParaText id="7444615">Alors pourquoi n'y a-t-il aucune disposition sur la mise en liberté sous caution dans le projet de loi?</ParaText>
@@ -2871,11 +2903,11 @@
             <Content>
               <ParaText id="7444692">Monsieur le Président, cela me fait plaisir d'être ici aujourd'hui pour signifier l'appui du Bloc québécois au projet de loi <Document DbId="11554508" Type="3">S‑4</Document>, qui était anciennement le projet de loi <Document DbId="11102980" Type="3">C‑23</Document>. Le projet de loi S‑4 était demandé par bon nombre de provinces et d'acteurs du système judiciaire afin de tirer profit des leçons apprises au cours de la pandémie.</ParaText>
               <ParaText id="7444693">Le projet de loi S‑4 vise à modifier le Code criminel pour y introduire des dispositions permettant une meilleure efficacité du système. La pandémie aurait été une situation désastreuse à plusieurs égards. Nous en convenons tous. Nous souhaitons sûrement ne pas la voir se répéter; cela va de soi.</ParaText>
-              <ParaText id="7444694">Toutefois, nous avons aussi appris de cette crise et nous pouvons certainement aujourd'hui tenter de tirer profit des leçons apprises. Ainsi, nous avons travaillé en mode virtuel au cours des deux dernières années comme jamais auparavant. Ce mode de fonctionnement a certains des désavantages certains; j'y reviendrai. Il comporte toutefois des avantages que nous ne pouvons ignorer. Notre système judiciaire pourrait très certainement être amélioré par l'utilisation de cet outil trop mal connu ou souvent mal utilisé. Le projet de loi S‑4 propose donc un mode d'emploi pour que les procédures qui peuvent être faites en mode virtuel soient encadrées et utilisées de manière efficace.</ParaText>
+              <ParaText id="7444694">Toutefois, nous avons aussi appris de cette crise et nous pouvons certainement aujourd'hui tenter de tirer profit des leçons apprises. Ainsi, nous avons travaillé en mode virtuel au cours des deux dernières années comme jamais auparavant. Ce mode de fonctionnement a des désavantages certains; j'y reviendrai. Il comporte toutefois des avantages que nous ne pouvons ignorer. Notre système judiciaire pourrait très certainement être amélioré par l'utilisation de cet outil trop mal connu ou souvent mal utilisé. Le projet de loi S‑4 propose donc un mode d'emploi pour que les procédures qui peuvent être faites en mode virtuel soient encadrées et utilisées de manière efficace.</ParaText>
               <ParaText id="7444695">Notamment, ce projet de loi propose de permettre le recours à des moyens électroniques ou à d'autres moyens automatisés dans le processus de constitution du jury. Cela permet aussi d'élargir les possibilités de comparution à distance, par audioconférence ou vidéoconférence dans certaines circonstances pour les accusés et les contrevenants. Cela permet également de prévoir en certaines circonstances la participation de candidats-jurés dans le processus de constitution du jury par vidéoconférence.</ParaText>
               <ParaText id="7444696">Le projet de loi permet également d'élargir les pouvoirs des tribunaux en matière des règles sur la gestion des instances afin de permettre à leurs fonctionnaires de régler des questions de nature administrative pour les accusés non représentés par avocat. Il permet également aux tribunaux d'ordonner la prise des empreintes à l'étape de l'enquête sur la remise en liberté provisoire ou à toute autre étape du processus de justice pénale lorsqu'elles n'ont pas pu être prises antérieurement pour des motifs exceptionnels.</ParaText>
               <ParaText id="7444697">Finalement, il permet de remplacer les dispositions existantes sur les télémandats par un processus de demande et de délivrance d'une grande variété de mandats de perquisition, d'autorisations et d'ordonnances par des moyens de télécommunication.</ParaText>
-              <ParaText id="7444698"> Le projet de loi S‑4apporte également des modifications au Code criminel et à la Loi sur l'identification des criminels afin de corriger des erreurs mineures de nature technique et comporte des dispositions transitoires, notamment sur l'application des modifications.</ParaText>
+              <ParaText id="7444698"> Le projet de loi S‑4 apporte également des modifications au Code criminel et à la Loi sur l'identification des criminels afin de corriger des erreurs mineures de nature technique et comporte des dispositions transitoires, notamment sur l'application des modifications.</ParaText>
               <ParaText id="7444699">Enfin, le projet de loi S‑4 apporte des modifications connexes à d'autres lois et prévoit également des examens indépendants sur l'utilisation de la procédure à distance dans les affaires de justice pénale.</ParaText>
               <ParaText id="7444700">Il prévoit également un examen parlementaire des dispositions édictées ou modifiées par la présente loi, ainsi que de l'utilisation des procédures à distance dans les affaires de justice pénale, lequel commence au début de la cinquième année qui suit sa sanction. C'est donc une révision de l'ensemble du processus au bout de cinq ans. Cela me semble très sage, compte tenu de la nouveauté de bon nombre de dispositions que nous propose le projet de loi S‑4.</ParaText>
               <ParaText id="7444701">Le projet de loi S‑4 est un outil. Le mode virtuel, on l'a vu ici à la Chambre et ailleurs, a des avantages, c'est certain, mais il a aussi des inconvénients importants. Comme tout outil, on doit l'utiliser avec discernement. Il comporte des limites dont on doit tenir compte. Quand vient le temps notamment d'évaluer la crédibilité d'un témoin, le langage non verbal est un élément important dont le juge veut tenir compte. En mode virtuel, le langage verbal est pour ainsi dire caviardé. N’y a-t-il pas là un élément important qui pourrait dans certains cas changer radicalement l'issue d'un procès, surtout quand la preuve présentée est constituée de témoignages contradictoires? Je le crois.</ParaText>
@@ -3109,7 +3141,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278615" Type="2">M. Randall Garrison</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7444804"> Monsieur le Président, à mon avis, la première chose que nous devons régler, c'est que beaucoup de Premières Nations ont leurs propres façons de traiter des infractions que nous avons tendance à soumettre aux tribunaux et pour lesquelles nous enfermons les gens en prison, et que leurs méthodes sont beaucoup plus efficaces que celles que nous utilisons. Le problème est que les communautés traditionnelles et les systèmes traditionnels sont sous-financés, nous devrions donc rendre des ressources disponibles aux Premières Nations qui veulent poursuivre leurs propres initiatives en matière de justice. En fin de compte, ces initiatives sont beaucoup plus efficaces que le système correctionnel que nous semblons privilégier dans son ensemble.</ParaText>
+              <ParaText id="7444804">Madame la Présidente, à mon avis, la première chose que nous devons régler, c'est que beaucoup de Premières Nations ont leurs propres façons de traiter des infractions que nous avons tendance à soumettre aux tribunaux et pour lesquelles nous enfermons les gens en prison, et que leurs méthodes sont beaucoup plus efficaces que celles que nous utilisons. Le problème est que les communautés traditionnelles et les systèmes traditionnels sont sous-financés, nous devrions donc rendre des ressources disponibles aux Premières Nations qui veulent poursuivre leurs propres initiatives en matière de justice. En fin de compte, ces initiatives sont beaucoup plus efficaces que le système correctionnel que nous semblons privilégier dans son ensemble.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. McLean" id="11942763">
@@ -3326,9 +3358,6 @@
               <ParaText id="7444905">Le gouvernement du Canada est conscient que, maintenant plus que jamais, les Canadiens dépendent des services de télécommunication pour le travail, l'école, les finances, les soins de santé et les relations interpersonnelles. Trop souvent, j'entends la frustration des Canadiens par rapport aux services de télécommunication qui leur sont offerts. Je continuerai d'exiger des comptes des fournisseurs de services de télécommunication du Canada et j'informerai les Canadiens du travail qu'effectue le gouvernement pour renforcer la fiabilité de nos réseaux et améliorer l'abordabilité, la concurrence et la protection des consommateurs dans ce secteur.</ParaText>
               <ParaText id="7444906">Nous sommes ici aujourd'hui pour discuter du projet de loi d'initiative parlementaire <Document DbId="11876139" Type="4">C‑288</Document>, loi modifiant la Loi sur les télécommunications concernant les renseignements transparents et exacts sur les services à large bande. J'appuie l'intention du projet de loi et je suis d'accord pour dire que les consommateurs doivent avoir accès à des renseignements clairs concernant le rendement des services à large bande pour qu'ils puissent avoir l'assurance d'obtenir ce pour quoi ils paient.</ParaText>
               <ParaText id="7444907">D'ailleurs, les consommateurs ont également besoin de plus de renseignements sur les zones de desserte des services de téléphonie cellulaire. Le gouvernement intervient déjà dans ce domaine. Nous veillerons à ce que les démarches que nous avons déjà entreprises pour résoudre ce problème aillent de pair avec ce projet de loi afin d'améliorer les résultats pour les Canadiens. Nous veillerons également à ce que le tout soit mis en œuvre rapidement.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7444908">Je crois fermement que les consommateurs doivent avoir accès à des renseignements clairs sur le rendement des services à large bande afin de pouvoir être sûrs qu'ils obtiennent ce pour quoi ils paient. En fait, les consommateurs ont également besoin d'être mieux renseignés sur les services mobiles qui fournissent la couverture cellulaire.</ParaText>
-              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7444909">En mai, le gouvernement a déposé devant les deux Chambres du Parlement un projet d'instruction à l'intention du CRTC pour une approche renouvelée de la politique des télécommunications. L'instruction proposée est juridiquement contraignante et exige du CRTC qu'il prenne des mesures dans un certain nombre de domaines. Il s'agit notamment de mettre en place de nouvelles règles pour améliorer la concurrence, de renforcer les droits des consommateurs et leur accès à l'information, d'accélérer le déploiement de réseaux à large bande de haute qualité et de favoriser des prix plus bas et de meilleurs services de télécommunications pour les consommateurs canadiens.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="7444910">L'instruction demande en outre aux fournisseurs de services de recueillir des renseignements sur les services qu'ils offrent, de les publier et de les mettre à la disposition des consommateurs. Elle exige également la mise à l'essai de technologies plus utilisées dans les régions rurales comme le sans-fil fixe. De plus, nous demandons au CRTC d'élaborer et de mettre en œuvre une approche rigoureuse et uniforme de la production de rapports sur la couverture des services sans fil mobiles.</ParaText>
@@ -3457,8 +3486,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11943260" Rubric="LateShow">
-      <OrderOfBusinessTitle>
-      Motion d'ajournement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Motion d'ajournement</OrderOfBusinessTitle>
       <CatchLine>Motion d'ajournement</CatchLine>
       <SubjectOfBusiness id="11943284">
         <SubjectOfBusinessContent>
@@ -3475,7 +3503,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278710" Type="2">Mme Jenny Kwan (Vancouver-Est, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7444965">Madame la Présidente, le 27 septembre, j'ai demandé au <Affiliation DbId="278914" Type="4">ministre du Logement</Affiliation> s'il veillerait à ce que le budget de 2023 comprenne des investissements importants dans une stratégie sur le logement pour et par les Autochtones en milieu urbain, rural et nordique. Lorsque le ministre a entendu l'histoire d'une jeune femme autochtone d'Ottawa qui a été assassinée parce qu'elle n'avait pas accès à un logement sûr et abordable, il a déclaré : « Les mots me manquent. »</ParaText>
+              <ParaText id="7444965">Madame la Présidente, le 27 septembre, j'ai demandé au <Affiliation DbId="278914" Type="4">ministre du Logement</Affiliation> s'il veillerait à ce que le budget de 2023 comprenne des investissements importants dans une stratégie sur le logement pour et par les Autochtones en milieu urbain, rural et nordique. Lorsque le ministre a entendu l'histoire d'une jeune femme autochtone d'Ottawa qui a été assassinée parce qu'elle n'avait pas accès à un logement sûr et abordable, il a déclaré: « Les mots me manquent. »</ParaText>
               <ParaText id="7444966">Le rapport final de l'Enquête nationale sur les femmes et les filles autochtones disparues et assassinées cite le logement 299 fois, mais avec ses paroles vides, le gouvernement continue de laisser tomber les Autochtones. La Déclaration des Nations unies sur les droits des peuples autochtones indique clairement que tous les Autochtones, y compris ceux qui vivent loin de leur communauté d'origine, ont droit à un logement sûr et adéquat. Le gouvernement a l'obligation légale de faire respecter ce droit fondamental, mais dans son budget de 2022, le gouvernement libéral n'a alloué que 300 millions de dollars sur 5 ans pour mettre en place une stratégie sur le logement pour et par les Autochtones en milieu urbain, rural et nordique. Ce montant est terriblement insuffisant. Le NPD a toujours demandé aux libéraux d'investir des fonds suffisants pour répondre aux besoins.</ParaText>
               <ParaText id="7444967">En fait, ces 300 millions de dollars ne suffisent même pas à répondre aux besoins en matière de logement des Autochtones vivant dans le quartier Downtown Eastside de Vancouver, mais les libéraux se sont contentés de dépenser cette somme sur cinq ans à des fins administratives et de recherche. C'est une mauvaise blague. À la suite de l'entente de soutien et de confiance, les néo-démocrates obligent les libéraux à accélérer l'échéancier, à dépenser l'argent en deux ans et à veiller à ce qu'il soit versé dans un fonds d'urgence provisoire destiné à répondre à des besoins non comblés urgents, un travail actuellement réalisé par Services aux Autochtones Canada.</ParaText>
               <ParaText id="7444968">Il est toutefois choquant que le gouvernement persiste à exiger davantage de recherches et de données. Comme si la grave crise du logement qui frappe les Autochtones n'était pas suffisante, voilà que le gouvernement leur impose un fardeau supplémentaire en les obligeant à prouver le niveau de leurs besoins. Le gouvernement a bien plus de données qu'il ne lui en faut pour justifier des investissements qui sont nécessaires. </ParaText>

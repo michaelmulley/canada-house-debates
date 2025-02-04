@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11713668">
-  <StartPageNumber>5715</StartPageNumber>
+  <StartPageNumber>5713</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -112,7 +112,6 @@
             <PersonSpeaking>
               <Affiliation DbId="279182" Type="96">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7194446"> Je déclare la motion adoptée avec dissidence.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="3"> (La motion est adoptée.)</ProceduralText>
               <ParaText id="7194447">
                 <B>Le vice-président:</B> Quand le projet de loi sera-t-il lu pour la troisième fois? Avec la permission de la Chambre, maintenant?</ParaText>
@@ -408,7 +407,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11714503">
         <SubjectOfBusinessTitle>Privilège</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>Motion d'ajournement</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La motion d'ajournement</SubjectOfBusinessQualifier>
         <CatchLine>Privilège</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Nater" id="11714265">
@@ -496,8 +495,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11714853" Rubric="Other">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11714864">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1460,7 +1458,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11715038">
-        <SubjectOfBusinessTitle>La Semaine du tourisme</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La Semaine nationale du tourisme</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Weiler" id="11715039">
             <PersonSpeaking>
@@ -1579,7 +1577,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11715139">
         <Timestamp Hr="14" Mn="10">(1410)</Timestamp>
-        <SubjectOfBusinessTitle>Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Calkins" id="11715140">
             <PersonSpeaking>
@@ -1960,6 +1958,11 @@
               <ParaText id="7194907">Monsieur le Président, voici un chiffre essentiel: 690 000. Il s'agit du nombre d'hospitalisations que les États‑Unis auraient évitées, simplement au cours des derniers mois pendant la vague Omicron, si le taux de vaccination dans ce pays avait été comparable à celui du Canada. Comme je l'ai dit plus tôt, il y a davantage de travail à faire, parce que, malheureusement — aussi difficile que ce soit à entendre et à comprendre pour certains —, la pandémie n'est pas encore terminée et nous devons encore la combattre. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11715376">
+        <SubjectOfBusinessTitle>Le transport aérien</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Ferreri" id="11715277">
             <PersonSpeaking>
               <Affiliation DbId="278557" Type="2">Mme Michelle Ferreri (Peterborough—Kawartha, PCC)</Affiliation>: </PersonSpeaking>
@@ -1983,6 +1986,11 @@
               <ParaText id="7194912">La députée de Kelowna-Lake Country a la parole.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11715282">
+        <SubjectOfBusinessTitle>L'industrie touristique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mme Gray" id="11715281">
             <PersonSpeaking>
               <Affiliation DbId="278535" Type="2">Mme Tracy Gray (Kelowna—Lake Country, PCC)</Affiliation>: </PersonSpeaking>
@@ -2003,7 +2011,7 @@
               <Affiliation DbId="278535" Type="2">Mme Tracy Gray (Kelowna—Lake Country, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7194916">Monsieur le Président, le fait de répondre « nous travaillons sur ce dossier » n'est pas suffisant. Les libéraux auraient dû prévoir cette subite augmentation des déplacements. Les gens ont perdu l'espoir de pouvoir voyager depuis ou vers le Canada. Pourtant, d'autres pays s'en sortent bien. Au Canada, le syndicat qui représente de nombreux employés aéroportuaires a déclaré que les retards dans les aéroports perdureront. Les petites entreprises meurent à petit feu à cause des libéraux. Ces retards qui n'en finissent plus dans les aéroports et le maintien des exigences vaccinales ne feront qu'accroître la pression sur les petites entreprises.</ParaText>
-              <ParaText id="7194917">Quand la <Affiliation DbId="278924" Type="4">ministre de la Petite entreprise</Affiliation> se décidera-t-elle à s'attaquer aux retards injustes et extrêmes — purement canadiens — causés par le ministre des Transports?</ParaText>
+              <ParaText id="7194917">Quand la <Affiliation DbId="278924" Type="4">ministre de la Petite Entreprise</Affiliation> se décidera-t-elle à s'attaquer aux retards injustes et extrêmes — purement canadiens — causés par le ministre des Transports?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="14" Mn="40">(1440)</Timestamp>
@@ -2471,7 +2479,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11715777">
-        <SubjectOfBusinessTitle>Le développement international </SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Les affaires étrangères</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. McCauley" id="11715402">
             <PersonSpeaking>
@@ -2618,15 +2626,13 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11715480" Rubric="Divisions">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Travaux des subsides</CatchLine>
       <SubjectOfBusiness id="11715481">
         <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Travaux des subsides</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-      Motion de l'opposition — Les règles et les niveaux de service concernant les voyages</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Motion de l'opposition — Les règles et les niveaux de service concernant les voyages</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <ParaText id="7195062">La Chambre reprend l'étude, interrompue le 19 mai, de la motion.</ParaText>
           <ProceduralText TocType="TPC" id="11">Motion</ProceduralText>
@@ -4295,7 +4301,7 @@
             <Content>
               <ProceduralText TocType="TPC" id="26">Motion d'adoption</ProceduralText>
               <ParaText id="7195113">propose que le troisième rapport du Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique, présenté le jeudi 31 mars 2022, soit agréé. </ParaText>
-              <ParaText id="7195114">—Monsieur le Président, c'est vraiment un plaisir de participer à distance aux débats d'aujourd'hui depuis le Manitoba. À noter, que c'est la troisième fois que nous tentons de faire adopter ce rapport, et que je partagerai mon temps de parole avec le député de <Affiliation DbId="278451" Type="2">Battle River—Crowfoot</Affiliation>.</ParaText>
+              <ParaText id="7195114">— Monsieur le Président, c'est vraiment un plaisir de participer à distance aux débats d'aujourd'hui depuis le Manitoba. À noter, que c'est la troisième fois que nous tentons de faire adopter ce rapport, et que je partagerai mon temps de parole avec le député de <Affiliation DbId="278451" Type="2">Battle River—Crowfoot</Affiliation>.</ParaText>
               <ParaText id="7195115">Fait intéressant, chaque fois que nous avons présenté cette motion d'adoption, les libéraux ont ajourné le débat, recourant à une manœuvre semblable aux tactiques d'obstruction qu'ils ont utilisées pendant la 43<Sup>e</Sup> législature lorsqu'ils tentaient d'empêcher la Chambre de traiter le rapport sur le scandale de l'organisme UNIS.</ParaText>
               <ParaText id="7195116">Je m'attarderai un peu sur la litanie des manquements à l'éthique commis par le gouvernement libéral. Je peux déjà dire à la Chambre que le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> a non seulement pris des vacances illégales et contrevenu aux articles 5, 11, 12 et 21 de la Loi sur l'éthique mais que, dans l'affaire SNC-Lavalin, il a aussi été reconnu coupable d'avoir exercé des pressions indues sur Jody Wilson-Raybould, alors ministre de la Justice et procureure générale, sans oublier les manquements à l'éthique qu'il continue de commettre à l'occasion et qui ont aussi une incidence sur les autres membres du Cabinet.</ParaText>
               <ParaText id="7195117">Je n’ai pas besoin de rappeler à la Chambre l’ancien ministre Morneau et tous les problèmes qu’il a eus lorsqu’il était ministre des Finances, comme le fait qu’il a été reconnu coupable d’avoir enfreint la loi sur l’éthique pour avoir accepté un cadeau illégal, des vacances offertes par l’organisme UNIS.</ParaText>
@@ -4507,7 +4513,7 @@
       <SubjectOfBusiness id="11716145">
         <SubjectOfBusinessTitle>
        Les comités de la Chambre</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier> Accès à l'information, protection des renseignements personnels et éthique</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Accès à l'information, protection des renseignements personnels et éthique</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <ProceduralText TocType="TPC" id="27">Motion d'adoption</ProceduralText>
           <ParaText id="7195178"> La Chambre reprend l'étude de la motion, ainsi que de l'amendement.</ParaText>
@@ -5359,7 +5365,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279225" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7195508">Conformément à l'ordre adopté le jeudi 25 novembre 2021, le vote par appel nominal est reporté au mardi 31 mai 2022, à la fin de la période prévue pour les questions orales.</ParaText>
+              <ParaText id="7195508">Conformément à l'ordre adopté le jeudi 25 novembre 2021, le vote par appel nominal est reporté au mardi 31 mai, à la fin de la période prévue pour les questions orales.</ParaText>
               <ProceduralText TocType="TPC" id="28">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
@@ -5584,13 +5590,12 @@
               <ParaText id="7195567">Le vote porte sur l'amendement.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
               <ParaText id="7195568"> Puis-je me dispenser d'en faire la lecture?</ParaText>
-              <ParaText id="7195569">
-                <B>Une voix:</B> D'accord.</ParaText>
               <ParaText id="7195570">
                 <B>Des voix:</B> Non.</ParaText>
               <ParaText id="7195571">[<I>La présidence donne lecture de l'amendement.</I>]</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7195572">Si un député d'un parti reconnu présent à la Chambre désire demander un vote par appel nominal ou que l'amendement soit adopté avec dissidence, je l'invite à se lever et à l'indiquer à la présidence.</ParaText>
+              <ParaText id="7195572">
+                <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Si un député d'un parti reconnu présent à la Chambre désire demander un vote par appel nominal ou que l'amendement soit adopté avec dissidence, je l'invite à se lever et à l'indiquer à la présidence.</ParaText>
               <ParaText id="7195573">L'honorable leader à la Chambre de l'opposition officielle a la parole.</ParaText>
             </Content>
           </Intervention>
@@ -5881,14 +5886,14 @@
             <PersonSpeaking>
               <Affiliation DbId="278923" Type="4">L’hon. Joyce Murray (ministre des Pêches, des Océans et de la Garde côtière canadienne, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7195670">Je prends les décisions.</ParaText>
+              <ParaText id="7195670">Madame la présidente, je prends les décisions.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11717524">
             <PersonSpeaking>
               <Affiliation DbId="278139" Type="2">M. Rick Perkins</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7195671">Madame la présidente, en janvier, vous avez dit au Fish, Food and Allied Workers Union, le FFAW, que votre objectif était de laisser le plus grand nombre possible de poissons dans l'océan, et...</ParaText>
+              <ParaText id="7195671">En janvier, vous avez dit au Fish, Food and Allied Workers Union, le FFAW, que votre objectif était de laisser le plus grand nombre possible de poissons dans l'océan, et...</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11717525" ToCText="Mrs. Hughes">
@@ -9143,9 +9148,9 @@
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-          <Intervention Type="Interjection" ToC="No" id="11718738">
+          <Intervention Type="Debate" ToC="Yes" id="11718738" ToCText="Mme Desbiens">
             <PersonSpeaking>
-              <Affiliation DbId="278345" Type="2">Mme Caroline Desbiens</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278345" Type="2">Mme Caroline Desbiens (Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7196317">Monsieur le président, tout à l'heure, notre ministre nous a affirmé qu'elle avait dans l'équipe de scientifiques du MPO des économistes et des sociologues. J'aimerais que la ministre nous dise combien il y a d'économistes à l'emploi du MPO.</ParaText>
             </Content>
@@ -10138,7 +10143,7 @@
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11718989" ToCText="Mr. d'Entremont">
             <PersonSpeaking>
-              <Affiliation DbId="279181" Type="96">Le président</Affiliation> : </PersonSpeaking>
+              <Affiliation DbId="279181" Type="96">Le président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7196521">Nous reprenons le débat. Le député de Courtenay—Alberni a la parole.</ParaText>
             </Content>
@@ -10526,7 +10531,7 @@
               <Affiliation DbId="278703" Type="2">M. Gord Johns</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7196585">Monsieur le président, d'autres industries, comme celles de la forêt et de l'agriculture, ont également vécu de grands bouleversements pour les mêmes raisons qui obligent le secteur de la pêche à se restructurer, comme les phénomènes climatiques et de nouvelles politiques de conservation. Or, les travailleurs et les propriétaires exploitants de ces autres industries des ressources ont été fortement soutenus par le fédéral et les provinces au moyen de fonds pour traverser les transitions, se recycler et financer le départ à la retraite hâtif.</ParaText>
-              <ParaText id="7196586">Pourquoi réserve-t-on un traitement inéquitable aux pêcheurs commerciaux par rapport aux travailleurs d'autres industries touchées? Un homme de ma circonscription, Leith Selvie, est un pêcheur commercial à Parksville. Il n'a reçu aucune aide depuis que le gouvernement a fermé 60 % de la pêche sur la côte nord. La ministre parlera-t-elle d'une aide financière pour ces pêcheurs et d'un soutien semblable à celui qui existe dans d'autres secteurs?</ParaText>
+              <ParaText id="7196586">Pourquoi réserve-t-on un traitement inéquitable aux pêcheurs commerciaux par rapport aux travailleurs d'autres industries touchées? Un homme de ma circonscription, Lee Silvey, est un pêcheur commercial à Parksville. Il n'a reçu aucune aide depuis que le gouvernement a fermé 60 % de la pêche sur la côte nord. La ministre parlera-t-elle d'une aide financière pour ces pêcheurs et d'un soutien semblable à celui qui existe dans d'autres secteurs?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="24" Mn="15">(2415)</Timestamp>

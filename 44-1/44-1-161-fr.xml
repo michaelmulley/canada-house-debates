@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="12063417">
-  <StartPageNumber>11755</StartPageNumber>
+  <StartPageNumber>11753</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -326,8 +326,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12063697">
         <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
-        <SubjectOfBusinessQualifier>
-       Le décorum à la Chambre — Décision de la présidence</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Le décorum à la Chambre — Décision de la présidence</SubjectOfBusinessQualifier>
         <CatchLine>Décision de la présidence</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="12063524">
@@ -919,25 +918,9 @@
         <Timestamp Hr="15" Mn="00">(1500)</Timestamp>
         <SubjectOfBusinessTitle>Les langues officielles</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <Intervention Type="Question" ToC="Yes" ToCText="M. Beaulieu" id="12063690">
+          <Intervention Type="Debate" ToC="Yes" id="12063693" ToCText="M. Beaulieu">
             <PersonSpeaking>
               <Affiliation DbId="278678" Type="2">M. Mario Beaulieu (La Pointe-de-l'Île, BQ)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7582189">Monsieur le Président, les déchirements du caucus libéral sur le projet de loi <Document DbId="11603137" Type="3">C‑13</Document> ressemblent...</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="12063692">
-            <PersonSpeaking>
-              <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7582190">Je dois interrompre le député. Je n'arrive pas à entendre sa question, car des gens parlent d'un côté à l'autre de la Chambre.</ParaText>
-              <ParaText id="7582191">Je demanderais au député de recommencer son intervention afin que nous puissions tous l'entendre.</ParaText>
-              <ParaText id="7582192">L'honorable député de La Pointe‑de‑l'Île a la parole.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="12063693">
-            <PersonSpeaking>
-              <Affiliation DbId="278678" Type="2">M. Mario Beaulieu</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7582193">Monsieur le Président, les déchirements du caucus libéral sur le projet de loi <Document DbId="11603137" Type="3">C‑13</Document> ressemblent à une comédie musicale. Chaque jour, les tensions entre les différentes <I>gangs</I> s'amplifient. C'est un véritable <I>West Island story</I>.</ParaText>
               <ParaText id="7582194">Hier, le député de <Affiliation DbId="278383" Type="2">Mont-Royal</Affiliation> brisait les rangs et annonçait qu'il voterait contre le projet de loi C‑13 si ce dernier mentionne l'existence de la Charte de la langue française.</ParaText>
@@ -1134,7 +1117,7 @@
               <ParaText id="7582239">
                 <B>Des voix:</B> Oh, oh!</ParaText>
               <ParaText id="7582240">
-                <B>L'hon. Mark Holland:</B> Ils peuvent crier et hurler, mais ils devraient peut-être réfléchir. Nous faisons tous des erreurs dans la vie. Nous les assumons. C'est exactement ce qu'a fait le <Affiliation DbId="293776" Type="18">secrétaire parlementaire</Affiliation>. Le type d'erreur qu'il a commise ne justifie aucunement sa démission.</ParaText>
+                <B>L'hon. Mark Holland:</B> Monsieur le Président, ils peuvent crier et hurler, mais ils devraient peut-être réfléchir. Nous faisons tous des erreurs dans la vie. Nous les assumons. C'est exactement ce qu'a fait le <Affiliation DbId="293776" Type="18">secrétaire parlementaire</Affiliation>. Le type d'erreur qu'il a commise ne justifie aucunement sa démission.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -1608,12 +1591,11 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12063910" Rubric="Divisions">
-      <OrderOfBusinessTitle>
-      Affaires émanant des députés</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires émanant des députés</OrderOfBusinessTitle>
       <CatchLine>Affaires émanant des députés</CatchLine>
       <SubjectOfBusiness id="12063911">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La Loi sur l'intégrité du secteur public</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Loi sur l'intégrité du secteur public</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7582268">
         La Chambre reprend l'étude, interrompue le 9 février, de la motion portant que le projet de loi <Document DbId="11875762" Type="4">C-290, Loi modifiant la Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
@@ -2281,7 +2263,7 @@
       <SubjectOfBusiness id="12064037">
         <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Le Budget principal des dépenses de 2023-2024</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Le Budget principal des dépenses 2023-2024</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7582287">
          La présidente du Conseil du Trésor présente un message dont le Président donne lecture à la Chambre et par lequel Son Excellence la gouverneure générale transmet le budget principal des dépenses pour l'exercice se terminant le 31 mars 2024.</ParaText>
@@ -2402,7 +2384,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12064049">
-        <SubjectOfBusinessQualifier>L'insécurité alimentaire</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>La sécurité alimentaire</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Davies" id="12063996">
             <PersonSpeaking>
@@ -3204,7 +3186,7 @@
             </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="11"> Motion d'adoption</ProceduralText>
-              <ParaText id="7582581"> propose que le projet de loi soit agréé.</ParaText>
+              <ParaText id="7582581"> propose que le projet de loi, tel que modifié, soit agréé.</ParaText>
               <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="12"> (La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
@@ -3393,7 +3375,7 @@
               <ParaText id="7582673"> Les pompiers volontaires sont essentiels, ils mettent leur vie et leur santé en danger, donnent de leur temps, s'entraînent et font des efforts pour les Canadiens et, en plus, ils permettent aux collectivités du pays de ne pas augmenter les taxes foncières autant que si elles devaient payer pour leurs services. C'est un autre exemple de l'engagement des gens dans les petites collectivités. </ParaText>
               <ParaText id="7582674">Le projet de loi <Document DbId="12127551" Type="4">C‑310</Document> ferait passer le crédit d'impôt à 10 000 $. C'est une question de dignité. Cette mesure permettrait aux pompiers volontaires, qui offrent un service essentiel, de garder une plus grande part de l'argent qu'ils ont durement gagné et, probablement, de le dépenser dans leur collectivité. Ce serait une façon de garder ces pompiers volontaires en cette période où leur nombre diminue. Ceux qui ont déjà habité dans une petite collectivité savent à quel point il serait terrifiant de voir ces personnes cesser leur engagement volontaire. </ParaText>
               <ParaText id="7582675">Tous les Canadiens comprennent que nous avons besoin de pompiers, mais je ne sais pas combien d'entre eux comprennent le degré d'engagement qu'on exige de ceux-ci et les risques pour la santé que leur travail implique. Il faut faire mieux. </ParaText>
-              <ParaText id="7582676">Je veux remercier les pompiers de toutes les casernes de ma circonscription: Cortes Island, Powell River, Malaspina, Savary Island, Northside, Tal'amin, Alert Bay, Campbell River, Comox, Gillies Bay, Gold River, Port Alice, Port Hardy, Port McNeill, Quadra Island, Sayward, Sointula, Tahsis et Zeballos. </ParaText>
+              <ParaText id="7582676">Je veux remercier les pompiers de toutes les casernes de ma circonscription: Cortes Island, Powell River, Malaspina, Savary Island, Northside, Tal'amin, Alert Bay, Campbell River, Comox, Gillies Bay, Gold River, Port Alice, Port Hardy, Port McNeill, Quadra Island, Sayward, Sointula, Tahsis, Woss et Zeballos. </ParaText>
               <ParaText id="7582677">Je les vois travailler dans leur collectivité, être présents dans les réseaux sociaux et faire ce qu'il faut pour assurer notre sécurité. J'espère que les députés feront mieux pour les pompiers. </ParaText>
             </Content>
           </Intervention>
@@ -3442,14 +3424,14 @@
               <Affiliation DbId="279225" Type="93">La vice-présidente adjointe (Mme Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7582688"> Conformément à l'ordre adopté le jeudi 23 juin 2022, le vote par appel nominal est reporté au mercredi 8 mars, à la fin de la période prévue pour les questions orales.</ParaText>
+              <ProceduralText TocType="TPC" id="14">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="12065382" Rubric="GovernmentOrders">
-      <OrderOfBusinessTitle>
-      Ordres émanant du gouvernement</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="12065383">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -3457,7 +3439,7 @@
         <SubjectOfBusinessContent>
           <ParaText id="7582689">
         La Chambre reprend l'étude de la motion portant que le projet de loi <Document DbId="12189059" Type="3">C‑39, Loi modifiant la Loi modifiant le Code criminel (aide médicale à mourir)</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
-          <ProceduralText TocType="TPC" id="14">
+          <ProceduralText TocType="TPC" id="15">
         Projet de loi C‑39. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Kmiec" id="12065326">
             <PersonSpeaking>
@@ -3560,10 +3542,10 @@
               <Affiliation DbId="278473" Type="2">M. Brad Vis (Mission—Matsqui—Fraser Canyon, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7582727">Madame la Présidente, je veux que les résidants de ma circonscription sachent que je reste chez moi pour m'occuper de mon nouveau-né, mais que je suis heureux de participer à distance et en leur nom à ce débat très important.</ParaText>
-              <ParaText id="7582728">Le projet de loi <Document DbId="12189059" Type="3">C‑39</Document>, qui modifie le Code criminel en ce qui concerne l'aide médicale à mourir, vise à retarder l'élargissement de l'aide médicale à mourir aux personnes dont le seul problème de santé est une maladie mentale. Nous en débattons aujourd'hui en raison d'un projet de loi présenté pendant la législature précédente, c'est-à-dire le projet de loi <Document DbId="10875380" Type="3">C‑7</Document>, qui faisait suite à la décision Truchon et à l'interprétation qu'en faisait le <Affiliation DbId="278945" Type="96">ministre de la Justice</Affiliation> en supprimant des mesures de sauvegarde essentielles à l'accès à l'aide médicale à mourir, notamment le fait que la mort doit être raisonnablement prévisible. Cependant, le projet de loi C‑7 prévoyait une échéance arbitraire, le 17 mars 2023, pour élargir l'accès à l'aide médicale à mourir aux personnes dont le seul problème de santé est une maladie mentale. Or, le gouvernement cherche maintenant à repousser d'une année cette échéance arbitraire.</ParaText>
+              <ParaText id="7582728">Le projet de loi <Document DbId="12189059" Type="3">C-39</Document>, qui modifie le Code criminel en ce qui concerne l'aide médicale à mourir, vise à retarder l'élargissement de l'aide médicale à mourir aux personnes dont le seul problème de santé est une maladie mentale. Nous en débattons aujourd'hui en raison d'un projet de loi présenté pendant la législature précédente, c'est-à-dire le projet de loi <Document DbId="10875380" Type="3">C-7</Document>, qui faisait suite à la décision Truchon et à l'interprétation qu'en faisait le <Affiliation DbId="278945" Type="96">ministre de la Justice</Affiliation> en supprimant des mesures de sauvegarde essentielles à l'accès à l'aide médicale à mourir, notamment le fait que la mort doit être raisonnablement prévisible. Cependant, le projet de loi C-7 prévoyait une échéance arbitraire, le 17 mars 2023, pour élargir l'accès à l'aide médicale à mourir aux personnes dont le seul problème de santé est une maladie mentale. Or, le gouvernement cherche maintenant à repousser d'une année cette échéance arbitraire.</ParaText>
               <ParaText id="7582729">Comme je ne veux pas que l'aide médicale à mourir soit offerte à ceux qui souffrent uniquement d'un problème de santé mentale, j'appuierai le projet de loi, mais dans le contexte de préoccupations majeures et bouleversantes à l'égard de l'orientation prise par le gouvernement du Canada depuis le début du débat sur l'aide médicale à mourir en 2016.</ParaText>
               <ParaText id="7582730">Les conservateurs croient qu'on ne devrait jamais laisser tomber les personnes qui souffrent d'une maladie mentale et qu'on devrait toujours leur offrir avant tout de l'aide et un traitement plutôt que l'aide à mourir. Les conservateurs proposeront d'autres solutions pour aider les personnes qui souffrent de maladie mentale plutôt que l'approche du gouvernement.</ParaText>
-              <ParaText id="7582731">Le préambule du projet de loi <Document DbId="8177165" Type="3">C‑14</Document>, adopté en 2016, dit ceci au sujet des personnes vulnérables:</ParaText>
+              <ParaText id="7582731">Le préambule du projet de loi <Document DbId="8177165" Type="3">C-14</Document>, adopté en 2016, dit ceci au sujet des personnes vulnérables:</ParaText>
               <ParaText id="7582732">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Attendu [...] que les personnes vulnérables doivent être protégées contre toute incitation à mettre fin à leur vie dans un moment de détresse [...]</QuotePara>
@@ -3576,13 +3558,13 @@
                 </Quote>
               </ParaText>
               <ParaText id="7582735">Les choses ont beaucoup changé depuis sept ans.</ParaText>
-              <ParaText id="7582736">Malgré les garanties établies dans le projet de loi <Document DbId="8177165" Type="3">C‑14</Document>, les conservateurs ont remarqué à l'époque que le gouvernement s'engageait sur une pente glissante. Le député de <Affiliation DbId="278158" Type="2">Selkirk—Interlake—Eastman</Affiliation> a fait part d'une crainte qui s'est malheureusement concrétisée au Canada. Il a dit que « de nombreuses personnes croient qu'on aura recours à la politique de façon prématurée pour mettre fin à la vie de personnes qui sont devenues un fardeau pour leur famille, la société ou le système de santé ».</ParaText>
-              <ParaText id="7582737">À l'époque, en raison des grandes inquiétudes du public, de nombreux députés libéraux étaient prudents lorsqu'il s'agissait de parler de l'élargissement de l'aide médicale à mourir dans l'avenir. L'ancienne ministre de la Justice Jody Wilson‑Raybould a déclaré: « Le gouvernement a fait le choix, dans sa politique, de fixer des critères d'admissibilité faisant en sorte de limiter l'aide médicale à mourir aux personnes dont l'état de santé se caractérise par un déclin avancé et irréversible et dont la mort naturelle est devenue raisonnablement prévisible. » L'actuel député de <Affiliation DbId="278347" Type="2">Lac-Saint-Louis</Affiliation> a déclaré: « Le projet de loi C‑14 ne normaliserait pas l'aide médicale à mourir comme c'est peut-être le cas en Belgique ou aux Pays‑Bas, les deux pays les plus souvent cités par ceux qui craignent qu'on ne s'engage sur une pente glissante. »</ParaText>
-              <ParaText id="7582738">Lors de la dernière législature, dans son énoncé concernant la Charte relatif au projet de loi <Document DbId="10875380" Type="3">C‑7</Document>, qui a étendu l'aide médicale à mourir aux personnes dont la mort n'est pas raisonnablement prévisible, le <Affiliation DbId="245291" Type="4">ministre de la Justice</Affiliation> actuel a invoqué les risques inhérents et la complexité pour justifier sa décision de ne pas étendre l'admissibilité à l'aide médicale à mourir aux personnes dont le seul problème de santé invoqué est une maladie mentale. Or, comme nous le constatons malheureusement aujourd'hui, le ministre tient un double discours, ce qui est très irresponsable. D'un côté, il a expliqué dans l'énoncé concernant la Charte relatif au projet de loi <Document DbId="10875380" Type="3">C‑7</Document> qu'en raison de la complexité et des risques inhérents, nous aurions tort d'étendre l'admissibilité à l'aide médicale à mourir aux personnes dont le seul problème de santé invoqué est une maladie mentale. De l'autre côté, soutenant qu'il avait les mains liées en raison d'une décision d'une cour du Québec, il a inclus dans le même projet de loi une disposition de caducité, si bien qu'après un certain délai, ces Canadiens seront admissibles à l'aide médicale à mourir. Or, non seulement le gouvernement a refusé de contester cette décision devant la Cour suprême, mais les juristes les plus éminents du pays soutiennent qu'il s'agit là d'une mauvaise interprétation de la décision.</ParaText>
+              <ParaText id="7582736">Malgré les garanties établies dans le projet de loi <Document DbId="8177165" Type="3">C-14</Document>, les conservateurs ont remarqué à l'époque que le gouvernement s'engageait sur une pente glissante. Le député de <Affiliation DbId="278158" Type="2">Selkirk—Interlake—Eastman</Affiliation> a fait part d'une crainte qui s'est malheureusement concrétisée au Canada. Il a dit que « de nombreuses personnes croient qu'on aura recours à la politique de façon prématurée pour mettre fin à la vie de personnes qui sont devenues un fardeau pour leur famille, la société ou le système de santé ».</ParaText>
+              <ParaText id="7582737">À l'époque, en raison des grandes inquiétudes du public, de nombreux députés libéraux étaient prudents lorsqu'il s'agissait de parler de l'élargissement de l'aide médicale à mourir dans l'avenir. L'ancienne ministre de la Justice Jody Wilson-Raybould a déclaré: « Le gouvernement a fait le choix, dans sa politique, de fixer des critères d'admissibilité faisant en sorte de limiter l'aide médicale à mourir aux personnes dont l'état de santé se caractérise par un déclin avancé et irréversible et dont la mort naturelle est devenue raisonnablement prévisible. » L'actuel député de <Affiliation DbId="278347" Type="2">Lac-Saint-Louis</Affiliation> a déclaré: « Le projet de loi C-14 ne normaliserait pas l'aide médicale à mourir comme c'est peut-être le cas en Belgique ou aux Pays-Bas, les deux pays les plus souvent cités par ceux qui craignent qu'on ne s'engage sur une pente glissante. »</ParaText>
+              <ParaText id="7582738">Lors de la dernière législature, dans son énoncé concernant la Charte relatif au projet de loi <Document DbId="10875380" Type="3">C-7</Document>, qui a étendu l'aide médicale à mourir aux personnes dont la mort n'est pas raisonnablement prévisible, le <Affiliation DbId="245291" Type="4">ministre de la Justice</Affiliation> actuel a invoqué les risques inhérents et la complexité pour justifier sa décision de ne pas étendre l'admissibilité à l'aide médicale à mourir aux personnes dont le seul problème de santé invoqué est une maladie mentale. Or, comme nous le constatons malheureusement aujourd'hui, le ministre tient un double discours, ce qui est très irresponsable. D'un côté, il a expliqué dans l'énoncé concernant la Charte relatif au projet de loi <Document DbId="10875380" Type="3">C-7</Document> qu'en raison de la complexité et des risques inhérents, nous aurions tort d'étendre l'admissibilité à l'aide médicale à mourir aux personnes dont le seul problème de santé invoqué est une maladie mentale. De l'autre côté, soutenant qu'il avait les mains liées en raison d'une décision d'une cour du Québec, il a inclus dans le même projet de loi une disposition de caducité, si bien qu'après un certain délai, ces Canadiens seront admissibles à l'aide médicale à mourir. Or, non seulement le gouvernement a refusé de contester cette décision devant la Cour suprême, mais les juristes les plus éminents du pays soutiennent qu'il s'agit là d'une mauvaise interprétation de la décision.</ParaText>
               <Timestamp Hr="19" Mn="15">(1915)</Timestamp>
               <ParaText id="7582739">Après avoir répété ad nauseam aux Canadiens que la légalisation de l'aide médicale à mourir ne nous engageait pas sur une pente glissante menant à l'accès à la mort pour tous ceux qui le désirent dès qu'ils le demandent, le gouvernement semble vouloir donner accès à l'aide médicale à mourir à tout le monde. </ParaText>
               <ParaText id="7582740">Je demande aux députés libéraux d'arrière-ban de s'opposer au <Affiliation DbId="245291" Type="4">ministre de la Justice</Affiliation>. Vous avez plus d'influence que n'importe quel autre Canadien présentement pour l'empêcher de faire ce qu'il essaie de faire. </ParaText>
-              <ParaText id="7582741">N'oubliez pas que, en 2016, il avait voté contre le projet de loi <Document DbId="6319560" Type="3">C‑14</Document>... </ParaText>
+              <ParaText id="7582741">N'oubliez pas que, en 2016, il avait voté contre le projet de loi <Document DbId="8177165" Type="3">C-14</Document>... </ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mme Mendès" id="12065385">
@@ -3680,7 +3662,7 @@
               <ParaText id="7582774">
                 <B>M. Mark Gerretsen:</B> Je remercie le député de sa franchise.</ParaText>
               <ParaText id="7582775">
-                <B>M. Frank Caputo:</B> Le député de Kingston et les Îles a salué ma franchise. Je l'en remercie. J'aime croire que je suis toujours franc dans cette enceinte.</ParaText>
+                <B>M. Frank Caputo:</B> Madame la Présidente, le député de Kingston et les Îles a salué ma franchise. Je l'en remercie. J'aime croire que je suis toujours franc dans cette enceinte.</ParaText>
               <ParaText id="7582776">Si ma mémoire est bonne, en 1993, il y a eu l'affaire Rodriguez. Je simplifie probablement les choses, mais il était alors question du droit de mourir. Dans un arrêt partagé à cinq contre quatre, la Cour suprême du Canada a établi que la demande n'était pas fondée selon la Charte. Je n'ai pas examiné cet arrêt depuis longtemps, mais c'est ce dont je me souviens.</ParaText>
               <ParaText id="7582777">Dans l'arrêt Carter, rendu 22 ans plus tard, en 2015, la cour est arrivée à la conclusion contraire. Je crois que c'était l'opinion commune de la cour, ce qui veut dire que les neuf juges ont convenu que l'interdiction allait à l'encontre de la Charte. Dans un tel cas, le Parlement se demande souvent comment réagir. Je n'étais pas ici à cette époque. Je suis arrivé dans cette enceinte en 2021, et j'y ai passé 18 des meilleurs mois de ma vie.</ParaText>
               <ParaText id="7582778">Je peux dire que, de 2015 à 2023, nous avons assisté à un changement spectaculaire de ce qui semblait être envisagé à la fois dans le milieu juridique et parmi les Canadiens en général. Nous nous sommes éloignés de l'idée que l'aide médicale à mourir est destinée aux personnes atteintes de problèmes de santé irrémédiables, d'une maladie terminale ou d'une maladie qui ne s'améliorera pas, la mort étant prévisible. De ce que j'ai compris dans ma jeunesse, car c'était un enjeu lorsque j'étais au secondaire et à l'université, c'est cela qui constitue vraiment le cœur de la question. Une personne en phase terminale doit-elle avoir le droit à l'euthanasie? C'est ainsi que nous posions la question.</ParaText>
@@ -3738,7 +3720,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278564" Type="2">M. Frank Caputo</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7582799">Monsieur le Président, je remercie mon collègue de son intervention. Je suis ici depuis 18 mois, et ce fut un plaisir d'apprendre à le connaître au cours de cette période.</ParaText>
+              <ParaText id="7582799">Madame la Présidente, je remercie mon collègue de son intervention. Je suis ici depuis 18 mois, et ce fut un plaisir d'apprendre à le connaître au cours de cette période.</ParaText>
               <ParaText id="7582800"> Mon collègue ne le sait peut-être pas, mais ma femme est avocate de l'aide juridique et aide les personnes les plus démunies. Je la considère comme une experte dans ce domaine. Elle aide les personnes et leur donne des conseils juridiques concernant les enjeux les plus importants. Ces personnes sont souvent parmi les plus pauvres, et l'une des choses qu'elle m'a dites, c'est que l'un des facteurs contributifs est le traumatisme. Le traumatisme aussi est l'un des plus grands problèmes en matière de santé mentale. </ParaText>
               <ParaText id="7582801">Je ne vais pas faire abstraction de la pauvreté. En tant que conservateurs, nous parlons de la pauvreté tous les jours à la Chambre lorsque nous parlons de l'incidence de l'inflation. Si nous voulons vraiment en parler, nous devrions parler du fait que le gouvernement ne légifère pas de manière à imposer des peines minimales obligatoires pour les infractions d'ordre sexuel. C'est de là que viennent les traumatismes. J'espère, lorsque nous parlerons de ces enjeux, que mon collègue se joindra à moi. J'ai hâte de discuter plus longuement de l'éradication de la pauvreté avec lui. </ParaText>
             </Content>
@@ -3764,7 +3746,7 @@
               <Affiliation DbId="293793" Type="18">Mme Ya'ara Saks (secrétaire parlementaire de la ministre de la Famille, des Enfants et du Développement social, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7582805">Madame la Présidente, nous sommes à la Chambre pour discuter du projet de loi <Document DbId="12189059" Type="3">C‑39</Document>, une discussion profondément complexe et personnelle. Je rappelle que le débat de ce soir porte sur le projet de loi C‑39, qui a aussi occupé les dernières soirées de la Chambre. Je le souligne parce qu'il y a un certain temps, c'était en novembre, je crois, la Chambre a parlé de santé mentale pendant une soirée à l'occasion d'un débat exploratoire auquel j'ai participé. Je dois dire honnêtement que les participants étaient très peu nombreux. Quelques-uns de mes collègues y étaient.</ParaText>
-              <ParaText id="7582806">Bref, la discussion de ce soir ne porte pas sur la santé mentale. Elle porte sur le projet de loi <Document DbId="12189059" Type="3">C‑39</Document>, dont nous sommes saisis, qui vise à retarder d'un an la mise en oeuvre de l'accès à l'aide médicale à mourir pour les personnes atteintes d'une maladie mentale. Le problème réside dans le fait que nous manquons de connaissances à la Chambre, et peut-être à la grandeur du pays, pour discuter de la question de la santé mentale.</ParaText>
+              <ParaText id="7582806">Bref, la discussion de ce soir ne porte pas sur la santé mentale. Elle porte sur le projet de loi <Document DbId="12189059" Type="3">C‑39</Document>, dont nous sommes saisis, qui vise à retarder d'un an la mise en œuvre de l'accès à l'aide médicale à mourir pour les personnes atteintes d'une maladie mentale. Le problème réside dans le fait que nous manquons de connaissances à la Chambre, et peut-être à la grandeur du pays, pour discuter de la question de la santé mentale.</ParaText>
               <ParaText id="7582807">Je tiens tout d'abord à préciser ce qu'est la santé mentale et ce qu'elle n'est pas. La santé mentale est vraiment, à la base, dans le quotidien de tous les Canadiens et de nous tous à la Chambre, qui travaillons vraiment fort et vivons du stress pour nous-mêmes et pour nos concitoyens — nous traversons une période vraiment difficile depuis plus de deux ans à cause de la pandémie...</ParaText>
               <ParaText id="7582808">La santé mentale est la capacité de vivre une situation difficile et de s’en sortir de manière à continuer d’avancer avec le sentiment de connaître sa propre valeur. Autrement dit, quand une personne est stressée, qu’elle vit de l’anxiété ou qu’elle traverse une période difficile en ressentant les hauts et les bas de la dépression, cela ne veut pas dire qu’elle souffre de maladie mentale. Voilà ce qu’est la santé mentale à mon avis.</ParaText>
               <ParaText id="7582809">Nous devons absolument utiliser ce point de départ pour notre discussion. En toute honnêteté, pour beaucoup d’êtres humains, à l’instar de mes deux adolescentes, la vie de tous les jours est faite de hauts et de bas. L’être humain n’est pas conçu pour être joyeux en permanence. Notre état d’esprit n’a pas à toujours être positif. La vie est une suite de hauts et de bas, et c’est le cas pour tous les Canadiens d’un océan à l’autre. Je le comprends très bien avec mes deux adolescentes, et je suis certaine que beaucoup de députés peuvent aussi le comprendre.</ParaText>
@@ -4076,7 +4058,7 @@
               <ParaText id="7582927">Nous reprenons le débat.</ParaText>
               <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
               <ParaText id="7582928">Comme plus aucun député ne veut prendre la parole, conformément à l'ordre adopté le lundi 13 février, la motion est réputée adoptée et le projet de loi <Document DbId="12189059" Type="3">C‑39, Loi modifiant la Loi modifiant le Code criminel (aide médicale à mourir)</Document> est réputé lu une deuxième fois et renvoyé à un comité plénier, réputé étudié en comité plénier, réputé avoir fait l'objet d'un rapport sans amendement, réputé adopté à l'étape du rapport et réputé lu une troisième fois et adopté.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi; étude en comité; rapport; agrément; troisième lecture et adoption " id="15">(Le projet de loi, lu pour la deuxième fois, est étudié en comité, rapport en est fait, il est agréé, lu pour la troisième fois et adopté.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi; renvoi à un comité plénier; rapport; agrément; troisième lecture et adoption " id="16">(Le projet de loi est réputé avoir été lu pour la deuxième fois, renvoyé à un comité plénier, avoir fait l'objet d'un rapport sans proposition d'amendement, avoir été agréé à l'étape du rapport, lu pour la troisième fois et adopté.)</ProceduralText>
               <ParaText id="7582929">
                 <B>La vice-présidente adjointe (Mme Carol Hughes):</B> Comme il est 20 h 41, la Chambre s'ajourne jusqu'à demain, à 10 heures, conformément à l'article 24(1) du Règlement.</ParaText>
               <ParaText id="7582930">(La séance est levée à 20 h 41.)</ParaText>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11839498">
-  <StartPageNumber>8139</StartPageNumber>
+  <StartPageNumber>8135</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -186,7 +186,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11839543">
-        <SubjectOfBusinessTitle>Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Scheer" id="11839544">
             <PersonSpeaking>
@@ -327,7 +327,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11839578">
-        <SubjectOfBusinessTitle>Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Naqvi" id="11839579">
             <PersonSpeaking>
@@ -344,6 +344,11 @@
               <ParaText id="7316967">Je remercie Heather de tous les services qu'elle a rendus. L'excellence aura été sa marque de commerce, et des centaines de collègues reconnaissants s'ennuieront d'elle. </ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11839602">
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Rota" id="11839582">
             <PersonSpeaking>
               <Affiliation DbId="278667" Type="2">L’hon. Anthony Rota (Nipissing—Timiskaming, Lib.)</Affiliation>: </PersonSpeaking>
@@ -367,11 +372,11 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11839585" Rubric="OralQuestionPeriod">
-      <OrderOfBusinessTitle> QUESTIONS ORALES</OrderOfBusinessTitle>
-      <CatchLine> Questions orales</CatchLine>
+      <OrderOfBusinessTitle>QUESTIONS ORALES</OrderOfBusinessTitle>
+      <CatchLine>Questions orales</CatchLine>
       <SubjectOfBusiness id="11839589">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Poilievre" id="11839588">
             <PersonSpeaking>
@@ -578,7 +583,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11839646">
-        <SubjectOfBusinessTitle>La fiscalité</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tarification du carbone</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Barlow" id="11839645">
             <PersonSpeaking>
@@ -1158,17 +1163,17 @@
               <ParaText id="7317159">C'est pour cela que Hockey Canada a perdu la confiance non seulement de notre gouvernement, non seulement des parents canadiens, mais aussi d'autres organismes qui lui sont affiliés, comme Hockey Québec. Je sais que dans les journées à venir plus d'organisations vont dire qu'assez c'est assez et qu'ils arrêtent de faire affaire avec Hockey Canada. Peut-être qu'à ce moment Hockey Canada va comprendre que ce jeu est fini.</ParaText>
             </Content>
           </Intervention>
-          <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
-          <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11839848">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11839659">
+        <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Les questions orales</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11839855" ToCText="Mme Chatel">
             <PersonSpeaking>
-              <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7317160">C'est tout le temps que nous avions pour la période des questions orales aujourd'hui.</ParaText>
-            </Content>
-          </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11839855">
-            <PersonSpeaking>
-              <Affiliation DbId="278309" Type="2">Mme Sophie Chatel</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278309" Type="2">Mme Sophie Chatel (Pontiac, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317161">Monsieur le Président, j'invoque le Règlement.</ParaText>
               <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -1183,9 +1188,9 @@
               <ParaText id="7317164">La députée de <Affiliation DbId="278722" Type="2">Saanich—Gulf Islands</Affiliation> invoque le Règlement. </ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11839857">
+          <Intervention Type="Debate" ToC="Yes" id="11839857" ToCText="Mme May  (Saanich—Gulf Islands)">
             <PersonSpeaking>
-              <Affiliation DbId="278722" Type="2">Mme Elizabeth May</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278722" Type="2">Mme Elizabeth May (Saanich—Gulf Islands, PV)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317165">Monsieur le Président, je prends la parole seulement pour indiquer que le Règlement précise que les députés ne doivent pas parler irrévérencieusement de leurs collègues à la Chambre. Je ne conteste pas votre décision, mais, à la lumière de l'article 16 du Règlement, je crois que cela constituait un recours au Règlement.</ParaText>
             </Content>
@@ -1202,8 +1207,7 @@
       </SubjectOfBusiness>
     </OrderOfBusiness>
     <OrderOfBusiness id="11840242" Rubric="Divisions">
-      <OrderOfBusinessTitle>
-      Affaires courantes</OrderOfBusinessTitle>
+      <OrderOfBusinessTitle>Affaires courantes</OrderOfBusinessTitle>
       <CatchLine>Affaires courantes</CatchLine>
       <SubjectOfBusiness id="11839863">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
@@ -2709,6 +2713,7 @@
               <ProceduralText TocType="TPC" id="8">Adoption de la motion</ProceduralText>
               <ParaText id="7317184">Je déclare la motion adoptée.</ParaText>
               <ParaText id="7317185">En conséquence, ce projet de loi est renvoyé au Comité permanent de l’industrie et de la technologie.</ParaText>
+              <ProceduralText TocType="TCC" TocText="Deuxième lecture du projet de loi et renvoi à un comité" id="9">(Le projet de loi, lu pour une deuxième fois, est renvoyé à un comité.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -2818,7 +2823,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11840234">
-        <SubjectOfBusinessQualifier> L'aide médicale à mourir</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>L'aide médicale à mourir</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="M. Cooper" id="11840228">
             <PersonSpeaking>
@@ -2926,7 +2931,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11840445">
-        <SubjectOfBusinessTitle>Décision de la présidence</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Décision de la présidence</SubjectOfBusinessQualifier>
         <CatchLine>Décision de la présidence</CatchLine>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Le Président" id="11840101">
@@ -2944,11 +2949,11 @@
       <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11840105">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 1 sur l'allègement du coût de la vie (allègement fiscal ciblé)</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 1 sur l'allègement du coût de la vie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7317228">	
-La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que le projet de loi <Document DbId="11924004" Type="3">C‑30, Loi modifiant la Loi de l'impôt sur le revenu (majoration temporaire du crédit pour la taxe sur les produits et services/taxe de vente harmonisée)</Document>, soit lu pour la troisième fois et adopté.</ParaText>
-          <ProceduralText TocType="TPC" id="9">Projet de loi C‑30. Troisième lecture</ProceduralText>
+La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que le projet de loi <Document DbId="11924004" Type="3">C-30, Loi modifiant la Loi de l'impôt sur le revenu (majoration temporaire du crédit pour la taxe sur les produits et services/taxe de vente harmonisée)</Document>, soit lu pour la troisième fois et adopté.</ParaText>
+          <ProceduralText TocType="TPC" id="10">Projet de loi C-30. Troisième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Le Président" id="11840106">
             <PersonSpeaking>
               <Affiliation DbId="279135" Type="15">Le Président</Affiliation>: </PersonSpeaking>
@@ -2963,7 +2968,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
             <Content>
               <ParaText id="7317231">Monsieur le Président, je suis ravie de prendre la parole aujourd’hui pour parler du projet de loi <Document DbId="11924004" Type="3">C-30</Document> à l'étape de la troisième lecture. Cette mesure législative, qui porte sur le coût de la vie pour de nombreux Canadiens, évalue les programmes d’allègement ciblé. Dans le présent projet de loi et le projet de loi précédent, il est notamment question d'un allègement fiscal découlant de la hausse du crédit pour la TPS et du remboursement de la TVH pour les personnes à faible revenu ou celles dont le revenu est inférieur au seuil de 39 000 $ par année. On y traite aussi de la mise en œuvre des prestations pour soins dentaires.</ParaText>
               <ParaText id="7317232">De ce côté de la Chambre, nous savons que les Canadiens traversent actuellement une période difficile. Ils sont nombreux à devoir composer avec une hausse du coût de la vie, peu importe la région où ils vivent au pays. Les résidents du Nord voient probablement les coûts augmenter à un taux supérieur et d’une manière beaucoup plus considérable qu'ailleurs, comme peuvent en témoigner de nombreuses autres personnes de cette région. Cependant, cette situation est observée partout au pays, que ce soit en raison de la hausse du prix de la nourriture ou celle d’autres biens, comme les matériaux de construction, par exemple. J’ai entendu de nombreuses personnes dire qu’elles n'arrivent pas à entretenir leur maison et à faire des réparations dans celle-ci parce que le coût des matériaux de construction a doublé et triplé.</ParaText>
-              <ParaText id="7317233">J’ai entendu de nombreux témoignages de familles à faible revenu qui ont de la difficulté à satisfaire leurs besoins sur le plan de la sécurité alimentaire. On nous parle souvent du coût croissant du carburant, des véhicules et de tous les biens qu’utilisent les gens dans leur vie quotidienne. Les personnes qui se déplacent partout au pays pour les activités sportives, théâtrales ou scolaires de leurs enfants font face à des coûts qui augmentent de jour en jour.</ParaText>
+              <ParaText id="7317233">J’ai entendu de nombreux témoignages de familles à faible revenu qui ont de la difficulté à assurer leur sécurité alimentaire. On nous parle souvent du coût croissant du carburant, des véhicules et de tous les biens qu’utilisent les gens dans leur vie quotidienne. Les personnes qui se déplacent partout au pays pour les activités sportives, théâtrales ou scolaires de leurs enfants font face à des coûts qui augmentent de jour en jour.</ParaText>
               <ParaText id="7317234">Nous savons que la crise de l'abordabilité pèse de plus en plus sur de nombreuses familles. Cependant, au gouvernement, nous savons aussi que nos options sont limitées. Nous avons adopté des mesures ciblées qui, nous l’espérons, faciliteront un peu la vie de si nombreuses familles au Canada. Ces mesures ciblées représenteront un investissement de plus de 12 milliards de dollars en nouveaux soutiens pour les familles.</ParaText>
               <ParaText id="7317235">Parmi les mesures dont je veux parler aujourd’hui, il y a celle visant à doubler le crédit pour la TPS pendant six mois, comme le propose le présent projet de loi. En adoptant cette mesure, nous permettrons à de nombreuses familles à faible revenu d’avoir accès à des sommes supplémentaires avec lesquelles elles pourront assumer certaines dépenses du ménage qu’elles doivent actuellement payer. Par exemple, je sais que de nombreuses familles dans ma circonscription, notamment de nombreux aînés, doivent soutenir leur foyer et leur famille avec un faible revenu. Je sais que cette mesure améliorera grandement leur situation. Il ne fait aucun doute que l’accès à ces sommes supplémentaires au cours de cette période de six mois les aidera à boucler leur budget.</ParaText>
               <ParaText id="7317236">L’investissement dans le programme de remboursement de la TVH, qui fera en sorte que les familles à faible revenu disposent de sommes supplémentaires, représente un investissement supplémentaire de 2,5 milliards de dollars du gouvernement du Canada réservé aux familles et aux aînés à faible revenu qui en ont besoin. Cette somme les aidera à traverser cette période cruciale. Il s’agit d’un investissement nécessaire du gouvernement en ce moment. Je sais qu’on critique souvent les députés de ce côté de la Chambre parce qu’ils investissent dans les programmes de soutien aux enfants et aux familles pour leur permettre de se nourrir et de se chauffer. Cependant, nous ne nous en excusons pas, car nous savons qu’en cette période, cette aide financière est absolument nécessaire.</ParaText>
@@ -3223,7 +3228,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <Affiliation DbId="278557" Type="2">Mme Michelle Ferreri (Peterborough—Kawartha, PCC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317336">Monsieur le Président, je tiens à informer la Chambre que je partagerai mon temps de parole avec le député de <Affiliation DbId="278428" Type="2">Louis-Saint-Laurent</Affiliation>.</ParaText>
-              <ParaText id="7317337">Comme toujours, je suis fière de prendre la parole à la Chambre et d'avoir le privilège de représenter les habitants de Peterborough—Kawartha. Aujourd'hui, je prends la parole au sujet du projet de loi <Document DbId="11924004" Type="3">C‑30</Document>, Loi modifiant la Loi de l’impôt sur le revenu, qui vise à accorder aux Canadiens un remboursement de taxe unique. Le projet de loi modifierait la Loi de l’impôt sur le revenu afin de doubler le montant du crédit pour la TPS/TVH durant six mois, augmentant ainsi de 50 % les montants annuels du crédit pour la TPS/TVH pour l’année de prestations 2022-2023.</ParaText>
+              <ParaText id="7317337">Comme toujours, je suis fière de prendre la parole à la Chambre et d'avoir le privilège de représenter les habitants de Peterborough—Kawartha. Aujourd'hui, je prends la parole au sujet du projet de loi <Document DbId="11924004" Type="3">C‑30</Document>, Loi modifiant la Loi de l’impôt sur le revenu, qui vise à accorder aux Canadiens un remboursement de taxe unique. Le projet de loi modifierait la Loi de l’impôt sur le revenu afin de doubler le montant du crédit pour la TPS-TVH durant six mois, augmentant ainsi de 50 % les montants annuels du crédit pour la TPS-TVH pour l’année de prestations 2022-2023.</ParaText>
               <ParaText id="7317338">Le projet de loi <Document DbId="11924004" Type="3">C‑30</Document> est une autre tentative du gouvernement libéral de faire une manchette sensationnaliste qui ne contribuerait en rien à régler les problèmes fondamentaux liés à la crise de l'abordabilité au Canada. Les libéraux veulent croire qu'ils sont en train de sauver les Canadiens, alors que, en réalité, c'est le gouvernement libéral qui a plongé les Canadiens dans la présente crise de l'abordabilité. Les mesures de soutien du gouvernement devraient donner des résultats concrets pour les Canadiens qui en ont le plus besoin, surtout lorsque nous nous trouvons en pleine crise du coût de la vie.</ParaText>
               <ParaText id="7317339">Le remboursement de la TPS offrirait une aide immédiate appréciée que les conservateurs appuieront. Je tiens cependant à préciser que nous ne soutenons pas l’incompétence du gouvernement libéral et son incapacité à gérer l’économie canadienne alors que les Canadiens peinent à mettre de la nourriture sur la table. Il faut trouver une solution à long terme pour régler le vrai problème dans tout le pays. Les déficits inflationnistes et les impôts font grimper les coûts plus rapidement que jamais en près de 40 ans.</ParaText>
               <ParaText id="7317340">Pas plus tard que la semaine dernière, le Comité permanent de la condition féminine a entendu un représentant de l'organisme Repaires jeunesse du Canada témoigner dans le cadre de l’étude en cours sur la santé mentale des jeunes femmes et des filles. J'ai demandé si cet organisme croit que la crise actuelle du coût de la vie affecte nos enfants. Voici la réponse qui figure dans les bleus: « Plusieurs familles nous ont signalé une augmentation du stress. Les enfants nous le confirment [...] Nous rencontrons nos clubs dans les deux prochaines semaines, et je pense que nous entendrons davantage d’histoires de ce genre où les gens disent que le coût de la nourriture pose problème. »</ParaText>
@@ -3653,17 +3658,12 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317503">Conformément à l'ordre adopté le lundi 3 octobre, le vote par appel nominal est reporté au jeudi 6 octobre, à la fin de la période prévue pour les questions orales.</ParaText>
-              <ProceduralText TocType="TPC" id="10">Report du vote sur la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="11">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11841429" Rubric="Other">
-      <OrderOfBusinessTitle>Ordres émanant du gouvernement</OrderOfBusinessTitle>
-      <CatchLine>Ordres émanant du gouvernement</CatchLine>
       <SubjectOfBusiness id="11841433">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 2 sur l'allègement du coût de la vie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Lamoureux" id="11841297">
@@ -3671,7 +3671,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <Affiliation DbId="279316" Type="18">M. Kevin Lamoureux (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317504">Monsieur le Président, il y a eu des discussions entre les partis, et je pense que vous constaterez qu'il y a consentement unanime à l'égard de deux motions, dont voici la première. Je propose:</ParaText>
-              <ProceduralText TocType="TPC" id="11">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="12">Motion</ProceduralText>
               <ParaText id="7317505">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant tout article du Règlement, ordre spécial ou usage habituel de la Chambre, plus tard aujourd’hui, la Chambre continue de siéger au-delà de l’heure ordinaire de l’ajournement quotidien afin d’étudier le projet de loi C‑31, Loi concernant des mesures d'allègement du coût de la vie relatives aux soins dentaires et au logement locatif, à l’étape de la deuxième lecture, que pendant le débat la présidence ne reçoive ni demande de quorum, ni motion dilatoire, ni demande de consentement unanime, et que, lorsque plus aucun député ne se lèvera pour prendre la parole ou à 22 heures, selon la première éventualité, le débat soit réputé ajourné, la Chambre s’ajourne jusqu’au prochain jour de séance et que le débat prévu à l’article 38 du Règlement n'ait pas lieu.</QuotePara>
@@ -3685,18 +3685,12 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
             <Content>
               <ParaText id="7317506"> Que tous ceux qui s'opposent à ce que le député propose la motion veuillent bien dire non. C'est d'accord.</ParaText>
               <ParaText id="7317507"> La Chambre a entendu la motion. Que tous ceux qui s'opposent à la motion veuillent bien dire non.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="12"> (La motion est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="13"> (La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11841466" Rubric="Other">
-      <OrderOfBusinessTitle>
-       Affaires courantes</OrderOfBusinessTitle>
-      <CatchLine>Affaires courantes</CatchLine>
       <SubjectOfBusiness id="11841468">
-        <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>
        Les comités de la Chambre</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Aide médicale à mourir</SubjectOfBusinessQualifier>
@@ -3706,7 +3700,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <Affiliation DbId="279316" Type="18">M. Kevin Lamoureux (secrétaire parlementaire du leader du gouvernement à la Chambre des communes, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317508">Monsieur le Président, voici ma deuxième demande de consentement unanime. Je propose:</ParaText>
-              <ProceduralText TocType="TPC" id="13">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Motion</ProceduralText>
               <ParaText id="7317509">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">Que, nonobstant le paragraphe e) de l'ordre adopté le 2 mai 2022, la date limite pour que le Comité mixte spécial sur l'aide médicale à mourir soumette au Parlement le rapport final de son étude, y compris une déclaration de changements recommandés, soit reportée au vendredi 17 février 2023, et qu'un message soit envoyé au Sénat afin d'informer Leurs Honneurs que cette Chambre a adopté cet ordre.</QuotePara>
@@ -3720,7 +3714,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
             <Content>
               <ParaText id="7317510">Que tous ceux qui s'opposent à ce que le député propose la motion veuillent bien dire non. C'est d'accord.</ParaText>
               <ParaText id="7317511">La Chambre a entendu la motion. Que tous ceux qui s'opposent à la motion veuillent bien dire non.</ParaText>
-              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="14"> (La motion est adoptée.)</ProceduralText>
+              <ProceduralText TocType="TCC" TocText="Adoption de la motion" id="15"> (La motion est adoptée.)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11841321">
@@ -3748,7 +3742,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
       <SubjectOfBusiness id="11841329">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Loi sur la responsabilité de la Banque du Canada</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="15">Projet de loi C‑253. Deuxième lecture</ProceduralText>
+        <ProceduralText TocType="TPC" id="16">Projet de loi C‑253. Deuxième lecture</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="7317516">La Chambre reprend l'étude, interrompue le 19 mai, de la motion portant que le projet de loi <Document DbId="11538111" Type="4">C‑253, Loi modifiant la Loi sur la Banque du Canada et apportant des modifications corrélatives à d'autres lois</Document>, soit lu pour la deuxième fois et renvoyé à un comité.</ParaText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Sinclair-Desgagné" id="11841333">
@@ -3920,7 +3914,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <ParaText id="7317618">
                 <B>M. Kevin Lamoureux:</B> Winnipeg‑Nord.</ParaText>
               <ParaText id="7317619">
-                <B>L'hon. Andrew Sheer:</B> C'est Winnipeg‑Nord, bien sûr. Les relations entre Regina et Winnipeg ont été difficiles cette année, du point de vue de la Saskatchewan, en raison des Blue Bombers et des Roughriders, mais, heureusement, nous allons discuter d'un sujet qui devrait être rassembleur: la reddition de comptes. </ParaText>
+                <B>L'hon. Andrew Sheer:</B> C'est Winnipeg‑Nord, bien sûr monsieur le Président. Les relations entre Regina et Winnipeg ont été difficiles cette année, du point de vue de la Saskatchewan, en raison des Blue Bombers et des Roughriders, mais, heureusement, nous allons discuter d'un sujet qui devrait être rassembleur: la reddition de comptes. </ParaText>
               <ParaText id="7317620">S'il y a une chose que les députés devraient s'entendre pour défendre, c'est bien la reddition de comptes. Je n'arriverai jamais à comprendre pourquoi, mais il n'y a qu'un libéral pour penser qu'une reddition de comptes accrue minerait la confiance en une institution, même lorsqu'il s'agit de montrer davantage aux Canadiens ce qui se passe derrière les portes closes, les raisons qui justifient certaines des décisions de la banque, ce qui l'a poussée à agir lorsqu'elle l'a fait et, surtout, ce qui l'a amenée à ne pas agir lorsqu'elle n'a rien fait. Il n'y a qu'un libéral pour croire que cela minerait la confiance envers une institution. Ce n'est pas étonnant, étant donné la manière dont a agi le <Affiliation DbId="214296" Type="1">premier ministre</Affiliation> sur tous les fronts, qu'on pense aux demandes d'accès à l'information, au caviardage de documents et aux refus. Il a même traîné la présidence de la Chambre en cour afin de couvrir le scandale du laboratoire de Winnipeg.</ParaText>
               <ParaText id="7317621">Quoi qu'il en soit, nous ne parlerons pas de ce scandale aujourd'hui. Nous parlons du vandalisme économique qui se poursuit depuis mars 2020, depuis que la Banque du Canada a décidé de créer de l'argent à partir de rien pour acheter des obligations d'État, et de déposer cet argent flambant neuf — qui n'était pas le produit de la croissance ou d'une augmentation de la production — dans les comptes bancaires des grandes institutions financières. La Banque a acheté des reconnaissances de dette du gouvernement, elle les a achetées à ces grandes institutions financières, qu'elle a inondées d'une importante quantité de devises sous forme d'actifs et de monnaie numériques. Bien entendu, la Banque a aussi augmenté la masse monétaire d'autres façons, notamment en imprimant de l'argent et en faisant tourner la planche à billets.</ParaText>
               <ParaText id="7317622">Mon collègue a pointé du doigt le premier argument fallacieux: la reddition de comptes mine la confiance. Nous savons tous que c'est faux. La reddition de comptes renforce la confiance dans les institutions. </ParaText>
@@ -3953,7 +3947,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7317632">Conformément à l'ordre adopté le jeudi 23 juin, le vote par appel nominal est reporté au mercredi 19 octobre, à la fin de la période prévue pour les questions orales.</ParaText>
-              <ProceduralText TocType="TPC" id="16">Report du vote sur la motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Report du vote sur la motion</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -3967,7 +3961,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
         <SubjectOfBusinessTitle>Loi n<Sup>o</Sup> 2 sur l'allègement du coût de la vie</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="7317633">La Chambre reprend l'étude, interrompue le 3 octobre, de la motion portant que le projet de loi <Document DbId="11924005" Type="3">C‑31, Loi concernant des mesures d'allègement du coût de la vie relatives aux soins dentaires et au logement locatif</Document>, soit lu pour la deuxième fois et renvoyé à un comité, ainsi que de l'amendement.</ParaText>
-          <ProceduralText TocType="TPC" id="17">Projet de loi C‑31. Deuxième lecture</ProceduralText>
+          <ProceduralText TocType="TPC" id="18">Projet de loi C‑31. Deuxième lecture</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="M. d'Entremont" id="11841472">
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">Le vice-président</Affiliation>: </PersonSpeaking>
@@ -4424,7 +4418,7 @@ La Chambre reprend l'étude, interrompue le 4 octobre, de la motion portant que
               <ParaText id="7317820">
                 <B>Une voix:</B> C'est faux.</ParaText>
               <ParaText id="7317821">
-                <B>M. Mark Gerretsen:</B> C'est vrai. Ces dépenses s'élevaient à 400 milliards de dollars.</ParaText>
+                <B>M. Mark Gerretsen:</B> Monsieur le Président, c'est vrai. Ces dépenses s'élevaient à 400 milliards de dollars.</ParaText>
               <ParaText id="7317822">Le député peut-il nous dire quelle est, selon lui, la cause de l'inflation? Est-ce qu'il souscrit à l'argument principal des conservateurs, selon lequel nous ne devrions pas faire les dépenses prévues dans ce projet de loi très important parce qu'elles alimenteront l'inflation, et ce, même si des économistes affirment catégoriquement le contraire?</ParaText>
             </Content>
           </Intervention>

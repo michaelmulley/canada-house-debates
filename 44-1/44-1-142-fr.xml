@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="FR" id="11979642">
-  <StartPageNumber>10463</StartPageNumber>
+  <StartPageNumber>10459</StartPageNumber>
   <DocumentTitle>
     <DocumentName>COMPTE RENDU OFFICIEL (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -521,9 +521,16 @@
               <ParaText id="7486959">L'honorable député de Rosemont—La Petite-Patrie invoque le Règlement.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Interjection" ToC="No" id="11979745">
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11489713">
+        <SubjectOfBusinessTitle>Recours au Règlement</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Allégation de propos non parlementaires</SubjectOfBusinessQualifier>
+        <CatchLine>Recours au Règlement</CatchLine>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" id="11979745" ToCText="M. Boulerice">
             <PersonSpeaking>
-              <Affiliation DbId="278284" Type="2">M. Alexandre Boulerice</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278284" Type="2">M. Alexandre Boulerice (Rosemont—La Petite-Patrie, NPD)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7486960">Madame la Présidente, c'est dommage qu'on ait entendu de tels propos à la Chambre, mais le député de <Affiliation DbId="278653" Type="2">La Prairie</Affiliation> a utilisé des propos non parlementaires et insultants, des attaques personnelles envers moi. J'aimerais beaucoup que le député de La Prairie présente ses excuses à la Chambre.</ParaText>
             </Content>
@@ -535,6 +542,14 @@
               <ParaText id="7486961">C'est noté.</ParaText>
             </Content>
           </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="11504815">
+        <SubjectOfBusinessTitle>Loi d'exécution de l'énoncé économique de l'automne 2022</SubjectOfBusinessTitle>
+        <SubjectOfBusinessQualifier>Projet de loi C‑32 — Motion d'attribution de temps</SubjectOfBusinessQualifier>
+        <CatchLine>Ordres émanant du gouvernement</CatchLine>
+        <SubjectOfBusinessContent>
+          <ParaText id="7493405">La Chambre reprend l’étude de la motion.</ParaText>
           <Intervention Type="Interjection" ToC="No" id="11979747">
             <PersonSpeaking>
               <Affiliation DbId="278941" Type="96">L’hon. Randy Boissonnault</Affiliation>: </PersonSpeaking>
@@ -1115,7 +1130,20 @@
             </DivisionType>
             <DivisionType vote-type="Paired">
               <Type>PAIRÉS</Type>
-              <Nil>Aucun</Nil>
+              <Title>Députés</Title>
+              <Affiliation DbId="278569">Aboultaif</Affiliation>
+              <Affiliation DbId="278301">Carr</Affiliation>
+              <Affiliation DbId="278162">Champagne</Affiliation>
+              <Affiliation DbId="278762">Dzerowicz</Affiliation>
+              <Affiliation DbId="278323">Koutrakis</Affiliation>
+              <Affiliation DbId="278448">MacKenzie</Affiliation>
+              <Affiliation DbId="278255">McKay</Affiliation>
+              <Affiliation DbId="278242">Ng</Affiliation>
+              <Affiliation DbId="278372">Normandin</Affiliation>
+              <Affiliation DbId="278683">Redekopp</Affiliation>
+              <Affiliation DbId="278414">Shields</Affiliation>
+              <Affiliation DbId="278471">Williams</Affiliation>
+              <Total> -- 12</Total>
             </DivisionType>
           </Division>
           <Intervention Type="Debate" ToC="No" ToCText="M. d'Entremont" id="11980317">
@@ -1888,7 +1916,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11981553">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La violence fondée sur le sexe</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La violence fondée sur le genre</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mme Damoff" id="11981554">
             <PersonSpeaking>
@@ -1951,7 +1979,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11981570">
-        <SubjectOfBusinessTitle>Félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Des félicitations à l'occasion d'un départ à la retraite</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mme Hepfner" id="11981571">
             <PersonSpeaking>
@@ -1982,7 +2010,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11981577">
         <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Poème de Noël</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Un poème de Noël</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="M. Genuis" id="11981578">
             <PersonSpeaking>
@@ -2024,7 +2052,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11981589">
         <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>La tragédie de la Polytechnique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tragédie de Polytechnique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Deltell" id="11981590">
             <PersonSpeaking>
@@ -2039,7 +2067,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11981592">
-        <SubjectOfBusinessTitle>La tragédie de la Polytechnique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tragédie de Polytechnique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Statement" ToC="Yes" ToCText="Mme Shanahan" id="11981593">
             <PersonSpeaking>
@@ -2055,7 +2083,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11981596">
         <Timestamp Hr="14" Mn="15">(1415)</Timestamp>
-        <SubjectOfBusinessTitle>La tragédie de la Polytechnique</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>La tragédie de Polytechnique</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Boulerice" id="11981597">
             <PersonSpeaking>
@@ -2239,7 +2267,7 @@ La Chambre reprend l'étude, interrompue le 5 décembre, du projet de loi <Doc
             <Content>
               <ParaText id="7487416">Monsieur le Président, c'est tout à fait l'esprit de la question que je pose.</ParaText>
               <ParaText id="7487417">Évidemment, je partage la préoccupation qu'on puisse essayer d'instrumentaliser les chasseurs sportifs dans ce dossier, mais cela ne permet pas de ne pas assurer la sécurité et le sentiment de sécurité des familles des victimes, des femmes en général, de la société civile en général.</ParaText>
-              <ParaText id="7487418">Nous voulons bien comprendre, parce que la clarté est au coeur de l'enjeu, et nous demandons simplement d'ajouter deux séances avec des experts pour analyser l'amendement.</ParaText>
+              <ParaText id="7487418">Nous voulons bien comprendre, parce que la clarté est au cœur de l'enjeu, et nous demandons simplement d'ajouter deux séances avec des experts pour analyser l'amendement.</ParaText>
               <ParaText id="7487419">Est-ce qu'on peut faire ça?</ParaText>
             </Content>
           </Intervention>
@@ -3258,10 +3286,10 @@ La Chambre reprend l'étude du projet de loi <Document DbId="12038143" Type="3"
               <ParaText id="7487664">Madame la Présidente, je vais commencer mon intervention par un petit détour vers la municipalité de Sainte‑Adèle, dans ma circonscription. Vendredi dernier, un terrible incendie a ravagé une institution de Laurentides—Labelle, l'Hôtel Mont Gabriel. Depuis 1936, l'hôtel trône sur le sommet du Mont Gabriel. J'y suis personnellement attachée, parce que, pendant les années 1960, mon père a travaillé au Mont Gabriel pour payer ses études. Je tiens à dire aux employés et au directeur général, Martin Lavallée, que je suis avec eux dans cette épreuve, qui survient à quelques jours de Noël.</ParaText>
               <ParaText id="7487665">Aujourd'hui, je suis ici pour parler du projet de loi <Document DbId="12038143" Type="3">C‑32</Document>, à l'étape du rapport. Ce projet de loi vise à mettre en œuvre l'énoncé économique du gouvernement. Malheureusement, comme on le voit, il s'agit d'un dépoussiérage législatif. Honnêtement, j'ai vraiment l'impression qu'on tente de mettre en œuvre le budget qui avait été déposé il y a quelques mois. J'aimerais donner un peu plus de détails sur la réalité économique actuelle des Québécois. En un mot, le projet de loi C‑ 32 est passéiste. On nomme le problème de l'inflation. On en parle 115 fois, mais jusqu'à quel point s'y attarde-t-on? En effet, ce qu'on y lit n'est ancré ni dans le futur ni dans le présent.</ParaText>
               <ParaText id="7487666">J'essaie de trouver les moyens pour qu'on puisse passer au travers. Donnons des exemples: des factures d'épicerie qui montent en flèche; l'incapacité de faire le plein d'essence en attendant d'avoir une voiture électrique pour aller travailler, parce que, en région, on a besoin d'une voiture. Malheureusement, le transport en commun n'est pas partout. Ce sont aussi des dons qui sont à la baisse pour les guignolées des médias, parce que les gens en arrachent.</ParaText>
-              <ParaText id="7487667">Le gouvernement met le doigt sur le problème de la hausse du coût de la vie, mais cela s'arrête là. Il annonce des jours difficiles à venir — on s'y attend évidemment — sans prévoir comment les traverser. Malgré tout, même si les mesures présentées dans le projet de loi C‑ 32 ne sont pas parfaites, car il y a des manques, nous sommes en mesure de dire que nous sommes relativement satisfaits des mesures présentées.</ParaText>
+              <ParaText id="7487667">Le gouvernement met le doigt sur le problème de la hausse du coût de la vie, mais cela s'arrête là. Il annonce des jours difficiles à venir — on s'y attend évidemment — sans prévoir comment les traverser. Malgré tout, même si les mesures présentées dans le projet de loi C‑32 ne sont pas parfaites, car il y a des manques, nous sommes en mesure de dire que nous sommes relativement satisfaits des mesures présentées.</ParaText>
               <ParaText id="7487668">Par contre, le gouvernement aurait dû s'inspirer davantage des demandes du Bloc québécois. Nos demandes sont simples et claires, et nous savons qu'elles vont être efficaces. Nous avons des preuves à l'appui. Ces demandes peuvent directement aider les Québécois. Mentionnons ces trois demandes: hausser les transferts en santé, soutenir adéquatement les gens de 65 ans et plus et réformer de toute urgence le système d'assurance-emploi. </ParaText>
               <ParaText id="7487669">Pourtant, le gouvernement libéral a refusé notre main tendue et a rejeté nos propositions. Voilà une occasion ratée d'aider les Québécois. Je sais qu'ils nous regardent et je leur dis que nous ne lâcherons pas le morceau. Je dois toutefois dire qu'il y a quelques éléments qui sont positifs, et je vais les nommer aujourd'hui.</ParaText>
-              <ParaText id="7487670"> Comme on peut le constater, les <I>flips</I> immobiliers font vraiment augmenter la valeur des résidences sur le marché et contribuent à rendre très difficile l'accès à la propriété, particulièrement pour les premiers acheteurs. Je salue l'initiative du gouvernement fédéral de taxer les gains sur les <I>flips</I> immobiliers. J'espère que cela contribuera à ralentir la spéculation immobilière et que cela facilitera l'accès à la propriété.</ParaText>
+              <ParaText id="7487670"> Comme on peut le constater, les flips immobiliers font vraiment augmenter la valeur des résidences sur le marché et contribuent à rendre très difficile l'accès à la propriété, particulièrement pour les premiers acheteurs. Je salue l'initiative du gouvernement fédéral de taxer les gains sur les flips immobiliers. J'espère que cela contribuera à ralentir la spéculation immobilière et que cela facilitera l'accès à la propriété.</ParaText>
               <ParaText id="7487671">Une autre mesure dans la même veine, que je salue, c'est la création du compte d'épargne libre d'impôt qui sert à accumuler de l'argent pour la mise de fonds sur l'achat d'une première propriété. J'en ai discuté avec ma grande fille et ses amies, et elles reconnaissent que cela va sûrement les aider.</ParaText>
               <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
               <ParaText id="7487672">C'était dans le budget du printemps dernier. La conjoncture a changé et on devait s'ajuster.</ParaText>
@@ -4182,9 +4210,6 @@ La Chambre reprend l'étude du projet de loi <Document DbId="12038143" Type="3"
               <ParaText id="7488038">D'accord?</ParaText>
               <ParaText id="7488039">
                 <B>Des voix:</B> D'accord.</ParaText>
-              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
-              <ParaText id="7488040">
-                <B>La vice-présidente adjointe (Mme Alexandra Mendès)</B>: Comme il est 18 h 30, la Chambre abordera maintenant l'étude des affaires émanant des députés, selon l'ordre indiqué au Feuilleton d'aujourd'hui.</ParaText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -4249,7 +4274,7 @@ La Chambre reprend l'étude du projet de loi <Document DbId="12038143" Type="3"
               <ParaText id="7488070">Nous allons continuer d'extraire une certaine quantité de pétrole et de gaz pendant encore longtemps, car on s'en sert non seulement pour alimenter les voitures et se chauffer, mais aussi pour fabriquer des plastiques. C'est un intrant de fabrication important. Par conséquent, nous savons que le Canada doit se demander à quoi correspond un niveau d'extraction durable. Je crois qu'on peut répondre à cette question.</ParaText>
               <ParaText id="7488071">Nous pourrions nous fonder sur les engagements en matière de réduction des émissions que le Canada a pris dans le cadre de l'Accord de Paris et d'autres accords internationaux, et nous demander à quoi ressemblerait l'exploitation durable du pétrole et du gaz. Elle ne consistera pas à approuver tous les projets que vante l'industrie. Malheureusement, c'est l'approche qui a été préconisée jusqu'à présent. Elle ne consistera pas à aller à la rescousse des grands investisseurs du secteur privé, comme le gouvernement l'a fait dans le cas du projet d'expansion de l'oléoduc Trans Mountain, en leur disant: « Nous sommes vraiment désolés que votre projet ait échoué au Canada, mais ce n'est pas grave, car les contribuables canadiens en assumeront le fardeau à votre place. Il n'y a pas de risque pour les investisseurs au Canada, car si vous faites un mauvais investissement, nous serons là pour vous renflouer. »</ParaText>
               <ParaText id="7488072">C'est d'autant plus enrageant que, lorsqu'il s'agit du rôle d'un secteur pétrolier et gazier durable au Canada, on ne devrait pas chercher à simplement extraire de plus en plus d'hydrocarbures, mais bien à constamment optimiser la valorisation du pétrole et du gaz que l'on extrait. L'une des façons d'y parvenir, c'est d'augmenter la capacité de raffinage du Canada. En fait, nous avons assisté à une diminution importante de la capacité de raffinage au Canada. L'argument souvent avancé est qu'il n'y a pas d'argent pour construire une raffinerie, que la construction d'une telle installation au Canada coûterait des dizaines de milliards de dollars. C'est ce que le gouvernement dit en réponse à ceux d'entre nous qui souhaitent que l'on mette davantage l'accent sur un secteur pétrolier et gazier à valeur ajoutée.</ParaText>
-              <ParaText id="7488073">Cependant, qu'a fait le gouvernement ? Du jour au lendemain, il a trouvé des fonds pour ce qui s'est avéré être un investissement de plus de 20 milliards de dollars pour le pipeline TMX. </ParaText>
+              <ParaText id="7488073">Cependant, qu'a fait le gouvernement? Du jour au lendemain, il a trouvé des fonds pour ce qui s'est avéré être un investissement de plus de 20 milliards de dollars pour le pipeline TMX. </ParaText>
               <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
               <ParaText id="7488074">Qu'on ne vienne pas me dire qu'il n'y a pas d'argent. Le problème, c'est qu'il n'y a pas d'argent pour un cadre stratégique avant‑gardiste. Cependant, de l'argent se matérialise automatiquement quand les lobbyistes de l'industrie pétrolière et gazière viennent à Ottawa réclamer des fonds. Ce n'est pas de cette façon qu'il faudrait investir les deniers publics dans l'économie énergétique.</ParaText>
               <ParaText id="7488075">Le même scénario s'est répété dans le dernier budget, où les libéraux ont annoncé des milliards de dollars de nouvelles subventions pour le captage et le stockage du carbone. Voici la façon dont les choses fonctionnent ici: les libéraux déboursent énormément d'argent sur le secteur gazier et pétrolier, pour se faire dire ensuite par les conservateurs qu'ils n'en font pas assez pour ce dernier et que les libéraux ne le comprennent pas. On peut donc dire que les choses vont plutôt bien pour ce secteur ici, à Ottawa.</ParaText>
@@ -4326,6 +4351,8 @@ La Chambre reprend l'étude du projet de loi <Document DbId="12038143" Type="3"
               <ParaText id="7488126">L'imposition et la création de ce cadre constituent-elles un triomphe du fédéralisme canadien? C'est exactement le genre de choses imposées aux provinces de l'Ouest qui érode tristement la foi des gens dans le fédéralisme canadien, tout comme Pierre Trudeau lorsqu'il était premier ministre et qu'il a détruit l'industrie énergétique canadienne pour toute une génération dans un abus spectaculaire du fédéralisme canadien. Non, le projet de loi n'est pas un triomphe du fédéralisme canadien. Il ne constituerait pas un tremplin pour une prétendue économie verte à la fois abstraite, mythique et indéfinie. Il n'aiderait pas les travailleurs canadiens. </ParaText>
               <ParaText id="7488127">Le gouvernement promet depuis des années un recyclage de la main-d'œuvre pour des emplois verts aux travailleurs du secteur pétrolier et gazier, mais cela ne s'est jamais concrétisé. Cela n'aidera pas les municipalités de l'Ouest. Les gens de l'Ouest canadien ne veulent pas de ce projet de loi. Personne ne l'a réclamé. C'est un projet de loi qui, au mieux, ne fera rien et, au pire, nuira aux résidants de ma circonscription.</ParaText>
               <ParaText id="7488128">Je suis conscient qu'à la suite de ce débat, il est probable que le projet de loi soit adopté à l'étape de la troisième lecture. Si c'est le cas, j'offre mes félicitations au député de <Affiliation DbId="278301" Type="2">Winnipeg-Centre-Sud</Affiliation>. L'adoption d'un projet de loi d'initiative parlementaire n'est pas une mince affaire. Je lui souhaite la meilleure des chances, mais je n'appuie pas le projet de loi et je m'y opposerai.</ParaText>
+              <ParaText id="7865060">
+                <B>La vice-présidente adjointe (Mme Alexandra Mendès):</B> Je cède la parole à l'honorable député de Winnipeg-Centre-Sud pour son droit de réplique.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="18" Mn="55">(1855)</Timestamp>
@@ -4446,7 +4473,7 @@ La Chambre reprend l'étude du projet de loi <Document DbId="12038143" Type="3"
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11984078">
-        <SubjectOfBusinessQualifier>Les affaires internationales</SubjectOfBusinessQualifier>
+        <SubjectOfBusinessQualifier>Les affaires étrangères</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="M. Vuong" id="11984042">
             <PersonSpeaking>

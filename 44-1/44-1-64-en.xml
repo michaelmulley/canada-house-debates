@@ -437,7 +437,7 @@
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" id="11658616">
             <PersonSpeaking>
-              <Affiliation DbId="278267" Type="2">Mr. Yves-François Blanchet (Beloeil—Chambly, BQ)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278267" Type="2">Mr. Yves-François Blanchet</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7116072">Mr. Speaker, last week, with the Prime Minister present, journalists asked Quebec's premier if he was still going to demand—<Affiliation DbId="214296" Type="1" /></ParaText>
               <ParaText id="7116073">
@@ -600,7 +600,7 @@
             <PersonSpeaking>
               <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116109">Mr. Speaker, every step of the way, we have been guided by one principle: to have Canadians' backs. That is exactly what we have done through this pandemic, including by trusting in science, by trusting the experts and by moving forward in a responsible way that has resulted in a pandemic that was far less worse in Canada than in other places around the world, but also an economic recovery that has been stronger and faster.</ParaText>
+              <ParaText id="7116109">Mr. Speaker, every step of the way, we have been guided by one principle: to have Canadians' backs. That is exactly what we have done through this pandemic, including by trusting in science, by trusting the experts and by moving forward in a responsible way that has resulted in a pandemic that was far less bad in Canada than in other places around the world, but also an economic recovery that has been stronger and faster.</ParaText>
               <ParaText id="7116110">At the same time, we will continue to engage in keeping Canadians united as they have been, in keeping each other safe, in protecting our economic recovery and in building a better future for all.</ParaText>
             </Content>
           </Intervention>
@@ -817,10 +817,7 @@
                 <B>An hon. member:</B> Yes, please.</ParaText>
               <ParaText id="7116165">
                 <B>The Deputy Speaker:</B> That is very good. However, we are out of control. We need to bring it down a bit so the people watching from above and the people watching at home can understand that we are having a debate that is important to Canadians. Let us bring it down.</ParaText>
-              <ParaText id="7116166">
-                <B>Some hon. members:</B> Hear, hear!</ParaText>
-              <ParaText id="7116167">
-                <B>The Deputy Speaker:</B> The hon. member for Lethbridge.</ParaText>
+              <ParaText id="7116167">The hon. member for Lethbridge.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Thomas" id="11658793">
@@ -985,7 +982,7 @@
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Kusie" id="11658838">
             <PersonSpeaking>
-              <Affiliation DbId="231689" Type="2">Mrs. Stephanie Kusie (Calgary Midnapore, CPC)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278362" Type="2">Mrs. Stephanie Kusie (Calgary Midnapore, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7116197">Mr. Speaker, since the Liberals took office in 2015, national home prices have more than doubled. This is greatly outpacing the United States and other G7 countries. The Liberal government has had six years to fix this issue and has failed to develop a plan that works. Instead of Canadians moving into new homes, the dream of home ownership or an affordable place to live is moving further and further away.</ParaText>
               <ParaText id="7116198">When will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> finally focus on building new homes?</ParaText>
@@ -1242,7 +1239,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11658914">
-        <SubjectOfBusinessTitle>Missing and Murdered Indigenous Women</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Indigenous Affairs</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Singh" id="11658911">
             <PersonSpeaking>
@@ -1298,7 +1295,7 @@
               <Affiliation DbId="278653" Type="2">Mr. Alain Therrien (La Prairie, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7116265">Mr. Speaker, I rise on a point of order.</ParaText>
-              <ParaText id="7116266">At the end of his response to the member for <Affiliation DbId="278309" Type="2">Pontiac</Affiliation>'s question, the Prime Minister yelled, “Shame on Quebeckers”. We checked, and that is what we heard. Naturally, I would ask that he withdraw his remarks.</ParaText>
+              <ParaText id="7116266">At the end of his response to the member for <Affiliation DbId="278309" Type="2">Pontiac</Affiliation>'s question, the Prime Minister yelled, “Shame on Quebeckers!” We checked, and that is what we heard. Naturally, I would ask that he withdraw his remarks.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Trudeau" id="11658938">
@@ -1314,10 +1311,9 @@
             <Content>
               <ParaText id="7116268">Order.</ParaText>
               <ParaText id="7116269">The hon. member for Foothills on a point of order.</ParaText>
-              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-              <ParaText id="7116270">The hon. member for Foothills.</ParaText>
             </Content>
           </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
           <Intervention Type="Interjection" ToC="No" id="11658940">
             <PersonSpeaking>
               <Affiliation DbId="278374" Type="2">Mr. John Barlow</Affiliation>: </PersonSpeaking>
@@ -1459,9 +1455,9 @@
               <ParaText id="7116305">The hon. parliamentary secretary to the government House leader.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lamoureux" id="11658963">
+          <Intervention Type="Interjection" ToC="No" id="11658963">
             <PersonSpeaking>
-              <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="279316" Type="18">Mr. Kevin Lamoureux</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7116306">Mr. Speaker, I rise on the same point of order. In fairness, I think while you are perusing Hansard, you should check what was said on all sides of the House and provide a detailed report with respect to the names of the individuals and the words they would have used.</ParaText>
             </Content>
@@ -1504,9 +1500,9 @@
               <ParaText id="7116313">The hon. member for Saanich—Gulf Islands.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. May (Saanich—Gulf Islands)" id="11658969">
+          <Intervention Type="Interjection" ToC="No" id="11658969">
             <PersonSpeaking>
-              <Affiliation DbId="278722" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
+              <Affiliation DbId="278722" Type="2">Ms. Elizabeth May</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7116314">Mr. Speaker, I would like to place on the record that I have the same concern about the question from the hon. member for <Affiliation DbId="278309" Type="2">Pontiac</Affiliation>, and I support the point made by the hon. member for <Affiliation DbId="278214" Type="2">Central Okanagan—Similkameen—Nicola</Affiliation>.</ParaText>
             </Content>
@@ -1694,7 +1690,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="279182" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116374">It being 3:50 p.m., pursuant to order made on Thursday, November 25, 2021, the House will now proceed to the taking of the deferred recorded division on the sub-amendment to the amendment on the motion at third reading of Bill <Document DbId="11496808" Type="3">C-8</Document>.</ParaText>
+              <ParaText id="7116374">It being 3:50 p.m., pursuant to order made on Thursday, November 25, 2021, the House will now proceed to the taking of the deferred recorded division on the amendment to the amendment on the motion at third reading of Bill <Document DbId="11496808" Type="3">C-8</Document>.</ParaText>
               <ParaText id="7116375">Call in the members.</ParaText>
             </Content>
           </Intervention>
@@ -2056,7 +2052,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ProceduralText TocType="TPC" id="2">Amendment to the amendment negatived </ProceduralText>
-              <ParaText id="7116377">I declare the subamendment defeated.</ParaText>
+              <ParaText id="7116377">I declare the amendment to the amendment defeated.</ParaText>
               <ParaText id="7116378">The next question is on the amendment.</ParaText>
               <ParaText id="7116379">If a member of a recognized party present in the House wishes to request a recorded division or that the amendment be adopted on division, I would invite them to rise and indicate it to the Chair.</ParaText>
               <ParaText id="7116380">The hon. House leader for the official opposition.</ParaText>
@@ -3877,7 +3873,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <ParaText id="7116510">This bill presents a chance to bring a new set of voices into our electoral system, into our democratic conversation: those of 16- and 17-year-old Canadians. It is just as Canada did for women in 1918, Asian Canadians in 1948, indigenous people in 1960 and 18-, 19- and 20-year-olds in 1970.</ParaText>
               <ParaText id="7116511">However, the right to vote, the name of which is in the title of this bill, is never guaranteed. I do not think there are any in this place who would suggest that if the group of people I just listed were excluded, our democracy would be nearly as strong, but democracy and voting rights are something we must keeping fighting for. Speak to Indigenous people and they will tell you their voting access did not become an overnight reality in 1960. As we saw in the last federal election with the suspension of the campus vote program, there are still groups in our society, like students, that face barriers to voting.</ParaText>
               <ParaText id="7116512">Our democracy is a work in progress and it remains fragile. We see that around the world: in the United States, in France and here at home in Canada too. We are witnessing the rise of those who seek to destabilize western democracies. We are seeing the spread of misinformation, which is alienating citizens from their state. Only a year ago, an armed mob stormed the U.S. Capitol in an attempt to overturn an election that was free and fair.</ParaText>
-              <ParaText id="7116513">Those forces are preying on real feelings of disillusionment. The fact is, many people do not feel represented by our political institutions. The antidote, in part, is to ensure that our democratic system is including as many people as possible, and that includes 16- and 17-year-old Canadians.</ParaText>
+              <ParaText id="7116513">Those forces are preying on real feelings of disillusionment. The fact is that many people do not feel represented by our political institutions. The antidote, in part, is to ensure that our democratic system is including as many people as possible, and that includes 16- and 17-year-old Canadians.</ParaText>
               <ParaText id="7116514">I called this my private member's bill, but truly this bill belongs to all of the representatives in this place and beyond who have championed this initiative over the years and who have brought forward this bill's objective not just at the federal level of government, but at other levels as well. The member for <Affiliation DbId="278727" Type="2">Ajax</Affiliation> comes to mind. We were doing the math, and if his bill in this place had passed in 2005, the children born that year would have been old enough to vote in the last federal election. The member for <Affiliation DbId="278722" Type="2">Saanich—Gulf Islands</Affiliation> tabled a bill to lower the voting age in the House. Of course, my colleague, the wonderful member for <Affiliation DbId="278623" Type="2">Vancouver Kingsway</Affiliation>, at our count has tabled a bill seven times in this place. I understand his count is a little different, but when we get up to bigger numbers, it becomes hard to keep track.</ParaText>
               <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
               <ParaText id="7116515">I hope that others will see their efforts reflected in the bill as well, such as the member for <Affiliation DbId="278598" Type="2">Calgary Skyview</Affiliation>, who, as a Calgary city councillor, brought forward a motion to lower the voting age, and the member for <Affiliation DbId="278415" Type="2">Orléans</Affiliation>, who championed a voting age initiative in the province of Ontario. I want to specifically acknowledge the work of Senator Marilou McPhedran, who has championed lowering the voting age in the other place and whose bill, Bill <Document DbId="11474360" Type="4">S-201</Document>, is currently at second reading.</ParaText>
@@ -3966,7 +3962,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <ParaText id="7116551">I am a very strong advocate for how we can get more people to participate in the democratic process. One thing, for example, would be voting at malls. We should allow people to vote where they are going. We see that in limited ways, and I think we can do a lot more to enable wider and better participation in voting.</ParaText>
               <Timestamp Hr="18" Mn="45">(1845)</Timestamp>
               <ParaText id="7116552">I remember sitting in on some discussions where some people would say, “Well, voting should be made mandatory.” That is not something I would advocate, but there are some countries in the world that have mandatory voting. Others would say that there should be a carrot to encourage people to go out and vote. I have even heard some people say that there should be a flat fee for people who show up to vote to provide them a credit. I think that everyone wants to see our democracy in a very healthy state. One of the ways we can do that is to ensure we are encouraging people to get out and vote, and find some of those mechanisms so that we can. </ParaText>
-              <ParaText id="7116553">I do not think we can underestimate the true value of youth today, and of those who are 12 and under. I will go back to one of my first volunteers, Walter Crock, who was eight years old when he showed up at my campaign office back in 1988. At eight years old, he showed up, and was probably in a better position to vote than many people I knew who were over 18. I could not see him at the time, but he was at the front of the campaign office. Fifteen minutes later, I met young Walter, who pointed out three spelling mistakes in my brochure. Every political party has had that sort of experience. We should capitalize not just on the 16-year-olds, but go all the way down to an age when young people do get engaged. </ParaText>
+              <ParaText id="7116553">I do not think we can underestimate the true value of youth today, and of those who are 12 and under. I will go back to one of my first volunteers, Walter Krawec, who was eight years old when he showed up at my campaign office back in 1988. At eight years old, he showed up, and was probably in a better position to vote than many people I knew who were over 18. I could not see him at the time, but he was at the front of the campaign office. Fifteen minutes later, I met young Walter, who pointed out three spelling mistakes in my brochure. Every political party has had that sort of experience. We should capitalize not just on the 16-year-olds, but go all the way down to an age when young people do get engaged. </ParaText>
               <ParaText id="7116554">If we want young people to vote, whether in a provincial, territorial or federal election, at the age of 18, the best thing we can do is encourage school divisions to have civic programs to encourage youth parliaments, whether they are in legislatures or in local high schools, and encourage young people to get engaged in political campaigns. We see many schools telling students that they can get a credit if they go to a local campaign. They do not say to support a political party, but teachers often encourage students to get involved in a campaign directly. By doing that, students are getting that first-hand experience. They will go home to tell mom or dad, or whoever their guardian is, that they were candidate X or Y, and that is not limited to 16-year-olds.</ParaText>
               <ParaText id="7116555">
                 <B>An hon. member:</B> Oh, oh!</ParaText>
@@ -4124,7 +4120,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That this committee take note of missing and murdered Indigenous women and girls.</QuotePara>
                 </Quote>
               </ParaText>
-              <ParaText id="7116637">He said: Madam Chair, <I>kwe, kwe. Unusakut. Tansi</I>. Hello. <I>Bonjour</I>.</ParaText>
+              <ParaText id="7116637">He said: Madam Chair, <I>kwe, kwe. Unnusakkut. Tansi</I>. Hello. <I>Bonjour</I>.</ParaText>
               <ParaText id="7116638">I want to start by acknowledging that Canada's Parliament is located on the traditional and unceded territory of the Algonquin Anishinabe people.</ParaText>
               <ParaText id="7116639">I will be splitting my time with the member for <Affiliation DbId="278704" Type="2">Nunavut</Affiliation>.</ParaText>
               <ParaText id="7116640">The tragedy of missing and murdered indigenous women and girls is ongoing. Tomorrow, on May 5, thousands of red dresses will be hung in city squares, on porches, in trees, on fences and in gardens across Canada. These red dresses are a reminder of the pain and loss felt by families, survivors and communities of missing and murdered first nations, Inuit and Métis women, girls, two-spirit and gender-diverse people.</ParaText>
@@ -4220,9 +4216,8 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278704" Type="2">Ms. Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116674">
-                <I>Qujannamiik, Uqaqtittiji</I>.</ParaText>
-              <ParaText id="7116675">I want to thank the <Affiliation DbId="278922" Type="4">Minister of Crown-Indigenous Relations</Affiliation> for sharing his time with me. I am dismayed that I have to stand today and that we still need to debate sustained funding and commitments after so much work has already been completed to ensure that all Canadians understand the injustice experienced by Inuit, first nations and Métis families.</ParaText>
+              <ParaText id="7116675">
+                <I>Uqaqtittiji</I>, I want to thank the <Affiliation DbId="278922" Type="4">Minister of Crown-Indigenous Relations</Affiliation> for sharing his time with me. I am dismayed that I have to stand today and that we still need to debate sustained funding and commitments after so much work has already been completed to ensure that all Canadians understand the injustice experienced by Inuit, first nations and Métis families.</ParaText>
               <ParaText id="7116676">On June 3, it will be three years since the National Inquiry into Missing and Murdered Indigenous Women and Girls and 2SLGBTQQIA published “Reclaiming Power and Place”. The inquiry made 231 calls for justice. The report concluded that the acts of violence against indigenous women, girls and gender-diverse people in Canada constitute genocide. The calls for justice stated:</ParaText>
               <ParaText id="7116677">
                 <Quote>
@@ -4410,9 +4405,8 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278704" Type="2">Ms. Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116741">
-                <I>Uqaqtittiji</I>.</ParaText>
-              <ParaText id="7116742">I would like to thank the member for his intervention. That was great. I am glad that he outlined some of the factors that lead to the incidents that we see all too often. I wanted to ask the member what he thinks about all those indicators impacting indigenous people's and indigenous women's perspectives on what they need to rely on, including the perceived need for resource industries and gaining employment in those kinds of sectors, because those sectors are the places where most of the violence is being caused.</ParaText>
+              <ParaText id="7116742">
+                <I>Uqaqtittiji</I>, I would like to thank the member for his intervention. That was great. I am glad that he outlined some of the factors that lead to the incidents that we see all too often. I wanted to ask the member what he thinks about all those indicators impacting indigenous people's and indigenous women's perspectives on what they need to rely on, including the perceived need for resource industries and gaining employment in those kinds of sectors, because those sectors are the places where most of the violence is being caused.</ParaText>
               <ParaText id="7116743">Could the member share what his thoughts are on that?</ParaText>
             </Content>
           </Intervention>
@@ -4534,7 +4528,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278710" Type="2">Ms. Jenny Kwan (Vancouver East, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116794">Mr. Chair, the member noted the lack of housing. In fact, there is the lack of support from the government for a dedicated “for indigenous, by indigenous” housing strategy. Further to that point, there is also a lack of specific allocation to indigenous women's and girls' housing. I wonder if the member can comment on that and on how the government's inaction is enabling the continuation of the genocide of indigenous women and girls.</ParaText>
+              <ParaText id="7116794">Mr. Chair, the member noted the lack of housing. In fact, there is a lack of support from the government for a dedicated “for indigenous, by indigenous” housing strategy. Further to that point, there is also a lack of specific allocation to indigenous women's and girls' housing. I wonder if the member can comment on that and on how the government's inaction is enabling the continuation of the genocide of indigenous women and girls.</ParaText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -4651,10 +4645,9 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278704" Type="2">Ms. Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116837">
-                <I>Uqaqtittiji</I>.</ParaText>
-              <ParaText id="7116838">I want to thank the member for <Affiliation DbId="278288" Type="2">Winnipeg Centre</Affiliation> for her very inspiring story and her leadership. I very much appreciated her story about her mom, because that is a direct example of how deep the impacts are of colonialism and what those behaviours continue to do in generations that have had to follow in those traumas.</ParaText>
-              <ParaText id="7116839">I want to ask for her expertise and knowledge about how deep the impacts are on the reliance on the resource industry, and how there is a misperception that first nations, Métis and Inuit want to rely on those resource extraction companies because of the gainful employment that they might provide. At the same time, those are the same places that are exercising the genocidal activities resulting in too many first nations, Métis and Inuit women and girls being lost to murder and going missing for years. <I>Qujannamiik, Uqaqtittiji.</I></ParaText>
+              <ParaText id="7116838">
+                <I>Uqaqtittiji</I>, I want to thank the member for <Affiliation DbId="278288" Type="2">Winnipeg Centre</Affiliation> for her very inspiring story and her leadership. I very much appreciated her story about her mom, because that is a direct example of how deep the impacts are of colonialism and what those behaviours continue to do in generations that have had to follow in those traumas.</ParaText>
+              <ParaText id="7116839">I want to ask for her expertise and knowledge about how deep the impacts are on the reliance on the resource industry, and how there is a misperception that first nations, Métis and Inuit want to rely on those resource extraction companies because of the gainful employment that they might provide. At the same time, those are the same places that are exercising the genocidal activities resulting in too many first nations, Métis and Inuit women and girls being lost to murder and going missing for years.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11659990">
@@ -4720,7 +4713,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278188" Type="2">Mrs. Marilène Gill (Manicouagan, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116864">Mr. Chair, I believe this is an example of exactly what I was trying to illustrate in the the speech I gave earlier.</ParaText>
+              <ParaText id="7116864">Mr. Chair, I believe this is an example of exactly what I was trying to illustrate in the speech I gave earlier.</ParaText>
               <ParaText id="7116865">Once again, I feel like the government is making a commercial about the money it has handed out. When it talks about millions of dollars, hundreds of millions of dollars and billions of dollars, it always sounds impressive.</ParaText>
               <ParaText id="7116866">However, I would also like my hon. colleague to tell me about the results. The government always talks about the investments it has made in this and that community, but it never talks about the results. I believe that what members and people want are results.</ParaText>
             </Content>
@@ -4743,17 +4736,10 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <ParaText id="7116871">A very important report was tabled in June of last year, and in the mandate letter for the <Affiliation DbId="278921" Type="4">minister</Affiliation>, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> said that he would continue police reforms. However, they have not started on any of the reforms. </ParaText>
               <ParaText id="7116872">One of the reforms that was very important was to ensure that there were indigenous people on oversight boards. There still are not independent investigations by indigenous people when indigenous people have been killed, especially missing and murdered women and girls.</ParaText>
               <ParaText id="7116873">Judith Sayers, president of the Nuu-Chah-Nulth Tribal Council, stated that indigenous peoples must be given an opportunity to be the pen on new policing legislation, rather than being allowed to comment or respond to regulations written by politicians.</ParaText>
-              <ParaText id="7116874">When is the <Affiliation DbId="278921" Type="4">minister</Affiliation> going to begin reforms? Will indigenous people be the pen?</ParaText>
+              <ParaText id="7116874">When is the <Affiliation DbId="278921" Type="4">minister</Affiliation> going to begin reforms? Will indigenous people get to be the pen?</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="20" Mn="55">(2055)</Timestamp>
-          <Intervention Type="Interjection" ToC="No" id="11660004">
-            <PersonSpeaking>
-              <Affiliation DbId="279181" Type="96">The Chair</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7116875">The hon. Minister of Public Safety.</ParaText>
-            </Content>
-          </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11660005">
             <PersonSpeaking>
               <Affiliation DbId="278921" Type="4">Hon. Marco Mendicino</Affiliation>: </PersonSpeaking>
@@ -4953,7 +4939,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278248" Type="2">Hon. Michelle Rempel Garner</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116942">Mr Chair, yes, I agree.</ParaText>
+              <ParaText id="7116942">Mr. Chair, yes, I agree.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Gazan" id="11660051">
@@ -5019,10 +5005,8 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278704" Type="2">Ms. Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7116970">
-                <I>Uqaqtittiji.</I>
-              </ParaText>
-              <ParaText id="7116971">I would like to thank the <Affiliation DbId="278911" Type="4">Minister of Indigenous Services</Affiliation> for her important intervention, and thank her for confirming that she has read “Reclaiming Power and Place”. Many recommendations included in there are calls for sustainable funding in many different service areas impacting first nations, Métis and Inuit.</ParaText>
+              <ParaText id="7116971">
+                <I>Uqaqtittiji</I>, I would like to thank the <Affiliation DbId="278911" Type="4">Minister of Indigenous Services</Affiliation> for her important intervention, and thank her for confirming that she has read “Reclaiming Power and Place”. Many recommendations included in there are calls for sustainable funding in many different service areas impacting first nations, Métis and Inuit.</ParaText>
               <ParaText id="7116972">Would the member agree that not renewing funding in the 2022 budget is an indication by the Liberal government that it plans not to provide sustainable funding for this important issue? </ParaText>
             </Content>
           </Intervention>
@@ -5101,7 +5085,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <Affiliation DbId="278442" Type="2">Mr. Garnett Genuis (Sherwood Park—Fort Saskatchewan, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7117002">Madam Chair, I thank the member for her passion and thoughtful speech.</ParaText>
-              <ParaText id="7117003">I wonder if she would like to identify some specific policy changes that she would suggest that the government could consider in terms of addressing this problem, given the ongoing nature of the problem. Could she could propose any specific ideas that the government should be doing differently to respond to it?</ParaText>
+              <ParaText id="7117003">I wonder if she would like to identify some specific policy changes that she would suggest that the government could consider in terms of addressing this problem, given the ongoing nature of the problem. Could she propose any specific ideas that the government should be doing differently to respond to it?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11660080">
@@ -5117,8 +5101,8 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278710" Type="2">Ms. Jenny Kwan (Vancouver East, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7117006">Madam Chair, the member talked about how the government continues to support the missing and murdered indigenous women and girls calls for justice, but the reality is this. The Coalition on Missing and Murdered Indigenous Women and Girls in British Columbia was shut out of the process, and after the inquiry and after the final report was tabled, to this day it has not received recognition from the government to ensure it has a voice at the table to see its implementation. The coalition is made up of family members, women's organizations, indigenous people and indigenous women, who have done the hard work in our community calling for this national inquiry.</ParaText>
-              <ParaText id="7117007">Would the member call on the Liberal government to do the right thing and provide supports to organizations such as the coalition in British Columbia so they can have a seat at the table to ensure that real and meaningful action is taken on the path forward in implementing the calls for justice?</ParaText>
+              <ParaText id="7117006">Madam Chair, the member talked about how the government continues to support the missing and murdered indigenous women and girls calls for justice, but the reality is this. The Coalition on Missing and Murdered Indigenous Women and Girls in British Columbia was shut out of the process, and after the inquiry and after the final report was tabled, to this day it has not received recognition from the government to ensure it has a voice at the table to see its implementation. Who is in the coalition? It is made up of family members, women's organizations, indigenous people and indigenous women who have done the hard work in our community and are calling for this national inquiry.</ParaText>
+              <ParaText id="7117007">My question to the member is this: Will she call on the Liberal government to do the right thing and provide supports to organizations such as the coalition in British Columbia, so it can have a seat at the table to ensure that real and meaningful action is taken on the path forward in implementing the calls for justice?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11660084">
@@ -5279,7 +5263,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
             <PersonSpeaking>
               <Affiliation DbId="278252" Type="2">Mrs. Rechie Valdez (Mississauga—Streetsville, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7117056">Madam Chair, <I>kwe</I>, <I>unusakut</I>, <I>tansi</I>, hello and <I>bonjour</I>.</ParaText>
+              <ParaText id="7117056">Madam Chair, <I>kwe</I>, <I>unnusakkut</I>, <I>tansi</I>, hello and <I>bonjour</I>.</ParaText>
               <ParaText id="7117057">I will be sharing my time with the member for <Affiliation DbId="278152" Type="2">Sydney—Victoria</Affiliation>, whom I respect so much and who has taught me a lot about indigenous people and their culture.</ParaText>
               <ParaText id="7117058">I am here today speaking to members from the traditional, unceded territory of the Algonquin Anishinabe people.</ParaText>
               <ParaText id="7117059">Last week, I had the opportunity to rise in the House to speak to the impacts of gender-based violence within my riding of Mississauga—Streetsville. I also spoke in detail about the increase in targeted hate and violence in this country, and how budget 2022 was addressing these items. It is proven that violence and abuse can lead to poor physical and mental health, serious injuries and even homicide.</ParaText>
@@ -5288,9 +5272,9 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <ParaText id="7117062">To heal, indigenous peoples must be able to reclaim, preserve and practice their culture. They have the wisdom and resilience to do this. However, it is the responsibility of the federal government to support this work with steadfast listening and actions that match our words.</ParaText>
               <ParaText id="7117063">The Government of Canada is committed to a renewed nation-to-nation relationship with indigenous peoples based on the recognition of rights, respect, truth, co-operation and partnership. Historic investments have been made to support indigenous priorities and their path to self-determination, but there is so much work to be done, and our government will continue to be there to work alongside indigenous peoples to address historic injustices. </ParaText>
               <ParaText id="7117064">This evening, I would like to highlight some of the Canadian Heritage programming that responds to the calls for justice from the report of the National Inquiry into Missing and Murdered Indigenous Women and Girls addressing the violence against indigenous women, girls and two-spirit, LGBTQQIA+ people. </ParaText>
-              <ParaText id="7117065">As the lead for the culture thematic for the federal pathway component of the national action plan, Canadian Heritage has worked closely with colleagues at other department portfolio organizations and indigenous partners on advancing this work. The culture theme for the federal pathway outlines three ways for us to do that. One is supporting the retention, revitalization, maintenance and strengthening of indigenous languages, cultures and spaces. Two is strengthening opportunities for indigenous cultural expression, participation, promotion and representation in the arts, cultural industries and media. Three is addressing systemic anti-indigenous racism in the public and policy spheres to see lasting change. As we have talked about in this House this evening, we absolutely need lasting change.</ParaText>
+              <ParaText id="7117065">As the lead for the culture thematic for the federal pathway component of the national action plan, Canadian Heritage has worked closely with colleagues at other departments, portfolio organizations and indigenous partners on advancing this work. The culture theme for the federal pathway outlines three ways for us to do that. One is supporting the retention, revitalization, maintenance and strengthening of indigenous languages, cultures and spaces. Two is strengthening opportunities for indigenous cultural expression, participation, promotion and representation in the arts, cultural industries and media. Three is addressing systemic anti-indigenous racism in the public and policy spheres to see lasting change. As we have talked about in this House this evening, we absolutely need lasting change.</ParaText>
               <ParaText id="7117066">The government has shown its commitment and support for the culture thematic priorities through budget 2021 and budget 2022 investments. Budget 2021 provided $453.1 million over five years and $4.9 million per year ongoing for initiatives under the culture theme, and budget 2022 provided $25 million over three years. The funding has been used to support a number of activities. </ParaText>
-              <ParaText id="7117067">First, progress continues to be made on the implementation of the Indigenous Languages Act, which responds to a number of calls for justice. Canadian Heritage will administer $275 million for the implementation of the Indigenous Languages Act with $2 million in ongoing support. This funding supports the reclamation, revitalization and strengthening of indigenous languages as a foundation for culture, identity and belonging. This funding has been used to support various initiatives, including language and culture camps, mentor apprentice programs and the development of indigenous languages, resources and documentation ensuring indigenous women, girls, 2SLGBTQQIA+ people in Canada have meaningful access to their culture and languages, which is absolutely fundamental. </ParaText>
+              <ParaText id="7117067">First, progress continues to be made on the implementation of the Indigenous Languages Act, which responds to a number of calls for justice. Canadian Heritage will administer $275 million for the implementation of the Indigenous Languages Act with $2 million in ongoing support. This funding supports the reclamation, revitalization and strengthening of indigenous languages as a foundation for culture, identity and belonging. This funding has been used to support various initiatives, including language and culture camps, mentor apprentice programs and the development of indigenous languages, resources and documentation. Ensuring that indigenous women, girls, two-spirit and LGBTQQIA+ people in Canada have meaningful access to their culture and languages is absolutely fundamental. </ParaText>
               <Timestamp Hr="22" Mn="10">(2210)</Timestamp>
               <ParaText id="7117068">Second, Library and Archives Canada was provided $14.9 million for the preservation of indigenous heritage. To further this work, budget 2022 proposed $25 million to support the digitization of documents related to the federal Indian day school system—</ParaText>
             </Content>
@@ -5494,7 +5478,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <Timestamp Hr="22" Mn="30">(2230)</Timestamp>
               <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
               <ParaText id="7117120">I am humbled to rise in this place to participate in this take-note debate on murdered and missing indigenous women and girls and two-spirit people, especially given that tomorrow, May 5, is Red Dress Day. Red Dress Day is not only a day of honouring missing and murdered indigenous people, but a day that we stand, in the spirit of reconciliation, to raise awareness and educate about the tragic violence that indigenous women and girls have experienced, which amounts to genocide.</ParaText>
-              <ParaText id="7117121">As the member of Parliament fort Fort McMurray—Cold Lake, which is situated on the traditional lands of Treaty 6 and Treaty 8, the territory of the Cree and the Dene and the homelands of the Métis people, I acknowledge that the people of the territory have been deeply impacted by the issue of missing and murdered indigenous women and girls. I honour and acknowledge the mothers, daughters, sisters, grandmothers, aunties and friends who are no longer with us. My heart also goes out to the many family, friends and indigenous leaders who have come together to share their stories and demand action from our civil institutions.</ParaText>
+              <ParaText id="7117121">As the member of Parliament for Fort McMurray—Cold Lake, which is situated on the traditional lands of Treaty 6 and Treaty 8, the territory of the Cree and the Dene and the homelands of the Métis people, I acknowledge that the people of the territory have been deeply impacted by the issue of missing and murdered indigenous women and girls. I honour and acknowledge the mothers, daughters, sisters, grandmothers, aunties and friends who are no longer with us. My heart also goes out to the many family, friends and indigenous leaders who have come together to share their stories and demand action from our civil institutions.</ParaText>
               <ParaText id="7117122">What started as a grassroots movement of an art installation called “The REDress Project” has sparked an irrepressible movement to highlight this national tragedy and call for justice. It has been said that red is a sacred colour that transcends the physical realm and calls the spirit of the missing and murdered back to their loved ones. Each dress, pin or ribbon is a visual representation of the stolen sisters and has a deep spiritual meaning. </ParaText>
               <ParaText id="7117123">The release of the final report of the National Inquiry into Missing and Murdered Indigenous Women and Girls three years ago was a key step as Canada confronts the historical and ongoing victimization of indigenous women and girls and LGBTQ2S+ people. In the years that have followed, there has been a renewed interest by all levels of government to set forth concrete actions to reconcile relationships with indigenous peoples and address systemic, cultural and institutional challenges that have maintained the status quo of violence, marginalization and intergenerational trauma. </ParaText>
               <ParaText id="7117124">To that end, I was proud beyond measure to have played a small part in the Alberta Joint Working Group on Missing and Murdered Indigenous Women and Girls, along with one of my former colleagues, the MLA for West Yellowhead, Martin Long, and Minister Whitney Issik. It was an honour to be a part of this group for a short period of time.</ParaText>
@@ -5815,7 +5799,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <ParaText id="7117231"> When asked at a press conference about the federal government's progress on the plan it presented last summer, two years late, regarding the National Inquiry into Missing and Murdered Indigenous Women and Girls, the <Affiliation DbId="245291" Type="4">Minister of Justice</Affiliation> admitted that the government had fallen behind because of the federal election in September 2021 and because of the war in Ukraine, which started on February 24. The government is finding excuses to explain its inaction. Why is the government not stepping up? </ParaText>
               <ParaText id="7117232">The federal government must take its share of the responsibility, but it is not doing so, especially with respect to the report of the National Inquiry into Missing and Murdered Indigenous Women and Girls, on which the federal government has done little to follow up.</ParaText>
               <ParaText id="7117233">The figures are staggering. Between 2004 and 2014, while the homicide rate across Canada was declining, the number of indigenous women and girls who were murdered was six times higher than the rate among non-indigenous women. According to the 2018 figures for Canada, 25.1% of non-indigenous women report having experiencing physical and sexual abuse by an intimate partner, but that figure rises to 43.7% among indigenous women. In addition, 38.2% of non-indigenous women report having experienced physical and sexual violence committed by someone other than an intimate partner, compared to 54.9% among indigenous women. The situation did not improve during the pandemic.</ParaText>
-              <ParaText id="7117234">Obviously, these are the official figures, and in cases where women were willing to come forward, of course it is not easy to admit it and speak out against it. It it hard to get out of a cycle of violence. The National Inquiry into Missing and Murdered Indigenous Women and Girls stated that ending it “requires a new relationship and an equal partnership between all Canadians and Indigenous Peoples”. </ParaText>
+              <ParaText id="7117234">Obviously, these are the official figures, and in cases where women were willing to come forward, of course it is not easy to admit it and speak out against it. It is hard to get out of a cycle of violence. The National Inquiry into Missing and Murdered Indigenous Women and Girls stated that ending it “requires a new relationship and an equal partnership between all Canadians and Indigenous Peoples”. </ParaText>
               <ParaText id="7117235">The calls for justice from the National Inquiry into Missing and Murdered Indigenous Women and Girls, presented as legal imperatives rather than voluntary recommendations, set out transformative measures in a number of areas including health, safety, justice, culture and ordinarily the following:</ParaText>
               <ParaText id="7117236"> We need to establish the position of a national indigenous and human rights ombudsperson and establish a national indigenous and human rights tribunal. The report also talks about developing and implementing a national action plan to ensure equitable access to employment, housing, education, safety and health care.</ParaText>
               <ParaText id="7117237"> The government must provide long-term funding for educational programs and awareness campaigns related to violence prevention and combatting lateral violence. Furthermore, the government must prohibit the apprehension of children on the basis of poverty and cultural bias. This is all great on paper, but the government must now stop shelving report after report and start responding to the calls to action.</ParaText>
@@ -5884,7 +5868,7 @@ The House resumed from May 3, 2022, consideration of the motion that Bill <Docum
               <Affiliation DbId="278351" Type="2">Ms. Sylvie Bérubé (Abitibi—Baie-James—Nunavik—Eeyou, BQ)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7117266">Madam Chair, I thank my colleague for her speech.</ParaText>
-              <ParaText id="7117267">During tonight's take-note debate, we spoke about the violence perpetrated against women and murdered women. This kind of violence happens all the time.</ParaText>
+              <ParaText id="7117267">During tonight's take-note debate, we spoke about the violence perpetrated against girls, and about murdered women. This kind of violence happens all the time.</ParaText>
               <ParaText id="7117268">I would like my colleague to tell us about recognizing and understanding the root causes of this violence in order to support indigenous people in their recovery.</ParaText>
             </Content>
           </Intervention>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="12541479">
-  <StartPageNumber>20409</StartPageNumber>
+  <StartPageNumber>20399</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -247,14 +247,6 @@
               <ParaText id="8169936">Canadians will have a very simple choice in the next election. On the one hand they will have the costly coalition of the New Democrats and Liberals, who will take their money, tax their food, punish their work, double their housing costs and unleash crime and chaos in their community, or they can have the common-sense Conservatives who would axe the tax, build the homes, fix the budget and stop the crime. That is the choice.</ParaText>
             </Content>
           </Intervention>
-          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="12541571">
-            <PersonSpeaking>
-              <Affiliation DbId="300999" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="8169937">I would just ask members please to try to keep their conversations a little quieter so the Speaker can hear the hon. members make their declarations.</ParaText>
-              <ParaText id="8169938">The hon. member for Nickel Belt.</ParaText>
-            </Content>
-          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12541572">
@@ -411,7 +403,7 @@
               <Affiliation DbId="291215" Type="9">Hon. Pierre Poilievre (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8169969">Mr. Speaker, our priorities are clear. We are going to axe the tax, build the homes, fix the budget, stop the crime and stop the auto theft that has run rampant under the Prime Minister. He is now throwing a cape over his back and claiming that he is the hero on auto theft, but it has actually tripled in Toronto, and it is up by 100% in Montreal after he brought in capture and release and house arrest for car thieves, and after his incompetence allowed our ports to spin out of control and our cars to be exported to overseas crime and terror networks.</ParaText>
-              <ParaText id="8169970">Why does he not reverse his policies instead of have another meeting?</ParaText>
+              <ParaText id="8169970">Why does he not reverse his policies instead of having another meeting?</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Answer" ToC="Yes" ToCText="Mr. Trudeau" id="12541617">
@@ -828,6 +820,8 @@
               <ParaText id="8170060">Mr. Speaker, the member for Etobicoke Centre is right. Before the holidays, Canadians all witnessed the <Affiliation DbId="291215" Type="9">Leader of the Opposition</Affiliation> forcing his caucus members to turn their backs on Ukraine. They turned their backs on fundamental Canadian principles and bowed down to the pro-Russian narrative.</ParaText>
               <ParaText id="8170061">I know the <Affiliation DbId="291215" Type="9">leader</Affiliation> will not change his mind, but Ukrainian-Canadians across the Prairies are hoping that at least some brave Conservative MPs will do the right thing and vote with their conscience and their principles.</ParaText>
               <ParaText id="8170062">Let everyone in this House who stands with Ukraine stand up and be counted.</ParaText>
+              <ParaText id="8803535">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="12541735">
@@ -1234,7 +1228,7 @@
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Agriculture and Agri-Food</SubjectOfBusinessQualifier>
-        <ProceduralText TocType="TPC" id="1">Motion</ProceduralText>
+        <ProceduralText TocType="TPC" id="1">Motion for concurrence</ProceduralText>
         <SubjectOfBusinessContent>
           <ParaText id="8170156">The House resumed from December 14 consideration of the motion, and of the amendment.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="12541942">
@@ -3876,6 +3870,7 @@ The House resumed from December 13 consideration of the motion that Bill <Docume
             <Content>
               <ProceduralText TocType="TPC" id="11">Motion agreed to</ProceduralText>
               <ParaText id="8170193">I declare the motion carried.</ParaText>
+              <ProceduralText TocType="TCC" id="12">(Bill read the third time and passed)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="12542200">
@@ -3887,16 +3882,11 @@ The House resumed from December 13 consideration of the motion that Bill <Docume
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="12542316" Rubric="Divisions">
-      <OrderOfBusinessTitle>Private Members' Business</OrderOfBusinessTitle>
-      <CatchLine>Private Members' Business</CatchLine>
       <SubjectOfBusiness id="12542314">
-        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Prohibition of the Export of Horses by Air for Slaughter Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="8170195">The House resumed from December 14, 2023, consideration of the motion that Bill <Document DbId="12566934" Type="4">C-355, An Act to prohibit the export by air of horses for slaughter and to make related amendments to certain Acts</Document>, be read the second time and referred to a committee.</ParaText>
-          <ProceduralText TocType="TPC" id="12">Bill C-355. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="13">Bill C-355. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="12542202">
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
@@ -4252,9 +4242,9 @@ The House resumed from December 13 consideration of the motion that Bill <Docume
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="13">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="14">Motion agreed to</ProceduralText>
               <ParaText id="8170198">I declare the motion carried. Accordingly, the bill stands referred to the Standing Committee on Agriculture and Agri-Food.</ParaText>
-              <ProceduralText TocType="TCC" id="14">(Bill read the second time and referred to a committee)</ProceduralText>
+              <ProceduralText TocType="TCC" id="15">(Bill read the second time and referred to a committee)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="12542287">
@@ -4285,7 +4275,7 @@ The House resumed from December 13 consideration of the motion that Bill <Docume
       <SubjectOfBusiness id="12542408">
         <SubjectOfBusinessTitle>Criminal Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="15">Bill C-321. Motion for concurrence</ProceduralText>
+          <ProceduralText TocType="TPC" id="16">Bill C-321. Motion for concurrence</ProceduralText>
           <ParaText id="8170203">
 The House resumed from December 15, 2023, consideration of the motion that Bill <Document DbId="12177676" Type="4">C-321, An Act to amend the Criminal Code (assaults against persons who provide health services and first responders)</Document>, as reported (with amendments) from the committee,  be concurred in.</ParaText>
           <Intervention Type="Interjection" ToC="No" id="12542387">
@@ -4647,7 +4637,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="16">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="17">Motion agreed to</ProceduralText>
               <ParaText id="8170206">I declare the motion carried.</ParaText>
             </Content>
           </Intervention>
@@ -4655,9 +4645,9 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
       </SubjectOfBusiness>
       <SubjectOfBusiness id="12542399">
         <SubjectOfBusinessTitle>Parliament of Canada Act</SubjectOfBusinessTitle>
-        <ProceduralText TocType="TPC" id="17">Motion for concurrence</ProceduralText>
+        <ProceduralText TocType="TPC" id="18">Bill S-202. Motion for concurrence</ProceduralText>
         <SubjectOfBusinessContent>
-          <ParaText id="8170207">The House resumed from January 30 consideration of the motion.</ParaText>
+          <ParaText id="8170207">The House resumed from January 30 consideration of the motion that Bill <Document DbId="11474321" Type="4">S-202, An Act to amend the Parliament of Canada Act (Parliamentary Visual Artist Laureate)</Document>, as reported (with amendments) from the committee, be concurred in.</ParaText>
           <Intervention Type="Interjection" ToC="No" id="12542394">
             <PersonSpeaking>
               <Affiliation DbId="279182" Type="96">The Deputy Speaker</Affiliation>: </PersonSpeaking>
@@ -5018,7 +5008,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
             <PersonSpeaking>
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="18">Motion agreed to</ProceduralText>
+              <ProceduralText TocType="TPC" id="19">Motion agreed to</ProceduralText>
               <ParaText id="8170210">I declare the motion carried.</ParaText>
               <ParaText id="8170211">I wish to inform the House that, because of the deferred recorded divisions, Government Orders will be extended by 90 minutes.</ParaText>
             </Content>
@@ -5061,7 +5051,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
               <Affiliation DbId="300691" Type="18">Mr. Kevin Lamoureux (Parliamentary Secretary to the Leader of the Government in the House of Commons, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8170215">Mr. Speaker, if you seek it at this time, I think you will find unanimous consent for the following motion. I move:</ParaText>
-              <ProceduralText TocType="TPC" id="19">Motion</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Motion</ProceduralText>
               <ParaText id="8170216">
                 <Quote>
                   <QuotePara Align="Left" IndentFirst="2" IndentRest="1">That the membership of the Standing Committee on Procedure and House Affairs be amended as follows: Ms. Fortier (Ottawa—Vanier) for Ms. Sahota (Brampton North).</QuotePara>
@@ -5077,14 +5067,14 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
               <ParaText id="8170217">All those opposed to the hon. member's moving the motion will please say nay.</ParaText>
               <ParaText id="8170218">It is agreed.</ParaText>
               <ParaText id="8170219">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="20">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="21">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Chagger" id="12542385">
             <PersonSpeaking>
               <Affiliation DbId="278307" Type="2">Hon. Bardish Chagger (Waterloo, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="21">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Motion for concurrence</ProceduralText>
               <ParaText id="8170220"> Mr. Speaker, if the House gives its consent, I move that the 57th report of the Standing Committee on Procedure and House Affairs, presented to the House earlier today, be concurred in.</ParaText>
             </Content>
           </Intervention>
@@ -5096,7 +5086,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
               <ParaText id="8170221"> All those opposed to the hon. member's moving the motion will please say nay.</ParaText>
               <ParaText id="8170222">It is agreed.</ParaText>
               <ParaText id="8170223">The House has heard the terms of the motion. All those opposed to the motion will please say nay.</ParaText>
-              <ProceduralText TocType="TCC" id="22">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="23">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
@@ -5312,7 +5302,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
         <SubjectOfBusinessTitle>Fall Economic Statement Implementation Act, 2023</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <ParaText id="8170263">The House resumed from January 30 consideration of the motion that Bill <Document DbId="12739107" Type="3">C-59, An Act to implement certain provisions of the fall economic statement tabled in Parliament on November 21, 2023 and certain provisions of the budget tabled in Parliament on March 28, 2023</Document>, be read the second time and referred to a committee, and of the amendment.</ParaText>
-          <ProceduralText TocType="TPC" id="23">Bill C-59. Second reading</ProceduralText>
+          <ProceduralText TocType="TPC" id="24">Bill C-59. Second reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Arya" id="12542454">
             <PersonSpeaking>
               <Affiliation DbId="278409" Type="2">Mr. Chandra Arya (Nepean, Lib.)</Affiliation>: </PersonSpeaking>
@@ -5631,7 +5621,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
             <PersonSpeaking>
               <Affiliation DbId="278707" Type="2">Mr. Marc Dalton (Pitt Meadows—Maple Ridge, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8170382">Madam Speaker, the Liberals like to blow the horn about their announcements regarding housing. However, the fact is that we have the lowest number of housing starts since the 1970s. People are struggling. I live in the Vancouver area, and inaffordability is just skyrocketing with respect to being able to get a home or rent a place. I wonder if the member would just agree with Conservatives that the Liberals' policy and what they are accomplishing is an unmitigated disaster.</ParaText>
+              <ParaText id="8170382">Madam Speaker, the Liberals like to blow the horn about their announcements regarding housing. However, the fact is that we have the lowest number of housing starts since the 1970s. People are struggling. I live in the Vancouver area, and unaffordability is just skyrocketing with respect to being able to get a home or rent a place. I wonder if the member would just agree with Conservatives that the Liberals' policy and what they are accomplishing is an unmitigated disaster.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12543102">
@@ -5729,7 +5719,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
             <PersonSpeaking>
               <Affiliation DbId="278515" Type="2">Mr. Greg McLean</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="8170421">Madam Speaker, it is interesting because the oil industry gets next to nothing in subsidies. There are many other Canadian industries that receive far more in subsidies. The electrical industry gets $135 billion.</ParaText>
+              <ParaText id="8170421">Madam Speaker, it is interesting because the oil industry gets next to nothing in subsidies. There are many other Canadian industries that receive far more in subsidies. The electric car industry gets $135 billion.</ParaText>
               <ParaText id="8170422">Who is going to pay for this? The natural resources industry is paying for it for now. It is primarily the oil industry that is paying a lot in taxes and a lot in royalties to the government. The natural resources industry is paying for the government's targets in other sectors.</ParaText>
               <ParaText id="8170423">We are going to be paying for this for many years, but I am not sure how much. The government is now giving $4 million per worker to the electric vehicle industry. It is too much. We need to stop this from happening. </ParaText>
             </Content>
@@ -5786,7 +5776,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
               <Affiliation DbId="278385" Type="2">Mr. René Arseneault (Madawaska—Restigouche, Lib.) </Affiliation>
             </PersonSpeaking>
             <Content>
-              <ProceduralText TocType="TPC" id="24">Bill C-347. Second reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="25">Bill C-347. Second reading</ProceduralText>
               <ParaText id="8170440">moved that Bill <Document DbId="12545862" Type="4">C-347, An Act to amend the Constitution Act, 1867 (oath of office)</Document>, be now read a second time and referred to a committee.</ParaText>
               <ParaText id="8170441">He said: Madam Speaker, I am pleased to rise in the House today to introduce my bill, Bill <Document DbId="12545862" Type="4">C-347</Document>. This bill proposes to amend the Constitution Act, 1867 regarding the oath to the monarch.</ParaText>
               <ParaText id="8170442">For Canadians who are listening, this bill is simply and more specifically intended to add an option for members elected to the House of Commons and all senators appointed to the Senate when they take their oath.</ParaText>
@@ -5896,7 +5886,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
               <Affiliation DbId="278623" Type="2">Mr. Don Davies (Vancouver Kingsway, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8170492">Madam Speaker, I would like to congratulate my hon. colleague on the excellent idea to provide parliamentarians the option of swearing allegiance to the monarch of a different country, which I think it should be said, or swearing to uphold the Constitution. I think it is responsive to the realities of today.</ParaText>
-              <ParaText id="8170493">My question to the member is with respect to indigenous people. Indigenous people have, of course, a nation-to-nation relationship with the Crown. I wonder if the member could explain how he believes the bill would further respect for indigenous nations when indigenous people elected to the House of Commons, and we have several in the House, have to swear allegiance to a monarch, which indicates a subservience as opposed to a true nation-to-nation.</ParaText>
+              <ParaText id="8170493">My question to the member is with respect to indigenous people. Indigenous people have, of course, a nation-to-nation relationship with the Crown. I wonder if the member could explain how he believes the bill would further respect for indigenous nations when indigenous people elected to the House of Commons, and we have several in the House, have to swear allegiance to a monarch, which indicates a subservience as opposed to a true nation-to-nation relationship.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="19" Mn="20">(1920)</Timestamp>
@@ -6083,7 +6073,7 @@ The House resumed from December 15, 2023, consideration of the motion that Bill 
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Pandemic Day Act</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="25">Bill S-209. Report stage</ProceduralText>
+          <ProceduralText TocType="TPC" id="26">Bill S-209. Report stage</ProceduralText>
           <ParaText id="8170578">
 The House resumed from March 22, 2023, consideration of Bill <Document DbId="11474410" Type="4">S-209, An Act respecting Pandemic Observance Day</Document>, as reported (without amendment) from the committee.
 </ParaText>
@@ -6100,7 +6090,7 @@ The House resumed from March 22, 2023, consideration of Bill <Document DbId="114
             </PersonSpeaking>
             <Content>
               <ParaText id="8170580"> moved that the bill be concurred in.</ParaText>
-              <ProceduralText TocType="TPC" id="26">Motion for concurrence</ProceduralText>
+              <ProceduralText TocType="TPC" id="27">Motion for concurrence</ProceduralText>
             </Content>
           </Intervention>
           <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
@@ -6125,7 +6115,7 @@ The House resumed from March 22, 2023, consideration of Bill <Document DbId="114
               <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="8170584">I declare the motion carried on division.</ParaText>
-              <ProceduralText TocType="TCC" id="27">(Motion agreed to)</ProceduralText>
+              <ProceduralText TocType="TCC" id="28">(Motion agreed to)</ProceduralText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="12543692">
@@ -6134,7 +6124,7 @@ The House resumed from March 22, 2023, consideration of Bill <Document DbId="114
             </PersonSpeaking>
             <Content>
               <ParaText id="8170585"> moved that the bill be read the third time and passed.</ParaText>
-              <ProceduralText TocType="TPC" id="28">Third reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="29">Third reading</ProceduralText>
               <ParaText id="8170586">She said: Madam Speaker, this is a simple bill. Everyone has heard about it. In simple language, the bill states that throughout Canada, each and every year, March 11 would be known as “pandemic observance day”.</ParaText>
               <ParaText id="8170587">There are about three reasons to do this. The first is to remember that, to date, 57,000 people in Canada have actually died from COVID-19, to remember and honour those people, and to also remember that 57,000 is more than all the Canadians who died in the Second World War. This is a huge number of people who died from a pandemic. We also need to remember their suffering and try to find how we can support all the people who are the family members and other bereaved people from throughout this crisis.</ParaText>
               <ParaText id="8170588">The second part of what we need to do is continue recovering from COVID-19. I use the word “continue” because since the so-called pandemic was lifted, 7,000 more Canadians have died. Up to today, that is the number. Therefore, we know that COVID has not disappeared; COVID actually continues to be a variant. It continues to adapt and change, as we know all viruses have a tendency to do. Each time, we do not know what the variant will be.</ParaText>
@@ -6146,7 +6136,7 @@ The House resumed from March 22, 2023, consideration of Bill <Document DbId="114
               <ParaText id="8170594"> We remember the people who lived in homes and institutions, the elderly people who died who did not have to and who died alone because they did not have family with them to look after them because of the isolation that was needed.</ParaText>
               <Timestamp Hr="20" Mn="05">(2005)</Timestamp>
               <ParaText id="8170595">I am asking members to remember, for those reasons; to learn our lessons; to look at how we apply those lessons to preventing future pandemics; and to make sure we always mark this day.</ParaText>
-              <ParaText id="8170596">This is a Senate bill. It was brought in by a senator who was previously a family physician, Dr. Mégie. As a physician, like I am, she understood the need to apply science to things like pandemics. Science is clear and evidence-based. Science will learn from the things we made mistakes on and from the things we learned how to do to deal with future occurrences. Let us be mindful of science. Let us not apply ideology to pandemics. Viruses do not particularly care whether one lives in Ontario or in Newfoundland. COVID-19 did not did not care; it did not understand or respect provincial boundaries. Let us remember that when we talk about how we deal with scientific evidence in order to protect ourselves and others.</ParaText>
+              <ParaText id="8170596">This is a Senate bill. It was brought in by a senator who was previously a family physician, Dr. Mégie. As a physician, like I am, she understood the need to apply science to things like pandemics. Science is clear and evidence-based. Science will learn from the things we made mistakes on and from the things we learned how to do to deal with future occurrences. Let us be mindful of science. Let us not apply ideology to pandemics. Viruses do not particularly care whether one lives in Ontario or in Newfoundland. COVID-19 did not care; it did not understand or respect provincial boundaries. Let us remember that when we talk about how we deal with scientific evidence in order to protect ourselves and others.</ParaText>
               <ParaText id="8170597">Again, as parliamentarians, our own duty is to remember to be aware of science and our duty of care to all the people we represent in the House, all of Canada. We have a duty to care for them in the same way we care for them when they do not have good drinking water or when they are suffering from poverty and say that food prices are too high. Those are the ways we care. Let us continue to care.</ParaText>
               <ParaText id="8170598">When I hear of people who continue to debunk science and say that it is nonsense and that politicians make decisions, I say that politicians should make informed decisions based on good knowledge and good information. Therefore, they need to look at that information and what it tells them they should do, and look at whether they may get results from what they are doing because they are following good, evidence-based decision-making.</ParaText>
               <ParaText id="8170599">There is not too much else I can say about the bill, but I would ask members this: Why do we have Remembrance Day on November 11 every year? It is because we want to remember the wars. We want to remember the number of people who died. We want to remember the damage. We want to make sure it does not happen again. We want to commit ourselves to peace. We want to commit ourselves to preventing war.</ParaText>
@@ -6252,7 +6242,7 @@ The House resumed from March 22, 2023, consideration of Bill <Document DbId="114
               <ParaText id="8170635">It went well beyond those who just had COVID-19. The senator, in proposing this day of remembrance, has indicated that this would be honouring our health care workers and our essential workers. I may agree with the sentiment that, through the difficulties and challenges of the pandemic, arose countless examples of goodness and selflessness. There were individuals who went above and beyond to support their communities, individuals who, despite the risk to themselves, showed up to work every single day.</ParaText>
               <ParaText id="8170636">These Canadians are admirable, and they certainly deserve to know that they are appreciated. I believe the practice of honouring others is very important. It is my strong belief that a culture of honour promotes respect and unity. Honour encourages and uplifts. It is why there are already designations such as National Nursing Week and National Physicians’ Day. </ParaText>
               <Timestamp Hr="20" Mn="20">(2020)</Timestamp>
-              <ParaText id="8170637">If we truly want to honour the sacrifices and work our health care workers and essential workers did during the pandemic, we would not respond with a national day of observance. We would respond by addressing the cracks and shortfalls that were exposed during the pandemic. We would work with different levels of government to ensure that they have the supports they need. We would not thank them for taking risks, then turn around and expect them to continue to take those same risks day in and day out. That is dishonouring.</ParaText>
+              <ParaText id="8170637">If we truly wanted to honour the sacrifices and work our health care workers and essential workers did during the pandemic, we would not respond with a national day of observance. We would respond by addressing the cracks and shortfalls that were exposed during the pandemic. We would work with different levels of government to ensure that they have the supports they need. We would not thank them for taking risks, then turn around and expect them to continue to take those same risks day in and day out. That is dishonouring.</ParaText>
               <ParaText id="8170638">In the same vein, the senator's intent to recover and prepare is not accomplished through a day of observance. As a society, we can only recover from the pandemic and prepare for any future health crisis by taking meaningful action. We need not simply put a bow on the pandemic and sweep the lessons to be learned under the rug. To recover and prepare we must do the hard work of learning lessons and then taking action. It is in that way that we will better honour those who were lost in the pandemic, those who experienced loss and every single Canadian who made countless sacrifices.</ParaText>
               <ParaText id="8170639">The pandemic fallout showed us that we lack manufacturing capabilities, as well as the devastating impacts of reliance and dependency on global supply chains. It highlighted a strain that exists in our health care sector and underscored massive labour shortages in health care. In fact, we are now seeing labour shortages in every sector across the country. It revealed the outdated infrastructure in our long-term care homes. It took a massive toll on the mental health and well-being of all Canadians. It forced so many small businesses to close their doors permanently. It also left countless others in a difficult state that will not be recovered overnight. It revealed the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s willingness to divide Canadians and trample charter rights just to cling to power.</ParaText>
               <ParaText id="8170640">The pandemic exposed a lot of distrust in our institutions and a lot of the Liberal government's mismanagement. These are just some of the issues that arose out of the pandemic. </ParaText>

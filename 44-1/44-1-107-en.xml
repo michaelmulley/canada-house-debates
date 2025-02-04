@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hansard xml:lang="EN" id="11833701">
-  <StartPageNumber>8049</StartPageNumber>
+  <StartPageNumber>8047</StartPageNumber>
   <DocumentTitle>
     <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
   </DocumentTitle>
@@ -121,19 +121,10 @@
               <ProceduralText TocType="TCC" id="1">(Bill C‑30 concurred in at report stage)</ProceduralText>
             </Content>
           </Intervention>
-          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-          <Intervention Type="Debate" ToC="No" ToCText="Mrs. Mendès" id="11833717">
-            <PersonSpeaking>
-              <Affiliation DbId="279225" Type="93">The Assistant Deputy Speaker (Mrs. Alexandra Mendès)</Affiliation>: </PersonSpeaking>
-            <Content>
-              <ParaText id="7314238">When shall the bill be read a third time? Later today?</ParaText>
-              <ParaText id="7314239">
-                <B>Some hon. members:</B> Agreed.</ParaText>
-            </Content>
-          </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11833926">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Criminal Code</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Caputo" id="11833715">
@@ -379,7 +370,7 @@
       <CatchLine>Government Orders</CatchLine>
       <SubjectOfBusiness id="11833795">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Cost of Living Relief Act, No. 1 (Targeted Tax Relief)</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Cost of Living Relief Act, No. 1</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Fortier (for the Minister of Finance)" id="11833803">
             <PersonSpeaking>
@@ -898,10 +889,6 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11835983" Rubric="Other">
-      <OrderOfBusinessTitle>Routine Proceedings</OrderOfBusinessTitle>
-      <CatchLine>Routine Proceedings</CatchLine>
       <SubjectOfBusiness id="11834775">
         <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
@@ -948,16 +935,11 @@
           </Intervention>
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
-    </OrderOfBusiness>
-    <OrderOfBusiness id="11836059" Rubric="Other">
-      <OrderOfBusinessTitle>Government Orders</OrderOfBusinessTitle>
-      <CatchLine>Government Orders</CatchLine>
       <SubjectOfBusiness id="11835063">
-        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
         <SubjectOfBusinessTitle>Cost of Living Relief Act, No. 1</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
-          <ParaText id="7314465">The House resumed consideration of the motion that Bill <Document DbId="11924004" Type="3">C‑30, An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)</Document>, be read the third time and passed.</ParaText>
-          <ProceduralText TocType="TPC" id="11">Bill C‑30. Third reading</ProceduralText>
+          <ParaText id="7314465">The House resumed consideration of the motion that Bill <Document DbId="11924004" Type="3">C-30, An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)</Document>, be read the third time and passed.</ParaText>
+          <ProceduralText TocType="TPC" id="11">Bill C-30. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Blanchette-Joncas" id="11834493">
             <PersonSpeaking>
               <Affiliation DbId="278273" Type="2">Mr. Maxime Blanchette-Joncas (Rimouski-Neigette—Témiscouata—Les Basques, BQ)</Affiliation>: </PersonSpeaking>
@@ -1892,7 +1874,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278762" Type="2">Ms. Julie Dzerowicz (Davenport, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7314824">Mr. Speaker, cha-cha-cha,<I>olé, olé, olé</I>.</ParaText>
+              <ParaText id="7314824">Mr. Speaker, cha-cha-cha,<I> olé, olé, olé</I>.</ParaText>
               <ParaText id="7314825"> October is Latin American Heritage Month, and it is so exciting to know that we have a whole month to celebrate the unbelievable music, literature, food, language and culture of over 20 diverse and beautiful Latin American cultures in Canada.</ParaText>
               <ParaText id="7314826">It is also a month to acknowledge the many contributions of Latin Americans to our country. This large and growing community enriches our national fabric with its contributions and it plays an important role in Canada's growth and prosperity.</ParaText>
               <ParaText id="7314827">This evening, I am inviting everyone to join the Hispanic and Latin American community to celebrate an amazing month, at Sir John A. Macdonald building, from 6 p.m. to 8 p.m. Come out for empanadas, pastelitos de carne, vino, mojitos, musica allegra and so much fun.</ParaText>
@@ -1920,7 +1902,7 @@
         </SubjectOfBusinessContent>
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11836160">
-        <SubjectOfBusinessTitle>Moderna Vaccine Manufacturing Plant</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Vaccine Manufacturing Plant</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Koutrakis" id="11836161">
             <PersonSpeaking>
@@ -2468,7 +2450,7 @@
       </SubjectOfBusiness>
       <SubjectOfBusiness id="11837561">
         <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-        <SubjectOfBusinessTitle>Canada-U.S. Relations</SubjectOfBusinessTitle>
+        <SubjectOfBusinessTitle>Immigration, Refugees and Citizenship</SubjectOfBusinessTitle>
         <SubjectOfBusinessContent>
           <Intervention Type="Question" ToC="Yes" ToCText="Mr. Brunelle-Duceppe" id="11836325">
             <PersonSpeaking>
@@ -3141,7 +3123,7 @@
               </ParaText>
               <ParaText id="7315104">
                 <Quote>
-                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> (a) the debate pursuant to Standing Order 66 on Motion No. 8 to concur in the third report of the Standing Committee on Health be resumed today at the ordinary hour of daily adjournment, and at the the conclusion of the time provided for the debate or when no member rises to speak, whichever is earlier, all questions necessary to dispose of the motion be deemed put and a recorded division be deemed requested and deferred until Wednesday, October 5, 2022, at the expiry of the time provided for Oral Questions; and </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> (a) the debate pursuant to Standing Order 66 on Motion No. 8 to concur in the third report of the Standing Committee on Health be resumed today at the ordinary hour of daily adjournment, and at the conclusion of the time provided for the debate or when no member rises to speak, whichever is earlier, all questions necessary to dispose of the motion be deemed put and a recorded division be deemed requested and deferred until Wednesday, October 5, 2022, at the expiry of the time provided for Oral Questions; and </QuotePara>
                 </Quote>
               </ParaText>
               <ParaText id="7315105">
@@ -3726,15 +3708,15 @@
             <PersonSpeaking>
               <Affiliation DbId="278363" Type="2">Mr. Robert Kitchen (Souris—Moose Mountain, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7315187">Madam Speaker, I hear that from the Liberals all the time. They like to put out all sorts of numbers, and they put them out so much that people who are watching can hear all these big numbers, like the $1,000 they are going to get back, when in reality it is a much smaller number. They inflate that number, just like they inflate inflation and just like they inflate the taxes that are on these people. Unfortunately, taxes are going up and prices are going up. Seniors, I suspect, in the member's riding, after taking retirement, are going to turn around and now say, especially those in my riding, that they are going to have to go back to work because they cannot afford the cost of living anymore because of increased costs.</ParaText>
-              <ParaText id="7315188">It is one thing to help out, and it is nice to see that, but the bottom line is that ending the taxes will help these people much faster.</ParaText>
+              <ParaText id="7485116">Madam Speaker, I hear that from the Liberals all the time. They like to put out all sorts of numbers, and they put them out so much that people who are watching can hear all these big numbers, like the $1,000 they are going to get back, when in reality it is a much smaller number. They inflate that number, just like they inflate inflation and just like they inflate the taxes that are on these people. Unfortunately, taxes are going up and prices are going up. Seniors, I suspect, in the member's riding, after taking retirement, are going to turn around and now say, especially those in my riding, that they are going to have to go back to work because they cannot afford the cost of living anymore because of increased costs.</ParaText>
+              <ParaText id="7485117">It is one thing to help out, and it is nice to see that, but the bottom line is that ending the taxes will help these people much faster.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Interjection" ToC="No" id="11837156">
             <PersonSpeaking>
               <Affiliation DbId="278697" Type="2">Mr. Ryan Turnbull</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7315189">Madam Speaker, my apologies to the member opposite if he does not like the numbers the Liberal Party puts out, but they are factual and based in reality. Based on the many measures we have put out there, Canadian families are getting a whole package of supports in their time of need, everything from the Canada child benefit and a reduction in child care fees to direct quarterly payments for the price on pollution and the GST tax credit. When we put all those together, there are hundreds and even thousands of dollars that Canadian families are getting benefit from.</ParaText>
+              <ParaText id="7485118">Madam Speaker, my apologies to the member opposite if he does not like the numbers the Liberal Party puts out, but they are factual and based in reality. Based on the many measures we have put out there, Canadian families are getting a whole package of supports in their time of need, everything from the Canada child benefit and a reduction in child care fees to direct quarterly payments for the price on pollution and the GST tax credit. When we put all those together, there are hundreds and even thousands of dollars that Canadian families are getting benefit from.</ParaText>
             </Content>
           </Intervention>
           <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
@@ -3759,7 +3741,7 @@
               <ParaText id="7315201">The simplification on the Liberal side is to ask us to compare Canada to other countries, as we are doing so much better than them. By the way, we have talked about our debt-to-GDP ratio, but just look at the U.S. debt-to-GDP ratio. It is over 100%, so we are doing better than the United States by quite a lot. However, a single mother who is trying to buy groceries does not really care that overall Canada is doing better on our debt-to-GDP ratio. That is not top of mind. She really wants to know that somebody has her back, as the Liberals like to claim they do.</ParaText>
               <ParaText id="7315202">Both camps, to varying degrees, have oversimplified the problems we are facing. In doing so, I do not think we adequately respect the intelligence of thoughtful Canadians, who are more than prepared to understand that this is a global problem and that we are not the only country experiencing inflation. In fact, some of the countries that are experiencing inflation that is much worse than ours have no carbon price and have not gone through the same policy instruments. This is not a specific problem for which we can blame the Liberals. I will blame the Liberals for many things, but I cannot blame them for this inflation.</ParaText>
               <ParaText id="7315203">When we look at what this is about, I want to refer my colleagues to a book that I think is prescient and worth looking at. It came out in 2005. It is by James Howard Kunstler, who is a best-selling author. The book is called <I>The Long Emergency: Surviving the Converging Catastrophes of the Twenty-First Century</I>. In it, he pointed out that when the price of gas and oil becomes constrained by real events, we have a real challenge to what we presume to be our right to a certain standard of living, to a certain lifestyle, for lack of a better word.</ParaText>
-              <ParaText id="7315204">We can look at the real costs of everything. I am going to quote Andrew Nikiforuk, writing in The Tyee and referring to the <I>The Long Emergency</I>: “Since April 2020 the cost of oil has climbed five-fold. The price of coal, the cheapest of fossil fuels, has hit new highs by nearly 150 per cent.” These are real costs that really affect prices.</ParaText>
+              <ParaText id="7315204">We can look at the real costs of everything. I am going to quote Andrew Nikiforuk, writing in The Tyee and referring to <I>The Long Emergency</I>: “Since April 2020 the cost of oil has climbed five-fold. The price of coal, the cheapest of fossil fuels, has hit new highs by nearly 150 per cent.” These are real costs that really affect prices.</ParaText>
               <ParaText id="7315205">What do we need to do if we are serious? We do not need band-aid solutions. We need long-term solutions, anticipating that we may well be in a recession. Let us look at a wealth tax. We need to go back and look at a general wealth tax, but specifically let us look at a windfall tax on oil and gas profits. Oil and gas profits due to the war in Ukraine have had unbelievable gains.</ParaText>
               <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
               <ParaText id="7315206">I have come to the end of my time. We need to tax back.</ParaText>
@@ -3996,6 +3978,7 @@
         <CatchLine>Government Orders</CatchLine>
         <SubjectOfBusinessContent>
           <ParaText id="7315273">The House resumed consideration of the motion that Bill <Document DbId="11924004" Type="3">C-30, An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)</Document>, be read the third time and passed.</ParaText>
+          <ProceduralText TocType="TPC" id="19">Bill C-30. Third reading</ProceduralText>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Kusie" id="11837712">
             <PersonSpeaking>
               <Affiliation DbId="278362" Type="2">Mrs. Stephanie Kusie (Calgary Midnapore, CPC)</Affiliation>: </PersonSpeaking>
@@ -4403,7 +4386,7 @@
               <Affiliation DbId="278226" Type="2">Mr. John Nater (Perth—Wellington, CPC)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7315423">moved that Bill <Document DbId="11475760" Type="4">S-227, An Act to establish Food Day in Canada</Document>, be read the second time and referred to a committee.</ParaText>
-              <ProceduralText TocType="TPC" id="19">Bill S-227. Second reading</ProceduralText>
+              <ProceduralText TocType="TPC" id="20">Bill S-227. Second reading</ProceduralText>
               <ParaText id="7315424">He said: Mr. Speaker, it is an honour to rise in the House today to begin debate at second reading of Bill <Document DbId="11475760" Type="4">S-227</Document>, the food day in Canada act. I am especially pleased to begin debate on this bill on what in Ontario is agriculture week. Agriculture week in Ontario is an opportunity to celebrate the amazing farmers and farm families that quite literally grow the food that not only feeds our country but helps to feed the world. In fact, in Ontario, agriculture week was created by one of my constituents and the former local member of provincial parliament for what was then the riding of Perth, Mr. Bert Johnson, so I am especially pleased to begin debate on food day in Canada during agriculture week.</ParaText>
               <ParaText id="7315425">This Senate public bill was first introduced in the other place by the Hon. Rob Black, senator for Wellington County. This bill proposes to establish, each and every year, the Saturday before the first Monday in August as food day in Canada. This day would formally establish food day in Canada. I say “formally” because food day in Canada has been informally celebrated and recognized in Wellington County, in southern Ontario and in some parts across Canada for nearly 20 years. In fact, on this past food day in Canada, on July 30, landmarks across Canada were lit in red and white to celebrate food day in Canada. From the Confederation Building in St. John's, Newfoundland and Labrador, to Vancouver's city hall, and from the Calgary Tower in Calgary, Alberta, to the CN Tower in Toronto, Ontario, these landmarks were lit in red and white to celebrate food in Canada, from the farmer's field to the fork.</ParaText>
               <ParaText id="7315426">I am especially pleased that food day in Canada is being celebrated and championed by all four federal representatives for Wellington County. In addition to being sponsored by me, the House of Commons' sponsor of the bill, and the Hon. Senator Rob Black, representative for Wellington County in the Senate, the bill is supported by the member for <Affiliation DbId="278408" Type="2">Wellington—Halton Hills</Affiliation> and the member for <Affiliation DbId="278331" Type="2">Guelph</Affiliation>. It is obviously not a partisan bill, but one we can all unite behind to celebrate food day in Canada.</ParaText>
@@ -4560,7 +4543,7 @@
             <PersonSpeaking>
               <Affiliation DbId="279289" Type="18">Mr. Francis Drouin (Parliamentary Secretary to the Minister of Agriculture and Agri-Food, Lib.)</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7315476">Mr. Speaker, I am so proud to stand up for the opportunity to discuss Bill <Document DbId="11475760" Type="4">S-227</Document> to establish a national food day in Canada on the first Saturday of August. In Ontario, that always represents a long weekend.</ParaText>
+              <ParaText id="7315476">Mr. Speaker, I am so proud to stand up for the opportunity to discuss Bill <Document DbId="11475760" Type="4">S-227</Document> to establish a national food day in Canada on the Saturday before the first Monday in August. In Ontario, that always represents a long weekend.</ParaText>
               <ParaText id="7315477">I want to thank Senator Black and the member for <Affiliation DbId="278226" Type="2">Perth—Wellington</Affiliation> for sponsoring this particular bill. I know they live in a beautiful region. For me, there would be no reason to be in that region other than love. My in-laws are from there, from Hensall in particular, but I drive through Perth to get to Huron—Bruce. There is always a great opportunity for me to go there for occasions. Obviously food is always part of that discussion.</ParaText>
               <ParaText id="7315478">I also want to take this opportunity to thank my father-in-law, Bob Forrest, who has always educated me on food. He is a farmer and taught with Senator Black at a local community college in the Hensall area. He always has great advice on particular food policies, so I want to thank him.</ParaText>
               <ParaText id="7315479">I want to thank Senator Black as well for having the audacity to present such an important bill. I think the member for <Affiliation DbId="278226" Type="2">Perth—Wellington</Affiliation> did such an amazing job at describing what Dr. Anita Stewart put forward and the reasons she did that. I do not think I need to go back to that, because the member for Perth—Wellington did an excellent job with it.</ParaText>
@@ -4569,7 +4552,7 @@
               <ParaText id="7315482">That is what food day will be all about. It will be about celebrating what our local farmers are doing and what our local chefs are doing. I love the fact that it is not just about the franchisees across Canada that are doing this. We are also seeing a rural renaissance of local chefs who are using locally grown food. I want to thank them for thinking about that.</ParaText>
               <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
               <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
-              <ParaText id="7315483">When I talk about agriculture or the bill to establish the first Monday in August as food day in Canada, I think about the Poirier berry farm back home, which grows raspberries. They are not necessarily the red raspberries that we find in supermarkets or grocery stores. They are special raspberries.</ParaText>
+              <ParaText id="7315483">When I talk about agriculture or the bill to establish the Saturday before the first Monday in August as food day in Canada, I think about the Poirier berry farm back home, which grows raspberries. They are not necessarily the red raspberries that we find in supermarkets or grocery stores. They are special raspberries.</ParaText>
               <ParaText id="7315484">I want to thank Claude for his considerable efforts to promote local agriculture and create events on his farm that bring together people who work in the agri-food industry locally. I am thinking about the Eastern Ontario Agri-Food Network, which also promotes local food. I am also thinking about other stakeholders in our community.</ParaText>
               <ParaText id="7315485">I could not talk about agriculture and food without mentioning St. Albert cheese, a co‑operative that supports our local farmers and dairy producers. The member for <Affiliation DbId="278226" Type="2">Perth—Wellington</Affiliation> mentioned that he too has the opportunity to represent them, since his riding has the largest number of dairy, egg and poultry producers.</ParaText>
               <ParaText id="7315486">I too have this opportunity in my riding. I am very proud of it, and I am very aware that our dairy farmers get up every morning to milk the cows. They do it again every evening.</ParaText>
@@ -4589,7 +4572,7 @@
               <Affiliation DbId="278712" Type="2">Mr. Alistair MacGregor (Cowichan—Malahat—Langford, NDP)</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7315494">Mr. Speaker, before I begin my remarks, I want to acknowledge and thank my colleagues in the Bloc Québécois, who switched their spot with me so that I would be able to make committee tonight at 6:30 p.m.</ParaText>
-              <ParaText id="7315495">I am very proud to be speaking to Bill <Document DbId="11475760" Type="4">S-227</Document>, and I want to acknowledge the member for <Affiliation DbId="278226" Type="2">Perth—Wellington</Affiliation> for sponsoring it here in the House fo Commons, but also Senator Rob Black. I have known Senator Black for a little while now, and he and I share a definite passion for farming and soil health. It is nice to see that we have those kinds of champions not only for our agricultural sector, but for the key role that it plays in establishing food security in Canada. They recognize that farmers are going to be one of our greatest tools in effectively combatting climate change.</ParaText>
+              <ParaText id="7315495">I am very proud to be speaking to Bill <Document DbId="11475760" Type="4">S-227</Document>, and I want to acknowledge the member for <Affiliation DbId="278226" Type="2">Perth—Wellington</Affiliation> for sponsoring it here in the House of Commons, but also Senator Rob Black. I have known Senator Black for a little while now, and he and I share a definite passion for farming and soil health. It is nice to see that we have those kinds of champions not only for our agricultural sector, but for the key role that it plays in establishing food security in Canada. They recognize that farmers are going to be one of our greatest tools in effectively combatting climate change.</ParaText>
               <ParaText id="7315496">As I mentioned in my intervention with the member for <Affiliation DbId="278226" Type="2">Perth—Wellington</Affiliation>, this bill is no stranger to Parliament. We have seen several versions of it over several Parliaments. I also want to acknowledge the former member for Kootenay—Columbia, Wayne Stetski, who was a colleague of mine for four years in this place during the 42nd Parliament. He introduced what I believe was Bill <Document DbId="8295862" Type="4">C-281</Document>. That bill actually passed through the House of Commons before arriving at the Senate, but unfortunately did not go further. I am pleased to see that with this version of the bill, I think we may have enough runway to pass it into law.</ParaText>
               <ParaText id="7315497">I am very proud to be standing here, not only as a proud member representing the great riding of Cowichan—Malahat—Langford, but also as the NDP's agriculture critic. I have been privileged to hold that position for four and a half years now, and for me, agriculture is not work. It is a passion of mine, and I have been incredibly blessed in this role over four and a half years to have spoken with farm organizations from coast to coast to coast. To represent the farmers in my riding, take their feedback and be a part of the national policy discussion on food, food security, agriculture and how well our farmers are doing has been a real privilege.</ParaText>
               <ParaText id="7315498">I am also the owner of a small-scale farming property. It is nowhere near a commercial operation, but even the work on that property has given me a small insight into how hard our farmers actually work. I raise livestock. I have a small flock of chickens and raise ducks. I also have pigs and three elderly sheep. This teaches me a certain level of responsibility. It makes me appreciate that care for animals and the land is something we should all aspire to.</ParaText>
@@ -4718,7 +4701,7 @@
         <SubjectOfBusinessTitle>Committees of the House</SubjectOfBusinessTitle>
         <SubjectOfBusinessQualifier>Health</SubjectOfBusinessQualifier>
         <SubjectOfBusinessContent>
-          <ProceduralText TocType="TPC" id="20">Motion for concurrence</ProceduralText>
+          <ProceduralText TocType="TPC" id="21">Motion for concurrence</ProceduralText>
           <ParaText id="7315566">The House resumed from May 16 consideration of the motion.</ParaText>
           <Intervention Type="Debate" ToC="No" ToCText="Mr. d'Entremont" id="11838472">
             <PersonSpeaking>
@@ -4937,7 +4920,7 @@
             <PersonSpeaking>
               <Affiliation DbId="278252" Type="2">Mrs. Rechie Valdez</Affiliation>: </PersonSpeaking>
             <Content>
-              <ParaText id="7315657">Mr. Speaker, we fully support Taiwan's full participation in the global health network, and I will continue to have Taiwan engaged at the table when we are making decisions, especially with respect to addressing COVID–19 and how we are going to go forward from that disease.</ParaText>
+              <ParaText id="7315657">Mr. Speaker, we fully support Taiwan's full participation in the global health network, and we will continue to have Taiwan engaged at the table when we are making decisions, especially with respect to addressing COVID–19 and how we are going to go forward from that disease.</ParaText>
             </Content>
           </Intervention>
           <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Turnbull" id="11838697">
@@ -5009,7 +4992,7 @@
               <Affiliation DbId="279177" Type="22">The Deputy Speaker</Affiliation>: </PersonSpeaking>
             <Content>
               <ParaText id="7315686">It being 7:40 p.m., pursuant to order made earlier today, the question is deemed put and a recorded division deemed requested and deferred until Wednesday, October 5, at the expiry of the time provided for Oral Questions.</ParaText>
-              <ProceduralText TocType="TPC" id="21">Division on motion deferred</ProceduralText>
+              <ProceduralText TocType="TPC" id="22">Division deemed demanded and deferred</ProceduralText>
             </Content>
           </Intervention>
         </SubjectOfBusinessContent>
